@@ -1,0 +1,4992 @@
+[
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2896269",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8630679",
+        "articleTitle": "Deep Learning for Electromyographic Hand Gesture Signal Classification Using Transfer Learning",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "760",
+        "endPage": "771",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Deep Learning for Electromyographic Hand Gesture Signal Classification Using Transfer Learning",
+        "authors": [
+            {
+                "id": 37086225338,
+                "preferredName": "Ulysse C\u00f4t\u00e9-Allard",
+                "firstName": "Ulysse",
+                "lastName": "C\u00f4t\u00e9-Allard"
+            },
+            {
+                "id": 37085707442,
+                "preferredName": "Cheikh Latyr Fall",
+                "firstName": "Cheikh Latyr",
+                "lastName": "Fall"
+            },
+            {
+                "id": 37086815556,
+                "preferredName": "Alexandre Drouin",
+                "firstName": "Alexandre",
+                "lastName": "Drouin"
+            },
+            {
+                "id": 37085714223,
+                "preferredName": "Alexandre Campeau-Lecours",
+                "firstName": "Alexandre",
+                "lastName": "Campeau-Lecours"
+            },
+            {
+                "id": 37293911800,
+                "preferredName": "Cl\u00e9ment Gosselin",
+                "firstName": "Cl\u00e9ment",
+                "lastName": "Gosselin"
+            },
+            {
+                "id": 37592355900,
+                "preferredName": "Kyrre Glette",
+                "firstName": "Kyrre",
+                "lastName": "Glette"
+            },
+            {
+                "id": 37697849100,
+                "preferredName": "Fran\u00e7ois Laviolette",
+                "firstName": "Fran\u00e7ois",
+                "lastName": "Laviolette"
+            },
+            {
+                "id": 37273527800,
+                "preferredName": "Benoit Gosselin",
+                "firstName": "Benoit",
+                "lastName": "Gosselin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2896659",
+        "publicationYear": "2019",
+        "publicationDate": "March 2019",
+        "articleNumber": "8631195",
+        "articleTitle": "SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging",
+        "volume": "27",
+        "issue": "3",
+        "startPage": "400",
+        "endPage": "410",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging",
+        "authors": [
+            {
+                "id": 37085345126,
+                "preferredName": "Huy Phan",
+                "firstName": "Huy",
+                "lastName": "Phan"
+            },
+            {
+                "id": 37085335304,
+                "preferredName": "Fernando Andreotti",
+                "firstName": "Fernando",
+                "lastName": "Andreotti"
+            },
+            {
+                "id": 37086497083,
+                "preferredName": "Navin Cooray",
+                "firstName": "Navin",
+                "lastName": "Cooray"
+            },
+            {
+                "id": 37086492293,
+                "preferredName": "Oliver Y. Ch\u00e9n",
+                "firstName": "Oliver Y.",
+                "lastName": "Ch\u00e9n"
+            },
+            {
+                "id": 37698130200,
+                "preferredName": "Maarten De Vos",
+                "firstName": "Maarten",
+                "lastName": "De Vos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2938295",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8820089",
+        "articleTitle": "A Multi-Branch 3D Convolutional Neural Network for EEG-Based Motor Imagery Classification",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2164",
+        "endPage": "2177",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Multi-Branch 3D Convolutional Neural Network for EEG-Based Motor Imagery Classification",
+        "authors": [
+            {
+                "id": 37087053313,
+                "preferredName": "Xinqiao Zhao",
+                "firstName": "Xinqiao",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085659714,
+                "preferredName": "Hongmiao Zhang",
+                "firstName": "Hongmiao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37087048562,
+                "preferredName": "Guilin Zhu",
+                "firstName": "Guilin",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37087052575,
+                "preferredName": "Fengxiang You",
+                "firstName": "Fengxiang",
+                "lastName": "You"
+            },
+            {
+                "id": 37086032617,
+                "preferredName": "Shaolong Kuang",
+                "firstName": "Shaolong",
+                "lastName": "Kuang"
+            },
+            {
+                "id": 37273265800,
+                "preferredName": "Lining Sun",
+                "firstName": "Lining",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2018.2884641",
+        "publicationYear": "2019",
+        "publicationDate": "Jan. 2019",
+        "articleNumber": "8556024",
+        "articleTitle": "Learning Spatial\u2013Spectral\u2013Temporal EEG Features With Recurrent 3D Convolutional Neural Networks for Cross-Task Mental Workload Assessment",
+        "volume": "27",
+        "issue": "1",
+        "startPage": "31",
+        "endPage": "42",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Learning Spatial\u2013Spectral\u2013Temporal EEG Features With Recurrent 3D Convolutional Neural Networks for Cross-Task Mental Workload Assessment",
+        "authors": [
+            {
+                "id": 37085595531,
+                "preferredName": "Pengbo Zhang",
+                "firstName": "Pengbo",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37293614200,
+                "preferredName": "Xue Wang",
+                "firstName": "Xue",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086583838,
+                "preferredName": "Weihang Zhang",
+                "firstName": "Weihang",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086586834,
+                "preferredName": "Junfeng Chen",
+                "firstName": "Junfeng",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2915621",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8709723",
+        "articleTitle": "A Channel-Projection Mixed-Scale Convolutional Neural Network for Motor Imagery EEG Decoding",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1170",
+        "endPage": "1180",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Channel-Projection Mixed-Scale Convolutional Neural Network for Motor Imagery EEG Decoding",
+        "authors": [
+            {
+                "id": 37985318400,
+                "preferredName": "Yang Li",
+                "firstName": "Yang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086548968,
+                "preferredName": "Xian-Rui Zhang",
+                "firstName": "Xian-Rui",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088229519,
+                "preferredName": "Bin Zhang",
+                "firstName": "Bin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086365348,
+                "preferredName": "Meng-Ying Lei",
+                "firstName": "Meng-Ying",
+                "lastName": "Lei"
+            },
+            {
+                "id": 37086395208,
+                "preferredName": "Wei-Gang Cui",
+                "firstName": "Wei-Gang",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37086363709,
+                "preferredName": "Yu-Zhu Guo",
+                "firstName": "Yu-Zhu",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2940485",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8832223",
+        "articleTitle": "Deep Multi-View Feature Learning for EEG-Based Epileptic Seizure Detection",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "1962",
+        "endPage": "1972",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Deep Multi-View Feature Learning for EEG-Based Epileptic Seizure Detection",
+        "authors": [
+            {
+                "id": 37087054648,
+                "preferredName": "Xiaobin Tian",
+                "firstName": "Xiaobin",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37397321300,
+                "preferredName": "Zhaohong Deng",
+                "firstName": "Zhaohong",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37085692089,
+                "preferredName": "Wenhao Ying",
+                "firstName": "Wenhao",
+                "lastName": "Ying"
+            },
+            {
+                "id": 37535446600,
+                "preferredName": "Kup-Sze Choi",
+                "firstName": "Kup-Sze",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37693329600,
+                "preferredName": "Dongrui Wu",
+                "firstName": "Dongrui",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37087053829,
+                "preferredName": "Bin Qin",
+                "firstName": "Bin",
+                "lastName": "Qin"
+            },
+            {
+                "id": 38190287700,
+                "preferredName": "Jun Wang",
+                "firstName": "Jun",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37598374000,
+                "preferredName": "Hongbin Shen",
+                "firstName": "Hongbin",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37280445900,
+                "preferredName": "Shitong Wang",
+                "firstName": "Shitong",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2923315",
+        "publicationYear": "2019",
+        "publicationDate": "July 2019",
+        "articleNumber": "8737742",
+        "articleTitle": "Weighted Transfer Learning for Improving Motor Imagery-Based Brain\u2013Computer Interface",
+        "volume": "27",
+        "issue": "7",
+        "startPage": "1352",
+        "endPage": "1359",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Weighted Transfer Learning for Improving Motor Imagery-Based Brain\u2013Computer Interface",
+        "authors": [
+            {
+                "id": 37086055781,
+                "preferredName": "Ahmed M. Azab",
+                "firstName": "Ahmed M.",
+                "lastName": "Azab"
+            },
+            {
+                "id": 37284641500,
+                "preferredName": "Lyudmila Mihaylova",
+                "firstName": "Lyudmila",
+                "lastName": "Mihaylova"
+            },
+            {
+                "id": 37392388500,
+                "preferredName": "Kai Keng Ang",
+                "firstName": "Kai Keng",
+                "lastName": "Ang"
+            },
+            {
+                "id": 37712094800,
+                "preferredName": "Mahnaz Arvaneh",
+                "firstName": "Mahnaz",
+                "lastName": "Arvaneh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2943707",
+        "publicationYear": "2019",
+        "publicationDate": "Nov. 2019",
+        "articleNumber": "8848612",
+        "articleTitle": "Seizure Prediction in Scalp EEG Using 3D Convolutional Neural Networks With an Image-Based Approach",
+        "volume": "27",
+        "issue": "11",
+        "startPage": "2284",
+        "endPage": "2293",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Seizure Prediction in Scalp EEG Using 3D Convolutional Neural Networks With an Image-Based Approach",
+        "authors": [
+            {
+                "id": 37086092862,
+                "preferredName": "Ahmet Remzi Ozcan",
+                "firstName": "Ahmet Remzi",
+                "lastName": "Ozcan"
+            },
+            {
+                "id": 37267855900,
+                "preferredName": "Sarp Erturk",
+                "firstName": "Sarp",
+                "lastName": "Erturk"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2911602",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8692616",
+        "articleTitle": "A Patient-Specific Single Sensor IoT-Based Wearable Fall Prediction and Detection System",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "995",
+        "endPage": "1003",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Patient-Specific Single Sensor IoT-Based Wearable Fall Prediction and Detection System",
+        "authors": [
+            {
+                "id": 37085579650,
+                "preferredName": "Wala Saadeh",
+                "firstName": "Wala",
+                "lastName": "Saadeh"
+            },
+            {
+                "id": 37086831132,
+                "preferredName": "Saad Adnan Butt",
+                "firstName": "Saad Adnan",
+                "lastName": "Butt"
+            },
+            {
+                "id": 37996809800,
+                "preferredName": "Muhammad Awais Bin Altaf",
+                "firstName": "Muhammad Awais Bin",
+                "lastName": "Altaf"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2909585",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8682077",
+        "articleTitle": "A CNN-Based Method for Intent Recognition Using Inertial Measurement Units and Intelligent Lower Limb Prosthesis",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "1032",
+        "endPage": "1042",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A CNN-Based Method for Intent Recognition Using Inertial Measurement Units and Intelligent Lower Limb Prosthesis",
+        "authors": [
+            {
+                "id": 37664042300,
+                "preferredName": "Ben-Yue Su",
+                "firstName": "Ben-Yue",
+                "lastName": "Su"
+            },
+            {
+                "id": 37086832687,
+                "preferredName": "Jie Wang",
+                "firstName": "Jie",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086831230,
+                "preferredName": "Shuang-Qing Liu",
+                "firstName": "Shuang-Qing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086246418,
+                "preferredName": "Min Sheng",
+                "firstName": "Min",
+                "lastName": "Sheng"
+            },
+            {
+                "id": 37734494100,
+                "preferredName": "Jing Jiang",
+                "firstName": "Jing",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37666157900,
+                "preferredName": "Kui Xiang",
+                "firstName": "Kui",
+                "lastName": "Xiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2894423",
+        "publicationYear": "2019",
+        "publicationDate": "March 2019",
+        "articleNumber": "8624575",
+        "articleTitle": "Graph Theory Analysis of Functional Connectivity in Major Depression Disorder With High-Density Resting State EEG Data",
+        "volume": "27",
+        "issue": "3",
+        "startPage": "429",
+        "endPage": "439",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Graph Theory Analysis of Functional Connectivity in Major Depression Disorder With High-Density Resting State EEG Data",
+        "authors": [
+            {
+                "id": 37086147948,
+                "preferredName": "Shuting Sun",
+                "firstName": "Shuting",
+                "lastName": "Sun"
+            },
+            {
+                "id": 38107842400,
+                "preferredName": "Xiaowei Li",
+                "firstName": "Xiaowei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086797953,
+                "preferredName": "Jing Zhu",
+                "firstName": "Jing",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37086606425,
+                "preferredName": "Ying Wang",
+                "firstName": "Ying",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086598993,
+                "preferredName": "Rong La",
+                "firstName": "Rong",
+                "lastName": "La"
+            },
+            {
+                "id": 37310006900,
+                "preferredName": "Xuemin Zhang",
+                "firstName": "Xuemin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086804753,
+                "preferredName": "Liuqing Wei",
+                "firstName": "Liuqing",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37307887900,
+                "preferredName": "Bin Hu",
+                "firstName": "Bin",
+                "lastName": "Hu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2895221",
+        "publicationYear": "2019",
+        "publicationDate": "March 2019",
+        "articleNumber": "8626514",
+        "articleTitle": "Environmental Features Recognition for Lower Limb Prostheses Toward Predictive Walking",
+        "volume": "27",
+        "issue": "3",
+        "startPage": "465",
+        "endPage": "476",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Environmental Features Recognition for Lower Limb Prostheses Toward Predictive Walking",
+        "authors": [
+            {
+                "id": 37086497190,
+                "preferredName": "Kuangen Zhang",
+                "firstName": "Kuangen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 38252051800,
+                "preferredName": "Caihua Xiong",
+                "firstName": "Caihua",
+                "lastName": "Xiong"
+            },
+            {
+                "id": 37086802239,
+                "preferredName": "Wen Zhang",
+                "firstName": "Wen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086803432,
+                "preferredName": "Haiyuan Liu",
+                "firstName": "Haiyuan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086802967,
+                "preferredName": "Daoyuan Lai",
+                "firstName": "Daoyuan",
+                "lastName": "Lai"
+            },
+            {
+                "id": 37086803177,
+                "preferredName": "Yiming Rong",
+                "firstName": "Yiming",
+                "lastName": "Rong"
+            },
+            {
+                "id": 37086455883,
+                "preferredName": "Chenglong Fu",
+                "firstName": "Chenglong",
+                "lastName": "Fu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2900725",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8649716",
+        "articleTitle": "Differentiation of Schizophrenia by Combining the Spatial EEG Brain Network Patterns of Rest and Task P300",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "594",
+        "endPage": "602",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Differentiation of Schizophrenia by Combining the Spatial EEG Brain Network Patterns of Rest and Task P300",
+        "authors": [
+            {
+                "id": 37085700975,
+                "preferredName": "Fali Li",
+                "firstName": "Fali",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088730342,
+                "preferredName": "Jiuju Wang",
+                "firstName": "Jiuju",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086538076,
+                "preferredName": "Yuanyuan Liao",
+                "firstName": "Yuanyuan",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37086540454,
+                "preferredName": "Chanlin Yi",
+                "firstName": "Chanlin",
+                "lastName": "Yi"
+            },
+            {
+                "id": 37086540074,
+                "preferredName": "Yuanling Jiang",
+                "firstName": "Yuanling",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37086542068,
+                "preferredName": "Yajing Si",
+                "firstName": "Yajing",
+                "lastName": "Si"
+            },
+            {
+                "id": 37088743208,
+                "preferredName": "Wenjing Peng",
+                "firstName": "Wenjing",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37287473700,
+                "preferredName": "Dezhong Yao",
+                "firstName": "Dezhong",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37086373774,
+                "preferredName": "Yangsong Zhang",
+                "firstName": "Yangsong",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085557783,
+                "preferredName": "Wentian Dong",
+                "firstName": "Wentian",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37286962200,
+                "preferredName": "Peng Xu",
+                "firstName": "Peng",
+                "lastName": "Xu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2944655",
+        "publicationYear": "2019",
+        "publicationDate": "Nov. 2019",
+        "articleNumber": "8853289",
+        "articleTitle": "Academic Review and Perspectives on Robotic Exoskeletons",
+        "volume": "27",
+        "issue": "11",
+        "startPage": "2294",
+        "endPage": "2304",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Academic Review and Perspectives on Robotic Exoskeletons",
+        "authors": [
+            {
+                "id": 37293572700,
+                "preferredName": "Guanjun Bao",
+                "firstName": "Guanjun",
+                "lastName": "Bao"
+            },
+            {
+                "id": 37086585232,
+                "preferredName": "Lufeng Pan",
+                "firstName": "Lufeng",
+                "lastName": "Pan"
+            },
+            {
+                "id": 37087085128,
+                "preferredName": "Hui Fang",
+                "firstName": "Hui",
+                "lastName": "Fang"
+            },
+            {
+                "id": 37293518700,
+                "preferredName": "Xinyu Wu",
+                "firstName": "Xinyu",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37711526800,
+                "preferredName": "Haoyong Yu",
+                "firstName": "Haoyong",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37085344393,
+                "preferredName": "Shibo Cai",
+                "firstName": "Shibo",
+                "lastName": "Cai"
+            },
+            {
+                "id": 37087085794,
+                "preferredName": "Bingqing Yu",
+                "firstName": "Bingqing",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37656317800,
+                "preferredName": "Yuehua Wan",
+                "firstName": "Yuehua",
+                "lastName": "Wan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2909100",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8681406",
+        "articleTitle": "A Dementia Classification Framework Using Frequency and Time-Frequency Features Based on EEG Signals",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "826",
+        "endPage": "835",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Dementia Classification Framework Using Frequency and Time-Frequency Features Based on EEG Signals",
+        "authors": [
+            {
+                "id": 37086832990,
+                "preferredName": "Pholpat Durongbhan",
+                "firstName": "Pholpat",
+                "lastName": "Durongbhan"
+            },
+            {
+                "id": 37086183998,
+                "preferredName": "Yifan Zhao",
+                "firstName": "Yifan",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37087723116,
+                "preferredName": "Liangyu Chen",
+                "firstName": "Liangyu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087725460,
+                "preferredName": "Panagiotis Zis",
+                "firstName": "Panagiotis",
+                "lastName": "Zis"
+            },
+            {
+                "id": 37087722599,
+                "preferredName": "Matteo De Marco",
+                "firstName": "Matteo",
+                "lastName": "De Marco"
+            },
+            {
+                "id": 37087723211,
+                "preferredName": "Zoe C. Unwin",
+                "firstName": "Zoe C.",
+                "lastName": "Unwin"
+            },
+            {
+                "id": 37086391539,
+                "preferredName": "Annalena Venneri",
+                "firstName": "Annalena",
+                "lastName": "Venneri"
+            },
+            {
+                "id": 37280960300,
+                "preferredName": "Xiongxiong He",
+                "firstName": "Xiongxiong",
+                "lastName": "He"
+            },
+            {
+                "id": 37090021165,
+                "preferredName": "Sheng Li",
+                "firstName": "Sheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085436625,
+                "preferredName": "Yitian Zhao",
+                "firstName": "Yitian",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37086831365,
+                "preferredName": "Daniel J. Blackburn",
+                "firstName": "Daniel J.",
+                "lastName": "Blackburn"
+            },
+            {
+                "id": 37071141500,
+                "preferredName": "Ptolemaios G. Sarrigiannis",
+                "firstName": "Ptolemaios G.",
+                "lastName": "Sarrigiannis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2930082",
+        "publicationYear": "2019",
+        "publicationDate": "Sept. 2019",
+        "articleNumber": "8767030",
+        "articleTitle": "Mental Workload Drives Different Reorganizations of Functional Cortical Connectivity Between 2D and 3D Simulated Flight Experiments",
+        "volume": "27",
+        "issue": "9",
+        "startPage": "1704",
+        "endPage": "1713",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Mental Workload Drives Different Reorganizations of Functional Cortical Connectivity Between 2D and 3D Simulated Flight Experiments",
+        "authors": [
+            {
+                "id": 37086023683,
+                "preferredName": "Ioannis Kakkos",
+                "firstName": "Ioannis",
+                "lastName": "Kakkos"
+            },
+            {
+                "id": 37082446600,
+                "preferredName": "Georgios N. Dimitrakopoulos",
+                "firstName": "Georgios N.",
+                "lastName": "Dimitrakopoulos"
+            },
+            {
+                "id": 37086835670,
+                "preferredName": "Lingyun Gao",
+                "firstName": "Lingyun",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37086023713,
+                "preferredName": "Yuan Zhang",
+                "firstName": "Yuan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085342733,
+                "preferredName": "Peng Qi",
+                "firstName": "Peng",
+                "lastName": "Qi"
+            },
+            {
+                "id": 37276010900,
+                "preferredName": "George K. Matsopoulos",
+                "firstName": "George K.",
+                "lastName": "Matsopoulos"
+            },
+            {
+                "id": 37275752200,
+                "preferredName": "Nitish Thakor",
+                "firstName": "Nitish",
+                "lastName": "Thakor"
+            },
+            {
+                "id": 37267832500,
+                "preferredName": "Anastasios Bezerianos",
+                "firstName": "Anastasios",
+                "lastName": "Bezerianos"
+            },
+            {
+                "id": 37075114900,
+                "preferredName": "Yu Sun",
+                "firstName": "Yu",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2904924",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8667351",
+        "articleTitle": "Design of a Low Profile, Unpowered Ankle Exoskeleton That Fits Under Clothes: Overcoming Practical Barriers to Widespread Societal Adoption",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "712",
+        "endPage": "723",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Design of a Low Profile, Unpowered Ankle Exoskeleton That Fits Under Clothes: Overcoming Practical Barriers to Widespread Societal Adoption",
+        "authors": [
+            {
+                "id": 37086811268,
+                "preferredName": "Matthew B. Yandell",
+                "firstName": "Matthew B.",
+                "lastName": "Yandell"
+            },
+            {
+                "id": 37086815548,
+                "preferredName": "Joshua R. Tacca",
+                "firstName": "Joshua R.",
+                "lastName": "Tacca"
+            },
+            {
+                "id": 37704832000,
+                "preferredName": "Karl E. Zelik",
+                "firstName": "Karl E.",
+                "lastName": "Zelik"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2905658",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8668695",
+        "articleTitle": "Hand Gesture Recognition and Finger Angle Estimation via Wrist-Worn Modified Barometric Pressure Sensing",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "724",
+        "endPage": "732",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Hand Gesture Recognition and Finger Angle Estimation via Wrist-Worn Modified Barometric Pressure Sensing",
+        "authors": [
+            {
+                "id": 37394590300,
+                "preferredName": "Peter B. Shull",
+                "firstName": "Peter B.",
+                "lastName": "Shull"
+            },
+            {
+                "id": 37086100516,
+                "preferredName": "Shuo Jiang",
+                "firstName": "Shuo",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37086361269,
+                "preferredName": "Yuhui Zhu",
+                "firstName": "Yuhui",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37278847400,
+                "preferredName": "Xiangyang Zhu",
+                "firstName": "Xiangyang",
+                "lastName": "Zhu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2908955",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8680043",
+        "articleTitle": "On the Vulnerability of CNN Classifiers in EEG-Based BCIs",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "814",
+        "endPage": "825",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "On the Vulnerability of CNN Classifiers in EEG-Based BCIs",
+        "authors": [
+            {
+                "id": 37086343464,
+                "preferredName": "Xiao Zhang",
+                "firstName": "Xiao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37693329600,
+                "preferredName": "Dongrui Wu",
+                "firstName": "Dongrui",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2922713",
+        "publicationYear": "2019",
+        "publicationDate": "July 2019",
+        "articleNumber": "8736402",
+        "articleTitle": "Frequency-Optimized Local Region Common Spatial Pattern Approach for Motor Imagery Classification",
+        "volume": "27",
+        "issue": "7",
+        "startPage": "1378",
+        "endPage": "1388",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Frequency-Optimized Local Region Common Spatial Pattern Approach for Motor Imagery Classification",
+        "authors": [
+            {
+                "id": 37086348455,
+                "preferredName": "Yongkoo Park",
+                "firstName": "Yongkoo",
+                "lastName": "Park"
+            },
+            {
+                "id": 37280299800,
+                "preferredName": "Wonzoo Chung",
+                "firstName": "Wonzoo",
+                "lastName": "Chung"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2914916",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8708258",
+        "articleTitle": "An Asynchronous Hybrid Spelling Approach Based on EEG\u2013EOG Signals for Chinese Character Input",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1292",
+        "endPage": "1302",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "An Asynchronous Hybrid Spelling Approach Based on EEG\u2013EOG Signals for Chinese Character Input",
+        "authors": [
+            {
+                "id": 37085551603,
+                "preferredName": "Yang Yu",
+                "firstName": "Yang",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37405160900,
+                "preferredName": "Yadong Liu",
+                "firstName": "Yadong",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085373327,
+                "preferredName": "Erwei Yin",
+                "firstName": "Erwei",
+                "lastName": "Yin"
+            },
+            {
+                "id": 38065752400,
+                "preferredName": "Jun Jiang",
+                "firstName": "Jun",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37404367000,
+                "preferredName": "Zongtan Zhou",
+                "firstName": "Zongtan",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37271079500,
+                "preferredName": "Dewen Hu",
+                "firstName": "Dewen",
+                "lastName": "Hu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2905979",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8669971",
+        "articleTitle": "Proportional Joint-Moment Control for Instantaneously Adaptive Ankle Exoskeleton Assistance",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "751",
+        "endPage": "759",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Proportional Joint-Moment Control for Instantaneously Adaptive Ankle Exoskeleton Assistance",
+        "authors": [
+            {
+                "id": 37085344296,
+                "preferredName": "Gian Maria Gasparri",
+                "firstName": "Gian Maria",
+                "lastName": "Gasparri"
+            },
+            {
+                "id": 37086483372,
+                "preferredName": "Jason Luque",
+                "firstName": "Jason",
+                "lastName": "Luque"
+            },
+            {
+                "id": 37085768418,
+                "preferredName": "Zachary F. Lerner",
+                "firstName": "Zachary F.",
+                "lastName": "Lerner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2018.2885283",
+        "publicationYear": "2019",
+        "publicationDate": "Jan. 2019",
+        "articleNumber": "8579211",
+        "articleTitle": "Motor Unit Identification From High-Density Surface Electromyograms in Repeated Dynamic Muscle Contractions",
+        "volume": "27",
+        "issue": "1",
+        "startPage": "66",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Motor Unit Identification From High-Density Surface Electromyograms in Repeated Dynamic Muscle Contractions",
+        "authors": [
+            {
+                "id": 38228573500,
+                "preferredName": "Vojko Glaser",
+                "firstName": "Vojko",
+                "lastName": "Glaser"
+            },
+            {
+                "id": 37084468200,
+                "preferredName": "Ale\u0161 Holobar",
+                "firstName": "Ale\u0161",
+                "lastName": "Holobar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2923060",
+        "publicationYear": "2019",
+        "publicationDate": "July 2019",
+        "articleNumber": "8736767",
+        "articleTitle": "The KIMORE Dataset: KInematic Assessment of MOvement and Clinical Scores for Remote Monitoring of Physical REhabilitation",
+        "volume": "27",
+        "issue": "7",
+        "startPage": "1436",
+        "endPage": "1448",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "The KIMORE Dataset: KInematic Assessment of MOvement and Clinical Scores for Remote Monitoring of Physical REhabilitation",
+        "authors": [
+            {
+                "id": 37085362753,
+                "preferredName": "Marianna Capecci",
+                "firstName": "Marianna",
+                "lastName": "Capecci"
+            },
+            {
+                "id": 37085352384,
+                "preferredName": "Maria Gabriella Ceravolo",
+                "firstName": "Maria Gabriella",
+                "lastName": "Ceravolo"
+            },
+            {
+                "id": 38016031100,
+                "preferredName": "Francesco Ferracuti",
+                "firstName": "Francesco",
+                "lastName": "Ferracuti"
+            },
+            {
+                "id": 37085356447,
+                "preferredName": "Sabrina Iarlori",
+                "firstName": "Sabrina",
+                "lastName": "Iarlori"
+            },
+            {
+                "id": 37546782400,
+                "preferredName": "Andrea Monteri\u00f9",
+                "firstName": "Andrea",
+                "lastName": "Monteri\u00f9"
+            },
+            {
+                "id": 37085557754,
+                "preferredName": "Luca Romeo",
+                "firstName": "Luca",
+                "lastName": "Romeo"
+            },
+            {
+                "id": 37085367278,
+                "preferredName": "Federica Verdini",
+                "firstName": "Federica",
+                "lastName": "Verdini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2913400",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8700226",
+        "articleTitle": "Spectral and Temporal Feature Learning With Two-Stream Neural Networks for Mental Workload Assessment",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1149",
+        "endPage": "1159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Spectral and Temporal Feature Learning With Two-Stream Neural Networks for Mental Workload Assessment",
+        "authors": [
+            {
+                "id": 37085595531,
+                "preferredName": "Pengbo Zhang",
+                "firstName": "Pengbo",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37293614200,
+                "preferredName": "Xue Wang",
+                "firstName": "Xue",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086586834,
+                "preferredName": "Junfeng Chen",
+                "firstName": "Junfeng",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086853468,
+                "preferredName": "Wei You",
+                "firstName": "Wei",
+                "lastName": "You"
+            },
+            {
+                "id": 37086583838,
+                "preferredName": "Weihang Zhang",
+                "firstName": "Weihang",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2924742",
+        "publicationYear": "2019",
+        "publicationDate": "Aug. 2019",
+        "articleNumber": "8744559",
+        "articleTitle": "Prognostic and Monitory EEG-Biomarkers for BCI Upper-Limb Stroke Rehabilitation",
+        "volume": "27",
+        "issue": "8",
+        "startPage": "1654",
+        "endPage": "1664",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Prognostic and Monitory EEG-Biomarkers for BCI Upper-Limb Stroke Rehabilitation",
+        "authors": [
+            {
+                "id": 37086493107,
+                "preferredName": "Ravikiran Mane",
+                "firstName": "Ravikiran",
+                "lastName": "Mane"
+            },
+            {
+                "id": 37583377700,
+                "preferredName": "Effie Chew",
+                "firstName": "Effie",
+                "lastName": "Chew"
+            },
+            {
+                "id": 37580002800,
+                "preferredName": "Kok Soon Phua",
+                "firstName": "Kok Soon",
+                "lastName": "Phua"
+            },
+            {
+                "id": 37392388500,
+                "preferredName": "Kai Keng Ang",
+                "firstName": "Kai Keng",
+                "lastName": "Ang"
+            },
+            {
+                "id": 38232047800,
+                "preferredName": "Neethu Robinson",
+                "firstName": "Neethu",
+                "lastName": "Robinson"
+            },
+            {
+                "id": 37266671600,
+                "preferredName": "A. P. Vinod",
+                "firstName": "A. P.",
+                "lastName": "Vinod"
+            },
+            {
+                "id": 37269144300,
+                "preferredName": "Cuntai Guan",
+                "firstName": "Cuntai",
+                "lastName": "Guan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2927094",
+        "publicationYear": "2019",
+        "publicationDate": "Aug. 2019",
+        "articleNumber": "8756013",
+        "articleTitle": "Design Optimization in Lower Limb Prostheses: A Review",
+        "volume": "27",
+        "issue": "8",
+        "startPage": "1574",
+        "endPage": "1588",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Design Optimization in Lower Limb Prostheses: A Review",
+        "authors": [
+            {
+                "id": 37085821829,
+                "preferredName": "Mark A. Price",
+                "firstName": "Mark A.",
+                "lastName": "Price"
+            },
+            {
+                "id": 38469759000,
+                "preferredName": "Philipp Beckerle",
+                "firstName": "Philipp",
+                "lastName": "Beckerle"
+            },
+            {
+                "id": 37596693500,
+                "preferredName": "Frank C. Sup",
+                "firstName": "Frank C.",
+                "lastName": "Sup"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2911970",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8693868",
+        "articleTitle": "A Single-Channel EEG-Based Approach to Detect Mild Cognitive Impairment via Speech-Evoked Brain Responses",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "1063",
+        "endPage": "1070",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Single-Channel EEG-Based Approach to Detect Mild Cognitive Impairment via Speech-Evoked Brain Responses",
+        "authors": [
+            {
+                "id": 37085532046,
+                "preferredName": "Saleha Khatun",
+                "firstName": "Saleha",
+                "lastName": "Khatun"
+            },
+            {
+                "id": 37562917500,
+                "preferredName": "Bashir I. Morshed",
+                "firstName": "Bashir I.",
+                "lastName": "Morshed"
+            },
+            {
+                "id": 37085355451,
+                "preferredName": "Gavin M. Bidelman",
+                "firstName": "Gavin M.",
+                "lastName": "Bidelman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2913799",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8701676",
+        "articleTitle": "EEG Classification During Scene Free-Viewing for Schizophrenia Detection",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1193",
+        "endPage": "1199",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "EEG Classification During Scene Free-Viewing for Schizophrenia Detection",
+        "authors": [
+            {
+                "id": 37705973600,
+                "preferredName": "Christ Devia",
+                "firstName": "Christ",
+                "lastName": "Devia"
+            },
+            {
+                "id": 37086852804,
+                "preferredName": "Roc\u00edo Mayol-Troncoso",
+                "firstName": "Roc\u00edo",
+                "lastName": "Mayol-Troncoso"
+            },
+            {
+                "id": 37086852847,
+                "preferredName": "Javiera Parrini",
+                "firstName": "Javiera",
+                "lastName": "Parrini"
+            },
+            {
+                "id": 37085546895,
+                "preferredName": "Gricel Orellana",
+                "firstName": "Gricel",
+                "lastName": "Orellana"
+            },
+            {
+                "id": 37086851305,
+                "preferredName": "A\u00edda Ruiz",
+                "firstName": "A\u00edda",
+                "lastName": "Ruiz"
+            },
+            {
+                "id": 37718652900,
+                "preferredName": "Pedro E. Maldonado",
+                "firstName": "Pedro E.",
+                "lastName": "Maldonado"
+            },
+            {
+                "id": 37086851603,
+                "preferredName": "Jos\u00e9 Ignacio Ega\u00f1a",
+                "firstName": "Jos\u00e9 Ignacio",
+                "lastName": "Ega\u00f1a"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2945794",
+        "publicationYear": "2019",
+        "publicationDate": "Nov. 2019",
+        "articleNumber": "8861135",
+        "articleTitle": "EEG-Based Driver Drowsiness Estimation Using Feature Weighted Episodic Training",
+        "volume": "27",
+        "issue": "11",
+        "startPage": "2263",
+        "endPage": "2273",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "EEG-Based Driver Drowsiness Estimation Using Feature Weighted Episodic Training",
+        "authors": [
+            {
+                "id": 37086993952,
+                "preferredName": "Yuqi Cui",
+                "firstName": "Yuqi",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37086993245,
+                "preferredName": "Yifan Xu",
+                "firstName": "Yifan",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37693329600,
+                "preferredName": "Dongrui Wu",
+                "firstName": "Dongrui",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2891004",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8637985",
+        "articleTitle": "Synergy-Based FES for Post-Stroke Rehabilitation of Upper-Limb Motor Functions",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "256",
+        "endPage": "264",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Synergy-Based FES for Post-Stroke Rehabilitation of Upper-Limb Motor Functions",
+        "authors": [
+            {
+                "id": 37085906562,
+                "preferredName": "Chuanxin M. Niu",
+                "firstName": "Chuanxin M.",
+                "lastName": "Niu"
+            },
+            {
+                "id": 37086129157,
+                "preferredName": "Yong Bao",
+                "firstName": "Yong",
+                "lastName": "Bao"
+            },
+            {
+                "id": 37085458240,
+                "preferredName": "Cheng Zhuang",
+                "firstName": "Cheng",
+                "lastName": "Zhuang"
+            },
+            {
+                "id": 37085411193,
+                "preferredName": "Si Li",
+                "firstName": "Si",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086492635,
+                "preferredName": "Tong Wang",
+                "firstName": "Tong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086618385,
+                "preferredName": "Lijun Cui",
+                "firstName": "Lijun",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37085902710,
+                "preferredName": "Qing Xie",
+                "firstName": "Qing",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37324711800,
+                "preferredName": "Ning Lan",
+                "firstName": "Ning",
+                "lastName": "Lan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2939655",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8825807",
+        "articleTitle": "Modulation Effect of Acupuncture on Functional Brain Networks and Classification of Its Manipulation With EEG Signals",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "1973",
+        "endPage": "1984",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Modulation Effect of Acupuncture on Functional Brain Networks and Classification of Its Manipulation With EEG Signals",
+        "authors": [
+            {
+                "id": 37982018100,
+                "preferredName": "Haitao Yu",
+                "firstName": "Haitao",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37085880303,
+                "preferredName": "Xiang Li",
+                "firstName": "Xiang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37087053055,
+                "preferredName": "Xinyu Lei",
+                "firstName": "Xinyu",
+                "lastName": "Lei"
+            },
+            {
+                "id": 37085374696,
+                "preferredName": "Jiang Wang",
+                "firstName": "Jiang",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2937000",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8809715",
+        "articleTitle": "A Multi-Mode Rehabilitation Robot With Magnetorheological Actuators Based on Human Motion Intention Estimation",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2216",
+        "endPage": "2228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Multi-Mode Rehabilitation Robot With Magnetorheological Actuators Based on Human Motion Intention Estimation",
+        "authors": [
+            {
+                "id": 37086448154,
+                "preferredName": "Jiajun Xu",
+                "firstName": "Jiajun",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37279884400,
+                "preferredName": "Youfu Li",
+                "firstName": "Youfu",
+                "lastName": "Li"
+            },
+            {
+                "id": 38469196400,
+                "preferredName": "Linsen Xu",
+                "firstName": "Linsen",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37086958318,
+                "preferredName": "Chen Peng",
+                "firstName": "Chen",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37086932109,
+                "preferredName": "Shouqi Chen",
+                "firstName": "Shouqi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086448813,
+                "preferredName": "Jinfu Liu",
+                "firstName": "Jinfu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086932295,
+                "preferredName": "Chanchan Xu",
+                "firstName": "Chanchan",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37086929260,
+                "preferredName": "Gaoxin Cheng",
+                "firstName": "Gaoxin",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37086930539,
+                "preferredName": "Hong Xu",
+                "firstName": "Hong",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37086962998,
+                "preferredName": "Yang Liu",
+                "firstName": "Yang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086963106,
+                "preferredName": "Jian Chen",
+                "firstName": "Jian",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2937929",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8815894",
+        "articleTitle": "Comparing EMG-Based Human-Machine Interfaces for Estimating Continuous, Coordinated Movements",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2145",
+        "endPage": "2154",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Comparing EMG-Based Human-Machine Interfaces for Estimating Continuous, Coordinated Movements",
+        "authors": [
+            {
+                "id": 37086195888,
+                "preferredName": "Lizhi Pan",
+                "firstName": "Lizhi",
+                "lastName": "Pan"
+            },
+            {
+                "id": 37085639374,
+                "preferredName": "Dustin L. Crouch",
+                "firstName": "Dustin L.",
+                "lastName": "Crouch"
+            },
+            {
+                "id": 37401091200,
+                "preferredName": "He Huang",
+                "firstName": "He",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2936383",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8805402",
+        "articleTitle": "Heuristic-Based Ankle Exoskeleton Control for Co-Adaptive Assistance of Human Locomotion",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2059",
+        "endPage": "2069",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Heuristic-Based Ankle Exoskeleton Control for Co-Adaptive Assistance of Human Locomotion",
+        "authors": [
+            {
+                "id": 37085518124,
+                "preferredName": "Rachel W. Jackson",
+                "firstName": "Rachel W.",
+                "lastName": "Jackson"
+            },
+            {
+                "id": 37711227200,
+                "preferredName": "Steven H. Collins",
+                "firstName": "Steven H.",
+                "lastName": "Collins"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2924536",
+        "publicationYear": "2019",
+        "publicationDate": "Aug. 2019",
+        "articleNumber": "8744250",
+        "articleTitle": "Subject-Exoskeleton Contact Model Calibration Leads to Accurate Interaction Force Predictions",
+        "volume": "27",
+        "issue": "8",
+        "startPage": "1597",
+        "endPage": "1605",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Subject-Exoskeleton Contact Model Calibration Leads to Accurate Interaction Force Predictions",
+        "authors": [
+            {
+                "id": 37086937233,
+                "preferredName": "Gil Serrancol\u00ed",
+                "firstName": "Gil",
+                "lastName": "Serrancol\u00ed"
+            },
+            {
+                "id": 37086019922,
+                "preferredName": "Antoine Falisse",
+                "firstName": "Antoine",
+                "lastName": "Falisse"
+            },
+            {
+                "id": 37085852622,
+                "preferredName": "Christopher Dembia",
+                "firstName": "Christopher",
+                "lastName": "Dembia"
+            },
+            {
+                "id": 37085424996,
+                "preferredName": "Jonas Vantilt",
+                "firstName": "Jonas",
+                "lastName": "Vantilt"
+            },
+            {
+                "id": 37085727954,
+                "preferredName": "Kevin Tanghe",
+                "firstName": "Kevin",
+                "lastName": "Tanghe"
+            },
+            {
+                "id": 37295410400,
+                "preferredName": "Dirk Lefeber",
+                "firstName": "Dirk",
+                "lastName": "Lefeber"
+            },
+            {
+                "id": 38277810900,
+                "preferredName": "Ilse Jonkers",
+                "firstName": "Ilse",
+                "lastName": "Jonkers"
+            },
+            {
+                "id": 37283056500,
+                "preferredName": "Joris De Schutter",
+                "firstName": "Joris",
+                "lastName": "De Schutter"
+            },
+            {
+                "id": 37551005200,
+                "preferredName": "Friedl De Groote",
+                "firstName": "Friedl",
+                "lastName": "De Groote"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2916397",
+        "publicationYear": "2019",
+        "publicationDate": "July 2019",
+        "articleNumber": "8721271",
+        "articleTitle": "Validation of Polymer-Based Screen-Printed Textile Electrodes for Surface EMG Detection",
+        "volume": "27",
+        "issue": "7",
+        "startPage": "1370",
+        "endPage": "1377",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Validation of Polymer-Based Screen-Printed Textile Electrodes for Surface EMG Detection",
+        "authors": [
+            {
+                "id": 37540587600,
+                "preferredName": "D. Pani",
+                "firstName": "D.",
+                "lastName": "Pani"
+            },
+            {
+                "id": 37086138713,
+                "preferredName": "A. Achilli",
+                "firstName": "A.",
+                "lastName": "Achilli"
+            },
+            {
+                "id": 37085373519,
+                "preferredName": "A. Spanu",
+                "firstName": "A.",
+                "lastName": "Spanu"
+            },
+            {
+                "id": 37317085600,
+                "preferredName": "A. Bonfiglio",
+                "firstName": "A.",
+                "lastName": "Bonfiglio"
+            },
+            {
+                "id": 37085387575,
+                "preferredName": "M. Gazzoni",
+                "firstName": "M.",
+                "lastName": "Gazzoni"
+            },
+            {
+                "id": 37403848500,
+                "preferredName": "A. Botter",
+                "firstName": "A.",
+                "lastName": "Botter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2934828",
+        "publicationYear": "2019",
+        "publicationDate": "Sept. 2019",
+        "articleNumber": "8794840",
+        "articleTitle": "Automatic A-Phase Detection of Cyclic Alternating Patterns in Sleep Using Dynamic Temporal Information",
+        "volume": "27",
+        "issue": "9",
+        "startPage": "1695",
+        "endPage": "1703",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Automatic A-Phase Detection of Cyclic Alternating Patterns in Sleep Using Dynamic Temporal Information",
+        "authors": [
+            {
+                "id": 37086992352,
+                "preferredName": "Simon Hartmann",
+                "firstName": "Simon",
+                "lastName": "Hartmann"
+            },
+            {
+                "id": 37324007400,
+                "preferredName": "Mathias Baumert",
+                "firstName": "Mathias",
+                "lastName": "Baumert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2911316",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8692622",
+        "articleTitle": "Adaptive Hybrid Classifier for Myoelectric Pattern Recognition Against the Interferences of Outlier Motion, Muscle Fatigue, and Electrode Doffing",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "1071",
+        "endPage": "1080",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Adaptive Hybrid Classifier for Myoelectric Pattern Recognition Against the Interferences of Outlier Motion, Muscle Fatigue, and Electrode Doffing",
+        "authors": [
+            {
+                "id": 38073055300,
+                "preferredName": "Qichuan Ding",
+                "firstName": "Qichuan",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37293146000,
+                "preferredName": "Xingang Zhao",
+                "firstName": "Xingang",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37290381900,
+                "preferredName": "Jianda Han",
+                "firstName": "Jianda",
+                "lastName": "Han"
+            },
+            {
+                "id": 37329417100,
+                "preferredName": "Chunguang Bu",
+                "firstName": "Chunguang",
+                "lastName": "Bu"
+            },
+            {
+                "id": 37290270000,
+                "preferredName": "Chengdong Wu",
+                "firstName": "Chengdong",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2894102",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8620354",
+        "articleTitle": "Development of an EMG-Controlled Serious Game for Rehabilitation",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "283",
+        "endPage": "292",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Development of an EMG-Controlled Serious Game for Rehabilitation",
+        "authors": [
+            {
+                "id": 37086493078,
+                "preferredName": "Mohammad Ghassemi",
+                "firstName": "Mohammad",
+                "lastName": "Ghassemi"
+            },
+            {
+                "id": 37085643311,
+                "preferredName": "Kristen Triandafilou",
+                "firstName": "Kristen",
+                "lastName": "Triandafilou"
+            },
+            {
+                "id": 37085418375,
+                "preferredName": "Alex Barry",
+                "firstName": "Alex",
+                "lastName": "Barry"
+            },
+            {
+                "id": 37394079000,
+                "preferredName": "Mary Ellen Stoykov",
+                "firstName": "Mary Ellen",
+                "lastName": "Stoykov"
+            },
+            {
+                "id": 37085408851,
+                "preferredName": "Elliot Roth",
+                "firstName": "Elliot",
+                "lastName": "Roth"
+            },
+            {
+                "id": 38275080700,
+                "preferredName": "Ferdinando A. Mussa-Ivaldi",
+                "firstName": "Ferdinando A.",
+                "lastName": "Mussa-Ivaldi"
+            },
+            {
+                "id": 37295165600,
+                "preferredName": "Derek G. Kamper",
+                "firstName": "Derek G.",
+                "lastName": "Kamper"
+            },
+            {
+                "id": 37086037497,
+                "preferredName": "Rajiv Ranganathan",
+                "firstName": "Rajiv",
+                "lastName": "Ranganathan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2943362",
+        "publicationYear": "2019",
+        "publicationDate": "Nov. 2019",
+        "articleNumber": "8847648",
+        "articleTitle": "A Graph-Based Hierarchical Attention Model for Movement Intention Detection from EEG Signals",
+        "volume": "27",
+        "issue": "11",
+        "startPage": "2247",
+        "endPage": "2253",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Graph-Based Hierarchical Attention Model for Movement Intention Detection from EEG Signals",
+        "authors": [
+            {
+                "id": 37086442788,
+                "preferredName": "Dalin Zhang",
+                "firstName": "Dalin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085708687,
+                "preferredName": "Lina Yao",
+                "firstName": "Lina",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37086480696,
+                "preferredName": "Kaixuan Chen",
+                "firstName": "Kaixuan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 38467018200,
+                "preferredName": "Sen Wang",
+                "firstName": "Sen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 38577172000,
+                "preferredName": "Pari Delir Haghighi",
+                "firstName": "Pari Delir",
+                "lastName": "Haghighi"
+            },
+            {
+                "id": 37087083471,
+                "preferredName": "Caley Sullivan",
+                "firstName": "Caley",
+                "lastName": "Sullivan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2939193",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8823953",
+        "articleTitle": "Temporal Features of Muscle Synergies in Sit-to-Stand Motion Reflect the Motor Impairment of Post-Stroke Patients",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2118",
+        "endPage": "2127",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Temporal Features of Muscle Synergies in Sit-to-Stand Motion Reflect the Motor Impairment of Post-Stroke Patients",
+        "authors": [
+            {
+                "id": 37086154776,
+                "preferredName": "Ningjia Yang",
+                "firstName": "Ningjia",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37642718800,
+                "preferredName": "Qi An",
+                "firstName": "Qi",
+                "lastName": "An"
+            },
+            {
+                "id": 37086352671,
+                "preferredName": "Hiroki Kogami",
+                "firstName": "Hiroki",
+                "lastName": "Kogami"
+            },
+            {
+                "id": 37345846500,
+                "preferredName": "Hiroshi Yamakawa",
+                "firstName": "Hiroshi",
+                "lastName": "Yamakawa"
+            },
+            {
+                "id": 37276670000,
+                "preferredName": "Yusuke Tamura",
+                "firstName": "Yusuke",
+                "lastName": "Tamura"
+            },
+            {
+                "id": 37086151938,
+                "preferredName": "Kouji Takahashi",
+                "firstName": "Kouji",
+                "lastName": "Takahashi"
+            },
+            {
+                "id": 37086152658,
+                "preferredName": "Makoto Kinomoto",
+                "firstName": "Makoto",
+                "lastName": "Kinomoto"
+            },
+            {
+                "id": 37085813581,
+                "preferredName": "Hiroshi Yamasaki",
+                "firstName": "Hiroshi",
+                "lastName": "Yamasaki"
+            },
+            {
+                "id": 37085504742,
+                "preferredName": "Matti Itkonen",
+                "firstName": "Matti",
+                "lastName": "Itkonen"
+            },
+            {
+                "id": 37590481500,
+                "preferredName": "Fady Shibata-Alnajjar",
+                "firstName": "Fady",
+                "lastName": "Shibata-Alnajjar"
+            },
+            {
+                "id": 38185136400,
+                "preferredName": "Shingo Shimoda",
+                "firstName": "Shingo",
+                "lastName": "Shimoda"
+            },
+            {
+                "id": 37086150987,
+                "preferredName": "Noriaki Hattori",
+                "firstName": "Noriaki",
+                "lastName": "Hattori"
+            },
+            {
+                "id": 37086352269,
+                "preferredName": "Takanori Fujii",
+                "firstName": "Takanori",
+                "lastName": "Fujii"
+            },
+            {
+                "id": 37086352295,
+                "preferredName": "Hironori Otomune",
+                "firstName": "Hironori",
+                "lastName": "Otomune"
+            },
+            {
+                "id": 37888088200,
+                "preferredName": "Ichiro Miyai",
+                "firstName": "Ichiro",
+                "lastName": "Miyai"
+            },
+            {
+                "id": 37270922900,
+                "preferredName": "Atsushi Yamashita",
+                "firstName": "Atsushi",
+                "lastName": "Yamashita"
+            },
+            {
+                "id": 37294904700,
+                "preferredName": "Hajime Asama",
+                "firstName": "Hajime",
+                "lastName": "Asama"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2910011",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8685152",
+        "articleTitle": "Hand Extension Robot Orthosis (HERO) Glove: Development and Testing With Stroke Survivors With Severe Hand Impairment",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "916",
+        "endPage": "926",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Hand Extension Robot Orthosis (HERO) Glove: Development and Testing With Stroke Survivors With Severe Hand Impairment",
+        "authors": [
+            {
+                "id": 37076973800,
+                "preferredName": "Aaron Yurkewich",
+                "firstName": "Aaron",
+                "lastName": "Yurkewich"
+            },
+            {
+                "id": 38245293300,
+                "preferredName": "Debbie Hebert",
+                "firstName": "Debbie",
+                "lastName": "Hebert"
+            },
+            {
+                "id": 38469638600,
+                "preferredName": "Rosalie H. Wang",
+                "firstName": "Rosalie H.",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37282695700,
+                "preferredName": "Alex Mihailidis",
+                "firstName": "Alex",
+                "lastName": "Mihailidis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2922942",
+        "publicationYear": "2019",
+        "publicationDate": "July 2019",
+        "articleNumber": "8736354",
+        "articleTitle": "Bilevel Optimization for Cost Function Determination in Dynamic Simulation of Human Gait",
+        "volume": "27",
+        "issue": "7",
+        "startPage": "1426",
+        "endPage": "1435",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Bilevel Optimization for Cost Function Determination in Dynamic Simulation of Human Gait",
+        "authors": [
+            {
+                "id": 37086876841,
+                "preferredName": "Vinh Q. Nguyen",
+                "firstName": "Vinh Q.",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37086876385,
+                "preferredName": "Russell T. Johnson",
+                "firstName": "Russell T.",
+                "lastName": "Johnson"
+            },
+            {
+                "id": 37596693500,
+                "preferredName": "Frank C. Sup",
+                "firstName": "Frank C.",
+                "lastName": "Sup"
+            },
+            {
+                "id": 37085595130,
+                "preferredName": "Brian R. Umberger",
+                "firstName": "Brian R.",
+                "lastName": "Umberger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2930751",
+        "publicationYear": "2019",
+        "publicationDate": "Sept. 2019",
+        "articleNumber": "8771186",
+        "articleTitle": "Validity and Reproducibility of Inertial Physilog Sensors for Spatiotemporal Gait Analysis in Patients With Stroke",
+        "volume": "27",
+        "issue": "9",
+        "startPage": "1865",
+        "endPage": "1874",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Validity and Reproducibility of Inertial Physilog Sensors for Spatiotemporal Gait Analysis in Patients With Stroke",
+        "authors": [
+            {
+                "id": 37086379157,
+                "preferredName": "Nina Lefeber",
+                "firstName": "Nina",
+                "lastName": "Lefeber"
+            },
+            {
+                "id": 37086992899,
+                "preferredName": "Marc Degelaen",
+                "firstName": "Marc",
+                "lastName": "Degelaen"
+            },
+            {
+                "id": 37086994171,
+                "preferredName": "Chris Truyers",
+                "firstName": "Chris",
+                "lastName": "Truyers"
+            },
+            {
+                "id": 37086992973,
+                "preferredName": "Iwona Safin",
+                "firstName": "Iwona",
+                "lastName": "Safin"
+            },
+            {
+                "id": 37086993314,
+                "preferredName": "David Beckw\u00e9e",
+                "firstName": "David",
+                "lastName": "Beckw\u00e9e"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2910165",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8685179",
+        "articleTitle": "Prediction of Freezing of Gait in Parkinson\u2019s Disease Using Statistical Inference and Lower\u2013Limb Acceleration Data",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "947",
+        "endPage": "955",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Prediction of Freezing of Gait in Parkinson\u2019s Disease Using Statistical Inference and Lower\u2013Limb Acceleration Data",
+        "authors": [
+            {
+                "id": 37086834486,
+                "preferredName": "Nader Naghavi",
+                "firstName": "Nader",
+                "lastName": "Naghavi"
+            },
+            {
+                "id": 37277565700,
+                "preferredName": "Eric Wade",
+                "firstName": "Eric",
+                "lastName": "Wade"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2904791",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8667028",
+        "articleTitle": "On the Relative Contribution of Deep Convolutional Neural Networks for SSVEP-Based Bio-Signal Decoding in BCI Speller Applications",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "611",
+        "endPage": "618",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "On the Relative Contribution of Deep Convolutional Neural Networks for SSVEP-Based Bio-Signal Decoding in BCI Speller Applications",
+        "authors": [
+            {
+                "id": 37086813240,
+                "preferredName": "Joshua J. Podmore",
+                "firstName": "Joshua J.",
+                "lastName": "Podmore"
+            },
+            {
+                "id": 37297908100,
+                "preferredName": "Toby P. Breckon",
+                "firstName": "Toby P.",
+                "lastName": "Breckon"
+            },
+            {
+                "id": 37086811410,
+                "preferredName": "Nik K. N. Aznan",
+                "firstName": "Nik K. N.",
+                "lastName": "Aznan"
+            },
+            {
+                "id": 37086608673,
+                "preferredName": "Jason D. Connolly",
+                "firstName": "Jason D.",
+                "lastName": "Connolly"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2914904",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8708243",
+        "articleTitle": "A Convolutional Neural Network for the Detection of Asynchronous Steady State Motion Visual Evoked Potential",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1303",
+        "endPage": "1311",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Convolutional Neural Network for the Detection of Asynchronous Steady State Motion Visual Evoked Potential",
+        "authors": [
+            {
+                "id": 37086244992,
+                "preferredName": "Xin Zhang",
+                "firstName": "Xin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37287646000,
+                "preferredName": "Guanghua Xu",
+                "firstName": "Guanghua",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37086853340,
+                "preferredName": "Xiang Mou",
+                "firstName": "Xiang",
+                "lastName": "Mou"
+            },
+            {
+                "id": 37086611087,
+                "preferredName": "Aravind Ravi",
+                "firstName": "Aravind",
+                "lastName": "Ravi"
+            },
+            {
+                "id": 38252239300,
+                "preferredName": "Min Li",
+                "firstName": "Min",
+                "lastName": "Li"
+            },
+            {
+                "id": 37337396900,
+                "preferredName": "Yiwen Wang",
+                "firstName": "Yiwen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37528893000,
+                "preferredName": "Ning Jiang",
+                "firstName": "Ning",
+                "lastName": "Jiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2920576",
+        "publicationYear": "2019",
+        "publicationDate": "July 2019",
+        "articleNumber": "8728058",
+        "articleTitle": "Effects of Transcranial Direct Current Stimulation (tDCS) Combined With Wrist Robot-Assisted Rehabilitation on Motor Recovery in Subacute Stroke Patients: A Randomized Controlled Trial",
+        "volume": "27",
+        "issue": "7",
+        "startPage": "1458",
+        "endPage": "1466",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Effects of Transcranial Direct Current Stimulation (tDCS) Combined With Wrist Robot-Assisted Rehabilitation on Motor Recovery in Subacute Stroke Patients: A Randomized Controlled Trial",
+        "authors": [
+            {
+                "id": 37550852800,
+                "preferredName": "Stefano Mazzoleni",
+                "firstName": "Stefano",
+                "lastName": "Mazzoleni"
+            },
+            {
+                "id": 37086196263,
+                "preferredName": "Vi-Do Tran",
+                "firstName": "Vi-Do",
+                "lastName": "Tran"
+            },
+            {
+                "id": 37280269300,
+                "preferredName": "Paolo Dario",
+                "firstName": "Paolo",
+                "lastName": "Dario"
+            },
+            {
+                "id": 37888086600,
+                "preferredName": "Federico Posteraro",
+                "firstName": "Federico",
+                "lastName": "Posteraro"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2018.2890272",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8598783",
+        "articleTitle": "Automatic Sleep Stage Classification Based on Subthalamic Local Field Potentials",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "118",
+        "endPage": "128",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Automatic Sleep Stage Classification Based on Subthalamic Local Field Potentials",
+        "authors": [
+            {
+                "id": 37085572551,
+                "preferredName": "Yue Chen",
+                "firstName": "Yue",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089854570,
+                "preferredName": "Chen Gong",
+                "firstName": "Chen",
+                "lastName": "Gong"
+            },
+            {
+                "id": 37537196000,
+                "preferredName": "Hongwei Hao",
+                "firstName": "Hongwei",
+                "lastName": "Hao"
+            },
+            {
+                "id": 37088740011,
+                "preferredName": "Yi Guo",
+                "firstName": "Yi",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37088735397,
+                "preferredName": "Shujun Xu",
+                "firstName": "Shujun",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37088740694,
+                "preferredName": "Yuhuan Zhang",
+                "firstName": "Yuhuan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088723331,
+                "preferredName": "Guoping Yin",
+                "firstName": "Guoping",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37088739091,
+                "preferredName": "Xin Cao",
+                "firstName": "Xin",
+                "lastName": "Cao"
+            },
+            {
+                "id": 38236698200,
+                "preferredName": "Anchao Yang",
+                "firstName": "Anchao",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086410647,
+                "preferredName": "Fangang Meng",
+                "firstName": "Fangang",
+                "lastName": "Meng"
+            },
+            {
+                "id": 37088723420,
+                "preferredName": "Jingying Ye",
+                "firstName": "Jingying",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37088728875,
+                "preferredName": "Hesheng Liu",
+                "firstName": "Hesheng",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38241446200,
+                "preferredName": "Jianguo Zhang",
+                "firstName": "Jianguo",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086302367,
+                "preferredName": "Yanan Sui",
+                "firstName": "Yanan",
+                "lastName": "Sui"
+            },
+            {
+                "id": 37539241300,
+                "preferredName": "Luming Li",
+                "firstName": "Luming",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2018.2885309",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8586892",
+        "articleTitle": "Gait and Dynamic Balance Sensing Using Wearable Foot Sensors",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "218",
+        "endPage": "227",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Gait and Dynamic Balance Sensing Using Wearable Foot Sensors",
+        "authors": [
+            {
+                "id": 37086616401,
+                "preferredName": "Mohamed Irfan Mohamed Refai",
+                "firstName": "Mohamed Irfan",
+                "lastName": "Mohamed Refai"
+            },
+            {
+                "id": 38356073600,
+                "preferredName": "Bert-Jan F. van Beijnum",
+                "firstName": "Bert-Jan F.",
+                "lastName": "van Beijnum"
+            },
+            {
+                "id": 38286595100,
+                "preferredName": "Jaap H. Buurke",
+                "firstName": "Jaap H.",
+                "lastName": "Buurke"
+            },
+            {
+                "id": 37297311400,
+                "preferredName": "Peter H. Veltink",
+                "firstName": "Peter H.",
+                "lastName": "Veltink"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2907200",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8673876",
+        "articleTitle": "Counteracting Electrode Shifts in Upper-Limb Prosthesis Control via Transfer Learning",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "956",
+        "endPage": "962",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Counteracting Electrode Shifts in Upper-Limb Prosthesis Control via Transfer Learning",
+        "authors": [
+            {
+                "id": 37086048425,
+                "preferredName": "Cosima Prahm",
+                "firstName": "Cosima",
+                "lastName": "Prahm"
+            },
+            {
+                "id": 37085388470,
+                "preferredName": "Alexander Schulz",
+                "firstName": "Alexander",
+                "lastName": "Schulz"
+            },
+            {
+                "id": 37087582393,
+                "preferredName": "Benjamin Paa\u00dfen",
+                "firstName": "Benjamin",
+                "lastName": "Paa\u00dfen"
+            },
+            {
+                "id": 37086830482,
+                "preferredName": "Johannes Schoisswohl",
+                "firstName": "Johannes",
+                "lastName": "Schoisswohl"
+            },
+            {
+                "id": 37297699400,
+                "preferredName": "Eugenijus Kaniusas",
+                "firstName": "Eugenijus",
+                "lastName": "Kaniusas"
+            },
+            {
+                "id": 37323307000,
+                "preferredName": "Georg Dorffner",
+                "firstName": "Georg",
+                "lastName": "Dorffner"
+            },
+            {
+                "id": 37407713500,
+                "preferredName": "Barbara Hammer",
+                "firstName": "Barbara",
+                "lastName": "Hammer"
+            },
+            {
+                "id": 37085582543,
+                "preferredName": "Oskar Aszmann",
+                "firstName": "Oskar",
+                "lastName": "Aszmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2939596",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8825812",
+        "articleTitle": "Vision-Based Method for Automatic Quantification of Parkinsonian Bradykinesia",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "1952",
+        "endPage": "1961",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Vision-Based Method for Automatic Quantification of Parkinsonian Bradykinesia",
+        "authors": [
+            {
+                "id": 37087054973,
+                "preferredName": "Yu Liu",
+                "firstName": "Yu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37406659000,
+                "preferredName": "Jiansheng Chen",
+                "firstName": "Jiansheng",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37539062300,
+                "preferredName": "Chunhua Hu",
+                "firstName": "Chunhua",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37894590000,
+                "preferredName": "Yu Ma",
+                "firstName": "Yu",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37087049617,
+                "preferredName": "Dongyun Ge",
+                "firstName": "Dongyun",
+                "lastName": "Ge"
+            },
+            {
+                "id": 37087048397,
+                "preferredName": "Suhua Miao",
+                "firstName": "Suhua",
+                "lastName": "Miao"
+            },
+            {
+                "id": 37087050087,
+                "preferredName": "Youze Xue",
+                "firstName": "Youze",
+                "lastName": "Xue"
+            },
+            {
+                "id": 37539241300,
+                "preferredName": "Luming Li",
+                "firstName": "Luming",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2936622",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8809258",
+        "articleTitle": "A Learning Scheme for EMG Based Decoding of Dexterous, In-Hand Manipulation Motions",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2205",
+        "endPage": "2215",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Learning Scheme for EMG Based Decoding of Dexterous, In-Hand Manipulation Motions",
+        "authors": [
+            {
+                "id": 37086133073,
+                "preferredName": "Anany Dwivedi",
+                "firstName": "Anany",
+                "lastName": "Dwivedi"
+            },
+            {
+                "id": 37086480207,
+                "preferredName": "Yongje Kwon",
+                "firstName": "Yongje",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 38244605900,
+                "preferredName": "Andrew J. McDaid",
+                "firstName": "Andrew J.",
+                "lastName": "McDaid"
+            },
+            {
+                "id": 38558084100,
+                "preferredName": "Minas Liarokapis",
+                "firstName": "Minas",
+                "lastName": "Liarokapis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2919194",
+        "publicationYear": "2019",
+        "publicationDate": "July 2019",
+        "articleNumber": "8723377",
+        "articleTitle": "Action Observation of Own Hand Movement Enhances Event-Related Desynchronization",
+        "volume": "27",
+        "issue": "7",
+        "startPage": "1407",
+        "endPage": "1415",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Action Observation of Own Hand Movement Enhances Event-Related Desynchronization",
+        "authors": [
+            {
+                "id": 37086876969,
+                "preferredName": "Hirotaka Nagai",
+                "firstName": "Hirotaka",
+                "lastName": "Nagai"
+            },
+            {
+                "id": 37277535000,
+                "preferredName": "Toshihisa Tanaka",
+                "firstName": "Toshihisa",
+                "lastName": "Tanaka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2895029",
+        "publicationYear": "2019",
+        "publicationDate": "March 2019",
+        "articleNumber": "8626157",
+        "articleTitle": "A Paradigm to Enhance Motor Imagery Using Rubber Hand Illusion Induced by Visuo-Tactile Stimulus",
+        "volume": "27",
+        "issue": "3",
+        "startPage": "477",
+        "endPage": "486",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Paradigm to Enhance Motor Imagery Using Rubber Hand Illusion Induced by Visuo-Tactile Stimulus",
+        "authors": [
+            {
+                "id": 37085800027,
+                "preferredName": "Minsu Song",
+                "firstName": "Minsu",
+                "lastName": "Song"
+            },
+            {
+                "id": 37560162100,
+                "preferredName": "Jonghyun Kim",
+                "firstName": "Jonghyun",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2907148",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8673804",
+        "articleTitle": "Transfer Spectral Entropy and Application to Functional Corticomuscular Coupling",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "1092",
+        "endPage": "1102",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Transfer Spectral Entropy and Application to Functional Corticomuscular Coupling",
+        "authors": [
+            {
+                "id": 37085487741,
+                "preferredName": "Xiaoling Chen",
+                "firstName": "Xiaoling",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086602131,
+                "preferredName": "Yuanyuan Zhang",
+                "firstName": "Yuanyuan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086279302,
+                "preferredName": "Shengcui Cheng",
+                "firstName": "Shengcui",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37411610400,
+                "preferredName": "Ping Xie",
+                "firstName": "Ping",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2933626",
+        "publicationYear": "2019",
+        "publicationDate": "Sept. 2019",
+        "articleNumber": "8789488",
+        "articleTitle": "Prediction of Gait Freezing in Parkinsonian Patients: A Binary Classification Augmented With Time Series Prediction",
+        "volume": "27",
+        "issue": "9",
+        "startPage": "1909",
+        "endPage": "1919",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Prediction of Gait Freezing in Parkinsonian Patients: A Binary Classification Augmented With Time Series Prediction",
+        "authors": [
+            {
+                "id": 37696185600,
+                "preferredName": "Arash Arami",
+                "firstName": "Arash",
+                "lastName": "Arami"
+            },
+            {
+                "id": 37086995313,
+                "preferredName": "Antonios Poulakakis-Daktylidis",
+                "firstName": "Antonios",
+                "lastName": "Poulakakis-Daktylidis"
+            },
+            {
+                "id": 37086080195,
+                "preferredName": "Yen F. Tai",
+                "firstName": "Yen F.",
+                "lastName": "Tai"
+            },
+            {
+                "id": 37275851600,
+                "preferredName": "Etienne Burdet",
+                "firstName": "Etienne",
+                "lastName": "Burdet"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2941349",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8836518",
+        "articleTitle": "Designing a Sum of Squared Correlations Framework for Enhancing SSVEP-Based BCIs",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2044",
+        "endPage": "2050",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Designing a Sum of Squared Correlations Framework for Enhancing SSVEP-Based BCIs",
+        "authors": [
+            {
+                "id": 37086344278,
+                "preferredName": "G. R. Kiran Kumar",
+                "firstName": "G. R.",
+                "lastName": "Kiran Kumar"
+            },
+            {
+                "id": 37713074300,
+                "preferredName": "M. Ramasubba Reddy",
+                "firstName": "M.",
+                "lastName": "Ramasubba Reddy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2892587",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8611212",
+        "articleTitle": "Selecting a Best Compromise Direction for a Powered Wheelchair Using PROMETHEE",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "228",
+        "endPage": "235",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Selecting a Best Compromise Direction for a Powered Wheelchair Using PROMETHEE",
+        "authors": [
+            {
+                "id": 37086617802,
+                "preferredName": "Malik J. Haddad",
+                "firstName": "Malik J.",
+                "lastName": "Haddad"
+            },
+            {
+                "id": 37379378100,
+                "preferredName": "David A. Sanders",
+                "firstName": "David A.",
+                "lastName": "Sanders"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2940980",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8836096",
+        "articleTitle": "The Reorganization of Resting-State Brain Networks Associated With Motor Imagery Training in Chronic Stroke Patients",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2237",
+        "endPage": "2245",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "The Reorganization of Resting-State Brain Networks Associated With Motor Imagery Training in Chronic Stroke Patients",
+        "authors": [
+            {
+                "id": 37086452828,
+                "preferredName": "Hewei Wang",
+                "firstName": "Hewei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37087053836,
+                "preferredName": "Guojun Xu",
+                "firstName": "Guojun",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37086452749,
+                "preferredName": "Xu Wang",
+                "firstName": "Xu",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37087047263,
+                "preferredName": "Changhui Sun",
+                "firstName": "Changhui",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37087050202,
+                "preferredName": "Bing Zhu",
+                "firstName": "Bing",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37087048167,
+                "preferredName": "Mingxia Fan",
+                "firstName": "Mingxia",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37086302638,
+                "preferredName": "Jie Jia",
+                "firstName": "Jie",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37578651000,
+                "preferredName": "Xiaoli Guo",
+                "firstName": "Xiaoli",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37087045385,
+                "preferredName": "Limin Sun",
+                "firstName": "Limin",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2893949",
+        "publicationYear": "2019",
+        "publicationDate": "March 2019",
+        "articleNumber": "8620342",
+        "articleTitle": "Between-Frequency Topographical and Dynamic High-Order Functional Connectivity for Driving Drowsiness Assessment",
+        "volume": "27",
+        "issue": "3",
+        "startPage": "358",
+        "endPage": "367",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Between-Frequency Topographical and Dynamic High-Order Functional Connectivity for Driving Drowsiness Assessment",
+        "authors": [
+            {
+                "id": 37086494571,
+                "preferredName": "Jonathan Harvy",
+                "firstName": "Jonathan",
+                "lastName": "Harvy"
+            },
+            {
+                "id": 37275752200,
+                "preferredName": "Nitish Thakor",
+                "firstName": "Nitish",
+                "lastName": "Thakor"
+            },
+            {
+                "id": 37267832500,
+                "preferredName": "Anastasios Bezerianos",
+                "firstName": "Anastasios",
+                "lastName": "Bezerianos"
+            },
+            {
+                "id": 37085710559,
+                "preferredName": "Junhua Li",
+                "firstName": "Junhua",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2926965",
+        "publicationYear": "2019",
+        "publicationDate": "Aug. 2019",
+        "articleNumber": "8755872",
+        "articleTitle": "Protecting Privacy of Users in Brain-Computer Interface Applications",
+        "volume": "27",
+        "issue": "8",
+        "startPage": "1546",
+        "endPage": "1555",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Protecting Privacy of Users in Brain-Computer Interface Applications",
+        "authors": [
+            {
+                "id": 37086603500,
+                "preferredName": "Anisha Agarwal",
+                "firstName": "Anisha",
+                "lastName": "Agarwal"
+            },
+            {
+                "id": 37704907400,
+                "preferredName": "Rafael Dowsley",
+                "firstName": "Rafael",
+                "lastName": "Dowsley"
+            },
+            {
+                "id": 37086598428,
+                "preferredName": "Nicholas D. McKinney",
+                "firstName": "Nicholas D.",
+                "lastName": "McKinney"
+            },
+            {
+                "id": 37693329600,
+                "preferredName": "Dongrui Wu",
+                "firstName": "Dongrui",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37278412100,
+                "preferredName": "Chin-Teng Lin",
+                "firstName": "Chin-Teng",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37271167600,
+                "preferredName": "Martine De Cock",
+                "firstName": "Martine",
+                "lastName": "De Cock"
+            },
+            {
+                "id": 37283331500,
+                "preferredName": "Anderson C. A. Nascimento",
+                "firstName": "Anderson C. A.",
+                "lastName": "Nascimento"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2903986",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8663349",
+        "articleTitle": "Feature Selection and Non-Linear Classifiers: Effects on Simultaneous Motion Recognition in Upper Limb",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "743",
+        "endPage": "750",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Feature Selection and Non-Linear Classifiers: Effects on Simultaneous Motion Recognition in Upper Limb",
+        "authors": [
+            {
+                "id": 37086309323,
+                "preferredName": "Jonathan Camargo",
+                "firstName": "Jonathan",
+                "lastName": "Camargo"
+            },
+            {
+                "id": 38021039000,
+                "preferredName": "Aaron Young",
+                "firstName": "Aaron",
+                "lastName": "Young"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2910387",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8688427",
+        "articleTitle": "Interference Removal From Electromyography Based on Independent Component Analysis",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "887",
+        "endPage": "894",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Interference Removal From Electromyography Based on Independent Component Analysis",
+        "authors": [
+            {
+                "id": 37086830930,
+                "preferredName": "Yang Zheng",
+                "firstName": "Yang",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 38557406900,
+                "preferredName": "Xiaogang Hu",
+                "firstName": "Xiaogang",
+                "lastName": "Hu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2939012",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8822708",
+        "articleTitle": "Optimal Electric Stimulus Amplitude Improves the Selectivity Between Responses of ON Versus OFF Types of Retinal Ganglion Cells",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2015",
+        "endPage": "2024",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Optimal Electric Stimulus Amplitude Improves the Selectivity Between Responses of ON Versus OFF Types of Retinal Ganglion Cells",
+        "authors": [
+            {
+                "id": 37086154285,
+                "preferredName": "Jae-Ik Lee",
+                "firstName": "Jae-Ik",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37720328500,
+                "preferredName": "Maesoon Im",
+                "firstName": "Maesoon",
+                "lastName": "Im"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2904708",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8666996",
+        "articleTitle": "Recognition of Multiclass Epileptic EEG Signals Based on Knowledge and Label Space Inductive Transfer",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "630",
+        "endPage": "642",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Recognition of Multiclass Epileptic EEG Signals Based on Knowledge and Label Space Inductive Transfer",
+        "authors": [
+            {
+                "id": 37086335671,
+                "preferredName": "Zhibin Jiang",
+                "firstName": "Zhibin",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37272182100,
+                "preferredName": "Fu-Lai Chung",
+                "firstName": "Fu-Lai",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37280445900,
+                "preferredName": "Shitong Wang",
+                "firstName": "Shitong",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2903685",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8662580",
+        "articleTitle": "BCI Monitor Enhances Electroencephalographic and Cerebral Hemodynamic Activations During Motor Training",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "780",
+        "endPage": "787",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "BCI Monitor Enhances Electroencephalographic and Cerebral Hemodynamic Activations During Motor Training",
+        "authors": [
+            {
+                "id": 37085375595,
+                "preferredName": "Zhongpeng Wang",
+                "firstName": "Zhongpeng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086322274,
+                "preferredName": "Yijie Zhou",
+                "firstName": "Yijie",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37085389340,
+                "preferredName": "Long Chen",
+                "firstName": "Long",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085489259,
+                "preferredName": "Bin Gu",
+                "firstName": "Bin",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37852901300,
+                "preferredName": "Weibo Yi",
+                "firstName": "Weibo",
+                "lastName": "Yi"
+            },
+            {
+                "id": 37085350025,
+                "preferredName": "Shuang Liu",
+                "firstName": "Shuang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37850640000,
+                "preferredName": "Minpeng Xu",
+                "firstName": "Minpeng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37273173400,
+                "preferredName": "Hongzhi Qi",
+                "firstName": "Hongzhi",
+                "lastName": "Qi"
+            },
+            {
+                "id": 37085356115,
+                "preferredName": "Feng He",
+                "firstName": "Feng",
+                "lastName": "He"
+            },
+            {
+                "id": 37315327900,
+                "preferredName": "Dong Ming",
+                "firstName": "Dong",
+                "lastName": "Ming"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2895064",
+        "publicationYear": "2019",
+        "publicationDate": "March 2019",
+        "articleNumber": "8626466",
+        "articleTitle": "Walking Imagery Evaluation in Brain Computer Interfaces via a Multi-View Multi-Level Deep Polynomial Network",
+        "volume": "27",
+        "issue": "3",
+        "startPage": "497",
+        "endPage": "506",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Walking Imagery Evaluation in Brain Computer Interfaces via a Multi-View Multi-Level Deep Polynomial Network",
+        "authors": [
+            {
+                "id": 38241479800,
+                "preferredName": "Baiying Lei",
+                "firstName": "Baiying",
+                "lastName": "Lei"
+            },
+            {
+                "id": 37086310162,
+                "preferredName": "Xiaolu Liu",
+                "firstName": "Xiaolu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085493255,
+                "preferredName": "Shuang Liang",
+                "firstName": "Shuang",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37086309969,
+                "preferredName": "Wenlong Hang",
+                "firstName": "Wenlong",
+                "lastName": "Hang"
+            },
+            {
+                "id": 38087716300,
+                "preferredName": "Qiong Wang",
+                "firstName": "Qiong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37535446600,
+                "preferredName": "Kup-Sze Choi",
+                "firstName": "Kup-Sze",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37085387571,
+                "preferredName": "Jing Qin",
+                "firstName": "Jing",
+                "lastName": "Qin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2929917",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8807228",
+        "articleTitle": "The Effect of Feedback During Training Sessions on Learning Pattern-Recognition-Based Prosthesis Control",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2087",
+        "endPage": "2096",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "The Effect of Feedback During Training Sessions on Learning Pattern-Recognition-Based Prosthesis Control",
+        "authors": [
+            {
+                "id": 37087049264,
+                "preferredName": "Morten B. Kristoffersen",
+                "firstName": "Morten B.",
+                "lastName": "Kristoffersen"
+            },
+            {
+                "id": 37087048099,
+                "preferredName": "Andreas W. Franzke",
+                "firstName": "Andreas W.",
+                "lastName": "Franzke"
+            },
+            {
+                "id": 37086208046,
+                "preferredName": "Corry K. van der Sluis",
+                "firstName": "Corry K.",
+                "lastName": "van der Sluis"
+            },
+            {
+                "id": 37601821100,
+                "preferredName": "Alessio Murgia",
+                "firstName": "Alessio",
+                "lastName": "Murgia"
+            },
+            {
+                "id": 37086204774,
+                "preferredName": "Raoul M. Bongers",
+                "firstName": "Raoul M.",
+                "lastName": "Bongers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2897323",
+        "publicationYear": "2019",
+        "publicationDate": "March 2019",
+        "articleNumber": "8633982",
+        "articleTitle": "A Brain\u2013Robot Interaction System by Fusing Human and Machine Intelligence",
+        "volume": "27",
+        "issue": "3",
+        "startPage": "533",
+        "endPage": "542",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Brain\u2013Robot Interaction System by Fusing Human and Machine Intelligence",
+        "authors": [
+            {
+                "id": 37085671905,
+                "preferredName": "Xiaoqian Mao",
+                "firstName": "Xiaoqian",
+                "lastName": "Mao"
+            },
+            {
+                "id": 37083538900,
+                "preferredName": "Wei Li",
+                "firstName": "Wei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085643562,
+                "preferredName": "Chengwei Lei",
+                "firstName": "Chengwei",
+                "lastName": "Lei"
+            },
+            {
+                "id": 37965693000,
+                "preferredName": "Jing Jin",
+                "firstName": "Jing",
+                "lastName": "Jin"
+            },
+            {
+                "id": 38295033800,
+                "preferredName": "Feng Duan",
+                "firstName": "Feng",
+                "lastName": "Duan"
+            },
+            {
+                "id": 37086803382,
+                "preferredName": "Sherry Chen",
+                "firstName": "Sherry",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2915801",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8715686",
+        "articleTitle": "EEG Artifacts Handling in a Real Practical Brain\u2013Computer Interface Controlled Vehicle",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1200",
+        "endPage": "1208",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "EEG Artifacts Handling in a Real Practical Brain\u2013Computer Interface Controlled Vehicle",
+        "authors": [
+            {
+                "id": 37086382000,
+                "preferredName": "Aysa Jafarifarmand",
+                "firstName": "Aysa",
+                "lastName": "Jafarifarmand"
+            },
+            {
+                "id": 37396056900,
+                "preferredName": "Mohammad Ali Badamchizadeh",
+                "firstName": "Mohammad Ali",
+                "lastName": "Badamchizadeh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2905894",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8688582",
+        "articleTitle": "EEG Signal Processing in MI-BCI Applications With Improved Covariance Matrix Estimators",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "895",
+        "endPage": "904",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "EEG Signal Processing in MI-BCI Applications With Improved Covariance Matrix Estimators",
+        "authors": [
+            {
+                "id": 37086831667,
+                "preferredName": "Javier Olias",
+                "firstName": "Javier",
+                "lastName": "Olias"
+            },
+            {
+                "id": 38276145100,
+                "preferredName": "Rub\u00e9n Mart\u00edn-Clemente",
+                "firstName": "Rub\u00e9n",
+                "lastName": "Mart\u00edn-Clemente"
+            },
+            {
+                "id": 37086831195,
+                "preferredName": "M. Auxiliadora Sarmiento-Vega",
+                "firstName": "M. Auxiliadora",
+                "lastName": "Sarmiento-Vega"
+            },
+            {
+                "id": 37426304400,
+                "preferredName": "Sergio Cruces",
+                "firstName": "Sergio",
+                "lastName": "Cruces"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2914579",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8705269",
+        "articleTitle": "Controlling the Cadence and Admittance of a Functional Electrical Stimulation Cycle",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1181",
+        "endPage": "1192",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Controlling the Cadence and Admittance of a Functional Electrical Stimulation Cycle",
+        "authors": [
+            {
+                "id": 37086009888,
+                "preferredName": "Christian A. Cousin",
+                "firstName": "Christian A.",
+                "lastName": "Cousin"
+            },
+            {
+                "id": 37086010639,
+                "preferredName": "Courtney A. Rouse",
+                "firstName": "Courtney A.",
+                "lastName": "Rouse"
+            },
+            {
+                "id": 37086009795,
+                "preferredName": "Victor H. Duenas",
+                "firstName": "Victor H.",
+                "lastName": "Duenas"
+            },
+            {
+                "id": 37283242800,
+                "preferredName": "Warren E. Dixon",
+                "firstName": "Warren E.",
+                "lastName": "Dixon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2943005",
+        "publicationYear": "2019",
+        "publicationDate": "Dec. 2019",
+        "articleNumber": "8846101",
+        "articleTitle": "Robotic Exoskeleton for Wrist and Fingers Joint in Post-Stroke Neuro-Rehabilitation for Low-Resource Settings",
+        "volume": "27",
+        "issue": "12",
+        "startPage": "2369",
+        "endPage": "2377",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Robotic Exoskeleton for Wrist and Fingers Joint in Post-Stroke Neuro-Rehabilitation for Low-Resource Settings",
+        "authors": [
+            {
+                "id": 37085617009,
+                "preferredName": "Neha Singh",
+                "firstName": "Neha",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37087122406,
+                "preferredName": "Megha Saini",
+                "firstName": "Megha",
+                "lastName": "Saini"
+            },
+            {
+                "id": 37357888100,
+                "preferredName": "Sneh Anand",
+                "firstName": "Sneh",
+                "lastName": "Anand"
+            },
+            {
+                "id": 37087122448,
+                "preferredName": "Nand Kumar",
+                "firstName": "Nand",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37087122614,
+                "preferredName": "M. V. Padma Srivastava",
+                "firstName": "M. V. Padma",
+                "lastName": "Srivastava"
+            },
+            {
+                "id": 37086613326,
+                "preferredName": "Amit Mehndiratta",
+                "firstName": "Amit",
+                "lastName": "Mehndiratta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2899753",
+        "publicationYear": "2019",
+        "publicationDate": "March 2019",
+        "articleNumber": "8642946",
+        "articleTitle": "Enhancing Mobility With Quasi-Passive Variable Stiffness Exoskeletons",
+        "volume": "27",
+        "issue": "3",
+        "startPage": "487",
+        "endPage": "496",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Enhancing Mobility With Quasi-Passive Variable Stiffness Exoskeletons",
+        "authors": [
+            {
+                "id": 37086455322,
+                "preferredName": "Amanda Sutrisno",
+                "firstName": "Amanda",
+                "lastName": "Sutrisno"
+            },
+            {
+                "id": 37609773600,
+                "preferredName": "David J. Braun",
+                "firstName": "David J.",
+                "lastName": "Braun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2913218",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8698887",
+        "articleTitle": "A Multiscale Dynamical Modeling and Identification Framework for Spike-Field Activity",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1128",
+        "endPage": "1138",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "A Multiscale Dynamical Modeling and Identification Framework for Spike-Field Activity",
+        "authors": [
+            {
+                "id": 37086019831,
+                "preferredName": "Hamidreza Abbaspourazad",
+                "firstName": "Hamidreza",
+                "lastName": "Abbaspourazad"
+            },
+            {
+                "id": 37085645569,
+                "preferredName": "Han-Lin Hsieh",
+                "firstName": "Han-Lin",
+                "lastName": "Hsieh"
+            },
+            {
+                "id": 37533842300,
+                "preferredName": "Maryam M. Shanechi",
+                "firstName": "Maryam M.",
+                "lastName": "Shanechi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2935765",
+        "publicationYear": "2019",
+        "publicationDate": "Sept. 2019",
+        "articleNumber": "8804244",
+        "articleTitle": "Sequential Decision Fusion for Environmental Classification in Assistive Walking",
+        "volume": "27",
+        "issue": "9",
+        "startPage": "1780",
+        "endPage": "1790",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Sequential Decision Fusion for Environmental Classification in Assistive Walking",
+        "authors": [
+            {
+                "id": 37086497190,
+                "preferredName": "Kuangen Zhang",
+                "firstName": "Kuangen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086802239,
+                "preferredName": "Wen Zhang",
+                "firstName": "Wen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086992570,
+                "preferredName": "Wentao Xiao",
+                "firstName": "Wentao",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37086803432,
+                "preferredName": "Haiyuan Liu",
+                "firstName": "Haiyuan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37271099500,
+                "preferredName": "Clarence W. De Silva",
+                "firstName": "Clarence W.",
+                "lastName": "De Silva"
+            },
+            {
+                "id": 37086455883,
+                "preferredName": "Chenglong Fu",
+                "firstName": "Chenglong",
+                "lastName": "Fu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2950619",
+        "publicationYear": "2019",
+        "publicationDate": "Dec. 2019",
+        "articleNumber": "8887462",
+        "articleTitle": "Proof of Concept of an Assistive Robotic Arm Control Using Artificial Stereovision and Eye-Tracking",
+        "volume": "27",
+        "issue": "12",
+        "startPage": "2344",
+        "endPage": "2352",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Proof of Concept of an Assistive Robotic Arm Control Using Artificial Stereovision and Eye-Tracking",
+        "authors": [
+            {
+                "id": 37087122415,
+                "preferredName": "Yann-Seing Law-Kam Cio",
+                "firstName": "Yann-Seing Law-Kam",
+                "lastName": "Cio"
+            },
+            {
+                "id": 37085431707,
+                "preferredName": "Maxime Raison",
+                "firstName": "Maxime",
+                "lastName": "Raison"
+            },
+            {
+                "id": 37087123683,
+                "preferredName": "C\u00e9dric Leblond M\u00e9nard",
+                "firstName": "C\u00e9dric",
+                "lastName": "Leblond M\u00e9nard"
+            },
+            {
+                "id": 37282853600,
+                "preferredName": "Sofiane Achiche",
+                "firstName": "Sofiane",
+                "lastName": "Achiche"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2940046",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8827606",
+        "articleTitle": "EEG-Based Adaptive Driver-Vehicle Interface Using Variational Autoencoder and PI-TSVM",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2025",
+        "endPage": "2033",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "EEG-Based Adaptive Driver-Vehicle Interface Using Variational Autoencoder and PI-TSVM",
+        "authors": [
+            {
+                "id": 37602716100,
+                "preferredName": "Luzheng Bi",
+                "firstName": "Luzheng",
+                "lastName": "Bi"
+            },
+            {
+                "id": 37086448516,
+                "preferredName": "Jingwei Zhang",
+                "firstName": "Jingwei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085841208,
+                "preferredName": "Jinling Lian",
+                "firstName": "Jinling",
+                "lastName": "Lian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2894464",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8624580",
+        "articleTitle": "Adaptive Auto-Regressive Proportional Myoelectric Control",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "314",
+        "endPage": "322",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Adaptive Auto-Regressive Proportional Myoelectric Control",
+        "authors": [
+            {
+                "id": 37086617103,
+                "preferredName": "Carles Igual",
+                "firstName": "Carles",
+                "lastName": "Igual"
+            },
+            {
+                "id": 37442870900,
+                "preferredName": "Jorge Igual",
+                "firstName": "Jorge",
+                "lastName": "Igual"
+            },
+            {
+                "id": 38235673800,
+                "preferredName": "Janne M. Hahne",
+                "firstName": "Janne M.",
+                "lastName": "Hahne"
+            },
+            {
+                "id": 37276001600,
+                "preferredName": "Lucas C. Parra",
+                "firstName": "Lucas C.",
+                "lastName": "Parra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2908125",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8678461",
+        "articleTitle": "Brain\u2013Machine Interface-Driven Post-Stroke Upper-Limb Functional Recovery Correlates With Beta-Band Mediated Cortical Networks",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "1020",
+        "endPage": "1031",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Brain\u2013Machine Interface-Driven Post-Stroke Upper-Limb Functional Recovery Correlates With Beta-Band Mediated Cortical Networks",
+        "authors": [
+            {
+                "id": 37085887873,
+                "preferredName": "Dheeraj Rathee",
+                "firstName": "Dheeraj",
+                "lastName": "Rathee"
+            },
+            {
+                "id": 37086147737,
+                "preferredName": "Anirban Chowdhury",
+                "firstName": "Anirban",
+                "lastName": "Chowdhury"
+            },
+            {
+                "id": 38234053300,
+                "preferredName": "Yogesh Kumar Meena",
+                "firstName": "Yogesh Kumar",
+                "lastName": "Meena"
+            },
+            {
+                "id": 37273144100,
+                "preferredName": "Ashish Dutta",
+                "firstName": "Ashish",
+                "lastName": "Dutta"
+            },
+            {
+                "id": 37410346700,
+                "preferredName": "Suzanne McDonough",
+                "firstName": "Suzanne",
+                "lastName": "McDonough"
+            },
+            {
+                "id": 37298947500,
+                "preferredName": "Girijesh Prasad",
+                "firstName": "Girijesh",
+                "lastName": "Prasad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2934097",
+        "publicationYear": "2019",
+        "publicationDate": "Sept. 2019",
+        "articleNumber": "8792110",
+        "articleTitle": "Towards On-Demand Virtual Physical Therapist: Machine Learning-Based Patient Action Understanding, Assessment and Task Recommendation",
+        "volume": "27",
+        "issue": "9",
+        "startPage": "1824",
+        "endPage": "1835",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Towards On-Demand Virtual Physical Therapist: Machine Learning-Based Patient Action Understanding, Assessment and Task Recommendation",
+        "authors": [
+            {
+                "id": 37086432606,
+                "preferredName": "Wenchuan Wei",
+                "firstName": "Wenchuan",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37085491044,
+                "preferredName": "Carter McElroy",
+                "firstName": "Carter",
+                "lastName": "McElroy"
+            },
+            {
+                "id": 37278573500,
+                "preferredName": "Sujit Dey",
+                "firstName": "Sujit",
+                "lastName": "Dey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2890968",
+        "publicationYear": "2019",
+        "publicationDate": "April 2019",
+        "articleNumber": "8666071",
+        "articleTitle": "Age-Related Changes in Vibro-Tactile EEG Response and Its Implications in BCI Applications: A Comparison Between Older and Younger Populations",
+        "volume": "27",
+        "issue": "4",
+        "startPage": "603",
+        "endPage": "610",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Age-Related Changes in Vibro-Tactile EEG Response and Its Implications in BCI Applications: A Comparison Between Older and Younger Populations",
+        "authors": [
+            {
+                "id": 37086174528,
+                "preferredName": "Mei Lin Chen",
+                "firstName": "Mei Lin",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086812728,
+                "preferredName": "Dannie Fu",
+                "firstName": "Dannie",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37282689400,
+                "preferredName": "Jennifer Boger",
+                "firstName": "Jennifer",
+                "lastName": "Boger"
+            },
+            {
+                "id": 37528893000,
+                "preferredName": "Ning Jiang",
+                "firstName": "Ning",
+                "lastName": "Jiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2892967",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8612939",
+        "articleTitle": "An Online Interactive Paradigm for P300 Brain\u2013Computer Interface Speller",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "152",
+        "endPage": "161",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "An Online Interactive Paradigm for P300 Brain\u2013Computer Interface Speller",
+        "authors": [
+            {
+                "id": 37536842800,
+                "preferredName": "Zhenghui Gu",
+                "firstName": "Zhenghui",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37086053552,
+                "preferredName": "Zhubing Chen",
+                "firstName": "Zhubing",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086616468,
+                "preferredName": "Jintao Zhang",
+                "firstName": "Jintao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085636933,
+                "preferredName": "Xichun Zhang",
+                "firstName": "Xichun",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37334519000,
+                "preferredName": "Zhu Liang Yu",
+                "firstName": "Zhu Liang",
+                "lastName": "Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2893113",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8612963",
+        "articleTitle": "The Riemannian Potato Field: A Tool for Online Signal Quality Index of EEG",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "244",
+        "endPage": "255",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "The Riemannian Potato Field: A Tool for Online Signal Quality Index of EEG",
+        "authors": [
+            {
+                "id": 37947135900,
+                "preferredName": "Quentin Barth\u00e9lemy",
+                "firstName": "Quentin",
+                "lastName": "Barth\u00e9lemy"
+            },
+            {
+                "id": 38548014900,
+                "preferredName": "Louis Mayaud",
+                "firstName": "Louis",
+                "lastName": "Mayaud"
+            },
+            {
+                "id": 37862540400,
+                "preferredName": "David Ojeda",
+                "firstName": "David",
+                "lastName": "Ojeda"
+            },
+            {
+                "id": 37281961000,
+                "preferredName": "Marco Congedo",
+                "firstName": "Marco",
+                "lastName": "Congedo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2018.2889483",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8587210",
+        "articleTitle": "EEG Signals-Based Longitudinal Control System for a Brain-Controlled Vehicle",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "323",
+        "endPage": "332",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "EEG Signals-Based Longitudinal Control System for a Brain-Controlled Vehicle",
+        "authors": [
+            {
+                "id": 37085750890,
+                "preferredName": "Yun Lu",
+                "firstName": "Yun",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37602716100,
+                "preferredName": "Luzheng Bi",
+                "firstName": "Luzheng",
+                "lastName": "Bi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2891000",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8601343",
+        "articleTitle": "Automatically Evaluating Balance: A Machine Learning Approach",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "179",
+        "endPage": "186",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Automatically Evaluating Balance: A Machine Learning Approach",
+        "authors": [
+            {
+                "id": 37085631186,
+                "preferredName": "Tian Bao",
+                "firstName": "Tian",
+                "lastName": "Bao"
+            },
+            {
+                "id": 37086617210,
+                "preferredName": "Brooke N. Klatt",
+                "firstName": "Brooke N.",
+                "lastName": "Klatt"
+            },
+            {
+                "id": 37430243300,
+                "preferredName": "Susan L. Whitney",
+                "firstName": "Susan L.",
+                "lastName": "Whitney"
+            },
+            {
+                "id": 37681632500,
+                "preferredName": "Kathleen H. Sienko",
+                "firstName": "Kathleen H.",
+                "lastName": "Sienko"
+            },
+            {
+                "id": 37858018500,
+                "preferredName": "Jenna Wiens",
+                "firstName": "Jenna",
+                "lastName": "Wiens"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2018.2890001",
+        "publicationYear": "2019",
+        "publicationDate": "Feb. 2019",
+        "articleNumber": "8590727",
+        "articleTitle": "Cortico-Muscular Coherence Modulated by High-Definition Transcranial Direct Current Stimulation in People With Chronic Stroke",
+        "volume": "27",
+        "issue": "2",
+        "startPage": "304",
+        "endPage": "313",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Cortico-Muscular Coherence Modulated by High-Definition Transcranial Direct Current Stimulation in People With Chronic Stroke",
+        "authors": [
+            {
+                "id": 37086497037,
+                "preferredName": "Shi-Chun Bao",
+                "firstName": "Shi-Chun",
+                "lastName": "Bao"
+            },
+            {
+                "id": 37695051800,
+                "preferredName": "Wan-Wa Wong",
+                "firstName": "Wan-Wa",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37087028773,
+                "preferredName": "Thomas Wai Hong Leung",
+                "firstName": "Thomas Wai Hong",
+                "lastName": "Leung"
+            },
+            {
+                "id": 37324667300,
+                "preferredName": "Kai-Yu Tong",
+                "firstName": "Kai-Yu",
+                "lastName": "Tong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2908156",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8675943",
+        "articleTitle": "Estimating Multiscale Direct Causality Graphs in Neural Spike-Field Networks",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "857",
+        "endPage": "866",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Estimating Multiscale Direct Causality Graphs in Neural Spike-Field Networks",
+        "authors": [
+            {
+                "id": 37086497049,
+                "preferredName": "Chuanmeizhi Wang",
+                "firstName": "Chuanmeizhi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37533842300,
+                "preferredName": "Maryam M. Shanechi",
+                "firstName": "Maryam M.",
+                "lastName": "Shanechi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2936987",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8809824",
+        "articleTitle": "Effects of Task Complexity on Motor Imagery-Based Brain\u2013Computer Interface",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2178",
+        "endPage": "2185",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Effects of Task Complexity on Motor Imagery-Based Brain\u2013Computer Interface",
+        "authors": [
+            {
+                "id": 37087054544,
+                "preferredName": "M. Ebrahim M. Mashat",
+                "firstName": "M. Ebrahim M.",
+                "lastName": "Mashat"
+            },
+            {
+                "id": 37278412100,
+                "preferredName": "Chin-Teng Lin",
+                "firstName": "Chin-Teng",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37291865100,
+                "preferredName": "Dingguo Zhang",
+                "firstName": "Dingguo",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2914095",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8703438",
+        "articleTitle": "Gaussian Process Trajectory Learning and Synthesis of Individualized Gait Motions",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1236",
+        "endPage": "1245",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Gaussian Process Trajectory Learning and Synthesis of Individualized Gait Motions",
+        "authors": [
+            {
+                "id": 37085514418,
+                "preferredName": "Jisoo Hong",
+                "firstName": "Jisoo",
+                "lastName": "Hong"
+            },
+            {
+                "id": 37285604800,
+                "preferredName": "Changmook Chun",
+                "firstName": "Changmook",
+                "lastName": "Chun"
+            },
+            {
+                "id": 37404965300,
+                "preferredName": "Seung-Jong Kim",
+                "firstName": "Seung-Jong",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37355607600,
+                "preferredName": "Frank C. Park",
+                "firstName": "Frank C.",
+                "lastName": "Park"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2942398",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8846064",
+        "articleTitle": "Decoding Neural Metabolic Markers From the Carotid Sinus Nerve in a Type 2 Diabetes Model",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2034",
+        "endPage": "2043",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Decoding Neural Metabolic Markers From the Carotid Sinus Nerve in a Type 2 Diabetes Model",
+        "authors": [
+            {
+                "id": 37086452876,
+                "preferredName": "Marina Cracchiolo",
+                "firstName": "Marina",
+                "lastName": "Cracchiolo"
+            },
+            {
+                "id": 37086836890,
+                "preferredName": "Joana F. Sacramento",
+                "firstName": "Joana F.",
+                "lastName": "Sacramento"
+            },
+            {
+                "id": 37086073560,
+                "preferredName": "Alberto Mazzoni",
+                "firstName": "Alberto",
+                "lastName": "Mazzoni"
+            },
+            {
+                "id": 37640601700,
+                "preferredName": "Alessandro Panarese",
+                "firstName": "Alessandro",
+                "lastName": "Panarese"
+            },
+            {
+                "id": 37331308700,
+                "preferredName": "Jacopo Carpaneto",
+                "firstName": "Jacopo",
+                "lastName": "Carpaneto"
+            },
+            {
+                "id": 37086837264,
+                "preferredName": "Silvia V. Conde",
+                "firstName": "Silvia V.",
+                "lastName": "Conde"
+            },
+            {
+                "id": 37331307400,
+                "preferredName": "Silvestro Micera",
+                "firstName": "Silvestro",
+                "lastName": "Micera"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2913142",
+        "publicationYear": "2019",
+        "publicationDate": "June 2019",
+        "articleNumber": "8698876",
+        "articleTitle": "Multiclass Support Matrix Machines by Maximizing the Inter-Class Margin for Single Trial EEG Classification",
+        "volume": "27",
+        "issue": "6",
+        "startPage": "1117",
+        "endPage": "1127",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Multiclass Support Matrix Machines by Maximizing the Inter-Class Margin for Single Trial EEG Classification",
+        "authors": [
+            {
+                "id": 37086853874,
+                "preferredName": "Imran Razzak",
+                "firstName": "Imran",
+                "lastName": "Razzak"
+            },
+            {
+                "id": 37270157400,
+                "preferredName": "Michael Blumenstein",
+                "firstName": "Michael",
+                "lastName": "Blumenstein"
+            },
+            {
+                "id": 37085382264,
+                "preferredName": "Guandong Xu",
+                "firstName": "Guandong",
+                "lastName": "Xu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2908817",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8680024",
+        "articleTitle": "Virtual Reality Provides an Effective Platform for Functional Evaluations of Closed-Loop Neuromyoelectric Control",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "876",
+        "endPage": "886",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Virtual Reality Provides an Effective Platform for Functional Evaluations of Closed-Loop Neuromyoelectric Control",
+        "authors": [
+            {
+                "id": 37086129800,
+                "preferredName": "David T. Kluger",
+                "firstName": "David T.",
+                "lastName": "Kluger"
+            },
+            {
+                "id": 37086832991,
+                "preferredName": "Janell S. Joyner",
+                "firstName": "Janell S.",
+                "lastName": "Joyner"
+            },
+            {
+                "id": 37085362592,
+                "preferredName": "Suzanne M. Wendelken",
+                "firstName": "Suzanne M.",
+                "lastName": "Wendelken"
+            },
+            {
+                "id": 38501449800,
+                "preferredName": "Tyler S. Davis",
+                "firstName": "Tyler S.",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37086494656,
+                "preferredName": "Jacob A. George",
+                "firstName": "Jacob A.",
+                "lastName": "George"
+            },
+            {
+                "id": 37085363429,
+                "preferredName": "David M. Page",
+                "firstName": "David M.",
+                "lastName": "Page"
+            },
+            {
+                "id": 37410797700,
+                "preferredName": "Douglas T. Hutchinson",
+                "firstName": "Douglas T.",
+                "lastName": "Hutchinson"
+            },
+            {
+                "id": 37586664000,
+                "preferredName": "Heather L. Benz",
+                "firstName": "Heather L.",
+                "lastName": "Benz"
+            },
+            {
+                "id": 37269943300,
+                "preferredName": "Gregory A. Clark",
+                "firstName": "Gregory A.",
+                "lastName": "Clark"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2911657",
+        "publicationYear": "2019",
+        "publicationDate": "May 2019",
+        "articleNumber": "8692611",
+        "articleTitle": "Quantitative Evaluation of Cerebellar Ataxia Through Automated Assessment of Upper Limb Movements",
+        "volume": "27",
+        "issue": "5",
+        "startPage": "1081",
+        "endPage": "1091",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Quantitative Evaluation of Cerebellar Ataxia Through Automated Assessment of Upper Limb Movements",
+        "authors": [
+            {
+                "id": 37085627236,
+                "preferredName": "Ha Tran",
+                "firstName": "Ha",
+                "lastName": "Tran"
+            },
+            {
+                "id": 37266000700,
+                "preferredName": "Pubudu N. Pathirana",
+                "firstName": "Pubudu N.",
+                "lastName": "Pathirana"
+            },
+            {
+                "id": 37086307390,
+                "preferredName": "Malcolm Horne",
+                "firstName": "Malcolm",
+                "lastName": "Horne"
+            },
+            {
+                "id": 37086317154,
+                "preferredName": "Laura Power",
+                "firstName": "Laura",
+                "lastName": "Power"
+            },
+            {
+                "id": 37086492631,
+                "preferredName": "David J. Szmulewicz",
+                "firstName": "David J.",
+                "lastName": "Szmulewicz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2944665",
+        "publicationYear": "2019",
+        "publicationDate": "Nov. 2019",
+        "articleNumber": "8853315",
+        "articleTitle": "Phase-Synchronized Assistive Torque Control for the Correction of Kinematic Anomalies in the Gait Cycle",
+        "volume": "27",
+        "issue": "11",
+        "startPage": "2305",
+        "endPage": "2314",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Phase-Synchronized Assistive Torque Control for the Correction of Kinematic Anomalies in the Gait Cycle",
+        "authors": [
+            {
+                "id": 37085531328,
+                "preferredName": "Gabriel Aguirre-Ollinger",
+                "firstName": "Gabriel",
+                "lastName": "Aguirre-Ollinger"
+            },
+            {
+                "id": 37086263453,
+                "preferredName": "Ashwin Narayan",
+                "firstName": "Ashwin",
+                "lastName": "Narayan"
+            },
+            {
+                "id": 37711526800,
+                "preferredName": "Haoyong Yu",
+                "firstName": "Haoyong",
+                "lastName": "Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2935302",
+        "publicationYear": "2019",
+        "publicationDate": "Sept. 2019",
+        "articleNumber": "8809266",
+        "articleTitle": "The Association of High Resolution Cervical Auscultation Signal Features With Hyoid Bone Displacement During Swallowing",
+        "volume": "27",
+        "issue": "9",
+        "startPage": "1810",
+        "endPage": "1816",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "The Association of High Resolution Cervical Auscultation Signal Features With Hyoid Bone Displacement During Swallowing",
+        "authors": [
+            {
+                "id": 37086994711,
+                "preferredName": "Qifan He",
+                "firstName": "Qifan",
+                "lastName": "He"
+            },
+            {
+                "id": 37085692364,
+                "preferredName": "Subashan Perera",
+                "firstName": "Subashan",
+                "lastName": "Perera"
+            },
+            {
+                "id": 37086226852,
+                "preferredName": "Yassin Khalifa",
+                "firstName": "Yassin",
+                "lastName": "Khalifa"
+            },
+            {
+                "id": 37086229059,
+                "preferredName": "Zhenwei Zhang",
+                "firstName": "Zhenwei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086994915,
+                "preferredName": "Amanda S. Mahoney",
+                "firstName": "Amanda S.",
+                "lastName": "Mahoney"
+            },
+            {
+                "id": 37086992451,
+                "preferredName": "Aliaa Sabry",
+                "firstName": "Aliaa",
+                "lastName": "Sabry"
+            },
+            {
+                "id": 37086995612,
+                "preferredName": "Cara Donohue",
+                "firstName": "Cara",
+                "lastName": "Donohue"
+            },
+            {
+                "id": 37085546764,
+                "preferredName": "James L. Coyle",
+                "firstName": "James L.",
+                "lastName": "Coyle"
+            },
+            {
+                "id": 38093552400,
+                "preferredName": "Ervin Sejdi\u0107",
+                "firstName": "Ervin",
+                "lastName": "Sejdi\u0107"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2939587",
+        "publicationYear": "2019",
+        "publicationDate": "Oct. 2019",
+        "articleNumber": "8825831",
+        "articleTitle": "Cellphone-Based Automated Fugl-Meyer Assessment to Evaluate Upper Extremity Motor Function After Stroke",
+        "volume": "27",
+        "issue": "10",
+        "startPage": "2186",
+        "endPage": "2195",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "Cellphone-Based Automated Fugl-Meyer Assessment to Evaluate Upper Extremity Motor Function After Stroke",
+        "authors": [
+            {
+                "id": 37086920467,
+                "preferredName": "Xinyu Song",
+                "firstName": "Xinyu",
+                "lastName": "Song"
+            },
+            {
+                "id": 37086452313,
+                "preferredName": "Shugeng Chen",
+                "firstName": "Shugeng",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086302638,
+                "preferredName": "Jie Jia",
+                "firstName": "Jie",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37394590300,
+                "preferredName": "Peter B. Shull",
+                "firstName": "Peter B.",
+                "lastName": "Shull"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7333",
+        "doi": "10.1109/TNSRE.2019.2918311",
+        "publicationYear": "2019",
+        "publicationDate": "July 2019",
+        "articleNumber": "8720217",
+        "articleTitle": "On the Time-Invariance Properties of Upper Limb Synergies",
+        "volume": "27",
+        "issue": "7",
+        "startPage": "1397",
+        "endPage": "1406",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Transactions on Neural Systems and Rehabilitation Engineering",
+        "highlightedTitle": "On the Time-Invariance Properties of Upper Limb Synergies",
+        "authors": [
+            {
+                "id": 37086312801,
+                "preferredName": "Giuseppe Averta",
+                "firstName": "Giuseppe",
+                "lastName": "Averta"
+            },
+            {
+                "id": 38269187000,
+                "preferredName": "Gaetano Valenza",
+                "firstName": "Gaetano",
+                "lastName": "Valenza"
+            },
+            {
+                "id": 37086493076,
+                "preferredName": "Vincenzo Catrambone",
+                "firstName": "Vincenzo",
+                "lastName": "Catrambone"
+            },
+            {
+                "id": 37086876295,
+                "preferredName": "Federica Barontini",
+                "firstName": "Federica",
+                "lastName": "Barontini"
+            },
+            {
+                "id": 37275959900,
+                "preferredName": "Enzo Pasquale Scilingo",
+                "firstName": "Enzo Pasquale",
+                "lastName": "Scilingo"
+            },
+            {
+                "id": 37278626700,
+                "preferredName": "Antonio Bicchi",
+                "firstName": "Antonio",
+                "lastName": "Bicchi"
+            },
+            {
+                "id": 37394737700,
+                "preferredName": "Matteo Bianchi",
+                "firstName": "Matteo",
+                "lastName": "Bianchi"
+            }
+        ]
+    }
+]
