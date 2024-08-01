@@ -1,0 +1,956 @@
+[
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.46",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5224259",
+        "articleTitle": "Power Management of Datacenter Workloads Using Per-Core Power Gating",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "48",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Power Management of Datacenter Workloads Using Per-Core Power Gating",
+        "authors": [
+            {
+                "id": 37871001100,
+                "preferredName": "Jacob Leverich",
+                "firstName": "Jacob",
+                "lastName": "Leverich"
+            },
+            {
+                "id": 37424560000,
+                "preferredName": "Matteo Monchiero",
+                "firstName": "Matteo",
+                "lastName": "Monchiero"
+            },
+            {
+                "id": 37284776200,
+                "preferredName": "Vanish Talwar",
+                "firstName": "Vanish",
+                "lastName": "Talwar"
+            },
+            {
+                "id": 37282355200,
+                "preferredName": "Parthasarathy Ranganathan",
+                "firstName": "Parthasarathy",
+                "lastName": "Ranganathan"
+            },
+            {
+                "id": 37282352700,
+                "preferredName": "Christos Kozyrakis",
+                "firstName": "Christos",
+                "lastName": "Kozyrakis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.4",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "4906237",
+        "articleTitle": "Many-Core vs. Many-Thread Machines: Stay Away From the Valley",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "25",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Many-Core vs. Many-Thread Machines: Stay Away From the Valley",
+        "authors": [
+            {
+                "id": 37586781200,
+                "preferredName": "Zvika Guz",
+                "firstName": "Zvika",
+                "lastName": "Guz"
+            },
+            {
+                "id": 37640432400,
+                "preferredName": "Evgeny Bolotin",
+                "firstName": "Evgeny",
+                "lastName": "Bolotin"
+            },
+            {
+                "id": 37275677700,
+                "preferredName": "Idit Keidar",
+                "firstName": "Idit",
+                "lastName": "Keidar"
+            },
+            {
+                "id": 37298838100,
+                "preferredName": "Avinoam Kolodny",
+                "firstName": "Avinoam",
+                "lastName": "Kolodny"
+            },
+            {
+                "id": 37282322100,
+                "preferredName": "Avi Mendelson",
+                "firstName": "Avi",
+                "lastName": "Mendelson"
+            },
+            {
+                "id": 37354492100,
+                "preferredName": "Uri C. Weiser",
+                "firstName": "Uri C.",
+                "lastName": "Weiser"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2008.13",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "4667694",
+        "articleTitle": "Multicore DIMM: an Energy Efficient Memory Module with Independently Controlled DRAMs",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "5",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Multicore DIMM: an Energy Efficient Memory Module with Independently Controlled DRAMs",
+        "authors": [
+            {
+                "id": 37673865600,
+                "preferredName": "Jung Ho Ahn",
+                "firstName": "Jung Ho",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37871001100,
+                "preferredName": "Jacob Leverich",
+                "firstName": "Jacob",
+                "lastName": "Leverich"
+            },
+            {
+                "id": 37341207700,
+                "preferredName": "Robert Schreiber",
+                "firstName": "Robert",
+                "lastName": "Schreiber"
+            },
+            {
+                "id": 37273884000,
+                "preferredName": "Norman P. Jouppi",
+                "firstName": "Norman P.",
+                "lastName": "Jouppi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.5",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "4906238",
+        "articleTitle": "A High-Throughput Distributed Shared-Buffer NoC Router",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "21",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "A High-Throughput Distributed Shared-Buffer NoC Router",
+        "authors": [
+            {
+                "id": 37274796300,
+                "preferredName": "Vassos Soteriou",
+                "firstName": "Vassos",
+                "lastName": "Soteriou"
+            },
+            {
+                "id": 37087791191,
+                "preferredName": "Rohit Sunkam Ramanujam",
+                "firstName": "Rohit",
+                "lastName": "Sunkam Ramanujam"
+            },
+            {
+                "id": 37276211100,
+                "preferredName": "Bill Lin",
+                "firstName": "Bill",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37274794400,
+                "preferredName": "Li-Shiuan Peh",
+                "firstName": "Li-Shiuan",
+                "lastName": "Peh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.45",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5191446",
+        "articleTitle": "Operand Registers and Explicit Operand Forwarding",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "60",
+        "endPage": "63",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Operand Registers and Explicit Operand Forwarding",
+        "authors": [
+            {
+                "id": 37689648800,
+                "preferredName": "James Balfour",
+                "firstName": "James",
+                "lastName": "Balfour"
+            },
+            {
+                "id": 37991465700,
+                "preferredName": "Richard Harting",
+                "firstName": "Richard",
+                "lastName": "Harting"
+            },
+            {
+                "id": 37282485100,
+                "preferredName": "William Dally",
+                "firstName": "William",
+                "lastName": "Dally"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.44",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5191445",
+        "articleTitle": "Accurate Functional-First Multicore Simulators",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "64",
+        "endPage": "67",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Accurate Functional-First Multicore Simulators",
+        "authors": [
+            {
+                "id": 37369427000,
+                "preferredName": "Derek Chiou",
+                "firstName": "Derek",
+                "lastName": "Chiou"
+            },
+            {
+                "id": 37828870300,
+                "preferredName": "Hari Angepat",
+                "firstName": "Hari",
+                "lastName": "Angepat"
+            },
+            {
+                "id": 37841576100,
+                "preferredName": "Nikhil Patil",
+                "firstName": "Nikhil",
+                "lastName": "Patil"
+            },
+            {
+                "id": 37644255500,
+                "preferredName": "Dam Sunwoo",
+                "firstName": "Dam",
+                "lastName": "Sunwoo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.1",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "4758617",
+        "articleTitle": "A Predictive Shutdown Technique for GPU Shader Processors",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "9",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "A Predictive Shutdown Technique for GPU Shader Processors",
+        "authors": [
+            {
+                "id": 37406353100,
+                "preferredName": "Po-Han Wang",
+                "firstName": "Po-Han",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37657214900,
+                "preferredName": "Yen-Ming Chen",
+                "firstName": "Yen-Ming",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37279097400,
+                "preferredName": "Chia-Lin Yang",
+                "firstName": "Chia-Lin",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37655903800,
+                "preferredName": "Yu-Jung Cheng",
+                "firstName": "Yu-Jung",
+                "lastName": "Cheng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.49",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5300796",
+        "articleTitle": "PRR-PRR Dynamic Relocation",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "44",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "PRR-PRR Dynamic Relocation",
+        "authors": [
+            {
+                "id": 37273596200,
+                "preferredName": "Arvind Sudarsanam",
+                "firstName": "Arvind",
+                "lastName": "Sudarsanam"
+            },
+            {
+                "id": 37393043800,
+                "preferredName": "Ramachandra Kallam",
+                "firstName": "Ramachandra",
+                "lastName": "Kallam"
+            },
+            {
+                "id": 37326538600,
+                "preferredName": "Aravind Dasu",
+                "firstName": "Aravind",
+                "lastName": "Dasu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.3",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "4839102",
+        "articleTitle": "CPU Accounting in CMP Processors",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "17",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "CPU Accounting in CMP Processors",
+        "authors": [
+            {
+                "id": 38102423800,
+                "preferredName": "Carlos Luque",
+                "firstName": "Carlos",
+                "lastName": "Luque"
+            },
+            {
+                "id": 37296755700,
+                "preferredName": "Miquel Moreto",
+                "firstName": "Miquel",
+                "lastName": "Moreto"
+            },
+            {
+                "id": 37265870500,
+                "preferredName": "Francisco J. Cazorla",
+                "firstName": "Francisco J.",
+                "lastName": "Cazorla"
+            },
+            {
+                "id": 37424256600,
+                "preferredName": "Roberto Gioiosa",
+                "firstName": "Roberto",
+                "lastName": "Gioiosa"
+            },
+            {
+                "id": 37267009200,
+                "preferredName": "Alper Buyuktosunoglu",
+                "firstName": "Alper",
+                "lastName": "Buyuktosunoglu"
+            },
+            {
+                "id": 37265842600,
+                "preferredName": "Mateo Valero",
+                "firstName": "Mateo",
+                "lastName": "Valero"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2008.14",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "4671719",
+        "articleTitle": "Weighted Random Routing on Torus Networks",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "1",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Weighted Random Routing on Torus Networks",
+        "authors": [
+            {
+                "id": 37087791191,
+                "preferredName": "Rohit Sunkam Ramanujam",
+                "firstName": "Rohit",
+                "lastName": "Sunkam Ramanujam"
+            },
+            {
+                "id": 37276211100,
+                "preferredName": "Bill Lin",
+                "firstName": "Bill",
+                "lastName": "Lin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.47",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5224260",
+        "articleTitle": "Characterizing the Energy Consumption of Software Transactional Memory",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "56",
+        "endPage": "59",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Characterizing the Energy Consumption of Software Transactional Memory",
+        "authors": [
+            {
+                "id": 37689195600,
+                "preferredName": "Alexandro Baldassin",
+                "firstName": "Alexandro",
+                "lastName": "Baldassin"
+            },
+            {
+                "id": 37275637700,
+                "preferredName": "Felipe Klein",
+                "firstName": "Felipe",
+                "lastName": "Klein"
+            },
+            {
+                "id": 37275641100,
+                "preferredName": "Guido Araujo",
+                "firstName": "Guido",
+                "lastName": "Araujo"
+            },
+            {
+                "id": 37275632200,
+                "preferredName": "Rodolfo Azevedo",
+                "firstName": "Rodolfo",
+                "lastName": "Azevedo"
+            },
+            {
+                "id": 37266657200,
+                "preferredName": "Paulo Centoducatte",
+                "firstName": "Paulo",
+                "lastName": "Centoducatte"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.7",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "5004931",
+        "articleTitle": "Architecture Independent Characterization of Embedded Java Workloads",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "29",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Architecture Independent Characterization of Embedded Java Workloads",
+        "authors": [
+            {
+                "id": 37317420600,
+                "preferredName": "Aniruddha Desai",
+                "firstName": "Aniruddha",
+                "lastName": "Desai"
+            },
+            {
+                "id": 37271345200,
+                "preferredName": "Jugdutt Singh",
+                "firstName": "Jugdutt",
+                "lastName": "Singh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.48",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5224261",
+        "articleTitle": "A Process-Variation Aware Technique for Tile-Based, Massive Multicore Processors",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "52",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "A Process-Variation Aware Technique for Tile-Based, Massive Multicore Processors",
+        "authors": [
+            {
+                "id": 37354434600,
+                "preferredName": "Enric Musoll",
+                "firstName": "Enric",
+                "lastName": "Musoll"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.50",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5300797",
+        "articleTitle": "Exploiting locality to improve circuit-level timing speculation",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "40",
+        "endPage": "43",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Exploiting locality to improve circuit-level timing speculation",
+        "authors": [
+            {
+                "id": 37668683500,
+                "preferredName": "Jing Xin",
+                "firstName": "Jing",
+                "lastName": "Xin"
+            },
+            {
+                "id": 37413368000,
+                "preferredName": "Russ Joseph",
+                "firstName": "Russ",
+                "lastName": "Joseph"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.6",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "4967562",
+        "articleTitle": "A Comment on \"Beyond Fat-tree: Unidirectional Load-Balanced Multistage Interconnection Network\"",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "33",
+        "endPage": "34",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "A Comment on \"Beyond Fat-tree: Unidirectional Load-Balanced Multistage Interconnection Network\"",
+        "authors": [
+            {
+                "id": 37324550600,
+                "preferredName": "Elisardo Antelo",
+                "firstName": "Elisardo",
+                "lastName": "Antelo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.2",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "4814923",
+        "articleTitle": "An XML-Based ADL Framework for Automatic Generation of Multithreaded Computer Architecture Simulators",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "13",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "An XML-Based ADL Framework for Automatic Generation of Multithreaded Computer Architecture Simulators",
+        "authors": [
+            {
+                "id": 38191434800,
+                "preferredName": "Christopher Barnes",
+                "firstName": "Christopher",
+                "lastName": "Barnes"
+            },
+            {
+                "id": 37841088200,
+                "preferredName": "Pranav Vaidya",
+                "firstName": "Pranav",
+                "lastName": "Vaidya"
+            },
+            {
+                "id": 37073024100,
+                "preferredName": "Jaehwan John Lee",
+                "firstName": "Jaehwan John",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.61",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370722",
+        "articleTitle": "Letter from the Editor",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "39",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Letter from the Editor",
+        "authors": [
+            {
+                "id": 37273724700,
+                "preferredName": "Kevin Skadron",
+                "firstName": "Kevin",
+                "lastName": "Skadron"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.60",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370721",
+        "articleTitle": "Introducing the New Editor-in-Chief of IEEE Computer Architecture Letters",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "37",
+        "endPage": "38",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Introducing the New Editor-in-Chief of IEEE Computer Architecture Letters",
+        "authors": [
+            {
+                "id": 37087572098,
+                "preferredName": "Jean-Luc Gaudiot",
+                "firstName": "Jean-Luc",
+                "lastName": "Gaudiot"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.38",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "5071082",
+        "articleTitle": "[Advertisement]",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "35",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Advertisement]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.56",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370719",
+        "articleTitle": "[Front cover]",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.52",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370723",
+        "articleTitle": "[Advertisement]",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "68",
+        "endPage": "68",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Advertisement]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.55",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370725",
+        "articleTitle": "[Advertisement]",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "70",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Advertisement]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.51",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370727",
+        "articleTitle": "[Advertisement]",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "72",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Advertisement]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.39",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "5071081",
+        "articleTitle": "Ad - IEEE Computer Society Digital Library",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "36",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Ad - IEEE Computer Society Digital Library",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.40",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "5071079",
+        "articleTitle": "[Front cover]",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.53",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370724",
+        "articleTitle": "[Advertisement]",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "69",
+        "endPage": "69",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Advertisement]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.54",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370726",
+        "articleTitle": "[Advertisement]",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "71",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Advertisement]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.41",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "5071080",
+        "articleTitle": "Editorial Board [Cover2]",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "c2",
+        "endPage": "c2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Editorial Board [Cover2]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.43",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "5071084",
+        "articleTitle": "IEEE Computer Society [Cover4]",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "c4",
+        "endPage": "c4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "IEEE Computer Society [Cover4]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.59",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370729",
+        "articleTitle": "IEEE Computer Society [Cover4]",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "c4",
+        "endPage": "c4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "IEEE Computer Society [Cover4]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.42",
+        "publicationYear": "2009",
+        "publicationDate": "Jan.-June 2009",
+        "articleNumber": "5071083",
+        "articleTitle": "Information for authors",
+        "volume": "8",
+        "issue": "1",
+        "startPage": "c3",
+        "endPage": "c3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Information for authors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.57",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370720",
+        "articleTitle": "Editorial Board [Cover2]",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "c2",
+        "endPage": "c2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Editorial Board [Cover2]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2009.58",
+        "publicationYear": "2009",
+        "publicationDate": "July-Dec. 2009",
+        "articleNumber": "5370728",
+        "articleTitle": "Information for authors",
+        "volume": "8",
+        "issue": "2",
+        "startPage": "c3",
+        "endPage": "c3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Information for authors",
+        "authors": []
+    }
+]

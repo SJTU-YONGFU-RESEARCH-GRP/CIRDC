@@ -1,0 +1,2946 @@
+[
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891022",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891022",
+        "articleTitle": "Improving Resource Utilization in Data Centers using an LSTM-based Prediction Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Improving Resource Utilization in Data Centers using an LSTM-based Prediction Model",
+        "authors": [
+            {
+                "id": 37087043149,
+                "preferredName": "Kundjanasith Thonglek",
+                "firstName": "Kundjanasith",
+                "lastName": "Thonglek"
+            },
+            {
+                "id": 37542876600,
+                "preferredName": "Kohei Ichikawa",
+                "firstName": "Kohei",
+                "lastName": "Ichikawa"
+            },
+            {
+                "id": 37085358476,
+                "preferredName": "Keichi Takahashi",
+                "firstName": "Keichi",
+                "lastName": "Takahashi"
+            },
+            {
+                "id": 37290047200,
+                "preferredName": "Hajimu Iida",
+                "firstName": "Hajimu",
+                "lastName": "Iida"
+            },
+            {
+                "id": 37085631708,
+                "preferredName": "Chawanat Nakasan",
+                "firstName": "Chawanat",
+                "lastName": "Nakasan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890996",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890996",
+        "articleTitle": "Improving Access to HDFS using NVMeoF",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Improving Access to HDFS using NVMeoF",
+        "authors": [
+            {
+                "id": 37087085458,
+                "preferredName": "Daegyu Han",
+                "firstName": "Daegyu",
+                "lastName": "Han"
+            },
+            {
+                "id": 37276991700,
+                "preferredName": "Beomseok Nam",
+                "firstName": "Beomseok",
+                "lastName": "Nam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891001",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891001",
+        "articleTitle": "Learning from Five-year Resource-Utilization Data of Titan System",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Learning from Five-year Resource-Utilization Data of Titan System",
+        "authors": [
+            {
+                "id": 37713911900,
+                "preferredName": "Feiyi Wang",
+                "firstName": "Feiyi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37279798800,
+                "preferredName": "Sarp Oral",
+                "firstName": "Sarp",
+                "lastName": "Oral"
+            },
+            {
+                "id": 37411627200,
+                "preferredName": "Satyabrata Sen",
+                "firstName": "Satyabrata",
+                "lastName": "Sen"
+            },
+            {
+                "id": 37601782800,
+                "preferredName": "Neena Imam",
+                "firstName": "Neena",
+                "lastName": "Imam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891047",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891047",
+        "articleTitle": "SMQoS: Improving Utilization and Energy Efficiency with QoS Awareness on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "SMQoS: Improving Utilization and Energy Efficiency with QoS Awareness on GPUs",
+        "authors": [
+            {
+                "id": 37087083980,
+                "preferredName": "Qingxiao Sun",
+                "firstName": "Qingxiao",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37292040700,
+                "preferredName": "Yi Liu",
+                "firstName": "Yi",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38239064700,
+                "preferredName": "Hailong Yang",
+                "firstName": "Hailong",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37303834600,
+                "preferredName": "Zhongzhi Luan",
+                "firstName": "Zhongzhi",
+                "lastName": "Luan"
+            },
+            {
+                "id": 37289498500,
+                "preferredName": "Depei Qian",
+                "firstName": "Depei",
+                "lastName": "Qian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891007",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891007",
+        "articleTitle": "Mitigating Inter-Job Interference via Process-Level Quality-of-Service",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Mitigating Inter-Job Interference via Process-Level Quality-of-Service",
+        "authors": [
+            {
+                "id": 37085840109,
+                "preferredName": "Lee Savoie",
+                "firstName": "Lee",
+                "lastName": "Savoie"
+            },
+            {
+                "id": 37267980900,
+                "preferredName": "David K. Lowenthal",
+                "firstName": "David K.",
+                "lastName": "Lowenthal"
+            },
+            {
+                "id": 37392805500,
+                "preferredName": "Bronis R. de Supinski",
+                "firstName": "Bronis R.",
+                "lastName": "de Supinski"
+            },
+            {
+                "id": 37422444700,
+                "preferredName": "Kathryn Mohror",
+                "firstName": "Kathryn",
+                "lastName": "Mohror"
+            },
+            {
+                "id": 38242317700,
+                "preferredName": "Nikhil Jain",
+                "firstName": "Nikhil",
+                "lastName": "Jain"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891044",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891044",
+        "articleTitle": "Design Exploration of Multi-FPGAs for Accelerating Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Design Exploration of Multi-FPGAs for Accelerating Deep Learning",
+        "authors": [
+            {
+                "id": 37087027575,
+                "preferredName": "Teng Wang",
+                "firstName": "Teng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086052008,
+                "preferredName": "Lei Gong",
+                "firstName": "Lei",
+                "lastName": "Gong"
+            },
+            {
+                "id": 37676580400,
+                "preferredName": "Chao Wang",
+                "firstName": "Chao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37406428200,
+                "preferredName": "Xuehai Zhou",
+                "firstName": "Xuehai",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37407253100,
+                "preferredName": "Huaping Chen",
+                "firstName": "Huaping",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891039",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891039",
+        "articleTitle": "Accelerating Hyperdimensional Classifier on Multiple GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Accelerating Hyperdimensional Classifier on Multiple GPUs",
+        "authors": [
+            {
+                "id": 37086393308,
+                "preferredName": "Zheming Jin",
+                "firstName": "Zheming",
+                "lastName": "Jin"
+            },
+            {
+                "id": 38549075500,
+                "preferredName": "Hal Finkel",
+                "firstName": "Hal",
+                "lastName": "Finkel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890997",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890997",
+        "articleTitle": "Standardized Environment for Monitoring Heterogeneous Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Standardized Environment for Monitoring Heterogeneous Architectures",
+        "authors": [
+            {
+                "id": 37087083662,
+                "preferredName": "Connor Brown",
+                "firstName": "Connor",
+                "lastName": "Brown"
+            },
+            {
+                "id": 37086225603,
+                "preferredName": "Benjamin Schwaller",
+                "firstName": "Benjamin",
+                "lastName": "Schwaller"
+            },
+            {
+                "id": 37888481000,
+                "preferredName": "Nathan Gauntt",
+                "firstName": "Nathan",
+                "lastName": "Gauntt"
+            },
+            {
+                "id": 38113838800,
+                "preferredName": "Benjamin Allan",
+                "firstName": "Benjamin",
+                "lastName": "Allan"
+            },
+            {
+                "id": 37087083284,
+                "preferredName": "Kevin Davis",
+                "firstName": "Kevin",
+                "lastName": "Davis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891052",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891052",
+        "articleTitle": "Analyzing the Impact of Lossy Compressor Variability on Checkpointing Scientific Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Analyzing the Impact of Lossy Compressor Variability on Checkpointing Scientific Simulations",
+        "authors": [
+            {
+                "id": 37087086003,
+                "preferredName": "Pavlo Triantafyllides",
+                "firstName": "Pavlo",
+                "lastName": "Triantafyllides"
+            },
+            {
+                "id": 37085744499,
+                "preferredName": "Tasmia Reza",
+                "firstName": "Tasmia",
+                "lastName": "Reza"
+            },
+            {
+                "id": 38485584400,
+                "preferredName": "Jon C. Calhoun",
+                "firstName": "Jon C.",
+                "lastName": "Calhoun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891035",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891035",
+        "articleTitle": "LogGOPSC: A Parallel Computation Model Extending Network Contention into LogGOPS",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "LogGOPSC: A Parallel Computation Model Extending Network Contention into LogGOPS",
+        "authors": [
+            {
+                "id": 37086802311,
+                "preferredName": "Yan Baicheng",
+                "firstName": "Yan",
+                "lastName": "Baicheng"
+            },
+            {
+                "id": 37086802279,
+                "preferredName": "Zhou Yi",
+                "firstName": "Zhou",
+                "lastName": "Yi"
+            },
+            {
+                "id": 37574458700,
+                "preferredName": "Xiao Limin",
+                "firstName": "Xiao",
+                "lastName": "Limin"
+            },
+            {
+                "id": 37087085787,
+                "preferredName": "Huo Jiantong",
+                "firstName": "Huo",
+                "lastName": "Jiantong"
+            },
+            {
+                "id": 37087082840,
+                "preferredName": "Wang Zhaokai",
+                "firstName": "Wang",
+                "lastName": "Zhaokai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891043",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891043",
+        "articleTitle": "Workflows for Performance Predictable and Reproducible HPC Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Workflows for Performance Predictable and Reproducible HPC Applications",
+        "authors": [
+            {
+                "id": 37087086555,
+                "preferredName": "Keira Haskins",
+                "firstName": "Keira",
+                "lastName": "Haskins"
+            },
+            {
+                "id": 37087082847,
+                "preferredName": "Quincy Wofford",
+                "firstName": "Quincy",
+                "lastName": "Wofford"
+            },
+            {
+                "id": 37297401200,
+                "preferredName": "Patrick G. Bridges",
+                "firstName": "Patrick G.",
+                "lastName": "Bridges"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891010",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891010",
+        "articleTitle": "Automatic Power Saving Method by Energy Aware Job Scheduler",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Automatic Power Saving Method by Energy Aware Job Scheduler",
+        "authors": [
+            {
+                "id": 37087083679,
+                "preferredName": "Hiroaki Imade",
+                "firstName": "Hiroaki",
+                "lastName": "Imade"
+            },
+            {
+                "id": 37070899800,
+                "preferredName": "Takahiro Kagami",
+                "firstName": "Takahiro",
+                "lastName": "Kagami"
+            },
+            {
+                "id": 37087082648,
+                "preferredName": "Tomohiro Otawa",
+                "firstName": "Tomohiro",
+                "lastName": "Otawa"
+            },
+            {
+                "id": 37088738251,
+                "preferredName": "Kouichi Hirai",
+                "firstName": "Kouichi",
+                "lastName": "Hirai"
+            },
+            {
+                "id": 37087086164,
+                "preferredName": "Yoshio Sakaguchi",
+                "firstName": "Yoshio",
+                "lastName": "Sakaguchi"
+            },
+            {
+                "id": 38099413900,
+                "preferredName": "Naoyuki Fujita",
+                "firstName": "Naoyuki",
+                "lastName": "Fujita"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891032",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891032",
+        "articleTitle": "Diagnostic Analysis: Directional Relation Graph",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Diagnostic Analysis: Directional Relation Graph",
+        "authors": [
+            {
+                "id": 37087084722,
+                "preferredName": "Sandy Kaur",
+                "firstName": "Sandy",
+                "lastName": "Kaur"
+            },
+            {
+                "id": 37896869800,
+                "preferredName": "Eun Kyung Lee",
+                "firstName": "Eun Kyung",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891046",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891046",
+        "articleTitle": "Cost-efficiency of Large-scale Electronic Structure Simulations with Intel Xeon Phi Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Cost-efficiency of Large-scale Electronic Structure Simulations with Intel Xeon Phi Processors",
+        "authors": [
+            {
+                "id": 37536470200,
+                "preferredName": "Hoon Ryu",
+                "firstName": "Hoon",
+                "lastName": "Ryu"
+            },
+            {
+                "id": 37086196965,
+                "preferredName": "Seungmin Lee",
+                "firstName": "Seungmin",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891009",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891009",
+        "articleTitle": "mSMS: PGAS Runtime with Efficient Thread-based Communication for Global-view Programming",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "mSMS: PGAS Runtime with Efficient Thread-based Communication for Global-view Programming",
+        "authors": [
+            {
+                "id": 37352373300,
+                "preferredName": "Hiroko Midorikawa",
+                "firstName": "Hiroko",
+                "lastName": "Midorikawa"
+            },
+            {
+                "id": 37086197666,
+                "preferredName": "Kenji Kitagawa",
+                "firstName": "Kenji",
+                "lastName": "Kitagawa"
+            },
+            {
+                "id": 37087086162,
+                "preferredName": "Yugo Sakaguchi",
+                "firstName": "Yugo",
+                "lastName": "Sakaguchi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891030",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891030",
+        "articleTitle": "CLUSTER 2019 Keynotes",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "CLUSTER 2019 Keynotes",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891023",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891023",
+        "articleTitle": "Efficient User-Level Storage Disaggregation for Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Efficient User-Level Storage Disaggregation for Deep Learning",
+        "authors": [
+            {
+                "id": 37086163015,
+                "preferredName": "Yue Zhu",
+                "firstName": "Yue",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37405649800,
+                "preferredName": "Weikuan Yu",
+                "firstName": "Weikuan",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37087084539,
+                "preferredName": "Bing Jiao",
+                "firstName": "Bing",
+                "lastName": "Jiao"
+            },
+            {
+                "id": 37422444700,
+                "preferredName": "Kathryn Mohror",
+                "firstName": "Kathryn",
+                "lastName": "Mohror"
+            },
+            {
+                "id": 37601318100,
+                "preferredName": "Adam Moody",
+                "firstName": "Adam",
+                "lastName": "Moody"
+            },
+            {
+                "id": 37086519485,
+                "preferredName": "Fahim Chowdhury",
+                "firstName": "Fahim",
+                "lastName": "Chowdhury"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891040",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891040",
+        "articleTitle": "Kube-Knots: Resource Harvesting through Dynamic Container Orchestration in GPU-based Datacenters",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Kube-Knots: Resource Harvesting through Dynamic Container Orchestration in GPU-based Datacenters",
+        "authors": [
+            {
+                "id": 38474017800,
+                "preferredName": "Prashanth Thinakaran",
+                "firstName": "Prashanth",
+                "lastName": "Thinakaran"
+            },
+            {
+                "id": 38473973200,
+                "preferredName": "Jashwant Raj Gunasekaran",
+                "firstName": "Jashwant Raj",
+                "lastName": "Gunasekaran"
+            },
+            {
+                "id": 37581298900,
+                "preferredName": "Bikash Sharma",
+                "firstName": "Bikash",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Taylan Kandemir",
+                "firstName": "Mahmut Taylan",
+                "lastName": "Kandemir"
+            },
+            {
+                "id": 37268589600,
+                "preferredName": "Chita R. Das",
+                "firstName": "Chita R.",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891000",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891000",
+        "articleTitle": "Large-Scale Analysis of the Docker Hub Dataset",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Large-Scale Analysis of the Docker Hub Dataset",
+        "authors": [
+            {
+                "id": 37089263106,
+                "preferredName": "Nannan Zhao",
+                "firstName": "Nannan",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37950134600,
+                "preferredName": "Vasily Tarasov",
+                "firstName": "Vasily",
+                "lastName": "Tarasov"
+            },
+            {
+                "id": 37086130547,
+                "preferredName": "Hadeel Albahar",
+                "firstName": "Hadeel",
+                "lastName": "Albahar"
+            },
+            {
+                "id": 37085385315,
+                "preferredName": "Ali Anwar",
+                "firstName": "Ali",
+                "lastName": "Anwar"
+            },
+            {
+                "id": 38506242300,
+                "preferredName": "Lukas Rupprecht",
+                "firstName": "Lukas",
+                "lastName": "Rupprecht"
+            },
+            {
+                "id": 37086053566,
+                "preferredName": "Dimitrios Skourtis",
+                "firstName": "Dimitrios",
+                "lastName": "Skourtis"
+            },
+            {
+                "id": 37086056433,
+                "preferredName": "Amit S. Warke",
+                "firstName": "Amit S.",
+                "lastName": "Warke"
+            },
+            {
+                "id": 37951527500,
+                "preferredName": "Mohamed Mohamed",
+                "firstName": "Mohamed",
+                "lastName": "Mohamed"
+            },
+            {
+                "id": 37411735900,
+                "preferredName": "Ali R. Butt",
+                "firstName": "Ali R.",
+                "lastName": "Butt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891042",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891042",
+        "articleTitle": "Performance Characterization of DNN Training using TensorFlow and PyTorch on Modern Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Performance Characterization of DNN Training using TensorFlow and PyTorch on Modern Clusters",
+        "authors": [
+            {
+                "id": 37087084894,
+                "preferredName": "Arpan Jain",
+                "firstName": "Arpan",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37073634800,
+                "preferredName": "Ammar Ahmad Awan",
+                "firstName": "Ammar Ahmad",
+                "lastName": "Awan"
+            },
+            {
+                "id": 37087082454,
+                "preferredName": "Quentin Anthony",
+                "firstName": "Quentin",
+                "lastName": "Anthony"
+            },
+            {
+                "id": 37393051700,
+                "preferredName": "Hari Subramoni",
+                "firstName": "Hari",
+                "lastName": "Subramoni"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhableswar K. DK Panda",
+                "firstName": "Dhableswar K. DK",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891012",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891012",
+        "articleTitle": "Parallelizing Training of Deep Generative Models on Massive Scientific Datasets",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Parallelizing Training of Deep Generative Models on Massive Scientific Datasets",
+        "authors": [
+            {
+                "id": 37089655902,
+                "preferredName": "Sam Ade Jacobs",
+                "firstName": "Sam Ade",
+                "lastName": "Jacobs"
+            },
+            {
+                "id": 37992882700,
+                "preferredName": "Brian Van Essen",
+                "firstName": "Brian",
+                "lastName": "Van Essen"
+            },
+            {
+                "id": 37830764600,
+                "preferredName": "David Hysom",
+                "firstName": "David",
+                "lastName": "Hysom"
+            },
+            {
+                "id": 38468486600,
+                "preferredName": "Jae-Seung Yeom",
+                "firstName": "Jae-Seung",
+                "lastName": "Yeom"
+            },
+            {
+                "id": 37086077258,
+                "preferredName": "Tim Moon",
+                "firstName": "Tim",
+                "lastName": "Moon"
+            },
+            {
+                "id": 37077387500,
+                "preferredName": "Rushil Anirudh",
+                "firstName": "Rushil",
+                "lastName": "Anirudh"
+            },
+            {
+                "id": 37088828951,
+                "preferredName": "Jayaraman J. Thiagaranjan",
+                "firstName": "Jayaraman J.",
+                "lastName": "Thiagaranjan"
+            },
+            {
+                "id": 38025553600,
+                "preferredName": "Shusen Liu",
+                "firstName": "Shusen",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37564112000,
+                "preferredName": "Peer-Timo Bremer",
+                "firstName": "Peer-Timo",
+                "lastName": "Bremer"
+            },
+            {
+                "id": 37087084442,
+                "preferredName": "Jim Gaffney",
+                "firstName": "Jim",
+                "lastName": "Gaffney"
+            },
+            {
+                "id": 37393209600,
+                "preferredName": "Tom Benson",
+                "firstName": "Tom",
+                "lastName": "Benson"
+            },
+            {
+                "id": 37087086552,
+                "preferredName": "Peter Robinson",
+                "firstName": "Peter",
+                "lastName": "Robinson"
+            },
+            {
+                "id": 37087084466,
+                "preferredName": "Luc Peterson",
+                "firstName": "Luc",
+                "lastName": "Peterson"
+            },
+            {
+                "id": 38113520200,
+                "preferredName": "Brian Spears",
+                "firstName": "Brian",
+                "lastName": "Spears"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891037",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891037",
+        "articleTitle": "Improving Performance of Data Dumping with Lossy Compression for Scientific Simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Improving Performance of Data Dumping with Lossy Compression for Scientific Simulation",
+        "authors": [
+            {
+                "id": 37085659880,
+                "preferredName": "Xin Liang",
+                "firstName": "Xin",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37681686900,
+                "preferredName": "Sheng Di",
+                "firstName": "Sheng",
+                "lastName": "Di"
+            },
+            {
+                "id": 37086033499,
+                "preferredName": "Dingwen Tao",
+                "firstName": "Dingwen",
+                "lastName": "Tao"
+            },
+            {
+                "id": 37085839307,
+                "preferredName": "Sihuan Li",
+                "firstName": "Sihuan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37392723100,
+                "preferredName": "Bogdan Nicolae",
+                "firstName": "Bogdan",
+                "lastName": "Nicolae"
+            },
+            {
+                "id": 37404309300,
+                "preferredName": "Zizhong Chen",
+                "firstName": "Zizhong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890991",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890991",
+        "articleTitle": "Fast and Scalable Implementations of Influence Maximization Algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Fast and Scalable Implementations of Influence Maximization Algorithms",
+        "authors": [
+            {
+                "id": 37085564275,
+                "preferredName": "Marco Minutoli",
+                "firstName": "Marco",
+                "lastName": "Minutoli"
+            },
+            {
+                "id": 37885961700,
+                "preferredName": "Mahantesh Halappanavar",
+                "firstName": "Mahantesh",
+                "lastName": "Halappanavar"
+            },
+            {
+                "id": 38242841200,
+                "preferredName": "Ananth Kalyanaraman",
+                "firstName": "Ananth",
+                "lastName": "Kalyanaraman"
+            },
+            {
+                "id": 37395037700,
+                "preferredName": "Arun Sathanur",
+                "firstName": "Arun",
+                "lastName": "Sathanur"
+            },
+            {
+                "id": 37087084391,
+                "preferredName": "Ryan Mcclure",
+                "firstName": "Ryan",
+                "lastName": "Mcclure"
+            },
+            {
+                "id": 38117774500,
+                "preferredName": "Jason McDermott",
+                "firstName": "Jason",
+                "lastName": "McDermott"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890993",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890993",
+        "articleTitle": "A Quantitative Study of Deep Learning Training on Heterogeneous Supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "A Quantitative Study of Deep Learning Training on Heterogeneous Supercomputers",
+        "authors": [
+            {
+                "id": 37086799026,
+                "preferredName": "Jingoo Han",
+                "firstName": "Jingoo",
+                "lastName": "Han"
+            },
+            {
+                "id": 37085501969,
+                "preferredName": "Luna Xu",
+                "firstName": "Luna",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37579488000,
+                "preferredName": "M. Mustafa Rafique",
+                "firstName": "M. Mustafa",
+                "lastName": "Rafique"
+            },
+            {
+                "id": 37411735900,
+                "preferredName": "Ali R. Butt",
+                "firstName": "Ali R.",
+                "lastName": "Butt"
+            },
+            {
+                "id": 38467884900,
+                "preferredName": "Seung-Hwan Lim",
+                "firstName": "Seung-Hwan",
+                "lastName": "Lim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891015",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891015",
+        "articleTitle": "Give MPI Threading a Fair Chance: A Study of Multithreaded MPI Designs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Give MPI Threading a Fair Chance: A Study of Multithreaded MPI Designs",
+        "authors": [
+            {
+                "id": 37087083945,
+                "preferredName": "Thananon Patinyasakdikul",
+                "firstName": "Thananon",
+                "lastName": "Patinyasakdikul"
+            },
+            {
+                "id": 37087086158,
+                "preferredName": "David Eberius",
+                "firstName": "David",
+                "lastName": "Eberius"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            },
+            {
+                "id": 38481708800,
+                "preferredName": "Nathan Hjelm",
+                "firstName": "Nathan",
+                "lastName": "Hjelm"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891020",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891020",
+        "articleTitle": "\u03bcDBSCAN: An Exact Scalable DBSCAN Algorithm for Big Data Exploiting Spatial Locality",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "\u03bcDBSCAN: An Exact Scalable DBSCAN Algorithm for Big Data Exploiting Spatial Locality",
+        "authors": [
+            {
+                "id": 37086359628,
+                "preferredName": "Aditya Sarma",
+                "firstName": "Aditya",
+                "lastName": "Sarma"
+            },
+            {
+                "id": 38232017200,
+                "preferredName": "Poonam Goyal",
+                "firstName": "Poonam",
+                "lastName": "Goyal"
+            },
+            {
+                "id": 38241305100,
+                "preferredName": "Sonal Kumari",
+                "firstName": "Sonal",
+                "lastName": "Kumari"
+            },
+            {
+                "id": 37087084092,
+                "preferredName": "Anand Wani",
+                "firstName": "Anand",
+                "lastName": "Wani"
+            },
+            {
+                "id": 37945943300,
+                "preferredName": "Jagat Sesh Challa",
+                "firstName": "Jagat Sesh",
+                "lastName": "Challa"
+            },
+            {
+                "id": 37086148956,
+                "preferredName": "Saiyedul Islam",
+                "firstName": "Saiyedul",
+                "lastName": "Islam"
+            },
+            {
+                "id": 37939512600,
+                "preferredName": "Navneet Goyal",
+                "firstName": "Navneet",
+                "lastName": "Goyal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891051",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891051",
+        "articleTitle": "Evaluating Burst Buffer Placement in HPC Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Evaluating Burst Buffer Placement in HPC Systems",
+        "authors": [
+            {
+                "id": 37087083593,
+                "preferredName": "Harsh Khetawat",
+                "firstName": "Harsh",
+                "lastName": "Khetawat"
+            },
+            {
+                "id": 37086137773,
+                "preferredName": "Christopher Zimmer",
+                "firstName": "Christopher",
+                "lastName": "Zimmer"
+            },
+            {
+                "id": 37268072900,
+                "preferredName": "Frank Mueller",
+                "firstName": "Frank",
+                "lastName": "Mueller"
+            },
+            {
+                "id": 37326523400,
+                "preferredName": "Scott Atchley",
+                "firstName": "Scott",
+                "lastName": "Atchley"
+            },
+            {
+                "id": 37299720900,
+                "preferredName": "Sudharshan S. Vazhkudai",
+                "firstName": "Sudharshan S.",
+                "lastName": "Vazhkudai"
+            },
+            {
+                "id": 38556582800,
+                "preferredName": "Misbah Mubarak",
+                "firstName": "Misbah",
+                "lastName": "Mubarak"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891014",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891014",
+        "articleTitle": "NORNS: Extending Slurm to Support Data-Driven Workflows through Asynchronous Data Staging",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "NORNS: Extending Slurm to Support Data-Driven Workflows through Asynchronous Data Staging",
+        "authors": [
+            {
+                "id": 38241974400,
+                "preferredName": "Alberto Miranda",
+                "firstName": "Alberto",
+                "lastName": "Miranda"
+            },
+            {
+                "id": 37401995800,
+                "preferredName": "Adrian Jackson",
+                "firstName": "Adrian",
+                "lastName": "Jackson"
+            },
+            {
+                "id": 37086314843,
+                "preferredName": "Tommaso Tocci",
+                "firstName": "Tommaso",
+                "lastName": "Tocci"
+            },
+            {
+                "id": 37087086736,
+                "preferredName": "Iakovos Panourgias",
+                "firstName": "Iakovos",
+                "lastName": "Panourgias"
+            },
+            {
+                "id": 37299625800,
+                "preferredName": "Ramon Nou",
+                "firstName": "Ramon",
+                "lastName": "Nou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890995",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890995",
+        "articleTitle": "Propagation and Decay of Injected One-Off Delays on Clusters: A Case Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Propagation and Decay of Injected One-Off Delays on Clusters: A Case Study",
+        "authors": [
+            {
+                "id": 37086443227,
+                "preferredName": "Ayesha Afzal",
+                "firstName": "Ayesha",
+                "lastName": "Afzal"
+            },
+            {
+                "id": 37401957300,
+                "preferredName": "Georg Hager",
+                "firstName": "Georg",
+                "lastName": "Hager"
+            },
+            {
+                "id": 37394312000,
+                "preferredName": "Gerhard Wellein",
+                "firstName": "Gerhard",
+                "lastName": "Wellein"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891027",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891027",
+        "articleTitle": "DiffTrace: Efficient Whole-Program Trace Analysis and Diffing for Debugging",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "DiffTrace: Efficient Whole-Program Trace Analysis and Diffing for Debugging",
+        "authors": [
+            {
+                "id": 37087086942,
+                "preferredName": "Saeed Taheri",
+                "firstName": "Saeed",
+                "lastName": "Taheri"
+            },
+            {
+                "id": 37086273229,
+                "preferredName": "Ian Briggs",
+                "firstName": "Ian",
+                "lastName": "Briggs"
+            },
+            {
+                "id": 37297364200,
+                "preferredName": "Martin Burtscher",
+                "firstName": "Martin",
+                "lastName": "Burtscher"
+            },
+            {
+                "id": 37283850200,
+                "preferredName": "Ganesh Gopalakrishnan",
+                "firstName": "Ganesh",
+                "lastName": "Gopalakrishnan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891002",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891002",
+        "articleTitle": "MPI Sessions: Evaluation of an Implementation in Open MPI",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "MPI Sessions: Evaluation of an Implementation in Open MPI",
+        "authors": [
+            {
+                "id": 38481708800,
+                "preferredName": "Nathan Hjelm",
+                "firstName": "Nathan",
+                "lastName": "Hjelm"
+            },
+            {
+                "id": 37085651113,
+                "preferredName": "Howard Pritchard",
+                "firstName": "Howard",
+                "lastName": "Pritchard"
+            },
+            {
+                "id": 38480735500,
+                "preferredName": "Samuel K. Guti\u00e9rrez",
+                "firstName": "Samuel K.",
+                "lastName": "Guti\u00e9rrez"
+            },
+            {
+                "id": 37087083426,
+                "preferredName": "Daniel J. Holmes",
+                "firstName": "Daniel J.",
+                "lastName": "Holmes"
+            },
+            {
+                "id": 37088191765,
+                "preferredName": "Ralph Castain",
+                "firstName": "Ralph",
+                "lastName": "Castain"
+            },
+            {
+                "id": 37347707700,
+                "preferredName": "Anthony Skjellum",
+                "firstName": "Anthony",
+                "lastName": "Skjellum"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891029",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891029",
+        "articleTitle": "STASH : Fast Hierarchical Aggregation Queries for Effective Visual Spatiotemporal Explorations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "STASH : Fast Hierarchical Aggregation Queries for Effective Visual Spatiotemporal Explorations",
+        "authors": [
+            {
+                "id": 37086462677,
+                "preferredName": "Saptashwa Mitra",
+                "firstName": "Saptashwa",
+                "lastName": "Mitra"
+            },
+            {
+                "id": 37087083255,
+                "preferredName": "Paahuni Khandelwal",
+                "firstName": "Paahuni",
+                "lastName": "Khandelwal"
+            },
+            {
+                "id": 37268872300,
+                "preferredName": "Shrideep Pallickara",
+                "firstName": "Shrideep",
+                "lastName": "Pallickara"
+            },
+            {
+                "id": 37414433100,
+                "preferredName": "Sangmi Lee Pallickara",
+                "firstName": "Sangmi Lee",
+                "lastName": "Pallickara"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891004",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891004",
+        "articleTitle": "X-RDMA: Effective RDMA Middleware in Large-scale Production Environments",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "X-RDMA: Effective RDMA Middleware in Large-scale Production Environments",
+        "authors": [
+            {
+                "id": 37086858599,
+                "preferredName": "Teng Ma",
+                "firstName": "Teng",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37087085816,
+                "preferredName": "Tao Ma",
+                "firstName": "Tao",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37088442258,
+                "preferredName": "Zhuo Song",
+                "firstName": "Zhuo",
+                "lastName": "Song"
+            },
+            {
+                "id": 37087084619,
+                "preferredName": "Jingxuan Li",
+                "firstName": "Jingxuan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37087083493,
+                "preferredName": "Huaixin Chang",
+                "firstName": "Huaixin",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37654882700,
+                "preferredName": "Kang Chen",
+                "firstName": "Kang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087086560,
+                "preferredName": "Hai Jiang",
+                "firstName": "Hai",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37281230000,
+                "preferredName": "Yongwei Wu",
+                "firstName": "Yongwei",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891045",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891045",
+        "articleTitle": "FSMonitor: Scalable File System Monitoring for Arbitrary Storage Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "FSMonitor: Scalable File System Monitoring for Arbitrary Storage Systems",
+        "authors": [
+            {
+                "id": 37085432883,
+                "preferredName": "Arnab K. Paul",
+                "firstName": "Arnab K.",
+                "lastName": "Paul"
+            },
+            {
+                "id": 37085423055,
+                "preferredName": "Ryan Chard",
+                "firstName": "Ryan",
+                "lastName": "Chard"
+            },
+            {
+                "id": 38341857300,
+                "preferredName": "Kyle Chard",
+                "firstName": "Kyle",
+                "lastName": "Chard"
+            },
+            {
+                "id": 37330128300,
+                "preferredName": "Steven Tuecke",
+                "firstName": "Steven",
+                "lastName": "Tuecke"
+            },
+            {
+                "id": 37411735900,
+                "preferredName": "Ali R. Butt",
+                "firstName": "Ali R.",
+                "lastName": "Butt"
+            },
+            {
+                "id": 37276599200,
+                "preferredName": "Ian Foster",
+                "firstName": "Ian",
+                "lastName": "Foster"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891013",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891013",
+        "articleTitle": "RE-Store: Reliable and Efficient KV-Store with Erasure Coding and Replication",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "RE-Store: Reliable and Efficient KV-Store with Erasure Coding and Replication",
+        "authors": [
+            {
+                "id": 37086197847,
+                "preferredName": "Yuzhe Li",
+                "firstName": "Yuzhe",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085625706,
+                "preferredName": "Jiang Zhou",
+                "firstName": "Jiang",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37858745900,
+                "preferredName": "Weiping Wang",
+                "firstName": "Weiping",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37293324200,
+                "preferredName": "Yong Chen",
+                "firstName": "Yong",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891017",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891017",
+        "articleTitle": "ClusterCockpit \u2014 A web application for job-specific performance monitoring",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "7",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "ClusterCockpit \u2014 A web application for job-specific performance monitoring",
+        "authors": [
+            {
+                "id": 37086024674,
+                "preferredName": "Jan Eitzinger",
+                "firstName": "Jan",
+                "lastName": "Eitzinger"
+            },
+            {
+                "id": 37087084043,
+                "preferredName": "Thomas Gruber",
+                "firstName": "Thomas",
+                "lastName": "Gruber"
+            },
+            {
+                "id": 37086443227,
+                "preferredName": "Ayesha Afzal",
+                "firstName": "Ayesha",
+                "lastName": "Afzal"
+            },
+            {
+                "id": 37572764000,
+                "preferredName": "Thomas Zeiser",
+                "firstName": "Thomas",
+                "lastName": "Zeiser"
+            },
+            {
+                "id": 37394312000,
+                "preferredName": "Gerhard Wellein",
+                "firstName": "Gerhard",
+                "lastName": "Wellein"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891019",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891019",
+        "articleTitle": "Training Google Neural Machine Translation on an Intel CPU Cluster",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Training Google Neural Machine Translation on an Intel CPU Cluster",
+        "authors": [
+            {
+                "id": 37695904900,
+                "preferredName": "Dhiraj D. Kalamkar",
+                "firstName": "Dhiraj D.",
+                "lastName": "Kalamkar"
+            },
+            {
+                "id": 37956078800,
+                "preferredName": "Kunal Banerjee",
+                "firstName": "Kunal",
+                "lastName": "Banerjee"
+            },
+            {
+                "id": 37289180600,
+                "preferredName": "Sudarshan Srinivasan",
+                "firstName": "Sudarshan",
+                "lastName": "Srinivasan"
+            },
+            {
+                "id": 38468862900,
+                "preferredName": "Srinivas Sridharan",
+                "firstName": "Srinivas",
+                "lastName": "Sridharan"
+            },
+            {
+                "id": 38555490400,
+                "preferredName": "Evangelos Georganas",
+                "firstName": "Evangelos",
+                "lastName": "Georganas"
+            },
+            {
+                "id": 37087086948,
+                "preferredName": "Mikhail E. Smorkalov",
+                "firstName": "Mikhail E.",
+                "lastName": "Smorkalov"
+            },
+            {
+                "id": 37087084031,
+                "preferredName": "Cong Xu",
+                "firstName": "Cong",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37393663600,
+                "preferredName": "Alexander Heinecke",
+                "firstName": "Alexander",
+                "lastName": "Heinecke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891034",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891034",
+        "articleTitle": "Algorithm-Based Fault Tolerance for Parallel Stencil Computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Algorithm-Based Fault Tolerance for Parallel Stencil Computations",
+        "authors": [
+            {
+                "id": 37085695659,
+                "preferredName": "Aur\u00e9lien Cavelan",
+                "firstName": "Aur\u00e9lien",
+                "lastName": "Cavelan"
+            },
+            {
+                "id": 38506076700,
+                "preferredName": "Florina M. Ciorba",
+                "firstName": "Florina M.",
+                "lastName": "Ciorba"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890989",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890989",
+        "articleTitle": "Quantifying the Impact of Memory Errors in Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Quantifying the Impact of Memory Errors in Deep Learning",
+        "authors": [
+            {
+                "id": 37087139828,
+                "preferredName": "Zhao Zhang",
+                "firstName": "Zhao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086066098,
+                "preferredName": "Lei Huang",
+                "firstName": "Lei",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37087086905,
+                "preferredName": "Ruizhu Huang",
+                "firstName": "Ruizhu",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37833781800,
+                "preferredName": "Weijia Xu",
+                "firstName": "Weijia",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37276383200,
+                "preferredName": "Daniel S. Katz",
+                "firstName": "Daniel S.",
+                "lastName": "Katz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890990",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890990",
+        "articleTitle": "HarpGBDT: Optimizing Gradient Boosting Decision Tree for Parallel Efficiency",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "HarpGBDT: Optimizing Gradient Boosting Decision Tree for Parallel Efficiency",
+        "authors": [
+            {
+                "id": 37086081821,
+                "preferredName": "Bo Peng",
+                "firstName": "Bo",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37086079820,
+                "preferredName": "Langshi Chen",
+                "firstName": "Langshi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086963172,
+                "preferredName": "Jiayu Li",
+                "firstName": "Jiayu",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088826261,
+                "preferredName": "Miao Jiang",
+                "firstName": "Miao",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37086858714,
+                "preferredName": "Selahattin Akkas",
+                "firstName": "Selahattin",
+                "lastName": "Akkas"
+            },
+            {
+                "id": 37087086735,
+                "preferredName": "Egor Smirnov",
+                "firstName": "Egor",
+                "lastName": "Smirnov"
+            },
+            {
+                "id": 37087085815,
+                "preferredName": "Ruslan Israfilov",
+                "firstName": "Ruslan",
+                "lastName": "Israfilov"
+            },
+            {
+                "id": 37088825756,
+                "preferredName": "Sergey Khekhnev",
+                "firstName": "Sergey",
+                "lastName": "Khekhnev"
+            },
+            {
+                "id": 38581273400,
+                "preferredName": "Andrey Nikolaev",
+                "firstName": "Andrey",
+                "lastName": "Nikolaev"
+            },
+            {
+                "id": 37591427400,
+                "preferredName": "Judy Qiu",
+                "firstName": "Judy",
+                "lastName": "Qiu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891041",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891041",
+        "articleTitle": "Multi-physics simulations of particle tracking in arterial geometries with a scalable moving window algorithm",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Multi-physics simulations of particle tracking in arterial geometries with a scalable moving window algorithm",
+        "authors": [
+            {
+                "id": 37086434111,
+                "preferredName": "Gregory Herschlag",
+                "firstName": "Gregory",
+                "lastName": "Herschlag"
+            },
+            {
+                "id": 37085877716,
+                "preferredName": "John Gounley",
+                "firstName": "John",
+                "lastName": "Gounley"
+            },
+            {
+                "id": 37087085032,
+                "preferredName": "Sayan Roychowdhury",
+                "firstName": "Sayan",
+                "lastName": "Roychowdhury"
+            },
+            {
+                "id": 37564934900,
+                "preferredName": "Erik W. Draeger",
+                "firstName": "Erik W.",
+                "lastName": "Draeger"
+            },
+            {
+                "id": 38581315300,
+                "preferredName": "Amanda Randles",
+                "firstName": "Amanda",
+                "lastName": "Randles"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891008",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891008",
+        "articleTitle": "Efficient Distributed Graph Analytics using Triply Compressed Sparse Format",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Efficient Distributed Graph Analytics using Triply Compressed Sparse Format",
+        "authors": [
+            {
+                "id": 37086153701,
+                "preferredName": "Mohammad Hasanzadeh Mofrad",
+                "firstName": "Mohammad Hasanzadeh",
+                "lastName": "Mofrad"
+            },
+            {
+                "id": 37273234900,
+                "preferredName": "Rami Melhem",
+                "firstName": "Rami",
+                "lastName": "Melhem"
+            },
+            {
+                "id": 37087085311,
+                "preferredName": "Yousuf Ahmad",
+                "firstName": "Yousuf",
+                "lastName": "Ahmad"
+            },
+            {
+                "id": 38232541400,
+                "preferredName": "Mohammad Hammoud",
+                "firstName": "Mohammad",
+                "lastName": "Hammoud"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891053",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891053",
+        "articleTitle": "Harmony: An Approach for Geo-distributed Processing of Big-Data Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Harmony: An Approach for Geo-distributed Processing of Big-Data Applications",
+        "authors": [
+            {
+                "id": 37087084611,
+                "preferredName": "Han Zhang",
+                "firstName": "Han",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085429378,
+                "preferredName": "Lavanya Ramapantulu",
+                "firstName": "Lavanya",
+                "lastName": "Ramapantulu"
+            },
+            {
+                "id": 37270012400,
+                "preferredName": "Yong Meng Teo",
+                "firstName": "Yong Meng",
+                "lastName": "Teo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891018",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891018",
+        "articleTitle": "Scalable, High-Order Continuity Across Block Boundaries of Functional Approximations Computed in Parallel",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Scalable, High-Order Continuity Across Block Boundaries of Functional Approximations Computed in Parallel",
+        "authors": [
+            {
+                "id": 37086866542,
+                "preferredName": "Iulian Grindeanu",
+                "firstName": "Iulian",
+                "lastName": "Grindeanu"
+            },
+            {
+                "id": 37295026400,
+                "preferredName": "Tom Peterka",
+                "firstName": "Tom",
+                "lastName": "Peterka"
+            },
+            {
+                "id": 37282151300,
+                "preferredName": "Vijay S. Mahadevan",
+                "firstName": "Vijay S.",
+                "lastName": "Mahadevan"
+            },
+            {
+                "id": 38546786000,
+                "preferredName": "Youssef S. G. Nashed",
+                "firstName": "Youssef S. G.",
+                "lastName": "Nashed"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890999",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890999",
+        "articleTitle": "MBECN: Enabling ECN with Micro-burst Traffic in Multi-queue Data Center",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "MBECN: Enabling ECN with Micro-burst Traffic in Multi-queue Data Center",
+        "authors": [
+            {
+                "id": 37086934321,
+                "preferredName": "Kexi Kang",
+                "firstName": "Kexi",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37717247500,
+                "preferredName": "Jinghui Zhang",
+                "firstName": "Jinghui",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37716710200,
+                "preferredName": "Jiahui Jin",
+                "firstName": "Jiahui",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37085392727,
+                "preferredName": "Dian Shen",
+                "firstName": "Dian",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37278983300,
+                "preferredName": "Junzhou Luo",
+                "firstName": "Junzhou",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37085703806,
+                "preferredName": "Wenxin Li",
+                "firstName": "Wenxin",
+                "lastName": "Li"
+            },
+            {
+                "id": 37962341100,
+                "preferredName": "Zhiang Wu",
+                "firstName": "Zhiang",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891031",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891031",
+        "articleTitle": "DP_Greedy: A Two-Phase Caching Algorithm for Mobile Cloud Services",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "DP_Greedy: A Two-Phase Caching Algorithm for Mobile Cloud Services",
+        "authors": [
+            {
+                "id": 37085639395,
+                "preferredName": "Dong Huang",
+                "firstName": "Dong",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37575867700,
+                "preferredName": "Xiaopeng Fan",
+                "firstName": "Xiaopeng",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37085443121,
+                "preferredName": "Yang Wang",
+                "firstName": "Yang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37538338500,
+                "preferredName": "Shuibing He",
+                "firstName": "Shuibing",
+                "lastName": "He"
+            },
+            {
+                "id": 37278305300,
+                "preferredName": "Chengzhong Xu",
+                "firstName": "Chengzhong",
+                "lastName": "Xu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891033",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891033",
+        "articleTitle": "An Empirical Study of Cryptographic Libraries for MPI Communications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "An Empirical Study of Cryptographic Libraries for MPI Communications",
+        "authors": [
+            {
+                "id": 37863713600,
+                "preferredName": "Abu Naser",
+                "firstName": "Abu",
+                "lastName": "Naser"
+            },
+            {
+                "id": 37085371845,
+                "preferredName": "Mohsen Gavahi",
+                "firstName": "Mohsen",
+                "lastName": "Gavahi"
+            },
+            {
+                "id": 37087085603,
+                "preferredName": "Cong Wu",
+                "firstName": "Cong",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37087082829,
+                "preferredName": "Viet Tung Hoang",
+                "firstName": "Viet Tung",
+                "lastName": "Hoang"
+            },
+            {
+                "id": 37086595746,
+                "preferredName": "Zhi Wang",
+                "firstName": "Zhi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37291220700,
+                "preferredName": "Xin Yuan",
+                "firstName": "Xin",
+                "lastName": "Yuan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891038",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891038",
+        "articleTitle": "FluentPS: A Parameter Server Design with Low-frequency Synchronization for Distributed Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "FluentPS: A Parameter Server Design with Low-frequency Synchronization for Distributed Deep Learning",
+        "authors": [
+            {
+                "id": 37086542616,
+                "preferredName": "Xin Yao",
+                "firstName": "Xin",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37087084521,
+                "preferredName": "Xueyu Wu",
+                "firstName": "Xueyu",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37280017800,
+                "preferredName": "Cho-Li Wang",
+                "firstName": "Cho-Li",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891005",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891005",
+        "articleTitle": "Engineering a Distributed Histogram Sort",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Engineering a Distributed Histogram Sort",
+        "authors": [
+            {
+                "id": 37086118079,
+                "preferredName": "Roger Kowalewski",
+                "firstName": "Roger",
+                "lastName": "Kowalewski"
+            },
+            {
+                "id": 37086617866,
+                "preferredName": "Pascal Jungblut",
+                "firstName": "Pascal",
+                "lastName": "Jungblut"
+            },
+            {
+                "id": 37866632800,
+                "preferredName": "Karl F\u00fcrlinger",
+                "firstName": "Karl",
+                "lastName": "F\u00fcrlinger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891048",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891048",
+        "articleTitle": "Scheduling independent stochastic tasks on heterogeneous cloud platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Scheduling independent stochastic tasks on heterogeneous cloud platforms",
+        "authors": [
+            {
+                "id": 37087086646,
+                "preferredName": "Yiqin Gao",
+                "firstName": "Yiqin",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37313136100,
+                "preferredName": "Louis-Claude Canon",
+                "firstName": "Louis-Claude",
+                "lastName": "Canon"
+            },
+            {
+                "id": 37283850600,
+                "preferredName": "Yves Robert",
+                "firstName": "Yves",
+                "lastName": "Robert"
+            },
+            {
+                "id": 37321080700,
+                "preferredName": "Fr\u00e9d\u00e9ric Vivien",
+                "firstName": "Fr\u00e9d\u00e9ric",
+                "lastName": "Vivien"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891054",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891054",
+        "articleTitle": "Asynchronous Task-Based Execution of the Reverse Time Migration for the Oil and Gas Industry",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Asynchronous Task-Based Execution of the Reverse Time Migration for the Oil and Gas Industry",
+        "authors": [
+            {
+                "id": 37086536242,
+                "preferredName": "A. AlOnazi",
+                "firstName": "A.",
+                "lastName": "AlOnazi"
+            },
+            {
+                "id": 37392859400,
+                "preferredName": "H. Ltaief",
+                "firstName": "H.",
+                "lastName": "Ltaief"
+            },
+            {
+                "id": 37085353204,
+                "preferredName": "D. Keyes",
+                "firstName": "D.",
+                "lastName": "Keyes"
+            },
+            {
+                "id": 38650998700,
+                "preferredName": "I. Said",
+                "firstName": "I.",
+                "lastName": "Said"
+            },
+            {
+                "id": 37410036000,
+                "preferredName": "S. Thibault",
+                "firstName": "S.",
+                "lastName": "Thibault"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891006",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891006",
+        "articleTitle": "Building Reliable High-Performance Storage Systems: An Empirical and Analytical Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Building Reliable High-Performance Storage Systems: An Empirical and Analytical Study",
+        "authors": [
+            {
+                "id": 37850944500,
+                "preferredName": "Zhi Qiao",
+                "firstName": "Zhi",
+                "lastName": "Qiao"
+            },
+            {
+                "id": 37274930100,
+                "preferredName": "Song Fu",
+                "firstName": "Song",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37600754100,
+                "preferredName": "Hsing-Bung Chen",
+                "firstName": "Hsing-Bung",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37590976400,
+                "preferredName": "Bradley Settlemyer",
+                "firstName": "Bradley",
+                "lastName": "Settlemyer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891003",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891003",
+        "articleTitle": "Leveraging Machine Learning for Anticipatory Data Delivery in Extreme Scale In-situ Workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Leveraging Machine Learning for Anticipatory Data Delivery in Extreme Scale In-situ Workflows",
+        "authors": [
+            {
+                "id": 37085445872,
+                "preferredName": "Pradeep Subedi",
+                "firstName": "Pradeep",
+                "lastName": "Subedi"
+            },
+            {
+                "id": 37086030391,
+                "preferredName": "Philip E Davis",
+                "firstName": "Philip E",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37269279100,
+                "preferredName": "Manish Parashar",
+                "firstName": "Manish",
+                "lastName": "Parashar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891011",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891011",
+        "articleTitle": "Fast and Faithful Performance Prediction of MPI Applications: the HPL Case Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Fast and Faithful Performance Prediction of MPI Applications: the HPL Case Study",
+        "authors": [
+            {
+                "id": 37086002350,
+                "preferredName": "Tom Cornebize",
+                "firstName": "Tom",
+                "lastName": "Cornebize"
+            },
+            {
+                "id": 37274803700,
+                "preferredName": "Arnaud Legrand",
+                "firstName": "Arnaud",
+                "lastName": "Legrand"
+            },
+            {
+                "id": 37086098301,
+                "preferredName": "Franz C. Heinrich",
+                "firstName": "Franz C.",
+                "lastName": "Heinrich"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891025",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891025",
+        "articleTitle": "Rapidly Measuring Loop Footprints",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Rapidly Measuring Loop Footprints",
+        "authors": [
+            {
+                "id": 37087085198,
+                "preferredName": "Ozgur O. Kilic",
+                "firstName": "Ozgur O.",
+                "lastName": "Kilic"
+            },
+            {
+                "id": 37085671581,
+                "preferredName": "Nathan R. Tallent",
+                "firstName": "Nathan R.",
+                "lastName": "Tallent"
+            },
+            {
+                "id": 37085559542,
+                "preferredName": "Ryan D. Friese",
+                "firstName": "Ryan D.",
+                "lastName": "Friese"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890992",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890992",
+        "articleTitle": "Compact Filters for Fast Online Data Partitioning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Compact Filters for Fast Online Data Partitioning",
+        "authors": [
+            {
+                "id": 37085499285,
+                "preferredName": "Qing Zheng",
+                "firstName": "Qing",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 38581287800,
+                "preferredName": "Charles D. Cranor",
+                "firstName": "Charles D.",
+                "lastName": "Cranor"
+            },
+            {
+                "id": 37087084910,
+                "preferredName": "Ankush Jain",
+                "firstName": "Ankush",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37275583000,
+                "preferredName": "Gregory R. Ganger",
+                "firstName": "Gregory R.",
+                "lastName": "Ganger"
+            },
+            {
+                "id": 37356991200,
+                "preferredName": "Garth A. Gibson",
+                "firstName": "Garth A.",
+                "lastName": "Gibson"
+            },
+            {
+                "id": 38468040400,
+                "preferredName": "George Amvrosiadis",
+                "firstName": "George",
+                "lastName": "Amvrosiadis"
+            },
+            {
+                "id": 37590976400,
+                "preferredName": "Bradley W. Settlemyer",
+                "firstName": "Bradley W.",
+                "lastName": "Settlemyer"
+            },
+            {
+                "id": 37595687000,
+                "preferredName": "Gary Grider",
+                "firstName": "Gary",
+                "lastName": "Grider"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890998",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890998",
+        "articleTitle": "On the Benefits of Anticipating Load Imbalance for Performance Optimization of Parallel Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "On the Benefits of Anticipating Load Imbalance for Performance Optimization of Parallel Applications",
+        "authors": [
+            {
+                "id": 37086072679,
+                "preferredName": "Anthony Boulmier",
+                "firstName": "Anthony",
+                "lastName": "Boulmier"
+            },
+            {
+                "id": 37087084514,
+                "preferredName": "Franck Raynaud",
+                "firstName": "Franck",
+                "lastName": "Raynaud"
+            },
+            {
+                "id": 37697782700,
+                "preferredName": "Nabil Abdennadher",
+                "firstName": "Nabil",
+                "lastName": "Abdennadher"
+            },
+            {
+                "id": 37372586700,
+                "preferredName": "Bastien Chopard",
+                "firstName": "Bastien",
+                "lastName": "Chopard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891049",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891049",
+        "articleTitle": "Proxy or Imposter? A Method and Case Study to Determine the Answer",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Proxy or Imposter? A Method and Case Study to Determine the Answer",
+        "authors": [
+            {
+                "id": 37085707061,
+                "preferredName": "Omar Aaziz",
+                "firstName": "Omar",
+                "lastName": "Aaziz"
+            },
+            {
+                "id": 37289895900,
+                "preferredName": "Jeanine Cook",
+                "firstName": "Jeanine",
+                "lastName": "Cook"
+            },
+            {
+                "id": 37301974500,
+                "preferredName": "Courtenay Vaughan",
+                "firstName": "Courtenay",
+                "lastName": "Vaughan"
+            },
+            {
+                "id": 37665353300,
+                "preferredName": "David Richards",
+                "firstName": "David",
+                "lastName": "Richards"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891024",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891024",
+        "articleTitle": "Leveraging Task-Based Polar Decomposition Using PARSEC on Massively Parallel Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Leveraging Task-Based Polar Decomposition Using PARSEC on Massively Parallel Systems",
+        "authors": [
+            {
+                "id": 37086298375,
+                "preferredName": "Dalal Sukkari",
+                "firstName": "Dalal",
+                "lastName": "Sukkari"
+            },
+            {
+                "id": 37392859400,
+                "preferredName": "Hatem Ltaief",
+                "firstName": "Hatem",
+                "lastName": "Ltaief"
+            },
+            {
+                "id": 37085353204,
+                "preferredName": "David Keyes",
+                "firstName": "David",
+                "lastName": "Keyes"
+            },
+            {
+                "id": 37704184100,
+                "preferredName": "Mathieu Faverge",
+                "firstName": "Mathieu",
+                "lastName": "Faverge"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891021",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891021",
+        "articleTitle": "CLUSTER 2019 Message from the Program Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "CLUSTER 2019 Message from the Program Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891050",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891050",
+        "articleTitle": "CLUSTER 2019 Committees",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "CLUSTER 2019 Committees",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891026",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891026",
+        "articleTitle": "CLUSTER 2019 Welcome Message",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "CLUSTER 2019 Welcome Message",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891036",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891036",
+        "articleTitle": "CLUSTER 2019 Message from General Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "CLUSTER 2019 Message from General Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8890994",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8890994",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891016",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891016",
+        "articleTitle": "[CLUSTER 2019 Title Page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "[CLUSTER 2019 Title Page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8884608",
+        "doi": "10.1109/CLUSTER.2019.8891028",
+        "publicationYear": "2019",
+        "publicationDate": "23-26 Sept. 2019",
+        "articleNumber": "8891028",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "vii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

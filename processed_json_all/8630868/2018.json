@@ -1,0 +1,601 @@
+[
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00005",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638153",
+        "articleTitle": "Communication Reduced Multi-time-step Algorithm for Real-Time Wind Simulation on GPU-based Supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Communication Reduced Multi-time-step Algorithm for Real-Time Wind Simulation on GPU-based Supercomputers",
+        "authors": [
+            {
+                "id": 37085596091,
+                "preferredName": "Naoyuki Onodera",
+                "firstName": "Naoyuki",
+                "lastName": "Onodera"
+            },
+            {
+                "id": 38233779400,
+                "preferredName": "Yasuhiro Idomura",
+                "firstName": "Yasuhiro",
+                "lastName": "Idomura"
+            },
+            {
+                "id": 37085432143,
+                "preferredName": "Yussuf Ali",
+                "firstName": "Yussuf",
+                "lastName": "Ali"
+            },
+            {
+                "id": 37599416500,
+                "preferredName": "Takashi Shimokawabe",
+                "firstName": "Takashi",
+                "lastName": "Shimokawabe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00010",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638150",
+        "articleTitle": "Machine Learning-Aided Numerical Linear Algebra: Convolutional Neural Networks for the Efficient Preconditioner Generation",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Machine Learning-Aided Numerical Linear Algebra: Convolutional Neural Networks for the Efficient Preconditioner Generation",
+        "authors": [
+            {
+                "id": 37085992055,
+                "preferredName": "Markus G\u00f6tz",
+                "firstName": "Markus",
+                "lastName": "G\u00f6tz"
+            },
+            {
+                "id": 38272603600,
+                "preferredName": "Hartwig Anzt",
+                "firstName": "Hartwig",
+                "lastName": "Anzt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00006",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638024",
+        "articleTitle": "Communication Avoiding Multigrid Preconditioned Conjugate Gradient Method for Extreme Scale Multiphase CFD Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Communication Avoiding Multigrid Preconditioned Conjugate Gradient Method for Extreme Scale Multiphase CFD Simulations",
+        "authors": [
+            {
+                "id": 38233779400,
+                "preferredName": "Yasuhiro Idomura",
+                "firstName": "Yasuhiro",
+                "lastName": "Idomura"
+            },
+            {
+                "id": 37086007477,
+                "preferredName": "Takuya Ina",
+                "firstName": "Takuya",
+                "lastName": "Ina"
+            },
+            {
+                "id": 37087546125,
+                "preferredName": "Susumu Yamashita",
+                "firstName": "Susumu",
+                "lastName": "Yamashita"
+            },
+            {
+                "id": 37085596091,
+                "preferredName": "Naoyuki Onodera",
+                "firstName": "Naoyuki",
+                "lastName": "Onodera"
+            },
+            {
+                "id": 37553728100,
+                "preferredName": "Susumu Yamada",
+                "firstName": "Susumu",
+                "lastName": "Yamada"
+            },
+            {
+                "id": 38581267400,
+                "preferredName": "Toshiyuki Imamura",
+                "firstName": "Toshiyuki",
+                "lastName": "Imamura"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00012",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638143",
+        "articleTitle": "A General-Purpose Hierarchical Mesh Partitioning Method with Node Balancing Strategies for Large-Scale Numerical Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "65",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "A General-Purpose Hierarchical Mesh Partitioning Method with Node Balancing Strategies for Large-Scale Numerical Simulations",
+        "authors": [
+            {
+                "id": 37086615412,
+                "preferredName": "Fande Kong",
+                "firstName": "Fande",
+                "lastName": "Kong"
+            },
+            {
+                "id": 37086618534,
+                "preferredName": "Roy H. Stogner",
+                "firstName": "Roy H.",
+                "lastName": "Stogner"
+            },
+            {
+                "id": 37086615878,
+                "preferredName": "Derek R. Gaston",
+                "firstName": "Derek R.",
+                "lastName": "Gaston"
+            },
+            {
+                "id": 37086615017,
+                "preferredName": "John W. Peterson",
+                "firstName": "John W.",
+                "lastName": "Peterson"
+            },
+            {
+                "id": 37086616587,
+                "preferredName": "Cody J. Permann",
+                "firstName": "Cody J.",
+                "lastName": "Permann"
+            },
+            {
+                "id": 37086617716,
+                "preferredName": "Andrew E. Slaughter",
+                "firstName": "Andrew E.",
+                "lastName": "Slaughter"
+            },
+            {
+                "id": 37086618128,
+                "preferredName": "Richard C. Martineau",
+                "firstName": "Richard C.",
+                "lastName": "Martineau"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00009",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638023",
+        "articleTitle": "Shift-Collapse Acceleration of Generalized Polarizable Reactive Molecular Dynamics for Machine Learning-Assisted Computational Synthesis of Layered Materials",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Shift-Collapse Acceleration of Generalized Polarizable Reactive Molecular Dynamics for Machine Learning-Assisted Computational Synthesis of Layered Materials",
+        "authors": [
+            {
+                "id": 37086616536,
+                "preferredName": "Kuang Liu",
+                "firstName": "Kuang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37087130499,
+                "preferredName": "Subodh Tiwari",
+                "firstName": "Subodh",
+                "lastName": "Tiwari"
+            },
+            {
+                "id": 37088830189,
+                "preferredName": "Chunyang Sheng",
+                "firstName": "Chunyang",
+                "lastName": "Sheng"
+            },
+            {
+                "id": 37087130321,
+                "preferredName": "Aravind Krishnamoorthy",
+                "firstName": "Aravind",
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "id": 37088829370,
+                "preferredName": "Sungwook Hong",
+                "firstName": "Sungwook",
+                "lastName": "Hong"
+            },
+            {
+                "id": 37087131672,
+                "preferredName": "Pankaj Rajak",
+                "firstName": "Pankaj",
+                "lastName": "Rajak"
+            },
+            {
+                "id": 37319470600,
+                "preferredName": "Rajiv K. Kalia",
+                "firstName": "Rajiv K.",
+                "lastName": "Kalia"
+            },
+            {
+                "id": 37302590500,
+                "preferredName": "Aiichiro Nakano",
+                "firstName": "Aiichiro",
+                "lastName": "Nakano"
+            },
+            {
+                "id": 37581598300,
+                "preferredName": "Ken-ichi Nomura",
+                "firstName": "Ken-ichi",
+                "lastName": "Nomura"
+            },
+            {
+                "id": 37319472600,
+                "preferredName": "Priya Vashishta",
+                "firstName": "Priya",
+                "lastName": "Vashishta"
+            },
+            {
+                "id": 37085374519,
+                "preferredName": "Manaschai Kunaseth",
+                "firstName": "Manaschai",
+                "lastName": "Kunaseth"
+            },
+            {
+                "id": 37088829335,
+                "preferredName": "Saber Naserifar",
+                "firstName": "Saber",
+                "lastName": "Naserifar"
+            },
+            {
+                "id": 37410059000,
+                "preferredName": "William A. Goddard",
+                "firstName": "William A.",
+                "lastName": "Goddard"
+            },
+            {
+                "id": 37088829872,
+                "preferredName": "Ye Luo",
+                "firstName": "Ye",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37085375329,
+                "preferredName": "Nichols A. Romero",
+                "firstName": "Nichols A.",
+                "lastName": "Romero"
+            },
+            {
+                "id": 37317191000,
+                "preferredName": "Fuyuki Shimojo",
+                "firstName": "Fuyuki",
+                "lastName": "Shimojo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00011",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638114",
+        "articleTitle": "Low Thread-Count Gustavson: A Multithreaded Algorithm for Sparse Matrix-Matrix Multiplication Using Perfect Hashing",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "64",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Low Thread-Count Gustavson: A Multithreaded Algorithm for Sparse Matrix-Matrix Multiplication Using Perfect Hashing",
+        "authors": [
+            {
+                "id": 37085577504,
+                "preferredName": "James J. Elliott",
+                "firstName": "James J.",
+                "lastName": "Elliott"
+            },
+            {
+                "id": 37085562019,
+                "preferredName": "Christopher M. Siefert",
+                "firstName": "Christopher M.",
+                "lastName": "Siefert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00004",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638013",
+        "articleTitle": "Event-Triggered Communication in Parallel Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Event-Triggered Communication in Parallel Computing",
+        "authors": [
+            {
+                "id": 37089654369,
+                "preferredName": "Soumyadip Ghosh",
+                "firstName": "Soumyadip",
+                "lastName": "Ghosh"
+            },
+            {
+                "id": 37086616421,
+                "preferredName": "Kamal K. Saha",
+                "firstName": "Kamal K.",
+                "lastName": "Saha"
+            },
+            {
+                "id": 37271178000,
+                "preferredName": "Vijay Gupta",
+                "firstName": "Vijay",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37320260300,
+                "preferredName": "Gretar Tryggvason",
+                "firstName": "Gretar",
+                "lastName": "Tryggvason"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00014",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638012",
+        "articleTitle": "On Advanced Monte Carlo Methods for Linear Algebra on Advanced Accelerator Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "90",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "On Advanced Monte Carlo Methods for Linear Algebra on Advanced Accelerator Architectures",
+        "authors": [
+            {
+                "id": 37086618796,
+                "preferredName": "Anton Lebedev",
+                "firstName": "Anton",
+                "lastName": "Lebedev"
+            },
+            {
+                "id": 37086031017,
+                "preferredName": "Vassil Alexandrov",
+                "firstName": "Vassil",
+                "lastName": "Alexandrov"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00007",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638016",
+        "articleTitle": "Non-collective Scalable Global Network Based on Local Communications",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Non-collective Scalable Global Network Based on Local Communications",
+        "authors": [
+            {
+                "id": 37086452773,
+                "preferredName": "Marco Berghoff",
+                "firstName": "Marco",
+                "lastName": "Berghoff"
+            },
+            {
+                "id": 37085720845,
+                "preferredName": "Ivan Kondov",
+                "firstName": "Ivan",
+                "lastName": "Kondov"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00013",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638110",
+        "articleTitle": "Dynamic Load Balancing of Plasma and Flow Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Dynamic Load Balancing of Plasma and Flow Simulations",
+        "authors": [
+            {
+                "id": 37086615121,
+                "preferredName": "Gerrett Diamond",
+                "firstName": "Gerrett",
+                "lastName": "Diamond"
+            },
+            {
+                "id": 38546892700,
+                "preferredName": "Cameron W. Smith",
+                "firstName": "Cameron W.",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37086615972,
+                "preferredName": "Eisung Yoon",
+                "firstName": "Eisung",
+                "lastName": "Yoon"
+            },
+            {
+                "id": 37323010800,
+                "preferredName": "Mark S. Shephard",
+                "firstName": "Mark S.",
+                "lastName": "Shephard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00008",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638171",
+        "articleTitle": "Iterative Randomized Algorithms for Low Rank Approximation of Tera-scale Matrices with Small Spectral Gaps",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Iterative Randomized Algorithms for Low Rank Approximation of Tera-scale Matrices with Small Spectral Gaps",
+        "authors": [
+            {
+                "id": 37086051762,
+                "preferredName": "Chander Iyer",
+                "firstName": "Chander",
+                "lastName": "Iyer"
+            },
+            {
+                "id": 37086600957,
+                "preferredName": "Alex Gittens",
+                "firstName": "Alex",
+                "lastName": "Gittens"
+            },
+            {
+                "id": 37271626700,
+                "preferredName": "Christopher Carothers",
+                "firstName": "Christopher",
+                "lastName": "Carothers"
+            },
+            {
+                "id": 37419099300,
+                "preferredName": "Petros Drineas",
+                "firstName": "Petros",
+                "lastName": "Drineas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00002",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638145",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00001",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638188",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00015",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638132",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "91",
+        "endPage": "91",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8630868",
+        "doi": "10.1109/ScalA.2018.00003",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638182",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 9th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (scalA)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

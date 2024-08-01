@@ -1,0 +1,486 @@
+[
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306994",
+        "articleTitle": "Static Neural Compiler Optimization via Deep Reinforcement Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Static Neural Compiler Optimization via Deep Reinforcement Learning",
+        "authors": [
+            {
+                "id": 37088639542,
+                "preferredName": "Rahim Mammadli",
+                "firstName": "Rahim",
+                "lastName": "Mammadli"
+            },
+            {
+                "id": 37392790500,
+                "preferredName": "Ali Jannesari",
+                "firstName": "Ali",
+                "lastName": "Jannesari"
+            },
+            {
+                "id": 37281845900,
+                "preferredName": "Felix Wolf",
+                "firstName": "Felix",
+                "lastName": "Wolf"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307120",
+        "articleTitle": "Autotuning Search Space for Loop Transformations",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Autotuning Search Space for Loop Transformations",
+        "authors": [
+            {
+                "id": 37085672112,
+                "preferredName": "Michael Kruse",
+                "firstName": "Michael",
+                "lastName": "Kruse"
+            },
+            {
+                "id": 38549075500,
+                "preferredName": "Hal Finkel",
+                "firstName": "Hal",
+                "lastName": "Finkel"
+            },
+            {
+                "id": 37281239300,
+                "preferredName": "Xingfu Wu",
+                "firstName": "Xingfu",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00013",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306956",
+        "articleTitle": "A Case Study and Characterization of a Many-socket, Multi-tier NUMA HPC Platform",
+        "volume": null,
+        "issue": null,
+        "startPage": "74",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "A Case Study and Characterization of a Many-socket, Multi-tier NUMA HPC Platform",
+        "authors": [
+            {
+                "id": 37085412820,
+                "preferredName": "Connor Imes",
+                "firstName": "Connor",
+                "lastName": "Imes"
+            },
+            {
+                "id": 37355644600,
+                "preferredName": "Steven Hofmeyr",
+                "firstName": "Steven",
+                "lastName": "Hofmeyr"
+            },
+            {
+                "id": 37333110700,
+                "preferredName": "Dong In D. Kang",
+                "firstName": "Dong In D.",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37893695200,
+                "preferredName": "John Paul Walters",
+                "firstName": "John Paul",
+                "lastName": "Walters"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306999",
+        "articleTitle": "Extending the LLVM/Clang Framework for OpenMP Metadirective Support",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "44",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Extending the LLVM/Clang Framework for OpenMP Metadirective Support",
+        "authors": [
+            {
+                "id": 37086699307,
+                "preferredName": "Alok Mishra",
+                "firstName": "Alok",
+                "lastName": "Mishra"
+            },
+            {
+                "id": 37650524800,
+                "preferredName": "Abid M. Malik",
+                "firstName": "Abid M.",
+                "lastName": "Malik"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307022",
+        "articleTitle": "Deep Learning-based Approximate Graph-Coloring Algorithm for Register Allocation",
+        "volume": null,
+        "issue": null,
+        "startPage": "23",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Deep Learning-based Approximate Graph-Coloring Algorithm for Register Allocation",
+        "authors": [
+            {
+                "id": 37085650963,
+                "preferredName": "Dibyendu Das",
+                "firstName": "Dibyendu",
+                "lastName": "Das"
+            },
+            {
+                "id": 37088650619,
+                "preferredName": "Shahid Asghar Ahmad",
+                "firstName": "Shahid Asghar",
+                "lastName": "Ahmad"
+            },
+            {
+                "id": 37088647702,
+                "preferredName": "Venkataramanan Kumar",
+                "firstName": "Venkataramanan",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307037",
+        "articleTitle": "Really Embedding Domain-Specific Languages into C++",
+        "volume": null,
+        "issue": null,
+        "startPage": "65",
+        "endPage": "73",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Really Embedding Domain-Specific Languages into C++",
+        "authors": [
+            {
+                "id": 38549075500,
+                "preferredName": "Hal Finkel",
+                "firstName": "Hal",
+                "lastName": "Finkel"
+            },
+            {
+                "id": 37085871335,
+                "preferredName": "Alex McCaskey",
+                "firstName": "Alex",
+                "lastName": "McCaskey"
+            },
+            {
+                "id": 37088640461,
+                "preferredName": "Tobi Popoola",
+                "firstName": "Tobi",
+                "lastName": "Popoola"
+            },
+            {
+                "id": 37086121868,
+                "preferredName": "Dmitry Lyakh",
+                "firstName": "Dmitry",
+                "lastName": "Lyakh"
+            },
+            {
+                "id": 37085525769,
+                "preferredName": "Johannes Doerfert",
+                "firstName": "Johannes",
+                "lastName": "Doerfert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307030",
+        "articleTitle": "Robust Practical Binary Optimization at Run-time using LLVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "56",
+        "endPage": "64",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Robust Practical Binary Optimization at Run-time using LLVM",
+        "authors": [
+            {
+                "id": 37086026640,
+                "preferredName": "Alexis Engelke",
+                "firstName": "Alexis",
+                "lastName": "Engelke"
+            },
+            {
+                "id": 37290317700,
+                "preferredName": "Martin Schulz",
+                "firstName": "Martin",
+                "lastName": "Schulz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00014",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307083",
+        "articleTitle": "Introducing multi-level parallelism, at coarse, fine and instruction level to enhance the performance of iterative solvers for large sparse linear systems on Multi- and Many-core architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "85",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Introducing multi-level parallelism, at coarse, fine and instruction level to enhance the performance of iterative solvers for large sparse linear systems on Multi- and Many-core architecture",
+        "authors": [
+            {
+                "id": 37086788805,
+                "preferredName": "Jean-Marc Gratien",
+                "firstName": "Jean-Marc",
+                "lastName": "Gratien"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307048",
+        "articleTitle": "Towards Automated Kernel Fusion for the Optimisation of Scientific Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "45",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Towards Automated Kernel Fusion for the Optimisation of Scientific Applications",
+        "authors": [
+            {
+                "id": 37088642863,
+                "preferredName": "Andrew Lamzed-Short",
+                "firstName": "Andrew",
+                "lastName": "Lamzed-Short"
+            },
+            {
+                "id": 37086162593,
+                "preferredName": "Timothy R. Law",
+                "firstName": "Timothy R.",
+                "lastName": "Law"
+            },
+            {
+                "id": 38581339800,
+                "preferredName": "Andrew Mallinson",
+                "firstName": "Andrew",
+                "lastName": "Mallinson"
+            },
+            {
+                "id": 37299731300,
+                "preferredName": "Gihan R. Mudalige",
+                "firstName": "Gihan R.",
+                "lastName": "Mudalige"
+            },
+            {
+                "id": 37269528000,
+                "preferredName": "Stephen A. Jarvis",
+                "firstName": "Stephen A.",
+                "lastName": "Jarvis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00015",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307108",
+        "articleTitle": "Flexible Runtime Reconfigurable Computing Overlay Architecture and Optimization for Dataflow Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "103",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Flexible Runtime Reconfigurable Computing Overlay Architecture and Optimization for Dataflow Applications",
+        "authors": [
+            {
+                "id": 37088635234,
+                "preferredName": "Mihir Shah",
+                "firstName": "Mihir",
+                "lastName": "Shah"
+            },
+            {
+                "id": 37409945500,
+                "preferredName": "Benjamin Carrion Schafer",
+                "firstName": "Benjamin Carrion",
+                "lastName": "Schafer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307071",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "vi",
+        "endPage": "vii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306991",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307053",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307163",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00016",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306936",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "105",
+        "endPage": "105",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306857",
+        "doi": "10.1109/LLVMHPCHiPar51896.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307044",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 6th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC) and Workshop on Hierarchical Parallelism for Exascale Computing (HiPar)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

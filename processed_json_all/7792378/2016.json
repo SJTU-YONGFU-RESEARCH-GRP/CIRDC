@@ -1,0 +1,858 @@
+[
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.20",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803698",
+        "articleTitle": "Performance Optimization for SpMV on Multi-GPU Systems Using Threads and Multiple Streams",
+        "volume": null,
+        "issue": null,
+        "startPage": "67",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Performance Optimization for SpMV on Multi-GPU Systems Using Threads and Multiple Streams",
+        "authors": [
+            {
+                "id": 37863872300,
+                "preferredName": "Ping Guo",
+                "firstName": "Ping",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37085998331,
+                "preferredName": "Changjiang Zhang",
+                "firstName": "Changjiang",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.12",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803670",
+        "articleTitle": "A Dynamic Load Balance Algorithm for the S4 Parallel Stream Processing Engine",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "A Dynamic Load Balance Algorithm for the S4 Parallel Stream Processing Engine",
+        "authors": [
+            {
+                "id": 38347549800,
+                "preferredName": "Veronica Gil-Costa",
+                "firstName": "Veronica",
+                "lastName": "Gil-Costa"
+            },
+            {
+                "id": 37892655600,
+                "preferredName": "Nicolas Hidalgo",
+                "firstName": "Nicolas",
+                "lastName": "Hidalgo"
+            },
+            {
+                "id": 37889712900,
+                "preferredName": "Erika Rosas",
+                "firstName": "Erika",
+                "lastName": "Rosas"
+            },
+            {
+                "id": 38307485800,
+                "preferredName": "Mauricio Marin",
+                "firstName": "Mauricio",
+                "lastName": "Marin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.16",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803694",
+        "articleTitle": "Synchronization-Free Automatic Parallelization for Arbitrarily Nested Affine Loops",
+        "volume": null,
+        "issue": null,
+        "startPage": "43",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Synchronization-Free Automatic Parallelization for Arbitrarily Nested Affine Loops",
+        "authors": [
+            {
+                "id": 37085707799,
+                "preferredName": "Tomasz Klimek",
+                "firstName": "Tomasz",
+                "lastName": "Klimek"
+            },
+            {
+                "id": 38111237200,
+                "preferredName": "Marek Palkowski",
+                "firstName": "Marek",
+                "lastName": "Palkowski"
+            },
+            {
+                "id": 37266997900,
+                "preferredName": "Wlodzimierz Bielecki",
+                "firstName": "Wlodzimierz",
+                "lastName": "Bielecki"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.13",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803671",
+        "articleTitle": "A Processor Workload Distribution Algorithm for Massively Parallel Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "30",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "A Processor Workload Distribution Algorithm for Massively Parallel Applications",
+        "authors": [
+            {
+                "id": 37298813200,
+                "preferredName": "Serge Midonnet",
+                "firstName": "Serge",
+                "lastName": "Midonnet"
+            },
+            {
+                "id": 37086102921,
+                "preferredName": "Achille Wattelar",
+                "firstName": "Achille",
+                "lastName": "Wattelar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.19",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803697",
+        "articleTitle": "A Comparative Study of SYCL, OpenCL, and OpenMP",
+        "volume": null,
+        "issue": null,
+        "startPage": "61",
+        "endPage": "66",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "A Comparative Study of SYCL, OpenCL, and OpenMP",
+        "authors": [
+            {
+                "id": 37088395735,
+                "preferredName": "H\u00e9rcules Cardoso da Silva",
+                "firstName": "H\u00e9rcules Cardoso",
+                "lastName": "da Silva"
+            },
+            {
+                "id": 37086063670,
+                "preferredName": "Fl\u00e1via Pisani",
+                "firstName": "Fl\u00e1via",
+                "lastName": "Pisani"
+            },
+            {
+                "id": 37275633800,
+                "preferredName": "Edson Borin",
+                "firstName": "Edson",
+                "lastName": "Borin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.9",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803667",
+        "articleTitle": "Outline of a Thick Control Flow Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Outline of a Thick Control Flow Architecture",
+        "authors": [
+            {
+                "id": 37298854000,
+                "preferredName": "Martti Forsell",
+                "firstName": "Martti",
+                "lastName": "Forsell"
+            },
+            {
+                "id": 37265862800,
+                "preferredName": "Jussi Roivainen",
+                "firstName": "Jussi",
+                "lastName": "Roivainen"
+            },
+            {
+                "id": 37345469800,
+                "preferredName": "Ville Lepp\u00e4nen",
+                "firstName": "Ville",
+                "lastName": "Lepp\u00e4nen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.15",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803693",
+        "articleTitle": "Task Scheduling in Sucuri Dataflow Library",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "42",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Task Scheduling in Sucuri Dataflow Library",
+        "authors": [
+            {
+                "id": 37086110946,
+                "preferredName": "Rafael J.N. Silva",
+                "firstName": "Rafael J.N.",
+                "lastName": "Silva"
+            },
+            {
+                "id": 37085415057,
+                "preferredName": "Brunno Goldstein",
+                "firstName": "Brunno",
+                "lastName": "Goldstein"
+            },
+            {
+                "id": 37085390533,
+                "preferredName": "Leandro Santiago",
+                "firstName": "Leandro",
+                "lastName": "Santiago"
+            },
+            {
+                "id": 37652724300,
+                "preferredName": "Alexandre C. Sena",
+                "firstName": "Alexandre C.",
+                "lastName": "Sena"
+            },
+            {
+                "id": 37601333800,
+                "preferredName": "Leandro A.J. Marzulo",
+                "firstName": "Leandro A.J.",
+                "lastName": "Marzulo"
+            },
+            {
+                "id": 38253887300,
+                "preferredName": "Tiago A.O. Alves",
+                "firstName": "Tiago A.O.",
+                "lastName": "Alves"
+            },
+            {
+                "id": 37266663600,
+                "preferredName": "Felipe M.G. Fran\u00e7a",
+                "firstName": "Felipe M.G.",
+                "lastName": "Fran\u00e7a"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.24",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803702",
+        "articleTitle": "Dataflow to Hardware Synthesis Framework on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "91",
+        "endPage": "96",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Dataflow to Hardware Synthesis Framework on FPGAs",
+        "authors": [
+            {
+                "id": 37293234800,
+                "preferredName": "Youngsoo Kim",
+                "firstName": "Youngsoo",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086046927,
+                "preferredName": "Shrikant Jadhav",
+                "firstName": "Shrikant",
+                "lastName": "Jadhav"
+            },
+            {
+                "id": 38305575200,
+                "preferredName": "Clay S. Gloster",
+                "firstName": "Clay S.",
+                "lastName": "Gloster"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.17",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803695",
+        "articleTitle": "A Benchmark on Multi Improvement Neighborhood Search Strategies in CPU/GPU Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "54",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "A Benchmark on Multi Improvement Neighborhood Search Strategies in CPU/GPU Systems",
+        "authors": [
+            {
+                "id": 37565870500,
+                "preferredName": "Eyder Rios",
+                "firstName": "Eyder",
+                "lastName": "Rios"
+            },
+            {
+                "id": 38489583000,
+                "preferredName": "Igor M. Coelho",
+                "firstName": "Igor M.",
+                "lastName": "Coelho"
+            },
+            {
+                "id": 37562039700,
+                "preferredName": "Luiz Satoru Ochi",
+                "firstName": "Luiz Satoru",
+                "lastName": "Ochi"
+            },
+            {
+                "id": 37266667700,
+                "preferredName": "Cristina Boeres",
+                "firstName": "Cristina",
+                "lastName": "Boeres"
+            },
+            {
+                "id": 37602424300,
+                "preferredName": "Ricardo Farias",
+                "firstName": "Ricardo",
+                "lastName": "Farias"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.22",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803700",
+        "articleTitle": "An Efficient 2D Router Architecture for Extending the Performance of Inhomogeneous 3D NoC-Based Multi-Core Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "An Efficient 2D Router Architecture for Extending the Performance of Inhomogeneous 3D NoC-Based Multi-Core Architectures",
+        "authors": [
+            {
+                "id": 37946375600,
+                "preferredName": "Michael Opoku Agyeman",
+                "firstName": "Michael Opoku",
+                "lastName": "Agyeman"
+            },
+            {
+                "id": 37085660125,
+                "preferredName": "Wen Zong",
+                "firstName": "Wen",
+                "lastName": "Zong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.21",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803699",
+        "articleTitle": "A Hybrid Parallel Algorithm for the Auction Algorithm in Multicore Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "A Hybrid Parallel Algorithm for the Auction Algorithm in Multicore Systems",
+        "authors": [
+            {
+                "id": 37664040400,
+                "preferredName": "A.P. Nascimento",
+                "firstName": "A.P.",
+                "lastName": "Nascimento"
+            },
+            {
+                "id": 38059781200,
+                "preferredName": "C.N. Vasconcelos",
+                "firstName": "C.N.",
+                "lastName": "Vasconcelos"
+            },
+            {
+                "id": 37086074106,
+                "preferredName": "F.S. Jamel",
+                "firstName": "F.S.",
+                "lastName": "Jamel"
+            },
+            {
+                "id": 37652724300,
+                "preferredName": "A.C. Sena",
+                "firstName": "A.C.",
+                "lastName": "Sena"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.10",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803668",
+        "articleTitle": "PY-PITS: A Scalable Python Runtime System for the Computation of Partially Idempotent Tasks",
+        "volume": null,
+        "issue": null,
+        "startPage": "7",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "PY-PITS: A Scalable Python Runtime System for the Computation of Partially Idempotent Tasks",
+        "authors": [
+            {
+                "id": 37275633800,
+                "preferredName": "Edson Borin",
+                "firstName": "Edson",
+                "lastName": "Borin"
+            },
+            {
+                "id": 37086067239,
+                "preferredName": "Caian Benedicto",
+                "firstName": "Caian",
+                "lastName": "Benedicto"
+            },
+            {
+                "id": 37086061010,
+                "preferredName": "Ian L. Rodrigues",
+                "firstName": "Ian L.",
+                "lastName": "Rodrigues"
+            },
+            {
+                "id": 37086063670,
+                "preferredName": "Fl\u00e1via Pisani",
+                "firstName": "Fl\u00e1via",
+                "lastName": "Pisani"
+            },
+            {
+                "id": 38235081100,
+                "preferredName": "Martin Tygel",
+                "firstName": "Martin",
+                "lastName": "Tygel"
+            },
+            {
+                "id": 37354132300,
+                "preferredName": "Mauricio Breternitz",
+                "firstName": "Mauricio",
+                "lastName": "Breternitz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.11",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803669",
+        "articleTitle": "Towards a GPU Abstraction for Lua",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Towards a GPU Abstraction for Lua",
+        "authors": [
+            {
+                "id": 37086131499,
+                "preferredName": "Raphael Ribeiro",
+                "firstName": "Raphael",
+                "lastName": "Ribeiro"
+            },
+            {
+                "id": 37086127962,
+                "preferredName": "Paulo Motta",
+                "firstName": "Paulo",
+                "lastName": "Motta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.23",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803701",
+        "articleTitle": "An Efficient Channel Model for Evaluating Wireless NoC Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "85",
+        "endPage": "90",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "An Efficient Channel Model for Evaluating Wireless NoC Architectures",
+        "authors": [
+            {
+                "id": 37946375600,
+                "preferredName": "Michael Opoku Agyeman",
+                "firstName": "Michael Opoku",
+                "lastName": "Agyeman"
+            },
+            {
+                "id": 37391821000,
+                "preferredName": "Quoc-Tuan Vien",
+                "firstName": "Quoc-Tuan",
+                "lastName": "Vien"
+            },
+            {
+                "id": 37085998820,
+                "preferredName": "Gary Hill",
+                "firstName": "Gary",
+                "lastName": "Hill"
+            },
+            {
+                "id": 37085487322,
+                "preferredName": "Scott Turner",
+                "firstName": "Scott",
+                "lastName": "Turner"
+            },
+            {
+                "id": 37281072900,
+                "preferredName": "Terrence Mak",
+                "firstName": "Terrence",
+                "lastName": "Mak"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.18",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803696",
+        "articleTitle": "Thread Footprint Analysis for the Design of Multithreaded Applications and Multicore Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "55",
+        "endPage": "60",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Thread Footprint Analysis for the Design of Multithreaded Applications and Multicore Systems",
+        "authors": [
+            {
+                "id": 37306628600,
+                "preferredName": "Ricardo Santos",
+                "firstName": "Ricardo",
+                "lastName": "Santos"
+            },
+            {
+                "id": 37086063397,
+                "preferredName": "Ricardo Aguiar",
+                "firstName": "Ricardo",
+                "lastName": "Aguiar"
+            },
+            {
+                "id": 37086061702,
+                "preferredName": "Paulo Soken",
+                "firstName": "Paulo",
+                "lastName": "Soken"
+            },
+            {
+                "id": 37086066587,
+                "preferredName": "Samuel Ferraz",
+                "firstName": "Samuel",
+                "lastName": "Ferraz"
+            },
+            {
+                "id": 37085473070,
+                "preferredName": "Liana Duenha",
+                "firstName": "Liana",
+                "lastName": "Duenha"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.14",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803672",
+        "articleTitle": "Parallelism and Scalability: A Solution Focused on the Cloud Computing Processing Service Billing",
+        "volume": null,
+        "issue": null,
+        "startPage": "31",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Parallelism and Scalability: A Solution Focused on the Cloud Computing Processing Service Billing",
+        "authors": [
+            {
+                "id": 37086165705,
+                "preferredName": "Emmanoel M. De Sousa Junior",
+                "firstName": "Emmanoel M.",
+                "lastName": "De Sousa Junior"
+            },
+            {
+                "id": 37086159310,
+                "preferredName": "Idalmis Milian Sardina",
+                "firstName": "Idalmis Milian",
+                "lastName": "Sardina"
+            },
+            {
+                "id": 38027036600,
+                "preferredName": "Frederico Lopes",
+                "firstName": "Frederico",
+                "lastName": "Lopes"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.5",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803663",
+        "articleTitle": "Message from the MPP 2016 Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "viii",
+        "endPage": "viii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Message from the MPP 2016 Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.7",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803665",
+        "articleTitle": "MPP 2016 Workshop Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "x",
+        "endPage": "x",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "MPP 2016 Workshop Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.6",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803664",
+        "articleTitle": "Message from the WAMCA 2016 Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "ix",
+        "endPage": "ix",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Message from the WAMCA 2016 Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.8",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803666",
+        "articleTitle": "WAMCA 2016 Workshop Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "xi",
+        "endPage": "xi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "WAMCA 2016 Workshop Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.26",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803704",
+        "articleTitle": "[Publisher's information]",
+        "volume": null,
+        "issue": null,
+        "startPage": "98",
+        "endPage": "98",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "[Publisher's information]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.3",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803661",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.1",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803659",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.25",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803703",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "97",
+        "endPage": "97",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.2",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803660",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.27",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803658",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7792378",
+        "doi": "10.1109/SBAC-PADW.2016.4",
+        "publicationYear": "2016",
+        "publicationDate": "26-28 Oct. 2016",
+        "articleNumber": "7803662",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "vii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 International Symposium on Computer Architecture and High Performance Computing Workshops (SBAC-PADW)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

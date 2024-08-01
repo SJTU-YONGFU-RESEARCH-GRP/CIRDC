@@ -1,0 +1,498 @@
+[
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.010",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836843",
+        "articleTitle": "Performance of MPI Codes Written in Python with NumPy and mpi4py",
+        "volume": null,
+        "issue": null,
+        "startPage": "45",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Performance of MPI Codes Written in Python with NumPy and mpi4py",
+        "authors": [
+            {
+                "id": 37086037671,
+                "preferredName": "Ross Smith",
+                "firstName": "Ross",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.013",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836846",
+        "articleTitle": "Devito: Towards a Generic Finite Difference DSL Using Symbolic Python",
+        "volume": null,
+        "issue": null,
+        "startPage": "67",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Devito: Towards a Generic Finite Difference DSL Using Symbolic Python",
+        "authors": [
+            {
+                "id": 37086088641,
+                "preferredName": "Michael Lange",
+                "firstName": "Michael",
+                "lastName": "Lange"
+            },
+            {
+                "id": 37086087512,
+                "preferredName": "Navjot Kukreja",
+                "firstName": "Navjot",
+                "lastName": "Kukreja"
+            },
+            {
+                "id": 37086087332,
+                "preferredName": "Mathias Louboutin",
+                "firstName": "Mathias",
+                "lastName": "Louboutin"
+            },
+            {
+                "id": 37086085551,
+                "preferredName": "Fabio Luporini",
+                "firstName": "Fabio",
+                "lastName": "Luporini"
+            },
+            {
+                "id": 37086089947,
+                "preferredName": "Felippe Vieira",
+                "firstName": "Felippe",
+                "lastName": "Vieira"
+            },
+            {
+                "id": 37086163849,
+                "preferredName": "Vincenzo Pandolfo",
+                "firstName": "Vincenzo",
+                "lastName": "Pandolfo"
+            },
+            {
+                "id": 37086164183,
+                "preferredName": "Paulius Velesko",
+                "firstName": "Paulius",
+                "lastName": "Velesko"
+            },
+            {
+                "id": 37086162267,
+                "preferredName": "Paulius Kazakas",
+                "firstName": "Paulius",
+                "lastName": "Kazakas"
+            },
+            {
+                "id": 37086091527,
+                "preferredName": "Gerard Gorman",
+                "firstName": "Gerard",
+                "lastName": "Gorman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.008",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836841",
+        "articleTitle": "High-Performance Python-C++ Bindings with PyPy and Cling",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "High-Performance Python-C++ Bindings with PyPy and Cling",
+        "authors": [
+            {
+                "id": 37086031132,
+                "preferredName": "Wim T.L.P. Lavrijsen",
+                "firstName": "Wim T.L.P.",
+                "lastName": "Lavrijsen"
+            },
+            {
+                "id": 37086102023,
+                "preferredName": "Aditi Dutta",
+                "firstName": "Aditi",
+                "lastName": "Dutta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.006",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836839",
+        "articleTitle": "Migrating Legacy Fortran to Python While Retaining Fortran-Level Performance through Transpilation and Type Hints",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Migrating Legacy Fortran to Python While Retaining Fortran-Level Performance through Transpilation and Type Hints",
+        "authors": [
+            {
+                "id": 37086002138,
+                "preferredName": "Mateusz Bysiek",
+                "firstName": "Mateusz",
+                "lastName": "Bysiek"
+            },
+            {
+                "id": 38468578100,
+                "preferredName": "Aleksandr Drozd",
+                "firstName": "Aleksandr",
+                "lastName": "Drozd"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.005",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836838",
+        "articleTitle": "Dynamic Provisioning and Execution of HPC Workflows Using Python",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Dynamic Provisioning and Execution of HPC Workflows Using Python",
+        "authors": [
+            {
+                "id": 37085650030,
+                "preferredName": "Chris Harris",
+                "firstName": "Chris",
+                "lastName": "Harris"
+            },
+            {
+                "id": 37085447837,
+                "preferredName": "Patrick O'Leary",
+                "firstName": "Patrick",
+                "lastName": "O'Leary"
+            },
+            {
+                "id": 37086060660,
+                "preferredName": "Michael Grauer",
+                "firstName": "Michael",
+                "lastName": "Grauer"
+            },
+            {
+                "id": 38061572700,
+                "preferredName": "Aashish Chaudhary",
+                "firstName": "Aashish",
+                "lastName": "Chaudhary"
+            },
+            {
+                "id": 37086065860,
+                "preferredName": "Chris Kotfila",
+                "firstName": "Chris",
+                "lastName": "Kotfila"
+            },
+            {
+                "id": 37550806900,
+                "preferredName": "Robert O'Bara",
+                "firstName": "Robert",
+                "lastName": "O'Bara"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.012",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836845",
+        "articleTitle": "ePython: An Implementation of Python for the Many-Core Epiphany Co-processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "59",
+        "endPage": "66",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "ePython: An Implementation of Python for the Many-Core Epiphany Co-processor",
+        "authors": [
+            {
+                "id": 37089120605,
+                "preferredName": "Nick Brown",
+                "firstName": "Nick",
+                "lastName": "Brown"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.007",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836840",
+        "articleTitle": "PALLADIO: A Parallel Framework for Robust Variable Selection in High-Dimensional Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "PALLADIO: A Parallel Framework for Robust Variable Selection in High-Dimensional Data",
+        "authors": [
+            {
+                "id": 37086158068,
+                "preferredName": "Matteo Barbieri",
+                "firstName": "Matteo",
+                "lastName": "Barbieri"
+            },
+            {
+                "id": 37085765510,
+                "preferredName": "Samuele Fiorini",
+                "firstName": "Samuele",
+                "lastName": "Fiorini"
+            },
+            {
+                "id": 37086153415,
+                "preferredName": "Federico Tomasi",
+                "firstName": "Federico",
+                "lastName": "Tomasi"
+            },
+            {
+                "id": 37702998600,
+                "preferredName": "Annalisa Barla",
+                "firstName": "Annalisa",
+                "lastName": "Barla"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.009",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836842",
+        "articleTitle": "A New Architecture for Optimization Modeling Frameworks",
+        "volume": null,
+        "issue": null,
+        "startPage": "36",
+        "endPage": "44",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "A New Architecture for Optimization Modeling Frameworks",
+        "authors": [
+            {
+                "id": 37085420153,
+                "preferredName": "Matt Wytock",
+                "firstName": "Matt",
+                "lastName": "Wytock"
+            },
+            {
+                "id": 37085379476,
+                "preferredName": "Steven Diamond",
+                "firstName": "Steven",
+                "lastName": "Diamond"
+            },
+            {
+                "id": 37075809600,
+                "preferredName": "Felix Heide",
+                "firstName": "Felix",
+                "lastName": "Heide"
+            },
+            {
+                "id": 37275279800,
+                "preferredName": "Stephen Boyd",
+                "firstName": "Stephen",
+                "lastName": "Boyd"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.011",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836844",
+        "articleTitle": "Boosting Python Performance on Intel Processors: A Case Study of Optimizing Music Recognition",
+        "volume": null,
+        "issue": null,
+        "startPage": "52",
+        "endPage": "58",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Boosting Python Performance on Intel Processors: A Case Study of Optimizing Music Recognition",
+        "authors": [
+            {
+                "id": 37086165789,
+                "preferredName": "Yuanzhe Li",
+                "firstName": "Yuanzhe",
+                "lastName": "Li"
+            },
+            {
+                "id": 37270441200,
+                "preferredName": "Loren Schwiebert",
+                "firstName": "Loren",
+                "lastName": "Schwiebert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.014",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836847",
+        "articleTitle": "Mrs: High Performance MapReduce for Iterative and Asynchronous Algorithms in Python",
+        "volume": null,
+        "issue": null,
+        "startPage": "76",
+        "endPage": "85",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Mrs: High Performance MapReduce for Iterative and Asynchronous Algorithms in Python",
+        "authors": [
+            {
+                "id": 38581345300,
+                "preferredName": "Jeffrey Lund",
+                "firstName": "Jeffrey",
+                "lastName": "Lund"
+            },
+            {
+                "id": 37086160142,
+                "preferredName": "Chace Ashcraft",
+                "firstName": "Chace",
+                "lastName": "Ashcraft"
+            },
+            {
+                "id": 37705709000,
+                "preferredName": "Andrew McNabb",
+                "firstName": "Andrew",
+                "lastName": "McNabb"
+            },
+            {
+                "id": 37266757900,
+                "preferredName": "Kevin Seppi",
+                "firstName": "Kevin",
+                "lastName": "Seppi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.004",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836837",
+        "articleTitle": "Foreword",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "vi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Foreword",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.015",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836848",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "86",
+        "endPage": "86",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.002",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836835",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "ii",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.001",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836834",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7835827",
+        "doi": "10.1109/PyHPC.2016.003",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836836",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 6th Workshop on Python for High-Performance and Scientific Computing (PyHPC)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

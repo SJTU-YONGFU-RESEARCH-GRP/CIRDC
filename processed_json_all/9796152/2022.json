@@ -1,0 +1,3137 @@
+[
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527881",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796245",
+        "articleTitle": "Code Smells in Elixir: Early Results from a Grey Literature Review",
+        "volume": null,
+        "issue": null,
+        "startPage": "580",
+        "endPage": "584",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Code Smells in Elixir: Early Results from a Grey Literature Review",
+        "authors": [
+            {
+                "id": 37089427967,
+                "preferredName": "Lucas Francisco da Matta Vegi",
+                "firstName": "Lucas Francisco",
+                "lastName": "da Matta Vegi"
+            },
+            {
+                "id": 38557357600,
+                "preferredName": "Marco Tulio Valente",
+                "firstName": "Marco Tulio",
+                "lastName": "Valente"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3528388",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796229",
+        "articleTitle": "Using Discord Conversations as Program Comprehension Aid",
+        "volume": null,
+        "issue": null,
+        "startPage": "597",
+        "endPage": "601",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Using Discord Conversations as Program Comprehension Aid",
+        "authors": [
+            {
+                "id": 37085499594,
+                "preferredName": "Marco Raglianti",
+                "firstName": "Marco",
+                "lastName": "Raglianti"
+            },
+            {
+                "id": 37585744300,
+                "preferredName": "Csaba Nagy",
+                "firstName": "Csaba",
+                "lastName": "Nagy"
+            },
+            {
+                "id": 38585966200,
+                "preferredName": "Roberto Minelli",
+                "firstName": "Roberto",
+                "lastName": "Minelli"
+            },
+            {
+                "id": 37272102400,
+                "preferredName": "Michele Lanza",
+                "firstName": "Michele",
+                "lastName": "Lanza"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527879",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796210",
+        "articleTitle": "Does Coding in Pythonic Zen Peak Performance? Preliminary Experiments of Nine Pythonic Idioms at Scale",
+        "volume": null,
+        "issue": null,
+        "startPage": "575",
+        "endPage": "579",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Does Coding in Pythonic Zen Peak Performance? Preliminary Experiments of Nine Pythonic Idioms at Scale",
+        "authors": [
+            {
+                "id": 37330268900,
+                "preferredName": "Pattara Leelaprute",
+                "firstName": "Pattara",
+                "lastName": "Leelaprute"
+            },
+            {
+                "id": 37086522900,
+                "preferredName": "Bodin Chinthanet",
+                "firstName": "Bodin",
+                "lastName": "Chinthanet"
+            },
+            {
+                "id": 37086702627,
+                "preferredName": "Supatsara Wattanakriengkrai",
+                "firstName": "Supatsara",
+                "lastName": "Wattanakriengkrai"
+            },
+            {
+                "id": 37681719800,
+                "preferredName": "Raula Gaikovina Kula",
+                "firstName": "Raula Gaikovina",
+                "lastName": "Kula"
+            },
+            {
+                "id": 37089430011,
+                "preferredName": "Pongchai Jaisri",
+                "firstName": "Pongchai",
+                "lastName": "Jaisri"
+            },
+            {
+                "id": 37265107600,
+                "preferredName": "Takashi Ishio",
+                "firstName": "Takashi",
+                "lastName": "Ishio"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527730",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796302",
+        "articleTitle": "Casdoc: Unobtrusive Explanations in Code Examples",
+        "volume": null,
+        "issue": null,
+        "startPage": "631",
+        "endPage": "635",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Casdoc: Unobtrusive Explanations in Code Examples",
+        "authors": [
+            {
+                "id": 37086212464,
+                "preferredName": "Mathieu Nassif",
+                "firstName": "Mathieu",
+                "lastName": "Nassif"
+            },
+            {
+                "id": 37089428035,
+                "preferredName": "Zara Horlacher",
+                "firstName": "Zara",
+                "lastName": "Horlacher"
+            },
+            {
+                "id": 37283853000,
+                "preferredName": "Martin P. Robillard",
+                "firstName": "Martin P.",
+                "lastName": "Robillard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527874",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796165",
+        "articleTitle": "CodePanorama: a language agnostic tool for visual code inspection",
+        "volume": null,
+        "issue": null,
+        "startPage": "225",
+        "endPage": "228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "CodePanorama: a language agnostic tool for visual code inspection",
+        "authors": [
+            {
+                "id": 37089430225,
+                "preferredName": "Marc Etter",
+                "firstName": "Marc",
+                "lastName": "Etter"
+            },
+            {
+                "id": 37089430271,
+                "preferredName": "Farhad Mehta",
+                "firstName": "Farhad",
+                "lastName": "Mehta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527877",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796307",
+        "articleTitle": "didiffff: A Viewer for Comparing Changes in both Code and Execution Traces",
+        "volume": null,
+        "issue": null,
+        "startPage": "528",
+        "endPage": "532",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "didiffff: A Viewer for Comparing Changes in both Code and Execution Traces",
+        "authors": [
+            {
+                "id": 37085502496,
+                "preferredName": "Tetsuya Kanda",
+                "firstName": "Tetsuya",
+                "lastName": "Kanda"
+            },
+            {
+                "id": 37086956004,
+                "preferredName": "Kazumasa Shimari",
+                "firstName": "Kazumasa",
+                "lastName": "Shimari"
+            },
+            {
+                "id": 37281358200,
+                "preferredName": "Katsuro Inoue",
+                "firstName": "Katsuro",
+                "lastName": "Inoue"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3528387",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796169",
+        "articleTitle": "A First Look at Duplicate and Near-duplicate Self-admitted Technical Debt Comments",
+        "volume": null,
+        "issue": null,
+        "startPage": "614",
+        "endPage": "618",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "A First Look at Duplicate and Near-duplicate Self-admitted Technical Debt Comments",
+        "authors": [
+            {
+                "id": 37088545749,
+                "preferredName": "Jerin Yasmin",
+                "firstName": "Jerin",
+                "lastName": "Yasmin"
+            },
+            {
+                "id": 37089427169,
+                "preferredName": "Mohammad Sadegh Sheikhaei",
+                "firstName": "Mohammad Sadegh",
+                "lastName": "Sheikhaei"
+            },
+            {
+                "id": 37088543280,
+                "preferredName": "Yuan Tian",
+                "firstName": "Yuan",
+                "lastName": "Tian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527880",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796378",
+        "articleTitle": "Clone-based code method usage pattern mining",
+        "volume": null,
+        "issue": null,
+        "startPage": "543",
+        "endPage": "547",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Clone-based code method usage pattern mining",
+        "authors": [
+            {
+                "id": 37089428501,
+                "preferredName": "Zhipeng Xue",
+                "firstName": "Zhipeng",
+                "lastName": "Xue"
+            },
+            {
+                "id": 37088897582,
+                "preferredName": "Yuanliang Zhang",
+                "firstName": "Yuanliang",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089838483,
+                "preferredName": "Rulin Xu",
+                "firstName": "Rulin",
+                "lastName": "Xu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527883",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796281",
+        "articleTitle": "A Study of Single Statement Bugs Involving Dynamic Language Features",
+        "volume": null,
+        "issue": null,
+        "startPage": "494",
+        "endPage": "498",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "A Study of Single Statement Bugs Involving Dynamic Language Features",
+        "authors": [
+            {
+                "id": 37086348736,
+                "preferredName": "Li Sui",
+                "firstName": "Li",
+                "lastName": "Sui"
+            },
+            {
+                "id": 37087102423,
+                "preferredName": "Shawn Rasheed",
+                "firstName": "Shawn",
+                "lastName": "Rasheed"
+            },
+            {
+                "id": 37604247500,
+                "preferredName": "Amjed Tahir",
+                "firstName": "Amjed",
+                "lastName": "Tahir"
+            },
+            {
+                "id": 37297512100,
+                "preferredName": "Jens Dietrich",
+                "firstName": "Jens",
+                "lastName": "Dietrich"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3528389",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796205",
+        "articleTitle": "On the Developers' Attitude Towards CRAN Checks",
+        "volume": null,
+        "issue": null,
+        "startPage": "570",
+        "endPage": "574",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "On the Developers' Attitude Towards CRAN Checks",
+        "authors": [
+            {
+                "id": 37089427439,
+                "preferredName": "Pranjay Kumar",
+                "firstName": "Pranjay",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37089428691,
+                "preferredName": "Davin Ie",
+                "firstName": "Davin",
+                "lastName": "Ie"
+            },
+            {
+                "id": 37088899069,
+                "preferredName": "Melina Vidoni",
+                "firstName": "Melina",
+                "lastName": "Vidoni"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3528386",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796323",
+        "articleTitle": "Impact of Change Granularity in Refactoring Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "565",
+        "endPage": "569",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Impact of Change Granularity in Refactoring Detection",
+        "authors": [
+            {
+                "id": 37089427332,
+                "preferredName": "Lei Chen",
+                "firstName": "Lei",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37402494200,
+                "preferredName": "Shinpei Hayashi",
+                "firstName": "Shinpei",
+                "lastName": "Hayashi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527884",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796329",
+        "articleTitle": "Understanding Code Snippets in Code Reviews: A Preliminary Study of the OpenStack Community",
+        "volume": null,
+        "issue": null,
+        "startPage": "152",
+        "endPage": "156",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Understanding Code Snippets in Code Reviews: A Preliminary Study of the OpenStack Community",
+        "authors": [
+            {
+                "id": 37088861078,
+                "preferredName": "Liming Fu",
+                "firstName": "Liming",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37269832700,
+                "preferredName": "Peng Liang",
+                "firstName": "Peng",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37089430088,
+                "preferredName": "Beiqi Zhang",
+                "firstName": "Beiqi",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527905",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796361",
+        "articleTitle": "Learning to Represent Programs with Heterogeneous Graphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "378",
+        "endPage": "389",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Learning to Represent Programs with Heterogeneous Graphs",
+        "authors": [
+            {
+                "id": 37089428167,
+                "preferredName": "Kechi Zhang",
+                "firstName": "Kechi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088355925,
+                "preferredName": "Wenhan Wang",
+                "firstName": "Wenhan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089427317,
+                "preferredName": "Huangzhao Zhang",
+                "firstName": "Huangzhao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085815762,
+                "preferredName": "Ge Li",
+                "firstName": "Ge",
+                "lastName": "Li"
+            },
+            {
+                "id": 37291541800,
+                "preferredName": "Zhi Jin",
+                "firstName": "Zhi",
+                "lastName": "Jin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/nnnnnnn.nnnnnnn",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796221",
+        "articleTitle": "Semantic Similarity Metrics for Evaluating Source Code Summarization",
+        "volume": null,
+        "issue": null,
+        "startPage": "36",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Semantic Similarity Metrics for Evaluating Source Code Summarization",
+        "authors": [
+            {
+                "id": 37088863667,
+                "preferredName": "Sakib Haque",
+                "firstName": "Sakib",
+                "lastName": "Haque"
+            },
+            {
+                "id": 37086522990,
+                "preferredName": "Zachary Eberhart",
+                "firstName": "Zachary",
+                "lastName": "Eberhart"
+            },
+            {
+                "id": 37088860744,
+                "preferredName": "Aakash Bansal",
+                "firstName": "Aakash",
+                "lastName": "Bansal"
+            },
+            {
+                "id": 37320479100,
+                "preferredName": "Collin McMillan",
+                "firstName": "Collin",
+                "lastName": "McMillan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527911",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796359",
+        "articleTitle": "C4: Contrastive Cross-Language Code Clone Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "413",
+        "endPage": "424",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "C4: Contrastive Cross-Language Code Clone Detection",
+        "authors": [
+            {
+                "id": 37089428105,
+                "preferredName": "Chenning Tao",
+                "firstName": "Chenning",
+                "lastName": "Tao"
+            },
+            {
+                "id": 37089429126,
+                "preferredName": "Qi Zhan",
+                "firstName": "Qi",
+                "lastName": "Zhan"
+            },
+            {
+                "id": 37086964318,
+                "preferredName": "Xing Hu",
+                "firstName": "Xing",
+                "lastName": "Hu"
+            },
+            {
+                "id": 38237396100,
+                "preferredName": "Xin Xia",
+                "firstName": "Xin",
+                "lastName": "Xia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527896",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796352",
+        "articleTitle": "HELoC: Hierarchical Contrastive Learning of Source Code Representation",
+        "volume": null,
+        "issue": null,
+        "startPage": "354",
+        "endPage": "365",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "HELoC: Hierarchical Contrastive Learning of Source Code Representation",
+        "authors": [
+            {
+                "id": 37086576508,
+                "preferredName": "Xiao Wang",
+                "firstName": "Xiao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089610878,
+                "preferredName": "Qiong Wu",
+                "firstName": "Qiong",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37311096800,
+                "preferredName": "Hongyu Zhang",
+                "firstName": "Hongyu",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089466763,
+                "preferredName": "Chen Lyu",
+                "firstName": "Chen",
+                "lastName": "Lyu"
+            },
+            {
+                "id": 37088665222,
+                "preferredName": "Xue Jiang",
+                "firstName": "Xue",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37089427397,
+                "preferredName": "Zhuoran Zheng",
+                "firstName": "Zhuoran",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37086191230,
+                "preferredName": "Lei Lyu",
+                "firstName": "Lei",
+                "lastName": "Lyu"
+            },
+            {
+                "id": 37534780500,
+                "preferredName": "Songlin Hu",
+                "firstName": "Songlin",
+                "lastName": "Hu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527897",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796213",
+        "articleTitle": "PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models",
+        "authors": [
+            {
+                "id": 37089430184,
+                "preferredName": "Junda He",
+                "firstName": "Junda",
+                "lastName": "He"
+            },
+            {
+                "id": 37085742328,
+                "preferredName": "Bowen Xu",
+                "firstName": "Bowen",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37089158004,
+                "preferredName": "Zhou Yang",
+                "firstName": "Zhou",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37085484435,
+                "preferredName": "DongGyun Han",
+                "firstName": "DongGyun",
+                "lastName": "Han"
+            },
+            {
+                "id": 37089427573,
+                "preferredName": "Chengran Yang",
+                "firstName": "Chengran",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527892",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796334",
+        "articleTitle": "On The Cross-Modal Transfer from Natural Language to Code through Adapter Modules",
+        "volume": null,
+        "issue": null,
+        "startPage": "71",
+        "endPage": "81",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "On The Cross-Modal Transfer from Natural Language to Code through Adapter Modules",
+        "authors": [
+            {
+                "id": 37088390727,
+                "preferredName": "Divyam Goel",
+                "firstName": "Divyam",
+                "lastName": "Goel"
+            },
+            {
+                "id": 37089428401,
+                "preferredName": "Ramansh Grover",
+                "firstName": "Ramansh",
+                "lastName": "Grover"
+            },
+            {
+                "id": 37087323280,
+                "preferredName": "Fatemeh H. Fard",
+                "firstName": "Fatemeh H.",
+                "lastName": "Fard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527907",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796312",
+        "articleTitle": "M2TS: Multi-Scale Multi-Modal Approach Based on Transformer for Source Code Summarization",
+        "volume": null,
+        "issue": null,
+        "startPage": "24",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "M2TS: Multi-Scale Multi-Modal Approach Based on Transformer for Source Code Summarization",
+        "authors": [
+            {
+                "id": 37089427225,
+                "preferredName": "Yuexiu Gao",
+                "firstName": "Yuexiu",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37089466763,
+                "preferredName": "Chen Lyu",
+                "firstName": "Chen",
+                "lastName": "Lyu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527903",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796204",
+        "articleTitle": "GypSum: Learning Hybrid Representations for Code Summarization",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "23",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "GypSum: Learning Hybrid Representations for Code Summarization",
+        "authors": [
+            {
+                "id": 37089502700,
+                "preferredName": "Yu Wang",
+                "firstName": "Yu",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089428036,
+                "preferredName": "Yu Dong",
+                "firstName": "Yu",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37089257234,
+                "preferredName": "Xuesong Lu",
+                "firstName": "Xuesong",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37266730700,
+                "preferredName": "Aoying Zhou",
+                "firstName": "Aoying",
+                "lastName": "Zhou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527917",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796174",
+        "articleTitle": "On the Transferability of Pre-trained Language Models for Low-Resource Programming Languages",
+        "volume": null,
+        "issue": null,
+        "startPage": "401",
+        "endPage": "412",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "On the Transferability of Pre-trained Language Models for Low-Resource Programming Languages",
+        "authors": [
+            {
+                "id": 37087012507,
+                "preferredName": "Fuxiang Chen",
+                "firstName": "Fuxiang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087323280,
+                "preferredName": "Fatemeh H. Fard",
+                "firstName": "Fatemeh H.",
+                "lastName": "Fard"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            },
+            {
+                "id": 37086252515,
+                "preferredName": "Timofey Bryksin",
+                "firstName": "Timofey",
+                "lastName": "Bryksin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527893",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796275",
+        "articleTitle": "Automated Identification of Libraries from Vulnerability Data: Can We Do Better?",
+        "volume": null,
+        "issue": null,
+        "startPage": "178",
+        "endPage": "189",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Automated Identification of Libraries from Vulnerability Data: Can We Do Better?",
+        "authors": [
+            {
+                "id": 37088357295,
+                "preferredName": "Stefanus A. Haryono",
+                "firstName": "Stefanus A.",
+                "lastName": "Haryono"
+            },
+            {
+                "id": 37087113481,
+                "preferredName": "Hong Jin Kang",
+                "firstName": "Hong Jin",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37085579052,
+                "preferredName": "Abhishek Sharma",
+                "firstName": "Abhishek",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37088576255,
+                "preferredName": "Asankhaya Sharma",
+                "firstName": "Asankhaya",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37088575149,
+                "preferredName": "Andrew Santosa",
+                "firstName": "Andrew",
+                "lastName": "Santosa"
+            },
+            {
+                "id": 37089428799,
+                "preferredName": "Ang Ming Yi",
+                "firstName": "Ang Ming",
+                "lastName": "Yi"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3377811.3380380",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796187",
+        "articleTitle": "Find Bugs in Static Bug Finders",
+        "volume": null,
+        "issue": null,
+        "startPage": "516",
+        "endPage": "527",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Find Bugs in Static Bug Finders",
+        "authors": [
+            {
+                "id": 37085875373,
+                "preferredName": "Junjie Wang",
+                "firstName": "Junjie",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089426918,
+                "preferredName": "Yuchao Huang",
+                "firstName": "Yuchao",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085472614,
+                "preferredName": "Song Wang",
+                "firstName": "Song",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37278381300,
+                "preferredName": "Qing Wang",
+                "firstName": "Qing",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527922",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796370",
+        "articleTitle": "Accurate Generation of Trigger-Action Programs with Domain-Adapted Sequence-to-Sequence Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "99",
+        "endPage": "110",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Accurate Generation of Trigger-Action Programs with Domain-Adapted Sequence-to-Sequence Learning",
+        "authors": [
+            {
+                "id": 37087467306,
+                "preferredName": "Imam Nur Bani Yusuf",
+                "firstName": "Imam Nur",
+                "lastName": "Bani Yusuf"
+            },
+            {
+                "id": 37590959600,
+                "preferredName": "Lingxiao Jiang",
+                "firstName": "Lingxiao",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527921",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796241",
+        "articleTitle": "An Exploratory Study on Code Attention in BERT",
+        "volume": null,
+        "issue": null,
+        "startPage": "437",
+        "endPage": "448",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "An Exploratory Study on Code Attention in BERT",
+        "authors": [
+            {
+                "id": 37088355991,
+                "preferredName": "Rishab Sharma",
+                "firstName": "Rishab",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37087012507,
+                "preferredName": "Fuxiang Chen",
+                "firstName": "Fuxiang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087323280,
+                "preferredName": "Fatemeh Fard",
+                "firstName": "Fatemeh",
+                "lastName": "Fard"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527872",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796243",
+        "articleTitle": "Deep API Learning Revisited",
+        "volume": null,
+        "issue": null,
+        "startPage": "321",
+        "endPage": "330",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Deep API Learning Revisited",
+        "authors": [
+            {
+                "id": 37089430161,
+                "preferredName": "James Martin",
+                "firstName": "James",
+                "lastName": "Martin"
+            },
+            {
+                "id": 37086462748,
+                "preferredName": "Jin L.C. Guo",
+                "firstName": "Jin L.C.",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527890",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796206",
+        "articleTitle": "Estimating Developers' Cognitive Load at a Fine-grained Level Using Eye-tracking Measures",
+        "volume": null,
+        "issue": null,
+        "startPage": "111",
+        "endPage": "121",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Estimating Developers' Cognitive Load at a Fine-grained Level Using Eye-tracking Measures",
+        "authors": [
+            {
+                "id": 37089429749,
+                "preferredName": "Amine Abbad-Andaloussi",
+                "firstName": "Amine",
+                "lastName": "Abbad-Andaloussi"
+            },
+            {
+                "id": 37089429158,
+                "preferredName": "Thierry Sorg",
+                "firstName": "Thierry",
+                "lastName": "Sorg"
+            },
+            {
+                "id": 37574874000,
+                "preferredName": "Barbara Weber",
+                "firstName": "Barbara",
+                "lastName": "Weber"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527891",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796298",
+        "articleTitle": "Context-based Cluster Fault Localization",
+        "volume": null,
+        "issue": null,
+        "startPage": "482",
+        "endPage": "493",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Context-based Cluster Fault Localization",
+        "authors": [
+            {
+                "id": 37089426884,
+                "preferredName": "Junji Yu",
+                "firstName": "Junji",
+                "lastName": "Yu"
+            },
+            {
+                "id": 38023580800,
+                "preferredName": "Yan Lei",
+                "firstName": "Yan",
+                "lastName": "Lei"
+            },
+            {
+                "id": 37088862354,
+                "preferredName": "Huan Xie",
+                "firstName": "Huan",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37089427719,
+                "preferredName": "Lingfeng Fu",
+                "firstName": "Lingfeng",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37089429895,
+                "preferredName": "Chunyan Liu",
+                "firstName": "Chunyan",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527887",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796273",
+        "articleTitle": "Fine-Grained Code-Comment Semantic Interaction Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "585",
+        "endPage": "596",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Fine-Grained Code-Comment Semantic Interaction Analysis",
+        "authors": [
+            {
+                "id": 37086194528,
+                "preferredName": "Mingyang Geng",
+                "firstName": "Mingyang",
+                "lastName": "Geng"
+            },
+            {
+                "id": 37086498285,
+                "preferredName": "Shangwen Wang",
+                "firstName": "Shangwen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37394156400,
+                "preferredName": "Dezun Dong",
+                "firstName": "Dezun",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37089427390,
+                "preferredName": "Shanzhi Gu",
+                "firstName": "Shanzhi",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37089428370,
+                "preferredName": "Fang Peng",
+                "firstName": "Fang",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37085841096,
+                "preferredName": "Weijian Ruan",
+                "firstName": "Weijian",
+                "lastName": "Ruan"
+            },
+            {
+                "id": 37395215600,
+                "preferredName": "Xiangke Liao",
+                "firstName": "Xiangke",
+                "lastName": "Liao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527916",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796362",
+        "articleTitle": "Benchmarking Library Recognition in Tweets",
+        "volume": null,
+        "issue": null,
+        "startPage": "343",
+        "endPage": "353",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Benchmarking Library Recognition in Tweets",
+        "authors": [
+            {
+                "id": 37089501205,
+                "preferredName": "Ting Zhang",
+                "firstName": "Ting",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089429572,
+                "preferredName": "Divya Prabha Chandrasekaran",
+                "firstName": "Divya Prabha",
+                "lastName": "Chandrasekaran"
+            },
+            {
+                "id": 38246781800,
+                "preferredName": "Ferdian Thung",
+                "firstName": "Ferdian",
+                "lastName": "Thung"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527882",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796289",
+        "articleTitle": "Do Visual Issue Reports Help Developers Fix Bugs?: - A Preliminary Study of Using Videos and Images to Report Issues on GitHub -",
+        "volume": null,
+        "issue": null,
+        "startPage": "511",
+        "endPage": "515",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Do Visual Issue Reports Help Developers Fix Bugs?: - A Preliminary Study of Using Videos and Images to Report Issues on GitHub -",
+        "authors": [
+            {
+                "id": 37089429435,
+                "preferredName": "Hiroki Kuramoto",
+                "firstName": "Hiroki",
+                "lastName": "Kuramoto"
+            },
+            {
+                "id": 37086081374,
+                "preferredName": "Masanari Kondo",
+                "firstName": "Masanari",
+                "lastName": "Kondo"
+            },
+            {
+                "id": 37085344721,
+                "preferredName": "Yutaro Kashiwa",
+                "firstName": "Yutaro",
+                "lastName": "Kashiwa"
+            },
+            {
+                "id": 37089429566,
+                "preferredName": "Yuta Ishimoto",
+                "firstName": "Yuta",
+                "lastName": "Ishimoto"
+            },
+            {
+                "id": 37089429738,
+                "preferredName": "Kaze Shindo",
+                "firstName": "Kaze",
+                "lastName": "Shindo"
+            },
+            {
+                "id": 37602369000,
+                "preferredName": "Yasutaka Kamei",
+                "firstName": "Yasutaka",
+                "lastName": "Kamei"
+            },
+            {
+                "id": 37303951500,
+                "preferredName": "Naoyasu Ubayashi",
+                "firstName": "Naoyasu",
+                "lastName": "Ubayashi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3529159",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796372",
+        "articleTitle": "The Effect of Information Content and Length on Name Recollection",
+        "volume": null,
+        "issue": null,
+        "startPage": "141",
+        "endPage": "151",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "The Effect of Information Content and Length on Name Recollection",
+        "authors": [
+            {
+                "id": 37089428487,
+                "preferredName": "Asaf Etgar",
+                "firstName": "Asaf",
+                "lastName": "Etgar"
+            },
+            {
+                "id": 37089430028,
+                "preferredName": "Ram Friedman",
+                "firstName": "Ram",
+                "lastName": "Friedman"
+            },
+            {
+                "id": 37089430032,
+                "preferredName": "Shaked Haiman",
+                "firstName": "Shaked",
+                "lastName": "Haiman"
+            },
+            {
+                "id": 37089426815,
+                "preferredName": "Dana Perez",
+                "firstName": "Dana",
+                "lastName": "Perez"
+            },
+            {
+                "id": 37274192400,
+                "preferredName": "Dror G. Feitelson",
+                "firstName": "Dror G.",
+                "lastName": "Feitelson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3529158",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796160",
+        "articleTitle": "So many brackets! An analysis of how SQL learners (mis)manage complexity during query formulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "122",
+        "endPage": "132",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "So many brackets! An analysis of how SQL learners (mis)manage complexity during query formulation",
+        "authors": [
+            {
+                "id": 37089009665,
+                "preferredName": "Daphne Miedema",
+                "firstName": "Daphne",
+                "lastName": "Miedema"
+            },
+            {
+                "id": 37561269400,
+                "preferredName": "George Fletcher",
+                "firstName": "George",
+                "lastName": "Fletcher"
+            },
+            {
+                "id": 37296445900,
+                "preferredName": "Efthimia Aivaloglou",
+                "firstName": "Efthimia",
+                "lastName": "Aivaloglou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527900",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796299",
+        "articleTitle": "Exploring GNN Based Program Embedding Technologies for Binary Related Tasks",
+        "volume": null,
+        "issue": null,
+        "startPage": "366",
+        "endPage": "377",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Exploring GNN Based Program Embedding Technologies for Binary Related Tasks",
+        "authors": [
+            {
+                "id": 37089026863,
+                "preferredName": "Yixin Guo",
+                "firstName": "Yixin",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37085341159,
+                "preferredName": "Pengcheng Li",
+                "firstName": "Pengcheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37533391100,
+                "preferredName": "Yingwei Luo",
+                "firstName": "Yingwei",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37540094500,
+                "preferredName": "Xiaolin Wang",
+                "firstName": "Xiaolin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37421892800,
+                "preferredName": "Zhenlin Wang",
+                "firstName": "Zhenlin",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527910",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796345",
+        "articleTitle": "Simple or Complex? Together for a More Accurate Just-In-Time Defect Predictor",
+        "volume": null,
+        "issue": null,
+        "startPage": "229",
+        "endPage": "240",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Simple or Complex? Together for a More Accurate Just-In-Time Defect Predictor",
+        "authors": [
+            {
+                "id": 37089160200,
+                "preferredName": "Xin Zhou",
+                "firstName": "Xin",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37085484435,
+                "preferredName": "DongGyun Han",
+                "firstName": "DongGyun",
+                "lastName": "Han"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527915",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796351",
+        "articleTitle": "Unified Abstract Syntax Tree Representation Learning for Cross-Language Program Classification",
+        "volume": null,
+        "issue": null,
+        "startPage": "390",
+        "endPage": "400",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Unified Abstract Syntax Tree Representation Learning for Cross-Language Program Classification",
+        "authors": [
+            {
+                "id": 37088580920,
+                "preferredName": "Kesu Wang",
+                "firstName": "Kesu",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085435211,
+                "preferredName": "Meng Yan",
+                "firstName": "Meng",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37293133900,
+                "preferredName": "He Zhang",
+                "firstName": "He",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086007262,
+                "preferredName": "Haibo Hu",
+                "firstName": "Haibo",
+                "lastName": "Hu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527920",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796261",
+        "articleTitle": "Backports: Change Types, Challenges and Strategies",
+        "volume": null,
+        "issue": null,
+        "startPage": "636",
+        "endPage": "647",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Backports: Change Types, Challenges and Strategies",
+        "authors": [
+            {
+                "id": 37085767752,
+                "preferredName": "Debasish Chakroborti",
+                "firstName": "Debasish",
+                "lastName": "Chakroborti"
+            },
+            {
+                "id": 37398664500,
+                "preferredName": "Kevin A. Schneider",
+                "firstName": "Kevin A.",
+                "lastName": "Schneider"
+            },
+            {
+                "id": 37602021900,
+                "preferredName": "Chanchal K. Roy",
+                "firstName": "Chanchal K.",
+                "lastName": "Roy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527902",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796188",
+        "articleTitle": "XAI4FL: Enhancing Spectrum-Based Fault Localization with Explainable Artificial Intelligence",
+        "volume": null,
+        "issue": null,
+        "startPage": "499",
+        "endPage": "510",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "XAI4FL: Enhancing Spectrum-Based Fault Localization with Explainable Artificial Intelligence",
+        "authors": [
+            {
+                "id": 37088400483,
+                "preferredName": "Ratnadira Widyasari",
+                "firstName": "Ratnadira",
+                "lastName": "Widyasari"
+            },
+            {
+                "id": 37089428582,
+                "preferredName": "Gede Artha Azriadi Prana",
+                "firstName": "Gede Artha Azriadi",
+                "lastName": "Prana"
+            },
+            {
+                "id": 37088357295,
+                "preferredName": "Stefanus A. Haryono",
+                "firstName": "Stefanus A.",
+                "lastName": "Haryono"
+            },
+            {
+                "id": 37088543280,
+                "preferredName": "Yuan Tian",
+                "firstName": "Yuan",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37089429727,
+                "preferredName": "Hafil Noer Zachiary",
+                "firstName": "Hafil Noer",
+                "lastName": "Zachiary"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527878",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796232",
+        "articleTitle": "pycefr: Python Competency Level through Code Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "173",
+        "endPage": "177",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "pycefr: Python Competency Level through Code Analysis",
+        "authors": [
+            {
+                "id": 37307439300,
+                "preferredName": "Gregorio Robles",
+                "firstName": "Gregorio",
+                "lastName": "Robles"
+            },
+            {
+                "id": 37681719800,
+                "preferredName": "Raula Gaikovina Kula",
+                "firstName": "Raula Gaikovina",
+                "lastName": "Kula"
+            },
+            {
+                "id": 37085366570,
+                "preferredName": "Chaiyong Ragkhitwetsagul",
+                "firstName": "Chaiyong",
+                "lastName": "Ragkhitwetsagul"
+            },
+            {
+                "id": 37087140861,
+                "preferredName": "Tattiya Sakulniwat",
+                "firstName": "Tattiya",
+                "lastName": "Sakulniwat"
+            },
+            {
+                "id": 37289533100,
+                "preferredName": "Kenichi Matsumoto",
+                "firstName": "Kenichi",
+                "lastName": "Matsumoto"
+            },
+            {
+                "id": 38273693300,
+                "preferredName": "Jesus M. Gonzalez-Barahona",
+                "firstName": "Jesus M.",
+                "lastName": "Gonzalez-Barahona"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527894",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796234",
+        "articleTitle": "Self-Supervised Learning of Smart Contract Representations",
+        "volume": null,
+        "issue": null,
+        "startPage": "82",
+        "endPage": "93",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Self-Supervised Learning of Smart Contract Representations",
+        "authors": [
+            {
+                "id": 37088698557,
+                "preferredName": "Shouliang Yang",
+                "firstName": "Shouliang",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37088901701,
+                "preferredName": "Xiaodong Gu",
+                "firstName": "Xiaodong",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37394691000,
+                "preferredName": "Beijun Shen",
+                "firstName": "Beijun",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527919",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796331",
+        "articleTitle": "Demystifying Software Release Note Issues on GitHub",
+        "volume": null,
+        "issue": null,
+        "startPage": "602",
+        "endPage": "613",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Demystifying Software Release Note Issues on GitHub",
+        "authors": [
+            {
+                "id": 37088589606,
+                "preferredName": "Jianyu Wu",
+                "firstName": "Jianyu",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088862740,
+                "preferredName": "Hao He",
+                "firstName": "Hao",
+                "lastName": "He"
+            },
+            {
+                "id": 37089429575,
+                "preferredName": "Wenxin Xiao",
+                "firstName": "Wenxin",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37089427235,
+                "preferredName": "Kai Gao",
+                "firstName": "Kai",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37417468700,
+                "preferredName": "Minghui Zhou",
+                "firstName": "Minghui",
+                "lastName": "Zhou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527923",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796272",
+        "articleTitle": "Towards Exploring the Code Reuse from Stack Overflow during Software Development",
+        "volume": null,
+        "issue": null,
+        "startPage": "548",
+        "endPage": "559",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Towards Exploring the Code Reuse from Stack Overflow during Software Development",
+        "authors": [
+            {
+                "id": 37085496425,
+                "preferredName": "Yuan Huang",
+                "firstName": "Yuan",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37089429748,
+                "preferredName": "Furen Xu",
+                "firstName": "Furen",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37089428708,
+                "preferredName": "Haojie Zhou",
+                "firstName": "Haojie",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37074241100,
+                "preferredName": "Xiangping Chen",
+                "firstName": "Xiangping",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37559475000,
+                "preferredName": "Xiaocong Zhou",
+                "firstName": "Xiaocong",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37089428848,
+                "preferredName": "Tong Wang",
+                "firstName": "Tong",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527886",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796202",
+        "articleTitle": "On the Effectiveness of Pretrained Models for API Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "309",
+        "endPage": "320",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "On the Effectiveness of Pretrained Models for API Learning",
+        "authors": [
+            {
+                "id": 37088546017,
+                "preferredName": "Mohammad Abdul Hadi",
+                "firstName": "Mohammad Abdul",
+                "lastName": "Hadi"
+            },
+            {
+                "id": 37089427446,
+                "preferredName": "Imam Nur Bani Yusuf",
+                "firstName": "Imam Nur Bani",
+                "lastName": "Yusuf"
+            },
+            {
+                "id": 38246781800,
+                "preferredName": "Ferdian Thung",
+                "firstName": "Ferdian",
+                "lastName": "Thung"
+            },
+            {
+                "id": 37089157745,
+                "preferredName": "Kien Gia Luong",
+                "firstName": "Kien Gia",
+                "lastName": "Luong"
+            },
+            {
+                "id": 37089428646,
+                "preferredName": "Jiang Lingxiao",
+                "firstName": "Jiang",
+                "lastName": "Lingxiao"
+            },
+            {
+                "id": 37087323280,
+                "preferredName": "Fatemeh H. Fard",
+                "firstName": "Fatemeh H.",
+                "lastName": "Fard"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527901",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796308",
+        "articleTitle": "HatCUP: Hybrid Analysis and Attention based Just-In-Time Comment Updating",
+        "volume": null,
+        "issue": null,
+        "startPage": "619",
+        "endPage": "630",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "HatCUP: Hybrid Analysis and Attention based Just-In-Time Comment Updating",
+        "authors": [
+            {
+                "id": 37089429092,
+                "preferredName": "Hongquan Zhu",
+                "firstName": "Hongquan",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37086839981,
+                "preferredName": "Xincheng He",
+                "firstName": "Xincheng",
+                "lastName": "He"
+            },
+            {
+                "id": 37279490300,
+                "preferredName": "Lei Xu",
+                "firstName": "Lei",
+                "lastName": "Xu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527908",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796168",
+        "articleTitle": "Fixing Continuous Integration Tests From Within the IDE With Contextual Information",
+        "volume": null,
+        "issue": null,
+        "startPage": "287",
+        "endPage": "297",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Fixing Continuous Integration Tests From Within the IDE With Contextual Information",
+        "authors": [
+            {
+                "id": 37089427409,
+                "preferredName": "Casper Boone",
+                "firstName": "Casper",
+                "lastName": "Boone"
+            },
+            {
+                "id": 37089158578,
+                "preferredName": "Carolin Brandt",
+                "firstName": "Carolin",
+                "lastName": "Brandt"
+            },
+            {
+                "id": 37297624200,
+                "preferredName": "Andy Zaidman",
+                "firstName": "Andy",
+                "lastName": "Zaidman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3529156",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796314",
+        "articleTitle": "Error Identification Strategies for Python Jupyter Notebooks",
+        "volume": null,
+        "issue": null,
+        "startPage": "253",
+        "endPage": "263",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Error Identification Strategies for Python Jupyter Notebooks",
+        "authors": [
+            {
+                "id": 37089428273,
+                "preferredName": "Derek Robinson",
+                "firstName": "Derek",
+                "lastName": "Robinson"
+            },
+            {
+                "id": 37602555500,
+                "preferredName": "Neil A. Ernst",
+                "firstName": "Neil A.",
+                "lastName": "Ernst"
+            },
+            {
+                "id": 37089429631,
+                "preferredName": "Enrique Larios Vargas",
+                "firstName": "Enrique Larios",
+                "lastName": "Vargas"
+            },
+            {
+                "id": 37268043300,
+                "preferredName": "Margaret-Anne D. Storey",
+                "firstName": "Margaret-Anne D.",
+                "lastName": "Storey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527749",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796357",
+        "articleTitle": "Example-Based Vulnerability Detection and Repair in Java Code",
+        "volume": null,
+        "issue": null,
+        "startPage": "190",
+        "endPage": "201",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Example-Based Vulnerability Detection and Repair in Java Code",
+        "authors": [
+            {
+                "id": 37089430356,
+                "preferredName": "Ying Zhang",
+                "firstName": "Ying",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088536447,
+                "preferredName": "Ya Xiao",
+                "firstName": "Ya",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37089427701,
+                "preferredName": "Md Mahir Asef Kabir",
+                "firstName": "Md Mahir Asef",
+                "lastName": "Kabir"
+            },
+            {
+                "id": 37396830500,
+                "preferredName": "Danfeng Yao",
+                "firstName": "Danfeng",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37660438200,
+                "preferredName": "Na Meng",
+                "firstName": "Na",
+                "lastName": "Meng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527913",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796184",
+        "articleTitle": "Shape-Analysis Driven Memory Graph Visualization",
+        "volume": null,
+        "issue": null,
+        "startPage": "298",
+        "endPage": "308",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Shape-Analysis Driven Memory Graph Visualization",
+        "authors": [
+            {
+                "id": 37087972447,
+                "preferredName": "Jan H. Boockmann",
+                "firstName": "Jan H.",
+                "lastName": "Boockmann"
+            },
+            {
+                "id": 38467911400,
+                "preferredName": "Gerald L\u00fcttgen",
+                "firstName": "Gerald",
+                "lastName": "L\u00fcttgen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3529160",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796224",
+        "articleTitle": "How do I model my system? A Qualitative Study on the Challenges that Modelers Experience",
+        "volume": null,
+        "issue": null,
+        "startPage": "648",
+        "endPage": "659",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "How do I model my system? A Qualitative Study on the Challenges that Modelers Experience",
+        "authors": [
+            {
+                "id": 37085383162,
+                "preferredName": "Christopher Vendome",
+                "firstName": "Christopher",
+                "lastName": "Vendome"
+            },
+            {
+                "id": 37085519146,
+                "preferredName": "Eric J. Rapos",
+                "firstName": "Eric J.",
+                "lastName": "Rapos"
+            },
+            {
+                "id": 37089200218,
+                "preferredName": "Nick DiGennaro",
+                "firstName": "Nick",
+                "lastName": "DiGennaro"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527924",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796263",
+        "articleTitle": "LAMNER: Code Comment Generation Using Character Language Model and Named Entity Recognition",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "59",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "LAMNER: Code Comment Generation Using Character Language Model and Named Entity Recognition",
+        "authors": [
+            {
+                "id": 37088355991,
+                "preferredName": "Rishab Sharma",
+                "firstName": "Rishab",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37087012507,
+                "preferredName": "Fuxiang Chen",
+                "firstName": "Fuxiang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087323280,
+                "preferredName": "Fatemeh Fard",
+                "firstName": "Fatemeh",
+                "lastName": "Fard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527780",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796230",
+        "articleTitle": "An Approach to Automatically Assess Method Names",
+        "volume": null,
+        "issue": null,
+        "startPage": "202",
+        "endPage": "213",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "An Approach to Automatically Assess Method Names",
+        "authors": [
+            {
+                "id": 37086112354,
+                "preferredName": "Reem S. Alsuhaibani",
+                "firstName": "Reem S.",
+                "lastName": "Alsuhaibani"
+            },
+            {
+                "id": 38029128900,
+                "preferredName": "Christian D. Newman",
+                "firstName": "Christian D.",
+                "lastName": "Newman"
+            },
+            {
+                "id": 38027858500,
+                "preferredName": "Michael J. Decker",
+                "firstName": "Michael J.",
+                "lastName": "Decker"
+            },
+            {
+                "id": 37265100000,
+                "preferredName": "Michael L. Collard",
+                "firstName": "Michael L.",
+                "lastName": "Collard"
+            },
+            {
+                "id": 37265100800,
+                "preferredName": "Jonathan I. Maletic",
+                "firstName": "Jonathan I.",
+                "lastName": "Maletic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527906",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796196",
+        "articleTitle": "QuLog: Data-Driven Approach for Log Instruction Quality Assessment",
+        "volume": null,
+        "issue": null,
+        "startPage": "275",
+        "endPage": "286",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "QuLog: Data-Driven Approach for Log Instruction Quality Assessment",
+        "authors": [
+            {
+                "id": 37088527660,
+                "preferredName": "Jasmin Bogatinovski",
+                "firstName": "Jasmin",
+                "lastName": "Bogatinovski"
+            },
+            {
+                "id": 37086152054,
+                "preferredName": "Sasho Nedelkoski",
+                "firstName": "Sasho",
+                "lastName": "Nedelkoski"
+            },
+            {
+                "id": 37086327526,
+                "preferredName": "Alexander Acker",
+                "firstName": "Alexander",
+                "lastName": "Acker"
+            },
+            {
+                "id": 37288124900,
+                "preferredName": "Jorge Cardoso",
+                "firstName": "Jorge",
+                "lastName": "Cardoso"
+            },
+            {
+                "id": 37283390700,
+                "preferredName": "Odej Kao",
+                "firstName": "Odej",
+                "lastName": "Kao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527889",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796338",
+        "articleTitle": "CSRS: Code Search with Relevance Matching and Semantic Matching",
+        "volume": null,
+        "issue": null,
+        "startPage": "533",
+        "endPage": "542",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "CSRS: Code Search with Relevance Matching and Semantic Matching",
+        "authors": [
+            {
+                "id": 37089428508,
+                "preferredName": "Yi Cheng",
+                "firstName": "Yi",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37528902200,
+                "preferredName": "Li Kuang",
+                "firstName": "Li",
+                "lastName": "Kuang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527914",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796231",
+        "articleTitle": "Algorithm Identification in Programming Assignments",
+        "volume": null,
+        "issue": null,
+        "startPage": "471",
+        "endPage": "481",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Algorithm Identification in Programming Assignments",
+        "authors": [
+            {
+                "id": 37089429214,
+                "preferredName": "Pranshu Chourasia",
+                "firstName": "Pranshu",
+                "lastName": "Chourasia"
+            },
+            {
+                "id": 37565934600,
+                "preferredName": "Ganesh Ramakrishnan",
+                "firstName": "Ganesh",
+                "lastName": "Ramakrishnan"
+            },
+            {
+                "id": 37272370800,
+                "preferredName": "Varsha Apte",
+                "firstName": "Varsha",
+                "lastName": "Apte"
+            },
+            {
+                "id": 37089428496,
+                "preferredName": "Suraj Kumar",
+                "firstName": "Suraj",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527898",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796374",
+        "articleTitle": "Performance Anomaly Detection through Sequence Alignment of System-Level Traces",
+        "volume": null,
+        "issue": null,
+        "startPage": "264",
+        "endPage": "274",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Performance Anomaly Detection through Sequence Alignment of System-Level Traces",
+        "authors": [
+            {
+                "id": 37089156713,
+                "preferredName": "Madeline Janecek",
+                "firstName": "Madeline",
+                "lastName": "Janecek"
+            },
+            {
+                "id": 37071999400,
+                "preferredName": "Naser Ezzati-Jivan",
+                "firstName": "Naser",
+                "lastName": "Ezzati-Jivan"
+            },
+            {
+                "id": 37282690000,
+                "preferredName": "Abdelwahab Hamou-Lhadj",
+                "firstName": "Abdelwahab",
+                "lastName": "Hamou-Lhadj"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527870",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796278",
+        "articleTitle": "Revisiting the Effect of Branch Handling Strategies on Change Recommendation",
+        "volume": null,
+        "issue": null,
+        "startPage": "162",
+        "endPage": "172",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Revisiting the Effect of Branch Handling Strategies on Change Recommendation",
+        "authors": [
+            {
+                "id": 37089429671,
+                "preferredName": "Keisuke Isemoto",
+                "firstName": "Keisuke",
+                "lastName": "Isemoto"
+            },
+            {
+                "id": 37277785800,
+                "preferredName": "Takashi Kobayashi",
+                "firstName": "Takashi",
+                "lastName": "Kobayashi"
+            },
+            {
+                "id": 37402494200,
+                "preferredName": "Shinpei Hayashi",
+                "firstName": "Shinpei",
+                "lastName": "Hayashi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3529157",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796349",
+        "articleTitle": "An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption",
+        "volume": null,
+        "issue": null,
+        "startPage": "214",
+        "endPage": "224",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption",
+        "authors": [
+            {
+                "id": 37089157108,
+                "preferredName": "Anna Vacca",
+                "firstName": "Anna",
+                "lastName": "Vacca"
+            },
+            {
+                "id": 37089156020,
+                "preferredName": "Michele Fredella",
+                "firstName": "Michele",
+                "lastName": "Fredella"
+            },
+            {
+                "id": 37085655793,
+                "preferredName": "Andrea Di Sorbo",
+                "firstName": "Andrea",
+                "lastName": "Di Sorbo"
+            },
+            {
+                "id": 37282701800,
+                "preferredName": "Corrado A. Visaggio",
+                "firstName": "Corrado A.",
+                "lastName": "Visaggio"
+            },
+            {
+                "id": 37272039700,
+                "preferredName": "Gerardo Canfora",
+                "firstName": "Gerardo",
+                "lastName": "Canfora"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527871",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796257",
+        "articleTitle": "Two Approaches to Survival Analysis of Open Source Python Projects",
+        "volume": null,
+        "issue": null,
+        "startPage": "660",
+        "endPage": "669",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Two Approaches to Survival Analysis of Open Source Python Projects",
+        "authors": [
+            {
+                "id": 37089428273,
+                "preferredName": "Derek Robinson",
+                "firstName": "Derek",
+                "lastName": "Robinson"
+            },
+            {
+                "id": 37089427730,
+                "preferredName": "Keanelek Enns",
+                "firstName": "Keanelek",
+                "lastName": "Enns"
+            },
+            {
+                "id": 37089428533,
+                "preferredName": "Neha Koulecar",
+                "firstName": "Neha",
+                "lastName": "Koulecar"
+            },
+            {
+                "id": 37089427554,
+                "preferredName": "Manish Sihag",
+                "firstName": "Manish",
+                "lastName": "Sihag"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527904",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796301",
+        "articleTitle": "Anchoring Code Understandability Evaluations Through Task Descriptions",
+        "volume": null,
+        "issue": null,
+        "startPage": "133",
+        "endPage": "140",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Anchoring Code Understandability Evaluations Through Task Descriptions",
+        "authors": [
+            {
+                "id": 37086995603,
+                "preferredName": "Marvin Wyrich",
+                "firstName": "Marvin",
+                "lastName": "Wyrich"
+            },
+            {
+                "id": 37089427330,
+                "preferredName": "Lasse Merz",
+                "firstName": "Lasse",
+                "lastName": "Merz"
+            },
+            {
+                "id": 37085383685,
+                "preferredName": "Daniel Graziotin",
+                "firstName": "Daniel",
+                "lastName": "Graziotin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527925",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796267",
+        "articleTitle": "Exploring and Understanding Cross-service Code Clones in Microservice Projects",
+        "volume": null,
+        "issue": null,
+        "startPage": "449",
+        "endPage": "459",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Exploring and Understanding Cross-service Code Clones in Microservice Projects",
+        "authors": [
+            {
+                "id": 37089428270,
+                "preferredName": "Yang Zhao",
+                "firstName": "Yang",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37075226500,
+                "preferredName": "Ran Mo",
+                "firstName": "Ran",
+                "lastName": "Mo"
+            },
+            {
+                "id": 37089430199,
+                "preferredName": "Yao Zhang",
+                "firstName": "Yao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089429925,
+                "preferredName": "Siyuan Zhang",
+                "firstName": "Siyuan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089159298,
+                "preferredName": "Pu Xiong",
+                "firstName": "Pu",
+                "lastName": "Xiong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3529161",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796305",
+        "articleTitle": "MSCCD: Grammar Pluggable Clone Detection Based on ANTLR Parser Generation",
+        "volume": null,
+        "issue": null,
+        "startPage": "460",
+        "endPage": "470",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "MSCCD: Grammar Pluggable Clone Detection Based on ANTLR Parser Generation",
+        "authors": [
+            {
+                "id": 37089429893,
+                "preferredName": "Wenqing Zhu",
+                "firstName": "Wenqing",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37555281600,
+                "preferredName": "Norihiro Yoshida",
+                "firstName": "Norihiro",
+                "lastName": "Yoshida"
+            },
+            {
+                "id": 37306321500,
+                "preferredName": "Toshihiro Kamiya",
+                "firstName": "Toshihiro",
+                "lastName": "Kamiya"
+            },
+            {
+                "id": 38252583300,
+                "preferredName": "Eunjong Choi",
+                "firstName": "Eunjong",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37265742200,
+                "preferredName": "Hiroaki Takada",
+                "firstName": "Hiroaki",
+                "lastName": "Takada"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527766",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796242",
+        "articleTitle": "Predicting Change Propagation between Code Clone Instances by Graph-based Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "425",
+        "endPage": "436",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Predicting Change Propagation between Code Clone Instances by Graph-based Deep Learning",
+        "authors": [
+            {
+                "id": 37088356544,
+                "preferredName": "Bin Hu",
+                "firstName": "Bin",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37293508800,
+                "preferredName": "Yijian Wu",
+                "firstName": "Yijian",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37292540400,
+                "preferredName": "Xin Peng",
+                "firstName": "Xin",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37687737200,
+                "preferredName": "Chaofeng Sha",
+                "firstName": "Chaofeng",
+                "lastName": "Sha"
+            },
+            {
+                "id": 37089429916,
+                "preferredName": "Xiaochen Wang",
+                "firstName": "Xiaochen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089427684,
+                "preferredName": "Baiqiang Fu",
+                "firstName": "Baiqiang",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37291637300,
+                "preferredName": "Wenyun Zhao",
+                "firstName": "Wenyun",
+                "lastName": "Zhao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527876",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796309",
+        "articleTitle": "GitQ- Towards Using Badges as Visual Cues for GitHub Projects",
+        "volume": null,
+        "issue": null,
+        "startPage": "157",
+        "endPage": "161",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "GitQ- Towards Using Badges as Visual Cues for GitHub Projects",
+        "authors": [
+            {
+                "id": 37089428905,
+                "preferredName": "Akhila Sri Manasa Venigalla",
+                "firstName": "Akhila Sri",
+                "lastName": "Manasa Venigalla"
+            },
+            {
+                "id": 37089427172,
+                "preferredName": "Kowndinya Boyalakuntla",
+                "firstName": "Kowndinya",
+                "lastName": "Boyalakuntla"
+            },
+            {
+                "id": 37947734300,
+                "preferredName": "Sridhar Chimalakonda",
+                "firstName": "Sridhar",
+                "lastName": "Chimalakonda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527888",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796313",
+        "articleTitle": "Zero-Shot Program Representation Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "60",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Zero-Shot Program Representation Learning",
+        "authors": [
+            {
+                "id": 37088962381,
+                "preferredName": "Nan Cui",
+                "firstName": "Nan",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37089428800,
+                "preferredName": "Yuze Jiang",
+                "firstName": "Yuze",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37088901701,
+                "preferredName": "Xiaodong Gu",
+                "firstName": "Xiaodong",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37394691000,
+                "preferredName": "Beijun Shen",
+                "firstName": "Beijun",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527885",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796287",
+        "articleTitle": "Causette: User-Controlled Rearrangement of Causal Constructs in a Code Editor",
+        "volume": null,
+        "issue": null,
+        "startPage": "241",
+        "endPage": "252",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Causette: User-Controlled Rearrangement of Causal Constructs in a Code Editor",
+        "authors": [
+            {
+                "id": 37089426911,
+                "preferredName": "Alice Martin",
+                "firstName": "Alice",
+                "lastName": "Martin"
+            },
+            {
+                "id": 37089429832,
+                "preferredName": "Mathieu Magnaudet",
+                "firstName": "Mathieu",
+                "lastName": "Magnaudet"
+            },
+            {
+                "id": 38017080200,
+                "preferredName": "St\u00e9phane Conversy",
+                "firstName": "St\u00e9phane",
+                "lastName": "Conversy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527918",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796291",
+        "articleTitle": "ARSeek: Identifying API Resource using Code and Discussion on Stack Overflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "331",
+        "endPage": "342",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "ARSeek: Identifying API Resource using Code and Discussion on Stack Overflow",
+        "authors": [
+            {
+                "id": 37089157745,
+                "preferredName": "Kien Luong",
+                "firstName": "Kien",
+                "lastName": "Luong"
+            },
+            {
+                "id": 37088546017,
+                "preferredName": "Mohammad Hadi",
+                "firstName": "Mohammad",
+                "lastName": "Hadi"
+            },
+            {
+                "id": 38246781800,
+                "preferredName": "Ferdian Thung",
+                "firstName": "Ferdian",
+                "lastName": "Thung"
+            },
+            {
+                "id": 37087323280,
+                "preferredName": "Fatemeh Fard",
+                "firstName": "Fatemeh",
+                "lastName": "Fard"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3527873",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796364",
+        "articleTitle": "The Ineffectiveness of Domain-Specific Word Embedding Models for GUI Test Reuse",
+        "volume": null,
+        "issue": null,
+        "startPage": "560",
+        "endPage": "564",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "The Ineffectiveness of Domain-Specific Word Embedding Models for GUI Test Reuse",
+        "authors": [
+            {
+                "id": 37089427869,
+                "preferredName": "Farideh Khalili",
+                "firstName": "Farideh",
+                "lastName": "Khalili"
+            },
+            {
+                "id": 37089428856,
+                "preferredName": "Ali Mohebbi",
+                "firstName": "Ali",
+                "lastName": "Mohebbi"
+            },
+            {
+                "id": 37085611213,
+                "preferredName": "Valerio Terragni",
+                "firstName": "Valerio",
+                "lastName": "Terragni"
+            },
+            {
+                "id": 37267493000,
+                "preferredName": "Mauro Pezz\u00e8",
+                "firstName": "Mauro",
+                "lastName": "Pezz\u00e8"
+            },
+            {
+                "id": 37267495400,
+                "preferredName": "Leonardo Mariani",
+                "firstName": "Leonardo",
+                "lastName": "Mariani"
+            },
+            {
+                "id": 38244677100,
+                "preferredName": "Abbas Heydarnoori",
+                "firstName": "Abbas",
+                "lastName": "Heydarnoori"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": "10.1145/3524610.3528390",
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796191",
+        "articleTitle": "An Exploratory Study of Analyzing JavaScript Online Code Clones",
+        "volume": null,
+        "issue": null,
+        "startPage": "94",
+        "endPage": "98",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "An Exploratory Study of Analyzing JavaScript Online Code Clones",
+        "authors": [
+            {
+                "id": 37086348442,
+                "preferredName": "Md Rakib Hossain Misu",
+                "firstName": "Md Rakib Hossain",
+                "lastName": "Misu"
+            },
+            {
+                "id": 37086178426,
+                "preferredName": "Abdus Satter",
+                "firstName": "Abdus",
+                "lastName": "Satter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796290",
+        "articleTitle": "Title Page iii",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Title Page iii",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796332",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796164",
+        "articleTitle": "Message from the ICPC 2022 Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiv",
+        "endPage": "xiv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Message from the ICPC 2022 Chairs",
+        "authors": [
+            {
+                "id": 37598376400,
+                "preferredName": "Gabriele Bavota",
+                "firstName": "Gabriele",
+                "lastName": "Bavota"
+            },
+            {
+                "id": 393811320110371,
+                "preferredName": "Venera Arnaoudova",
+                "firstName": "Venera",
+                "lastName": "Arnaoudova"
+            },
+            {
+                "id": 37600721300,
+                "preferredName": "Sonia Haiduc",
+                "firstName": "Sonia",
+                "lastName": "Haiduc"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796363",
+        "articleTitle": "Keynotes",
+        "volume": null,
+        "issue": null,
+        "startPage": "xxiii",
+        "endPage": "xxvi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Keynotes",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796246",
+        "articleTitle": "Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "xv",
+        "endPage": "xvi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796181",
+        "articleTitle": "Steering Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "xvii",
+        "endPage": "xvii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Steering Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796162",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "xiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796304",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "671",
+        "endPage": "674",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9796152",
+        "doi": null,
+        "publicationYear": "2022",
+        "publicationDate": "16-17 May 2022",
+        "articleNumber": "9796366",
+        "articleTitle": "Program Committees",
+        "volume": null,
+        "issue": null,
+        "startPage": "xviii",
+        "endPage": "xxii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM 30th International Conference on Program Comprehension (ICPC)",
+        "highlightedTitle": "Program Committees",
+        "authors": []
+    }
+]

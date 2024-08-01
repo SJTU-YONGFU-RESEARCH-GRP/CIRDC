@@ -1,0 +1,2066 @@
+[
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.49",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041865",
+        "articleTitle": "Utility-Based Cache Partitioning: A Low-Overhead, High-Performance, Runtime Mechanism to Partition Shared Caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "423",
+        "endPage": "432",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Utility-Based Cache Partitioning: A Low-Overhead, High-Performance, Runtime Mechanism to Partition Shared Caches",
+        "authors": [
+            {
+                "id": 37301807700,
+                "preferredName": "Moinuddin K. Qureshi",
+                "firstName": "Moinuddin K.",
+                "lastName": "Qureshi"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Yale N. Patt",
+                "firstName": "Yale N.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.18",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041869",
+        "articleTitle": "Die Stacking (3D) Microarchitecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "469",
+        "endPage": "479",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Die Stacking (3D) Microarchitecture",
+        "authors": [
+            {
+                "id": 37085855487,
+                "preferredName": "Bryan Black",
+                "firstName": "Bryan",
+                "lastName": "Black"
+            },
+            {
+                "id": 37298092100,
+                "preferredName": "Murali Annavaram",
+                "firstName": "Murali",
+                "lastName": "Annavaram"
+            },
+            {
+                "id": 37088673175,
+                "preferredName": "Ned Brekelbaum",
+                "firstName": "Ned",
+                "lastName": "Brekelbaum"
+            },
+            {
+                "id": 37325861300,
+                "preferredName": "John DeVale",
+                "firstName": "John",
+                "lastName": "DeVale"
+            },
+            {
+                "id": 37398009800,
+                "preferredName": "Lei Jiang",
+                "firstName": "Lei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            },
+            {
+                "id": 37088675259,
+                "preferredName": "Don McCaule",
+                "firstName": "Don",
+                "lastName": "McCaule"
+            },
+            {
+                "id": 37827540300,
+                "preferredName": "Pat Morrow",
+                "firstName": "Pat",
+                "lastName": "Morrow"
+            },
+            {
+                "id": 37274440500,
+                "preferredName": "Donald W. Nelson",
+                "firstName": "Donald W.",
+                "lastName": "Nelson"
+            },
+            {
+                "id": 37374709600,
+                "preferredName": "Daniel Pantuso",
+                "firstName": "Daniel",
+                "lastName": "Pantuso"
+            },
+            {
+                "id": 38467704400,
+                "preferredName": "Paul Reed",
+                "firstName": "Paul",
+                "lastName": "Reed"
+            },
+            {
+                "id": 37442259900,
+                "preferredName": "Jeff Rupley",
+                "firstName": "Jeff",
+                "lastName": "Rupley"
+            },
+            {
+                "id": 37317484500,
+                "preferredName": "Sadasivan Shankar",
+                "firstName": "Sadasivan",
+                "lastName": "Shankar"
+            },
+            {
+                "id": 37336157600,
+                "preferredName": "John Shen",
+                "firstName": "John",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37274441200,
+                "preferredName": "Clair Webb",
+                "firstName": "Clair",
+                "lastName": "Webb"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.8",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041859",
+        "articleTitle": "An Analysis of Efficient Multi-Core Global Power Management Policies: Maximizing Performance for a Given Power Budget",
+        "volume": null,
+        "issue": null,
+        "startPage": "347",
+        "endPage": "358",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "An Analysis of Efficient Multi-Core Global Power Management Policies: Maximizing Performance for a Given Power Budget",
+        "authors": [
+            {
+                "id": 37564776200,
+                "preferredName": "Canturk Isci",
+                "firstName": "Canturk",
+                "lastName": "Isci"
+            },
+            {
+                "id": 37267009200,
+                "preferredName": "Alper Buyuktosunoglu",
+                "firstName": "Alper",
+                "lastName": "Buyuktosunoglu"
+            },
+            {
+                "id": 37418836200,
+                "preferredName": "Chen-yong Cher",
+                "firstName": "Chen-yong",
+                "lastName": "Cher"
+            },
+            {
+                "id": 37279227100,
+                "preferredName": "Pradip Bose",
+                "firstName": "Pradip",
+                "lastName": "Bose"
+            },
+            {
+                "id": 37332404000,
+                "preferredName": "Margaret Martonosi",
+                "firstName": "Margaret",
+                "lastName": "Martonosi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.29",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041842",
+        "articleTitle": "LIFT: A Low-Overhead Practical Information Flow Tracking System for Detecting Security Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "135",
+        "endPage": "148",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "LIFT: A Low-Overhead Practical Information Flow Tracking System for Detecting Security Attacks",
+        "authors": [
+            {
+                "id": 37282329000,
+                "preferredName": "Feng Qin",
+                "firstName": "Feng",
+                "lastName": "Qin"
+            },
+            {
+                "id": 37292505700,
+                "preferredName": "Cheng Wang",
+                "firstName": "Cheng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37421722600,
+                "preferredName": "Zhenmin Li",
+                "firstName": "Zhenmin",
+                "lastName": "Li"
+            },
+            {
+                "id": 37292779500,
+                "preferredName": "Ho-seop Kim",
+                "firstName": "Ho-seop",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37273641100,
+                "preferredName": "Yuanyuan Zhou",
+                "firstName": "Yuanyuan",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37293508700,
+                "preferredName": "Youfeng Wu",
+                "firstName": "Youfeng",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.24",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041848",
+        "articleTitle": "Fair Queuing Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "208",
+        "endPage": "222",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Fair Queuing Memory Systems",
+        "authors": [
+            {
+                "id": 37282534800,
+                "preferredName": "Kyle J. Nesbit",
+                "firstName": "Kyle J.",
+                "lastName": "Nesbit"
+            },
+            {
+                "id": 37698468800,
+                "preferredName": "Nidhi Aggarwal",
+                "firstName": "Nidhi",
+                "lastName": "Aggarwal"
+            },
+            {
+                "id": 37373735900,
+                "preferredName": "James Laudon",
+                "firstName": "James",
+                "lastName": "Laudon"
+            },
+            {
+                "id": 37277158600,
+                "preferredName": "James E. Smith",
+                "firstName": "James E.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.28",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041871",
+        "articleTitle": "Leveraging Optical Technology in Future Bus-based Chip Multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "492",
+        "endPage": "503",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Leveraging Optical Technology in Future Bus-based Chip Multiprocessors",
+        "authors": [
+            {
+                "id": 37550721400,
+                "preferredName": "Nevin Kirman",
+                "firstName": "Nevin",
+                "lastName": "Kirman"
+            },
+            {
+                "id": 37550690000,
+                "preferredName": "Meyrem Kirman",
+                "firstName": "Meyrem",
+                "lastName": "Kirman"
+            },
+            {
+                "id": 37532471100,
+                "preferredName": "Rajeev K. Dokania",
+                "firstName": "Rajeev K.",
+                "lastName": "Dokania"
+            },
+            {
+                "id": 37421430100,
+                "preferredName": "Jose F. Martinez",
+                "firstName": "Jose F.",
+                "lastName": "Martinez"
+            },
+            {
+                "id": 37271591000,
+                "preferredName": "Alyssa B. Apsel",
+                "firstName": "Alyssa B.",
+                "lastName": "Apsel"
+            },
+            {
+                "id": 37703244800,
+                "preferredName": "Matthew A. Watkins",
+                "firstName": "Matthew A.",
+                "lastName": "Watkins"
+            },
+            {
+                "id": 37267232800,
+                "preferredName": "David H. Albonesi",
+                "firstName": "David H.",
+                "lastName": "Albonesi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.31",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041868",
+        "articleTitle": "Managing Distributed, Shared L2 Caches through OS-Level Page Allocation",
+        "volume": null,
+        "issue": null,
+        "startPage": "455",
+        "endPage": "468",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Managing Distributed, Shared L2 Caches through OS-Level Page Allocation",
+        "authors": [
+            {
+                "id": 37293575700,
+                "preferredName": "Sangyeun Cho",
+                "firstName": "Sangyeun",
+                "lastName": "Cho"
+            },
+            {
+                "id": 37690182300,
+                "preferredName": "Lei Jin",
+                "firstName": "Lei",
+                "lastName": "Jin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.50",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041858",
+        "articleTitle": "ViChaR: A Dynamic Virtual Channel Regulator for Network-on-Chip Routers",
+        "volume": null,
+        "issue": null,
+        "startPage": "333",
+        "endPage": "346",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "ViChaR: A Dynamic Virtual Channel Regulator for Network-on-Chip Routers",
+        "authors": [
+            {
+                "id": 37300402600,
+                "preferredName": "Chrysostomos A. Nicopoulos",
+                "firstName": "Chrysostomos A.",
+                "lastName": "Nicopoulos"
+            },
+            {
+                "id": 37289700300,
+                "preferredName": "Dongkook Park",
+                "firstName": "Dongkook",
+                "lastName": "Park"
+            },
+            {
+                "id": 38185706000,
+                "preferredName": "Jongman Kim",
+                "firstName": "Jongman",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37274587500,
+                "preferredName": "N. Vijaykrishnan",
+                "firstName": "N.",
+                "lastName": "Vijaykrishnan"
+            },
+            {
+                "id": 37268573400,
+                "preferredName": "Mazin S. Yousif",
+                "firstName": "Mazin S.",
+                "lastName": "Yousif"
+            },
+            {
+                "id": 37268589600,
+                "preferredName": "Chita R. Das",
+                "firstName": "Chita R.",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.30",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041860",
+        "articleTitle": "Live, Runtime Phase Monitoring and Prediction on Real Systems with Application to Dynamic Power Management",
+        "volume": null,
+        "issue": null,
+        "startPage": "359",
+        "endPage": "370",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Live, Runtime Phase Monitoring and Prediction on Real Systems with Application to Dynamic Power Management",
+        "authors": [
+            {
+                "id": 37564776200,
+                "preferredName": "Canturk Isci",
+                "firstName": "Canturk",
+                "lastName": "Isci"
+            },
+            {
+                "id": 37564391800,
+                "preferredName": "Gilberto Contreras",
+                "firstName": "Gilberto",
+                "lastName": "Contreras"
+            },
+            {
+                "id": 37332404000,
+                "preferredName": "Margaret Martonosi",
+                "firstName": "Margaret",
+                "lastName": "Martonosi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.10",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041867",
+        "articleTitle": "ASR: Adaptive Selective Replication for CMP Caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "443",
+        "endPage": "454",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "ASR: Adaptive Selective Replication for CMP Caches",
+        "authors": [
+            {
+                "id": 37564441800,
+                "preferredName": "Bradford M. Beckmann",
+                "firstName": "Bradford M.",
+                "lastName": "Beckmann"
+            },
+            {
+                "id": 37302341500,
+                "preferredName": "Michael R. Marty",
+                "firstName": "Michael R.",
+                "lastName": "Marty"
+            },
+            {
+                "id": 37266188300,
+                "preferredName": "David A. Wood",
+                "firstName": "David A.",
+                "lastName": "Wood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.19",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041870",
+        "articleTitle": "Distributed Microarchitectural Protocols in the TRIPS Prototype Processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "480",
+        "endPage": "491",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Distributed Microarchitectural Protocols in the TRIPS Prototype Processor",
+        "authors": [
+            {
+                "id": 37398408100,
+                "preferredName": "Karthikeyan Sankaralingam",
+                "firstName": "Karthikeyan",
+                "lastName": "Sankaralingam"
+            },
+            {
+                "id": 37269594500,
+                "preferredName": "Ramadass Nagarajan",
+                "firstName": "Ramadass",
+                "lastName": "Nagarajan"
+            },
+            {
+                "id": 37689848800,
+                "preferredName": "Robert McDonald",
+                "firstName": "Robert",
+                "lastName": "McDonald"
+            },
+            {
+                "id": 37727356100,
+                "preferredName": "Rajagopalan Desikan",
+                "firstName": "Rajagopalan",
+                "lastName": "Desikan"
+            },
+            {
+                "id": 37088673282,
+                "preferredName": "Saurabh Drolia",
+                "firstName": "Saurabh",
+                "lastName": "Drolia"
+            },
+            {
+                "id": 37825251100,
+                "preferredName": "M.S. Govindan",
+                "firstName": "M.S.",
+                "lastName": "Govindan"
+            },
+            {
+                "id": 37540639900,
+                "preferredName": "Paul Gratz",
+                "firstName": "Paul",
+                "lastName": "Gratz"
+            },
+            {
+                "id": 37828856700,
+                "preferredName": "Divya Gulati",
+                "firstName": "Divya",
+                "lastName": "Gulati"
+            },
+            {
+                "id": 37701140700,
+                "preferredName": "Heather Hanson",
+                "firstName": "Heather",
+                "lastName": "Hanson"
+            },
+            {
+                "id": 37578251700,
+                "preferredName": "Changkyu Kim",
+                "firstName": "Changkyu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37834643100,
+                "preferredName": "Haiming Liu",
+                "firstName": "Haiming",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37629425100,
+                "preferredName": "Nitya Ranganathan",
+                "firstName": "Nitya",
+                "lastName": "Ranganathan"
+            },
+            {
+                "id": 37314065100,
+                "preferredName": "Simha Sethumadhavan",
+                "firstName": "Simha",
+                "lastName": "Sethumadhavan"
+            },
+            {
+                "id": 37325543300,
+                "preferredName": "Sadia Sharif",
+                "firstName": "Sadia",
+                "lastName": "Sharif"
+            },
+            {
+                "id": 37325871500,
+                "preferredName": "Premkishore Shivakumar",
+                "firstName": "Premkishore",
+                "lastName": "Shivakumar"
+            },
+            {
+                "id": 37282751600,
+                "preferredName": "Stephen W. Keckler",
+                "firstName": "Stephen W.",
+                "lastName": "Keckler"
+            },
+            {
+                "id": 37282750500,
+                "preferredName": "Doug Burger",
+                "firstName": "Doug",
+                "lastName": "Burger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.42",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041849",
+        "articleTitle": "Reunion: Complexity-Effective Multicore Redundancy",
+        "volume": null,
+        "issue": null,
+        "startPage": "223",
+        "endPage": "234",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Reunion: Complexity-Effective Multicore Redundancy",
+        "authors": [
+            {
+                "id": 37565054400,
+                "preferredName": "Jared C. Smolens",
+                "firstName": "Jared C.",
+                "lastName": "Smolens"
+            },
+            {
+                "id": 37553217700,
+                "preferredName": "Brian T. Gold",
+                "firstName": "Brian T.",
+                "lastName": "Gold"
+            },
+            {
+                "id": 37364501300,
+                "preferredName": "Babak Falsafi",
+                "firstName": "Babak",
+                "lastName": "Falsafi"
+            },
+            {
+                "id": 37274426200,
+                "preferredName": "James C. Hoe",
+                "firstName": "James C.",
+                "lastName": "Hoe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.6",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041844",
+        "articleTitle": "A Predictive Performance Model for Superscalar Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "161",
+        "endPage": "170",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "A Predictive Performance Model for Superscalar Processors",
+        "authors": [
+            {
+                "id": 37298595300,
+                "preferredName": "P. J. Joseph",
+                "firstName": "P. J.",
+                "lastName": "Joseph"
+            },
+            {
+                "id": 37297714000,
+                "preferredName": "Kapil Vaswani",
+                "firstName": "Kapil",
+                "lastName": "Vaswani"
+            },
+            {
+                "id": 37297720300,
+                "preferredName": "Matthew J. Thazhuthaveetil",
+                "firstName": "Matthew J.",
+                "lastName": "Thazhuthaveetil"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.37",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041872",
+        "articleTitle": "Mitigating the Impact of Process Variations on Processor Register Files and Execution Units",
+        "volume": null,
+        "issue": null,
+        "startPage": "504",
+        "endPage": "514",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Mitigating the Impact of Process Variations on Processor Register Files and Execution Units",
+        "authors": [
+            {
+                "id": 37292895800,
+                "preferredName": "Xiaoyao Liang",
+                "firstName": "Xiaoyao",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37279380700,
+                "preferredName": "David Brooks",
+                "firstName": "David",
+                "lastName": "Brooks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.52",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041832",
+        "articleTitle": "Yield-Aware Cache Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "25",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Yield-Aware Cache Architectures",
+        "authors": [
+            {
+                "id": 37542758100,
+                "preferredName": "Serkan Ozdemir",
+                "firstName": "Serkan",
+                "lastName": "Ozdemir"
+            },
+            {
+                "id": 37299777100,
+                "preferredName": "Debjit Sinha",
+                "firstName": "Debjit",
+                "lastName": "Sinha"
+            },
+            {
+                "id": 38367265800,
+                "preferredName": "Gokhan Memik",
+                "firstName": "Gokhan",
+                "lastName": "Memik"
+            },
+            {
+                "id": 37832952700,
+                "preferredName": "Jonathan Adams",
+                "firstName": "Jonathan",
+                "lastName": "Adams"
+            },
+            {
+                "id": 37279561700,
+                "preferredName": "Hai Zhou",
+                "firstName": "Hai",
+                "lastName": "Zhou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.27",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041857",
+        "articleTitle": "In-Network Cache Coherence",
+        "volume": null,
+        "issue": null,
+        "startPage": "321",
+        "endPage": "332",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "In-Network Cache Coherence",
+        "authors": [
+            {
+                "id": 37829960600,
+                "preferredName": "Noel Eisley",
+                "firstName": "Noel",
+                "lastName": "Eisley"
+            },
+            {
+                "id": 37274794400,
+                "preferredName": "Li-shiuan Peh",
+                "firstName": "Li-shiuan",
+                "lastName": "Peh"
+            },
+            {
+                "id": 37286995200,
+                "preferredName": "Li Shang",
+                "firstName": "Li",
+                "lastName": "Shang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.32",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041863",
+        "articleTitle": "Memory Prefetching Using Adaptive Stream Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "397",
+        "endPage": "408",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Memory Prefetching Using Adaptive Stream Detection",
+        "authors": [
+            {
+                "id": 37540974100,
+                "preferredName": "Ibrahim Hur",
+                "firstName": "Ibrahim",
+                "lastName": "Hur"
+            },
+            {
+                "id": 37278409300,
+                "preferredName": "Calvin Lin",
+                "firstName": "Calvin",
+                "lastName": "Lin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.9",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041846",
+        "articleTitle": "Architectural Support for Software Transactional Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "185",
+        "endPage": "196",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Architectural Support for Software Transactional Memory",
+        "authors": [
+            {
+                "id": 37298724900,
+                "preferredName": "Bratin Saha",
+                "firstName": "Bratin",
+                "lastName": "Saha"
+            },
+            {
+                "id": 38271217600,
+                "preferredName": "Ali-reza Adl-Tabatabai",
+                "firstName": "Ali-reza",
+                "lastName": "Adl-Tabatabai"
+            },
+            {
+                "id": 37349850000,
+                "preferredName": "Quinn Jacobson",
+                "firstName": "Quinn",
+                "lastName": "Jacobson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.7",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041862",
+        "articleTitle": "Adaptive Caches: Effective Shaping of Cache Behavior to Workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "385",
+        "endPage": "396",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Adaptive Caches: Effective Shaping of Cache Behavior to Workloads",
+        "authors": [
+            {
+                "id": 37827081100,
+                "preferredName": "Ranjith Subramanian",
+                "firstName": "Ranjith",
+                "lastName": "Subramanian"
+            },
+            {
+                "id": 37265392900,
+                "preferredName": "Yannis Smaragdakis",
+                "firstName": "Yannis",
+                "lastName": "Smaragdakis"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.44",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041864",
+        "articleTitle": "Scalable Cache Miss Handling for High Memory-Level Parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "409",
+        "endPage": "422",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Scalable Cache Miss Handling for High Memory-Level Parallelism",
+        "authors": [
+            {
+                "id": 37409802200,
+                "preferredName": "James Tuck",
+                "firstName": "James",
+                "lastName": "Tuck"
+            },
+            {
+                "id": 37297956900,
+                "preferredName": "Luis Ceze",
+                "firstName": "Luis",
+                "lastName": "Ceze"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.23",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041850",
+        "articleTitle": "Exploiting Fine-Grained Data Parallelism with Chip Multiprocessors and Fast Barriers",
+        "volume": null,
+        "issue": null,
+        "startPage": "235",
+        "endPage": "246",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Exploiting Fine-Grained Data Parallelism with Chip Multiprocessors and Fast Barriers",
+        "authors": [
+            {
+                "id": 37420427300,
+                "preferredName": "Jack Sampson",
+                "firstName": "Jack",
+                "lastName": "Sampson"
+            },
+            {
+                "id": 37267784800,
+                "preferredName": "Ruben Gonzalez",
+                "firstName": "Ruben",
+                "lastName": "Gonzalez"
+            },
+            {
+                "id": 37371600200,
+                "preferredName": "Jean-francois Collard",
+                "firstName": "Jean-francois",
+                "lastName": "Collard"
+            },
+            {
+                "id": 37273884000,
+                "preferredName": "Norman P. Jouppi",
+                "firstName": "Norman P.",
+                "lastName": "Jouppi"
+            },
+            {
+                "id": 37374563800,
+                "preferredName": "Mike Schlansker",
+                "firstName": "Mike",
+                "lastName": "Schlansker"
+            },
+            {
+                "id": 37297952100,
+                "preferredName": "Brad Calder",
+                "firstName": "Brad",
+                "lastName": "Calder"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.39",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041854",
+        "articleTitle": "NoSQ: Store-Load Communication without a Store Queue",
+        "volume": null,
+        "issue": null,
+        "startPage": "285",
+        "endPage": "296",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "NoSQ: Store-Load Communication without a Store Queue",
+        "authors": [
+            {
+                "id": 37424136300,
+                "preferredName": "Tingting Sha",
+                "firstName": "Tingting",
+                "lastName": "Sha"
+            },
+            {
+                "id": 37088001508,
+                "preferredName": "Milo M. K. Martin",
+                "firstName": "Milo M.",
+                "lastName": "K. Martin"
+            },
+            {
+                "id": 37359626500,
+                "preferredName": "Amir Roth",
+                "firstName": "Amir",
+                "lastName": "Roth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.38",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041866",
+        "articleTitle": "Molecular Caches: A caching structure for dynamic creation of application-specific Heterogeneous cache regions",
+        "volume": null,
+        "issue": null,
+        "startPage": "433",
+        "endPage": "442",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Molecular Caches: A caching structure for dynamic creation of application-specific Heterogeneous cache regions",
+        "authors": [
+            {
+                "id": 37543872200,
+                "preferredName": "Keshavan Varadarajan",
+                "firstName": "Keshavan",
+                "lastName": "Varadarajan"
+            },
+            {
+                "id": 37279928000,
+                "preferredName": "S.K. Nandy",
+                "firstName": "S.K.",
+                "lastName": "Nandy"
+            },
+            {
+                "id": 37689659300,
+                "preferredName": "Vishal Sharda",
+                "firstName": "Vishal",
+                "lastName": "Sharda"
+            },
+            {
+                "id": 37684865700,
+                "preferredName": "Amrutur Bharadwaj",
+                "firstName": "Amrutur",
+                "lastName": "Bharadwaj"
+            },
+            {
+                "id": 37065928100,
+                "preferredName": "Ravi Iyer",
+                "firstName": "Ravi",
+                "lastName": "Iyer"
+            },
+            {
+                "id": 37281654500,
+                "preferredName": "Srihari Makineni",
+                "firstName": "Srihari",
+                "lastName": "Makineni"
+            },
+            {
+                "id": 37272506400,
+                "preferredName": "Donald Newell",
+                "firstName": "Donald",
+                "lastName": "Newell"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.41",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041833",
+        "articleTitle": "Phoenix: Detecting and Recovering from Permanent Processor Design Bugs with Programmable Hardware",
+        "volume": null,
+        "issue": null,
+        "startPage": "26",
+        "endPage": "37",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Phoenix: Detecting and Recovering from Permanent Processor Design Bugs with Programmable Hardware",
+        "authors": [
+            {
+                "id": 38553959500,
+                "preferredName": "Smruti R. Sarangi",
+                "firstName": "Smruti R.",
+                "lastName": "Sarangi"
+            },
+            {
+                "id": 37692300300,
+                "preferredName": "Abhishek Tiwari",
+                "firstName": "Abhishek",
+                "lastName": "Tiwari"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.25",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041843",
+        "articleTitle": "Fairness and Throughput in Switch on Event Multithreading",
+        "volume": null,
+        "issue": null,
+        "startPage": "149",
+        "endPage": "160",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Fairness and Throughput in Switch on Event Multithreading",
+        "authors": [
+            {
+                "id": 37830048300,
+                "preferredName": "Ron Gabor",
+                "firstName": "Ron",
+                "lastName": "Gabor"
+            },
+            {
+                "id": 37276935300,
+                "preferredName": "Shlomo Weiss",
+                "firstName": "Shlomo",
+                "lastName": "Weiss"
+            },
+            {
+                "id": 37282322100,
+                "preferredName": "Avi Mendelson",
+                "firstName": "Avi",
+                "lastName": "Mendelson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.14",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041856",
+        "articleTitle": "Coherence Ordering for Ring-based Chip Multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "309",
+        "endPage": "320",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Coherence Ordering for Ring-based Chip Multiprocessors",
+        "authors": [
+            {
+                "id": 37302341500,
+                "preferredName": "Michael R. Marty",
+                "firstName": "Michael R.",
+                "lastName": "Marty"
+            },
+            {
+                "id": 37279742700,
+                "preferredName": "Mark D. Hill",
+                "firstName": "Mark D.",
+                "lastName": "Hill"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.26",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041853",
+        "articleTitle": "Fire-and-Forget: Load/Store Scheduling with No Store Queue at All",
+        "volume": null,
+        "issue": null,
+        "startPage": "273",
+        "endPage": "284",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Fire-and-Forget: Load/Store Scheduling with No Store Queue at All",
+        "authors": [
+            {
+                "id": 37627328800,
+                "preferredName": "Samantika Subramaniam",
+                "firstName": "Samantika",
+                "lastName": "Subramaniam"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.11",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041839",
+        "articleTitle": "Authentication Control Point and Its Implications For Secure Processor Design",
+        "volume": null,
+        "issue": null,
+        "startPage": "103",
+        "endPage": "112",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Authentication Control Point and Its Implications For Secure Processor Design",
+        "authors": [
+            {
+                "id": 37278937300,
+                "preferredName": "Weidong Shi",
+                "firstName": "Weidong",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37280122100,
+                "preferredName": "Hsien-Hsin S. Lee",
+                "firstName": "Hsien-Hsin S.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.13",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041851",
+        "articleTitle": "CAPSULE: Hardware-Assisted Parallel Execution of Component-Based Programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "247",
+        "endPage": "258",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "CAPSULE: Hardware-Assisted Parallel Execution of Component-Based Programs",
+        "authors": [
+            {
+                "id": 37830162600,
+                "preferredName": "Pierre Palatin",
+                "firstName": "Pierre",
+                "lastName": "Palatin"
+            },
+            {
+                "id": 37830155100,
+                "preferredName": "Yves Lhuillier",
+                "firstName": "Yves",
+                "lastName": "Lhuillier"
+            },
+            {
+                "id": 37282483400,
+                "preferredName": "Olivier Temam",
+                "firstName": "Olivier",
+                "lastName": "Temam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.17",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041838",
+        "articleTitle": "Dataflow Predication",
+        "volume": null,
+        "issue": null,
+        "startPage": "89",
+        "endPage": "102",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Dataflow Predication",
+        "authors": [
+            {
+                "id": 37383607500,
+                "preferredName": "Aaron Smith",
+                "firstName": "Aaron",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37269594500,
+                "preferredName": "Ramadass Nagarajan",
+                "firstName": "Ramadass",
+                "lastName": "Nagarajan"
+            },
+            {
+                "id": 37398408100,
+                "preferredName": "Karthikeyan Sankaralingam",
+                "firstName": "Karthikeyan",
+                "lastName": "Sankaralingam"
+            },
+            {
+                "id": 37689848800,
+                "preferredName": "Robert McDonald",
+                "firstName": "Robert",
+                "lastName": "McDonald"
+            },
+            {
+                "id": 37282750500,
+                "preferredName": "Doug Burger",
+                "firstName": "Doug",
+                "lastName": "Burger"
+            },
+            {
+                "id": 37282751600,
+                "preferredName": "Stephen W. Keckler",
+                "firstName": "Stephen W.",
+                "lastName": "Keckler"
+            },
+            {
+                "id": 37267694300,
+                "preferredName": "Kathryn S. McKinley",
+                "firstName": "Kathryn S.",
+                "lastName": "McKinley"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.22",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041861",
+        "articleTitle": "Dynamic Standby Prediction for Leakage Tolerant Microprocessor Functional Units",
+        "volume": null,
+        "issue": null,
+        "startPage": "371",
+        "endPage": "384",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Dynamic Standby Prediction for Leakage Tolerant Microprocessor Functional Units",
+        "authors": [
+            {
+                "id": 37275706900,
+                "preferredName": "Ahmed Youssef",
+                "firstName": "Ahmed",
+                "lastName": "Youssef"
+            },
+            {
+                "id": 37281708400,
+                "preferredName": "Mohab Anis",
+                "firstName": "Mohab",
+                "lastName": "Anis"
+            },
+            {
+                "id": 37276008000,
+                "preferredName": "Mohamed Elmasry",
+                "firstName": "Mohamed",
+                "lastName": "Elmasry"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.20",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041835",
+        "articleTitle": "Diverge-Merge Processor (DMP): Dynamic Predicated Execution of Complex Control-Flow Graphs Based on Frequently Executed Paths",
+        "volume": null,
+        "issue": null,
+        "startPage": "53",
+        "endPage": "64",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Diverge-Merge Processor (DMP): Dynamic Predicated Execution of Complex Control-Flow Graphs Based on Frequently Executed Paths",
+        "authors": [
+            {
+                "id": 37280376200,
+                "preferredName": "Hyesoon Kim",
+                "firstName": "Hyesoon",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37297735500,
+                "preferredName": "Jose A. Joao",
+                "firstName": "Jose A.",
+                "lastName": "Joao"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Yale N. Patt",
+                "firstName": "Yale N.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.40",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041834",
+        "articleTitle": "PathExpander: Architectural Support for Increasing the Path Coverage of Dynamic Bug Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "38",
+        "endPage": "52",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "PathExpander: Architectural Support for Increasing the Path Coverage of Dynamic Bug Detection",
+        "authors": [
+            {
+                "id": 37559076200,
+                "preferredName": "Shan Lu",
+                "firstName": "Shan",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37591004300,
+                "preferredName": "Pin Zhou",
+                "firstName": "Pin",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37279766900,
+                "preferredName": "Wei Liu",
+                "firstName": "Wei",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37273641100,
+                "preferredName": "Yuanyuan Zhou",
+                "firstName": "Yuanyuan",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.47",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041852",
+        "articleTitle": "Support for High-Frequency Streaming in CMPs",
+        "volume": null,
+        "issue": null,
+        "startPage": "259",
+        "endPage": "272",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Support for High-Frequency Streaming in CMPs",
+        "authors": [
+            {
+                "id": 37282757900,
+                "preferredName": "Ram Rangan",
+                "firstName": "Ram",
+                "lastName": "Rangan"
+            },
+            {
+                "id": 37265261100,
+                "preferredName": "Neil Vachharajani",
+                "firstName": "Neil",
+                "lastName": "Vachharajani"
+            },
+            {
+                "id": 37550625200,
+                "preferredName": "Adam Stoler",
+                "firstName": "Adam",
+                "lastName": "Stoler"
+            },
+            {
+                "id": 37426216200,
+                "preferredName": "Guilherme Ottoni",
+                "firstName": "Guilherme",
+                "lastName": "Ottoni"
+            },
+            {
+                "id": 37265266800,
+                "preferredName": "David I. August",
+                "firstName": "David I.",
+                "lastName": "August"
+            },
+            {
+                "id": 37088005472,
+                "preferredName": "George Z. N. Cai",
+                "firstName": "George Z.",
+                "lastName": "N. Cai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.34",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041836",
+        "articleTitle": "Merging Head and Tail Duplication for Convergent Hyperblock Formation",
+        "volume": null,
+        "issue": null,
+        "startPage": "65",
+        "endPage": "76",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Merging Head and Tail Duplication for Convergent Hyperblock Formation",
+        "authors": [
+            {
+                "id": 37718119100,
+                "preferredName": "Bertrand A. Maher",
+                "firstName": "Bertrand A.",
+                "lastName": "Maher"
+            },
+            {
+                "id": 37383607500,
+                "preferredName": "Aaron Smith",
+                "firstName": "Aaron",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37282750500,
+                "preferredName": "Doug Burger",
+                "firstName": "Doug",
+                "lastName": "Burger"
+            },
+            {
+                "id": 37267694300,
+                "preferredName": "Kathryn S. McKinley",
+                "firstName": "Kathryn S.",
+                "lastName": "McKinley"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.51",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041847",
+        "articleTitle": "Virtually Pipelined Network Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "197",
+        "endPage": "207",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Virtually Pipelined Network Memory",
+        "authors": [
+            {
+                "id": 37318823200,
+                "preferredName": "Banit Agrawal",
+                "firstName": "Banit",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37283546900,
+                "preferredName": "Timothy Sherwood",
+                "firstName": "Timothy",
+                "lastName": "Sherwood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.5",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041831",
+        "articleTitle": "A Floorplan-Aware Dynamic Inductive Noise Controller for Reliable Processor Design",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "A Floorplan-Aware Dynamic Inductive Noise Controller for Reliable Processor Design",
+        "authors": [
+            {
+                "id": 37293760500,
+                "preferredName": "Fayez Mohamood",
+                "firstName": "Fayez",
+                "lastName": "Mohamood"
+            },
+            {
+                "id": 37299467600,
+                "preferredName": "Michael B. Healy",
+                "firstName": "Michael B.",
+                "lastName": "Healy"
+            },
+            {
+                "id": 37280563100,
+                "preferredName": "Sung Kyu Lim",
+                "firstName": "Sung Kyu",
+                "lastName": "Lim"
+            },
+            {
+                "id": 37280122100,
+                "preferredName": "Hsien-hsin S. Lee",
+                "firstName": "Hsien-hsin S.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.45",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041845",
+        "articleTitle": "Serialization-Aware Mini-Graphs: Performance with Fewer Resources",
+        "volume": null,
+        "issue": null,
+        "startPage": "171",
+        "endPage": "184",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Serialization-Aware Mini-Graphs: Performance with Fewer Resources",
+        "authors": [
+            {
+                "id": 37402358700,
+                "preferredName": "Anne Bracy",
+                "firstName": "Anne",
+                "lastName": "Bracy"
+            },
+            {
+                "id": 37359626500,
+                "preferredName": "Amir Roth",
+                "firstName": "Amir",
+                "lastName": "Roth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.16",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041837",
+        "articleTitle": "Data-Dependency Graph Transformations for Superblock Scheduling",
+        "volume": null,
+        "issue": null,
+        "startPage": "77",
+        "endPage": "88",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Data-Dependency Graph Transformations for Superblock Scheduling",
+        "authors": [
+            {
+                "id": 37838167700,
+                "preferredName": "Mark Heffernan",
+                "firstName": "Mark",
+                "lastName": "Heffernan"
+            },
+            {
+                "id": 37374984800,
+                "preferredName": "Kent Wilken",
+                "firstName": "Kent",
+                "lastName": "Wilken"
+            },
+            {
+                "id": 37564477900,
+                "preferredName": "Ghassan Shobaki",
+                "firstName": "Ghassan",
+                "lastName": "Shobaki"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.21",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041855",
+        "articleTitle": "DMDC: Delayed Memory Dependence Checking through Age-Based Filtering",
+        "volume": null,
+        "issue": null,
+        "startPage": "297",
+        "endPage": "308",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "DMDC: Delayed Memory Dependence Checking through Age-Based Filtering",
+        "authors": [
+            {
+                "id": 37566540400,
+                "preferredName": "Fernando Castro",
+                "firstName": "Fernando",
+                "lastName": "Castro"
+            },
+            {
+                "id": 37281774300,
+                "preferredName": "Luis Pinuel",
+                "firstName": "Luis",
+                "lastName": "Pinuel"
+            },
+            {
+                "id": 37331002900,
+                "preferredName": "Daniel Chaver",
+                "firstName": "Daniel",
+                "lastName": "Chaver"
+            },
+            {
+                "id": 37340547600,
+                "preferredName": "Manuel Prieto",
+                "firstName": "Manuel",
+                "lastName": "Prieto"
+            },
+            {
+                "id": 38278085000,
+                "preferredName": "Michael Huang",
+                "firstName": "Michael",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37331004200,
+                "preferredName": "Francisco Tirado",
+                "firstName": "Francisco",
+                "lastName": "Tirado"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.48",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041840",
+        "articleTitle": "Using Branch Correlation to Identify Infeasible Paths for Anomaly Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "113",
+        "endPage": "122",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Using Branch Correlation to Identify Infeasible Paths for Anomaly Detection",
+        "authors": [
+            {
+                "id": 37289232100,
+                "preferredName": "Xiaotong Zhuang",
+                "firstName": "Xiaotong",
+                "lastName": "Zhuang"
+            },
+            {
+                "id": 37417705500,
+                "preferredName": "Tao Zhang",
+                "firstName": "Tao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37267758000,
+                "preferredName": "Santosh Pande",
+                "firstName": "Santosh",
+                "lastName": "Pande"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.33",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041841",
+        "articleTitle": "Memory Protection through Dynamic Access Control",
+        "volume": null,
+        "issue": null,
+        "startPage": "123",
+        "endPage": "134",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Memory Protection through Dynamic Access Control",
+        "authors": [
+            {
+                "id": 37832654000,
+                "preferredName": "Kun Zhang",
+                "firstName": "Kun",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37417705500,
+                "preferredName": "Tao Zhang",
+                "firstName": "Tao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37267758000,
+                "preferredName": "Santosh Pande",
+                "firstName": "Santosh",
+                "lastName": "Pande"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.35",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041826",
+        "articleTitle": "Message from the General Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "ix",
+        "endPage": "ix",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Message from the General Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.15",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041828",
+        "articleTitle": "Conference Committees",
+        "volume": null,
+        "issue": null,
+        "startPage": "xi",
+        "endPage": "xi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Conference Committees",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.36",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041827",
+        "articleTitle": "Message from the Program Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "x",
+        "endPage": "x",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Message from the Program Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.3",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041823",
+        "articleTitle": "39th Annual IEEE/ACM International Symposium on Microarchitecture-Title",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "39th Annual IEEE/ACM International Symposium on Microarchitecture-Title",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.4",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041825",
+        "articleTitle": "39th Annual IEEE/ACM International Symposium on Microarchitecture - TOC",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "viii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "39th Annual IEEE/ACM International Symposium on Microarchitecture - TOC",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.43",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041829",
+        "articleTitle": "Reviewers",
+        "volume": null,
+        "issue": null,
+        "startPage": "xii",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Reviewers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.2",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041822",
+        "articleTitle": "39th Annual IEEE/ACM International Symposium on Microarchitecture-Cover",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "39th Annual IEEE/ACM International Symposium on Microarchitecture-Cover",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.1",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041824",
+        "articleTitle": "39th Annual IEEE/ACM International Symposium on Microarchitecture-Copyright",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "39th Annual IEEE/ACM International Symposium on Microarchitecture-Copyright",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.46",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041830",
+        "articleTitle": "Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiv",
+        "endPage": "xiv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "4041820",
+        "doi": "10.1109/MICRO.2006.12",
+        "publicationYear": "2006",
+        "publicationDate": "9-13 Dec. 2006",
+        "articleNumber": "4041873",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "515",
+        "endPage": "515",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2006 39th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'06)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    }
+]

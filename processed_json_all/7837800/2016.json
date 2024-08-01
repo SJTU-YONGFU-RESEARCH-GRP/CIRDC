@@ -1,0 +1,342 @@
+[
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.009",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839458",
+        "articleTitle": "The ARES High-Level Intermediate Representation",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "The ARES High-Level Intermediate Representation",
+        "authors": [
+            {
+                "id": 37085426999,
+                "preferredName": "Nick Moss",
+                "firstName": "Nick",
+                "lastName": "Moss"
+            },
+            {
+                "id": 37282656500,
+                "preferredName": "Kei Davis",
+                "firstName": "Kei",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37282708700,
+                "preferredName": "Patrick McCormick",
+                "firstName": "Patrick",
+                "lastName": "McCormick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.006",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839455",
+        "articleTitle": "Offloading Support for OpenMP in Clang and LLVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Offloading Support for OpenMP in Clang and LLVM",
+        "authors": [
+            {
+                "id": 37545834500,
+                "preferredName": "Samuel F. Antao",
+                "firstName": "Samuel F.",
+                "lastName": "Antao"
+            },
+            {
+                "id": 37085990643,
+                "preferredName": "Alexey Bataev",
+                "firstName": "Alexey",
+                "lastName": "Bataev"
+            },
+            {
+                "id": 37085575410,
+                "preferredName": "Arpith C. Jacob",
+                "firstName": "Arpith C.",
+                "lastName": "Jacob"
+            },
+            {
+                "id": 37085995206,
+                "preferredName": "Gheorghe-Teodor Bercea",
+                "firstName": "Gheorghe-Teodor",
+                "lastName": "Bercea"
+            },
+            {
+                "id": 37362532000,
+                "preferredName": "Alexandre E. Eichenberger",
+                "firstName": "Alexandre E.",
+                "lastName": "Eichenberger"
+            },
+            {
+                "id": 37393236400,
+                "preferredName": "Georgios Rokos",
+                "firstName": "Georgios",
+                "lastName": "Rokos"
+            },
+            {
+                "id": 37085836973,
+                "preferredName": "Matt Martineau",
+                "firstName": "Matt",
+                "lastName": "Martineau"
+            },
+            {
+                "id": 37088737471,
+                "preferredName": "Tian Jin",
+                "firstName": "Tian",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37085991652,
+                "preferredName": "Guray Ozen",
+                "firstName": "Guray",
+                "lastName": "Ozen"
+            },
+            {
+                "id": 37330127800,
+                "preferredName": "Zehra Sura",
+                "firstName": "Zehra",
+                "lastName": "Sura"
+            },
+            {
+                "id": 37896236400,
+                "preferredName": "Tong Chen",
+                "firstName": "Tong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085992664,
+                "preferredName": "Hyojin Sung",
+                "firstName": "Hyojin",
+                "lastName": "Sung"
+            },
+            {
+                "id": 37391996700,
+                "preferredName": "Carlo Bertolli",
+                "firstName": "Carlo",
+                "lastName": "Bertolli"
+            },
+            {
+                "id": 38192264200,
+                "preferredName": "Kevin O'Brien",
+                "firstName": "Kevin",
+                "lastName": "O'Brien"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.007",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839456",
+        "articleTitle": "Towards Automatic HBM Allocation Using LLVM: A Case Study with Knights Landing",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Towards Automatic HBM Allocation Using LLVM: A Case Study with Knights Landing",
+        "authors": [
+            {
+                "id": 37085610405,
+                "preferredName": "Dounia Khaldi",
+                "firstName": "Dounia",
+                "lastName": "Khaldi"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.008",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839457",
+        "articleTitle": "LLVM Framework and IR Extensions for Parallelization, SIMD Vectorization and Offloading",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "LLVM Framework and IR Extensions for Parallelization, SIMD Vectorization and Offloading",
+        "authors": [
+            {
+                "id": 37279245500,
+                "preferredName": "Xinmin Tian",
+                "firstName": "Xinmin",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37417653300,
+                "preferredName": "Hideki Saito",
+                "firstName": "Hideki",
+                "lastName": "Saito"
+            },
+            {
+                "id": 37089149455,
+                "preferredName": "Ernesto Su",
+                "firstName": "Ernesto",
+                "lastName": "Su"
+            },
+            {
+                "id": 37086025700,
+                "preferredName": "Abhinav Gaba",
+                "firstName": "Abhinav",
+                "lastName": "Gaba"
+            },
+            {
+                "id": 37086026659,
+                "preferredName": "Matt Masten",
+                "firstName": "Matt",
+                "lastName": "Masten"
+            },
+            {
+                "id": 37086028017,
+                "preferredName": "Eric Garcia",
+                "firstName": "Eric",
+                "lastName": "Garcia"
+            },
+            {
+                "id": 37398916100,
+                "preferredName": "Ayal Zaks",
+                "firstName": "Ayal",
+                "lastName": "Zaks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.005",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839454",
+        "articleTitle": "Program Committee Members",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Program Committee Members",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.004",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839453",
+        "articleTitle": "Foreword",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Foreword",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.001",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839450",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.003",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839452",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.002",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839451",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "ii",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7837800",
+        "doi": "10.1109/LLVM-HPC.2016.010",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7839459",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    }
+]

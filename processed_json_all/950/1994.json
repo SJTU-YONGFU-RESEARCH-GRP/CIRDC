@@ -1,0 +1,1356 @@
+[
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288140",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288140",
+        "articleTitle": "The Stanford FLASH multiprocessor",
+        "volume": null,
+        "issue": null,
+        "startPage": "302",
+        "endPage": "313",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "The Stanford FLASH multiprocessor",
+        "authors": [
+            {
+                "id": 38576798300,
+                "preferredName": "J. Kuskin",
+                "firstName": "J.",
+                "lastName": "Kuskin"
+            },
+            {
+                "id": 37344526600,
+                "preferredName": "D. Ofelt",
+                "firstName": "D.",
+                "lastName": "Ofelt"
+            },
+            {
+                "id": 37267399800,
+                "preferredName": "M. Heinrich",
+                "firstName": "M.",
+                "lastName": "Heinrich"
+            },
+            {
+                "id": 37377421800,
+                "preferredName": "J. Heinlein",
+                "firstName": "J.",
+                "lastName": "Heinlein"
+            },
+            {
+                "id": 37324312100,
+                "preferredName": "R. Simoni",
+                "firstName": "R.",
+                "lastName": "Simoni"
+            },
+            {
+                "id": 37324425600,
+                "preferredName": "K. Gharachorloo",
+                "firstName": "K.",
+                "lastName": "Gharachorloo"
+            },
+            {
+                "id": 37285465300,
+                "preferredName": "J. Chapin",
+                "firstName": "J.",
+                "lastName": "Chapin"
+            },
+            {
+                "id": 37089125200,
+                "preferredName": "D. Nakahira",
+                "firstName": "D.",
+                "lastName": "Nakahira"
+            },
+            {
+                "id": 37389755800,
+                "preferredName": "J. Baxter",
+                "firstName": "J.",
+                "lastName": "Baxter"
+            },
+            {
+                "id": 37270364000,
+                "preferredName": "M. Horowitz",
+                "firstName": "M.",
+                "lastName": "Horowitz"
+            },
+            {
+                "id": 37335244700,
+                "preferredName": "A. Gupta",
+                "firstName": "A.",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37272956900,
+                "preferredName": "M. Rosenblum",
+                "firstName": "M.",
+                "lastName": "Rosenblum"
+            },
+            {
+                "id": 37338120700,
+                "preferredName": "J. Hennessy",
+                "firstName": "J.",
+                "lastName": "Hennessy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288154",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288154",
+        "articleTitle": "Virtual memory mapped network interface for the SHRIMP multicomputer",
+        "volume": null,
+        "issue": null,
+        "startPage": "142",
+        "endPage": "153",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Virtual memory mapped network interface for the SHRIMP multicomputer",
+        "authors": [
+            {
+                "id": 37353961300,
+                "preferredName": "M.A. Blumrich",
+                "firstName": "M.A.",
+                "lastName": "Blumrich"
+            },
+            {
+                "id": 37087178742,
+                "preferredName": "Kai Li",
+                "firstName": null,
+                "lastName": "Kai Li"
+            },
+            {
+                "id": 37354314000,
+                "preferredName": "R. Alpert",
+                "firstName": "R.",
+                "lastName": "Alpert"
+            },
+            {
+                "id": 37276173100,
+                "preferredName": "C. Dubnicki",
+                "firstName": "C.",
+                "lastName": "Dubnicki"
+            },
+            {
+                "id": 37350263000,
+                "preferredName": "E.W. Felten",
+                "firstName": "E.W.",
+                "lastName": "Felten"
+            },
+            {
+                "id": 37087892165,
+                "preferredName": "J. Sandberg",
+                "firstName": "J.",
+                "lastName": "Sandberg"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288138",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288138",
+        "articleTitle": "Tempest and Typhoon: user-level shared memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "325",
+        "endPage": "336",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Tempest and Typhoon: user-level shared memory",
+        "authors": [
+            {
+                "id": 37282365500,
+                "preferredName": "S.K. Reinhardt",
+                "firstName": "S.K.",
+                "lastName": "Reinhardt"
+            },
+            {
+                "id": 37295760500,
+                "preferredName": "J.R. Larus",
+                "firstName": "J.R.",
+                "lastName": "Larus"
+            },
+            {
+                "id": 37266188300,
+                "preferredName": "D.A. Wood",
+                "firstName": "D.A.",
+                "lastName": "Wood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288164",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288164",
+        "articleTitle": "Evaluating stream buffers as a secondary cache replacement",
+        "volume": null,
+        "issue": null,
+        "startPage": "24",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Evaluating stream buffers as a secondary cache replacement",
+        "authors": [
+            {
+                "id": 37376937000,
+                "preferredName": "S. Palacharla",
+                "firstName": "S.",
+                "lastName": "Palacharla"
+            },
+            {
+                "id": 37375500500,
+                "preferredName": "R.E. Kessler",
+                "firstName": "R.E.",
+                "lastName": "Kessler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288163",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288163",
+        "articleTitle": "Tradeoffs in two-level on-chip caching",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Tradeoffs in two-level on-chip caching",
+        "authors": [
+            {
+                "id": 37273884000,
+                "preferredName": "N.P. Jouppi",
+                "firstName": "N.P.",
+                "lastName": "Jouppi"
+            },
+            {
+                "id": 37265862300,
+                "preferredName": "S.J.E. Wilton",
+                "firstName": "S.J.E.",
+                "lastName": "Wilton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288147",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288147",
+        "articleTitle": "A performance study of software and hardware data prefetching schemes",
+        "volume": null,
+        "issue": null,
+        "startPage": "223",
+        "endPage": "232",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "A performance study of software and hardware data prefetching schemes",
+        "authors": [
+            {
+                "id": 37087221193,
+                "preferredName": "Tien-Fu Chen",
+                "firstName": null,
+                "lastName": "Tien-Fu Chen"
+            },
+            {
+                "id": 37295804200,
+                "preferredName": "J.-L. Baer",
+                "firstName": "J.-L.",
+                "lastName": "Baer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288133",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288133",
+        "articleTitle": "Decoupled sectored caches: conciliating low tag implementation cost and low miss ratio",
+        "volume": null,
+        "issue": null,
+        "startPage": "384",
+        "endPage": "393",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Decoupled sectored caches: conciliating low tag implementation cost and low miss ratio",
+        "authors": [
+            {
+                "id": 37265543200,
+                "preferredName": "A. Seznec",
+                "firstName": "A.",
+                "lastName": "Seznec"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288156",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288156",
+        "articleTitle": "Guarded execution and branch prediction in dynamic ILP processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "120",
+        "endPage": "129",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Guarded execution and branch prediction in dynamic ILP processors",
+        "authors": [
+            {
+                "id": 37265760300,
+                "preferredName": "D.N. Pnevmatikatos",
+                "firstName": "D.N.",
+                "lastName": "Pnevmatikatos"
+            },
+            {
+                "id": 37282389200,
+                "preferredName": "G.S. Sohi",
+                "firstName": "G.S.",
+                "lastName": "Sohi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288141",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288141",
+        "articleTitle": "Compressionless Routing: a framework for adaptive and fault-tolerant routing",
+        "volume": null,
+        "issue": null,
+        "startPage": "289",
+        "endPage": "300",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Compressionless Routing: a framework for adaptive and fault-tolerant routing",
+        "authors": [
+            {
+                "id": 37367757000,
+                "preferredName": "J.H. Kim",
+                "firstName": "J.H.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37087308748,
+                "preferredName": "Ziqiang Liu",
+                "firstName": null,
+                "lastName": "Ziqiang Liu"
+            },
+            {
+                "id": 37275890600,
+                "preferredName": "A.A. Chien",
+                "firstName": "A.A.",
+                "lastName": "Chien"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288148",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288148",
+        "articleTitle": "Complexity/performance tradeoffs with non-blocking loads",
+        "volume": null,
+        "issue": null,
+        "startPage": "211",
+        "endPage": "222",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Complexity/performance tradeoffs with non-blocking loads",
+        "authors": [
+            {
+                "id": 38242272500,
+                "preferredName": "K.I. Farkas",
+                "firstName": "K.I.",
+                "lastName": "Farkas"
+            },
+            {
+                "id": 37273884000,
+                "preferredName": "N.P. Jouppi",
+                "firstName": "N.P.",
+                "lastName": "Jouppi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288166",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288166",
+        "articleTitle": "Fast and accurate instruction fetch and branch prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Fast and accurate instruction fetch and branch prediction",
+        "authors": [
+            {
+                "id": 37297952100,
+                "preferredName": "B. Calder",
+                "firstName": "B.",
+                "lastName": "Calder"
+            },
+            {
+                "id": 37270070800,
+                "preferredName": "D. Grunwald",
+                "firstName": "D.",
+                "lastName": "Grunwald"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288161",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288161",
+        "articleTitle": "Characterization of Alpha AXP performance using TP and SPEC workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "60",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Characterization of Alpha AXP performance using TP and SPEC workloads",
+        "authors": [
+            {
+                "id": 37354078800,
+                "preferredName": "Z. Cvetanovic",
+                "firstName": "Z.",
+                "lastName": "Cvetanovic"
+            },
+            {
+                "id": 37354078500,
+                "preferredName": "D. Bhandarkar",
+                "firstName": "D.",
+                "lastName": "Bhandarkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288152",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288152",
+        "articleTitle": "Exploring the design space for a shared-cache multiprocessor",
+        "volume": null,
+        "issue": null,
+        "startPage": "166",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Exploring the design space for a shared-cache multiprocessor",
+        "authors": [
+            {
+                "id": 37354620000,
+                "preferredName": "B.A. Nayfeh",
+                "firstName": "B.A.",
+                "lastName": "Nayfeh"
+            },
+            {
+                "id": 37282353900,
+                "preferredName": "K. Olukotun",
+                "firstName": "K.",
+                "lastName": "Olukotun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288157",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288157",
+        "articleTitle": "Software versus hardware shared-memory implementation: a case study",
+        "volume": null,
+        "issue": null,
+        "startPage": "106",
+        "endPage": "117",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Software versus hardware shared-memory implementation: a case study",
+        "authors": [
+            {
+                "id": 37288525600,
+                "preferredName": "A.L. Cox",
+                "firstName": "A.L.",
+                "lastName": "Cox"
+            },
+            {
+                "id": 37283887000,
+                "preferredName": "S. Dwarkadas",
+                "firstName": "S.",
+                "lastName": "Dwarkadas"
+            },
+            {
+                "id": 37284649500,
+                "preferredName": "P. Keleher",
+                "firstName": "P.",
+                "lastName": "Keleher"
+            },
+            {
+                "id": 37087477090,
+                "preferredName": "Honghui Lu",
+                "firstName": null,
+                "lastName": "Honghui Lu"
+            },
+            {
+                "id": 37356656300,
+                "preferredName": "R. Rajamony",
+                "firstName": "R.",
+                "lastName": "Rajamony"
+            },
+            {
+                "id": 37297937000,
+                "preferredName": "W. Zwaenepoel",
+                "firstName": "W.",
+                "lastName": "Zwaenepoel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288145",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288145",
+        "articleTitle": "EVENODD: an optimal scheme for tolerating double disk failures in RAID architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "245",
+        "endPage": "254",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "EVENODD: an optimal scheme for tolerating double disk failures in RAID architectures",
+        "authors": [
+            {
+                "id": 37283006200,
+                "preferredName": "M. Blaum",
+                "firstName": "M.",
+                "lastName": "Blaum"
+            },
+            {
+                "id": 37379311600,
+                "preferredName": "J. Brady",
+                "firstName": "J.",
+                "lastName": "Brady"
+            },
+            {
+                "id": 37271794000,
+                "preferredName": "J. Bruck",
+                "firstName": "J.",
+                "lastName": "Bruck"
+            },
+            {
+                "id": 37352353400,
+                "preferredName": "J. Menon",
+                "firstName": "J.",
+                "lastName": "Menon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288149",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288149",
+        "articleTitle": "Speculative disambiguation: a compilation technique for dynamic memory disambiguation",
+        "volume": null,
+        "issue": null,
+        "startPage": "200",
+        "endPage": "210",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Speculative disambiguation: a compilation technique for dynamic memory disambiguation",
+        "authors": [
+            {
+                "id": 37347465600,
+                "preferredName": "A.S. Huang",
+                "firstName": "A.S.",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37354256200,
+                "preferredName": "G. Slavenburg",
+                "firstName": "G.",
+                "lastName": "Slavenburg"
+            },
+            {
+                "id": 37336157600,
+                "preferredName": "J.P. Shen",
+                "firstName": "J.P.",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288142",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288142",
+        "articleTitle": "Ariadne/spl minus/an adaptive router for fault-tolerant multicomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "278",
+        "endPage": "288",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Ariadne/spl minus/an adaptive router for fault-tolerant multicomputers",
+        "authors": [
+            {
+                "id": 37341954400,
+                "preferredName": "J.D. Allen",
+                "firstName": "J.D.",
+                "lastName": "Allen"
+            },
+            {
+                "id": 37349862200,
+                "preferredName": "P.T. Gaughan",
+                "firstName": "P.T.",
+                "lastName": "Gaughan"
+            },
+            {
+                "id": 37265572000,
+                "preferredName": "D.E. Schimmel",
+                "firstName": "D.E.",
+                "lastName": "Schimmel"
+            },
+            {
+                "id": 37265490400,
+                "preferredName": "S. Yalamanchili",
+                "firstName": "S.",
+                "lastName": "Yalamanchili"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288139",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288139",
+        "articleTitle": "Software-extended coherent shared memory: performance and cost",
+        "volume": null,
+        "issue": null,
+        "startPage": "314",
+        "endPage": "324",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Software-extended coherent shared memory: performance and cost",
+        "authors": [
+            {
+                "id": 37349371500,
+                "preferredName": "D. Chaiken",
+                "firstName": "D.",
+                "lastName": "Chaiken"
+            },
+            {
+                "id": 37273299600,
+                "preferredName": "A. Agarwal",
+                "firstName": "A.",
+                "lastName": "Agarwal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288159",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288159",
+        "articleTitle": "Evaluating the memory overhead required for COMA architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "82",
+        "endPage": "93",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Evaluating the memory overhead required for COMA architectures",
+        "authors": [
+            {
+                "id": 37373729400,
+                "preferredName": "T. Joe",
+                "firstName": "T.",
+                "lastName": "Joe"
+            },
+            {
+                "id": 37338120700,
+                "preferredName": "J.L. Hennessy",
+                "firstName": "J.L.",
+                "lastName": "Hennessy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288150",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288150",
+        "articleTitle": "Combined performance gains of simple cache protocol extensions",
+        "volume": null,
+        "issue": null,
+        "startPage": "187",
+        "endPage": "197",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Combined performance gains of simple cache protocol extensions",
+        "authors": [
+            {
+                "id": 37295638200,
+                "preferredName": "F. Dahlgren",
+                "firstName": "F.",
+                "lastName": "Dahlgren"
+            },
+            {
+                "id": 37276811900,
+                "preferredName": "M. Dubois",
+                "firstName": "M.",
+                "lastName": "Dubois"
+            },
+            {
+                "id": 37297953700,
+                "preferredName": "P. Stenstrom",
+                "firstName": "P.",
+                "lastName": "Stenstrom"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288151",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288151",
+        "articleTitle": "Impact of sharing-based thread placement on multithreaded architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "176",
+        "endPage": "186",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Impact of sharing-based thread placement on multithreaded architectures",
+        "authors": [
+            {
+                "id": 37376943300,
+                "preferredName": "R. Thekkath",
+                "firstName": "R.",
+                "lastName": "Thekkath"
+            },
+            {
+                "id": 37337753900,
+                "preferredName": "S.J. Eggers",
+                "firstName": "S.J.",
+                "lastName": "Eggers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288137",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288137",
+        "articleTitle": "A study of single-chip processor/cache organizations for large numbers of transistors",
+        "volume": null,
+        "issue": null,
+        "startPage": "338",
+        "endPage": "347",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "A study of single-chip processor/cache organizations for large numbers of transistors",
+        "authors": [
+            {
+                "id": 37324288900,
+                "preferredName": "M. Farrens",
+                "firstName": "M.",
+                "lastName": "Farrens"
+            },
+            {
+                "id": 37371721200,
+                "preferredName": "G. Tyson",
+                "firstName": "G.",
+                "lastName": "Tyson"
+            },
+            {
+                "id": 37324474200,
+                "preferredName": "A.R. Pleszkun",
+                "firstName": "A.R.",
+                "lastName": "Pleszkun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288135",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288135",
+        "articleTitle": "Optimal allocation of on-chip memory for multiple-API operating systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "358",
+        "endPage": "369",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Optimal allocation of on-chip memory for multiple-API operating systems",
+        "authors": [
+            {
+                "id": 37355771200,
+                "preferredName": "D. Nagle",
+                "firstName": "D.",
+                "lastName": "Nagle"
+            },
+            {
+                "id": 37349826900,
+                "preferredName": "R. Uhlig",
+                "firstName": "R.",
+                "lastName": "Uhlig"
+            },
+            {
+                "id": 37267150400,
+                "preferredName": "T. Mudge",
+                "firstName": "T.",
+                "lastName": "Mudge"
+            },
+            {
+                "id": 37352344700,
+                "preferredName": "S. Sechrest",
+                "firstName": "S.",
+                "lastName": "Sechrest"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288146",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288146",
+        "articleTitle": "RAID-II: a high-bandwidth network file server",
+        "volume": null,
+        "issue": null,
+        "startPage": "234",
+        "endPage": "244",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "RAID-II: a high-bandwidth network file server",
+        "authors": [
+            {
+                "id": 37390172000,
+                "preferredName": "A.L. Drapeau",
+                "firstName": "A.L.",
+                "lastName": "Drapeau"
+            },
+            {
+                "id": 37088788513,
+                "preferredName": "K.W. Shirriff",
+                "firstName": "K.W.",
+                "lastName": "Shirriff"
+            },
+            {
+                "id": 37089082934,
+                "preferredName": "J.H. Hartman",
+                "firstName": "J.H.",
+                "lastName": "Hartman"
+            },
+            {
+                "id": 37276377000,
+                "preferredName": "E.L. Miller",
+                "firstName": "E.L.",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37323027700,
+                "preferredName": "S. Seshan",
+                "firstName": "S.",
+                "lastName": "Seshan"
+            },
+            {
+                "id": 37278290900,
+                "preferredName": "R.H. Katz",
+                "firstName": "R.H.",
+                "lastName": "Katz"
+            },
+            {
+                "id": 37356649900,
+                "preferredName": "K. Lutz",
+                "firstName": "K.",
+                "lastName": "Lutz"
+            },
+            {
+                "id": 37274686300,
+                "preferredName": "D.A. Patterson",
+                "firstName": "D.A.",
+                "lastName": "Patterson"
+            },
+            {
+                "id": 37349026300,
+                "preferredName": "E.K. Lee",
+                "firstName": "E.K.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37351313500,
+                "preferredName": "P.M. Chen",
+                "firstName": "P.M.",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37356991200,
+                "preferredName": "G.A. Gibson",
+                "firstName": "G.A.",
+                "lastName": "Gibson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288165",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288165",
+        "articleTitle": "The impact of unresolved branches on branch prediction scheme performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "The impact of unresolved branches on branch prediction scheme performance",
+        "authors": [
+            {
+                "id": 37376941900,
+                "preferredName": "A.R. Talcott",
+                "firstName": "A.R.",
+                "lastName": "Talcott"
+            },
+            {
+                "id": 37385486100,
+                "preferredName": "W. Yamamoto",
+                "firstName": "W.",
+                "lastName": "Yamamoto"
+            },
+            {
+                "id": 37089139858,
+                "preferredName": "M.J. Serrano",
+                "firstName": "M.J.",
+                "lastName": "Serrano"
+            },
+            {
+                "id": 37326227900,
+                "preferredName": "R.C. Wood",
+                "firstName": "R.C.",
+                "lastName": "Wood"
+            },
+            {
+                "id": 37884701500,
+                "preferredName": "M. Nemirovsky",
+                "firstName": "M.",
+                "lastName": "Nemirovsky"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288153",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288153",
+        "articleTitle": "Architecture and evaluation of a high-speed networking subsystem for distributed-memory systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "154",
+        "endPage": "163",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Architecture and evaluation of a high-speed networking subsystem for distributed-memory systems",
+        "authors": [
+            {
+                "id": 37271596300,
+                "preferredName": "P. Steenkiste",
+                "firstName": "P.",
+                "lastName": "Steenkiste"
+            },
+            {
+                "id": 37376964500,
+                "preferredName": "M. Hemy",
+                "firstName": "M.",
+                "lastName": "Hemy"
+            },
+            {
+                "id": 37348133800,
+                "preferredName": "T. Mummert",
+                "firstName": "T.",
+                "lastName": "Mummert"
+            },
+            {
+                "id": 37372892000,
+                "preferredName": "B. Zill",
+                "firstName": "B.",
+                "lastName": "Zill"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288134",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288134",
+        "articleTitle": "Expected I-cache miss rates via the gap model",
+        "volume": null,
+        "issue": null,
+        "startPage": "372",
+        "endPage": "383",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Expected I-cache miss rates via the gap model",
+        "authors": [
+            {
+                "id": 37376510200,
+                "preferredName": "R.W. Quong",
+                "firstName": "R.W.",
+                "lastName": "Quong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288144",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288144",
+        "articleTitle": "Crosshatch disk array for improved reliability and performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "255",
+        "endPage": "264",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Crosshatch disk array for improved reliability and performance",
+        "authors": [
+            {
+                "id": 37380611300,
+                "preferredName": "S.W. Ng",
+                "firstName": "S.W.",
+                "lastName": "Ng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288158",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288158",
+        "articleTitle": "A comparison of message passing and shared memory architectures for data parallel programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "94",
+        "endPage": "105",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "A comparison of message passing and shared memory architectures for data parallel programs",
+        "authors": [
+            {
+                "id": 37295233300,
+                "preferredName": "A.C. Klaiber",
+                "firstName": "A.C.",
+                "lastName": "Klaiber"
+            },
+            {
+                "id": 37331239300,
+                "preferredName": "H.M. Levy",
+                "firstName": "H.M.",
+                "lastName": "Levy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288143",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288143",
+        "articleTitle": "METRO: a router architecture for high-performance, short-haul routing networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "266",
+        "endPage": "277",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "METRO: a router architecture for high-performance, short-haul routing networks",
+        "authors": [
+            {
+                "id": 37265549500,
+                "preferredName": "A. DeHon",
+                "firstName": "A.",
+                "lastName": "DeHon"
+            },
+            {
+                "id": 37087366630,
+                "preferredName": "F. Chong",
+                "firstName": "F.",
+                "lastName": "Chong"
+            },
+            {
+                "id": 37380848300,
+                "preferredName": "M. Becker",
+                "firstName": "M.",
+                "lastName": "Becker"
+            },
+            {
+                "id": 37087366434,
+                "preferredName": "E. Egozy",
+                "firstName": "E.",
+                "lastName": "Egozy"
+            },
+            {
+                "id": 37087366705,
+                "preferredName": "H. Minsky",
+                "firstName": "H.",
+                "lastName": "Minsky"
+            },
+            {
+                "id": 37087367087,
+                "preferredName": "S. Peretz",
+                "firstName": "S.",
+                "lastName": "Peretz"
+            },
+            {
+                "id": 37343788800,
+                "preferredName": "T.F. Knight",
+                "firstName": "T.F.",
+                "lastName": "Knight"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288162",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288162",
+        "articleTitle": "Architectural support for performance tuning: a case study on the SPARCcenter 2000",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "59",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Architectural support for performance tuning: a case study on the SPARCcenter 2000",
+        "authors": [
+            {
+                "id": 38575640100,
+                "preferredName": "A. Singhal",
+                "firstName": "A.",
+                "lastName": "Singhal"
+            },
+            {
+                "id": 37356668600,
+                "preferredName": "A.J. Goldberg",
+                "firstName": "A.J.",
+                "lastName": "Goldberg"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288136",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288136",
+        "articleTitle": "A unified architectural tradeoff methodology",
+        "volume": null,
+        "issue": null,
+        "startPage": "348",
+        "endPage": "357",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "A unified architectural tradeoff methodology",
+        "authors": [
+            {
+                "id": 37087282069,
+                "preferredName": "Chung-Ho Chen",
+                "firstName": null,
+                "lastName": "Chung-Ho Chen"
+            },
+            {
+                "id": 37274833500,
+                "preferredName": "A.K. Somani",
+                "firstName": "A.K.",
+                "lastName": "Somani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288160",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288160",
+        "articleTitle": "Measurement-based characterization of global memory and network contention, operating system and parallelisation overheads: case study on a shared-memory multiprocessor",
+        "volume": null,
+        "issue": null,
+        "startPage": "71",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Measurement-based characterization of global memory and network contention, operating system and parallelisation overheads: case study on a shared-memory multiprocessor",
+        "authors": [
+            {
+                "id": 37295770100,
+                "preferredName": "C. Natarajan",
+                "firstName": "C.",
+                "lastName": "Natarajan"
+            },
+            {
+                "id": 37287213200,
+                "preferredName": "S. Sharma",
+                "firstName": "S.",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37273059400,
+                "preferredName": "R.K. Iyer",
+                "firstName": "R.K.",
+                "lastName": "Iyer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288155",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288155",
+        "articleTitle": "Branch with masked squashing in superpipelined processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "130",
+        "endPage": "140",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Branch with masked squashing in superpipelined processors",
+        "authors": [
+            {
+                "id": 37086996214,
+                "preferredName": "Ching-Long Su",
+                "firstName": null,
+                "lastName": "Ching-Long Su"
+            },
+            {
+                "id": 37344362400,
+                "preferredName": "A.M. Despain",
+                "firstName": "A.M.",
+                "lastName": "Despain"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "950",
+        "doi": "10.1109/ISCA.1994.288167",
+        "publicationYear": "1994",
+        "publicationDate": "18-21 April 1994",
+        "articleNumber": "288167",
+        "articleTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "0_1",
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "highlightedTitle": "Proceedings of 21 International Symposium on Computer Architecture",
+        "authors": []
+    }
+]

@@ -1,0 +1,4912 @@
+[
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.9",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012191",
+        "articleTitle": "Anton 2: Raising the Bar for Performance and Programmability in a Special-Purpose Molecular Dynamics Supercomputer",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "53",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Anton 2: Raising the Bar for Performance and Programmability in a Special-Purpose Molecular Dynamics Supercomputer",
+        "authors": [
+            {
+                "id": 37400628000,
+                "preferredName": "David E. Shaw",
+                "firstName": "David E.",
+                "lastName": "Shaw"
+            },
+            {
+                "id": 37585891900,
+                "preferredName": "J.P. Grossman",
+                "firstName": "J.P.",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 37602297900,
+                "preferredName": "Joseph A. Bank",
+                "firstName": "Joseph A.",
+                "lastName": "Bank"
+            },
+            {
+                "id": 37599524600,
+                "preferredName": "Brannon Batson",
+                "firstName": "Brannon",
+                "lastName": "Batson"
+            },
+            {
+                "id": 38185166500,
+                "preferredName": "J. Adam Butts",
+                "firstName": "J. Adam",
+                "lastName": "Butts"
+            },
+            {
+                "id": 37088718336,
+                "preferredName": "Jack C. Chao",
+                "firstName": "Jack C.",
+                "lastName": "Chao"
+            },
+            {
+                "id": 37599510800,
+                "preferredName": "Martin M. Deneroff",
+                "firstName": "Martin M.",
+                "lastName": "Deneroff"
+            },
+            {
+                "id": 37599793000,
+                "preferredName": "Ron O. Dror",
+                "firstName": "Ron O.",
+                "lastName": "Dror"
+            },
+            {
+                "id": 37088713989,
+                "preferredName": "Amos Even",
+                "firstName": "Amos",
+                "lastName": "Even"
+            },
+            {
+                "id": 37088719850,
+                "preferredName": "Christopher H. Fenton",
+                "firstName": "Christopher H.",
+                "lastName": "Fenton"
+            },
+            {
+                "id": 37088719643,
+                "preferredName": "Anthony Forte",
+                "firstName": "Anthony",
+                "lastName": "Forte"
+            },
+            {
+                "id": 37660465300,
+                "preferredName": "Joseph Gagliardo",
+                "firstName": "Joseph",
+                "lastName": "Gagliardo"
+            },
+            {
+                "id": 37294924700,
+                "preferredName": "Gennette Gill",
+                "firstName": "Gennette",
+                "lastName": "Gill"
+            },
+            {
+                "id": 37298399500,
+                "preferredName": "Brian Greskamp",
+                "firstName": "Brian",
+                "lastName": "Greskamp"
+            },
+            {
+                "id": 38182469000,
+                "preferredName": "C. Richard Ho",
+                "firstName": "C. Richard",
+                "lastName": "Ho"
+            },
+            {
+                "id": 38254165200,
+                "preferredName": "Douglas J. Ierardi",
+                "firstName": "Douglas J.",
+                "lastName": "Ierardi"
+            },
+            {
+                "id": 37088714861,
+                "preferredName": "Lev Iserovich",
+                "firstName": "Lev",
+                "lastName": "Iserovich"
+            },
+            {
+                "id": 38576798300,
+                "preferredName": "Jeffrey S. Kuskin",
+                "firstName": "Jeffrey S.",
+                "lastName": "Kuskin"
+            },
+            {
+                "id": 37604762200,
+                "preferredName": "Richard H. Larson",
+                "firstName": "Richard H.",
+                "lastName": "Larson"
+            },
+            {
+                "id": 37088718982,
+                "preferredName": "Timothy Layman",
+                "firstName": "Timothy",
+                "lastName": "Layman"
+            },
+            {
+                "id": 37088720688,
+                "preferredName": "Li-Siang Lee",
+                "firstName": "Li-Siang",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37072350400,
+                "preferredName": "Adam K. Lerer",
+                "firstName": "Adam K.",
+                "lastName": "Lerer"
+            },
+            {
+                "id": 37088715893,
+                "preferredName": "Chester Li",
+                "firstName": "Chester",
+                "lastName": "Li"
+            },
+            {
+                "id": 37072553100,
+                "preferredName": "Daniel Killebrew",
+                "firstName": "Daniel",
+                "lastName": "Killebrew"
+            },
+            {
+                "id": 38577425800,
+                "preferredName": "Kenneth M. Mackenzie",
+                "firstName": "Kenneth M.",
+                "lastName": "Mackenzie"
+            },
+            {
+                "id": 37088716171,
+                "preferredName": "Shark Yeuk-Hai Mok",
+                "firstName": "Shark Yeuk-Hai",
+                "lastName": "Mok"
+            },
+            {
+                "id": 37587730600,
+                "preferredName": "Mark A. Moraes",
+                "firstName": "Mark A.",
+                "lastName": "Moraes"
+            },
+            {
+                "id": 38255366600,
+                "preferredName": "Rolf Mueller",
+                "firstName": "Rolf",
+                "lastName": "Mueller"
+            },
+            {
+                "id": 37088715083,
+                "preferredName": "Lawrence J. Nociolo",
+                "firstName": "Lawrence J.",
+                "lastName": "Nociolo"
+            },
+            {
+                "id": 37088717391,
+                "preferredName": "Jon L. Peticolas",
+                "firstName": "Jon L.",
+                "lastName": "Peticolas"
+            },
+            {
+                "id": 37088716970,
+                "preferredName": "Terry Quan",
+                "firstName": "Terry",
+                "lastName": "Quan"
+            },
+            {
+                "id": 37088715094,
+                "preferredName": "Daniel Ramot",
+                "firstName": "Daniel",
+                "lastName": "Ramot"
+            },
+            {
+                "id": 37588990400,
+                "preferredName": "John K. Salmon",
+                "firstName": "John K.",
+                "lastName": "Salmon"
+            },
+            {
+                "id": 37670846900,
+                "preferredName": "Daniele P. Scarpazza",
+                "firstName": "Daniele P.",
+                "lastName": "Scarpazza"
+            },
+            {
+                "id": 37088716698,
+                "preferredName": "U. Ben Schafer",
+                "firstName": "U. Ben",
+                "lastName": "Schafer"
+            },
+            {
+                "id": 37088715897,
+                "preferredName": "Naseer Siddique",
+                "firstName": "Naseer",
+                "lastName": "Siddique"
+            },
+            {
+                "id": 37088721180,
+                "preferredName": "Christopher W. Snyder",
+                "firstName": "Christopher W.",
+                "lastName": "Snyder"
+            },
+            {
+                "id": 38254447000,
+                "preferredName": "Jochen Spengler",
+                "firstName": "Jochen",
+                "lastName": "Spengler"
+            },
+            {
+                "id": 37366131300,
+                "preferredName": "Ping Tak Peter Tang",
+                "firstName": "Ping Tak Peter",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37353885300,
+                "preferredName": "Michael Theobald",
+                "firstName": "Michael",
+                "lastName": "Theobald"
+            },
+            {
+                "id": 37088242851,
+                "preferredName": "Horia Toma",
+                "firstName": "Horia",
+                "lastName": "Toma"
+            },
+            {
+                "id": 37331426900,
+                "preferredName": "Brian Towles",
+                "firstName": "Brian",
+                "lastName": "Towles"
+            },
+            {
+                "id": 37087892113,
+                "preferredName": "Benjamin Vitale",
+                "firstName": "Benjamin",
+                "lastName": "Vitale"
+            },
+            {
+                "id": 38255001600,
+                "preferredName": "Stanley C. Wang",
+                "firstName": "Stanley C.",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37592001800,
+                "preferredName": "Cliff Young",
+                "firstName": "Cliff",
+                "lastName": "Young"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.34",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013016",
+        "articleTitle": "Slim Fly: A Cost Effective Low-Diameter Network Topology",
+        "volume": null,
+        "issue": null,
+        "startPage": "348",
+        "endPage": "359",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Slim Fly: A Cost Effective Low-Diameter Network Topology",
+        "authors": [
+            {
+                "id": 37085416719,
+                "preferredName": "Maciej Besta",
+                "firstName": "Maciej",
+                "lastName": "Besta"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.18",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013000",
+        "articleTitle": "The Lightweight Distributed Metric Service: A Scalable Infrastructure for Continuous Monitoring of Large Scale Computing Systems and Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "154",
+        "endPage": "165",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "The Lightweight Distributed Metric Service: A Scalable Infrastructure for Continuous Monitoring of Large Scale Computing Systems and Applications",
+        "authors": [
+            {
+                "id": 37085584619,
+                "preferredName": "Anthony Agelastos",
+                "firstName": "Anthony",
+                "lastName": "Agelastos"
+            },
+            {
+                "id": 38113838800,
+                "preferredName": "Benjamin Allan",
+                "firstName": "Benjamin",
+                "lastName": "Allan"
+            },
+            {
+                "id": 37292878100,
+                "preferredName": "Jim Brandt",
+                "firstName": "Jim",
+                "lastName": "Brandt"
+            },
+            {
+                "id": 37088722039,
+                "preferredName": "Paul Cassella",
+                "firstName": "Paul",
+                "lastName": "Cassella"
+            },
+            {
+                "id": 38099392400,
+                "preferredName": "Jeremy Enos",
+                "firstName": "Jeremy",
+                "lastName": "Enos"
+            },
+            {
+                "id": 38193158600,
+                "preferredName": "Joshi Fullop",
+                "firstName": "Joshi",
+                "lastName": "Fullop"
+            },
+            {
+                "id": 37288047200,
+                "preferredName": "Ann Gentile",
+                "firstName": "Ann",
+                "lastName": "Gentile"
+            },
+            {
+                "id": 37087464503,
+                "preferredName": "Steve Monk",
+                "firstName": "Steve",
+                "lastName": "Monk"
+            },
+            {
+                "id": 37321983600,
+                "preferredName": "Nichamon Naksinehaboon",
+                "firstName": "Nichamon",
+                "lastName": "Naksinehaboon"
+            },
+            {
+                "id": 37087464535,
+                "preferredName": "Jeff Ogden",
+                "firstName": "Jeff",
+                "lastName": "Ogden"
+            },
+            {
+                "id": 37886258100,
+                "preferredName": "Mahesh Rajan",
+                "firstName": "Mahesh",
+                "lastName": "Rajan"
+            },
+            {
+                "id": 38111462100,
+                "preferredName": "Michael Showerman",
+                "firstName": "Michael",
+                "lastName": "Showerman"
+            },
+            {
+                "id": 37087464463,
+                "preferredName": "Joel Stevenson",
+                "firstName": "Joel",
+                "lastName": "Stevenson"
+            },
+            {
+                "id": 37321982400,
+                "preferredName": "Narate Taerat",
+                "firstName": "Narate",
+                "lastName": "Taerat"
+            },
+            {
+                "id": 37085859326,
+                "preferredName": "Tom Tucker",
+                "firstName": "Tom",
+                "lastName": "Tucker"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.68",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013050",
+        "articleTitle": "Efficient Sparse Matrix-Vector Multiplication on GPUs Using the CSR Storage Format",
+        "volume": null,
+        "issue": null,
+        "startPage": "769",
+        "endPage": "780",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Efficient Sparse Matrix-Vector Multiplication on GPUs Using the CSR Storage Format",
+        "authors": [
+            {
+                "id": 38074284000,
+                "preferredName": "Joseph L. Greathouse",
+                "firstName": "Joseph L.",
+                "lastName": "Greathouse"
+            },
+            {
+                "id": 37842731200,
+                "preferredName": "Mayank Daga",
+                "firstName": "Mayank",
+                "lastName": "Daga"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.40",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013022",
+        "articleTitle": "An Image-Based Approach to Extreme Scale in Situ Visualization and Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "424",
+        "endPage": "434",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "An Image-Based Approach to Extreme Scale in Situ Visualization and Analysis",
+        "authors": [
+            {
+                "id": 37282713700,
+                "preferredName": "James Ahrens",
+                "firstName": "James",
+                "lastName": "Ahrens"
+            },
+            {
+                "id": 37085454642,
+                "preferredName": "Sebastien Jourdain",
+                "firstName": "Sebastien",
+                "lastName": "Jourdain"
+            },
+            {
+                "id": 37085447837,
+                "preferredName": "Patrick O'Leary",
+                "firstName": "Patrick",
+                "lastName": "O'Leary"
+            },
+            {
+                "id": 37570501800,
+                "preferredName": "John Patchett",
+                "firstName": "John",
+                "lastName": "Patchett"
+            },
+            {
+                "id": 37085461682,
+                "preferredName": "David H. Rogers",
+                "firstName": "David H.",
+                "lastName": "Rogers"
+            },
+            {
+                "id": 37529329300,
+                "preferredName": "Mark Petersen",
+                "firstName": "Mark",
+                "lastName": "Petersen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.69",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013051",
+        "articleTitle": "Fast Sparse Matrix-Vector Multiplication on GPUs for Graph Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "781",
+        "endPage": "792",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Fast Sparse Matrix-Vector Multiplication on GPUs for Graph Applications",
+        "authors": [
+            {
+                "id": 37085560442,
+                "preferredName": "Arash Ashari",
+                "firstName": "Arash",
+                "lastName": "Ashari"
+            },
+            {
+                "id": 38234972900,
+                "preferredName": "Naser Sedaghati",
+                "firstName": "Naser",
+                "lastName": "Sedaghati"
+            },
+            {
+                "id": 38554416400,
+                "preferredName": "John Eisenlohr",
+                "firstName": "John",
+                "lastName": "Eisenlohr"
+            },
+            {
+                "id": 37088147677,
+                "preferredName": "Srinivasan Parthasarath",
+                "firstName": "Srinivasan",
+                "lastName": "Parthasarath"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.25",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013007",
+        "articleTitle": "IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion",
+        "volume": null,
+        "issue": null,
+        "startPage": "237",
+        "endPage": "248",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "IndexFS: Scaling File System Metadata Performance with Stateless Caching and Bulk Insertion",
+        "authors": [
+            {
+                "id": 38581245700,
+                "preferredName": "Kai Ren",
+                "firstName": "Kai",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37085499285,
+                "preferredName": "Qing Zheng",
+                "firstName": "Qing",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 38238110700,
+                "preferredName": "Swapnil Patil",
+                "firstName": "Swapnil",
+                "lastName": "Patil"
+            },
+            {
+                "id": 37356991200,
+                "preferredName": "Garth Gibson",
+                "firstName": "Garth",
+                "lastName": "Gibson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.58",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013040",
+        "articleTitle": "Parallel Programming with Migratable Objects: Charm++ in Practice",
+        "volume": null,
+        "issue": null,
+        "startPage": "647",
+        "endPage": "658",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Parallel Programming with Migratable Objects: Charm++ in Practice",
+        "authors": [
+            {
+                "id": 37085424843,
+                "preferredName": "Bilge Acun",
+                "firstName": "Bilge",
+                "lastName": "Acun"
+            },
+            {
+                "id": 37065044500,
+                "preferredName": "Abhishek Gupta",
+                "firstName": "Abhishek",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 38242317700,
+                "preferredName": "Nikhil Jain",
+                "firstName": "Nikhil",
+                "lastName": "Jain"
+            },
+            {
+                "id": 38192274300,
+                "preferredName": "Akhil Langer",
+                "firstName": "Akhil",
+                "lastName": "Langer"
+            },
+            {
+                "id": 38491565300,
+                "preferredName": "Harshitha Menon",
+                "firstName": "Harshitha",
+                "lastName": "Menon"
+            },
+            {
+                "id": 37088711626,
+                "preferredName": "Eric Mikida",
+                "firstName": "Eric",
+                "lastName": "Mikida"
+            },
+            {
+                "id": 38468077600,
+                "preferredName": "Xiang Ni",
+                "firstName": "Xiang",
+                "lastName": "Ni"
+            },
+            {
+                "id": 37085414357,
+                "preferredName": "Michael Robson",
+                "firstName": "Michael",
+                "lastName": "Robson"
+            },
+            {
+                "id": 37897855000,
+                "preferredName": "Yanhua Sun",
+                "firstName": "Yanhua",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37546100400,
+                "preferredName": "Ehsan Totoni",
+                "firstName": "Ehsan",
+                "lastName": "Totoni"
+            },
+            {
+                "id": 37591277500,
+                "preferredName": "Lukasz Wesolowski",
+                "firstName": "Lukasz",
+                "lastName": "Wesolowski"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant Kale",
+                "firstName": "Laxmikant",
+                "lastName": "Kale"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.71",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013053",
+        "articleTitle": "Maximizing Throughput of Overprovisioned HPC Data Centers Under a Strict Power Budget",
+        "volume": null,
+        "issue": null,
+        "startPage": "807",
+        "endPage": "818",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Maximizing Throughput of Overprovisioned HPC Data Centers Under a Strict Power Budget",
+        "authors": [
+            {
+                "id": 37888387100,
+                "preferredName": "Osman Sarood",
+                "firstName": "Osman",
+                "lastName": "Sarood"
+            },
+            {
+                "id": 38192274300,
+                "preferredName": "Akhil Langer",
+                "firstName": "Akhil",
+                "lastName": "Langer"
+            },
+            {
+                "id": 37065044500,
+                "preferredName": "Abhishek Gupta",
+                "firstName": "Abhishek",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant Kale",
+                "firstName": "Laxmikant",
+                "lastName": "Kale"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.73",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013055",
+        "articleTitle": "Scaling the Power Wall: A Path to Exascale",
+        "volume": null,
+        "issue": null,
+        "startPage": "830",
+        "endPage": "841",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scaling the Power Wall: A Path to Exascale",
+        "authors": [
+            {
+                "id": 37408471700,
+                "preferredName": "Oreste Villa",
+                "firstName": "Oreste",
+                "lastName": "Villa"
+            },
+            {
+                "id": 37401602300,
+                "preferredName": "Daniel R. Johnson",
+                "firstName": "Daniel R.",
+                "lastName": "Johnson"
+            },
+            {
+                "id": 37085722560,
+                "preferredName": "Mike Oconnor",
+                "firstName": "Mike",
+                "lastName": "Oconnor"
+            },
+            {
+                "id": 37640432400,
+                "preferredName": "Evgeny Bolotin",
+                "firstName": "Evgeny",
+                "lastName": "Bolotin"
+            },
+            {
+                "id": 37085439910,
+                "preferredName": "David Nellans",
+                "firstName": "David",
+                "lastName": "Nellans"
+            },
+            {
+                "id": 38581211000,
+                "preferredName": "Justin Luitjens",
+                "firstName": "Justin",
+                "lastName": "Luitjens"
+            },
+            {
+                "id": 37088714233,
+                "preferredName": "Nikolai Sakharnykh",
+                "firstName": "Nikolai",
+                "lastName": "Sakharnykh"
+            },
+            {
+                "id": 38468574500,
+                "preferredName": "Peng Wang",
+                "firstName": "Peng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37945113300,
+                "preferredName": "Paulius Micikevicius",
+                "firstName": "Paulius",
+                "lastName": "Micikevicius"
+            },
+            {
+                "id": 37088720512,
+                "preferredName": "Anthony Scudiero",
+                "firstName": "Anthony",
+                "lastName": "Scudiero"
+            },
+            {
+                "id": 37282751600,
+                "preferredName": "Stephen W. Keckler",
+                "firstName": "Stephen W.",
+                "lastName": "Keckler"
+            },
+            {
+                "id": 37282485100,
+                "preferredName": "William J. Dally",
+                "firstName": "William J.",
+                "lastName": "Dally"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.6",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012188",
+        "articleTitle": "Petascale High Order Dynamic Rupture Earthquake Simulations on Heterogeneous Supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Petascale High Order Dynamic Rupture Earthquake Simulations on Heterogeneous Supercomputers",
+        "authors": [
+            {
+                "id": 37393663600,
+                "preferredName": "Alexander Heinecke",
+                "firstName": "Alexander",
+                "lastName": "Heinecke"
+            },
+            {
+                "id": 38512485500,
+                "preferredName": "Alexander Breuer",
+                "firstName": "Alexander",
+                "lastName": "Breuer"
+            },
+            {
+                "id": 37085386488,
+                "preferredName": "Sebastian Rettenberger",
+                "firstName": "Sebastian",
+                "lastName": "Rettenberger"
+            },
+            {
+                "id": 37994497900,
+                "preferredName": "Michael Bader",
+                "firstName": "Michael",
+                "lastName": "Bader"
+            },
+            {
+                "id": 37088815990,
+                "preferredName": "Alice-Agnes Gabriel",
+                "firstName": "Alice-Agnes",
+                "lastName": "Gabriel"
+            },
+            {
+                "id": 37088020791,
+                "preferredName": "Christian Pelties",
+                "firstName": "Christian",
+                "lastName": "Pelties"
+            },
+            {
+                "id": 37377195500,
+                "preferredName": "Arndt Bode",
+                "firstName": "Arndt",
+                "lastName": "Bode"
+            },
+            {
+                "id": 37943750000,
+                "preferredName": "William Barth",
+                "firstName": "William",
+                "lastName": "Barth"
+            },
+            {
+                "id": 37395215600,
+                "preferredName": "Xiang-Ke Liao",
+                "firstName": "Xiang-Ke",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37089131229,
+                "preferredName": "Karthikeyan Vaidyanathan",
+                "firstName": "Karthikeyan",
+                "lastName": "Vaidyanathan"
+            },
+            {
+                "id": 37424579200,
+                "preferredName": "Mikhail Smelyanskiy",
+                "firstName": "Mikhail",
+                "lastName": "Smelyanskiy"
+            },
+            {
+                "id": 37356156800,
+                "preferredName": "Pradeep Dubey",
+                "firstName": "Pradeep",
+                "lastName": "Dubey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.52",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013034",
+        "articleTitle": "Scalable and High Performance Betweenness Centrality on the GPU",
+        "volume": null,
+        "issue": null,
+        "startPage": "572",
+        "endPage": "583",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable and High Performance Betweenness Centrality on the GPU",
+        "authors": [
+            {
+                "id": 37085394021,
+                "preferredName": "Adam McLaughlin",
+                "firstName": "Adam",
+                "lastName": "McLaughlin"
+            },
+            {
+                "id": 37089403015,
+                "preferredName": "David A. Bader",
+                "firstName": "David A.",
+                "lastName": "Bader"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.16",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012998",
+        "articleTitle": "Managing DRAM Latency Divergence in Irregular GPGPU Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "128",
+        "endPage": "139",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Managing DRAM Latency Divergence in Irregular GPGPU Applications",
+        "authors": [
+            {
+                "id": 37861758200,
+                "preferredName": "Niladrish Chatterjee",
+                "firstName": "Niladrish",
+                "lastName": "Chatterjee"
+            },
+            {
+                "id": 38182100200,
+                "preferredName": "Mike O'Connor",
+                "firstName": "Mike",
+                "lastName": "O'Connor"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            },
+            {
+                "id": 37426622800,
+                "preferredName": "Nuwan Jayasena",
+                "firstName": "Nuwan",
+                "lastName": "Jayasena"
+            },
+            {
+                "id": 37087852621,
+                "preferredName": "Rajeev Balasubramonia",
+                "firstName": "Rajeev",
+                "lastName": "Balasubramonia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.78",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013060",
+        "articleTitle": "Exploring Automatic, Online Failure Recovery for Scientific Applications at Extreme Scales",
+        "volume": null,
+        "issue": null,
+        "startPage": "895",
+        "endPage": "906",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Exploring Automatic, Online Failure Recovery for Scientific Applications at Extreme Scales",
+        "authors": [
+            {
+                "id": 37888391200,
+                "preferredName": "Marc Gamell",
+                "firstName": "Marc",
+                "lastName": "Gamell"
+            },
+            {
+                "id": 37276383200,
+                "preferredName": "Daniel S. Katz",
+                "firstName": "Daniel S.",
+                "lastName": "Katz"
+            },
+            {
+                "id": 38014896200,
+                "preferredName": "Hemanth Kolla",
+                "firstName": "Hemanth",
+                "lastName": "Kolla"
+            },
+            {
+                "id": 37293022400,
+                "preferredName": "Jacqueline Chen",
+                "firstName": "Jacqueline",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37267815000,
+                "preferredName": "Scott Klasky",
+                "firstName": "Scott",
+                "lastName": "Klasky"
+            },
+            {
+                "id": 37269279100,
+                "preferredName": "Manish Parashar",
+                "firstName": "Manish",
+                "lastName": "Parashar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.41",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013023",
+        "articleTitle": "Parallel De Bruijn Graph Construction and Traversal for De Novo Genome Assembly",
+        "volume": null,
+        "issue": null,
+        "startPage": "437",
+        "endPage": "448",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Parallel De Bruijn Graph Construction and Traversal for De Novo Genome Assembly",
+        "authors": [
+            {
+                "id": 38555490400,
+                "preferredName": "Evangelos Georganas",
+                "firstName": "Evangelos",
+                "lastName": "Georganas"
+            },
+            {
+                "id": 37064569200,
+                "preferredName": "Aydin Bulu\u00e7",
+                "firstName": "Aydin",
+                "lastName": "Bulu\u00e7"
+            },
+            {
+                "id": 37085354587,
+                "preferredName": "Jarrod Chapman",
+                "firstName": "Jarrod",
+                "lastName": "Chapman"
+            },
+            {
+                "id": 37281795400,
+                "preferredName": "Leonid Oliker",
+                "firstName": "Leonid",
+                "lastName": "Oliker"
+            },
+            {
+                "id": 37085356975,
+                "preferredName": "Daniel Rokhsar",
+                "firstName": "Daniel",
+                "lastName": "Rokhsar"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "Katherine Yelick",
+                "firstName": "Katherine",
+                "lastName": "Yelick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.21",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013003",
+        "articleTitle": "Scalable Kernel Fusion for Memory-Bound GPU Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "191",
+        "endPage": "202",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Kernel Fusion for Memory-Bound GPU Applications",
+        "authors": [
+            {
+                "id": 37681578100,
+                "preferredName": "Mohamed Wahib",
+                "firstName": "Mohamed",
+                "lastName": "Wahib"
+            },
+            {
+                "id": 37318518100,
+                "preferredName": "Naoya Maruyama",
+                "firstName": "Naoya",
+                "lastName": "Maruyama"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.50",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013032",
+        "articleTitle": "Faster Parallel Traversal of Scale Free Graphs at Extreme Scale with Vertex Delegates",
+        "volume": null,
+        "issue": null,
+        "startPage": "549",
+        "endPage": "559",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Faster Parallel Traversal of Scale Free Graphs at Extreme Scale with Vertex Delegates",
+        "authors": [
+            {
+                "id": 37329638800,
+                "preferredName": "Roger Pearce",
+                "firstName": "Roger",
+                "lastName": "Pearce"
+            },
+            {
+                "id": 37265510600,
+                "preferredName": "Maya Gokhale",
+                "firstName": "Maya",
+                "lastName": "Gokhale"
+            },
+            {
+                "id": 37277222500,
+                "preferredName": "Nancy M. Amato",
+                "firstName": "Nancy M.",
+                "lastName": "Amato"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.88",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013070",
+        "articleTitle": "In-Situ Feature Extraction of Large Scale Combustion Simulations Using Segmented Merge Trees",
+        "volume": null,
+        "issue": null,
+        "startPage": "1020",
+        "endPage": "1031",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "In-Situ Feature Extraction of Large Scale Combustion Simulations Using Segmented Merge Trees",
+        "authors": [
+            {
+                "id": 38490116900,
+                "preferredName": "Aaditya G. Landge",
+                "firstName": "Aaditya G.",
+                "lastName": "Landge"
+            },
+            {
+                "id": 37284312600,
+                "preferredName": "Valerio Pascucci",
+                "firstName": "Valerio",
+                "lastName": "Pascucci"
+            },
+            {
+                "id": 37870001700,
+                "preferredName": "Attila Gyulassy",
+                "firstName": "Attila",
+                "lastName": "Gyulassy"
+            },
+            {
+                "id": 37551867600,
+                "preferredName": "Janine C. Bennett",
+                "firstName": "Janine C.",
+                "lastName": "Bennett"
+            },
+            {
+                "id": 38014896200,
+                "preferredName": "Hemanth Kolla",
+                "firstName": "Hemanth",
+                "lastName": "Kolla"
+            },
+            {
+                "id": 37293022400,
+                "preferredName": "Jacqueline Chen",
+                "firstName": "Jacqueline",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37564112000,
+                "preferredName": "Peer-Timo Bremer",
+                "firstName": "Peer-Timo",
+                "lastName": "Bremer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.7",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012189",
+        "articleTitle": "Physics-Based Urban Earthquake Simulation Enhanced by 10.7 BlnDOF \u00d7 30 K Time-Step Unstructured FE Non-Linear Seismic Wave Simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Physics-Based Urban Earthquake Simulation Enhanced by 10.7 BlnDOF \u00d7 30 K Time-Step Unstructured FE Non-Linear Seismic Wave Simulation",
+        "authors": [
+            {
+                "id": 37086093399,
+                "preferredName": "Tsuyoshi Ichimura",
+                "firstName": "Tsuyoshi",
+                "lastName": "Ichimura"
+            },
+            {
+                "id": 37086088859,
+                "preferredName": "Kohei Fujita",
+                "firstName": "Kohei",
+                "lastName": "Fujita"
+            },
+            {
+                "id": 37086087793,
+                "preferredName": "Seizo Tanaka",
+                "firstName": "Seizo",
+                "lastName": "Tanaka"
+            },
+            {
+                "id": 37086093196,
+                "preferredName": "Muneo Hori",
+                "firstName": "Muneo",
+                "lastName": "Hori"
+            },
+            {
+                "id": 37088279596,
+                "preferredName": "Maddegedara Lalith",
+                "firstName": "Maddegedara",
+                "lastName": "Lalith"
+            },
+            {
+                "id": 37086086153,
+                "preferredName": "Yoshihisa Shizawa",
+                "firstName": "Yoshihisa",
+                "lastName": "Shizawa"
+            },
+            {
+                "id": 37086089722,
+                "preferredName": "Hiroshi Kobayashi",
+                "firstName": "Hiroshi",
+                "lastName": "Kobayashi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.38",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013020",
+        "articleTitle": "Fast Iterative Graph Computation: A Path Centric Approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "401",
+        "endPage": "412",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Fast Iterative Graph Computation: A Path Centric Approach",
+        "authors": [
+            {
+                "id": 37399394600,
+                "preferredName": "Pingpeng Yuan",
+                "firstName": "Pingpeng",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 38578650600,
+                "preferredName": "Wenya Zhang",
+                "firstName": "Wenya",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085530510,
+                "preferredName": "Changfeng Xie",
+                "firstName": "Changfeng",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37276607900,
+                "preferredName": "Hai Jin",
+                "firstName": "Hai",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37280776600,
+                "preferredName": "Ling Liu",
+                "firstName": "Ling",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38467750100,
+                "preferredName": "Kisung Lee",
+                "firstName": "Kisung",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.33",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013015",
+        "articleTitle": "Maximizing Throughput on a Dragonfly Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "336",
+        "endPage": "347",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Maximizing Throughput on a Dragonfly Network",
+        "authors": [
+            {
+                "id": 38242317700,
+                "preferredName": "Nikhil Jain",
+                "firstName": "Nikhil",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37572974300,
+                "preferredName": "Abhinav Bhatele",
+                "firstName": "Abhinav",
+                "lastName": "Bhatele"
+            },
+            {
+                "id": 38468077600,
+                "preferredName": "Xiang Ni",
+                "firstName": "Xiang",
+                "lastName": "Ni"
+            },
+            {
+                "id": 37393109400,
+                "preferredName": "Nicholas J. Wright",
+                "firstName": "Nicholas J.",
+                "lastName": "Wright"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant V. Kale",
+                "firstName": "Laxmikant V.",
+                "lastName": "Kale"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.65",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013047",
+        "articleTitle": "NUMARCK: Machine Learning Algorithm for Resiliency and Checkpointing",
+        "volume": null,
+        "issue": null,
+        "startPage": "733",
+        "endPage": "744",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "NUMARCK: Machine Learning Algorithm for Resiliency and Checkpointing",
+        "authors": [
+            {
+                "id": 37085349612,
+                "preferredName": "Zhengzhang Chen",
+                "firstName": "Zhengzhang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37308804500,
+                "preferredName": "Seung Woo Son",
+                "firstName": "Seung Woo",
+                "lastName": "Son"
+            },
+            {
+                "id": 37584848900,
+                "preferredName": "William Hendrix",
+                "firstName": "William",
+                "lastName": "Hendrix"
+            },
+            {
+                "id": 37654489500,
+                "preferredName": "Ankit Agrawal",
+                "firstName": "Ankit",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37273521500,
+                "preferredName": "Wei-Keng Liao",
+                "firstName": "Wei-Keng",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37285106100,
+                "preferredName": "Alok Choudhary",
+                "firstName": "Alok",
+                "lastName": "Choudhary"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.8",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012190",
+        "articleTitle": "Real-Time Scalable Cortical Computing at 46 Giga-Synaptic OPS/Watt with ~100\u00d7 Speedup in Time-to-Solution and ~100,000\u00d7 Reduction in Energy-to-Solution",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "38",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Real-Time Scalable Cortical Computing at 46 Giga-Synaptic OPS/Watt with ~100\u00d7 Speedup in Time-to-Solution and ~100,000\u00d7 Reduction in Energy-to-Solution",
+        "authors": [
+            {
+                "id": 37317056200,
+                "preferredName": "Andrew S. Cassidy",
+                "firstName": "Andrew S.",
+                "lastName": "Cassidy"
+            },
+            {
+                "id": 37085470276,
+                "preferredName": "Rodrigo Alvarez-Icaza",
+                "firstName": "Rodrigo",
+                "lastName": "Alvarez-Icaza"
+            },
+            {
+                "id": 37871603700,
+                "preferredName": "Filipp Akopyan",
+                "firstName": "Filipp",
+                "lastName": "Akopyan"
+            },
+            {
+                "id": 37290012400,
+                "preferredName": "Jun Sawada",
+                "firstName": "Jun",
+                "lastName": "Sawada"
+            },
+            {
+                "id": 37425666300,
+                "preferredName": "John V. Arthur",
+                "firstName": "John V.",
+                "lastName": "Arthur"
+            },
+            {
+                "id": 37424129300,
+                "preferredName": "Paul A. Merolla",
+                "firstName": "Paul A.",
+                "lastName": "Merolla"
+            },
+            {
+                "id": 38555782300,
+                "preferredName": "Pallab Datta",
+                "firstName": "Pallab",
+                "lastName": "Datta"
+            },
+            {
+                "id": 37085460036,
+                "preferredName": "Marc Gonzalez Tallada",
+                "firstName": "Marc Gonzalez",
+                "lastName": "Tallada"
+            },
+            {
+                "id": 37085468987,
+                "preferredName": "Brian Taba",
+                "firstName": "Brian",
+                "lastName": "Taba"
+            },
+            {
+                "id": 37397680800,
+                "preferredName": "Alexander Andreopoulos",
+                "firstName": "Alexander",
+                "lastName": "Andreopoulos"
+            },
+            {
+                "id": 37283415200,
+                "preferredName": "Arnon Amir",
+                "firstName": "Arnon",
+                "lastName": "Amir"
+            },
+            {
+                "id": 38551991400,
+                "preferredName": "Steven K. Esser",
+                "firstName": "Steven K.",
+                "lastName": "Esser"
+            },
+            {
+                "id": 37085455288,
+                "preferredName": "Jeff Kusnitz",
+                "firstName": "Jeff",
+                "lastName": "Kusnitz"
+            },
+            {
+                "id": 37540393600,
+                "preferredName": "Rathinakumar Appuswamy",
+                "firstName": "Rathinakumar",
+                "lastName": "Appuswamy"
+            },
+            {
+                "id": 37265690500,
+                "preferredName": "Chuck Haymes",
+                "firstName": "Chuck",
+                "lastName": "Haymes"
+            },
+            {
+                "id": 37355069300,
+                "preferredName": "Bernard Brezzo",
+                "firstName": "Bernard",
+                "lastName": "Brezzo"
+            },
+            {
+                "id": 38075567400,
+                "preferredName": "Roger Moussalli",
+                "firstName": "Roger",
+                "lastName": "Moussalli"
+            },
+            {
+                "id": 37992775300,
+                "preferredName": "Ralph Bellofatto",
+                "firstName": "Ralph",
+                "lastName": "Bellofatto"
+            },
+            {
+                "id": 37266390800,
+                "preferredName": "Christian Baks",
+                "firstName": "Christian",
+                "lastName": "Baks"
+            },
+            {
+                "id": 37085475641,
+                "preferredName": "Michael Mastro",
+                "firstName": "Michael",
+                "lastName": "Mastro"
+            },
+            {
+                "id": 38568518500,
+                "preferredName": "Kai Schleupen",
+                "firstName": "Kai",
+                "lastName": "Schleupen"
+            },
+            {
+                "id": 37088711100,
+                "preferredName": "Charles E. Cox",
+                "firstName": "Charles E.",
+                "lastName": "Cox"
+            },
+            {
+                "id": 37072024400,
+                "preferredName": "Ken Inoue",
+                "firstName": "Ken",
+                "lastName": "Inoue"
+            },
+            {
+                "id": 37085463053,
+                "preferredName": "Steve Millman",
+                "firstName": "Steve",
+                "lastName": "Millman"
+            },
+            {
+                "id": 38026821600,
+                "preferredName": "Nabil Imam",
+                "firstName": "Nabil",
+                "lastName": "Imam"
+            },
+            {
+                "id": 37085458331,
+                "preferredName": "Emmett Mcquinn",
+                "firstName": "Emmett",
+                "lastName": "Mcquinn"
+            },
+            {
+                "id": 37088710857,
+                "preferredName": "Yutaka Y. Nakamura",
+                "firstName": "Yutaka Y.",
+                "lastName": "Nakamura"
+            },
+            {
+                "id": 37088711810,
+                "preferredName": "Ivan Vo",
+                "firstName": "Ivan",
+                "lastName": "Vo"
+            },
+            {
+                "id": 37088713324,
+                "preferredName": "Chen Guok",
+                "firstName": "Chen",
+                "lastName": "Guok"
+            },
+            {
+                "id": 37088712286,
+                "preferredName": "Don Nguyen",
+                "firstName": "Don",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37708224500,
+                "preferredName": "Scott Lekuch",
+                "firstName": "Scott",
+                "lastName": "Lekuch"
+            },
+            {
+                "id": 37354789400,
+                "preferredName": "Sameh Asaad",
+                "firstName": "Sameh",
+                "lastName": "Asaad"
+            },
+            {
+                "id": 37269625300,
+                "preferredName": "Daniel Friedman",
+                "firstName": "Daniel",
+                "lastName": "Friedman"
+            },
+            {
+                "id": 37085391292,
+                "preferredName": "Bryan L. Jackson",
+                "firstName": "Bryan L.",
+                "lastName": "Jackson"
+            },
+            {
+                "id": 37353212100,
+                "preferredName": "Myron D. Flickner",
+                "firstName": "Myron D.",
+                "lastName": "Flickner"
+            },
+            {
+                "id": 37283515900,
+                "preferredName": "William P. Risk",
+                "firstName": "William P.",
+                "lastName": "Risk"
+            },
+            {
+                "id": 37275630900,
+                "preferredName": "Rajit Manohar",
+                "firstName": "Rajit",
+                "lastName": "Manohar"
+            },
+            {
+                "id": 37283807800,
+                "preferredName": "Dharmendra S. Modha",
+                "firstName": "Dharmendra S.",
+                "lastName": "Modha"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.10",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012192",
+        "articleTitle": "24.77 Pflops on a Gravitational Tree-Code to Simulate the Milky Way Galaxy with 18600 GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "54",
+        "endPage": "65",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "24.77 Pflops on a Gravitational Tree-Code to Simulate the Milky Way Galaxy with 18600 GPUs",
+        "authors": [
+            {
+                "id": 37085410170,
+                "preferredName": "Jeroen B\u00e9dorf",
+                "firstName": "Jeroen",
+                "lastName": "B\u00e9dorf"
+            },
+            {
+                "id": 37071633800,
+                "preferredName": "Evghenii Gaburov",
+                "firstName": "Evghenii",
+                "lastName": "Gaburov"
+            },
+            {
+                "id": 37085423796,
+                "preferredName": "Michiko S. Fujii",
+                "firstName": "Michiko S.",
+                "lastName": "Fujii"
+            },
+            {
+                "id": 37604363200,
+                "preferredName": "Keigo Nitadori",
+                "firstName": "Keigo",
+                "lastName": "Nitadori"
+            },
+            {
+                "id": 37681381100,
+                "preferredName": "Tomoaki Ishiyama",
+                "firstName": "Tomoaki",
+                "lastName": "Ishiyama"
+            },
+            {
+                "id": 37087280504,
+                "preferredName": "Simon Portegies Zwart",
+                "firstName": "Simon",
+                "lastName": "Portegies Zwart"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.28",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013010",
+        "articleTitle": "pTatin3D: High-Performance Methods for Long-Term Lithospheric Dynamics",
+        "volume": null,
+        "issue": null,
+        "startPage": "274",
+        "endPage": "284",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "pTatin3D: High-Performance Methods for Long-Term Lithospheric Dynamics",
+        "authors": [
+            {
+                "id": 38497869200,
+                "preferredName": "Dave A. May",
+                "firstName": "Dave A.",
+                "lastName": "May"
+            },
+            {
+                "id": 38505800200,
+                "preferredName": "Jed Brown",
+                "firstName": "Jed",
+                "lastName": "Brown"
+            },
+            {
+                "id": 37085491322,
+                "preferredName": "Laetitia Le Pourhiet",
+                "firstName": "Laetitia Le",
+                "lastName": "Pourhiet"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.82",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013064",
+        "articleTitle": "Efficient Shared-Memory Implementation of High-Performance Conjugate Gradient Benchmark and its Application to Unstructured Matrices",
+        "volume": null,
+        "issue": null,
+        "startPage": "945",
+        "endPage": "955",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Efficient Shared-Memory Implementation of High-Performance Conjugate Gradient Benchmark and its Application to Unstructured Matrices",
+        "authors": [
+            {
+                "id": 38548886300,
+                "preferredName": "Jongsoo Park",
+                "firstName": "Jongsoo",
+                "lastName": "Park"
+            },
+            {
+                "id": 37424579200,
+                "preferredName": "Mikhail Smelyanskiy",
+                "firstName": "Mikhail",
+                "lastName": "Smelyanskiy"
+            },
+            {
+                "id": 37089131229,
+                "preferredName": "Karthikeyan Vaidyanathan",
+                "firstName": "Karthikeyan",
+                "lastName": "Vaidyanathan"
+            },
+            {
+                "id": 37393663600,
+                "preferredName": "Alexander Heinecke",
+                "firstName": "Alexander",
+                "lastName": "Heinecke"
+            },
+            {
+                "id": 37695904900,
+                "preferredName": "Dhiraj D. Kalamkar",
+                "firstName": "Dhiraj D.",
+                "lastName": "Kalamkar"
+            },
+            {
+                "id": 37085385549,
+                "preferredName": "Xing Liu",
+                "firstName": "Xing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37089577426,
+                "preferredName": "Md. Mosotofa Ali Patwary",
+                "firstName": "Md. Mosotofa Ali",
+                "lastName": "Patwary"
+            },
+            {
+                "id": 37539055600,
+                "preferredName": "Yutong Lu",
+                "firstName": "Yutong",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37356156800,
+                "preferredName": "Pradeep Dubey",
+                "firstName": "Pradeep",
+                "lastName": "Dubey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.30",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013012",
+        "articleTitle": "Compiler Techniques for Massively Scalable Implicit Task Parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "299",
+        "endPage": "310",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Compiler Techniques for Massively Scalable Implicit Task Parallelism",
+        "authors": [
+            {
+                "id": 37992732400,
+                "preferredName": "Timothy G. Armstrong",
+                "firstName": "Timothy G.",
+                "lastName": "Armstrong"
+            },
+            {
+                "id": 37070064800,
+                "preferredName": "Justin M. Wozniak",
+                "firstName": "Justin M.",
+                "lastName": "Wozniak"
+            },
+            {
+                "id": 37276233800,
+                "preferredName": "Michael Wilde",
+                "firstName": "Michael",
+                "lastName": "Wilde"
+            },
+            {
+                "id": 37276599200,
+                "preferredName": "Ian T. Foster",
+                "firstName": "Ian T.",
+                "lastName": "Foster"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.23",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013005",
+        "articleTitle": "Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "217",
+        "endPage": "228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Best Practices and Lessons Learned from Deploying and Operating Large-Scale Data-Centric Parallel File Systems",
+        "authors": [
+            {
+                "id": 37279798800,
+                "preferredName": "Sarp Oral",
+                "firstName": "Sarp",
+                "lastName": "Oral"
+            },
+            {
+                "id": 37088715651,
+                "preferredName": "James Simmons",
+                "firstName": "James",
+                "lastName": "Simmons"
+            },
+            {
+                "id": 37085560648,
+                "preferredName": "Jason Hill",
+                "firstName": "Jason",
+                "lastName": "Hill"
+            },
+            {
+                "id": 37085554947,
+                "preferredName": "Dustin Leverman",
+                "firstName": "Dustin",
+                "lastName": "Leverman"
+            },
+            {
+                "id": 37713911900,
+                "preferredName": "Feiyi Wang",
+                "firstName": "Feiyi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085557163,
+                "preferredName": "Matt Ezell",
+                "firstName": "Matt",
+                "lastName": "Ezell"
+            },
+            {
+                "id": 37073929800,
+                "preferredName": "Ross Miller",
+                "firstName": "Ross",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37088719548,
+                "preferredName": "Douglas Fuller",
+                "firstName": "Douglas",
+                "lastName": "Fuller"
+            },
+            {
+                "id": 37089144516,
+                "preferredName": "Raghul Gunasekaran",
+                "firstName": "Raghul",
+                "lastName": "Gunasekaran"
+            },
+            {
+                "id": 37066715800,
+                "preferredName": "Youngjae Kim",
+                "firstName": "Youngjae",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085426234,
+                "preferredName": "Saurabh Gupta",
+                "firstName": "Saurabh",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37088714473,
+                "preferredName": "Devesh Tiwari Sudharshan S. Vazhkudai",
+                "firstName": "Devesh Tiwari Sudharshan S.",
+                "lastName": "Vazhkudai"
+            },
+            {
+                "id": 37085474529,
+                "preferredName": "James H. Rogers",
+                "firstName": "James H.",
+                "lastName": "Rogers"
+            },
+            {
+                "id": 37589576200,
+                "preferredName": "David Dillow",
+                "firstName": "David",
+                "lastName": "Dillow"
+            },
+            {
+                "id": 37299772300,
+                "preferredName": "Galen M. Shipman",
+                "firstName": "Galen M.",
+                "lastName": "Shipman"
+            },
+            {
+                "id": 37945568600,
+                "preferredName": "Arthur S. Bland",
+                "firstName": "Arthur S.",
+                "lastName": "Bland"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.45",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013027",
+        "articleTitle": "Enabling Efficient Multithreaded MPI Communication through a Library-Based Implementation of MPI Endpoints",
+        "volume": null,
+        "issue": null,
+        "startPage": "487",
+        "endPage": "498",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Enabling Efficient Multithreaded MPI Communication through a Library-Based Implementation of MPI Endpoints",
+        "authors": [
+            {
+                "id": 38468862900,
+                "preferredName": "Srinivas Sridharan",
+                "firstName": "Srinivas",
+                "lastName": "Sridharan"
+            },
+            {
+                "id": 37701247600,
+                "preferredName": "James Dinan",
+                "firstName": "James",
+                "lastName": "Dinan"
+            },
+            {
+                "id": 37695904900,
+                "preferredName": "Dhiraj D. Kalamkar",
+                "firstName": "Dhiraj D.",
+                "lastName": "Kalamkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.56",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013038",
+        "articleTitle": "Omnisc'IO: A Grammar-Based Approach to Spatial and Temporal I/O Patterns Prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "623",
+        "endPage": "634",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Omnisc'IO: A Grammar-Based Approach to Spatial and Temporal I/O Patterns Prediction",
+        "authors": [
+            {
+                "id": 37392722500,
+                "preferredName": "Matthieu Dorier",
+                "firstName": "Matthieu",
+                "lastName": "Dorier"
+            },
+            {
+                "id": 37683782700,
+                "preferredName": "Shadi Ibrahim",
+                "firstName": "Shadi",
+                "lastName": "Ibrahim"
+            },
+            {
+                "id": 37392721000,
+                "preferredName": "Gabriel Antoniu",
+                "firstName": "Gabriel",
+                "lastName": "Antoniu"
+            },
+            {
+                "id": 37284984100,
+                "preferredName": "Rob Ross",
+                "firstName": "Rob",
+                "lastName": "Ross"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.84",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013066",
+        "articleTitle": "Reciprocal Resource Fairness: Towards Cooperative Multiple-Resource Fair Sharing in IaaS Clouds",
+        "volume": null,
+        "issue": null,
+        "startPage": "970",
+        "endPage": "981",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Reciprocal Resource Fairness: Towards Cooperative Multiple-Resource Fair Sharing in IaaS Clouds",
+        "authors": [
+            {
+                "id": 37655834400,
+                "preferredName": "Haikun Liu",
+                "firstName": "Haikun",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37532755800,
+                "preferredName": "Bingsheng He",
+                "firstName": "Bingsheng",
+                "lastName": "He"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.17",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012999",
+        "articleTitle": "CYPRESS: Combining Static and Dynamic Analysis for Top-Down Communication Trace Compression",
+        "volume": null,
+        "issue": null,
+        "startPage": "143",
+        "endPage": "153",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "CYPRESS: Combining Static and Dynamic Analysis for Top-Down Communication Trace Compression",
+        "authors": [
+            {
+                "id": 38242413700,
+                "preferredName": "Jidong Zhai",
+                "firstName": "Jidong",
+                "lastName": "Zhai"
+            },
+            {
+                "id": 37085445988,
+                "preferredName": "Jianfei Hu",
+                "firstName": "Jianfei",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37085449194,
+                "preferredName": "Xiongchao Tang",
+                "firstName": "Xiongchao",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37279527500,
+                "preferredName": "Xiaosong Ma",
+                "firstName": "Xiaosong",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37279191300,
+                "preferredName": "Wenguang Chen",
+                "firstName": "Wenguang",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.75",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013057",
+        "articleTitle": "Optimizing Data Locality for Fork/Join Programs Using Constrained Work Stealing",
+        "volume": null,
+        "issue": null,
+        "startPage": "857",
+        "endPage": "868",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Optimizing Data Locality for Fork/Join Programs Using Constrained Work Stealing",
+        "authors": [
+            {
+                "id": 37858181700,
+                "preferredName": "Jonathan Lifflander",
+                "firstName": "Jonathan",
+                "lastName": "Lifflander"
+            },
+            {
+                "id": 37283825700,
+                "preferredName": "Sriram Krishnamoorthy",
+                "firstName": "Sriram",
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant V. Kale",
+                "firstName": "Laxmikant V.",
+                "lastName": "Kale"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.47",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013029",
+        "articleTitle": "Scheduling Multi-tenant Cloud Workloads on Accelerator-Based Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "513",
+        "endPage": "524",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scheduling Multi-tenant Cloud Workloads on Accelerator-Based Systems",
+        "authors": [
+            {
+                "id": 37085531809,
+                "preferredName": "Dipanjan Sengupta",
+                "firstName": "Dipanjan",
+                "lastName": "Sengupta"
+            },
+            {
+                "id": 37085536479,
+                "preferredName": "Anshuman Goswami",
+                "firstName": "Anshuman",
+                "lastName": "Goswami"
+            },
+            {
+                "id": 37268091800,
+                "preferredName": "Karsten Schwan",
+                "firstName": "Karsten",
+                "lastName": "Schwan"
+            },
+            {
+                "id": 37085532405,
+                "preferredName": "Krishna Pallavi",
+                "firstName": "Krishna",
+                "lastName": "Pallavi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.70",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013052",
+        "articleTitle": "A Study on Balancing Parallelism, Data Locality, and Recomputation in Existing PDE Solvers",
+        "volume": null,
+        "issue": null,
+        "startPage": "793",
+        "endPage": "804",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Study on Balancing Parallelism, Data Locality, and Recomputation in Existing PDE Solvers",
+        "authors": [
+            {
+                "id": 37085366156,
+                "preferredName": "Catherine Olschanowsky",
+                "firstName": "Catherine",
+                "lastName": "Olschanowsky"
+            },
+            {
+                "id": 37669575100,
+                "preferredName": "Michelle Mills Strout",
+                "firstName": "Michelle Mills",
+                "lastName": "Strout"
+            },
+            {
+                "id": 37085576199,
+                "preferredName": "Stephen Guzik",
+                "firstName": "Stephen",
+                "lastName": "Guzik"
+            },
+            {
+                "id": 37085567703,
+                "preferredName": "John Loffeld",
+                "firstName": "John",
+                "lastName": "Loffeld"
+            },
+            {
+                "id": 37545740800,
+                "preferredName": "Jeffrey Hittinger",
+                "firstName": "Jeffrey",
+                "lastName": "Hittinger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.63",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013045",
+        "articleTitle": "A System Software Approach to Proactive Memory-Error Avoidance",
+        "volume": null,
+        "issue": null,
+        "startPage": "707",
+        "endPage": "718",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A System Software Approach to Proactive Memory-Error Avoidance",
+        "authors": [
+            {
+                "id": 37085861141,
+                "preferredName": "Carlos H.A. Costa",
+                "firstName": "Carlos H.A.",
+                "lastName": "Costa"
+            },
+            {
+                "id": 37069156000,
+                "preferredName": "Yoonho Park",
+                "firstName": "Yoonho",
+                "lastName": "Park"
+            },
+            {
+                "id": 37398650700,
+                "preferredName": "Bryan S. Rosenburg",
+                "firstName": "Bryan S.",
+                "lastName": "Rosenburg"
+            },
+            {
+                "id": 37418836200,
+                "preferredName": "Chen-Yong Cher",
+                "firstName": "Chen-Yong",
+                "lastName": "Cher"
+            },
+            {
+                "id": 37273632000,
+                "preferredName": "Kyung Dong Ryu",
+                "firstName": "Kyung Dong",
+                "lastName": "Ryu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.60",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013042",
+        "articleTitle": "Efficient Implementation of Many-Body Quantum Chemical Methods on the Intel\u00ae Xeon Phi Coprocessor",
+        "volume": null,
+        "issue": null,
+        "startPage": "674",
+        "endPage": "684",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Efficient Implementation of Many-Body Quantum Chemical Methods on the Intel\u00ae Xeon Phi Coprocessor",
+        "authors": [
+            {
+                "id": 38572484800,
+                "preferredName": "Edoardo Apr\u00e0",
+                "firstName": "Edoardo",
+                "lastName": "Apr\u00e0"
+            },
+            {
+                "id": 38242672800,
+                "preferredName": "Michael Klemm",
+                "firstName": "Michael",
+                "lastName": "Klemm"
+            },
+            {
+                "id": 37603007600,
+                "preferredName": "Karol Kowalski",
+                "firstName": "Karol",
+                "lastName": "Kowalski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.54",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013036",
+        "articleTitle": "Fail-in-Place Network Design: Interaction Between Topology, Routing Algorithm and Failures",
+        "volume": null,
+        "issue": null,
+        "startPage": "597",
+        "endPage": "608",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Fail-in-Place Network Design: Interaction Between Topology, Routing Algorithm and Failures",
+        "authors": [
+            {
+                "id": 37901989700,
+                "preferredName": "Jens Domke",
+                "firstName": "Jens",
+                "lastName": "Domke"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.62",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013044",
+        "articleTitle": "Quantitatively Modeling Application Resilience with the Data Vulnerability Factor",
+        "volume": null,
+        "issue": null,
+        "startPage": "695",
+        "endPage": "706",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Quantitatively Modeling Application Resilience with the Data Vulnerability Factor",
+        "authors": [
+            {
+                "id": 37711857700,
+                "preferredName": "Li Yu",
+                "firstName": "Li",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37067314500,
+                "preferredName": "Dong Li",
+                "firstName": "Dong",
+                "lastName": "Li"
+            },
+            {
+                "id": 38564417300,
+                "preferredName": "Sparsh Mittal",
+                "firstName": "Sparsh",
+                "lastName": "Mittal"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey S. Vetter",
+                "firstName": "Jeffrey S.",
+                "lastName": "Vetter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.20",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013002",
+        "articleTitle": "Practical Symbolic Race Checking of GPU Programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "179",
+        "endPage": "190",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Practical Symbolic Race Checking of GPU Programs",
+        "authors": [
+            {
+                "id": 38251744800,
+                "preferredName": "Peng Li",
+                "firstName": "Peng",
+                "lastName": "Li"
+            },
+            {
+                "id": 38468997100,
+                "preferredName": "Guodong Li",
+                "firstName": "Guodong",
+                "lastName": "Li"
+            },
+            {
+                "id": 37283850200,
+                "preferredName": "Ganesh Gopalakrishnan",
+                "firstName": "Ganesh",
+                "lastName": "Gopalakrishnan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.11",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012993",
+        "articleTitle": "Lattice QCD with Domain Decomposition on Intel\u00ae Xeon Phi Co-Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "69",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Lattice QCD with Domain Decomposition on Intel\u00ae Xeon Phi Co-Processors",
+        "authors": [
+            {
+                "id": 37085559778,
+                "preferredName": "Simon Heybrock",
+                "firstName": "Simon",
+                "lastName": "Heybrock"
+            },
+            {
+                "id": 37605723200,
+                "preferredName": "B\u00e1lint Jo\u00f3",
+                "firstName": "B\u00e1lint",
+                "lastName": "Jo\u00f3"
+            },
+            {
+                "id": 37695904900,
+                "preferredName": "Dhiraj D. Kalamkar",
+                "firstName": "Dhiraj D.",
+                "lastName": "Kalamkar"
+            },
+            {
+                "id": 37424579200,
+                "preferredName": "Mikhail Smelyanskiy",
+                "firstName": "Mikhail",
+                "lastName": "Smelyanskiy"
+            },
+            {
+                "id": 37089131229,
+                "preferredName": "Karthikeyan Vaidyanathan",
+                "firstName": "Karthikeyan",
+                "lastName": "Vaidyanathan"
+            },
+            {
+                "id": 37085551999,
+                "preferredName": "Tilo Wettig",
+                "firstName": "Tilo",
+                "lastName": "Wettig"
+            },
+            {
+                "id": 37356156800,
+                "preferredName": "Pradeep Dubey",
+                "firstName": "Pradeep",
+                "lastName": "Dubey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.29",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013011",
+        "articleTitle": "Oil and Water Can Mix: An Integration of Polyhedral and AST-Based Transformations",
+        "volume": null,
+        "issue": null,
+        "startPage": "287",
+        "endPage": "298",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Oil and Water Can Mix: An Integration of Polyhedral and AST-Based Transformations",
+        "authors": [
+            {
+                "id": 37392769000,
+                "preferredName": "Jun Shirako",
+                "firstName": "Jun",
+                "lastName": "Shirako"
+            },
+            {
+                "id": 37297752800,
+                "preferredName": "Louis-No\u00ebl Pouchet",
+                "firstName": "Louis-No\u00ebl",
+                "lastName": "Pouchet"
+            },
+            {
+                "id": 37389286300,
+                "preferredName": "Vivek Sarkar",
+                "firstName": "Vivek",
+                "lastName": "Sarkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.64",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013046",
+        "articleTitle": "Fault-Tolerant Dynamic Task Graph Scheduling",
+        "volume": null,
+        "issue": null,
+        "startPage": "719",
+        "endPage": "730",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Fault-Tolerant Dynamic Task Graph Scheduling",
+        "authors": [
+            {
+                "id": 38192979200,
+                "preferredName": "Mehmet Can Kurt",
+                "firstName": "Mehmet Can",
+                "lastName": "Kurt"
+            },
+            {
+                "id": 37283825700,
+                "preferredName": "Sriram Krishnamoorthy",
+                "firstName": "Sriram",
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "id": 37408110300,
+                "preferredName": "Kunal Agrawal",
+                "firstName": "Kunal",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37276602400,
+                "preferredName": "Gagan Agrawal",
+                "firstName": "Gagan",
+                "lastName": "Agrawal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.80",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013062",
+        "articleTitle": "Parallelization of Reordering Algorithms for Bandwidth and Wavefront Reduction",
+        "volume": null,
+        "issue": null,
+        "startPage": "921",
+        "endPage": "932",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Parallelization of Reordering Algorithms for Bandwidth and Wavefront Reduction",
+        "authors": [
+            {
+                "id": 37572985400,
+                "preferredName": "Konstantinos I. Karantasis",
+                "firstName": "Konstantinos I.",
+                "lastName": "Karantasis"
+            },
+            {
+                "id": 37085573249,
+                "preferredName": "Andrew Lenharth",
+                "firstName": "Andrew",
+                "lastName": "Lenharth"
+            },
+            {
+                "id": 38571277900,
+                "preferredName": "Donald Nguyen",
+                "firstName": "Donald",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37326519600,
+                "preferredName": "Mar\u00e1 J. Garzar\u00e1n",
+                "firstName": "Mar\u00e1 J.",
+                "lastName": "Garzar\u00e1n"
+            },
+            {
+                "id": 37326529000,
+                "preferredName": "Keshav Pingali",
+                "firstName": "Keshav",
+                "lastName": "Pingali"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.53",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013035",
+        "articleTitle": "Understanding Soft Error Resiliency of Blue Gene/Q Compute Chip through Hardware Proton Irradiation and Software Fault Injection",
+        "volume": null,
+        "issue": null,
+        "startPage": "587",
+        "endPage": "596",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Understanding Soft Error Resiliency of Blue Gene/Q Compute Chip through Hardware Proton Irradiation and Software Fault Injection",
+        "authors": [
+            {
+                "id": 37418836200,
+                "preferredName": "Chen-Yong Cher",
+                "firstName": "Chen-Yong",
+                "lastName": "Cher"
+            },
+            {
+                "id": 37272357300,
+                "preferredName": "Meeta S. Gupta",
+                "firstName": "Meeta S.",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37279227100,
+                "preferredName": "Pradip Bose",
+                "firstName": "Pradip",
+                "lastName": "Bose"
+            },
+            {
+                "id": 37344241800,
+                "preferredName": "K. Paul Muller",
+                "firstName": "K. Paul",
+                "lastName": "Muller"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.85",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013067",
+        "articleTitle": "Finding Constant from Change: Revisiting Network Performance Aware Optimizations on IaaS Clouds",
+        "volume": null,
+        "issue": null,
+        "startPage": "982",
+        "endPage": "993",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Finding Constant from Change: Revisiting Network Performance Aware Optimizations on IaaS Clouds",
+        "authors": [
+            {
+                "id": 37085380598,
+                "preferredName": "Yifan Gong",
+                "firstName": "Yifan",
+                "lastName": "Gong"
+            },
+            {
+                "id": 37532755800,
+                "preferredName": "Bingsheng He",
+                "firstName": "Bingsheng",
+                "lastName": "He"
+            },
+            {
+                "id": 37308664400,
+                "preferredName": "Dan Li",
+                "firstName": "Dan",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.51",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013033",
+        "articleTitle": "Pardicle: Parallel Approximate Density-Based Clustering",
+        "volume": null,
+        "issue": null,
+        "startPage": "560",
+        "endPage": "571",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Pardicle: Parallel Approximate Density-Based Clustering",
+        "authors": [
+            {
+                "id": 38236040600,
+                "preferredName": "Md. Mostofa Ali Patwary",
+                "firstName": "Md. Mostofa Ali",
+                "lastName": "Patwary"
+            },
+            {
+                "id": 37391797900,
+                "preferredName": "Nadathur Satish",
+                "firstName": "Nadathur",
+                "lastName": "Satish"
+            },
+            {
+                "id": 37391796900,
+                "preferredName": "Narayanan Sundaram",
+                "firstName": "Narayanan",
+                "lastName": "Sundaram"
+            },
+            {
+                "id": 37296920400,
+                "preferredName": "Fredrik Manne",
+                "firstName": "Fredrik",
+                "lastName": "Manne"
+            },
+            {
+                "id": 37347575500,
+                "preferredName": "Salman Habib",
+                "firstName": "Salman",
+                "lastName": "Habib"
+            },
+            {
+                "id": 37356156800,
+                "preferredName": "Pradeep Dubey",
+                "firstName": "Pradeep",
+                "lastName": "Dubey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.86",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013068",
+        "articleTitle": "High-Performance Computation of Distributed-Memory Parallel 3D Voronoi and Delaunay Tessellation",
+        "volume": null,
+        "issue": null,
+        "startPage": "997",
+        "endPage": "1007",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "High-Performance Computation of Distributed-Memory Parallel 3D Voronoi and Delaunay Tessellation",
+        "authors": [
+            {
+                "id": 37295026400,
+                "preferredName": "Tom Peterka",
+                "firstName": "Tom",
+                "lastName": "Peterka"
+            },
+            {
+                "id": 38276269000,
+                "preferredName": "Dmitriy Morozov",
+                "firstName": "Dmitriy",
+                "lastName": "Morozov"
+            },
+            {
+                "id": 37085534119,
+                "preferredName": "Carolyn Phillips",
+                "firstName": "Carolyn",
+                "lastName": "Phillips"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.81",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013063",
+        "articleTitle": "Domain Decomposition Preconditioners for Communication-Avoiding Krylov Methods on a Hybrid CPU/GPU Cluster",
+        "volume": null,
+        "issue": null,
+        "startPage": "933",
+        "endPage": "944",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Domain Decomposition Preconditioners for Communication-Avoiding Krylov Methods on a Hybrid CPU/GPU Cluster",
+        "authors": [
+            {
+                "id": 38468975100,
+                "preferredName": "Ichitaro Yamazaki",
+                "firstName": "Ichitaro",
+                "lastName": "Yamazaki"
+            },
+            {
+                "id": 38468736700,
+                "preferredName": "Sivasankaran Rajamanickam",
+                "firstName": "Sivasankaran",
+                "lastName": "Rajamanickam"
+            },
+            {
+                "id": 37666935100,
+                "preferredName": "Erik G. Boman",
+                "firstName": "Erik G.",
+                "lastName": "Boman"
+            },
+            {
+                "id": 37892185200,
+                "preferredName": "Mark Hoemmen",
+                "firstName": "Mark",
+                "lastName": "Hoemmen"
+            },
+            {
+                "id": 37299970000,
+                "preferredName": "Michael A. Heroux",
+                "firstName": "Michael A.",
+                "lastName": "Heroux"
+            },
+            {
+                "id": 37401700800,
+                "preferredName": "Stanimire Tomov",
+                "firstName": "Stanimire",
+                "lastName": "Tomov"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.91",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013073",
+        "articleTitle": "Microbank: Architecting Through-Silicon Interposer-Based Main Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1059",
+        "endPage": "1070",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Microbank: Architecting Through-Silicon Interposer-Based Main Memory Systems",
+        "authors": [
+            {
+                "id": 37087487312,
+                "preferredName": "Young Hoon Son",
+                "firstName": null,
+                "lastName": "Young Hoon Son"
+            },
+            {
+                "id": 37085354504,
+                "preferredName": "O. Seongil",
+                "firstName": "O.",
+                "lastName": "Seongil"
+            },
+            {
+                "id": 37088112519,
+                "preferredName": "Hyunggyun Yang",
+                "firstName": null,
+                "lastName": "Hyunggyun Yang"
+            },
+            {
+                "id": 37088111812,
+                "preferredName": "Daejin Jung",
+                "firstName": null,
+                "lastName": "Daejin Jung"
+            },
+            {
+                "id": 37087382358,
+                "preferredName": "Jung Ho Ahn",
+                "firstName": null,
+                "lastName": "Jung Ho Ahn"
+            },
+            {
+                "id": 37311384600,
+                "preferredName": "John Kim",
+                "firstName": "John",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37087769504,
+                "preferredName": "Jangwoo Kim",
+                "firstName": null,
+                "lastName": "Jangwoo Kim"
+            },
+            {
+                "id": 38008729800,
+                "preferredName": "Jae W. Lee",
+                "firstName": "Jae W.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.67",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013049",
+        "articleTitle": "FAST: Near Real-Time Searchable Data Analytics for the Cloud",
+        "volume": null,
+        "issue": null,
+        "startPage": "754",
+        "endPage": "765",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "FAST: Near Real-Time Searchable Data Analytics for the Cloud",
+        "authors": [
+            {
+                "id": 37693212600,
+                "preferredName": "Yu Hua",
+                "firstName": "Yu",
+                "lastName": "Hua"
+            },
+            {
+                "id": 37272625400,
+                "preferredName": "Hong Jiang",
+                "firstName": "Hong",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37289600400,
+                "preferredName": "Dan Feng",
+                "firstName": "Dan",
+                "lastName": "Feng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.79",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013061",
+        "articleTitle": "Optimization of a Multilevel Checkpoint Model with Uncertain Execution Scales",
+        "volume": null,
+        "issue": null,
+        "startPage": "907",
+        "endPage": "918",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Optimization of a Multilevel Checkpoint Model with Uncertain Execution Scales",
+        "authors": [
+            {
+                "id": 37681686900,
+                "preferredName": "Sheng Di",
+                "firstName": "Sheng",
+                "lastName": "Di"
+            },
+            {
+                "id": 37088148204,
+                "preferredName": "Leonardo Bautista-Gome",
+                "firstName": "Leonardo",
+                "lastName": "Bautista-Gome"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.77",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013059",
+        "articleTitle": "Understanding the Effects of Communication and Coordination on Checkpointing at Scale",
+        "volume": null,
+        "issue": null,
+        "startPage": "883",
+        "endPage": "894",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Understanding the Effects of Communication and Coordination on Checkpointing at Scale",
+        "authors": [
+            {
+                "id": 37410000000,
+                "preferredName": "Kurt B. Ferreira",
+                "firstName": "Kurt B.",
+                "lastName": "Ferreira"
+            },
+            {
+                "id": 37299777500,
+                "preferredName": "Patrick Widener",
+                "firstName": "Patrick",
+                "lastName": "Widener"
+            },
+            {
+                "id": 37085414739,
+                "preferredName": "Scott Levy",
+                "firstName": "Scott",
+                "lastName": "Levy"
+            },
+            {
+                "id": 37275986900,
+                "preferredName": "Dorian Arnold",
+                "firstName": "Dorian",
+                "lastName": "Arnold"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.46",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013028",
+        "articleTitle": "MC-Checker: Detecting Memory Consistency Errors in MPI One-Sided Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "499",
+        "endPage": "510",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "MC-Checker: Detecting Memory Consistency Errors in MPI One-Sided Applications",
+        "authors": [
+            {
+                "id": 37597201600,
+                "preferredName": "Zhezhe Chen",
+                "firstName": "Zhezhe",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37701247600,
+                "preferredName": "James Dinan",
+                "firstName": "James",
+                "lastName": "Dinan"
+            },
+            {
+                "id": 37085342026,
+                "preferredName": "Zhen Tang",
+                "firstName": "Zhen",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37297588700,
+                "preferredName": "Pavan Balaji",
+                "firstName": "Pavan",
+                "lastName": "Balaji"
+            },
+            {
+                "id": 37530713100,
+                "preferredName": "Hua Zhong",
+                "firstName": "Hua",
+                "lastName": "Zhong"
+            },
+            {
+                "id": 37279094100,
+                "preferredName": "Jun Wei",
+                "firstName": "Jun",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37418921900,
+                "preferredName": "Tao Huang",
+                "firstName": "Tao",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37282329000,
+                "preferredName": "Feng Qin",
+                "firstName": "Feng",
+                "lastName": "Qin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.19",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013001",
+        "articleTitle": "Dissecting On-Node Memory Access Performance: A Semantic Approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "166",
+        "endPage": "176",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Dissecting On-Node Memory Access Performance: A Semantic Approach",
+        "authors": [
+            {
+                "id": 37085563386,
+                "preferredName": "Alfredo Gim\u00e9nez",
+                "firstName": "Alfredo",
+                "lastName": "Gim\u00e9nez"
+            },
+            {
+                "id": 37892085700,
+                "preferredName": "Todd Gamblin",
+                "firstName": "Todd",
+                "lastName": "Gamblin"
+            },
+            {
+                "id": 37294809800,
+                "preferredName": "Barry Rountree",
+                "firstName": "Barry",
+                "lastName": "Rountree"
+            },
+            {
+                "id": 37572974300,
+                "preferredName": "Abhinav Bhatele",
+                "firstName": "Abhinav",
+                "lastName": "Bhatele"
+            },
+            {
+                "id": 37546948100,
+                "preferredName": "Ilir Jusufi",
+                "firstName": "Ilir",
+                "lastName": "Jusufi"
+            },
+            {
+                "id": 37564112000,
+                "preferredName": "Peer-Timo Bremer",
+                "firstName": "Peer-Timo",
+                "lastName": "Bremer"
+            },
+            {
+                "id": 37282068700,
+                "preferredName": "Bernd Hamann",
+                "firstName": "Bernd",
+                "lastName": "Hamann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.57",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013039",
+        "articleTitle": "Two-Choice Randomized Dynamic I/O Scheduler for Object Storage Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "635",
+        "endPage": "646",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Two-Choice Randomized Dynamic I/O Scheduler for Object Storage Systems",
+        "authors": [
+            {
+                "id": 37085363202,
+                "preferredName": "Dong Dai",
+                "firstName": "Dong",
+                "lastName": "Dai"
+            },
+            {
+                "id": 37293324200,
+                "preferredName": "Yong Chen",
+                "firstName": "Yong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37595805100,
+                "preferredName": "Dries Kimpe",
+                "firstName": "Dries",
+                "lastName": "Kimpe"
+            },
+            {
+                "id": 37284984100,
+                "preferredName": "Robert Ross",
+                "firstName": "Robert",
+                "lastName": "Ross"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.12",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012994",
+        "articleTitle": "Mapping to Irregular Torus Topologies and Other Techniques for Petascale Biomolecular Simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "91",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Mapping to Irregular Torus Topologies and Other Techniques for Petascale Biomolecular Simulation",
+        "authors": [
+            {
+                "id": 37350056200,
+                "preferredName": "James C. Phillips",
+                "firstName": "James C.",
+                "lastName": "Phillips"
+            },
+            {
+                "id": 37897855000,
+                "preferredName": "Yanhua Sun",
+                "firstName": "Yanhua",
+                "lastName": "Sun"
+            },
+            {
+                "id": 38242317700,
+                "preferredName": "Nikhil Jain",
+                "firstName": "Nikhil",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37424431900,
+                "preferredName": "Eric J. Bohm",
+                "firstName": "Eric J.",
+                "lastName": "Bohm"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant V. Kal\u00e9",
+                "firstName": "Laxmikant V.",
+                "lastName": "Kal\u00e9"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.39",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013021",
+        "articleTitle": "Efficient I/O and Storage of Adaptive-Resolution Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "413",
+        "endPage": "423",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Efficient I/O and Storage of Adaptive-Resolution Data",
+        "authors": [
+            {
+                "id": 37595710100,
+                "preferredName": "Sidharth Kumar",
+                "firstName": "Sidharth",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37088549585,
+                "preferredName": "John Edwards",
+                "firstName": "John",
+                "lastName": "Edwards"
+            },
+            {
+                "id": 37564112000,
+                "preferredName": "Peer-Timo Bremer",
+                "firstName": "Peer-Timo",
+                "lastName": "Bremer"
+            },
+            {
+                "id": 37692671900,
+                "preferredName": "Aaron Knoll",
+                "firstName": "Aaron",
+                "lastName": "Knoll"
+            },
+            {
+                "id": 38181665100,
+                "preferredName": "Cameron Christensen",
+                "firstName": "Cameron",
+                "lastName": "Christensen"
+            },
+            {
+                "id": 37282610100,
+                "preferredName": "Venkatram Vishwanath",
+                "firstName": "Venkatram",
+                "lastName": "Vishwanath"
+            },
+            {
+                "id": 37422604200,
+                "preferredName": "Philip Carns",
+                "firstName": "Philip",
+                "lastName": "Carns"
+            },
+            {
+                "id": 37851219500,
+                "preferredName": "John A. Schmidt",
+                "firstName": "John A.",
+                "lastName": "Schmidt"
+            },
+            {
+                "id": 37284312600,
+                "preferredName": "Valerio Pascucci",
+                "firstName": "Valerio",
+                "lastName": "Pascucci"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.74",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013056",
+        "articleTitle": "Structure Slicing: Extending Logical Regions with Fields",
+        "volume": null,
+        "issue": null,
+        "startPage": "845",
+        "endPage": "856",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Structure Slicing: Extending Logical Regions with Fields",
+        "authors": [
+            {
+                "id": 38236837700,
+                "preferredName": "Michael Bauer",
+                "firstName": "Michael",
+                "lastName": "Bauer"
+            },
+            {
+                "id": 38551714700,
+                "preferredName": "Sean Treichler",
+                "firstName": "Sean",
+                "lastName": "Treichler"
+            },
+            {
+                "id": 38551619900,
+                "preferredName": "Elliott Slaughter",
+                "firstName": "Elliott",
+                "lastName": "Slaughter"
+            },
+            {
+                "id": 37371925700,
+                "preferredName": "Alex Aiken",
+                "firstName": "Alex",
+                "lastName": "Aiken"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.83",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013065",
+        "articleTitle": "FlexSlot: Moving Hadoop Into the Cloud with Flexible Slot Management",
+        "volume": null,
+        "issue": null,
+        "startPage": "959",
+        "endPage": "969",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "FlexSlot: Moving Hadoop Into the Cloud with Flexible Slot Management",
+        "authors": [
+            {
+                "id": 37089609695,
+                "preferredName": "Yanfei Guo",
+                "firstName": "Yanfei",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37411040800,
+                "preferredName": "Jia Rao",
+                "firstName": "Jia",
+                "lastName": "Rao"
+            },
+            {
+                "id": 37272618800,
+                "preferredName": "Changjun Jiang",
+                "firstName": "Changjun",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37280488500,
+                "preferredName": "Xiaobo Zhou",
+                "firstName": "Xiaobo",
+                "lastName": "Zhou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.87",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013069",
+        "articleTitle": "Scalable Computation of Stream Surfaces on Large Scale Vector Fields",
+        "volume": null,
+        "issue": null,
+        "startPage": "1008",
+        "endPage": "1019",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Computation of Stream Surfaces on Large Scale Vector Fields",
+        "authors": [
+            {
+                "id": 38551791800,
+                "preferredName": "Kewei Lu",
+                "firstName": "Kewei",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37279493500,
+                "preferredName": "Han-Wei Shen",
+                "firstName": "Han-Wei",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37295026400,
+                "preferredName": "Tom Peterka",
+                "firstName": "Tom",
+                "lastName": "Peterka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.37",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013019",
+        "articleTitle": "Fast Parallel Computation of Longest Common Prefixes",
+        "volume": null,
+        "issue": null,
+        "startPage": "387",
+        "endPage": "398",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Fast Parallel Computation of Longest Common Prefixes",
+        "authors": [
+            {
+                "id": 37070487100,
+                "preferredName": "Julian Shun",
+                "firstName": "Julian",
+                "lastName": "Shun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.24",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013006",
+        "articleTitle": "A User-Friendly Approach for Tuning Parallel File Operations",
+        "volume": null,
+        "issue": null,
+        "startPage": "229",
+        "endPage": "236",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A User-Friendly Approach for Tuning Parallel File Operations",
+        "authors": [
+            {
+                "id": 38015633800,
+                "preferredName": "Robert McLay",
+                "firstName": "Robert",
+                "lastName": "McLay"
+            },
+            {
+                "id": 37085554649,
+                "preferredName": "Doug James",
+                "firstName": "Doug",
+                "lastName": "James"
+            },
+            {
+                "id": 37085462541,
+                "preferredName": "Si Liu",
+                "firstName": "Si",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38140100400,
+                "preferredName": "John Cazes",
+                "firstName": "John",
+                "lastName": "Cazes"
+            },
+            {
+                "id": 37943750000,
+                "preferredName": "William Barth",
+                "firstName": "William",
+                "lastName": "Barth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.49",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013031",
+        "articleTitle": "The DRIHM Project: A Flexible Approach to Integrate HPC, Grid and Cloud Resources for Hydro-Meteorological Research",
+        "volume": null,
+        "issue": null,
+        "startPage": "536",
+        "endPage": "546",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "The DRIHM Project: A Flexible Approach to Integrate HPC, Grid and Cloud Resources for Hydro-Meteorological Research",
+        "authors": [
+            {
+                "id": 37085512073,
+                "preferredName": "Daniele D\u00e1gostino",
+                "firstName": "Daniele",
+                "lastName": "D\u00e1gostino"
+            },
+            {
+                "id": 37348693900,
+                "preferredName": "Andrea Clematis",
+                "firstName": "Andrea",
+                "lastName": "Clematis"
+            },
+            {
+                "id": 37393856300,
+                "preferredName": "Antonella Galizia",
+                "firstName": "Antonella",
+                "lastName": "Galizia"
+            },
+            {
+                "id": 37549437100,
+                "preferredName": "Alfonso Quarati",
+                "firstName": "Alfonso",
+                "lastName": "Quarati"
+            },
+            {
+                "id": 37089050413,
+                "preferredName": "Emanuele Danovaro",
+                "firstName": "Emanuele",
+                "lastName": "Danovaro"
+            },
+            {
+                "id": 37085505814,
+                "preferredName": "Luca Roverelli",
+                "firstName": "Luca",
+                "lastName": "Roverelli"
+            },
+            {
+                "id": 37085511790,
+                "preferredName": "Gabriele Zereik",
+                "firstName": "Gabriele",
+                "lastName": "Zereik"
+            },
+            {
+                "id": 37326590400,
+                "preferredName": "Dieter Kranzlm\u00fcller",
+                "firstName": "Dieter",
+                "lastName": "Kranzlm\u00fcller"
+            },
+            {
+                "id": 37282942600,
+                "preferredName": "Michael Schiffers",
+                "firstName": "Michael",
+                "lastName": "Schiffers"
+            },
+            {
+                "id": 37687416800,
+                "preferredName": "Nils Gentschen Felde",
+                "firstName": "Nils Gentschen",
+                "lastName": "Felde"
+            },
+            {
+                "id": 38511701400,
+                "preferredName": "Christian Straube",
+                "firstName": "Christian",
+                "lastName": "Straube"
+            },
+            {
+                "id": 37088534029,
+                "preferredName": "Olivier Caumontz",
+                "firstName": "Olivier",
+                "lastName": "Caumontz"
+            },
+            {
+                "id": 37087464656,
+                "preferredName": "Evelyne Richard",
+                "firstName": "Evelyne",
+                "lastName": "Richard"
+            },
+            {
+                "id": 37085511491,
+                "preferredName": "Luis Garrote",
+                "firstName": "Luis",
+                "lastName": "Garrote"
+            },
+            {
+                "id": 38548487200,
+                "preferredName": "Quillon Harpham",
+                "firstName": "Quillon",
+                "lastName": "Harpham"
+            },
+            {
+                "id": 37088533035,
+                "preferredName": "H.R.A. Jagers",
+                "firstName": "H.R.A.",
+                "lastName": "Jagers"
+            },
+            {
+                "id": 37085584819,
+                "preferredName": "Vladimir Dimitrijevic",
+                "firstName": "Vladimir",
+                "lastName": "Dimitrijevic"
+            },
+            {
+                "id": 37085523612,
+                "preferredName": "Ljiljana Dekic",
+                "firstName": "Ljiljana",
+                "lastName": "Dekic"
+            },
+            {
+                "id": 37088534030,
+                "preferredName": "Elisabetta Fiorizz",
+                "firstName": "Elisabetta",
+                "lastName": "Fiorizz"
+            },
+            {
+                "id": 37586450100,
+                "preferredName": "Fabio Delogu",
+                "firstName": "Fabio",
+                "lastName": "Delogu"
+            },
+            {
+                "id": 38548009500,
+                "preferredName": "Antonio Parodi",
+                "firstName": "Antonio",
+                "lastName": "Parodi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.32",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013014",
+        "articleTitle": "RAHTM: Routing Algorithm Aware Hierarchical Task Mapping",
+        "volume": null,
+        "issue": null,
+        "startPage": "325",
+        "endPage": "335",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "RAHTM: Routing Algorithm Aware Hierarchical Task Mapping",
+        "authors": [
+            {
+                "id": 38270843700,
+                "preferredName": "Ahmed H. Abdel-Gawad",
+                "firstName": "Ahmed H.",
+                "lastName": "Abdel-Gawad"
+            },
+            {
+                "id": 37324850400,
+                "preferredName": "Mithuna Thottethodi",
+                "firstName": "Mithuna",
+                "lastName": "Thottethodi"
+            },
+            {
+                "id": 37572974300,
+                "preferredName": "Abhinav Bhatele",
+                "firstName": "Abhinav",
+                "lastName": "Bhatele"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.26",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013008",
+        "articleTitle": "High-Productivity Framework on GPU-Rich Supercomputers for Operational Weather Prediction Code ASUCA",
+        "volume": null,
+        "issue": null,
+        "startPage": "251",
+        "endPage": "261",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "High-Productivity Framework on GPU-Rich Supercomputers for Operational Weather Prediction Code ASUCA",
+        "authors": [
+            {
+                "id": 37599416500,
+                "preferredName": "Takashi Shimokawabe",
+                "firstName": "Takashi",
+                "lastName": "Shimokawabe"
+            },
+            {
+                "id": 37597601500,
+                "preferredName": "Takayuki Aoki",
+                "firstName": "Takayuki",
+                "lastName": "Aoki"
+            },
+            {
+                "id": 37085596091,
+                "preferredName": "Naoyuki Onodera",
+                "firstName": "Naoyuki",
+                "lastName": "Onodera"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.66",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013048",
+        "articleTitle": "Parallel Deep Neural Network Training for Big Data on Blue Gene/Q",
+        "volume": null,
+        "issue": null,
+        "startPage": "745",
+        "endPage": "753",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Parallel Deep Neural Network Training for Big Data on Blue Gene/Q",
+        "authors": [
+            {
+                "id": 37275921300,
+                "preferredName": "I-Hsin Chung",
+                "firstName": "I-Hsin",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37546444500,
+                "preferredName": "Tara N. Sainath",
+                "firstName": "Tara N.",
+                "lastName": "Sainath"
+            },
+            {
+                "id": 37284914500,
+                "preferredName": "Bhuvana Ramabhadran",
+                "firstName": "Bhuvana",
+                "lastName": "Ramabhadran"
+            },
+            {
+                "id": 37088146968,
+                "preferredName": "Michael Pichen",
+                "firstName": "Michael",
+                "lastName": "Pichen"
+            },
+            {
+                "id": 37282745200,
+                "preferredName": "John Gunnels",
+                "firstName": "John",
+                "lastName": "Gunnels"
+            },
+            {
+                "id": 37085558043,
+                "preferredName": "Vernon Austel",
+                "firstName": "Vernon",
+                "lastName": "Austel"
+            },
+            {
+                "id": 37085551856,
+                "preferredName": "Upendra Chauhari",
+                "firstName": "Upendra",
+                "lastName": "Chauhari"
+            },
+            {
+                "id": 37284786800,
+                "preferredName": "Brian Kingsbury",
+                "firstName": "Brian",
+                "lastName": "Kingsbury"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.43",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013025",
+        "articleTitle": "Parallel Bayesian Network Structure Learning for Genome-Scale Gene Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "461",
+        "endPage": "472",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Parallel Bayesian Network Structure Learning for Genome-Scale Gene Networks",
+        "authors": [
+            {
+                "id": 37085586065,
+                "preferredName": "Sanchit Misra",
+                "firstName": "Sanchit",
+                "lastName": "Misra"
+            },
+            {
+                "id": 37085594460,
+                "preferredName": "Md. Vasimuddin",
+                "firstName": "Md.",
+                "lastName": "Vasimuddin"
+            },
+            {
+                "id": 37565155000,
+                "preferredName": "Kiran Pamnany",
+                "firstName": "Kiran",
+                "lastName": "Pamnany"
+            },
+            {
+                "id": 38468291600,
+                "preferredName": "Sriram P. Chockalingam",
+                "firstName": "Sriram P.",
+                "lastName": "Chockalingam"
+            },
+            {
+                "id": 37654954800,
+                "preferredName": "Yong Dong",
+                "firstName": "Yong",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37085594570,
+                "preferredName": "Min Xie",
+                "firstName": "Min",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37394448300,
+                "preferredName": "Maneesha R. Aluru",
+                "firstName": "Maneesha R.",
+                "lastName": "Aluru"
+            },
+            {
+                "id": 37270124900,
+                "preferredName": "Srinivas Aluru",
+                "firstName": "Srinivas",
+                "lastName": "Aluru"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.22",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013004",
+        "articleTitle": "A Unified Programming Model for Intra- and Inter-Node Offloading on Xeon Phi Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "203",
+        "endPage": "214",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Unified Programming Model for Intra- and Inter-Node Offloading on Xeon Phi Clusters",
+        "authors": [
+            {
+                "id": 37085538812,
+                "preferredName": "Matthias Noack",
+                "firstName": "Matthias",
+                "lastName": "Noack"
+            },
+            {
+                "id": 37085538115,
+                "preferredName": "Florian Wende",
+                "firstName": "Florian",
+                "lastName": "Wende"
+            },
+            {
+                "id": 37976813100,
+                "preferredName": "Thomas Steinke",
+                "firstName": "Thomas",
+                "lastName": "Steinke"
+            },
+            {
+                "id": 37085535619,
+                "preferredName": "Frank Cordes",
+                "firstName": "Frank",
+                "lastName": "Cordes"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.36",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013018",
+        "articleTitle": "A Communication-Optimal Framework for Contracting Distributed Tensors",
+        "volume": null,
+        "issue": null,
+        "startPage": "375",
+        "endPage": "386",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Communication-Optimal Framework for Contracting Distributed Tensors",
+        "authors": [
+            {
+                "id": 37089777965,
+                "preferredName": "Samyam Rajbhandari",
+                "firstName": "Samyam",
+                "lastName": "Rajbhandari"
+            },
+            {
+                "id": 38022695500,
+                "preferredName": "Akshay Nikam",
+                "firstName": "Akshay",
+                "lastName": "Nikam"
+            },
+            {
+                "id": 37085424896,
+                "preferredName": "Pai-Wei Lai",
+                "firstName": "Pai-Wei",
+                "lastName": "Lai"
+            },
+            {
+                "id": 37903618900,
+                "preferredName": "Kevin Stock",
+                "firstName": "Kevin",
+                "lastName": "Stock"
+            },
+            {
+                "id": 37283825700,
+                "preferredName": "Sriram Krishnamoorthy",
+                "firstName": "Sriram",
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.42",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013024",
+        "articleTitle": "Orion: Scaling Genomic Sequence Matching with Fine-Grained Parallelization",
+        "volume": null,
+        "issue": null,
+        "startPage": "449",
+        "endPage": "460",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Orion: Scaling Genomic Sequence Matching with Fine-Grained Parallelization",
+        "authors": [
+            {
+                "id": 38233580700,
+                "preferredName": "Kanak Mahadik",
+                "firstName": "Kanak",
+                "lastName": "Mahadik"
+            },
+            {
+                "id": 37658133100,
+                "preferredName": "Somali Chaterji",
+                "firstName": "Somali",
+                "lastName": "Chaterji"
+            },
+            {
+                "id": 37085591001,
+                "preferredName": "Bowen Zhou",
+                "firstName": "Bowen",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37075917300,
+                "preferredName": "Milind Kulkarni",
+                "firstName": "Milind",
+                "lastName": "Kulkarni"
+            },
+            {
+                "id": 37273091100,
+                "preferredName": "Saurabh Bagchi",
+                "firstName": "Saurabh",
+                "lastName": "Bagchi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.89",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013071",
+        "articleTitle": "ECC Parity: A Technique for Efficient Memory Error Resilience for Multi-Channel Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1035",
+        "endPage": "1046",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "ECC Parity: A Technique for Efficient Memory Error Resilience for Multi-Channel Memory Systems",
+        "authors": [
+            {
+                "id": 37061088100,
+                "preferredName": "Xun Jian",
+                "firstName": "Xun",
+                "lastName": "Jian"
+            },
+            {
+                "id": 37709981500,
+                "preferredName": "Rakesh Kumar",
+                "firstName": "Rakesh",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.27",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013009",
+        "articleTitle": "Pipelining Computational Stages of the Tomographic Reconstructor for Multi-Object Adaptive Optics on a Multi-GPU System",
+        "volume": null,
+        "issue": null,
+        "startPage": "262",
+        "endPage": "273",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Pipelining Computational Stages of the Tomographic Reconstructor for Multi-Object Adaptive Optics on a Multi-GPU System",
+        "authors": [
+            {
+                "id": 37085366749,
+                "preferredName": "Ali Charara",
+                "firstName": "Ali",
+                "lastName": "Charara"
+            },
+            {
+                "id": 37392859400,
+                "preferredName": "Hatem Ltaief",
+                "firstName": "Hatem",
+                "lastName": "Ltaief"
+            },
+            {
+                "id": 37085348622,
+                "preferredName": "Damien Gratadour",
+                "firstName": "Damien",
+                "lastName": "Gratadour"
+            },
+            {
+                "id": 37085353204,
+                "preferredName": "David Keyes",
+                "firstName": "David",
+                "lastName": "Keyes"
+            },
+            {
+                "id": 37085368611,
+                "preferredName": "Arnaud Sevin",
+                "firstName": "Arnaud",
+                "lastName": "Sevin"
+            },
+            {
+                "id": 37085354347,
+                "preferredName": "Ahmad Abdelfattah",
+                "firstName": "Ahmad",
+                "lastName": "Abdelfattah"
+            },
+            {
+                "id": 37085344264,
+                "preferredName": "Eric Gendron",
+                "firstName": "Eric",
+                "lastName": "Gendron"
+            },
+            {
+                "id": 37085367759,
+                "preferredName": "Carine Morel",
+                "firstName": "Carine",
+                "lastName": "Morel"
+            },
+            {
+                "id": 37085347484,
+                "preferredName": "Fabrice Vidal",
+                "firstName": "Fabrice",
+                "lastName": "Vidal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.31",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013013",
+        "articleTitle": "MSL: A Synthesis Enabled Language for Distributed Implementations",
+        "volume": null,
+        "issue": null,
+        "startPage": "311",
+        "endPage": "322",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "MSL: A Synthesis Enabled Language for Distributed Implementations",
+        "authors": [
+            {
+                "id": 37085437223,
+                "preferredName": "Zhilei Xu",
+                "firstName": "Zhilei",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37318889000,
+                "preferredName": "Shoaib Kamil",
+                "firstName": "Shoaib",
+                "lastName": "Kamil"
+            },
+            {
+                "id": 37085440385,
+                "preferredName": "Armando Solar-Lezama",
+                "firstName": "Armando",
+                "lastName": "Solar-Lezama"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.59",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013041",
+        "articleTitle": "Metascalable Quantum Molecular Dynamics Simulations of Hydrogen-on-Demand",
+        "volume": null,
+        "issue": null,
+        "startPage": "661",
+        "endPage": "673",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Metascalable Quantum Molecular Dynamics Simulations of Hydrogen-on-Demand",
+        "authors": [
+            {
+                "id": 37581598300,
+                "preferredName": "Ken-Ichi Nomura",
+                "firstName": "Ken-Ichi",
+                "lastName": "Nomura"
+            },
+            {
+                "id": 37319470600,
+                "preferredName": "Rajiv K. Kalia",
+                "firstName": "Rajiv K.",
+                "lastName": "Kalia"
+            },
+            {
+                "id": 37302590500,
+                "preferredName": "Aiichiro Nakano",
+                "firstName": "Aiichiro",
+                "lastName": "Nakano"
+            },
+            {
+                "id": 37319472600,
+                "preferredName": "Priya Vashishta",
+                "firstName": "Priya",
+                "lastName": "Vashishta"
+            },
+            {
+                "id": 37085384204,
+                "preferredName": "Kohei Shimamura",
+                "firstName": "Kohei",
+                "lastName": "Shimamura"
+            },
+            {
+                "id": 37317191000,
+                "preferredName": "Fuyuki Shimojo",
+                "firstName": "Fuyuki",
+                "lastName": "Shimojo"
+            },
+            {
+                "id": 37085374519,
+                "preferredName": "Manaschai Kunaseth",
+                "firstName": "Manaschai",
+                "lastName": "Kunaseth"
+            },
+            {
+                "id": 37342310100,
+                "preferredName": "Paul C. Messina",
+                "firstName": "Paul C.",
+                "lastName": "Messina"
+            },
+            {
+                "id": 37088145085,
+                "preferredName": "Nichols A. Romerod",
+                "firstName": "Nichols A.",
+                "lastName": "Romerod"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.14",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012996",
+        "articleTitle": "Fence Scoping",
+        "volume": null,
+        "issue": null,
+        "startPage": "105",
+        "endPage": "116",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Fence Scoping",
+        "authors": [
+            {
+                "id": 37085585436,
+                "preferredName": "Changhui Lin",
+                "firstName": "Changhui",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37085516340,
+                "preferredName": "Vijay Nagarajan",
+                "firstName": "Vijay",
+                "lastName": "Nagarajan"
+            },
+            {
+                "id": 37272679200,
+                "preferredName": "Rajiv Gupta",
+                "firstName": "Rajiv",
+                "lastName": "Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.90",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013072",
+        "articleTitle": "Using an Adaptive HPC Runtime System to Reconfigure the Cache Hierarchy",
+        "volume": null,
+        "issue": null,
+        "startPage": "1047",
+        "endPage": "1058",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Using an Adaptive HPC Runtime System to Reconfigure the Cache Hierarchy",
+        "authors": [
+            {
+                "id": 37546100400,
+                "preferredName": "Ehsan Totoni",
+                "firstName": "Ehsan",
+                "lastName": "Totoni"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant V. Kale",
+                "firstName": "Laxmikant V.",
+                "lastName": "Kale"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.48",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013030",
+        "articleTitle": "Scaling MapReduce Vertically and Horizontally",
+        "volume": null,
+        "issue": null,
+        "startPage": "525",
+        "endPage": "535",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scaling MapReduce Vertically and Horizontally",
+        "authors": [
+            {
+                "id": 37085593953,
+                "preferredName": "Ismail El-Helw",
+                "firstName": "Ismail",
+                "lastName": "El-Helw"
+            },
+            {
+                "id": 37276556000,
+                "preferredName": "Rutger Hofman",
+                "firstName": "Rutger",
+                "lastName": "Hofman"
+            },
+            {
+                "id": 37276610500,
+                "preferredName": "Henri E. Bal",
+                "firstName": "Henri E.",
+                "lastName": "Bal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.72",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013054",
+        "articleTitle": "Application Centric Energy-Efficiency Study of Distributed Multi-Core and Hybrid CPU-GPU Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "819",
+        "endPage": "829",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Application Centric Energy-Efficiency Study of Distributed Multi-Core and Hybrid CPU-GPU Systems",
+        "authors": [
+            {
+                "id": 37085487502,
+                "preferredName": "Ben Cumming",
+                "firstName": "Ben",
+                "lastName": "Cumming"
+            },
+            {
+                "id": 37085492217,
+                "preferredName": "Gilles Fourestey",
+                "firstName": "Gilles",
+                "lastName": "Fourestey"
+            },
+            {
+                "id": 37085493439,
+                "preferredName": "Oliver Fuhrer",
+                "firstName": "Oliver",
+                "lastName": "Fuhrer"
+            },
+            {
+                "id": 37085486954,
+                "preferredName": "Tobias Gysi",
+                "firstName": "Tobias",
+                "lastName": "Gysi"
+            },
+            {
+                "id": 37392830500,
+                "preferredName": "Massimiliano Fatica",
+                "firstName": "Massimiliano",
+                "lastName": "Fatica"
+            },
+            {
+                "id": 37266438300,
+                "preferredName": "Thomas C. Schulthess",
+                "firstName": "Thomas C.",
+                "lastName": "Schulthess"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.44",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013026",
+        "articleTitle": "Nonblocking Epochs in MPI One-Sided Communication",
+        "volume": null,
+        "issue": null,
+        "startPage": "475",
+        "endPage": "486",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Nonblocking Epochs in MPI One-Sided Communication",
+        "authors": [
+            {
+                "id": 38014877300,
+                "preferredName": "Judicael A. Zounmevo",
+                "firstName": "Judicael A.",
+                "lastName": "Zounmevo"
+            },
+            {
+                "id": 37070034800,
+                "preferredName": "Xin Zhao",
+                "firstName": "Xin",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37297588700,
+                "preferredName": "Pavan Balaji",
+                "firstName": "Pavan",
+                "lastName": "Balaji"
+            },
+            {
+                "id": 37284797700,
+                "preferredName": "William Gropp",
+                "firstName": "William",
+                "lastName": "Gropp"
+            },
+            {
+                "id": 37276180600,
+                "preferredName": "Ahmad Afsahi",
+                "firstName": "Ahmad",
+                "lastName": "Afsahi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.15",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012997",
+        "articleTitle": "Recycled Error Bits: Energy-Efficient Architectural Support for Floating Point Accuracy",
+        "volume": null,
+        "issue": null,
+        "startPage": "117",
+        "endPage": "127",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Recycled Error Bits: Energy-Efficient Architectural Support for Floating Point Accuracy",
+        "authors": [
+            {
+                "id": 37085345223,
+                "preferredName": "Ralph Nathan",
+                "firstName": "Ralph",
+                "lastName": "Nathan"
+            },
+            {
+                "id": 37085367763,
+                "preferredName": "Bryan Anthonio",
+                "firstName": "Bryan",
+                "lastName": "Anthonio"
+            },
+            {
+                "id": 38184308200,
+                "preferredName": "Shih-Lien Lu",
+                "firstName": "Shih-Lien",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37265548200,
+                "preferredName": "Helia Naeimi",
+                "firstName": "Helia",
+                "lastName": "Naeimi"
+            },
+            {
+                "id": 37275338200,
+                "preferredName": "Daniel J. Sorin",
+                "firstName": "Daniel J.",
+                "lastName": "Sorin"
+            },
+            {
+                "id": 37308257300,
+                "preferredName": "Xiaobai Sun",
+                "firstName": "Xiaobai",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.13",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012995",
+        "articleTitle": "A Volume Integral Equation Stokes Solver for Problems with Variable Coefficients",
+        "volume": null,
+        "issue": null,
+        "startPage": "92",
+        "endPage": "102",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Volume Integral Equation Stokes Solver for Problems with Variable Coefficients",
+        "authors": [
+            {
+                "id": 37591154800,
+                "preferredName": "Dhairya Malhotra",
+                "firstName": "Dhairya",
+                "lastName": "Malhotra"
+            },
+            {
+                "id": 37085421863,
+                "preferredName": "Amir Gholami",
+                "firstName": "Amir",
+                "lastName": "Gholami"
+            },
+            {
+                "id": 37392746800,
+                "preferredName": "George Biros",
+                "firstName": "George",
+                "lastName": "Biros"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.35",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013017",
+        "articleTitle": "A Computation- and Communication-Optimal Parallel Direct 3-Body Algorithm",
+        "volume": null,
+        "issue": null,
+        "startPage": "363",
+        "endPage": "374",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Computation- and Communication-Optimal Parallel Direct 3-Body Algorithm",
+        "authors": [
+            {
+                "id": 37072321300,
+                "preferredName": "Penporn Koanantakool",
+                "firstName": "Penporn",
+                "lastName": "Koanantakool"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "Katherine Yelick",
+                "firstName": "Katherine",
+                "lastName": "Yelick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.76",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013058",
+        "articleTitle": "DISC: A Domain-Interaction Based Programming Model with Support for Heterogeneous Execution",
+        "volume": null,
+        "issue": null,
+        "startPage": "869",
+        "endPage": "880",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "DISC: A Domain-Interaction Based Programming Model with Support for Heterogeneous Execution",
+        "authors": [
+            {
+                "id": 38192979200,
+                "preferredName": "Mehmet Can Kurt",
+                "firstName": "Mehmet Can",
+                "lastName": "Kurt"
+            },
+            {
+                "id": 37276602400,
+                "preferredName": "Gagan Agrawal",
+                "firstName": "Gagan",
+                "lastName": "Agrawal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.55",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013037",
+        "articleTitle": "Correctness Field Testing of Production and Decommissioned High Performance Computing Platforms at Los Alamos National Laboratory",
+        "volume": null,
+        "issue": null,
+        "startPage": "609",
+        "endPage": "619",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Correctness Field Testing of Production and Decommissioned High Performance Computing Platforms at Los Alamos National Laboratory",
+        "authors": [
+            {
+                "id": 37550314500,
+                "preferredName": "Sarah E. Michalak",
+                "firstName": "Sarah E.",
+                "lastName": "Michalak"
+            },
+            {
+                "id": 38029808400,
+                "preferredName": "William N. Rust",
+                "firstName": "William N.",
+                "lastName": "Rust"
+            },
+            {
+                "id": 37541088900,
+                "preferredName": "John T. Daly",
+                "firstName": "John T.",
+                "lastName": "Daly"
+            },
+            {
+                "id": 37087464546,
+                "preferredName": "Rew J. Dubois",
+                "firstName": "Rew J.",
+                "lastName": "Dubois"
+            },
+            {
+                "id": 37434655200,
+                "preferredName": "David H. Dubois",
+                "firstName": "David H.",
+                "lastName": "Dubois"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.61",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013043",
+        "articleTitle": "Optimized Scheduling Strategies for Hybrid Density Functional theory Electronic Structure Calculations",
+        "volume": null,
+        "issue": null,
+        "startPage": "685",
+        "endPage": "692",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Optimized Scheduling Strategies for Hybrid Density Functional theory Electronic Structure Calculations",
+        "authors": [
+            {
+                "id": 37085547707,
+                "preferredName": "William Dawson",
+                "firstName": "William",
+                "lastName": "Dawson"
+            },
+            {
+                "id": 37399379400,
+                "preferredName": "Francois Gygi",
+                "firstName": "Francois",
+                "lastName": "Gygi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.93",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013075",
+        "articleTitle": "[Publisher's information]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1078",
+        "endPage": "1078",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "[Publisher's information]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.4",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012187",
+        "articleTitle": "Introduction",
+        "volume": null,
+        "issue": null,
+        "startPage": "xv",
+        "endPage": "xvi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Introduction",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.2",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012184",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.5",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012186",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "xiv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.92",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7013074",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1071",
+        "endPage": "1077",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.1",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012183",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7012142",
+        "doi": "10.1109/SC.2014.3",
+        "publicationYear": "2014",
+        "publicationDate": "16-21 Nov. 2014",
+        "articleNumber": "7012185",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '14: Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    }
+]

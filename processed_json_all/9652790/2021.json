@@ -1,0 +1,368 @@
+[
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00010",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652814",
+        "articleTitle": "Batched Sparse Iterative Solvers for Computational Chemistry Simulations on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "35",
+        "endPage": "43",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Batched Sparse Iterative Solvers for Computational Chemistry Simulations on GPUs",
+        "authors": [
+            {
+                "id": 37089211095,
+                "preferredName": "Isha Aggarwal",
+                "firstName": "Isha",
+                "lastName": "Aggarwal"
+            },
+            {
+                "id": 37089210882,
+                "preferredName": "Aditya Kashi",
+                "firstName": "Aditya",
+                "lastName": "Kashi"
+            },
+            {
+                "id": 37088753315,
+                "preferredName": "Pratik Nayak",
+                "firstName": "Pratik",
+                "lastName": "Nayak"
+            },
+            {
+                "id": 37089212008,
+                "preferredName": "Cody J. Balos",
+                "firstName": "Cody J.",
+                "lastName": "Balos"
+            },
+            {
+                "id": 37085461406,
+                "preferredName": "Carol S. Woodward",
+                "firstName": "Carol S.",
+                "lastName": "Woodward"
+            },
+            {
+                "id": 38272603600,
+                "preferredName": "Hartwig Anzt",
+                "firstName": "Hartwig",
+                "lastName": "Anzt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00008",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652822",
+        "articleTitle": "Unleashing the performance of bmSparse for the sparse matrix multiplication in GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Unleashing the performance of bmSparse for the sparse matrix multiplication in GPUs",
+        "authors": [
+            {
+                "id": 37089215431,
+                "preferredName": "Gonzalo Berger",
+                "firstName": "Gonzalo",
+                "lastName": "Berger"
+            },
+            {
+                "id": 37089213104,
+                "preferredName": "Manuel Freire",
+                "firstName": "Manuel",
+                "lastName": "Freire"
+            },
+            {
+                "id": 37089210680,
+                "preferredName": "Renzo Marini",
+                "firstName": "Renzo",
+                "lastName": "Marini"
+            },
+            {
+                "id": 38526861500,
+                "preferredName": "Ernesto Dufrechou",
+                "firstName": "Ernesto",
+                "lastName": "Dufrechou"
+            },
+            {
+                "id": 37860674200,
+                "preferredName": "Pablo Ezzatti",
+                "firstName": "Pablo",
+                "lastName": "Ezzatti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00006",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652803",
+        "articleTitle": "Iterative methods with mixed-precision preconditioning for ill-conditioned linear systems in multiphase CFD simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Iterative methods with mixed-precision preconditioning for ill-conditioned linear systems in multiphase CFD simulations",
+        "authors": [
+            {
+                "id": 37086007477,
+                "preferredName": "T. Ina",
+                "firstName": "T.",
+                "lastName": "Ina"
+            },
+            {
+                "id": 38233779400,
+                "preferredName": "Y. Idomura",
+                "firstName": "Y.",
+                "lastName": "Idomura"
+            },
+            {
+                "id": 38581267400,
+                "preferredName": "T. Imamura",
+                "firstName": "T.",
+                "lastName": "Imamura"
+            },
+            {
+                "id": 37087546125,
+                "preferredName": "S. Yamashita",
+                "firstName": "S.",
+                "lastName": "Yamashita"
+            },
+            {
+                "id": 37085596091,
+                "preferredName": "N. Onodera",
+                "firstName": "N.",
+                "lastName": "Onodera"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00007",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652810",
+        "articleTitle": "Optimized Cascadic Multigrid Parareal Method for Explicit Time-Marching Schemes",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Optimized Cascadic Multigrid Parareal Method for Explicit Time-Marching Schemes",
+        "authors": [
+            {
+                "id": 37089215189,
+                "preferredName": "Yen-Chen Chen",
+                "firstName": "Yen-Chen",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37278275100,
+                "preferredName": "Kengo Nakajima",
+                "firstName": "Kengo",
+                "lastName": "Nakajima"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00009",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652820",
+        "articleTitle": "Passel: Improved Scalability and Efficiency of Distributed SVM using a Cacheless PGAS Migrating Thread Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "34",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Passel: Improved Scalability and Efficiency of Distributed SVM using a Cacheless PGAS Migrating Thread Architecture",
+        "authors": [
+            {
+                "id": 37086516857,
+                "preferredName": "Brian A. Page",
+                "firstName": "Brian A.",
+                "lastName": "Page"
+            },
+            {
+                "id": 37274707700,
+                "preferredName": "Peter M. Kogge",
+                "firstName": "Peter M.",
+                "lastName": "Kogge"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00011",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652800",
+        "articleTitle": "Usability of Markov Chain Monte Carlo Preconditioners in Practical Problems",
+        "volume": null,
+        "issue": null,
+        "startPage": "44",
+        "endPage": "49",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Usability of Markov Chain Monte Carlo Preconditioners in Practical Problems",
+        "authors": [
+            {
+                "id": 37089212080,
+                "preferredName": "Emre Sahin",
+                "firstName": "Emre",
+                "lastName": "Sahin"
+            },
+            {
+                "id": 37086618796,
+                "preferredName": "Anton Lebedev",
+                "firstName": "Anton",
+                "lastName": "Lebedev"
+            },
+            {
+                "id": 38188794200,
+                "preferredName": "Maksims Aba&#x013C;enkovs",
+                "firstName": "Maksims",
+                "lastName": "Aba&#x013C;enkovs"
+            },
+            {
+                "id": 37086031017,
+                "preferredName": "Vassil Alexandrov",
+                "firstName": "Vassil",
+                "lastName": "Alexandrov"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00005",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652824",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00004",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652811",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00003",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652805",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00002",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652813",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00012",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652821",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652790",
+        "doi": "10.1109/ScalA54577.2021.00001",
+        "publicationYear": "2021",
+        "publicationDate": "19-19 Nov. 2021",
+        "articleNumber": "9652808",
+        "articleTitle": "Proceedings of ScalA 2021: 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems [Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Proceedings of ScalA 2021: 12th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems [Title page]",
+        "authors": []
+    }
+]

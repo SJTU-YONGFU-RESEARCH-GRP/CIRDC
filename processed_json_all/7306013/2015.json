@@ -1,0 +1,784 @@
+[
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.21",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306106",
+        "articleTitle": "ISx: A Scalable Integer Sort for Co-design in the Exascale Era",
+        "volume": null,
+        "issue": null,
+        "startPage": "102",
+        "endPage": "104",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "ISx: A Scalable Integer Sort for Co-design in the Exascale Era",
+        "authors": [
+            {
+                "id": 37845941000,
+                "preferredName": "Ulf Hanebutte",
+                "firstName": "Ulf",
+                "lastName": "Hanebutte"
+            },
+            {
+                "id": 37085685657,
+                "preferredName": "Jacob Hemstad",
+                "firstName": "Jacob",
+                "lastName": "Hemstad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.17",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306102",
+        "articleTitle": "A Compiler Transformation to Overlap Communication with Dependent Computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "90",
+        "endPage": "92",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "A Compiler Transformation to Overlap Communication with Dependent Computation",
+        "authors": [
+            {
+                "id": 37072323400,
+                "preferredName": "Karthik Murthy",
+                "firstName": "Karthik",
+                "lastName": "Murthy"
+            },
+            {
+                "id": 38276457400,
+                "preferredName": "John Mellor-Crummey",
+                "firstName": "John",
+                "lastName": "Mellor-Crummey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.18",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306103",
+        "articleTitle": "Toward a Data-centric Profiler for PGAS Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "93",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Toward a Data-centric Profiler for PGAS Applications",
+        "authors": [
+            {
+                "id": 37085729778,
+                "preferredName": "Hui Zhang",
+                "firstName": "Hui",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37275915900,
+                "preferredName": "Jeffrey K. Hollingsworth",
+                "firstName": "Jeffrey K.",
+                "lastName": "Hollingsworth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.15",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306099",
+        "articleTitle": "Preliminary Implementation of Coarray Fortran Translator Based on Omni XcalableMP",
+        "volume": null,
+        "issue": null,
+        "startPage": "70",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Preliminary Implementation of Coarray Fortran Translator Based on Omni XcalableMP",
+        "authors": [
+            {
+                "id": 37085750968,
+                "preferredName": "Hidetoshi Iwashita",
+                "firstName": "Hidetoshi",
+                "lastName": "Iwashita"
+            },
+            {
+                "id": 37085499590,
+                "preferredName": "Masahiro Nakao",
+                "firstName": "Masahiro",
+                "lastName": "Nakao"
+            },
+            {
+                "id": 37276051500,
+                "preferredName": "Mitsuhisa Sato",
+                "firstName": "Mitsuhisa",
+                "lastName": "Sato"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.20",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306105",
+        "articleTitle": "PySHMEM: A High Productivity OpenSHMEM Interface for Python",
+        "volume": null,
+        "issue": null,
+        "startPage": "99",
+        "endPage": "101",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "PySHMEM: A High Productivity OpenSHMEM Interface for Python",
+        "authors": [
+            {
+                "id": 37085694693,
+                "preferredName": "Aaron Welch",
+                "firstName": "Aaron",
+                "lastName": "Welch"
+            },
+            {
+                "id": 37393092200,
+                "preferredName": "Pavel Shamis",
+                "firstName": "Pavel",
+                "lastName": "Shamis"
+            },
+            {
+                "id": 37085694283,
+                "preferredName": "Pengfei Hao",
+                "firstName": "Pengfei",
+                "lastName": "Hao"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.7",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306011",
+        "articleTitle": "Keynote Speakers",
+        "volume": null,
+        "issue": null,
+        "startPage": "x",
+        "endPage": "xiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Keynote Speakers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.19",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306104",
+        "articleTitle": "Scaling HabaneroUPC++ on Heterogeneous Supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "98",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Scaling HabaneroUPC++ on Heterogeneous Supercomputers",
+        "authors": [
+            {
+                "id": 37085702762,
+                "preferredName": "Vivek Kumar",
+                "firstName": "Vivek",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37072316300,
+                "preferredName": "Max Grossman",
+                "firstName": "Max",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 37271738100,
+                "preferredName": "Hongzhang Shan",
+                "firstName": "Hongzhang",
+                "lastName": "Shan"
+            },
+            {
+                "id": 37389286300,
+                "preferredName": "Vivek Sarkar",
+                "firstName": "Vivek",
+                "lastName": "Sarkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.8",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306012",
+        "articleTitle": "Invited speakers",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiv",
+        "endPage": "xviii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Invited speakers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.10",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306094",
+        "articleTitle": "Caching Puts and Gets in a PGAS Language Runtime",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Caching Puts and Gets in a PGAS Language Runtime",
+        "authors": [
+            {
+                "id": 37085681012,
+                "preferredName": "Michael P. Ferguson",
+                "firstName": "Michael P.",
+                "lastName": "Ferguson"
+            },
+            {
+                "id": 37392768800,
+                "preferredName": "Daniel Buettner",
+                "firstName": "Daniel",
+                "lastName": "Buettner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.24",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306100",
+        "articleTitle": "Using the Parallel Research Kernels to Study PGAS Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "76",
+        "endPage": "81",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Using the Parallel Research Kernels to Study PGAS Models",
+        "authors": [
+            {
+                "id": 37283773900,
+                "preferredName": "Rob F. Van Der Wijngaart",
+                "firstName": "Rob F.",
+                "lastName": "Van Der Wijngaart"
+            },
+            {
+                "id": 38468862900,
+                "preferredName": "Srinivas Sridharan",
+                "firstName": "Srinivas",
+                "lastName": "Sridharan"
+            },
+            {
+                "id": 38278016000,
+                "preferredName": "Abdullah Kayi",
+                "firstName": "Abdullah",
+                "lastName": "Kayi"
+            },
+            {
+                "id": 37283897700,
+                "preferredName": "Gabriele Jost",
+                "firstName": "Gabriele",
+                "lastName": "Jost"
+            },
+            {
+                "id": 38468126800,
+                "preferredName": "Jeff R. Hammond",
+                "firstName": "Jeff R.",
+                "lastName": "Hammond"
+            },
+            {
+                "id": 37350565900,
+                "preferredName": "Timothy G. Mattson",
+                "firstName": "Timothy G.",
+                "lastName": "Mattson"
+            },
+            {
+                "id": 37085509602,
+                "preferredName": "Jacob E. Nelson",
+                "firstName": "Jacob E.",
+                "lastName": "Nelson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.14",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306098",
+        "articleTitle": "An Implementation of OFI Libfabric in Support of Multithreaded PGAS Solutions",
+        "volume": null,
+        "issue": null,
+        "startPage": "59",
+        "endPage": "69",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "An Implementation of OFI Libfabric in Support of Multithreaded PGAS Solutions",
+        "authors": [
+            {
+                "id": 38527969900,
+                "preferredName": "Sung-Eun Choi",
+                "firstName": "Sung-Eun",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37085651113,
+                "preferredName": "Howard Pritchard",
+                "firstName": "Howard",
+                "lastName": "Pritchard"
+            },
+            {
+                "id": 37085710780,
+                "preferredName": "James Shimek",
+                "firstName": "James",
+                "lastName": "Shimek"
+            },
+            {
+                "id": 37085702464,
+                "preferredName": "James Swaro",
+                "firstName": "James",
+                "lastName": "Swaro"
+            },
+            {
+                "id": 37085713672,
+                "preferredName": "Zachary Tiffany",
+                "firstName": "Zachary",
+                "lastName": "Tiffany"
+            },
+            {
+                "id": 37088103980,
+                "preferredName": "Ben Turrubiates",
+                "firstName": "Ben",
+                "lastName": "Turrubiates"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.12",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306096",
+        "articleTitle": "Implementing High-Performance Geometric Multigrid Solver with Naturally Grained Messages",
+        "volume": null,
+        "issue": null,
+        "startPage": "38",
+        "endPage": "46",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Implementing High-Performance Geometric Multigrid Solver with Naturally Grained Messages",
+        "authors": [
+            {
+                "id": 37271738100,
+                "preferredName": "Hongzhang Shan",
+                "firstName": "Hongzhang",
+                "lastName": "Shan"
+            },
+            {
+                "id": 37401658600,
+                "preferredName": "Samuel Williams",
+                "firstName": "Samuel",
+                "lastName": "Williams"
+            },
+            {
+                "id": 38195734100,
+                "preferredName": "Yili Zheng",
+                "firstName": "Yili",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37564901300,
+                "preferredName": "Amir Kamil",
+                "firstName": "Amir",
+                "lastName": "Kamil"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "Katherine Yelick",
+                "firstName": "Katherine",
+                "lastName": "Yelick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.16",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306101",
+        "articleTitle": "PHLAME: Hierarchical Locality Exploitation Using the PGAS Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "82",
+        "endPage": "89",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "PHLAME: Hierarchical Locality Exploitation Using the PGAS Model",
+        "authors": [
+            {
+                "id": 38271892800,
+                "preferredName": "Ahmad Anbar",
+                "firstName": "Ahmad",
+                "lastName": "Anbar"
+            },
+            {
+                "id": 38270444900,
+                "preferredName": "Olivier Serres",
+                "firstName": "Olivier",
+                "lastName": "Serres"
+            },
+            {
+                "id": 37085471865,
+                "preferredName": "Engin Kayraklioglu",
+                "firstName": "Engin",
+                "lastName": "Kayraklioglu"
+            },
+            {
+                "id": 37601276600,
+                "preferredName": "Abdel-Hameed Badawy",
+                "firstName": "Abdel-Hameed",
+                "lastName": "Badawy"
+            },
+            {
+                "id": 38192796200,
+                "preferredName": "Tarek El-Ghazawi",
+                "firstName": "Tarek",
+                "lastName": "El-Ghazawi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.13",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306097",
+        "articleTitle": "An Evaluation of Anticipated Extensions for Fortran Coarrays",
+        "volume": null,
+        "issue": null,
+        "startPage": "47",
+        "endPage": "58",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "An Evaluation of Anticipated Extensions for Fortran Coarrays",
+        "authors": [
+            {
+                "id": 37085618692,
+                "preferredName": "Shiyao Ge",
+                "firstName": "Shiyao",
+                "lastName": "Ge"
+            },
+            {
+                "id": 38581182100,
+                "preferredName": "Deepak Eachempati",
+                "firstName": "Deepak",
+                "lastName": "Eachempati"
+            },
+            {
+                "id": 37085610405,
+                "preferredName": "Dounia Khaldi",
+                "firstName": "Dounia",
+                "lastName": "Khaldi"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.9",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306093",
+        "articleTitle": "On the Fence: An Offload Approach to Ordering One-Sided Communication",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "On the Fence: An Offload Approach to Ordering One-Sided Communication",
+        "authors": [
+            {
+                "id": 37085679661,
+                "preferredName": "Mario Flajslik",
+                "firstName": "Mario",
+                "lastName": "Flajslik"
+            },
+            {
+                "id": 37701247600,
+                "preferredName": "James Dinan",
+                "firstName": "James",
+                "lastName": "Dinan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.11",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306095",
+        "articleTitle": "Impact of Frequency Scaling on One Sided Remote Memory Accesses",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "37",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Impact of Frequency Scaling on One Sided Remote Memory Accesses",
+        "authors": [
+            {
+                "id": 37086428160,
+                "preferredName": "Siddhartha Jana",
+                "firstName": "Siddhartha",
+                "lastName": "Jana"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.23",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306108",
+        "articleTitle": "[Publisher's information]",
+        "volume": null,
+        "issue": null,
+        "startPage": "106",
+        "endPage": "106",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "[Publisher's information]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.6",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306010",
+        "articleTitle": "Conference Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "ix",
+        "endPage": "ix",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Conference Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.25",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306009",
+        "articleTitle": "Message from the Program Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "viii",
+        "endPage": "viii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Message from the Program Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.5",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306008",
+        "articleTitle": "Message from the General Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "vii",
+        "endPage": "vii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Message from the General Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.22",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306107",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "105",
+        "endPage": "105",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.26",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306003",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "C4",
+        "endPage": "C4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.2",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306005",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.4",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306007",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "vi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.1",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306004",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7306013",
+        "doi": "10.1109/PGAS.2015.3",
+        "publicationYear": "2015",
+        "publicationDate": "16-18 Sept. 2015",
+        "articleNumber": "7306006",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 9th International Conference on Partitioned Global Address Space Programming Models",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    }
+]

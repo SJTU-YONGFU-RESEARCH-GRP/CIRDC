@@ -1,0 +1,3193 @@
+[
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268474",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268474",
+        "articleTitle": "Direct Measurements and Modeling of Avalanche Dynamics and Quenching in SPADs",
+        "volume": null,
+        "issue": null,
+        "startPage": "144",
+        "endPage": "147",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Direct Measurements and Modeling of Avalanche Dynamics and Quenching in SPADs",
+        "authors": [
+            {
+                "id": 37267692100,
+                "preferredName": "D. Rideau",
+                "firstName": "D.",
+                "lastName": "Rideau"
+            },
+            {
+                "id": 37320667300,
+                "preferredName": "W. Uhring",
+                "firstName": "W.",
+                "lastName": "Uhring"
+            },
+            {
+                "id": 37267357400,
+                "preferredName": "R. A. Bianchi",
+                "firstName": "R. A.",
+                "lastName": "Bianchi"
+            },
+            {
+                "id": 37089006194,
+                "preferredName": "R. Helleboid",
+                "firstName": "R.",
+                "lastName": "Helleboid"
+            },
+            {
+                "id": 37085416229,
+                "preferredName": "G. Mugny",
+                "firstName": "G.",
+                "lastName": "Mugny"
+            },
+            {
+                "id": 37088547300,
+                "preferredName": "J. Grebot",
+                "firstName": "J.",
+                "lastName": "Grebot"
+            },
+            {
+                "id": 38367893400,
+                "preferredName": "J.R. Manouvrier",
+                "firstName": "J.R.",
+                "lastName": "Manouvrier"
+            },
+            {
+                "id": 37090029283,
+                "preferredName": "R. Neri",
+                "firstName": "R.",
+                "lastName": "Neri"
+            },
+            {
+                "id": 37090031208,
+                "preferredName": "F. Brun",
+                "firstName": "F.",
+                "lastName": "Brun"
+            },
+            {
+                "id": 37088573502,
+                "preferredName": "M. Dolatpoor Lakeh",
+                "firstName": "M. Dolatpoor",
+                "lastName": "Lakeh"
+            },
+            {
+                "id": 37089603433,
+                "preferredName": "S. Rink",
+                "firstName": "S.",
+                "lastName": "Rink"
+            },
+            {
+                "id": 37298542600,
+                "preferredName": "J-B. Kammerer",
+                "firstName": "J-B.",
+                "lastName": "Kammerer"
+            },
+            {
+                "id": 37344689300,
+                "preferredName": "C. Lallement",
+                "firstName": "C.",
+                "lastName": "Lallement"
+            },
+            {
+                "id": 37086014263,
+                "preferredName": "E. Lacombe",
+                "firstName": "E.",
+                "lastName": "Lacombe"
+            },
+            {
+                "id": 37973167100,
+                "preferredName": "D. Golanski",
+                "firstName": "D.",
+                "lastName": "Golanski"
+            },
+            {
+                "id": 37295960200,
+                "preferredName": "B. Rae",
+                "firstName": "B.",
+                "lastName": "Rae"
+            },
+            {
+                "id": 37090027412,
+                "preferredName": "T. M. Bah",
+                "firstName": "T. M.",
+                "lastName": "Bah"
+            },
+            {
+                "id": 37939022700,
+                "preferredName": "F. Twaddle",
+                "firstName": "F.",
+                "lastName": "Twaddle"
+            },
+            {
+                "id": 37671471700,
+                "preferredName": "V. Quenette",
+                "firstName": "V.",
+                "lastName": "Quenette"
+            },
+            {
+                "id": 37089480108,
+                "preferredName": "G. Marchand",
+                "firstName": "G.",
+                "lastName": "Marchand"
+            },
+            {
+                "id": 37398074000,
+                "preferredName": "C. Buj",
+                "firstName": "C.",
+                "lastName": "Buj"
+            },
+            {
+                "id": 37089699362,
+                "preferredName": "R. Fillon",
+                "firstName": "R.",
+                "lastName": "Fillon"
+            },
+            {
+                "id": 37085670613,
+                "preferredName": "Y. Henrion",
+                "firstName": "Y.",
+                "lastName": "Henrion"
+            },
+            {
+                "id": 37089006846,
+                "preferredName": "I. Nicholson",
+                "firstName": "I.",
+                "lastName": "Nicholson"
+            },
+            {
+                "id": 37088547011,
+                "preferredName": "M. Agnew",
+                "firstName": "M.",
+                "lastName": "Agnew"
+            },
+            {
+                "id": 37089191752,
+                "preferredName": "M. Basset",
+                "firstName": "M.",
+                "lastName": "Basset"
+            },
+            {
+                "id": 37090030306,
+                "preferredName": "R. Perrier",
+                "firstName": "R.",
+                "lastName": "Perrier"
+            },
+            {
+                "id": 38271146400,
+                "preferredName": "M. Al-Rawhani",
+                "firstName": "M.",
+                "lastName": "Al-Rawhani"
+            },
+            {
+                "id": 37086108022,
+                "preferredName": "B. Mamdy",
+                "firstName": "B.",
+                "lastName": "Mamdy"
+            },
+            {
+                "id": 37090030473,
+                "preferredName": "S. Pellegrin",
+                "firstName": "S.",
+                "lastName": "Pellegrin"
+            },
+            {
+                "id": 37267740500,
+                "preferredName": "G. Gouget",
+                "firstName": "G.",
+                "lastName": "Gouget"
+            },
+            {
+                "id": 37090030146,
+                "preferredName": "P. Maciazek",
+                "firstName": "P.",
+                "lastName": "Maciazek"
+            },
+            {
+                "id": 37267750100,
+                "preferredName": "A. Juge",
+                "firstName": "A.",
+                "lastName": "Juge"
+            },
+            {
+                "id": 37090029157,
+                "preferredName": "A. Dartigues",
+                "firstName": "A.",
+                "lastName": "Dartigues"
+            },
+            {
+                "id": 37089025789,
+                "preferredName": "H. Wehbe Alause",
+                "firstName": "H. Wehbe",
+                "lastName": "Alause"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268478",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268478",
+        "articleTitle": "Bias Spectroscopy of Negative Differential Resistance in Ge Nanowire Cascode Circuits",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Bias Spectroscopy of Negative Differential Resistance in Ge Nanowire Cascode Circuits",
+        "authors": [
+            {
+                "id": 37090028241,
+                "preferredName": "Raphael Behrle",
+                "firstName": "Raphael",
+                "lastName": "Behrle"
+            },
+            {
+                "id": 37090029663,
+                "preferredName": "Martien I. Den Hertog",
+                "firstName": "Martien I.",
+                "lastName": "Den Hertog"
+            },
+            {
+                "id": 37315989400,
+                "preferredName": "Alois Lugstein",
+                "firstName": "Alois",
+                "lastName": "Lugstein"
+            },
+            {
+                "id": 37401297000,
+                "preferredName": "Walter M. Weber",
+                "firstName": "Walter M.",
+                "lastName": "Weber"
+            },
+            {
+                "id": 37088978877,
+                "preferredName": "Masiar Sistani",
+                "firstName": "Masiar",
+                "lastName": "Sistani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268486",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268486",
+        "articleTitle": "SPICE Model of SPAD Transient Intrinsic Response Validated using Mixed-Mode TCAD Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "136",
+        "endPage": "139",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "SPICE Model of SPAD Transient Intrinsic Response Validated using Mixed-Mode TCAD Simulations",
+        "authors": [
+            {
+                "id": 37090031229,
+                "preferredName": "Tom Klauner",
+                "firstName": "Tom",
+                "lastName": "Klauner"
+            },
+            {
+                "id": 37088538718,
+                "preferredName": "Iman Sabri Alirezaei",
+                "firstName": "Iman Sabri",
+                "lastName": "Alirezaei"
+            },
+            {
+                "id": 37089195872,
+                "preferredName": "Nicolas Roisin",
+                "firstName": "Nicolas",
+                "lastName": "Roisin"
+            },
+            {
+                "id": 37297523100,
+                "preferredName": "Nicolas Andr\u00e9",
+                "firstName": "Nicolas",
+                "lastName": "Andr\u00e9"
+            },
+            {
+                "id": 37268455200,
+                "preferredName": "Denis Flandre",
+                "firstName": "Denis",
+                "lastName": "Flandre"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268573",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268573",
+        "articleTitle": "Modeling the Temperature Dependence of TDDB in Galvanic Isolators Based on Polymeric Dielectrics",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Modeling the Temperature Dependence of TDDB in Galvanic Isolators Based on Polymeric Dielectrics",
+        "authors": [
+            {
+                "id": 37089583709,
+                "preferredName": "J. L. Mazzola",
+                "firstName": "J. L.",
+                "lastName": "Mazzola"
+            },
+            {
+                "id": 37089584491,
+                "preferredName": "M. Greatti",
+                "firstName": "M.",
+                "lastName": "Greatti"
+            },
+            {
+                "id": 37284649300,
+                "preferredName": "C. Monzio Compagnoni",
+                "firstName": "C. Monzio",
+                "lastName": "Compagnoni"
+            },
+            {
+                "id": 37272884800,
+                "preferredName": "A.S. Spinelli",
+                "firstName": "A.S.",
+                "lastName": "Spinelli"
+            },
+            {
+                "id": 37089582768,
+                "preferredName": "V. Marano",
+                "firstName": "V.",
+                "lastName": "Marano"
+            },
+            {
+                "id": 37089583197,
+                "preferredName": "M. Lauria",
+                "firstName": "M.",
+                "lastName": "Lauria"
+            },
+            {
+                "id": 37869987400,
+                "preferredName": "D. Paci",
+                "firstName": "D.",
+                "lastName": "Paci"
+            },
+            {
+                "id": 37089584636,
+                "preferredName": "F. Speroni",
+                "firstName": "F.",
+                "lastName": "Speroni"
+            },
+            {
+                "id": 37086393083,
+                "preferredName": "G. Malavena",
+                "firstName": "G.",
+                "lastName": "Malavena"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268509",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268509",
+        "articleTitle": "Static and Dynamic Stochastic Analysis of a Temperature-Sensitive VO2 Spiking Neuron",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Static and Dynamic Stochastic Analysis of a Temperature-Sensitive VO2 Spiking Neuron",
+        "authors": [
+            {
+                "id": 37089350968,
+                "preferredName": "No\u00e9mie Bidoul",
+                "firstName": "No\u00e9mie",
+                "lastName": "Bidoul"
+            },
+            {
+                "id": 37086189565,
+                "preferredName": "Teodor Rosca",
+                "firstName": "Teodor",
+                "lastName": "Rosca"
+            },
+            {
+                "id": 37272725900,
+                "preferredName": "Adrian M. Ionescu",
+                "firstName": "Adrian M.",
+                "lastName": "Ionescu"
+            },
+            {
+                "id": 37268455200,
+                "preferredName": "Denis Flandre",
+                "firstName": "Denis",
+                "lastName": "Flandre"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268477",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268477",
+        "articleTitle": "One-Pulse-Programmable Multi-Level PCM/Selector Cross-Point Memory for 20 nm Half Pitch and Beyond",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "One-Pulse-Programmable Multi-Level PCM/Selector Cross-Point Memory for 20 nm Half Pitch and Beyond",
+        "authors": [
+            {
+                "id": 37090031014,
+                "preferredName": "Yuya Matsuzawa",
+                "firstName": "Yuya",
+                "lastName": "Matsuzawa"
+            },
+            {
+                "id": 37090027905,
+                "preferredName": "Yuki Ohnishi",
+                "firstName": "Yuki",
+                "lastName": "Ohnishi"
+            },
+            {
+                "id": 37090027941,
+                "preferredName": "Kazuhiro Katono",
+                "firstName": "Kazuhiro",
+                "lastName": "Katono"
+            },
+            {
+                "id": 37090030311,
+                "preferredName": "Yusuke Muto",
+                "firstName": "Yusuke",
+                "lastName": "Muto"
+            },
+            {
+                "id": 37090027893,
+                "preferredName": "Takayuki Tsukagoshi",
+                "firstName": "Takayuki",
+                "lastName": "Tsukagoshi"
+            },
+            {
+                "id": 37088543866,
+                "preferredName": "Hiroki Tokuhira",
+                "firstName": "Hiroki",
+                "lastName": "Tokuhira"
+            },
+            {
+                "id": 37090028506,
+                "preferredName": "Kei Sakamoto",
+                "firstName": "Kei",
+                "lastName": "Sakamoto"
+            },
+            {
+                "id": 37090027588,
+                "preferredName": "Hisakazu Matsumori",
+                "firstName": "Hisakazu",
+                "lastName": "Matsumori"
+            },
+            {
+                "id": 37090028847,
+                "preferredName": "Hiroyuki Ode",
+                "firstName": "Hiroyuki",
+                "lastName": "Ode"
+            },
+            {
+                "id": 37090028774,
+                "preferredName": "Shosuke Fujii",
+                "firstName": "Shosuke",
+                "lastName": "Fujii"
+            },
+            {
+                "id": 37090029992,
+                "preferredName": "Hide Tanaka",
+                "firstName": "Hide",
+                "lastName": "Tanaka"
+            },
+            {
+                "id": 37090030276,
+                "preferredName": "Takeshi Fujimaki",
+                "firstName": "Takeshi",
+                "lastName": "Fujimaki"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268481",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268481",
+        "articleTitle": "STT-MRAM Stochastic and Defects-aware DTCO for Last Level Cache at Advanced Process Nodes",
+        "volume": null,
+        "issue": null,
+        "startPage": "97",
+        "endPage": "100",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "STT-MRAM Stochastic and Defects-aware DTCO for Last Level Cache at Advanced Process Nodes",
+        "authors": [
+            {
+                "id": 38491291600,
+                "preferredName": "F. Garc\u00eda-Redondo",
+                "firstName": "F.",
+                "lastName": "Garc\u00eda-Redondo"
+            },
+            {
+                "id": 37089958721,
+                "preferredName": "S. Rao",
+                "firstName": "S.",
+                "lastName": "Rao"
+            },
+            {
+                "id": 37085432557,
+                "preferredName": "M. Gupta",
+                "firstName": "M.",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37087204690,
+                "preferredName": "M. Perumkunnil",
+                "firstName": "M.",
+                "lastName": "Perumkunnil"
+            },
+            {
+                "id": 37090027039,
+                "preferredName": "Y. Xiang",
+                "firstName": "Y.",
+                "lastName": "Xiang"
+            },
+            {
+                "id": 37085458924,
+                "preferredName": "D. Abdi",
+                "firstName": "D.",
+                "lastName": "Abdi"
+            },
+            {
+                "id": 37085526546,
+                "preferredName": "S. Van Beek",
+                "firstName": "S.",
+                "lastName": "Van Beek"
+            },
+            {
+                "id": 37320512900,
+                "preferredName": "S. Couet",
+                "firstName": "S.",
+                "lastName": "Couet"
+            },
+            {
+                "id": 37085490525,
+                "preferredName": "M. Garc\u00eda-Bardon",
+                "firstName": "M.",
+                "lastName": "Garc\u00eda-Bardon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268548",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268548",
+        "articleTitle": "Complete Reconfigurable Boolean Logic Gates Based on One FeFET -One RRAM Technology",
+        "volume": null,
+        "issue": null,
+        "startPage": "85",
+        "endPage": "88",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Complete Reconfigurable Boolean Logic Gates Based on One FeFET -One RRAM Technology",
+        "authors": [
+            {
+                "id": 37090027674,
+                "preferredName": "Yiqin Zeng",
+                "firstName": "Yiqin",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37090030734,
+                "preferredName": "Zhetao Ding",
+                "firstName": "Zhetao",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37090028108,
+                "preferredName": "Xueyang Li",
+                "firstName": "Xueyang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37090027025,
+                "preferredName": "Minglei Ma",
+                "firstName": "Minglei",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37090031301,
+                "preferredName": "Yue Peng",
+                "firstName": "Yue",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37090030701,
+                "preferredName": "Rongzong Shen",
+                "firstName": "Rongzong",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37090029309,
+                "preferredName": "Gaobo Lin",
+                "firstName": "Gaobo",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086593331,
+                "preferredName": "Chengji Jin",
+                "firstName": "Chengji",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37090027391,
+                "preferredName": "Xiao Yu",
+                "firstName": "Xiao",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37539161700,
+                "preferredName": "Bing Chen",
+                "firstName": "Bing",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085862154,
+                "preferredName": "Ran Cheng",
+                "firstName": "Ran",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37530679900,
+                "preferredName": "Genquan Han",
+                "firstName": "Genquan",
+                "lastName": "Han"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268479",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268479",
+        "articleTitle": "New Insights into Read Current Margin and Memory Window of HfO2-based Ferroelectric FET with Re-exploration of the Role of Ferroelectric Dynamics and Interface Charges during Readout",
+        "volume": null,
+        "issue": null,
+        "startPage": "89",
+        "endPage": "92",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "New Insights into Read Current Margin and Memory Window of HfO2-based Ferroelectric FET with Re-exploration of the Role of Ferroelectric Dynamics and Interface Charges during Readout",
+        "authors": [
+            {
+                "id": 37086537899,
+                "preferredName": "Chang Su",
+                "firstName": "Chang",
+                "lastName": "Su"
+            },
+            {
+                "id": 37086592280,
+                "preferredName": "Zhongxin Liang",
+                "firstName": "Zhongxin",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37087881442,
+                "preferredName": "Zhiyuan Fu",
+                "firstName": "Zhiyuan",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37089497880,
+                "preferredName": "Shaodi Xu",
+                "firstName": "Shaodi",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37088901671,
+                "preferredName": "Kaifeng Wang",
+                "firstName": "Kaifeng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088942307,
+                "preferredName": "Puyang Cai",
+                "firstName": "Puyang",
+                "lastName": "Cai"
+            },
+            {
+                "id": 37087889713,
+                "preferredName": "Liang Chen",
+                "firstName": "Liang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37273463400,
+                "preferredName": "Ru Huang",
+                "firstName": "Ru",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37899231800,
+                "preferredName": "Qianqian Huang",
+                "firstName": "Qianqian",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268562",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268562",
+        "articleTitle": "NITSRI-2D: A Surface Potential Based SPICE Compatible Model for pH-Sensitive FETs Based on 2-D Materials",
+        "volume": null,
+        "issue": null,
+        "startPage": "53",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "NITSRI-2D: A Surface Potential Based SPICE Compatible Model for pH-Sensitive FETs Based on 2-D Materials",
+        "authors": [
+            {
+                "id": 37090027126,
+                "preferredName": "Tamanna Nazeer",
+                "firstName": "Tamanna",
+                "lastName": "Nazeer"
+            },
+            {
+                "id": 37085742557,
+                "preferredName": "Sheikh Aamir Ahsan",
+                "firstName": "Sheikh Aamir",
+                "lastName": "Ahsan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268527",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268527",
+        "articleTitle": "Ultrathin Gate Dielectric Enabled by Nanofog Aluminum Oxide on Monolayer MoS2",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Ultrathin Gate Dielectric Enabled by Nanofog Aluminum Oxide on Monolayer MoS2",
+        "authors": [
+            {
+                "id": 37089491974,
+                "preferredName": "Jung-Soo Ko",
+                "firstName": "Jung-Soo",
+                "lastName": "Ko"
+            },
+            {
+                "id": 37089076979,
+                "preferredName": "Zichen Zhang",
+                "firstName": "Zichen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37090027114,
+                "preferredName": "Sol Lee",
+                "firstName": "Sol",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088349358,
+                "preferredName": "Marc Jaikissoon",
+                "firstName": "Marc",
+                "lastName": "Jaikissoon"
+            },
+            {
+                "id": 37088407457,
+                "preferredName": "Robert K. A. Bennett",
+                "firstName": "Robert K. A.",
+                "lastName": "Bennett"
+            },
+            {
+                "id": 37090031492,
+                "preferredName": "Kwanpyo Kim",
+                "firstName": "Kwanpyo",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37325844500,
+                "preferredName": "Andrew C. Kummel",
+                "firstName": "Andrew C.",
+                "lastName": "Kummel"
+            },
+            {
+                "id": 37322356600,
+                "preferredName": "Prabhakar Bandaru",
+                "firstName": "Prabhakar",
+                "lastName": "Bandaru"
+            },
+            {
+                "id": 37281905200,
+                "preferredName": "Eric Pop",
+                "firstName": "Eric",
+                "lastName": "Pop"
+            },
+            {
+                "id": 37273724200,
+                "preferredName": "Krishna C. Saraswat",
+                "firstName": "Krishna C.",
+                "lastName": "Saraswat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268572",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268572",
+        "articleTitle": "Understanding Distance-Dependent Variations for Analog Circuits in a FinFET Technology",
+        "volume": null,
+        "issue": null,
+        "startPage": "69",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Understanding Distance-Dependent Variations for Analog Circuits in a FinFET Technology",
+        "authors": [
+            {
+                "id": 37085996387,
+                "preferredName": "Meghna Madhusudan",
+                "firstName": "Meghna",
+                "lastName": "Madhusudan"
+            },
+            {
+                "id": 37088484555,
+                "preferredName": "Jitesh Poojary",
+                "firstName": "Jitesh",
+                "lastName": "Poojary"
+            },
+            {
+                "id": 37085533556,
+                "preferredName": "Arvind K. Sharma",
+                "firstName": "Arvind K.",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37089386555,
+                "preferredName": "Ramprasath S.",
+                "firstName": "Ramprasath",
+                "lastName": "S."
+            },
+            {
+                "id": 37086951854,
+                "preferredName": "Kishor Kunal",
+                "firstName": "Kishor",
+                "lastName": "Kunal"
+            },
+            {
+                "id": 37276061900,
+                "preferredName": "Sachin S. Sapatnekar",
+                "firstName": "Sachin S.",
+                "lastName": "Sapatnekar"
+            },
+            {
+                "id": 37275606500,
+                "preferredName": "Ramesh Harjani",
+                "firstName": "Ramesh",
+                "lastName": "Harjani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268472",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268472",
+        "articleTitle": "40nm SONOS Embedded Select in Trench Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "40nm SONOS Embedded Select in Trench Memory",
+        "authors": [
+            {
+                "id": 37090027244,
+                "preferredName": "Radouane Habhab",
+                "firstName": "Radouane",
+                "lastName": "Habhab"
+            },
+            {
+                "id": 37870975300,
+                "preferredName": "Vincenzo Della Marca",
+                "firstName": "Vincenzo",
+                "lastName": "Della Marca"
+            },
+            {
+                "id": 37276547000,
+                "preferredName": "Pascal Masson",
+                "firstName": "Pascal",
+                "lastName": "Masson"
+            },
+            {
+                "id": 37090030693,
+                "preferredName": "Nadia Miridi",
+                "firstName": "Nadia",
+                "lastName": "Miridi"
+            },
+            {
+                "id": 38274418200,
+                "preferredName": "Clement Pribat",
+                "firstName": "Clement",
+                "lastName": "Pribat"
+            },
+            {
+                "id": 37284559100,
+                "preferredName": "Simon Jeannot",
+                "firstName": "Simon",
+                "lastName": "Jeannot"
+            },
+            {
+                "id": 37086373906,
+                "preferredName": "Thibault Kempf",
+                "firstName": "Thibault",
+                "lastName": "Kempf"
+            },
+            {
+                "id": 37085579193,
+                "preferredName": "Marc Mantelli",
+                "firstName": "Marc",
+                "lastName": "Mantelli"
+            },
+            {
+                "id": 37327994400,
+                "preferredName": "Philippe Lorenzini",
+                "firstName": "Philippe",
+                "lastName": "Lorenzini"
+            },
+            {
+                "id": 37090027755,
+                "preferredName": "Jean-Marc Voisin",
+                "firstName": "Jean-Marc",
+                "lastName": "Voisin"
+            },
+            {
+                "id": 37565045900,
+                "preferredName": "Arnaud Regnier",
+                "firstName": "Arnaud",
+                "lastName": "Regnier"
+            },
+            {
+                "id": 37650516600,
+                "preferredName": "Stephan Niel",
+                "firstName": "Stephan",
+                "lastName": "Niel"
+            },
+            {
+                "id": 37085568664,
+                "preferredName": "Francesco La-Rosa",
+                "firstName": "Francesco",
+                "lastName": "La-Rosa"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268539",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268539",
+        "articleTitle": "A Composite AlGaN/cGaN Back Barrier for mm-Wave GaN-on-Si HEMTs",
+        "volume": null,
+        "issue": null,
+        "startPage": "152",
+        "endPage": "155",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "A Composite AlGaN/cGaN Back Barrier for mm-Wave GaN-on-Si HEMTs",
+        "authors": [
+            {
+                "id": 37088539237,
+                "preferredName": "Rana ElKashlan",
+                "firstName": "Rana",
+                "lastName": "ElKashlan"
+            },
+            {
+                "id": 37085502390,
+                "preferredName": "Hao Yu",
+                "firstName": "Hao",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37086921023,
+                "preferredName": "Ahmad Khaled",
+                "firstName": "Ahmad",
+                "lastName": "Khaled"
+            },
+            {
+                "id": 37085619222,
+                "preferredName": "Sachin Yadav",
+                "firstName": "Sachin",
+                "lastName": "Yadav"
+            },
+            {
+                "id": 37085611851,
+                "preferredName": "Uthayasankaran Peralagu",
+                "firstName": "Uthayasankaran",
+                "lastName": "Peralagu"
+            },
+            {
+                "id": 37887529800,
+                "preferredName": "AliReza Alian",
+                "firstName": "AliReza",
+                "lastName": "Alian"
+            },
+            {
+                "id": 37268426400,
+                "preferredName": "Nadine Collaert",
+                "firstName": "Nadine",
+                "lastName": "Collaert"
+            },
+            {
+                "id": 37274342300,
+                "preferredName": "Piet Wambacq",
+                "firstName": "Piet",
+                "lastName": "Wambacq"
+            },
+            {
+                "id": 37267353000,
+                "preferredName": "Bertrand Parvais",
+                "firstName": "Bertrand",
+                "lastName": "Parvais"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268545",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268545",
+        "articleTitle": "Extended Temperature Modeling of InGaAs/InP SPADs",
+        "volume": null,
+        "issue": null,
+        "startPage": "140",
+        "endPage": "143",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Extended Temperature Modeling of InGaAs/InP SPADs",
+        "authors": [
+            {
+                "id": 37086345143,
+                "preferredName": "E. Kizilkan",
+                "firstName": "E.",
+                "lastName": "Kizilkan"
+            },
+            {
+                "id": 37086345637,
+                "preferredName": "U. Karaca",
+                "firstName": "U.",
+                "lastName": "Karaca"
+            },
+            {
+                "id": 37089362117,
+                "preferredName": "V. Pe\u0161i\u0107",
+                "firstName": "V.",
+                "lastName": "Pe\u0161i\u0107"
+            },
+            {
+                "id": 37598674000,
+                "preferredName": "M.-J. Lee",
+                "firstName": "M.-J.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37274823200,
+                "preferredName": "C. Bruschini",
+                "firstName": "C.",
+                "lastName": "Bruschini"
+            },
+            {
+                "id": 37281955100,
+                "preferredName": "A. J. SpringThorpe",
+                "firstName": "A. J.",
+                "lastName": "SpringThorpe"
+            },
+            {
+                "id": 37398900700,
+                "preferredName": "A. W. Walker",
+                "firstName": "A. W.",
+                "lastName": "Walker"
+            },
+            {
+                "id": 37266507400,
+                "preferredName": "C. Flueraru",
+                "firstName": "C.",
+                "lastName": "Flueraru"
+            },
+            {
+                "id": 37425658000,
+                "preferredName": "O. J. Pitts",
+                "firstName": "O. J.",
+                "lastName": "Pitts"
+            },
+            {
+                "id": 37271353200,
+                "preferredName": "E. Charbon",
+                "firstName": "E.",
+                "lastName": "Charbon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268508",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268508",
+        "articleTitle": "Comprehensive Modeling of Advanced Composite Magnetoresistive Devices",
+        "volume": null,
+        "issue": null,
+        "startPage": "93",
+        "endPage": "96",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Comprehensive Modeling of Advanced Composite Magnetoresistive Devices",
+        "authors": [
+            {
+                "id": 37331609500,
+                "preferredName": "Viktor Sverdlov",
+                "firstName": "Viktor",
+                "lastName": "Sverdlov"
+            },
+            {
+                "id": 37088997799,
+                "preferredName": "Mario Bendra",
+                "firstName": "Mario",
+                "lastName": "Bendra"
+            },
+            {
+                "id": 37089891088,
+                "preferredName": "Bernhard Pruckner",
+                "firstName": "Bernhard",
+                "lastName": "Pruckner"
+            },
+            {
+                "id": 37087052126,
+                "preferredName": "Simone Fiorentini",
+                "firstName": "Simone",
+                "lastName": "Fiorentini"
+            },
+            {
+                "id": 37400561300,
+                "preferredName": "Wolfgang Goes",
+                "firstName": "Wolfgang",
+                "lastName": "Goes"
+            },
+            {
+                "id": 38543793800,
+                "preferredName": "Siegfried Selberherr",
+                "firstName": "Siegfried",
+                "lastName": "Selberherr"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268514",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268514",
+        "articleTitle": "MOSFET Characterization with Reduced Supply Voltage at Low Temperatures for Power Efficiency Maximization",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "MOSFET Characterization with Reduced Supply Voltage at Low Temperatures for Power Efficiency Maximization",
+        "authors": [
+            {
+                "id": 37090030979,
+                "preferredName": "W.-C. Lin",
+                "firstName": "W.-C.",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37534003400,
+                "preferredName": "H.-P. Huang",
+                "firstName": "H.-P.",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085487053,
+                "preferredName": "K.-H. Kao",
+                "firstName": "K.-H.",
+                "lastName": "Kao"
+            },
+            {
+                "id": 37532657000,
+                "preferredName": "M.-H. Chiang",
+                "firstName": "M.-H.",
+                "lastName": "Chiang"
+            },
+            {
+                "id": 37400332800,
+                "preferredName": "D. Lu",
+                "firstName": "D.",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37272582800,
+                "preferredName": "W.-C. Hsu",
+                "firstName": "W.-C.",
+                "lastName": "Hsu"
+            },
+            {
+                "id": 37281446300,
+                "preferredName": "Y.-H. Wang",
+                "firstName": "Y.-H.",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37533510800,
+                "preferredName": "W.C.-Y. Ma",
+                "firstName": "W.C.-Y.",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37349073700,
+                "preferredName": "H.-H. Tsai",
+                "firstName": "H.-H.",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 37407189400,
+                "preferredName": "Y.-J. Lee",
+                "firstName": "Y.-J.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37085457882,
+                "preferredName": "H.-L. Chiang",
+                "firstName": "H.-L.",
+                "lastName": "Chiang"
+            },
+            {
+                "id": 37090032089,
+                "preferredName": "J.-F. Wang",
+                "firstName": "J.-F.",
+                "lastName": "Wang"
+            },
+            {
+                "id": 38233420000,
+                "preferredName": "I. Radu",
+                "firstName": "I.",
+                "lastName": "Radu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268553",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268553",
+        "articleTitle": "22FDX\u00ae Device Optimization for mmW PA",
+        "volume": null,
+        "issue": null,
+        "startPage": "105",
+        "endPage": "108",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "22FDX\u00ae Device Optimization for mmW PA",
+        "authors": [
+            {
+                "id": 37090030688,
+                "preferredName": "Mingcheng Chang",
+                "firstName": "Mingcheng",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37085692166,
+                "preferredName": "Zaid Al-Husseini",
+                "firstName": "Zaid",
+                "lastName": "Al-Husseini"
+            },
+            {
+                "id": 37086951271,
+                "preferredName": "Shafi Syed",
+                "firstName": "Shafi",
+                "lastName": "Syed"
+            },
+            {
+                "id": 37061575800,
+                "preferredName": "Wafa Arfaoui",
+                "firstName": "Wafa",
+                "lastName": "Arfaoui"
+            },
+            {
+                "id": 37088829314,
+                "preferredName": "Tianbing Chen",
+                "firstName": "Tianbing",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37360711600,
+                "preferredName": "Andreas Knorr",
+                "firstName": "Andreas",
+                "lastName": "Knorr"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268520",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268520",
+        "articleTitle": "ePCM reliability improvement through active material carbon implantation",
+        "volume": null,
+        "issue": null,
+        "startPage": "29",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "ePCM reliability improvement through active material carbon implantation",
+        "authors": [
+            {
+                "id": 37565473700,
+                "preferredName": "Elisabetta Palumbo",
+                "firstName": "Elisabetta",
+                "lastName": "Palumbo"
+            },
+            {
+                "id": 37085789084,
+                "preferredName": "Alessandro Motta",
+                "firstName": "Alessandro",
+                "lastName": "Motta"
+            },
+            {
+                "id": 37088867945,
+                "preferredName": "Elisa Petroni",
+                "firstName": "Elisa",
+                "lastName": "Petroni"
+            },
+            {
+                "id": 37086221988,
+                "preferredName": "Daniele Gallinari",
+                "firstName": "Daniele",
+                "lastName": "Gallinari"
+            },
+            {
+                "id": 37088608104,
+                "preferredName": "Annalisa Gilardini",
+                "firstName": "Annalisa",
+                "lastName": "Gilardini"
+            },
+            {
+                "id": 38225304000,
+                "preferredName": "Amos Galbiati",
+                "firstName": "Amos",
+                "lastName": "Galbiati"
+            },
+            {
+                "id": 37392980500,
+                "preferredName": "Massimo Borghi",
+                "firstName": "Massimo",
+                "lastName": "Borghi"
+            },
+            {
+                "id": 37392978000,
+                "preferredName": "Roberto Annunziata",
+                "firstName": "Roberto",
+                "lastName": "Annunziata"
+            },
+            {
+                "id": 37284787300,
+                "preferredName": "Andrea Redaelli",
+                "firstName": "Andrea",
+                "lastName": "Redaelli"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268518",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268518",
+        "articleTitle": "A Study of the Variability and Design Considerations of Ferroelectric VNAND Memories With Polycrystalline Films Using An Experimentally Validated TCAD Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "77",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "A Study of the Variability and Design Considerations of Ferroelectric VNAND Memories With Polycrystalline Films Using An Experimentally Validated TCAD Model",
+        "authors": [
+            {
+                "id": 37085616319,
+                "preferredName": "M. Thesberg",
+                "firstName": "M.",
+                "lastName": "Thesberg"
+            },
+            {
+                "id": 37860388900,
+                "preferredName": "F. Schanovsky",
+                "firstName": "F.",
+                "lastName": "Schanovsky"
+            },
+            {
+                "id": 38556300100,
+                "preferredName": "Z. Stanojevi\u0107",
+                "firstName": "Z.",
+                "lastName": "Stanojevi\u0107"
+            },
+            {
+                "id": 37540568700,
+                "preferredName": "O. Baumgartner",
+                "firstName": "O.",
+                "lastName": "Baumgartner"
+            },
+            {
+                "id": 37546544000,
+                "preferredName": "M. Karner",
+                "firstName": "M.",
+                "lastName": "Karner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268522",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268522",
+        "articleTitle": "Understanding the impact of La dopant position on the ferroelectric properties of hafnium zirconate",
+        "volume": null,
+        "issue": null,
+        "startPage": "121",
+        "endPage": "124",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Understanding the impact of La dopant position on the ferroelectric properties of hafnium zirconate",
+        "authors": [
+            {
+                "id": 37583685400,
+                "preferredName": "Mihaela Ioana Popovici",
+                "firstName": "Mihaela Ioana",
+                "lastName": "Popovici"
+            },
+            {
+                "id": 37086324905,
+                "preferredName": "Jasper Bizindavyi",
+                "firstName": "Jasper",
+                "lastName": "Bizindavyi"
+            },
+            {
+                "id": 37090027236,
+                "preferredName": "Gourab De",
+                "firstName": "Gourab",
+                "lastName": "De"
+            },
+            {
+                "id": 37090031063,
+                "preferredName": "Dae Seon Kwon",
+                "firstName": "Dae Seon",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 38235627500,
+                "preferredName": "Gouri Sankar Kar",
+                "firstName": "Gouri Sankar",
+                "lastName": "Kar"
+            },
+            {
+                "id": 37268207900,
+                "preferredName": "Jan Van Houdt",
+                "firstName": "Jan",
+                "lastName": "Van Houdt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268561",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268561",
+        "articleTitle": "Dynamics of Polarization Switching in Mixed Phase Ferroelectric-Antiferroelectric HZO Thin Films",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Dynamics of Polarization Switching in Mixed Phase Ferroelectric-Antiferroelectric HZO Thin Films",
+        "authors": [
+            {
+                "id": 37087109534,
+                "preferredName": "Hannes Dahlberg",
+                "firstName": "Hannes",
+                "lastName": "Dahlberg"
+            },
+            {
+                "id": 37284856700,
+                "preferredName": "Lars-Erik Wernersson",
+                "firstName": "Lars-Erik",
+                "lastName": "Wernersson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268524",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268524",
+        "articleTitle": "Improving off-state capacitance of SOI-CMOS RF switches: how good are air microcavities?",
+        "volume": null,
+        "issue": null,
+        "startPage": "109",
+        "endPage": "112",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Improving off-state capacitance of SOI-CMOS RF switches: how good are air microcavities?",
+        "authors": [
+            {
+                "id": 37090029260,
+                "preferredName": "Daniel Gheysens",
+                "firstName": "Daniel",
+                "lastName": "Gheysens"
+            },
+            {
+                "id": 37088868645,
+                "preferredName": "Alain Fleury",
+                "firstName": "Alain",
+                "lastName": "Fleury"
+            },
+            {
+                "id": 37268250000,
+                "preferredName": "St\u00e9phane Monfray",
+                "firstName": "St\u00e9phane",
+                "lastName": "Monfray"
+            },
+            {
+                "id": 37293985700,
+                "preferredName": "Fr\u00e9d\u00e9ric Gianesello",
+                "firstName": "Fr\u00e9d\u00e9ric",
+                "lastName": "Gianesello"
+            },
+            {
+                "id": 37403070500,
+                "preferredName": "Philippe Cathelin",
+                "firstName": "Philippe",
+                "lastName": "Cathelin"
+            },
+            {
+                "id": 37085538727,
+                "preferredName": "Jean-Fran\u00e7ois Robillard",
+                "firstName": "Jean-Fran\u00e7ois",
+                "lastName": "Robillard"
+            },
+            {
+                "id": 37312618200,
+                "preferredName": "David Troadec",
+                "firstName": "David",
+                "lastName": "Troadec"
+            },
+            {
+                "id": 37274993500,
+                "preferredName": "Emmanuel Dubois",
+                "firstName": "Emmanuel",
+                "lastName": "Dubois"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268565",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268565",
+        "articleTitle": "Magnetic Domain Wall Memory: A DTCO study for Memory Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "44",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Magnetic Domain Wall Memory: A DTCO study for Memory Applications",
+        "authors": [
+            {
+                "id": 37085432557,
+                "preferredName": "M. Gupta",
+                "firstName": "M.",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37085781326,
+                "preferredName": "S. Rao",
+                "firstName": "S.",
+                "lastName": "Rao"
+            },
+            {
+                "id": 38235627500,
+                "preferredName": "G.S. Kar",
+                "firstName": "G.S.",
+                "lastName": "Kar"
+            },
+            {
+                "id": 37320512900,
+                "preferredName": "S. Couet",
+                "firstName": "S.",
+                "lastName": "Couet"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268528",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268528",
+        "articleTitle": "Impact of layout and channel processing on CMOS low frequency noise variability",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Impact of layout and channel processing on CMOS low frequency noise variability",
+        "authors": [
+            {
+                "id": 37090031977,
+                "preferredName": "Fausto Simioni",
+                "firstName": "Fausto",
+                "lastName": "Simioni"
+            },
+            {
+                "id": 37702669800,
+                "preferredName": "Lorenzo Labate",
+                "firstName": "Lorenzo",
+                "lastName": "Labate"
+            },
+            {
+                "id": 37089295944,
+                "preferredName": "Daniele Savio",
+                "firstName": "Daniele",
+                "lastName": "Savio"
+            },
+            {
+                "id": 37086623904,
+                "preferredName": "Mariella Brizzi",
+                "firstName": "Mariella",
+                "lastName": "Brizzi"
+            },
+            {
+                "id": 37268821400,
+                "preferredName": "Federica Ottogalli",
+                "firstName": "Federica",
+                "lastName": "Ottogalli"
+            },
+            {
+                "id": 37086128604,
+                "preferredName": "Riccardo Marchetti",
+                "firstName": "Riccardo",
+                "lastName": "Marchetti"
+            },
+            {
+                "id": 37089418776,
+                "preferredName": "Silvia Brazzelli",
+                "firstName": "Silvia",
+                "lastName": "Brazzelli"
+            },
+            {
+                "id": 37085578493,
+                "preferredName": "Mattia Rossetti",
+                "firstName": "Mattia",
+                "lastName": "Rossetti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268534",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268534",
+        "articleTitle": "Hot-Carrier Degradation modeling of DCR drift in SPADs",
+        "volume": null,
+        "issue": null,
+        "startPage": "61",
+        "endPage": "64",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Hot-Carrier Degradation modeling of DCR drift in SPADs",
+        "authors": [
+            {
+                "id": 37089004927,
+                "preferredName": "Mathieu Sicre",
+                "firstName": "Mathieu",
+                "lastName": "Sicre"
+            },
+            {
+                "id": 37274628500,
+                "preferredName": "David Roy",
+                "firstName": "David",
+                "lastName": "Roy"
+            },
+            {
+                "id": 37400817400,
+                "preferredName": "Francis Calmon",
+                "firstName": "Francis",
+                "lastName": "Calmon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268569",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268569",
+        "articleTitle": "First Foundry Platform Demonstration of Hybrid Tunnel FET and MOSFET Circuits Based on a Novel Laminated Well Isolation Technology",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "First Foundry Platform Demonstration of Hybrid Tunnel FET and MOSFET Circuits Based on a Novel Laminated Well Isolation Technology",
+        "authors": [
+            {
+                "id": 37088901671,
+                "preferredName": "Kaifeng Wang",
+                "firstName": "Kaifeng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089343238,
+                "preferredName": "Yongqin Wu",
+                "firstName": "Yongqin",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37089990115,
+                "preferredName": "Ye Ren",
+                "firstName": "Ye",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37089862417,
+                "preferredName": "Renjie Wei",
+                "firstName": "Renjie",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37089945330,
+                "preferredName": "Zerui Chen",
+                "firstName": "Zerui",
+                "lastName": "Chen"
+            },
+            {
+                "id": 646840676461003,
+                "preferredName": "Jianfeng Hang",
+                "firstName": "Jianfeng",
+                "lastName": "Hang"
+            },
+            {
+                "id": 37086365068,
+                "preferredName": "Zhixuan Wang",
+                "firstName": "Zhixuan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089624491,
+                "preferredName": "Fangxing Zhang",
+                "firstName": "Fangxing",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37087298264,
+                "preferredName": "Lining Zhang",
+                "firstName": "Lining",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085689735,
+                "preferredName": "Chunyu Peng",
+                "firstName": "Chunyu",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37085693589,
+                "preferredName": "Xiulong Wu",
+                "firstName": "Xiulong",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37087269951,
+                "preferredName": "Le Ye",
+                "firstName": "Le",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37089448177,
+                "preferredName": "Kai Zheng",
+                "firstName": "Kai",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37089599835,
+                "preferredName": "Jin Kang",
+                "firstName": "Jin",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37087260568,
+                "preferredName": "Xusheng Wu",
+                "firstName": "Xusheng",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37430337500,
+                "preferredName": "Weihai Bu",
+                "firstName": "Weihai",
+                "lastName": "Bu"
+            },
+            {
+                "id": 37273463400,
+                "preferredName": "Ru Huang",
+                "firstName": "Ru",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37899231800,
+                "preferredName": "Qianqian Huang",
+                "firstName": "Qianqian",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268536",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268536",
+        "articleTitle": "RF performance of Standard, High-Resistivity and Trap-Rich Silicon substrates down to cryogenic temperature",
+        "volume": null,
+        "issue": null,
+        "startPage": "148",
+        "endPage": "151",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "RF performance of Standard, High-Resistivity and Trap-Rich Silicon substrates down to cryogenic temperature",
+        "authors": [
+            {
+                "id": 37088996164,
+                "preferredName": "Q. Berlingard",
+                "firstName": "Q.",
+                "lastName": "Berlingard"
+            },
+            {
+                "id": 37088999577,
+                "preferredName": "M. Moulin",
+                "firstName": "M.",
+                "lastName": "Moulin"
+            },
+            {
+                "id": 37396306100,
+                "preferredName": "J.-P. Michel",
+                "firstName": "J.-P.",
+                "lastName": "Michel"
+            },
+            {
+                "id": 37088996356,
+                "preferredName": "T. Fache",
+                "firstName": "T.",
+                "lastName": "Fache"
+            },
+            {
+                "id": 37088543411,
+                "preferredName": "I. Charlet",
+                "firstName": "I.",
+                "lastName": "Charlet"
+            },
+            {
+                "id": 37085470878,
+                "preferredName": "C. Plantier",
+                "firstName": "C.",
+                "lastName": "Plantier"
+            },
+            {
+                "id": 37085412113,
+                "preferredName": "Z. Chalupa",
+                "firstName": "Z.",
+                "lastName": "Chalupa"
+            },
+            {
+                "id": 37085493387,
+                "preferredName": "J. Lugo-Alvarez",
+                "firstName": "J.",
+                "lastName": "Lugo-Alvarez"
+            },
+            {
+                "id": 37268451300,
+                "preferredName": "J.-P. Raskin",
+                "firstName": "J.-P.",
+                "lastName": "Raskin"
+            },
+            {
+                "id": 37392833600,
+                "preferredName": "L. Hutin",
+                "firstName": "L.",
+                "lastName": "Hutin"
+            },
+            {
+                "id": 37085509871,
+                "preferredName": "M. Cass\u00e9",
+                "firstName": "M.",
+                "lastName": "Cass\u00e9"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268542",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268542",
+        "articleTitle": "A Model for the Open-Circuit Voltage Dependence on Temperature for Integrated Diodes",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "52",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "A Model for the Open-Circuit Voltage Dependence on Temperature for Integrated Diodes",
+        "authors": [
+            {
+                "id": 37089446905,
+                "preferredName": "Pablo Fern\u00e1ndez-Peramo",
+                "firstName": "Pablo",
+                "lastName": "Fern\u00e1ndez-Peramo"
+            },
+            {
+                "id": 38321545500,
+                "preferredName": "Juan A. Le\u00f1ero-Bardallo",
+                "firstName": "Juan A.",
+                "lastName": "Le\u00f1ero-Bardallo"
+            },
+            {
+                "id": 37086012508,
+                "preferredName": "Juan M. L\u00f3pez-Mart\u00ednez",
+                "firstName": "Juan M.",
+                "lastName": "L\u00f3pez-Mart\u00ednez"
+            },
+            {
+                "id": 38274433100,
+                "preferredName": "\u00c1ngel Rodr\u00edguez-V\u00e1zquez",
+                "firstName": "\u00c1ngel",
+                "lastName": "Rodr\u00edguez-V\u00e1zquez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268544",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268544",
+        "articleTitle": "Reconfigurable ferroelectric hafnium oxide FeFET fabricated in 28 nm CMOS technology for mmWave applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "113",
+        "endPage": "116",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Reconfigurable ferroelectric hafnium oxide FeFET fabricated in 28 nm CMOS technology for mmWave applications",
+        "authors": [
+            {
+                "id": 37087056223,
+                "preferredName": "Sukhrob Abdulazhanov",
+                "firstName": "Sukhrob",
+                "lastName": "Abdulazhanov"
+            },
+            {
+                "id": 37086918432,
+                "preferredName": "Quang Huy Le",
+                "firstName": "Quang Huy",
+                "lastName": "Le"
+            },
+            {
+                "id": 37089411376,
+                "preferredName": "Dang Khoa Huynh",
+                "firstName": "Dang",
+                "lastName": "Khoa Huynh"
+            },
+            {
+                "id": 37087890434,
+                "preferredName": "Maximilian Lederer",
+                "firstName": "Maximilian",
+                "lastName": "Lederer"
+            },
+            {
+                "id": 37088650799,
+                "preferredName": "Yannick Raffel",
+                "firstName": "Yannick",
+                "lastName": "Raffel"
+            },
+            {
+                "id": 37086154196,
+                "preferredName": "Kai Ni",
+                "firstName": "Kai",
+                "lastName": "Ni"
+            },
+            {
+                "id": 37085776453,
+                "preferredName": "Xunzhao Yin",
+                "firstName": "Xunzhao",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37670399200,
+                "preferredName": "Thomas K\u00e4mpfe",
+                "firstName": "Thomas",
+                "lastName": "K\u00e4mpfe"
+            },
+            {
+                "id": 37283639600,
+                "preferredName": "Gerald Gerlach",
+                "firstName": "Gerald",
+                "lastName": "Gerlach"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268513",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268513",
+        "articleTitle": "Integration of HfO2-based 3D OxRAM with GAA stacked-nanosheet transistor for high-density embedded memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "117",
+        "endPage": "120",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Integration of HfO2-based 3D OxRAM with GAA stacked-nanosheet transistor for high-density embedded memory",
+        "authors": [
+            {
+                "id": 37088867038,
+                "preferredName": "T. Dubreuil",
+                "firstName": "T.",
+                "lastName": "Dubreuil"
+            },
+            {
+                "id": 37281954500,
+                "preferredName": "S. Barraud",
+                "firstName": "S.",
+                "lastName": "Barraud"
+            },
+            {
+                "id": 37569728800,
+                "preferredName": "J.-M. Pedini",
+                "firstName": "J.-M.",
+                "lastName": "Pedini"
+            },
+            {
+                "id": 38140547100,
+                "preferredName": "J.-M. Hartmann",
+                "firstName": "J.-M.",
+                "lastName": "Hartmann"
+            },
+            {
+                "id": 37089324939,
+                "preferredName": "F. Boulard",
+                "firstName": "F.",
+                "lastName": "Boulard"
+            },
+            {
+                "id": 37089325532,
+                "preferredName": "A. Sarrazin",
+                "firstName": "A.",
+                "lastName": "Sarrazin"
+            },
+            {
+                "id": 37090027262,
+                "preferredName": "A. Gharbi",
+                "firstName": "A.",
+                "lastName": "Gharbi"
+            },
+            {
+                "id": 37089122462,
+                "preferredName": "J. Sturm",
+                "firstName": "J.",
+                "lastName": "Sturm"
+            },
+            {
+                "id": 37090030291,
+                "preferredName": "A. Lambert",
+                "firstName": "A.",
+                "lastName": "Lambert"
+            },
+            {
+                "id": 37088744860,
+                "preferredName": "S. Martin",
+                "firstName": "S.",
+                "lastName": "Martin"
+            },
+            {
+                "id": 37085612552,
+                "preferredName": "N. Castellani",
+                "firstName": "N.",
+                "lastName": "Castellani"
+            },
+            {
+                "id": 37089856089,
+                "preferredName": "A. Anotta",
+                "firstName": "A.",
+                "lastName": "Anotta"
+            },
+            {
+                "id": 37088568533,
+                "preferredName": "A. Magalhaes-Lucas",
+                "firstName": "A.",
+                "lastName": "Magalhaes-Lucas"
+            },
+            {
+                "id": 37090032019,
+                "preferredName": "A. Souhait\u00e9",
+                "firstName": "A.",
+                "lastName": "Souhait\u00e9"
+            },
+            {
+                "id": 37266116500,
+                "preferredName": "F. Andrieu",
+                "firstName": "F.",
+                "lastName": "Andrieu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268552",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268552",
+        "articleTitle": "Educational Events - Tutorials",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "vi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Educational Events - Tutorials",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268515",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268515",
+        "articleTitle": "Nonlinear Compact Modeling of InP/InGaAs DHBTs with HICUM/L2",
+        "volume": null,
+        "issue": null,
+        "startPage": "45",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Nonlinear Compact Modeling of InP/InGaAs DHBTs with HICUM/L2",
+        "authors": [
+            {
+                "id": 37088575361,
+                "preferredName": "Markus M\u00fcller",
+                "firstName": "Markus",
+                "lastName": "M\u00fcller"
+            },
+            {
+                "id": 37088834892,
+                "preferredName": "Christoph Weimer",
+                "firstName": "Christoph",
+                "lastName": "Weimer"
+            },
+            {
+                "id": 37284000500,
+                "preferredName": "Michael Schr\u00f6ter",
+                "firstName": "Michael",
+                "lastName": "Schr\u00f6ter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268483",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268483",
+        "articleTitle": "Characterisation of Photodiodes in 22 nm FDSOI at 850 nm",
+        "volume": null,
+        "issue": null,
+        "startPage": "65",
+        "endPage": "68",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Characterisation of Photodiodes in 22 nm FDSOI at 850 nm",
+        "authors": [
+            {
+                "id": 37090029179,
+                "preferredName": "Jelle H. T. Bakker",
+                "firstName": "Jelle H. T.",
+                "lastName": "Bakker"
+            },
+            {
+                "id": 37089258292,
+                "preferredName": "Mark S. Oude Alink",
+                "firstName": "Mark S. Oude",
+                "lastName": "Alink"
+            },
+            {
+                "id": 37272031300,
+                "preferredName": "Jurriaan Schmitz",
+                "firstName": "Jurriaan",
+                "lastName": "Schmitz"
+            },
+            {
+                "id": 37274378900,
+                "preferredName": "Bram Nauta",
+                "firstName": "Bram",
+                "lastName": "Nauta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268485",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268485",
+        "articleTitle": "Characterization and Modeling of High Voltage MOS Robustness During Recirculation in Smart Power technologies",
+        "volume": null,
+        "issue": null,
+        "startPage": "156",
+        "endPage": "159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Characterization and Modeling of High Voltage MOS Robustness During Recirculation in Smart Power technologies",
+        "authors": [
+            {
+                "id": 37410111100,
+                "preferredName": "Michele Basso",
+                "firstName": "Michele",
+                "lastName": "Basso"
+            },
+            {
+                "id": 38014696200,
+                "preferredName": "Marco Sambi",
+                "firstName": "Marco",
+                "lastName": "Sambi"
+            },
+            {
+                "id": 37090027827,
+                "preferredName": "Andrea Marcovati",
+                "firstName": "Andrea",
+                "lastName": "Marcovati"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268560",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268560",
+        "articleTitle": "Electrothermal modeling of junctionless vertical Si nanowire transistors for 3D logic circuit design",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "60",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Electrothermal modeling of junctionless vertical Si nanowire transistors for 3D logic circuit design",
+        "authors": [
+            {
+                "id": 37089917661,
+                "preferredName": "Yifan Wang",
+                "firstName": "Yifan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085421810,
+                "preferredName": "Chhandak Mukherjee",
+                "firstName": "Chhandak",
+                "lastName": "Mukherjee"
+            },
+            {
+                "id": 37088413805,
+                "preferredName": "Houssem Rezgui",
+                "firstName": "Houssem",
+                "lastName": "Rezgui"
+            },
+            {
+                "id": 37085352234,
+                "preferredName": "Marina Deng",
+                "firstName": "Marina",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37274872600,
+                "preferredName": "Cristell Maneux",
+                "firstName": "Cristell",
+                "lastName": "Maneux"
+            },
+            {
+                "id": 37089972029,
+                "preferredName": "Sara Mannaa",
+                "firstName": "Sara",
+                "lastName": "Mannaa"
+            },
+            {
+                "id": 37266077500,
+                "preferredName": "Ian O\u2019Connor",
+                "firstName": "Ian",
+                "lastName": "O\u2019Connor"
+            },
+            {
+                "id": 37089903458,
+                "preferredName": "Jonas M\u00fcller",
+                "firstName": "Jonas",
+                "lastName": "M\u00fcller"
+            },
+            {
+                "id": 37086100256,
+                "preferredName": "Sylvain Pelloquin",
+                "firstName": "Sylvain",
+                "lastName": "Pelloquin"
+            },
+            {
+                "id": 37275002900,
+                "preferredName": "Guilhem Larrieu",
+                "firstName": "Guilhem",
+                "lastName": "Larrieu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268523",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268523",
+        "articleTitle": "Transport characterization of CMOS-based devices fabricated with isotopically-enriched 28Si for spin qubit applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Transport characterization of CMOS-based devices fabricated with isotopically-enriched 28Si for spin qubit applications",
+        "authors": [
+            {
+                "id": 37090030465,
+                "preferredName": "G. Elbaz",
+                "firstName": "G.",
+                "lastName": "Elbaz"
+            },
+            {
+                "id": 37085509871,
+                "preferredName": "M. Cass\u00e9",
+                "firstName": "M.",
+                "lastName": "Cass\u00e9"
+            },
+            {
+                "id": 37089460129,
+                "preferredName": "V. Labracherie",
+                "firstName": "V.",
+                "lastName": "Labracherie"
+            },
+            {
+                "id": 37090027149,
+                "preferredName": "G. Roussely",
+                "firstName": "G.",
+                "lastName": "Roussely"
+            },
+            {
+                "id": 37086042310,
+                "preferredName": "B. Bertrand",
+                "firstName": "B.",
+                "lastName": "Bertrand"
+            },
+            {
+                "id": 37086100167,
+                "preferredName": "H. Niebojewski",
+                "firstName": "H.",
+                "lastName": "Niebojewski"
+            },
+            {
+                "id": 37268366500,
+                "preferredName": "M. Vinet",
+                "firstName": "M.",
+                "lastName": "Vinet"
+            },
+            {
+                "id": 37090028110,
+                "preferredName": "F. Balestro",
+                "firstName": "F.",
+                "lastName": "Balestro"
+            },
+            {
+                "id": 37086039068,
+                "preferredName": "M. Urdampilleta",
+                "firstName": "M.",
+                "lastName": "Urdampilleta"
+            },
+            {
+                "id": 37086043690,
+                "preferredName": "T. Meunier",
+                "firstName": "T.",
+                "lastName": "Meunier"
+            },
+            {
+                "id": 37085428859,
+                "preferredName": "B. Cardoso Paz",
+                "firstName": "B. Cardoso",
+                "lastName": "Paz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268558",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268558",
+        "articleTitle": "Performance Comparison of SRAM Designs Implemented with Silicon-On-Insulator Nanosheet Transistors and Bulk FinFETs",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "76",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Performance Comparison of SRAM Designs Implemented with Silicon-On-Insulator Nanosheet Transistors and Bulk FinFETs",
+        "authors": [
+            {
+                "id": 642205313403314,
+                "preferredName": "Po-Chih Chen",
+                "firstName": "Po-Chih",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085897639,
+                "preferredName": "Yi-Ting Wu",
+                "firstName": "Yi-Ting",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37532657000,
+                "preferredName": "Meng-Hsueh Chiang",
+                "firstName": "Meng-Hsueh",
+                "lastName": "Chiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268566",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268566",
+        "articleTitle": "40-nm RFSOI technology exhibiting 90fs RON \u00d7 COFF and fT/fMAX of 250 GHz/350 GHz targeting sub-6 GHz and mmW 5G applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "101",
+        "endPage": "104",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "40-nm RFSOI technology exhibiting 90fs RON \u00d7 COFF and fT/fMAX of 250 GHz/350 GHz targeting sub-6 GHz and mmW 5G applications",
+        "authors": [
+            {
+                "id": 37296713200,
+                "preferredName": "S. Cr\u00e9mer",
+                "firstName": "S.",
+                "lastName": "Cr\u00e9mer"
+            },
+            {
+                "id": 38198406500,
+                "preferredName": "N. Pelloux",
+                "firstName": "N.",
+                "lastName": "Pelloux"
+            },
+            {
+                "id": 37293985700,
+                "preferredName": "F. Gianesello",
+                "firstName": "F.",
+                "lastName": "Gianesello"
+            },
+            {
+                "id": 37088867582,
+                "preferredName": "Y. Mourier",
+                "firstName": "Y.",
+                "lastName": "Mourier"
+            },
+            {
+                "id": 37860283600,
+                "preferredName": "G. Haury",
+                "firstName": "G.",
+                "lastName": "Haury"
+            },
+            {
+                "id": 37086479437,
+                "preferredName": "T. Chaves de Albuquerque",
+                "firstName": "T. Chaves",
+                "lastName": "de Albuquerque"
+            },
+            {
+                "id": 37427371600,
+                "preferredName": "F. Monsieur",
+                "firstName": "F.",
+                "lastName": "Monsieur"
+            },
+            {
+                "id": 37090028458,
+                "preferredName": "H. Audouin",
+                "firstName": "H.",
+                "lastName": "Audouin"
+            },
+            {
+                "id": 37603327000,
+                "preferredName": "C. A. Legrand",
+                "firstName": "C. A.",
+                "lastName": "Legrand"
+            },
+            {
+                "id": 37887604800,
+                "preferredName": "C. Diouf",
+                "firstName": "C.",
+                "lastName": "Diouf"
+            },
+            {
+                "id": 37088728741,
+                "preferredName": "J. Azevedo Goncalves",
+                "firstName": "J. Azevedo",
+                "lastName": "Goncalves"
+            },
+            {
+                "id": 37086358340,
+                "preferredName": "C. Belem Goncalves",
+                "firstName": "C.",
+                "lastName": "Belem Goncalves"
+            },
+            {
+                "id": 37408472200,
+                "preferredName": "C. Durand",
+                "firstName": "C.",
+                "lastName": "Durand"
+            },
+            {
+                "id": 37322365700,
+                "preferredName": "N. Vulliet",
+                "firstName": "N.",
+                "lastName": "Vulliet"
+            },
+            {
+                "id": 37594878700,
+                "preferredName": "L. Berthier",
+                "firstName": "L.",
+                "lastName": "Berthier"
+            },
+            {
+                "id": 37090028802,
+                "preferredName": "E. Souchier",
+                "firstName": "E.",
+                "lastName": "Souchier"
+            },
+            {
+                "id": 37275351900,
+                "preferredName": "P. Garcia",
+                "firstName": "P.",
+                "lastName": "Garcia"
+            },
+            {
+                "id": 37853838000,
+                "preferredName": "S. Jan",
+                "firstName": "S.",
+                "lastName": "Jan"
+            },
+            {
+                "id": 37088813113,
+                "preferredName": "M. Hello",
+                "firstName": "M.",
+                "lastName": "Hello"
+            },
+            {
+                "id": 37088825336,
+                "preferredName": "M. L. Rellier",
+                "firstName": "M. L.",
+                "lastName": "Rellier"
+            },
+            {
+                "id": 37293986800,
+                "preferredName": "P. Scheer",
+                "firstName": "P.",
+                "lastName": "Scheer"
+            },
+            {
+                "id": 37268120800,
+                "preferredName": "B. Duriez",
+                "firstName": "B.",
+                "lastName": "Duriez"
+            },
+            {
+                "id": 37282546700,
+                "preferredName": "X. Garros",
+                "firstName": "X.",
+                "lastName": "Garros"
+            },
+            {
+                "id": 37090029051,
+                "preferredName": "T. Bordignon",
+                "firstName": "T.",
+                "lastName": "Bordignon"
+            },
+            {
+                "id": 37294575200,
+                "preferredName": "F. Paillardet",
+                "firstName": "F.",
+                "lastName": "Paillardet"
+            },
+            {
+                "id": 37265596800,
+                "preferredName": "P. Chevalier",
+                "firstName": "P.",
+                "lastName": "Chevalier"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268568",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268568",
+        "articleTitle": "Near-IR response of highly-strained Si photodetector linking first principles and TCAD",
+        "volume": null,
+        "issue": null,
+        "startPage": "132",
+        "endPage": "135",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Near-IR response of highly-strained Si photodetector linking first principles and TCAD",
+        "authors": [
+            {
+                "id": 37089195872,
+                "preferredName": "Nicolas Roisin",
+                "firstName": "Nicolas",
+                "lastName": "Roisin"
+            },
+            {
+                "id": 37268451300,
+                "preferredName": "Jean-Pierre Raskin",
+                "firstName": "Jean-Pierre",
+                "lastName": "Raskin"
+            },
+            {
+                "id": 37268455200,
+                "preferredName": "Denis Flandre",
+                "firstName": "Denis",
+                "lastName": "Flandre"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268470",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268470",
+        "articleTitle": "NPN Si/SiGe memory selector with non-linearity>105 and ON-current>6MA/cm2",
+        "volume": null,
+        "issue": null,
+        "startPage": "164",
+        "endPage": "167",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "NPN Si/SiGe memory selector with non-linearity>105 and ON-current>6MA/cm2",
+        "authors": [
+            {
+                "id": 37085371607,
+                "preferredName": "Gaspard Hiblot",
+                "firstName": "Gaspard",
+                "lastName": "Hiblot"
+            },
+            {
+                "id": 37087319466,
+                "preferredName": "Taras Ravsher",
+                "firstName": "Taras",
+                "lastName": "Ravsher"
+            },
+            {
+                "id": 37285089800,
+                "preferredName": "Roger Loo",
+                "firstName": "Roger",
+                "lastName": "Loo"
+            },
+            {
+                "id": 37089772565,
+                "preferredName": "Bhuvaneshwari Yengula Venkata Ramana",
+                "firstName": "Bhuvaneshwari Yengula Venkata",
+                "lastName": "Ramana"
+            },
+            {
+                "id": 37089571481,
+                "preferredName": "Nathali Franchina Vergel",
+                "firstName": "Nathali Franchina",
+                "lastName": "Vergel"
+            },
+            {
+                "id": 37270602400,
+                "preferredName": "Andrea Fantini",
+                "firstName": "Andrea",
+                "lastName": "Fantini"
+            },
+            {
+                "id": 37086073800,
+                "preferredName": "Shamin Houshmand Sharifi",
+                "firstName": "Shamin Houshmand",
+                "lastName": "Sharifi"
+            },
+            {
+                "id": 37088934262,
+                "preferredName": "Nina Bazzazian",
+                "firstName": "Nina",
+                "lastName": "Bazzazian"
+            },
+            {
+                "id": 37829115600,
+                "preferredName": "Kurt Wostyn",
+                "firstName": "Kurt",
+                "lastName": "Wostyn"
+            },
+            {
+                "id": 37090028142,
+                "preferredName": "Loris Angelo Labbate",
+                "firstName": "Loris Angelo",
+                "lastName": "Labbate"
+            },
+            {
+                "id": 37320512900,
+                "preferredName": "Sebastien Couet",
+                "firstName": "Sebastien",
+                "lastName": "Couet"
+            },
+            {
+                "id": 38235627500,
+                "preferredName": "Gouri Sankar Kar",
+                "firstName": "Gouri Sankar",
+                "lastName": "Kar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268471",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268471",
+        "articleTitle": "Silicon Technology Innovation Opportunities for Applications at 0.1 to 1 THz Beyond that for Transistors",
+        "volume": null,
+        "issue": null,
+        "startPage": "125",
+        "endPage": "131",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Silicon Technology Innovation Opportunities for Applications at 0.1 to 1 THz Beyond that for Transistors",
+        "authors": [
+            {
+                "id": 37278755000,
+                "preferredName": "Kenneth K. O",
+                "firstName": "Kenneth K.",
+                "lastName": "O"
+            },
+            {
+                "id": 37090031461,
+                "preferredName": "Muhammad Awais",
+                "firstName": "Muhammad",
+                "lastName": "Awais"
+            },
+            {
+                "id": 37090027435,
+                "preferredName": "Salahuddin Tariq",
+                "firstName": "Salahuddin",
+                "lastName": "Tariq"
+            },
+            {
+                "id": 37090029476,
+                "preferredName": "Matthew Stark",
+                "firstName": "Matthew",
+                "lastName": "Stark"
+            },
+            {
+                "id": 37089443291,
+                "preferredName": "Suprovo Ghosh",
+                "firstName": "Suprovo",
+                "lastName": "Ghosh"
+            },
+            {
+                "id": 37090028812,
+                "preferredName": "Farooq Muhammad Musab",
+                "firstName": "Farooq Muhammad",
+                "lastName": "Musab"
+            },
+            {
+                "id": 37086378358,
+                "preferredName": "Behnam Pouya",
+                "firstName": "Behnam",
+                "lastName": "Pouya"
+            },
+            {
+                "id": 37089801204,
+                "preferredName": "Haidong Guo",
+                "firstName": "Haidong",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37090028137,
+                "preferredName": "Goutham Murugesan",
+                "firstName": "Goutham",
+                "lastName": "Murugesan"
+            },
+            {
+                "id": 37088822893,
+                "preferredName": "Suhwan Lee",
+                "firstName": "Suhwan",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37090028846,
+                "preferredName": "Sarfraz Shariff",
+                "firstName": "Sarfraz",
+                "lastName": "Shariff"
+            },
+            {
+                "id": 37090030961,
+                "preferredName": "Walter Sosa Portillo",
+                "firstName": "Walter Sosa",
+                "lastName": "Portillo"
+            },
+            {
+                "id": 37089926454,
+                "preferredName": "Frank Zhang",
+                "firstName": "Frank",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268529",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268529",
+        "articleTitle": "ESSDERC Keynote Speakers",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "ESSDERC Keynote Speakers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268537",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268537",
+        "articleTitle": "Joint Plenary Speakers",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Joint Plenary Speakers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268541",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268541",
+        "articleTitle": "Chairs\u2019 Message",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Chairs\u2019 Message",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268543",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268543",
+        "articleTitle": "ESSDERC 2023 Cover Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "ESSDERC 2023 Cover Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268531",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268531",
+        "articleTitle": "Copyright Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Copyright Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268526",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268526",
+        "articleTitle": "ESSDERC 2023 Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "ESSDERC 2023 Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268473",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268473",
+        "articleTitle": "Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "vi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268550",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268550",
+        "articleTitle": "Committees",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "Committees",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268574",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268574",
+        "articleTitle": "ESSDERC 2023 Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "xxv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "ESSDERC 2023 Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268482",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268482",
+        "articleTitle": "ESSDERC 2023 Panel Discussion",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "xiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "ESSDERC 2023 Panel Discussion",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10268496",
+        "doi": "10.1109/ESSDERC59256.2023.10268563",
+        "publicationYear": "2023",
+        "publicationDate": "11-14 Sept. 2023",
+        "articleNumber": "10268563",
+        "articleTitle": "ESSDERC 2023 Program",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "xc",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "ESSDERC 2023 - IEEE 53rd European Solid-State Device Research Conference (ESSDERC)",
+        "highlightedTitle": "ESSDERC 2023 Program",
+        "authors": []
+    }
+]

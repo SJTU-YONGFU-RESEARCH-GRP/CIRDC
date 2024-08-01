@@ -1,0 +1,343 @@
+[
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.8",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069298",
+        "articleTitle": "SamplePGO - The Power of Profile Guided Optimizations without the Usability Burden",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "SamplePGO - The Power of Profile Guided Optimizations without the Usability Burden",
+        "authors": [
+            {
+                "id": 37085474317,
+                "preferredName": "Diego Novillo",
+                "firstName": "Diego",
+                "lastName": "Novillo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.10",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069297",
+        "articleTitle": "Coordinating GPU Threads for OpenMP 4.0 in LLVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "Coordinating GPU Threads for OpenMP 4.0 in LLVM",
+        "authors": [
+            {
+                "id": 37391996700,
+                "preferredName": "Carlo Bertolli",
+                "firstName": "Carlo",
+                "lastName": "Bertolli"
+            },
+            {
+                "id": 37545834500,
+                "preferredName": "Samuel F. Antao",
+                "firstName": "Samuel F.",
+                "lastName": "Antao"
+            },
+            {
+                "id": 37362532000,
+                "preferredName": "Alexandre E. Eichenberger",
+                "firstName": "Alexandre E.",
+                "lastName": "Eichenberger"
+            },
+            {
+                "id": 37087442581,
+                "preferredName": "Kevin OBrien Zehra Sura",
+                "firstName": "Kevin OBrien Zehra",
+                "lastName": "Sura"
+            },
+            {
+                "id": 37085575410,
+                "preferredName": "Arpith C. Jacob",
+                "firstName": "Arpith C.",
+                "lastName": "Jacob"
+            },
+            {
+                "id": 37896236400,
+                "preferredName": "Tong Chen",
+                "firstName": "Tong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087442514,
+                "preferredName": "Olivier Sallenave",
+                "firstName": "Olivier",
+                "lastName": "Sallenave"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.9",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069296",
+        "articleTitle": "PACXX: Towards a Unified Programming Model for Programming Accelerators Using C++14",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "PACXX: Towards a Unified Programming Model for Programming Accelerators Using C++14",
+        "authors": [
+            {
+                "id": 37085426504,
+                "preferredName": "Michael Haidl",
+                "firstName": "Michael",
+                "lastName": "Haidl"
+            },
+            {
+                "id": 37282778400,
+                "preferredName": "Sergei Gorlatch",
+                "firstName": "Sergei",
+                "lastName": "Gorlatch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.7",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069300",
+        "articleTitle": "Towards Providing Low-Overhead Data Race Detection for Large OpenMP Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "Towards Providing Low-Overhead Data Race Detection for Large OpenMP Applications",
+        "authors": [
+            {
+                "id": 38468891600,
+                "preferredName": "Joachim Protze",
+                "firstName": "Joachim",
+                "lastName": "Protze"
+            },
+            {
+                "id": 37085594519,
+                "preferredName": "Simone Atzeni",
+                "firstName": "Simone",
+                "lastName": "Atzeni"
+            },
+            {
+                "id": 37534013900,
+                "preferredName": "Dong H. Ahn",
+                "firstName": "Dong H.",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37290317700,
+                "preferredName": "Martin Schulz",
+                "firstName": "Martin",
+                "lastName": "Schulz"
+            },
+            {
+                "id": 37283850200,
+                "preferredName": "Ganesh Gopalakrishnan",
+                "firstName": "Ganesh",
+                "lastName": "Gopalakrishnan"
+            },
+            {
+                "id": 37960082200,
+                "preferredName": "Matthias S. M\u00fcller",
+                "firstName": "Matthias S.",
+                "lastName": "M\u00fcller"
+            },
+            {
+                "id": 37540800800,
+                "preferredName": "Ignacio Laguna",
+                "firstName": "Ignacio",
+                "lastName": "Laguna"
+            },
+            {
+                "id": 37085707156,
+                "preferredName": "Zvonimir Rakamaric",
+                "firstName": "Zvonimir",
+                "lastName": "Rakamaric"
+            },
+            {
+                "id": 37697637100,
+                "preferredName": "Greg L. Lee",
+                "firstName": "Greg L.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.6",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069299",
+        "articleTitle": "Architecture-Independent Modeling of Intra-Node Data Movement",
+        "volume": null,
+        "issue": null,
+        "startPage": "29",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "Architecture-Independent Modeling of Intra-Node Data Movement",
+        "authors": [
+            {
+                "id": 38666690800,
+                "preferredName": "Eric Anger",
+                "firstName": "Eric",
+                "lastName": "Anger"
+            },
+            {
+                "id": 37265490400,
+                "preferredName": "Sudhakar Yalamanchili",
+                "firstName": "Sudhakar",
+                "lastName": "Yalamanchili"
+            },
+            {
+                "id": 37281858700,
+                "preferredName": "Scott Pakin",
+                "firstName": "Scott",
+                "lastName": "Pakin"
+            },
+            {
+                "id": 37282708700,
+                "preferredName": "Patrick McCormick",
+                "firstName": "Patrick",
+                "lastName": "McCormick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.4",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069295",
+        "articleTitle": "Program Committee Members",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "Program Committee Members",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.3",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069294",
+        "articleTitle": "Foreword",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "Foreword",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.5",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069293",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.1",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069191",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.2",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069192",
+        "articleTitle": "Copyright Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "ii",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "Copyright Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7068091",
+        "doi": "10.1109/LLVM-HPC.2014.11",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7069301",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 LLVM Compiler Infrastructure in HPC",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

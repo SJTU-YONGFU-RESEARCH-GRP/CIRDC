@@ -1,0 +1,392 @@
+[
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307067",
+        "articleTitle": "Exploring Hybrid MPI+Kokkos Tasks Programming Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "66",
+        "endPage": "73",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "Exploring Hybrid MPI+Kokkos Tasks Programming Model",
+        "authors": [
+            {
+                "id": 37088599400,
+                "preferredName": "Samuel Khuvis",
+                "firstName": "Samuel",
+                "lastName": "Khuvis"
+            },
+            {
+                "id": 37369837800,
+                "preferredName": "Karen Tomko",
+                "firstName": "Karen",
+                "lastName": "Tomko"
+            },
+            {
+                "id": 37086027960,
+                "preferredName": "Jahanzeb Hashmi",
+                "firstName": "Jahanzeb",
+                "lastName": "Hashmi"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K. Panda",
+                "firstName": "Dhabaleswar K.",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307002",
+        "articleTitle": "An Implicitly Parallel Meshfree Solver in Regent",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "54",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "An Implicitly Parallel Meshfree Solver in Regent",
+        "authors": [
+            {
+                "id": 37088598970,
+                "preferredName": "Rupanshu Soi",
+                "firstName": "Rupanshu",
+                "lastName": "Soi"
+            },
+            {
+                "id": 37088599926,
+                "preferredName": "Nischay Ram Mamidi",
+                "firstName": "Nischay Ram",
+                "lastName": "Mamidi"
+            },
+            {
+                "id": 38551619900,
+                "preferredName": "Elliott Slaughter",
+                "firstName": "Elliott",
+                "lastName": "Slaughter"
+            },
+            {
+                "id": 37088599187,
+                "preferredName": "Kumar Prasun",
+                "firstName": "Kumar",
+                "lastName": "Prasun"
+            },
+            {
+                "id": 37088598643,
+                "preferredName": "Anil Nemili",
+                "firstName": "Anil",
+                "lastName": "Nemili"
+            },
+            {
+                "id": 37088598976,
+                "preferredName": "S.M. Deshpande",
+                "firstName": "S.M.",
+                "lastName": "Deshpande"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307012",
+        "articleTitle": "TaskTorrent: a Lightweight Distributed Task-Based Runtime System in C++",
+        "volume": null,
+        "issue": null,
+        "startPage": "16",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "TaskTorrent: a Lightweight Distributed Task-Based Runtime System in C++",
+        "authors": [
+            {
+                "id": 37086351018,
+                "preferredName": "L\u00e9opold Cambier",
+                "firstName": "L\u00e9opold",
+                "lastName": "Cambier"
+            },
+            {
+                "id": 37088601650,
+                "preferredName": "Yizhou Qian",
+                "firstName": "Yizhou",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37698256100,
+                "preferredName": "Eric Darve",
+                "firstName": "Eric",
+                "lastName": "Darve"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306983",
+        "articleTitle": "Hedgehog: Understandable Scheduler-Free Heterogeneous Asynchronous Multithreaded Data-Flow Graphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "Hedgehog: Understandable Scheduler-Free Heterogeneous Asynchronous Multithreaded Data-Flow Graphs",
+        "authors": [
+            {
+                "id": 37088599630,
+                "preferredName": "Alexandre Bardakoff",
+                "firstName": "Alexandre",
+                "lastName": "Bardakoff"
+            },
+            {
+                "id": 38274000300,
+                "preferredName": "Bruno Bachelet",
+                "firstName": "Bruno",
+                "lastName": "Bachelet"
+            },
+            {
+                "id": 37085531936,
+                "preferredName": "Timothy Blattner",
+                "firstName": "Timothy",
+                "lastName": "Blattner"
+            },
+            {
+                "id": 37085538602,
+                "preferredName": "Walid Keyrouz",
+                "firstName": "Walid",
+                "lastName": "Keyrouz"
+            },
+            {
+                "id": 37088601149,
+                "preferredName": "Gerson C. Kroiz",
+                "firstName": "Gerson C.",
+                "lastName": "Kroiz"
+            },
+            {
+                "id": 37088600026,
+                "preferredName": "Lo\u00efc Yon",
+                "firstName": "Lo\u00efc",
+                "lastName": "Yon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307099",
+        "articleTitle": "Evaluation of Multiple HPC Parallelization Frameworks in a Shallow Water Proxy Application with Multi-Rate Local Time Stepping",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "Evaluation of Multiple HPC Parallelization Frameworks in a Shallow Water Proxy Application with Multi-Rate Local Time Stepping",
+        "authors": [
+            {
+                "id": 37088599074,
+                "preferredName": "Martin Bogusz",
+                "firstName": "Martin",
+                "lastName": "Bogusz"
+            },
+            {
+                "id": 37086515625,
+                "preferredName": "Philipp Samfass",
+                "firstName": "Philipp",
+                "lastName": "Samfass"
+            },
+            {
+                "id": 37086144005,
+                "preferredName": "Alexander P\u00f6ppl",
+                "firstName": "Alexander",
+                "lastName": "P\u00f6ppl"
+            },
+            {
+                "id": 37086029513,
+                "preferredName": "Jannis Klinkenberg",
+                "firstName": "Jannis",
+                "lastName": "Klinkenberg"
+            },
+            {
+                "id": 37994497900,
+                "preferredName": "Michael Bader",
+                "firstName": "Michael",
+                "lastName": "Bader"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306986",
+        "articleTitle": "HOOVER: Leveraging OpenSHMEM for High Performance, Flexible Streaming Graph Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "55",
+        "endPage": "65",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "HOOVER: Leveraging OpenSHMEM for High Performance, Flexible Streaming Graph Applications",
+        "authors": [
+            {
+                "id": 37072316300,
+                "preferredName": "Max Grossman",
+                "firstName": "Max",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 37085651113,
+                "preferredName": "Howard Pritchard",
+                "firstName": "Howard",
+                "lastName": "Pritchard"
+            },
+            {
+                "id": 37303054500,
+                "preferredName": "Steve Poole",
+                "firstName": "Steve",
+                "lastName": "Poole"
+            },
+            {
+                "id": 37389286300,
+                "preferredName": "Vivek Sarkar",
+                "firstName": "Vivek",
+                "lastName": "Sarkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306953",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307014",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307109",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307152",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306951",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306855",
+        "doi": "10.1109/PAWATM51920.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306971",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "75",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 3rd Annual Parallel Applications Workshop: Alternatives To MPI+X (PAW-ATM)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

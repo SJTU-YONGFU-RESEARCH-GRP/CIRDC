@@ -1,0 +1,4983 @@
+[
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429035",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429035",
+        "articleTitle": "A 22nm FDSOI Technology Optimized for RF/mmWave Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "72",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 22nm FDSOI Technology Optimized for RF/mmWave Applications",
+        "authors": [
+            {
+                "id": 37393945700,
+                "preferredName": "S.N. Ong",
+                "firstName": "S.N.",
+                "lastName": "Ong"
+            },
+            {
+                "id": 37086113580,
+                "preferredName": "S. Lehmann",
+                "firstName": "S.",
+                "lastName": "Lehmann"
+            },
+            {
+                "id": 37085788268,
+                "preferredName": "W.H. Chow",
+                "firstName": "W.H.",
+                "lastName": "Chow"
+            },
+            {
+                "id": 37086160254,
+                "preferredName": "C. Zhang",
+                "firstName": "C.",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37596338000,
+                "preferredName": "C. Schippel",
+                "firstName": "C.",
+                "lastName": "Schippel"
+            },
+            {
+                "id": 37275152600,
+                "preferredName": "L.H.K. Chan",
+                "firstName": "L.H.K.",
+                "lastName": "Chan"
+            },
+            {
+                "id": 37085381099,
+                "preferredName": "Y. Andee",
+                "firstName": "Y.",
+                "lastName": "Andee"
+            },
+            {
+                "id": 37088722930,
+                "preferredName": "M. Hauschildt",
+                "firstName": "M.",
+                "lastName": "Hauschildt"
+            },
+            {
+                "id": 37088730224,
+                "preferredName": "K.K.S. Tan",
+                "firstName": "K.K.S.",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37293773800,
+                "preferredName": "J. Watts",
+                "firstName": "J.",
+                "lastName": "Watts"
+            },
+            {
+                "id": 37088743118,
+                "preferredName": "C.K. Lim",
+                "firstName": "C.K.",
+                "lastName": "Lim"
+            },
+            {
+                "id": 37086431344,
+                "preferredName": "A. Divay",
+                "firstName": "A.",
+                "lastName": "Divay"
+            },
+            {
+                "id": 37085612461,
+                "preferredName": "J.S. Wong",
+                "firstName": "J.S.",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37087053563,
+                "preferredName": "Z. Zhao",
+                "firstName": "Z.",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37086092522,
+                "preferredName": "M. Govindarajan",
+                "firstName": "M.",
+                "lastName": "Govindarajan"
+            },
+            {
+                "id": 37268268500,
+                "preferredName": "C. Schwan",
+                "firstName": "C.",
+                "lastName": "Schwan"
+            },
+            {
+                "id": 37085780188,
+                "preferredName": "A. Huschka",
+                "firstName": "A.",
+                "lastName": "Huschka"
+            },
+            {
+                "id": 37088731034,
+                "preferredName": "A. Bcllaouar",
+                "firstName": "A.",
+                "lastName": "Bcllaouar"
+            },
+            {
+                "id": 37088740110,
+                "preferredName": "W. LOo",
+                "firstName": "W.",
+                "lastName": "LOo"
+            },
+            {
+                "id": 37543153900,
+                "preferredName": "J. Mazurier",
+                "firstName": "J.",
+                "lastName": "Mazurier"
+            },
+            {
+                "id": 37060898200,
+                "preferredName": "C. Grass",
+                "firstName": "C.",
+                "lastName": "Grass"
+            },
+            {
+                "id": 37086100367,
+                "preferredName": "R. Taylor",
+                "firstName": "R.",
+                "lastName": "Taylor"
+            },
+            {
+                "id": 37277039300,
+                "preferredName": "K.W.J. Chew",
+                "firstName": "K.W.J.",
+                "lastName": "Chew"
+            },
+            {
+                "id": 37326045900,
+                "preferredName": "S. Embabi",
+                "firstName": "S.",
+                "lastName": "Embabi"
+            },
+            {
+                "id": 37268317600,
+                "preferredName": "G. Workman",
+                "firstName": "G.",
+                "lastName": "Workman"
+            },
+            {
+                "id": 37399031100,
+                "preferredName": "A. Pakfar",
+                "firstName": "A.",
+                "lastName": "Pakfar"
+            },
+            {
+                "id": 37069948000,
+                "preferredName": "S. Morvan",
+                "firstName": "S.",
+                "lastName": "Morvan"
+            },
+            {
+                "id": 37085727684,
+                "preferredName": "K. Sundaram",
+                "firstName": "K.",
+                "lastName": "Sundaram"
+            },
+            {
+                "id": 37088730569,
+                "preferredName": "M. T. Lau",
+                "firstName": "M. T.",
+                "lastName": "Lau"
+            },
+            {
+                "id": 37086098441,
+                "preferredName": "B. Rice",
+                "firstName": "B.",
+                "lastName": "Rice"
+            },
+            {
+                "id": 37284268300,
+                "preferredName": "D. Harame",
+                "firstName": "D.",
+                "lastName": "Harame"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428981",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428981",
+        "articleTitle": "A 14.8 dBm 20.3 dB Power Amplifier for D-band Applications in 40 nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "232",
+        "endPage": "235",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 14.8 dBm 20.3 dB Power Amplifier for D-band Applications in 40 nm CMOS",
+        "authors": [
+            {
+                "id": 37089147242,
+                "preferredName": "Dragan Simic",
+                "firstName": "Dragan",
+                "lastName": "Simic"
+            },
+            {
+                "id": 37427206700,
+                "preferredName": "Patrick Reynaert",
+                "firstName": "Patrick",
+                "lastName": "Reynaert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428833",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428833",
+        "articleTitle": "A Ka-band CMOS Digital-Controlled Phase-Invariant Variable Gain Amplifier with 4-bit Tuning Range and 0.5-dB Resolution",
+        "volume": null,
+        "issue": null,
+        "startPage": "152",
+        "endPage": "155",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Ka-band CMOS Digital-Controlled Phase-Invariant Variable Gain Amplifier with 4-bit Tuning Range and 0.5-dB Resolution",
+        "authors": [
+            {
+                "id": 37086430636,
+                "preferredName": "Yongran Yi",
+                "firstName": "Yongran",
+                "lastName": "Yi"
+            },
+            {
+                "id": 37855097800,
+                "preferredName": "Dixian Zhao",
+                "firstName": "Dixian",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37276505600,
+                "preferredName": "Xiaohu You",
+                "firstName": "Xiaohu",
+                "lastName": "You"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429020",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429020",
+        "articleTitle": "A 29\u201337 GHz BiCMOS Low-Noise Amplifier with 28.5 dB Peak Gain and 3.1-4.1 dB NF",
+        "volume": null,
+        "issue": null,
+        "startPage": "288",
+        "endPage": "291",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 29\u201337 GHz BiCMOS Low-Noise Amplifier with 28.5 dB Peak Gain and 3.1-4.1 dB NF",
+        "authors": [
+            {
+                "id": 37086000803,
+                "preferredName": "Zhe Chen",
+                "firstName": "Zhe",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37596040800,
+                "preferredName": "Hao Gao",
+                "firstName": "Hao",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37273000600,
+                "preferredName": "Domine Leenaerts",
+                "firstName": "Domine",
+                "lastName": "Leenaerts"
+            },
+            {
+                "id": 37269773900,
+                "preferredName": "Dusan Milosevic",
+                "firstName": "Dusan",
+                "lastName": "Milosevic"
+            },
+            {
+                "id": 37304060200,
+                "preferredName": "Peter Baltus",
+                "firstName": "Peter",
+                "lastName": "Baltus"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429036",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429036",
+        "articleTitle": "A Compact 75 GHz LNA with 20 dB Gain and 4 dB Noise Figure in 22nm FinFET CMOS Technology",
+        "volume": null,
+        "issue": null,
+        "startPage": "284",
+        "endPage": "287",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Compact 75 GHz LNA with 20 dB Gain and 4 dB Noise Figure in 22nm FinFET CMOS Technology",
+        "authors": [
+            {
+                "id": 37535065900,
+                "preferredName": "Woorim Shin",
+                "firstName": "Woorim",
+                "lastName": "Shin"
+            },
+            {
+                "id": 37596693700,
+                "preferredName": "Steven Callender",
+                "firstName": "Steven",
+                "lastName": "Callender"
+            },
+            {
+                "id": 37294497900,
+                "preferredName": "Stefano Pellerano",
+                "firstName": "Stefano",
+                "lastName": "Pellerano"
+            },
+            {
+                "id": 37355157500,
+                "preferredName": "Christopher Hull",
+                "firstName": "Christopher",
+                "lastName": "Hull"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428974",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428974",
+        "articleTitle": "Low-loss and Small-size 28 GHz CMOS SPDT Switches using Switched Inductor",
+        "volume": null,
+        "issue": null,
+        "startPage": "148",
+        "endPage": "151",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Low-loss and Small-size 28 GHz CMOS SPDT Switches using Switched Inductor",
+        "authors": [
+            {
+                "id": 37086429025,
+                "preferredName": "Wonho Lee",
+                "firstName": "Wonho",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37278990200,
+                "preferredName": "Songcheol Hong",
+                "firstName": "Songcheol",
+                "lastName": "Hong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428969",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428969",
+        "articleTitle": "Fully-Integrated Non-Magnetic 180nm SOI Circulator with > 1W P1dB, >+50dBm IIP3 and High Isolation Across 1.85 VSWR",
+        "volume": null,
+        "issue": null,
+        "startPage": "104",
+        "endPage": "107",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Fully-Integrated Non-Magnetic 180nm SOI Circulator with > 1W P1dB, >+50dBm IIP3 and High Isolation Across 1.85 VSWR",
+        "authors": [
+            {
+                "id": 37086190850,
+                "preferredName": "Aravind Nagulu",
+                "firstName": "Aravind",
+                "lastName": "Nagulu"
+            },
+            {
+                "id": 37272863900,
+                "preferredName": "Andrea Al\u00f9",
+                "firstName": "Andrea",
+                "lastName": "Al\u00f9"
+            },
+            {
+                "id": 37294429900,
+                "preferredName": "Harish Krishnaswamy",
+                "firstName": "Harish",
+                "lastName": "Krishnaswamy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429010",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429010",
+        "articleTitle": "Full Duplex Circulator-Receiver Phased Array Employing Self-Interference Cancellation via Beamforming",
+        "volume": null,
+        "issue": null,
+        "startPage": "108",
+        "endPage": "111",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Full Duplex Circulator-Receiver Phased Array Employing Self-Interference Cancellation via Beamforming",
+        "authors": [
+            {
+                "id": 37085864103,
+                "preferredName": "Mahmood Baraani Dastjerdi",
+                "firstName": "Mahmood Baraani",
+                "lastName": "Dastjerdi"
+            },
+            {
+                "id": 37085701452,
+                "preferredName": "Negar Reiskarimian",
+                "firstName": "Negar",
+                "lastName": "Reiskarimian"
+            },
+            {
+                "id": 37085455388,
+                "preferredName": "Tingjun Chen",
+                "firstName": "Tingjun",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37272990100,
+                "preferredName": "Gil Zussman",
+                "firstName": "Gil",
+                "lastName": "Zussman"
+            },
+            {
+                "id": 37294429900,
+                "preferredName": "Harish Krishnaswamy",
+                "firstName": "Harish",
+                "lastName": "Krishnaswamy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429040",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429040",
+        "articleTitle": "Circuit Techniques for Enhanced Channel Selectivity in Passive Mixer-First Receivers",
+        "volume": null,
+        "issue": null,
+        "startPage": "292",
+        "endPage": "295",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Circuit Techniques for Enhanced Channel Selectivity in Passive Mixer-First Receivers",
+        "authors": [
+            {
+                "id": 37086432487,
+                "preferredName": "Edward C. Szoka",
+                "firstName": "Edward C.",
+                "lastName": "Szoka"
+            },
+            {
+                "id": 37282515600,
+                "preferredName": "Alyosha Molnar",
+                "firstName": "Alyosha",
+                "lastName": "Molnar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428966",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428966",
+        "articleTitle": "Truly Balanced K-Band Push-Push Frequency Doubler",
+        "volume": null,
+        "issue": null,
+        "startPage": "348",
+        "endPage": "351",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Truly Balanced K-Band Push-Push Frequency Doubler",
+        "authors": [
+            {
+                "id": 37085499768,
+                "preferredName": "Soenke Vehring",
+                "firstName": "Soenke",
+                "lastName": "Vehring"
+            },
+            {
+                "id": 37282337800,
+                "preferredName": "Georg Boeck",
+                "firstName": "Georg",
+                "lastName": "Boeck"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428973",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428973",
+        "articleTitle": "A K-Band Power Amplifier with 26-dBm Output Power and 34% PAE with Novel Inductance-based Neutralization in 90-nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "228",
+        "endPage": "231",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A K-Band Power Amplifier with 26-dBm Output Power and 34% PAE with Novel Inductance-based Neutralization in 90-nm CMOS",
+        "authors": [
+            {
+                "id": 37086426408,
+                "preferredName": "Wei-Cheng Huang",
+                "firstName": "Wei-Cheng",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086111546,
+                "preferredName": "Jung-Lin Lin",
+                "firstName": "Jung-Lin",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37068279700,
+                "preferredName": "Yu-Hsuan Lin",
+                "firstName": "Yu-Hsuan",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37280092300,
+                "preferredName": "Huei Wang",
+                "firstName": "Huei",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428977",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428977",
+        "articleTitle": "A True Time Delay-based SiGe Bi-directional T/R Chipset for Large-Scale Wideband Timed Array Antennas",
+        "volume": null,
+        "issue": null,
+        "startPage": "272",
+        "endPage": "275",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A True Time Delay-based SiGe Bi-directional T/R Chipset for Large-Scale Wideband Timed Array Antennas",
+        "authors": [
+            {
+                "id": 37085626256,
+                "preferredName": "Moon-Kyu Cho",
+                "firstName": "Moon-Kyu",
+                "lastName": "Cho"
+            },
+            {
+                "id": 37085396076,
+                "preferredName": "Ickhyun Song",
+                "firstName": "Ickhyun",
+                "lastName": "Song"
+            },
+            {
+                "id": 37272709900,
+                "preferredName": "John D. Cressler",
+                "firstName": "John D.",
+                "lastName": "Cressler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428985",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428985",
+        "articleTitle": "A 28GHz CMOS Phased-Array Transceiver Featuring Gain Invariance Based on LO Phase Shifting Architecture with 0.1-Degree Beam-Steering Resolution for 5G New Radio",
+        "volume": null,
+        "issue": null,
+        "startPage": "56",
+        "endPage": "59",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 28GHz CMOS Phased-Array Transceiver Featuring Gain Invariance Based on LO Phase Shifting Architecture with 0.1-Degree Beam-Steering Resolution for 5G New Radio",
+        "authors": [
+            {
+                "id": 37085666696,
+                "preferredName": "Jian Pang",
+                "firstName": "Jian",
+                "lastName": "Pang"
+            },
+            {
+                "id": 37061009300,
+                "preferredName": "Rui Wu",
+                "firstName": "Rui",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37086051849,
+                "preferredName": "Yun Wang",
+                "firstName": "Yun",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085657541,
+                "preferredName": "Masato Dome",
+                "firstName": "Masato",
+                "lastName": "Dome"
+            },
+            {
+                "id": 37085661258,
+                "preferredName": "Hisashi Kato",
+                "firstName": "Hisashi",
+                "lastName": "Kato"
+            },
+            {
+                "id": 37086351220,
+                "preferredName": "Hongye Huang",
+                "firstName": "Hongye",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085341661,
+                "preferredName": "Aravind Tharayil Narayanan",
+                "firstName": "Aravind Tharayil",
+                "lastName": "Narayanan"
+            },
+            {
+                "id": 37085734252,
+                "preferredName": "Hanli Liu",
+                "firstName": "Hanli",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085880042,
+                "preferredName": "Bangan Liu",
+                "firstName": "Bangan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086423301,
+                "preferredName": "Takeshi Nakamura",
+                "firstName": "Takeshi",
+                "lastName": "Nakamura"
+            },
+            {
+                "id": 37086022234,
+                "preferredName": "Takuya Fujimura",
+                "firstName": "Takuya",
+                "lastName": "Fujimura"
+            },
+            {
+                "id": 37086429945,
+                "preferredName": "Masaru Kawabuchi",
+                "firstName": "Masaru",
+                "lastName": "Kawabuchi"
+            },
+            {
+                "id": 37086422983,
+                "preferredName": "Ryo Kubozoe",
+                "firstName": "Ryo",
+                "lastName": "Kubozoe"
+            },
+            {
+                "id": 37089054967,
+                "preferredName": "Tsuyoshi Miura",
+                "firstName": "Tsuyoshi",
+                "lastName": "Miura"
+            },
+            {
+                "id": 37086430863,
+                "preferredName": "Daiki Matsumoto",
+                "firstName": "Daiki",
+                "lastName": "Matsumoto"
+            },
+            {
+                "id": 37541063600,
+                "preferredName": "Naoki Oshima",
+                "firstName": "Naoki",
+                "lastName": "Oshima"
+            },
+            {
+                "id": 37085838823,
+                "preferredName": "Keiichi Motoi",
+                "firstName": "Keiichi",
+                "lastName": "Motoi"
+            },
+            {
+                "id": 37268108300,
+                "preferredName": "Shinichi Hori",
+                "firstName": "Shinichi",
+                "lastName": "Hori"
+            },
+            {
+                "id": 37283097800,
+                "preferredName": "Kazuaki Kunihiro",
+                "firstName": "Kazuaki",
+                "lastName": "Kunihiro"
+            },
+            {
+                "id": 37287486000,
+                "preferredName": "Tomoya Kaneko",
+                "firstName": "Tomoya",
+                "lastName": "Kaneko"
+            },
+            {
+                "id": 37280639100,
+                "preferredName": "Kenichi Okada",
+                "firstName": "Kenichi",
+                "lastName": "Okada"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428987",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428987",
+        "articleTitle": "Ka-Band CMOS 360\u00b0 Reflective-Type Phase Shifter with \u00b10.2 dB Insertion Loss Variation Using Triple-Resonating Load and Dual-Voltage Control Techniques",
+        "volume": null,
+        "issue": null,
+        "startPage": "140",
+        "endPage": "143",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Ka-Band CMOS 360\u00b0 Reflective-Type Phase Shifter with \u00b10.2 dB Insertion Loss Variation Using Triple-Resonating Load and Dual-Voltage Control Techniques",
+        "authors": [
+            {
+                "id": 37086425451,
+                "preferredName": "Peng Gu",
+                "firstName": "Peng",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37855097800,
+                "preferredName": "Dixian Zhao",
+                "firstName": "Dixian",
+                "lastName": "Zhao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428989",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428989",
+        "articleTitle": "A Dual-Polarized Dual-Beam 28 GHz Beamformer Chip Demonstrating a 24 Gbps 64-QAM 2\u00d72 MIMO Link",
+        "volume": null,
+        "issue": null,
+        "startPage": "64",
+        "endPage": "67",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Dual-Polarized Dual-Beam 28 GHz Beamformer Chip Demonstrating a 24 Gbps 64-QAM 2\u00d72 MIMO Link",
+        "authors": [
+            {
+                "id": 37085870980,
+                "preferredName": "Kerim Kibaroglu",
+                "firstName": "Kerim",
+                "lastName": "Kibaroglu"
+            },
+            {
+                "id": 37543117600,
+                "preferredName": "Mustafa Sayginer",
+                "firstName": "Mustafa",
+                "lastName": "Sayginer"
+            },
+            {
+                "id": 37085583895,
+                "preferredName": "Ahmed Nafe",
+                "firstName": "Ahmed",
+                "lastName": "Nafe"
+            },
+            {
+                "id": 37276327300,
+                "preferredName": "Gabriel M. Rebeiz",
+                "firstName": "Gabriel M.",
+                "lastName": "Rebeiz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428980",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428980",
+        "articleTitle": "A 60 GHz 360\u00b0 Phase Shifter with 2.7\u00b0 Phase Resolution and 1.4\u00b0 RMS Phase Error in a 40-nm CMOS Technology",
+        "volume": null,
+        "issue": null,
+        "startPage": "144",
+        "endPage": "147",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 60 GHz 360\u00b0 Phase Shifter with 2.7\u00b0 Phase Resolution and 1.4\u00b0 RMS Phase Error in a 40-nm CMOS Technology",
+        "authors": [
+            {
+                "id": 37085486994,
+                "preferredName": "Bindi Wang",
+                "firstName": "Bindi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37596040800,
+                "preferredName": "Hao Gao",
+                "firstName": "Hao",
+                "lastName": "Gao"
+            },
+            {
+                "id": 38358712400,
+                "preferredName": "M. K. Matters-Kammerer",
+                "firstName": "M. K.",
+                "lastName": "Matters-Kammerer"
+            },
+            {
+                "id": 37304060200,
+                "preferredName": "P.G.M. Baltus",
+                "firstName": "P.G.M.",
+                "lastName": "Baltus"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429030",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429030",
+        "articleTitle": "A Continuous-Mode 23.5-41GHz Hybrid Class-F/F-l Power Amplifier with 46% Peak PAE for 5G Massive MIMO Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "220",
+        "endPage": "230",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Continuous-Mode 23.5-41GHz Hybrid Class-F/F-l Power Amplifier with 46% Peak PAE for 5G Massive MIMO Applications",
+        "authors": [
+            {
+                "id": 37085728671,
+                "preferredName": "Tso-Wei Li",
+                "firstName": "Tso-Wei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37538488700,
+                "preferredName": "Hua Wang",
+                "firstName": "Hua",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428970",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428970",
+        "articleTitle": "A Wideband High-Power Multi-Standard 23\u201331 GHz 2\u00d72 Quad Beamformer Chip in SiGe with>15 dBm OP1dB Per Channel",
+        "volume": null,
+        "issue": null,
+        "startPage": "60",
+        "endPage": "63",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Wideband High-Power Multi-Standard 23\u201331 GHz 2\u00d72 Quad Beamformer Chip in SiGe with>15 dBm OP1dB Per Channel",
+        "authors": [
+            {
+                "id": 37085658147,
+                "preferredName": "Berktug Ustundag",
+                "firstName": "Berktug",
+                "lastName": "Ustundag"
+            },
+            {
+                "id": 37085870980,
+                "preferredName": "Kerim Kibaroglu",
+                "firstName": "Kerim",
+                "lastName": "Kibaroglu"
+            },
+            {
+                "id": 37543117600,
+                "preferredName": "Mustafa Sayginer",
+                "firstName": "Mustafa",
+                "lastName": "Sayginer"
+            },
+            {
+                "id": 37276327300,
+                "preferredName": "Gabriel M. Rebeiz",
+                "firstName": "Gabriel M.",
+                "lastName": "Rebeiz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429019",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429019",
+        "articleTitle": "A 120 GHz I/Q Transmitter Front-end in a 40 nm CMOS for Wireless Chip to Chip Communication",
+        "volume": null,
+        "issue": null,
+        "startPage": "192",
+        "endPage": "195",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 120 GHz I/Q Transmitter Front-end in a 40 nm CMOS for Wireless Chip to Chip Communication",
+        "authors": [
+            {
+                "id": 38494286400,
+                "preferredName": "Chae Jun Lee",
+                "firstName": "Chae Jun",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086339861,
+                "preferredName": "Seung Hun Kim",
+                "firstName": "Seung Hun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37958039800,
+                "preferredName": "Hyuk Su Son",
+                "firstName": "Hyuk Su",
+                "lastName": "Son"
+            },
+            {
+                "id": 38469111400,
+                "preferredName": "Dong Min Kang",
+                "firstName": "Dong Min",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37560176400,
+                "preferredName": "Joon Hyung Kim",
+                "firstName": "Joon Hyung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37586719600,
+                "preferredName": "Chul Woo Byeon",
+                "firstName": "Chul Woo",
+                "lastName": "Byeon"
+            },
+            {
+                "id": 37277788500,
+                "preferredName": "Chul Soon Park",
+                "firstName": "Chul Soon",
+                "lastName": "Park"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429001",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429001",
+        "articleTitle": "A 20.7\u201331.8GHz Dual-Mode Voltage Waveform-Shaping Oscillator with 195.8dBc/Hz FoMT in 28nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "216",
+        "endPage": "219",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 20.7\u201331.8GHz Dual-Mode Voltage Waveform-Shaping Oscillator with 195.8dBc/Hz FoMT in 28nm CMOS",
+        "authors": [
+            {
+                "id": 37085888708,
+                "preferredName": "Yiyang Shu",
+                "firstName": "Yiyang",
+                "lastName": "Shu"
+            },
+            {
+                "id": 37085399336,
+                "preferredName": "Huizhen Jenny Qian",
+                "firstName": "Huizhen Jenny",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37532863000,
+                "preferredName": "Xun Luo",
+                "firstName": "Xun",
+                "lastName": "Luo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428832",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428832",
+        "articleTitle": "A Dual-Core 60 GHz Push-Push VCO with Second Harmonic Extraction by Mode Separation",
+        "volume": null,
+        "issue": null,
+        "startPage": "208",
+        "endPage": "211",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Dual-Core 60 GHz Push-Push VCO with Second Harmonic Extraction by Mode Separation",
+        "authors": [
+            {
+                "id": 37543259200,
+                "preferredName": "Vadim Issakov",
+                "firstName": "Vadim",
+                "lastName": "Issakov"
+            },
+            {
+                "id": 38501930300,
+                "preferredName": "Fabio Padovan",
+                "firstName": "Fabio",
+                "lastName": "Padovan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429003",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429003",
+        "articleTitle": "A 5-bit, 0.25 dB Step Variable Attenuator at E-Band",
+        "volume": null,
+        "issue": null,
+        "startPage": "156",
+        "endPage": "159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 5-bit, 0.25 dB Step Variable Attenuator at E-Band",
+        "authors": [
+            {
+                "id": 37537491700,
+                "preferredName": "Tyler N. Ross",
+                "firstName": "Tyler N.",
+                "lastName": "Ross"
+            },
+            {
+                "id": 37400052500,
+                "preferredName": "Kimia T. Ansari",
+                "firstName": "Kimia T.",
+                "lastName": "Ansari"
+            },
+            {
+                "id": 37086428895,
+                "preferredName": "Sam Tiller",
+                "firstName": "Sam",
+                "lastName": "Tiller"
+            },
+            {
+                "id": 37294789100,
+                "preferredName": "Morris Repeta",
+                "firstName": "Morris",
+                "lastName": "Repeta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429015",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429015",
+        "articleTitle": "A 28GHz Packaged Chireix Transmitter with Direct on-Antenna Outphasing Load Modulation Achieving 56%/38% PA Efficiency at Peak/6dB Back-Off Output Power",
+        "volume": null,
+        "issue": null,
+        "startPage": "68",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 28GHz Packaged Chireix Transmitter with Direct on-Antenna Outphasing Load Modulation Achieving 56%/38% PA Efficiency at Peak/6dB Back-Off Output Power",
+        "authors": [
+            {
+                "id": 37085668842,
+                "preferredName": "Sensen Li",
+                "firstName": "Sensen",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085386492,
+                "preferredName": "Taiyun Chi",
+                "firstName": "Taiyun",
+                "lastName": "Chi"
+            },
+            {
+                "id": 37086428239,
+                "preferredName": "Huy Thong Nguyen",
+                "firstName": "Huy Thong",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37086426988,
+                "preferredName": "Tzu-Yuan Huang",
+                "firstName": "Tzu-Yuan",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37538488700,
+                "preferredName": "Hua Wang",
+                "firstName": "Hua",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429021",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429021",
+        "articleTitle": "A \u2212195 dBc/Hz FoMT 20.8-to-28-GHz LC VCO with Transformer-Enhanced 30% Tuning Range in 65-nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "200",
+        "endPage": "203",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A \u2212195 dBc/Hz FoMT 20.8-to-28-GHz LC VCO with Transformer-Enhanced 30% Tuning Range in 65-nm CMOS",
+        "authors": [
+            {
+                "id": 37085810662,
+                "preferredName": "S. Lightbody",
+                "firstName": "S.",
+                "lastName": "Lightbody"
+            },
+            {
+                "id": 38469414400,
+                "preferredName": "A. H. M. Shirazi",
+                "firstName": "A. H. M.",
+                "lastName": "Shirazi"
+            },
+            {
+                "id": 37354877100,
+                "preferredName": "H. Djahanshahi",
+                "firstName": "H.",
+                "lastName": "Djahanshahi"
+            },
+            {
+                "id": 37086111942,
+                "preferredName": "R. Zavari",
+                "firstName": "R.",
+                "lastName": "Zavari"
+            },
+            {
+                "id": 37269465100,
+                "preferredName": "S. Mirabbasi",
+                "firstName": "S.",
+                "lastName": "Mirabbasi"
+            },
+            {
+                "id": 37272375800,
+                "preferredName": "S. Shekhar",
+                "firstName": "S.",
+                "lastName": "Shekhar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428986",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428986",
+        "articleTitle": "A 4.7 mW W-Band LNA with 4.2 dB NF and 12 dB Gain Using Drain to Gate Feedback in 45nm CMOS RFSOI Technology",
+        "volume": null,
+        "issue": null,
+        "startPage": "280",
+        "endPage": "283",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 4.7 mW W-Band LNA with 4.2 dB NF and 12 dB Gain Using Drain to Gate Feedback in 45nm CMOS RFSOI Technology",
+        "authors": [
+            {
+                "id": 38247348500,
+                "preferredName": "Li Gao",
+                "firstName": "Li",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37085818640,
+                "preferredName": "Qian Ma",
+                "firstName": "Qian",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37276327300,
+                "preferredName": "Gabriel M. Rebeiz",
+                "firstName": "Gabriel M.",
+                "lastName": "Rebeiz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429026",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429026",
+        "articleTitle": "Monitoring Architecture for a 76-81GHz Radar Front End",
+        "volume": null,
+        "issue": null,
+        "startPage": "264",
+        "endPage": "267",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Monitoring Architecture for a 76-81GHz Radar Front End",
+        "authors": [
+            {
+                "id": 37706217700,
+                "preferredName": "Karthik Subburaj",
+                "firstName": "Karthik",
+                "lastName": "Subburaj"
+            },
+            {
+                "id": 37300161800,
+                "preferredName": "Brian Ginsburg",
+                "firstName": "Brian",
+                "lastName": "Ginsburg"
+            },
+            {
+                "id": 37086347016,
+                "preferredName": "Pankaj Gupta",
+                "firstName": "Pankaj",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37550377300,
+                "preferredName": "Krishnanshu Dandu",
+                "firstName": "Krishnanshu",
+                "lastName": "Dandu"
+            },
+            {
+                "id": 37973389600,
+                "preferredName": "Sreekiran Samala",
+                "firstName": "Sreekiran",
+                "lastName": "Samala"
+            },
+            {
+                "id": 37086344561,
+                "preferredName": "Dan Breen",
+                "firstName": "Dan",
+                "lastName": "Breen"
+            },
+            {
+                "id": 37086346115,
+                "preferredName": "Karthik Ramasubramanian",
+                "firstName": "Karthik",
+                "lastName": "Ramasubramanian"
+            },
+            {
+                "id": 37088731624,
+                "preferredName": "Tim Davis",
+                "firstName": "Tim",
+                "lastName": "Davis"
+            },
+            {
+                "id": 38274154400,
+                "preferredName": "Zahir Parkar",
+                "firstName": "Zahir",
+                "lastName": "Parkar"
+            },
+            {
+                "id": 37087141565,
+                "preferredName": "Dheeraj Shetty",
+                "firstName": "Dheeraj",
+                "lastName": "Shetty"
+            },
+            {
+                "id": 37086349445,
+                "preferredName": "Rohit Chatterjee",
+                "firstName": "Rohit",
+                "lastName": "Chatterjee"
+            },
+            {
+                "id": 37085348087,
+                "preferredName": "Zeshan Ahmad",
+                "firstName": "Zeshan",
+                "lastName": "Ahmad"
+            },
+            {
+                "id": 37088734019,
+                "preferredName": "Neeraj Navak",
+                "firstName": "Neeraj",
+                "lastName": "Navak"
+            },
+            {
+                "id": 37533152600,
+                "preferredName": "Meysam Moallem",
+                "firstName": "Meysam",
+                "lastName": "Moallem"
+            },
+            {
+                "id": 37293929600,
+                "preferredName": "Eunyoung Seok",
+                "firstName": "Eunyoung",
+                "lastName": "Seok"
+            },
+            {
+                "id": 37286215900,
+                "preferredName": "Karan Bhatia",
+                "firstName": "Karan",
+                "lastName": "Bhatia"
+            },
+            {
+                "id": 37088723758,
+                "preferredName": "Shankar Ram Narayanamoorthy",
+                "firstName": "Shankar Ram",
+                "lastName": "Narayanamoorthy"
+            },
+            {
+                "id": 37088737376,
+                "preferredName": "Anjan Prasad Easwaran",
+                "firstName": "Anjan Prasad",
+                "lastName": "Easwaran"
+            },
+            {
+                "id": 37088742248,
+                "preferredName": "Tom Altus",
+                "firstName": "Tom",
+                "lastName": "Altus"
+            },
+            {
+                "id": 37710980900,
+                "preferredName": "Sriram Murali",
+                "firstName": "Sriram",
+                "lastName": "Murali"
+            },
+            {
+                "id": 37277059200,
+                "preferredName": "Vito Giannini",
+                "firstName": "Vito",
+                "lastName": "Giannini"
+            },
+            {
+                "id": 38553578700,
+                "preferredName": "Indu Prathapan",
+                "firstName": "Indu",
+                "lastName": "Prathapan"
+            },
+            {
+                "id": 38236299700,
+                "preferredName": "Sachin Bharadwaj",
+                "firstName": "Sachin",
+                "lastName": "Bharadwaj"
+            },
+            {
+                "id": 37644296100,
+                "preferredName": "Sumeer Bhatara",
+                "firstName": "Sumeer",
+                "lastName": "Bhatara"
+            },
+            {
+                "id": 37267009900,
+                "preferredName": "Venkatesh Srinivasan",
+                "firstName": "Venkatesh",
+                "lastName": "Srinivasan"
+            },
+            {
+                "id": 37085985130,
+                "preferredName": "Sai Gunaranjan",
+                "firstName": "Sai",
+                "lastName": "Gunaranjan"
+            },
+            {
+                "id": 37284527100,
+                "preferredName": "Sundarraian Rangachari",
+                "firstName": "Sundarraian",
+                "lastName": "Rangachari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428993",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428993",
+        "articleTitle": "A Compact 75GHz PA with 26.3% PAE and 24GHz Bandwidth in 22nm FinFET CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "224",
+        "endPage": "227",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Compact 75GHz PA with 26.3% PAE and 24GHz Bandwidth in 22nm FinFET CMOS",
+        "authors": [
+            {
+                "id": 37596693700,
+                "preferredName": "Steven Callender",
+                "firstName": "Steven",
+                "lastName": "Callender"
+            },
+            {
+                "id": 37294497900,
+                "preferredName": "Stefano Pellerano",
+                "firstName": "Stefano",
+                "lastName": "Pellerano"
+            },
+            {
+                "id": 37355157500,
+                "preferredName": "Christopher Hull",
+                "firstName": "Christopher",
+                "lastName": "Hull"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428976",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428976",
+        "articleTitle": "A 57-71 GHz Beamforming SiGe Transceiver for 802.11 ad-Based Fixed Wireless Access",
+        "volume": null,
+        "issue": null,
+        "startPage": "276",
+        "endPage": "279",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 57-71 GHz Beamforming SiGe Transceiver for 802.11 ad-Based Fixed Wireless Access",
+        "authors": [
+            {
+                "id": 37283789400,
+                "preferredName": "Erik \u00d6jefors",
+                "firstName": "Erik",
+                "lastName": "\u00d6jefors"
+            },
+            {
+                "id": 37088728045,
+                "preferredName": "Mikael Andreasson",
+                "firstName": "Mikael",
+                "lastName": "Andreasson"
+            },
+            {
+                "id": 37295199000,
+                "preferredName": "Torgil Kjellberg",
+                "firstName": "Torgil",
+                "lastName": "Kjellberg"
+            },
+            {
+                "id": 37089143349,
+                "preferredName": "H\u00e5kan Berg",
+                "firstName": "H\u00e5kan",
+                "lastName": "Berg"
+            },
+            {
+                "id": 37282142900,
+                "preferredName": "Lars Aspemyr",
+                "firstName": "Lars",
+                "lastName": "Aspemyr"
+            },
+            {
+                "id": 37269406900,
+                "preferredName": "Richard Nilsson",
+                "firstName": "Richard",
+                "lastName": "Nilsson"
+            },
+            {
+                "id": 37088746047,
+                "preferredName": "Klas Brink",
+                "firstName": "Klas",
+                "lastName": "Brink"
+            },
+            {
+                "id": 37592287700,
+                "preferredName": "Robin Dahlb\u00e4ck",
+                "firstName": "Robin",
+                "lastName": "Dahlb\u00e4ck"
+            },
+            {
+                "id": 37086431032,
+                "preferredName": "Dapeng Wu",
+                "firstName": "Dapeng",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088736523,
+                "preferredName": "Kristoffer Sj\u00f6gren",
+                "firstName": "Kristoffer",
+                "lastName": "Sj\u00f6gren"
+            },
+            {
+                "id": 37417511300,
+                "preferredName": "Mats Carlsson",
+                "firstName": "Mats",
+                "lastName": "Carlsson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428978",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428978",
+        "articleTitle": "A 200-GHz Sub-Harmonic Injection-Locked Oscillator with 0-dBm Output Power and 3.5% DC-to-RF-Efficiency",
+        "volume": null,
+        "issue": null,
+        "startPage": "212",
+        "endPage": "215",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 200-GHz Sub-Harmonic Injection-Locked Oscillator with 0-dBm Output Power and 3.5% DC-to-RF-Efficiency",
+        "authors": [
+            {
+                "id": 37085999064,
+                "preferredName": "Songhui Li",
+                "firstName": "Songhui",
+                "lastName": "Li"
+            },
+            {
+                "id": 38488460200,
+                "preferredName": "David Fritsche",
+                "firstName": "David",
+                "lastName": "Fritsche"
+            },
+            {
+                "id": 37565299900,
+                "preferredName": "Corrado Carta",
+                "firstName": "Corrado",
+                "lastName": "Carta"
+            },
+            {
+                "id": 37275628500,
+                "preferredName": "Frank Ellinger",
+                "firstName": "Frank",
+                "lastName": "Ellinger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429041",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429041",
+        "articleTitle": "A 1.33 mW, 1.6psrms-Integrated-Jitter, 1.8-2.7 GHz Ring-Oscillator-Based Fractional-N Injection-Locked DPLL for Internet-of-Things Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "44",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 1.33 mW, 1.6psrms-Integrated-Jitter, 1.8-2.7 GHz Ring-Oscillator-Based Fractional-N Injection-Locked DPLL for Internet-of-Things Applications",
+        "authors": [
+            {
+                "id": 37086430553,
+                "preferredName": "Jiang Gong",
+                "firstName": "Jiang",
+                "lastName": "Gong"
+            },
+            {
+                "id": 37085896774,
+                "preferredName": "Yuming He",
+                "firstName": "Yuming",
+                "lastName": "He"
+            },
+            {
+                "id": 38241319200,
+                "preferredName": "Ao Ba",
+                "firstName": "Ao",
+                "lastName": "Ba"
+            },
+            {
+                "id": 37695323400,
+                "preferredName": "Yao-Hong Liu",
+                "firstName": "Yao-Hong",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085696207,
+                "preferredName": "Johan Dijkhuis",
+                "firstName": "Johan",
+                "lastName": "Dijkhuis"
+            },
+            {
+                "id": 37086045271,
+                "preferredName": "Stefano Traferro",
+                "firstName": "Stefano",
+                "lastName": "Traferro"
+            },
+            {
+                "id": 37529238700,
+                "preferredName": "Christian Bachmann",
+                "firstName": "Christian",
+                "lastName": "Bachmann"
+            },
+            {
+                "id": 37275489300,
+                "preferredName": "Kathleen Philips",
+                "firstName": "Kathleen",
+                "lastName": "Philips"
+            },
+            {
+                "id": 37294875700,
+                "preferredName": "Masoud Babaie",
+                "firstName": "Masoud",
+                "lastName": "Babaie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429009",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429009",
+        "articleTitle": "A 31 GHz 2-Stage Reconfigurable Balanced Power Amplifier with 32.6dB Power Gain, 25.5% PAEmax and 17.9dBm Psatin 28nm FD-SOI CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "236",
+        "endPage": "239",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 31 GHz 2-Stage Reconfigurable Balanced Power Amplifier with 32.6dB Power Gain, 25.5% PAEmax and 17.9dBm Psatin 28nm FD-SOI CMOS",
+        "authors": [
+            {
+                "id": 37085376839,
+                "preferredName": "Florent Torres",
+                "firstName": "Florent",
+                "lastName": "Torres"
+            },
+            {
+                "id": 37426043000,
+                "preferredName": "Magali De Matos",
+                "firstName": "Magali",
+                "lastName": "De Matos"
+            },
+            {
+                "id": 37268157800,
+                "preferredName": "Andreia Cathelin",
+                "firstName": "Andreia",
+                "lastName": "Cathelin"
+            },
+            {
+                "id": 37277058800,
+                "preferredName": "Eric Kerherv\u00e9",
+                "firstName": "Eric",
+                "lastName": "Kerherv\u00e9"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428953",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428953",
+        "articleTitle": "A 9.4\u201311.7 GHz VCO in 0.12 \u00b5m SiGe BiCMOS with \u2212123 dBc/Hz Phase Noise at 1 MHz Offset for 5G Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "16",
+        "endPage": "19",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 9.4\u201311.7 GHz VCO in 0.12 \u00b5m SiGe BiCMOS with \u2212123 dBc/Hz Phase Noise at 1 MHz Offset for 5G Systems",
+        "authors": [
+            {
+                "id": 37086425649,
+                "preferredName": "Eric C. Wagner",
+                "firstName": "Eric C.",
+                "lastName": "Wagner"
+            },
+            {
+                "id": 37276327300,
+                "preferredName": "Gabriel M. Rebeiz",
+                "firstName": "Gabriel M.",
+                "lastName": "Rebeiz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428994",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428994",
+        "articleTitle": "Ultra-Fast Bit-Level Frequency-Hopping Transmitter for Securing Low-Power Wireless Devices",
+        "volume": null,
+        "issue": null,
+        "startPage": "176",
+        "endPage": "179",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Ultra-Fast Bit-Level Frequency-Hopping Transmitter for Securing Low-Power Wireless Devices",
+        "authors": [
+            {
+                "id": 37085493307,
+                "preferredName": "Rabia Tugce Yazicigil",
+                "firstName": "Rabia Tugce",
+                "lastName": "Yazicigil"
+            },
+            {
+                "id": 38466592300,
+                "preferredName": "Phillip Nadeau",
+                "firstName": "Phillip",
+                "lastName": "Nadeau"
+            },
+            {
+                "id": 37086427080,
+                "preferredName": "Daniel Richman",
+                "firstName": "Daniel",
+                "lastName": "Richman"
+            },
+            {
+                "id": 38580615800,
+                "preferredName": "Chiraag Juvekar",
+                "firstName": "Chiraag",
+                "lastName": "Juvekar"
+            },
+            {
+                "id": 37086425008,
+                "preferredName": "Kapil Vaidya",
+                "firstName": "Kapil",
+                "lastName": "Vaidya"
+            },
+            {
+                "id": 37269179400,
+                "preferredName": "Anantha P. Chandrakasan",
+                "firstName": "Anantha P.",
+                "lastName": "Chandrakasan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428956",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428956",
+        "articleTitle": "A 1W Quadrature Class-G Switched-Capacitor Power Amplifier with Merged Cell Switching and Linearization Techniques",
+        "volume": null,
+        "issue": null,
+        "startPage": "124",
+        "endPage": "127",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 1W Quadrature Class-G Switched-Capacitor Power Amplifier with Merged Cell Switching and Linearization Techniques",
+        "authors": [
+            {
+                "id": 37086431499,
+                "preferredName": "Si-Wook Yoo",
+                "firstName": "Si-Wook",
+                "lastName": "Yoo"
+            },
+            {
+                "id": 37086422807,
+                "preferredName": "Shih-Chang Hung",
+                "firstName": "Shih-Chang",
+                "lastName": "Hung"
+            },
+            {
+                "id": 37086431494,
+                "preferredName": "Sang-Min Yoo",
+                "firstName": "Sang-Min",
+                "lastName": "Yoo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428960",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428960",
+        "articleTitle": "A 486 \u00b5W All-Digital Bluetooth Low Energy Transmitter with Ring Oscillator Based ADPLL for IoT applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "168",
+        "endPage": "171",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 486 \u00b5W All-Digital Bluetooth Low Energy Transmitter with Ring Oscillator Based ADPLL for IoT applications",
+        "authors": [
+            {
+                "id": 37085733649,
+                "preferredName": "Xing Chen",
+                "firstName": "Xing",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085734972,
+                "preferredName": "Jacob Breiholz",
+                "firstName": "Jacob",
+                "lastName": "Breiholz"
+            },
+            {
+                "id": 37717321300,
+                "preferredName": "Farah Yahya",
+                "firstName": "Farah",
+                "lastName": "Yahya"
+            },
+            {
+                "id": 37085592448,
+                "preferredName": "Christopher Lukas",
+                "firstName": "Christopher",
+                "lastName": "Lukas"
+            },
+            {
+                "id": 37085665370,
+                "preferredName": "Hun-Seok Kim",
+                "firstName": "Hun-Seok",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37267284100,
+                "preferredName": "Benton Calhoun",
+                "firstName": "Benton",
+                "lastName": "Calhoun"
+            },
+            {
+                "id": 37283107100,
+                "preferredName": "David Wentzloff",
+                "firstName": "David",
+                "lastName": "Wentzloff"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429017",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429017",
+        "articleTitle": "A 410 GHz OOK Transmitter in 28 nm CMOS for Short Distance Chip-to-Chip Communications",
+        "volume": null,
+        "issue": null,
+        "startPage": "240",
+        "endPage": "243",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 410 GHz OOK Transmitter in 28 nm CMOS for Short Distance Chip-to-Chip Communications",
+        "authors": [
+            {
+                "id": 37085625360,
+                "preferredName": "Alexander Standaert",
+                "firstName": "Alexander",
+                "lastName": "Standaert"
+            },
+            {
+                "id": 37427206700,
+                "preferredName": "Patrick Reynaert",
+                "firstName": "Patrick",
+                "lastName": "Reynaert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429016",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429016",
+        "articleTitle": "A True Time Delay 16-Element 4-Beam Digital Beamformer",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A True Time Delay 16-Element 4-Beam Digital Beamformer",
+        "authors": [
+            {
+                "id": 37086175930,
+                "preferredName": "Sunmin Jang",
+                "firstName": "Sunmin",
+                "lastName": "Jang"
+            },
+            {
+                "id": 37086177481,
+                "preferredName": "Rundao Lu",
+                "firstName": "Rundao",
+                "lastName": "Lu"
+            },
+            {
+                "id": 38238931800,
+                "preferredName": "Jaehun Jeong",
+                "firstName": "Jaehun",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 37271976300,
+                "preferredName": "Michael P. Flynn",
+                "firstName": "Michael P.",
+                "lastName": "Flynn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428846",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428846",
+        "articleTitle": "A 15.6-18.2 GHz Digital Bang-Bang PLL with \u221263dBc in-Band Fractional Spur",
+        "volume": null,
+        "issue": null,
+        "startPage": "36",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 15.6-18.2 GHz Digital Bang-Bang PLL with \u221263dBc in-Band Fractional Spur",
+        "authors": [
+            {
+                "id": 38580359400,
+                "preferredName": "Dmytro Cherniak",
+                "firstName": "Dmytro",
+                "lastName": "Cherniak"
+            },
+            {
+                "id": 37085804576,
+                "preferredName": "Luigi Grimaldi",
+                "firstName": "Luigi",
+                "lastName": "Grimaldi"
+            },
+            {
+                "id": 38501930300,
+                "preferredName": "Fabio Padovan",
+                "firstName": "Fabio",
+                "lastName": "Padovan"
+            },
+            {
+                "id": 37705424200,
+                "preferredName": "Matteo Bassi",
+                "firstName": "Matteo",
+                "lastName": "Bassi"
+            },
+            {
+                "id": 37269429400,
+                "preferredName": "Roberto Nonis",
+                "firstName": "Roberto",
+                "lastName": "Nonis"
+            },
+            {
+                "id": 37271398700,
+                "preferredName": "Carlo Samori",
+                "firstName": "Carlo",
+                "lastName": "Samori"
+            },
+            {
+                "id": 37271401200,
+                "preferredName": "Salvatore Levantino",
+                "firstName": "Salvatore",
+                "lastName": "Levantino"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428999",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428999",
+        "articleTitle": "A 0.62nJ/b multi-standard WiFi/BLE wideband digital polar TX with dynamic FM correction and AM alias suppression for IoT applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "308",
+        "endPage": "311",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 0.62nJ/b multi-standard WiFi/BLE wideband digital polar TX with dynamic FM correction and AM alias suppression for IoT applications",
+        "authors": [
+            {
+                "id": 38241319200,
+                "preferredName": "Ao Ba",
+                "firstName": "Ao",
+                "lastName": "Ba"
+            },
+            {
+                "id": 37547712800,
+                "preferredName": "Johan van den Heuvel",
+                "firstName": "Johan",
+                "lastName": "van den Heuvel"
+            },
+            {
+                "id": 37085687864,
+                "preferredName": "Paul Mateman",
+                "firstName": "Paul",
+                "lastName": "Mateman"
+            },
+            {
+                "id": 37594727600,
+                "preferredName": "Cui Zhou",
+                "firstName": "Cui",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 38494824900,
+                "preferredName": "Benjamin Busze",
+                "firstName": "Benjamin",
+                "lastName": "Busze"
+            },
+            {
+                "id": 37596735100,
+                "preferredName": "Minyoung Song",
+                "firstName": "Minyoung",
+                "lastName": "Song"
+            },
+            {
+                "id": 37085896774,
+                "preferredName": "Yuming He",
+                "firstName": "Yuming",
+                "lastName": "He"
+            },
+            {
+                "id": 38466700100,
+                "preferredName": "Ming Ding",
+                "firstName": "Ming",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37085696207,
+                "preferredName": "Johan Dijkhuis",
+                "firstName": "Johan",
+                "lastName": "Dijkhuis"
+            },
+            {
+                "id": 37087860075,
+                "preferredName": "Evgenii Tiurin",
+                "firstName": "Evgenii",
+                "lastName": "Tiurin"
+            },
+            {
+                "id": 37088724528,
+                "preferredName": "Suryasarman Madampu",
+                "firstName": "Suryasarman",
+                "lastName": "Madampu"
+            },
+            {
+                "id": 37086157343,
+                "preferredName": "Pepijn Boer",
+                "firstName": "Pepijn",
+                "lastName": "Boer"
+            },
+            {
+                "id": 37086045271,
+                "preferredName": "Stefano Traferro",
+                "firstName": "Stefano",
+                "lastName": "Traferro"
+            },
+            {
+                "id": 37089091503,
+                "preferredName": "Yan Zhang",
+                "firstName": "Yan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37695323400,
+                "preferredName": "Yao-Hong Liu",
+                "firstName": "Yao-Hong",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37529238700,
+                "preferredName": "Christian Bachmann",
+                "firstName": "Christian",
+                "lastName": "Bachmann"
+            },
+            {
+                "id": 37275489300,
+                "preferredName": "Kathleen Philips",
+                "firstName": "Kathleen",
+                "lastName": "Philips"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428839",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428839",
+        "articleTitle": "A Wideband Transmitter for LTE-A HPUE using CIM3 Cancellation",
+        "volume": null,
+        "issue": null,
+        "startPage": "312",
+        "endPage": "315",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Wideband Transmitter for LTE-A HPUE using CIM3 Cancellation",
+        "authors": [
+            {
+                "id": 37086424505,
+                "preferredName": "Yangjian Chen",
+                "firstName": "Yangjian",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37706951200,
+                "preferredName": "Arnaud Werquin",
+                "firstName": "Arnaud",
+                "lastName": "Werquin"
+            },
+            {
+                "id": 37086424910,
+                "preferredName": "Mohammed Hassan",
+                "firstName": "Mohammed",
+                "lastName": "Hassan"
+            },
+            {
+                "id": 37426961300,
+                "preferredName": "Christophe Beghein",
+                "firstName": "Christophe",
+                "lastName": "Beghein"
+            },
+            {
+                "id": 38276993000,
+                "preferredName": "Bernard Tenbroek",
+                "firstName": "Bernard",
+                "lastName": "Tenbroek"
+            },
+            {
+                "id": 37275703400,
+                "preferredName": "Jon Strange",
+                "firstName": "Jon",
+                "lastName": "Strange"
+            },
+            {
+                "id": 37578935100,
+                "preferredName": "Chi-Tsan Chen",
+                "firstName": "Chi-Tsan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37068978800,
+                "preferredName": "Tzung-Han Wu",
+                "firstName": "Tzung-Han",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37087652084,
+                "preferredName": "Yen-Horng Chen",
+                "firstName": "Yen-Horng",
+                "lastName": "Chen"
+            },
+            {
+                "id": 38238150300,
+                "preferredName": "Chinq-Shiun Chiu",
+                "firstName": "Chinq-Shiun",
+                "lastName": "Chiu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429037",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429037",
+        "articleTitle": "An E-band QPSK Transmitter Element in 28-nm CMOS with Multistate Power Amplifier for Digitally-Modulated Phased Arrays",
+        "volume": null,
+        "issue": null,
+        "startPage": "184",
+        "endPage": "187",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "An E-band QPSK Transmitter Element in 28-nm CMOS with Multistate Power Amplifier for Digitally-Modulated Phased Arrays",
+        "authors": [
+            {
+                "id": 37605741500,
+                "preferredName": "Nai-Chung Kuo",
+                "firstName": "Nai-Chung",
+                "lastName": "Kuo"
+            },
+            {
+                "id": 37280807800,
+                "preferredName": "Ali M. Niknejad",
+                "firstName": "Ali M.",
+                "lastName": "Niknejad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429032",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429032",
+        "articleTitle": "A 31.8\u201340.8GHz Continuously Wide-Tuning VCO Based on Class-B Oscillator using Single Varactor and Inductor",
+        "volume": null,
+        "issue": null,
+        "startPage": "204",
+        "endPage": "207",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 31.8\u201340.8GHz Continuously Wide-Tuning VCO Based on Class-B Oscillator using Single Varactor and Inductor",
+        "authors": [
+            {
+                "id": 37280318800,
+                "preferredName": "Jayol Lee",
+                "firstName": "Jayol",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37274524600,
+                "preferredName": "Dong-Woo Kang",
+                "firstName": "Dong-Woo",
+                "lastName": "Kang"
+            },
+            {
+                "id": 38235450000,
+                "preferredName": "Youngseok Baek",
+                "firstName": "Youngseok",
+                "lastName": "Baek"
+            },
+            {
+                "id": 37275515700,
+                "preferredName": "Bontae Koo",
+                "firstName": "Bontae",
+                "lastName": "Koo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428995",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428995",
+        "articleTitle": "A Flexible Low-Latency DC-to-4 Gbit/s Link Operating from \u221240 to +200\u00b0C in 28nm CMOS for Galvanically Isolated Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "100",
+        "endPage": "103",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Flexible Low-Latency DC-to-4 Gbit/s Link Operating from \u221240 to +200\u00b0C in 28nm CMOS for Galvanically Isolated Applications",
+        "authors": [
+            {
+                "id": 37086426260,
+                "preferredName": "Simon Ooms",
+                "firstName": "Simon",
+                "lastName": "Ooms"
+            },
+            {
+                "id": 37427206700,
+                "preferredName": "Patrick Reynaert",
+                "firstName": "Patrick",
+                "lastName": "Reynaert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429002",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429002",
+        "articleTitle": "A Crosstalk-immune Sub-THz All-surface-wave I/O Transceiver in 65-nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "352",
+        "endPage": "355",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Crosstalk-immune Sub-THz All-surface-wave I/O Transceiver in 65-nm CMOS",
+        "authors": [
+            {
+                "id": 37085384398,
+                "preferredName": "Yuan Liang",
+                "firstName": "Yuan",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37408579300,
+                "preferredName": "Chirn Chye Boon",
+                "firstName": "Chirn Chye",
+                "lastName": "Boon"
+            },
+            {
+                "id": 37275013000,
+                "preferredName": "Hao Yu",
+                "firstName": "Hao",
+                "lastName": "Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429045",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429045",
+        "articleTitle": "A 264-\u00b5W 802.15.4a-Compliant IR-UWB Transmitter in 22nm FinFET for Wireless Sensor Network Application",
+        "volume": null,
+        "issue": null,
+        "startPage": "164",
+        "endPage": "167",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 264-\u00b5W 802.15.4a-Compliant IR-UWB Transmitter in 22nm FinFET for Wireless Sensor Network Application",
+        "authors": [
+            {
+                "id": 37085417840,
+                "preferredName": "Renzhi Liu",
+                "firstName": "Renzhi",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37294498600,
+                "preferredName": "Brent R. Carlton",
+                "firstName": "Brent R.",
+                "lastName": "Carlton"
+            },
+            {
+                "id": 37294497900,
+                "preferredName": "Stefano Pellerano",
+                "firstName": "Stefano",
+                "lastName": "Pellerano"
+            },
+            {
+                "id": 37545577900,
+                "preferredName": "Farhana Sheikh",
+                "firstName": "Farhana",
+                "lastName": "Sheikh"
+            },
+            {
+                "id": 37086119361,
+                "preferredName": "Divya Shree Vemparala",
+                "firstName": "Divya Shree",
+                "lastName": "Vemparala"
+            },
+            {
+                "id": 37085343012,
+                "preferredName": "Ahmed Ali",
+                "firstName": "Ahmed",
+                "lastName": "Ali"
+            },
+            {
+                "id": 38119453000,
+                "preferredName": "V. Srinivasa Somayazulu",
+                "firstName": "V. Srinivasa",
+                "lastName": "Somayazulu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428958",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428958",
+        "articleTitle": "A 150 \u00b5W \u221257.5 dBm-Sensitivity Bluetooth Low-Energy Back-Channel Receiver with LO Frequency Hopping",
+        "volume": null,
+        "issue": null,
+        "startPage": "324",
+        "endPage": "327",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 150 \u00b5W \u221257.5 dBm-Sensitivity Bluetooth Low-Energy Back-Channel Receiver with LO Frequency Hopping",
+        "authors": [
+            {
+                "id": 37086523371,
+                "preferredName": "Abdullah Alghaihab",
+                "firstName": "Abdullah",
+                "lastName": "Alghaihab"
+            },
+            {
+                "id": 37085734972,
+                "preferredName": "Jacob Breiholz",
+                "firstName": "Jacob",
+                "lastName": "Breiholz"
+            },
+            {
+                "id": 37085665370,
+                "preferredName": "Hun-Seok Kim",
+                "firstName": "Hun-Seok",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37267284100,
+                "preferredName": "Ben Calhoun",
+                "firstName": "Ben",
+                "lastName": "Calhoun"
+            },
+            {
+                "id": 37283107100,
+                "preferredName": "David D. Wentzloff",
+                "firstName": "David D.",
+                "lastName": "Wentzloff"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428847",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428847",
+        "articleTitle": "A Low Power PWM Optical Phased Array Transmitter with 16\u00b0 Field-of-View and 0.8\u00b0 Beamwidth",
+        "volume": null,
+        "issue": null,
+        "startPage": "28",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Low Power PWM Optical Phased Array Transmitter with 16\u00b0 Field-of-View and 0.8\u00b0 Beamwidth",
+        "authors": [
+            {
+                "id": 37528897400,
+                "preferredName": "Reza Fatemi",
+                "firstName": "Reza",
+                "lastName": "Fatemi"
+            },
+            {
+                "id": 37085706583,
+                "preferredName": "Aroutin Khachaturian",
+                "firstName": "Aroutin",
+                "lastName": "Khachaturian"
+            },
+            {
+                "id": 37275631100,
+                "preferredName": "Ali Hajimiri",
+                "firstName": "Ali",
+                "lastName": "Hajimiri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429023",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429023",
+        "articleTitle": "Power Amplifier with Temperature Adaptive Biasing for improved DEVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "320",
+        "endPage": "323",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Power Amplifier with Temperature Adaptive Biasing for improved DEVM",
+        "authors": [
+            {
+                "id": 37086426391,
+                "preferredName": "Hamza Najjari",
+                "firstName": "Hamza",
+                "lastName": "Najjari"
+            },
+            {
+                "id": 37086428540,
+                "preferredName": "Christophe Cordier",
+                "firstName": "Christophe",
+                "lastName": "Cordier"
+            },
+            {
+                "id": 37086425230,
+                "preferredName": "St\u00e9phane David",
+                "firstName": "St\u00e9phane",
+                "lastName": "David"
+            },
+            {
+                "id": 37301279900,
+                "preferredName": "Serge Bardy",
+                "firstName": "Serge",
+                "lastName": "Bardy"
+            },
+            {
+                "id": 37276436400,
+                "preferredName": "Jean-Baptiste Begueret",
+                "firstName": "Jean-Baptiste",
+                "lastName": "Begueret"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428843",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428843",
+        "articleTitle": "Heterodyne Sensing CMOS Array with High Density and Large Scale: A 240-GHz, 32-Unit Receiver Using A De-Centralized Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "252",
+        "endPage": "255",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Heterodyne Sensing CMOS Array with High Density and Large Scale: A 240-GHz, 32-Unit Receiver Using A De-Centralized Architecture",
+        "authors": [
+            {
+                "id": 37086041351,
+                "preferredName": "Zhi Hu",
+                "firstName": "Zhi",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37086040636,
+                "preferredName": "Cheng Wang",
+                "firstName": "Cheng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37404904800,
+                "preferredName": "Ruonan Han",
+                "firstName": "Ruonan",
+                "lastName": "Han"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429004",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429004",
+        "articleTitle": "An Efficient mm-wave Integrated Circuit Synthesis Method with Accurate Scalable Passive Component Modeling",
+        "volume": null,
+        "issue": null,
+        "startPage": "24",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "An Efficient mm-wave Integrated Circuit Synthesis Method with Accurate Scalable Passive Component Modeling",
+        "authors": [
+            {
+                "id": 37085451424,
+                "preferredName": "Zhijian Pan",
+                "firstName": "Zhijian",
+                "lastName": "Pan"
+            },
+            {
+                "id": 37077586700,
+                "preferredName": "Wei Zhu",
+                "firstName": "Wei",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37086429539,
+                "preferredName": "Qiang Yao",
+                "firstName": "Qiang",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37085376117,
+                "preferredName": "Di Li",
+                "firstName": "Di",
+                "lastName": "Li"
+            },
+            {
+                "id": 37397262700,
+                "preferredName": "Zuochang Ye",
+                "firstName": "Zuochang",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37351702000,
+                "preferredName": "Yan Wang",
+                "firstName": "Yan",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429008",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429008",
+        "articleTitle": "A 308-317GHz Source with 4.6mW Peak Radiated Power and on-Chip Frequency-Stabilization Feedback in 0.13\u00b5m BiCMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "244",
+        "endPage": "247",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 308-317GHz Source with 4.6mW Peak Radiated Power and on-Chip Frequency-Stabilization Feedback in 0.13\u00b5m BiCMOS",
+        "authors": [
+            {
+                "id": 37085420607,
+                "preferredName": "Chen Jiang",
+                "firstName": "Chen",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37398427400,
+                "preferredName": "Mohammed Aseeri",
+                "firstName": "Mohammed",
+                "lastName": "Aseeri"
+            },
+            {
+                "id": 37268157800,
+                "preferredName": "Andreia Cathelin",
+                "firstName": "Andreia",
+                "lastName": "Cathelin"
+            },
+            {
+                "id": 37398473500,
+                "preferredName": "Ehsan Afshari",
+                "firstName": "Ehsan",
+                "lastName": "Afshari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428998",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428998",
+        "articleTitle": "A 40nm 4-downlink and 2-uplink RF Transceiver Supporting LTE-Advanced Carrier Aggregation",
+        "volume": null,
+        "issue": null,
+        "startPage": "316",
+        "endPage": "319",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 40nm 4-downlink and 2-uplink RF Transceiver Supporting LTE-Advanced Carrier Aggregation",
+        "authors": [
+            {
+                "id": 37068978800,
+                "preferredName": "Tzung-Han Wu",
+                "firstName": "Tzung-Han",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37087858102,
+                "preferredName": "Yuan-Yu Fu",
+                "firstName": "Yuan-Yu",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37088709332,
+                "preferredName": "Sheng-Che Tseng",
+                "firstName": "Sheng-Che",
+                "lastName": "Tseng"
+            },
+            {
+                "id": 37085516231,
+                "preferredName": "Ying-Tsang Lu",
+                "firstName": "Ying-Tsang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37086424505,
+                "preferredName": "Yangjian Chen",
+                "firstName": "Yangjian",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088723966,
+                "preferredName": "Chien-Shan Chiang",
+                "firstName": "Chien-Shan",
+                "lastName": "Chiang"
+            },
+            {
+                "id": 37088729265,
+                "preferredName": "Zong-You Li",
+                "firstName": "Zong-You",
+                "lastName": "Li"
+            },
+            {
+                "id": 37087860283,
+                "preferredName": "Bo-Yu Lin",
+                "firstName": "Bo-Yu",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37087396080,
+                "preferredName": "Min-Hua Wu",
+                "firstName": "Min-Hua",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088723787,
+                "preferredName": "Jui-Chih Kao",
+                "firstName": "Jui-Chih",
+                "lastName": "Kao"
+            },
+            {
+                "id": 37088735890,
+                "preferredName": "Tzu-Yu Yeh",
+                "firstName": "Tzu-Yu",
+                "lastName": "Yeh"
+            },
+            {
+                "id": 38466928100,
+                "preferredName": "Li-Shin Lai",
+                "firstName": "Li-Shin",
+                "lastName": "Lai"
+            },
+            {
+                "id": 37088733303,
+                "preferredName": ". Chao-Wei Wang",
+                "firstName": ". Chao-Wei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37066120500,
+                "preferredName": "Chih-Hao Eric Sun",
+                "firstName": "Chih-Hao Eric",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37087652084,
+                "preferredName": "Yen-Horng Chen",
+                "firstName": "Yen-Horng",
+                "lastName": "Chen"
+            },
+            {
+                "id": 38238150300,
+                "preferredName": "China-Shiun Chiu",
+                "firstName": "China-Shiun",
+                "lastName": "Chiu"
+            },
+            {
+                "id": 37088712697,
+                "preferredName": "Shih-Chieh Yen",
+                "firstName": "Shih-Chieh",
+                "lastName": "Yen"
+            },
+            {
+                "id": 37283088000,
+                "preferredName": "Guang-Kaai Dehng",
+                "firstName": "Guang-Kaai",
+                "lastName": "Dehng"
+            },
+            {
+                "id": 37352019000,
+                "preferredName": "George Chien",
+                "firstName": "George",
+                "lastName": "Chien"
+            },
+            {
+                "id": 38276993000,
+                "preferredName": "Bernard Tenbroek",
+                "firstName": "Bernard",
+                "lastName": "Tenbroek"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428967",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428967",
+        "articleTitle": "A 280GHz +9dBm TRP Dense 2D Multi Port Radiator in 65nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "248",
+        "endPage": "251",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 280GHz +9dBm TRP Dense 2D Multi Port Radiator in 65nm CMOS",
+        "authors": [
+            {
+                "id": 37281888700,
+                "preferredName": "Nadav Buadana",
+                "firstName": "Nadav",
+                "lastName": "Buadana"
+            },
+            {
+                "id": 38015022900,
+                "preferredName": "Samuel Jameson",
+                "firstName": "Samuel",
+                "lastName": "Jameson"
+            },
+            {
+                "id": 37371220200,
+                "preferredName": "Eran Socher",
+                "firstName": "Eran",
+                "lastName": "Socher"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429022",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429022",
+        "articleTitle": "A Secure TOF-Based Transceiver with Low Latency and sub-cm Ranging for Mobile Authentication Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "160",
+        "endPage": "163",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Secure TOF-Based Transceiver with Low Latency and sub-cm Ranging for Mobile Authentication Applications",
+        "authors": [
+            {
+                "id": 37086381558,
+                "preferredName": "Haixin Song",
+                "firstName": "Haixin",
+                "lastName": "Song"
+            },
+            {
+                "id": 37086380420,
+                "preferredName": "Zhendong Ding",
+                "firstName": "Zhendong",
+                "lastName": "Ding"
+            },
+            {
+                "id": 38550977800,
+                "preferredName": "Woogeun Rhee",
+                "firstName": "Woogeun",
+                "lastName": "Rhee"
+            },
+            {
+                "id": 37279252700,
+                "preferredName": "Zhihua Wang",
+                "firstName": "Zhihua",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428968",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428968",
+        "articleTitle": "A low EVM SiGe BiCMOS 40\u2013100 GHz Direct Conversion IQ Modulator for Multi-Gbps Communications Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "188",
+        "endPage": "191",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A low EVM SiGe BiCMOS 40\u2013100 GHz Direct Conversion IQ Modulator for Multi-Gbps Communications Systems",
+        "authors": [
+            {
+                "id": 37085818640,
+                "preferredName": "Qian Ma",
+                "firstName": "Qian",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37086038710,
+                "preferredName": "Hyunchul Chung",
+                "firstName": "Hyunchul",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37276327300,
+                "preferredName": "Gabriel M. Rebeiz",
+                "firstName": "Gabriel M.",
+                "lastName": "Rebeiz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429031",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429031",
+        "articleTitle": "A 25.1-27.6 GHz Tunable-Narrowband Digitally-Calibrated Merged LNA-Vector Modulator for 5G Phased Arrays",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "7",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 25.1-27.6 GHz Tunable-Narrowband Digitally-Calibrated Merged LNA-Vector Modulator for 5G Phased Arrays",
+        "authors": [
+            {
+                "id": 37085746006,
+                "preferredName": "Rahul Singh",
+                "firstName": "Rahul",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37086111359,
+                "preferredName": "Susnata Mondal",
+                "firstName": "Susnata",
+                "lastName": "Mondal"
+            },
+            {
+                "id": 37372242100,
+                "preferredName": "Jeyanandh Paramesh",
+                "firstName": "Jeyanandh",
+                "lastName": "Paramesh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428992",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428992",
+        "articleTitle": "A 28nm CMOS Wireless Connectivity Combo IC with a Reconfigurable 2\u00d72 MIMO WiFi supporting 80+80MHz 256-QAM, and BT 5.0",
+        "volume": null,
+        "issue": null,
+        "startPage": "300",
+        "endPage": "303",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 28nm CMOS Wireless Connectivity Combo IC with a Reconfigurable 2\u00d72 MIMO WiFi supporting 80+80MHz 256-QAM, and BT 5.0",
+        "authors": [
+            {
+                "id": 37086432707,
+                "preferredName": "Chia-Hsin Wu",
+                "firstName": "Chia-Hsin",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37294413900,
+                "preferredName": "Chris Hunter",
+                "firstName": "Chris",
+                "lastName": "Hunter"
+            },
+            {
+                "id": 37713675000,
+                "preferredName": "Jongdae Bae",
+                "firstName": "Jongdae",
+                "lastName": "Bae"
+            },
+            {
+                "id": 37066742900,
+                "preferredName": "Huijung Kim",
+                "firstName": "Huijung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37599886100,
+                "preferredName": "Jisoo Chang",
+                "firstName": "Jisoo",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37088733624,
+                "preferredName": "Jacob Sharpe",
+                "firstName": "Jacob",
+                "lastName": "Sharpe"
+            },
+            {
+                "id": 37425540200,
+                "preferredName": "Inhyo Ryu",
+                "firstName": "Inhyo",
+                "lastName": "Ryu"
+            },
+            {
+                "id": 37088746673,
+                "preferredName": "Seongwon Joo",
+                "firstName": "Seongwon",
+                "lastName": "Joo"
+            },
+            {
+                "id": 37085647250,
+                "preferredName": "Byeongwan Ha",
+                "firstName": "Byeongwan",
+                "lastName": "Ha"
+            },
+            {
+                "id": 37721370600,
+                "preferredName": "Won Ko",
+                "firstName": "Won",
+                "lastName": "Ko"
+            },
+            {
+                "id": 37301943100,
+                "preferredName": "Jounghyun Yim",
+                "firstName": "Jounghyun",
+                "lastName": "Yim"
+            },
+            {
+                "id": 37335525300,
+                "preferredName": "Sangwook Han",
+                "firstName": "Sangwook",
+                "lastName": "Han"
+            },
+            {
+                "id": 37292981000,
+                "preferredName": "Taewan Kim",
+                "firstName": "Taewan",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37087860394,
+                "preferredName": "Daeyoung Yoon",
+                "firstName": "Daeyoung",
+                "lastName": "Yoon"
+            },
+            {
+                "id": 37088747183,
+                "preferredName": "Inyoung Choi",
+                "firstName": "Inyoung",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37086429753,
+                "preferredName": "Sangyun Lee",
+                "firstName": "Sangyun",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086346297,
+                "preferredName": "Qing Liu",
+                "firstName": "Qing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37833893600,
+                "preferredName": "Myounggyun Kim",
+                "firstName": "Myounggyun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38185812600,
+                "preferredName": "Jiyoung Lee",
+                "firstName": "Jiyoung",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086145012,
+                "preferredName": "Shinwoong Kim",
+                "firstName": "Shinwoong",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088736277,
+                "preferredName": "Alexander Thoukydides",
+                "firstName": "Alexander",
+                "lastName": "Thoukydides"
+            },
+            {
+                "id": 37088744584,
+                "preferredName": "Michael Cowell",
+                "firstName": "Michael",
+                "lastName": "Cowell"
+            },
+            {
+                "id": 37085579195,
+                "preferredName": "Thomas Byunghak Cho",
+                "firstName": "Thomas Byunghak",
+                "lastName": "Cho"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429039",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429039",
+        "articleTitle": "A 10.56-GHz Broadband Transceiver with Integrated T/R Switching via Matching Network Re-use in 28-nm CMOS Technology",
+        "volume": null,
+        "issue": null,
+        "startPage": "340",
+        "endPage": "343",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 10.56-GHz Broadband Transceiver with Integrated T/R Switching via Matching Network Re-use in 28-nm CMOS Technology",
+        "authors": [
+            {
+                "id": 37077586700,
+                "preferredName": "Wei Zhu",
+                "firstName": "Wei",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37280173600,
+                "preferredName": "Lei Zhang",
+                "firstName": "Lei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37351702000,
+                "preferredName": "Yan Wang",
+                "firstName": "Yan",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429024",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429024",
+        "articleTitle": "A 30-dBm Class-D Power Amplifier with On/Off Logic for an Integrated Tri-Phasing Transmitter in 28-nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "136",
+        "endPage": "139",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 30-dBm Class-D Power Amplifier with On/Off Logic for an Integrated Tri-Phasing Transmitter in 28-nm CMOS",
+        "authors": [
+            {
+                "id": 37085787281,
+                "preferredName": "Mikko Martelius",
+                "firstName": "Mikko",
+                "lastName": "Martelius"
+            },
+            {
+                "id": 37269519700,
+                "preferredName": "Kari Stadius",
+                "firstName": "Kari",
+                "lastName": "Stadius"
+            },
+            {
+                "id": 37072997100,
+                "preferredName": "Jerry Lemberg",
+                "firstName": "Jerry",
+                "lastName": "Lemberg"
+            },
+            {
+                "id": 37073027800,
+                "preferredName": "Enrico Roverato",
+                "firstName": "Enrico",
+                "lastName": "Roverato"
+            },
+            {
+                "id": 37604534700,
+                "preferredName": "Tero Nieminen",
+                "firstName": "Tero",
+                "lastName": "Nieminen"
+            },
+            {
+                "id": 37085769738,
+                "preferredName": "Yury Antonov",
+                "firstName": "Yury",
+                "lastName": "Antonov"
+            },
+            {
+                "id": 37089054222,
+                "preferredName": "Lauri Anttila",
+                "firstName": "Lauri",
+                "lastName": "Anttila"
+            },
+            {
+                "id": 37267657500,
+                "preferredName": "Mikko Valkama",
+                "firstName": "Mikko",
+                "lastName": "Valkama"
+            },
+            {
+                "id": 37270508500,
+                "preferredName": "Marko Kosunen",
+                "firstName": "Marko",
+                "lastName": "Kosunen"
+            },
+            {
+                "id": 37271432900,
+                "preferredName": "Jussi Ryyn\u00e4nen",
+                "firstName": "Jussi",
+                "lastName": "Ryyn\u00e4nen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428983",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428983",
+        "articleTitle": "300 GHz OOK Transmitter Integrated in Advanced Silicon Photonics Technology and Achieving 20 Gb/s",
+        "volume": null,
+        "issue": null,
+        "startPage": "356",
+        "endPage": "359",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "300 GHz OOK Transmitter Integrated in Advanced Silicon Photonics Technology and Achieving 20 Gb/s",
+        "authors": [
+            {
+                "id": 37086014263,
+                "preferredName": "E. Lacombe",
+                "firstName": "E.",
+                "lastName": "Lacombe"
+            },
+            {
+                "id": 37086358340,
+                "preferredName": "C. Belem-Goncalves",
+                "firstName": "C.",
+                "lastName": "Belem-Goncalves"
+            },
+            {
+                "id": 37284039900,
+                "preferredName": "C. Luxey",
+                "firstName": "C.",
+                "lastName": "Luxey"
+            },
+            {
+                "id": 37293985700,
+                "preferredName": "F. Gianesello",
+                "firstName": "F.",
+                "lastName": "Gianesello"
+            },
+            {
+                "id": 37408472200,
+                "preferredName": "C. Durand",
+                "firstName": "C.",
+                "lastName": "Durand"
+            },
+            {
+                "id": 37268587500,
+                "preferredName": "D. Gloria",
+                "firstName": "D.",
+                "lastName": "Gloria"
+            },
+            {
+                "id": 37587020200,
+                "preferredName": "G. Ducournau",
+                "firstName": "G.",
+                "lastName": "Ducournau"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428844",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428844",
+        "articleTitle": "A 5.5-7.3 GHz Analog Fractional-N Sampling PLL in 28-nm CMOS with 75 fsrmsJitter and \u2212249.7 dB FoM",
+        "volume": null,
+        "issue": null,
+        "startPage": "6403",
+        "endPage": "6408",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 5.5-7.3 GHz Analog Fractional-N Sampling PLL in 28-nm CMOS with 75 fsrmsJitter and \u2212249.7 dB FoM",
+        "authors": [
+            {
+                "id": 37696428100,
+                "preferredName": "Wanghua Wu",
+                "firstName": "Wanghua",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37953439600,
+                "preferredName": "Chih-Wei Yao",
+                "firstName": "Chih-Wei",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37944334300,
+                "preferredName": "Kunal Godbole",
+                "firstName": "Kunal",
+                "lastName": "Godbole"
+            },
+            {
+                "id": 37086096309,
+                "preferredName": "Ronghua Ni",
+                "firstName": "Ronghua",
+                "lastName": "Ni"
+            },
+            {
+                "id": 38493897100,
+                "preferredName": "Pei-Yuan Chiang",
+                "firstName": "Pei-Yuan",
+                "lastName": "Chiang"
+            },
+            {
+                "id": 37088741858,
+                "preferredName": "Yongping Han",
+                "firstName": "Yongping",
+                "lastName": "Han"
+            },
+            {
+                "id": 37085647791,
+                "preferredName": "Yongrong Zuo",
+                "firstName": "Yongrong",
+                "lastName": "Zuo"
+            },
+            {
+                "id": 37088725632,
+                "preferredName": "Ashutosh Verma",
+                "firstName": "Ashutosh",
+                "lastName": "Verma"
+            },
+            {
+                "id": 37088527221,
+                "preferredName": "Ivan Siu-Chuang Lu",
+                "firstName": "Ivan Siu-Chuang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37085655820,
+                "preferredName": "Sang Won Son",
+                "firstName": "Sang Won",
+                "lastName": "Son"
+            },
+            {
+                "id": 37085579195,
+                "preferredName": "Thomas Byunghak Cho",
+                "firstName": "Thomas Byunghak",
+                "lastName": "Cho"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429025",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429025",
+        "articleTitle": "An Asymmetrical Parallel-Combined Cascode CMOS WiFi 5GHz 802.11ac RF Power Amplifier",
+        "volume": null,
+        "issue": null,
+        "startPage": "6403",
+        "endPage": "6408",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "An Asymmetrical Parallel-Combined Cascode CMOS WiFi 5GHz 802.11ac RF Power Amplifier",
+        "authors": [
+            {
+                "id": 37085804985,
+                "preferredName": "Sergey Anderson",
+                "firstName": "Sergey",
+                "lastName": "Anderson"
+            },
+            {
+                "id": 38344153600,
+                "preferredName": "Nadav Snir",
+                "firstName": "Nadav",
+                "lastName": "Snir"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429027",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429027",
+        "articleTitle": "A 14nm FinFET Sub-Picosecond Jitter Fractional-N Ring PLL for 5G Wireless Communication",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "43",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 14nm FinFET Sub-Picosecond Jitter Fractional-N Ring PLL for 5G Wireless Communication",
+        "authors": [
+            {
+                "id": 37085475137,
+                "preferredName": "Seungjin Kim",
+                "firstName": "Seungjin",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086423261,
+                "preferredName": "Byungki Ham",
+                "firstName": "Byungki",
+                "lastName": "Ham"
+            },
+            {
+                "id": 37086430371,
+                "preferredName": "Mingyu Cho",
+                "firstName": "Mingyu",
+                "lastName": "Cho"
+            },
+            {
+                "id": 37086138703,
+                "preferredName": "Seunghyun Oh",
+                "firstName": "Seunghyun",
+                "lastName": "Oh"
+            },
+            {
+                "id": 37085575701,
+                "preferredName": "Jongwoo Lee",
+                "firstName": "Jongwoo",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37085579195,
+                "preferredName": "Thomas B. Cho",
+                "firstName": "Thomas B.",
+                "lastName": "Cho"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429018",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429018",
+        "articleTitle": "Proximal-Field Radiation Sensors for Millimeter-Wave Integrated Radiators",
+        "volume": null,
+        "issue": null,
+        "startPage": "256",
+        "endPage": "259",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Proximal-Field Radiation Sensors for Millimeter-Wave Integrated Radiators",
+        "authors": [
+            {
+                "id": 37085359557,
+                "preferredName": "Amirreza Safaripour",
+                "firstName": "Amirreza",
+                "lastName": "Safaripour"
+            },
+            {
+                "id": 37086429434,
+                "preferredName": "Bahar Asghari",
+                "firstName": "Bahar",
+                "lastName": "Asghari"
+            },
+            {
+                "id": 37275631100,
+                "preferredName": "Ali Hajimiri",
+                "firstName": "Ali",
+                "lastName": "Hajimiri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428975",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428975",
+        "articleTitle": "A Blocker-Tolerant Double Noise-Cancelling Wideband Receiver Front-End Using Linearized Transconductor",
+        "volume": null,
+        "issue": null,
+        "startPage": "336",
+        "endPage": "339",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Blocker-Tolerant Double Noise-Cancelling Wideband Receiver Front-End Using Linearized Transconductor",
+        "authors": [
+            {
+                "id": 37085651788,
+                "preferredName": "Duksoo Kim",
+                "firstName": "Duksoo",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37274660600,
+                "preferredName": "Sanzwook Nam",
+                "firstName": "Sanzwook",
+                "lastName": "Nam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429038",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429038",
+        "articleTitle": "A 0.3-V 2.5-mW 154-to-195GHz CMOS Injection-Locked LO Generation with \u2212186.5dB FoM",
+        "volume": null,
+        "issue": null,
+        "startPage": "196",
+        "endPage": "199",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 0.3-V 2.5-mW 154-to-195GHz CMOS Injection-Locked LO Generation with \u2212186.5dB FoM",
+        "authors": [
+            {
+                "id": 37086045485,
+                "preferredName": "Xiaolong Liu",
+                "firstName": "Xiaolong",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37272174900,
+                "preferredName": "Howard C. Luong",
+                "firstName": "Howard C.",
+                "lastName": "Luong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429042",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429042",
+        "articleTitle": "A Robust Reconfigurable Front-End for Non-contiguous Multi-Channel Carrier Aggregation Receivers",
+        "volume": null,
+        "issue": null,
+        "startPage": "8",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Robust Reconfigurable Front-End for Non-contiguous Multi-Channel Carrier Aggregation Receivers",
+        "authors": [
+            {
+                "id": 38340530200,
+                "preferredName": "Dror Regev",
+                "firstName": "Dror",
+                "lastName": "Regev"
+            },
+            {
+                "id": 37585791300,
+                "preferredName": "Shimi Shilo",
+                "firstName": "Shimi",
+                "lastName": "Shilo"
+            },
+            {
+                "id": 37601540600,
+                "preferredName": "Doron Ezri",
+                "firstName": "Doron",
+                "lastName": "Ezri"
+            },
+            {
+                "id": 37086246656,
+                "preferredName": "Junping Zhang",
+                "firstName": "Junping",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428962",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428962",
+        "articleTitle": "Q-Band CMOS Transmitter System-on-Chip for Protected Satellite Communication",
+        "volume": null,
+        "issue": null,
+        "startPage": "180",
+        "endPage": "183",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Q-Band CMOS Transmitter System-on-Chip for Protected Satellite Communication",
+        "authors": [
+            {
+                "id": 37347517100,
+                "preferredName": "T. LaRocca",
+                "firstName": "T.",
+                "lastName": "LaRocca"
+            },
+            {
+                "id": 38278024500,
+                "preferredName": "K. Thai",
+                "firstName": "K.",
+                "lastName": "Thai"
+            },
+            {
+                "id": 37072386700,
+                "preferredName": "R. Snyder",
+                "firstName": "R.",
+                "lastName": "Snyder"
+            },
+            {
+                "id": 37086425378,
+                "preferredName": "R. Jai",
+                "firstName": "R.",
+                "lastName": "Jai"
+            },
+            {
+                "id": 37353959000,
+                "preferredName": "O. Fordham",
+                "firstName": "O.",
+                "lastName": "Fordham"
+            },
+            {
+                "id": 37085621302,
+                "preferredName": "N. Daftari",
+                "firstName": "N.",
+                "lastName": "Daftari"
+            },
+            {
+                "id": 37088741342,
+                "preferredName": "B. Wu",
+                "firstName": "B.",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37072394700,
+                "preferredName": "Y. Yang",
+                "firstName": "Y.",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37713890900,
+                "preferredName": "M. Watanabe",
+                "firstName": "M.",
+                "lastName": "Watanabe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429048",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429048",
+        "articleTitle": "Mixer-First MIMO Receiver with Multi-Port Impedance Tuning for Decoupling of Compact Antenna Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "112",
+        "endPage": "115",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Mixer-First MIMO Receiver with Multi-Port Impedance Tuning for Decoupling of Compact Antenna Systems",
+        "authors": [
+            {
+                "id": 37085786449,
+                "preferredName": "Charley Wilson",
+                "firstName": "Charley",
+                "lastName": "Wilson"
+            },
+            {
+                "id": 37086432766,
+                "preferredName": "Jacob Dean",
+                "firstName": "Jacob",
+                "lastName": "Dean"
+            },
+            {
+                "id": 37273517300,
+                "preferredName": "Brian A. Floyd",
+                "firstName": "Brian A.",
+                "lastName": "Floyd"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428984",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428984",
+        "articleTitle": "An FDD/FD Capable, Single Antenna RF Front End from 800MHz to 1.2GHz w/ Baseband Harmonic Predistortion",
+        "volume": null,
+        "issue": null,
+        "startPage": "120",
+        "endPage": "123",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "An FDD/FD Capable, Single Antenna RF Front End from 800MHz to 1.2GHz w/ Baseband Harmonic Predistortion",
+        "authors": [
+            {
+                "id": 37085459619,
+                "preferredName": "Hazal Y\u00fcksel",
+                "firstName": "Hazal",
+                "lastName": "Y\u00fcksel"
+            },
+            {
+                "id": 37086048693,
+                "preferredName": "Thomas Tapen",
+                "firstName": "Thomas",
+                "lastName": "Tapen"
+            },
+            {
+                "id": 37085799657,
+                "preferredName": "Zachariah Boynton",
+                "firstName": "Zachariah",
+                "lastName": "Boynton"
+            },
+            {
+                "id": 37085847306,
+                "preferredName": "Emory Enroth",
+                "firstName": "Emory",
+                "lastName": "Enroth"
+            },
+            {
+                "id": 37271591000,
+                "preferredName": "Alyssa Apsel",
+                "firstName": "Alyssa",
+                "lastName": "Apsel"
+            },
+            {
+                "id": 37282515600,
+                "preferredName": "Alyosha C. Molnar",
+                "firstName": "Alyosha C.",
+                "lastName": "Molnar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428988",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428988",
+        "articleTitle": "A 217\u00b5W \u221282dBm IEEE 802.11 Wi-Fi LP-WUR using a 3rd- Harmonic Passive Mixer",
+        "volume": null,
+        "issue": null,
+        "startPage": "172",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 217\u00b5W \u221282dBm IEEE 802.11 Wi-Fi LP-WUR using a 3rd- Harmonic Passive Mixer",
+        "authors": [
+            {
+                "id": 37086033824,
+                "preferredName": "Jaeho Im",
+                "firstName": "Jaeho",
+                "lastName": "Im"
+            },
+            {
+                "id": 37085665370,
+                "preferredName": "Hun-Seok Kim",
+                "firstName": "Hun-Seok",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37283107100,
+                "preferredName": "David D. Wentzloff",
+                "firstName": "David D.",
+                "lastName": "Wentzloff"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429047",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429047",
+        "articleTitle": "A Direct \u0394\u03a3 Receiver with Current-Mode Digitally-Synthesized Frequency - Translated RF Filtering",
+        "volume": null,
+        "issue": null,
+        "startPage": "92",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Direct \u0394\u03a3 Receiver with Current-Mode Digitally-Synthesized Frequency - Translated RF Filtering",
+        "authors": [
+            {
+                "id": 37085526593,
+                "preferredName": "Sushil Subramanian",
+                "firstName": "Sushil",
+                "lastName": "Subramanian"
+            },
+            {
+                "id": 37275623700,
+                "preferredName": "Hossein Hashemi",
+                "firstName": "Hossein",
+                "lastName": "Hashemi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429005",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429005",
+        "articleTitle": "A 151-to-173 GHz FMCW Transmitter Achieving 14 dBm Psat with synchronized Injection-Locked Power Amplifiers and Five in-Phase Power Combining Doublers in 65nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "268",
+        "endPage": "271",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 151-to-173 GHz FMCW Transmitter Achieving 14 dBm Psat with synchronized Injection-Locked Power Amplifiers and Five in-Phase Power Combining Doublers in 65nm CMOS",
+        "authors": [
+            {
+                "id": 37085350461,
+                "preferredName": "Shunli Ma",
+                "firstName": "Shunli",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37086430219,
+                "preferredName": "Tianxiang Wu",
+                "firstName": "Tianxiang",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37086429295,
+                "preferredName": "Jincheng Zhang",
+                "firstName": "Jincheng",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37288701600,
+                "preferredName": "Junyan Ren",
+                "firstName": "Junyan",
+                "lastName": "Ren"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428997",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428997",
+        "articleTitle": "A 0.19mm2 128mW 0.8-1.2GHz 2-Beam 8-Element Digital Direct to RF Beamforming Transmitter in 40nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "128",
+        "endPage": "131",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 0.19mm2 128mW 0.8-1.2GHz 2-Beam 8-Element Digital Direct to RF Beamforming Transmitter in 40nm CMOS",
+        "authors": [
+            {
+                "id": 37086432015,
+                "preferredName": "Boyi Zheng",
+                "firstName": "Boyi",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37085733726,
+                "preferredName": "John Bell",
+                "firstName": "John",
+                "lastName": "Bell"
+            },
+            {
+                "id": 37086431790,
+                "preferredName": "Yan He",
+                "firstName": "Yan",
+                "lastName": "He"
+            },
+            {
+                "id": 37086433239,
+                "preferredName": "Lu Jie",
+                "firstName": "Lu",
+                "lastName": "Jie"
+            },
+            {
+                "id": 37271976300,
+                "preferredName": "Michael Flynn",
+                "firstName": "Michael",
+                "lastName": "Flynn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428964",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428964",
+        "articleTitle": "A Small Signal AC Model Using Scalable Drain Current Equations of AlGaN/GaN MIS Enhancement HEMT",
+        "volume": null,
+        "issue": null,
+        "startPage": "80",
+        "endPage": "83",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Small Signal AC Model Using Scalable Drain Current Equations of AlGaN/GaN MIS Enhancement HEMT",
+        "authors": [
+            {
+                "id": 37085423891,
+                "preferredName": "H. Aoki",
+                "firstName": "H.",
+                "lastName": "Aoki"
+            },
+            {
+                "id": 37086151717,
+                "preferredName": "H. Sakairi",
+                "firstName": "H.",
+                "lastName": "Sakairi"
+            },
+            {
+                "id": 37086152390,
+                "preferredName": "N. Kuroda",
+                "firstName": "N.",
+                "lastName": "Kuroda"
+            },
+            {
+                "id": 37086368512,
+                "preferredName": "Y. Nakamura",
+                "firstName": "Y.",
+                "lastName": "Nakamura"
+            },
+            {
+                "id": 37073358900,
+                "preferredName": "K. Chikamatsu",
+                "firstName": "K.",
+                "lastName": "Chikamatsu"
+            },
+            {
+                "id": 37073286400,
+                "preferredName": "K. Nakahara",
+                "firstName": "K.",
+                "lastName": "Nakahara"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429033",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429033",
+        "articleTitle": "Chip-Package-PCB Co-Design of Power Combiners in SESUB and WLCSP Technology with Re-Distribution Layers",
+        "volume": null,
+        "issue": null,
+        "startPage": "20",
+        "endPage": "23",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Chip-Package-PCB Co-Design of Power Combiners in SESUB and WLCSP Technology with Re-Distribution Layers",
+        "authors": [
+            {
+                "id": 38241473500,
+                "preferredName": "Thanh Vinh Dinh",
+                "firstName": "Thanh Vinh",
+                "lastName": "Dinh"
+            },
+            {
+                "id": 37266965100,
+                "preferredName": "Sidina Wane",
+                "firstName": "Sidina",
+                "lastName": "Wane"
+            },
+            {
+                "id": 38319876200,
+                "preferredName": "Dominique Les\u00e9n\u00e9chal",
+                "firstName": "Dominique",
+                "lastName": "Les\u00e9n\u00e9chal"
+            },
+            {
+                "id": 37300192800,
+                "preferredName": "Philippe Descamps",
+                "firstName": "Philippe",
+                "lastName": "Descamps"
+            },
+            {
+                "id": 37296345000,
+                "preferredName": "Laurent Leyssenne",
+                "firstName": "Laurent",
+                "lastName": "Leyssenne"
+            },
+            {
+                "id": 37085505050,
+                "preferredName": "Damienne Baion",
+                "firstName": "Damienne",
+                "lastName": "Baion"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428990",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428990",
+        "articleTitle": "A 750\u03bcW \u221288dBm-Sensitivity CMOS Sub-harmonic Phase-Tracking Receiver",
+        "volume": null,
+        "issue": null,
+        "startPage": "296",
+        "endPage": "299",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 750\u03bcW \u221288dBm-Sensitivity CMOS Sub-harmonic Phase-Tracking Receiver",
+        "authors": [
+            {
+                "id": 37086072174,
+                "preferredName": "Bingwei Jiang",
+                "firstName": "Bingwei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37272174900,
+                "preferredName": "Howard C. Luong",
+                "firstName": "Howard C.",
+                "lastName": "Luong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429012",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429012",
+        "articleTitle": "A 12.46\u00b5W Baseband Timing Circuitry for Synchronization and Duty-Cycling of Scalable Wireless Mesh Networks in IoT",
+        "volume": null,
+        "issue": null,
+        "startPage": "328",
+        "endPage": "331",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 12.46\u00b5W Baseband Timing Circuitry for Synchronization and Duty-Cycling of Scalable Wireless Mesh Networks in IoT",
+        "authors": [
+            {
+                "id": 37085354694,
+                "preferredName": "Enkhbayasgalan Gantsog",
+                "firstName": "Enkhbayasgalan",
+                "lastName": "Gantsog"
+            },
+            {
+                "id": 37085456487,
+                "preferredName": "Ivan Bukreyev",
+                "firstName": "Ivan",
+                "lastName": "Bukreyev"
+            },
+            {
+                "id": 37562316200,
+                "preferredName": "Frank Lane",
+                "firstName": "Frank",
+                "lastName": "Lane"
+            },
+            {
+                "id": 37271591000,
+                "preferredName": "Alyssa Apsel",
+                "firstName": "Alyssa",
+                "lastName": "Apsel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428959",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428959",
+        "articleTitle": "A Gradient Descent Bias Optimizer for Oscillator Phase Noise Reduction Demonstrated in 45nm and 32nm SOI CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "344",
+        "endPage": "347",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Gradient Descent Bias Optimizer for Oscillator Phase Noise Reduction Demonstrated in 45nm and 32nm SOI CMOS",
+        "authors": [
+            {
+                "id": 38572177000,
+                "preferredName": "Mark Ferriss",
+                "firstName": "Mark",
+                "lastName": "Ferriss"
+            },
+            {
+                "id": 37542588600,
+                "preferredName": "Bodhisatwa Sadhu",
+                "firstName": "Bodhisatwa",
+                "lastName": "Sadhu"
+            },
+            {
+                "id": 37269625300,
+                "preferredName": "Daniel Friedman",
+                "firstName": "Daniel",
+                "lastName": "Friedman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428971",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428971",
+        "articleTitle": "An 8-Element, 1-3GHz Direct Space-to-Information Converter for Rapid, Compressive-Sampling Direction-of-Arrival Finding Utilizing Pseudo-Random Antenna-Weight Modulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "116",
+        "endPage": "119",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "An 8-Element, 1-3GHz Direct Space-to-Information Converter for Rapid, Compressive-Sampling Direction-of-Arrival Finding Utilizing Pseudo-Random Antenna-Weight Modulation",
+        "authors": [
+            {
+                "id": 37086117279,
+                "preferredName": "Matthew Bajor",
+                "firstName": "Matthew",
+                "lastName": "Bajor"
+            },
+            {
+                "id": 37373349300,
+                "preferredName": "Tanbir Haque",
+                "firstName": "Tanbir",
+                "lastName": "Haque"
+            },
+            {
+                "id": 37086428091,
+                "preferredName": "Guoxiang Han",
+                "firstName": "Guoxiang",
+                "lastName": "Han"
+            },
+            {
+                "id": 37086433266,
+                "preferredName": "Ciyuan Zhang",
+                "firstName": "Ciyuan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37287378300,
+                "preferredName": "John Wright",
+                "firstName": "John",
+                "lastName": "Wright"
+            },
+            {
+                "id": 37268120200,
+                "preferredName": "Peter R. Kinget",
+                "firstName": "Peter R.",
+                "lastName": "Kinget"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429028",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429028",
+        "articleTitle": "An Analog Wide-Bandwidth Baseband Chain for 12Gbps 256QAM Direct-Conversion Receiver",
+        "volume": null,
+        "issue": null,
+        "startPage": "332",
+        "endPage": "335",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "An Analog Wide-Bandwidth Baseband Chain for 12Gbps 256QAM Direct-Conversion Receiver",
+        "authors": [
+            {
+                "id": 37271891600,
+                "preferredName": "B. Jalali",
+                "firstName": "B.",
+                "lastName": "Jalali"
+            },
+            {
+                "id": 37085991010,
+                "preferredName": "M. Moretto",
+                "firstName": "M.",
+                "lastName": "Moretto"
+            },
+            {
+                "id": 37085989949,
+                "preferredName": "A. Singh",
+                "firstName": "A.",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37270855700,
+                "preferredName": "S. Shahramian",
+                "firstName": "S.",
+                "lastName": "Shahramian"
+            },
+            {
+                "id": 37269986000,
+                "preferredName": "Y. Baeyens",
+                "firstName": "Y.",
+                "lastName": "Baeyens"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429034",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429034",
+        "articleTitle": "A Wide-Band Transmitter and Low-Noise PLL for a Highly Integrated 4T-4R-2F ZIF Transceiver in 28nm",
+        "volume": null,
+        "issue": null,
+        "startPage": "132",
+        "endPage": "135",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Wide-Band Transmitter and Low-Noise PLL for a Highly Integrated 4T-4R-2F ZIF Transceiver in 28nm",
+        "authors": [
+            {
+                "id": 37294411900,
+                "preferredName": "P. Litmanen",
+                "firstName": "P.",
+                "lastName": "Litmanen"
+            },
+            {
+                "id": 37286074600,
+                "preferredName": "S. Akhtar",
+                "firstName": "S.",
+                "lastName": "Akhtar"
+            },
+            {
+                "id": 37085795561,
+                "preferredName": "S. Finocchiaro",
+                "firstName": "S.",
+                "lastName": "Finocchiaro"
+            },
+            {
+                "id": 37326112400,
+                "preferredName": "F. Dantoni",
+                "firstName": "F.",
+                "lastName": "Dantoni"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429007",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429007",
+        "articleTitle": "An 8.8-GS/s 8b Time-Interleaved SAR ADC with 50-dB SFDR Using Complementary Dual-Loop-Assisted Buffers in 28nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "88",
+        "endPage": "91",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "An 8.8-GS/s 8b Time-Interleaved SAR ADC with 50-dB SFDR Using Complementary Dual-Loop-Assisted Buffers in 28nm CMOS",
+        "authors": [
+            {
+                "id": 37086427653,
+                "preferredName": "X. Shawn Wang",
+                "firstName": "X. Shawn",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37406799000,
+                "preferredName": "Chi-Hang Chan",
+                "firstName": "Chi-Hang",
+                "lastName": "Chan"
+            },
+            {
+                "id": 37085676749,
+                "preferredName": "Jieqiong Du",
+                "firstName": "Jieqiong",
+                "lastName": "Du"
+            },
+            {
+                "id": 37085829575,
+                "preferredName": "Chien-Heng Wong",
+                "firstName": "Chien-Heng",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37085662526,
+                "preferredName": "Yilei Li",
+                "firstName": "Yilei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37072435200,
+                "preferredName": "Yuan Du",
+                "firstName": "Yuan",
+                "lastName": "Du"
+            },
+            {
+                "id": 38027328100,
+                "preferredName": "Yen-Cheng Kuan",
+                "firstName": "Yen-Cheng",
+                "lastName": "Kuan"
+            },
+            {
+                "id": 37085830946,
+                "preferredName": "Boyu Hu",
+                "firstName": "Boyu",
+                "lastName": "Hu"
+            },
+            {
+                "id": 38183724300,
+                "preferredName": "Mau-Chung Frank Chang",
+                "firstName": "Mau-Chung Frank",
+                "lastName": "Chang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429029",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429029",
+        "articleTitle": "A CMOS-SOI Power Amplifier Technology using EDNMOS for Sub 6 GHz Wireless Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A CMOS-SOI Power Amplifier Technology using EDNMOS for Sub 6 GHz Wireless Applications",
+        "authors": [
+            {
+                "id": 37085989620,
+                "preferredName": "Rui Tze Toh",
+                "firstName": "Rui Tze",
+                "lastName": "Toh"
+            },
+            {
+                "id": 37085991856,
+                "preferredName": "Shyam Parthasarathy",
+                "firstName": "Shyam",
+                "lastName": "Parthasarathy"
+            },
+            {
+                "id": 37085617080,
+                "preferredName": "Shaoqiang Zhang",
+                "firstName": "Shaoqiang",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086092522,
+                "preferredName": "Madabusi Govindarajan",
+                "firstName": "Madabusi",
+                "lastName": "Govindarajan"
+            },
+            {
+                "id": 37085612461,
+                "preferredName": "Jen Shuang Wong",
+                "firstName": "Jen Shuang",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37277039300,
+                "preferredName": "Kok Wai Chew",
+                "firstName": "Kok Wai",
+                "lastName": "Chew"
+            },
+            {
+                "id": 37391924400,
+                "preferredName": "Luis Andia",
+                "firstName": "Luis",
+                "lastName": "Andia"
+            },
+            {
+                "id": 37274925700,
+                "preferredName": "Diing Shenp Ang",
+                "firstName": "Diing Shenp",
+                "lastName": "Ang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429000",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429000",
+        "articleTitle": "A Methodology for Accurate DFE Characterization",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "99",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A Methodology for Accurate DFE Characterization",
+        "authors": [
+            {
+                "id": 37070227700,
+                "preferredName": "Alireza Sharif-Bakhtiar",
+                "firstName": "Alireza",
+                "lastName": "Sharif-Bakhtiar"
+            },
+            {
+                "id": 37296785400,
+                "preferredName": "Anthony Chan Carusone",
+                "firstName": "Anthony Chan",
+                "lastName": "Carusone"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428955",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428955",
+        "articleTitle": "Plenary Speaker 1",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Plenary Speaker 1",
+        "authors": [
+            {
+                "id": 37086735668,
+                "preferredName": "Honorable Zachary J. Lemnios",
+                "firstName": "Honorable Zachary J.",
+                "lastName": "Lemnios"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428979",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428979",
+        "articleTitle": "A 10 GHz Digital Phase Noise Filter with 14 dB Noise Suppression and \u2212127 dBc/Hz Noise Sensitivity at 1 MHz Offset",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 10 GHz Digital Phase Noise Filter with 14 dB Noise Suppression and \u2212127 dBc/Hz Noise Sensitivity at 1 MHz Offset",
+        "authors": [
+            {
+                "id": 37085652081,
+                "preferredName": "Tongning Hu",
+                "firstName": "Tongning",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37085391282,
+                "preferredName": "Shilei Hao",
+                "firstName": "Shilei",
+                "lastName": "Hao"
+            },
+            {
+                "id": 37273071600,
+                "preferredName": "Qun Jane Gu",
+                "firstName": "Qun Jane",
+                "lastName": "Gu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428991",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428991",
+        "articleTitle": "fT Enhancement of CMOS Transistor Using Isolated Polysilicon Gates",
+        "volume": null,
+        "issue": null,
+        "startPage": "76",
+        "endPage": "79",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "fT Enhancement of CMOS Transistor Using Isolated Polysilicon Gates",
+        "authors": [
+            {
+                "id": 37394232000,
+                "preferredName": "Xi Sung Loo",
+                "firstName": "Xi Sung",
+                "lastName": "Loo"
+            },
+            {
+                "id": 37090019715,
+                "preferredName": "Moe Z. Win",
+                "firstName": "Moe Z.",
+                "lastName": "Win"
+            },
+            {
+                "id": 37277042100,
+                "preferredName": "Kiat Seng Yeo",
+                "firstName": "Kiat Seng",
+                "lastName": "Yeo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428954",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428954",
+        "articleTitle": "Plenary Speaker 2",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Plenary Speaker 2",
+        "authors": [
+            {
+                "id": 37085752838,
+                "preferredName": "Lars Reger",
+                "firstName": "Lars",
+                "lastName": "Reger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429046",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429046",
+        "articleTitle": "A 2.56 Gbps Asynchronous Serial Transceiver with Embedded 80 Mbps Secondary Data Transmission Capability in 65nm CMOS",
+        "volume": null,
+        "issue": null,
+        "startPage": "360",
+        "endPage": "363",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 2.56 Gbps Asynchronous Serial Transceiver with Embedded 80 Mbps Secondary Data Transmission Capability in 65nm CMOS",
+        "authors": [
+            {
+                "id": 37086257961,
+                "preferredName": "Xiaoran Wang",
+                "firstName": "Xiaoran",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085482898,
+                "preferredName": "Tianwei Liu",
+                "firstName": "Tianwei",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085456005,
+                "preferredName": "Shita Guo",
+                "firstName": "Shita",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37273648900,
+                "preferredName": "Mitchell A. Thornton",
+                "firstName": "Mitchell A.",
+                "lastName": "Thornton"
+            },
+            {
+                "id": 37265688100,
+                "preferredName": "Ping Gui",
+                "firstName": "Ping",
+                "lastName": "Gui"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429013",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429013",
+        "articleTitle": "A 35 GHz mm-Wave Pulse Radar with Pulse Width Modulated by SDM Realizing Sub-mm Resolution for 3D Imaging System",
+        "volume": null,
+        "issue": null,
+        "startPage": "261",
+        "endPage": "263",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "A 35 GHz mm-Wave Pulse Radar with Pulse Width Modulated by SDM Realizing Sub-mm Resolution for 3D Imaging System",
+        "authors": [
+            {
+                "id": 37085350461,
+                "preferredName": "Shunli Ma",
+                "firstName": "Shunli",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37086429295,
+                "preferredName": "Jincheng Zhang",
+                "firstName": "Jincheng",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086430219,
+                "preferredName": "Tianxiang Wu",
+                "firstName": "Tianxiang",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37288701600,
+                "preferredName": "Junyan Ren",
+                "firstName": "Junyan",
+                "lastName": "Ren"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429043",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429043",
+        "articleTitle": "Abstract Cards",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "92",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Abstract Cards",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428961",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428961",
+        "articleTitle": "Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429011",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429011",
+        "articleTitle": "Frequently asked questions",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Frequently asked questions",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428982",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428982",
+        "articleTitle": "The End of Indexes",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "The End of Indexes",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428957",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428957",
+        "articleTitle": "About cp",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "About cp",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428996",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428996",
+        "articleTitle": "Hub Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Hub Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428963",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428963",
+        "articleTitle": "Session List",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Session List",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428965",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428965",
+        "articleTitle": "Welcome",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Welcome",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429006",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429006",
+        "articleTitle": "Affiliation Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "19",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Affiliation Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428834",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428834",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8428840",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8428840",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429014",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429014",
+        "articleTitle": "Program",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "96",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Program",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8412655",
+        "doi": "10.1109/RFIC.2018.8429044",
+        "publicationYear": "2018",
+        "publicationDate": "10-12 June 2018",
+        "articleNumber": "8429044",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Radio Frequency Integrated Circuits Symposium (RFIC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

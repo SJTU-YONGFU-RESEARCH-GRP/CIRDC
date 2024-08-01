@@ -1,0 +1,386 @@
+[
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00010",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8955451",
+        "articleTitle": "RDMA-Based Library for Collective Operations in MPI",
+        "volume": null,
+        "issue": null,
+        "startPage": "39",
+        "endPage": "46",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "RDMA-Based Library for Collective Operations in MPI",
+        "authors": [
+            {
+                "id": 37087237334,
+                "preferredName": "Alexander Margolin",
+                "firstName": "Alexander",
+                "lastName": "Margolin"
+            },
+            {
+                "id": 37352253800,
+                "preferredName": "Amnon Barak",
+                "firstName": "Amnon",
+                "lastName": "Barak"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00007",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8955469",
+        "articleTitle": "Impacts of Multi-GPU MPI Collective Communications on Large FFT Computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Impacts of Multi-GPU MPI Collective Communications on Large FFT Computation",
+        "authors": [
+            {
+                "id": 37087236673,
+                "preferredName": "Alan Ayala",
+                "firstName": "Alan",
+                "lastName": "Ayala"
+            },
+            {
+                "id": 37401700800,
+                "preferredName": "Stanimire Tomov",
+                "firstName": "Stanimire",
+                "lastName": "Tomov"
+            },
+            {
+                "id": 37087235761,
+                "preferredName": "Xi Luo",
+                "firstName": "Xi",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37087235815,
+                "preferredName": "Hejer Shaeik",
+                "firstName": "Hejer",
+                "lastName": "Shaeik"
+            },
+            {
+                "id": 37895512100,
+                "preferredName": "Azzam Haidar",
+                "firstName": "Azzam",
+                "lastName": "Haidar"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00008",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8955452",
+        "articleTitle": "Node-Aware Improvements to Allreduce",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Node-Aware Improvements to Allreduce",
+        "authors": [
+            {
+                "id": 37087238155,
+                "preferredName": "Amanda Bienz",
+                "firstName": "Amanda",
+                "lastName": "Bienz"
+            },
+            {
+                "id": 37085506489,
+                "preferredName": "Luke Olson",
+                "firstName": "Luke",
+                "lastName": "Olson"
+            },
+            {
+                "id": 37284797700,
+                "preferredName": "William Gropp",
+                "firstName": "William",
+                "lastName": "Gropp"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00011",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8955474",
+        "articleTitle": "Using MPI-3 RMA for Active Messages",
+        "volume": null,
+        "issue": null,
+        "startPage": "47",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Using MPI-3 RMA for Active Messages",
+        "authors": [
+            {
+                "id": 37085471768,
+                "preferredName": "Joseph Schuchart",
+                "firstName": "Joseph",
+                "lastName": "Schuchart"
+            },
+            {
+                "id": 37426893400,
+                "preferredName": "Aurelien Bouteiller",
+                "firstName": "Aurelien",
+                "lastName": "Bouteiller"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00009",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8955448",
+        "articleTitle": "Accelerating the Global Arrays ComEx Runtime Using Multiple Progress Ranks",
+        "volume": null,
+        "issue": null,
+        "startPage": "29",
+        "endPage": "38",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Accelerating the Global Arrays ComEx Runtime Using Multiple Progress Ranks",
+        "authors": [
+            {
+                "id": 37085662807,
+                "preferredName": "Nitin Gawande",
+                "firstName": "Nitin",
+                "lastName": "Gawande"
+            },
+            {
+                "id": 37603007600,
+                "preferredName": "Karol Kowalski",
+                "firstName": "Karol",
+                "lastName": "Kowalski"
+            },
+            {
+                "id": 37269205600,
+                "preferredName": "Bruce Palmer",
+                "firstName": "Bruce",
+                "lastName": "Palmer"
+            },
+            {
+                "id": 37283825700,
+                "preferredName": "Sriram Krishnamoorthy",
+                "firstName": "Sriram",
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "id": 38572484800,
+                "preferredName": "Edoardo Apra",
+                "firstName": "Edoardo",
+                "lastName": "Apra"
+            },
+            {
+                "id": 37651460700,
+                "preferredName": "Joseph Manzano",
+                "firstName": "Joseph",
+                "lastName": "Manzano"
+            },
+            {
+                "id": 37087237546,
+                "preferredName": "Vinay Amatya",
+                "firstName": "Vinay",
+                "lastName": "Amatya"
+            },
+            {
+                "id": 37087236504,
+                "preferredName": "Jonathan Crawford",
+                "firstName": "Jonathan",
+                "lastName": "Crawford"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00006",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8955473",
+        "articleTitle": "Multirate: A Flexible MPI Benchmark for Fast Assessment of Multithreaded Communication Performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Multirate: A Flexible MPI Benchmark for Fast Assessment of Multithreaded Communication Performance",
+        "authors": [
+            {
+                "id": 37087083945,
+                "preferredName": "Thananon Patinyasakdikul",
+                "firstName": "Thananon",
+                "lastName": "Patinyasakdikul"
+            },
+            {
+                "id": 37087235761,
+                "preferredName": "Xi Luo",
+                "firstName": "Xi",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37087086158,
+                "preferredName": "David Eberius",
+                "firstName": "David",
+                "lastName": "Eberius"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00005",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8955457",
+        "articleTitle": "Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00004",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8954978",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00012",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8954975",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00002",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8954977",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00001",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8954976",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949890",
+        "doi": "10.1109/ExaMPI49596.2019.00003",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "8955465",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

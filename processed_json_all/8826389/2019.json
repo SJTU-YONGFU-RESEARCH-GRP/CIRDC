@@ -1,0 +1,949 @@
+[
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834717",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834717",
+        "articleTitle": "NAS 2019 Keynotes",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "NAS 2019 Keynotes",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834720",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834720",
+        "articleTitle": "Learning Workflow Scheduling on Multi-Resource Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Learning Workflow Scheduling on Multi-Resource Clusters",
+        "authors": [
+            {
+                "id": 37085867452,
+                "preferredName": "Yang Hu",
+                "firstName": "Yang",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37299822500,
+                "preferredName": "Cees de Laat",
+                "firstName": "Cees",
+                "lastName": "de Laat"
+            },
+            {
+                "id": 37422360000,
+                "preferredName": "Zhiming Zhao",
+                "firstName": "Zhiming",
+                "lastName": "Zhao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834730",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834730",
+        "articleTitle": "Leveraging Array Mapped Tries in KSM for Lightweight Memory Deduplication",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Leveraging Array Mapped Tries in KSM for Lightweight Memory Deduplication",
+        "authors": [
+            {
+                "id": 37087007380,
+                "preferredName": "Lingjing You",
+                "firstName": "Lingjing",
+                "lastName": "You"
+            },
+            {
+                "id": 37899088700,
+                "preferredName": "Yongkun Li",
+                "firstName": "Yongkun",
+                "lastName": "Li"
+            },
+            {
+                "id": 37087008043,
+                "preferredName": "Fan Guo",
+                "firstName": "Fan",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37291024000,
+                "preferredName": "Yinlong Xu",
+                "firstName": "Yinlong",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37087008782,
+                "preferredName": "Jinzhong Chen",
+                "firstName": "Jinzhong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087002708,
+                "preferredName": "Liu Yuan",
+                "firstName": "Liu",
+                "lastName": "Yuan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834723",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834723",
+        "articleTitle": "Exploring Transfer Learning to Reduce Training Overhead of HPC Data in Machine Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "7",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Exploring Transfer Learning to Reduce Training Overhead of HPC Data in Machine Learning",
+        "authors": [
+            {
+                "id": 37086434254,
+                "preferredName": "Tong Liu",
+                "firstName": "Tong",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086514377,
+                "preferredName": "Shakeel Alibhai",
+                "firstName": "Shakeel",
+                "lastName": "Alibhai"
+            },
+            {
+                "id": 37086452581,
+                "preferredName": "Jinzhen Wang",
+                "firstName": "Jinzhen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37403280600,
+                "preferredName": "Qing Liu",
+                "firstName": "Qing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37293267900,
+                "preferredName": "Xubin He",
+                "firstName": "Xubin",
+                "lastName": "He"
+            },
+            {
+                "id": 37085559050,
+                "preferredName": "Chentao Wu",
+                "firstName": "Chentao",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834729",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834729",
+        "articleTitle": "Towards Cluster-wide Deduplication Based on Ceph",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Towards Cluster-wide Deduplication Based on Ceph",
+        "authors": [
+            {
+                "id": 37087005149,
+                "preferredName": "Jinpeng Wang",
+                "firstName": "Jinpeng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085443121,
+                "preferredName": "Yang Wang",
+                "firstName": "Yang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37087006397,
+                "preferredName": "Hekang Wang",
+                "firstName": "Hekang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37528708800,
+                "preferredName": "Kejiang Ye",
+                "firstName": "Kejiang",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37278305300,
+                "preferredName": "Chengzhong Xu",
+                "firstName": "Chengzhong",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37538338500,
+                "preferredName": "Shuibing He",
+                "firstName": "Shuibing",
+                "lastName": "He"
+            },
+            {
+                "id": 37288108000,
+                "preferredName": "Lingfang Zeng",
+                "firstName": "Lingfang",
+                "lastName": "Zeng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834716",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834716",
+        "articleTitle": "HCMonitor: An Accurate Measurement System for High Concurrent Network Services",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "HCMonitor: An Accurate Measurement System for High Concurrent Network Services",
+        "authors": [
+            {
+                "id": 37087003316,
+                "preferredName": "Hui Song",
+                "firstName": "Hui",
+                "lastName": "Song"
+            },
+            {
+                "id": 37089092647,
+                "preferredName": "Wenli Zhang",
+                "firstName": "Wenli",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37962374500,
+                "preferredName": "Ke Liu",
+                "firstName": "Ke",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086043468,
+                "preferredName": "Yifan Shen",
+                "firstName": "Yifan",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37407023400,
+                "preferredName": "Mingyu Chen",
+                "firstName": "Mingyu",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834722",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834722",
+        "articleTitle": "Thermo-GC: Reducing Write Amplification by Tagging Migrated Pages during Garbage Collection",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Thermo-GC: Reducing Write Amplification by Tagging Migrated Pages during Garbage Collection",
+        "authors": [
+            {
+                "id": 38240331000,
+                "preferredName": "Jing Yang",
+                "firstName": "Jing",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086030113,
+                "preferredName": "Shuyi Pei",
+                "firstName": "Shuyi",
+                "lastName": "Pei"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834728",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834728",
+        "articleTitle": "Optimizing Tail Latency of LDPC based Flash Memory Storage Systems Via Smart Refresh",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Optimizing Tail Latency of LDPC based Flash Memory Storage Systems Via Smart Refresh",
+        "authors": [
+            {
+                "id": 37087005874,
+                "preferredName": "Yina Lv",
+                "firstName": "Yina",
+                "lastName": "Lv"
+            },
+            {
+                "id": 38019681300,
+                "preferredName": "Liang Shi",
+                "firstName": "Liang",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37085551680,
+                "preferredName": "Qiao Li",
+                "firstName": "Qiao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085533896,
+                "preferredName": "Congming Gao",
+                "firstName": "Congming",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37265504000,
+                "preferredName": "Chun Jason Xue",
+                "firstName": "Chun Jason",
+                "lastName": "Xue"
+            },
+            {
+                "id": 37266664300,
+                "preferredName": "Edwin Sha",
+                "firstName": "Edwin",
+                "lastName": "Sha"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834734",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834734",
+        "articleTitle": "Ares: A Scalable High-Performance Passive Measurement Tool Using a Multicore System",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Ares: A Scalable High-Performance Passive Measurement Tool Using a Multicore System",
+        "authors": [
+            {
+                "id": 37085994112,
+                "preferredName": "Xiaoban Wu",
+                "firstName": "Xiaoban",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37671203600,
+                "preferredName": "Yan Luo",
+                "firstName": "Yan",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37085556117,
+                "preferredName": "Jeronimo Bezerra",
+                "firstName": "Jeronimo",
+                "lastName": "Bezerra"
+            },
+            {
+                "id": 37086411723,
+                "preferredName": "Liang-Min Wang",
+                "firstName": "Liang-Min",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834721",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834721",
+        "articleTitle": "Contention Aware Workload and Resource Co-Scheduling on Power-Bounded Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Contention Aware Workload and Resource Co-Scheduling on Power-Bounded Systems",
+        "authors": [
+            {
+                "id": 37085830020,
+                "preferredName": "Pengfei Zou",
+                "firstName": "Pengfei",
+                "lastName": "Zou"
+            },
+            {
+                "id": 37403940500,
+                "preferredName": "Xizhou Feng",
+                "firstName": "Xizhou",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37281837400,
+                "preferredName": "Rong Ge",
+                "firstName": "Rong",
+                "lastName": "Ge"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834725",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834725",
+        "articleTitle": "Per-File Secure Deletion for Flash-Based Solid State Drives",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Per-File Secure Deletion for Flash-Based Solid State Drives",
+        "authors": [
+            {
+                "id": 37087006914,
+                "preferredName": "Tianran Xiao",
+                "firstName": "Tianran",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37985096800,
+                "preferredName": "Wei Tong",
+                "firstName": "Wei",
+                "lastName": "Tong"
+            },
+            {
+                "id": 37087007042,
+                "preferredName": "Xia Lei",
+                "firstName": "Xia",
+                "lastName": "Lei"
+            },
+            {
+                "id": 37405251100,
+                "preferredName": "Jingning Liu",
+                "firstName": "Jingning",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37089265467,
+                "preferredName": "Bo Liu",
+                "firstName": "Bo",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834733",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834733",
+        "articleTitle": "CCPNC: A Cooperative Caching Strategy Based on Content Popularity and Node Centrality",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "CCPNC: A Cooperative Caching Strategy Based on Content Popularity and Node Centrality",
+        "authors": [
+            {
+                "id": 37087005941,
+                "preferredName": "Yunming Mo",
+                "firstName": "Yunming",
+                "lastName": "Mo"
+            },
+            {
+                "id": 37087003329,
+                "preferredName": "Jinxing Bao",
+                "firstName": "Jinxing",
+                "lastName": "Bao"
+            },
+            {
+                "id": 37086485424,
+                "preferredName": "Shaobing Wang",
+                "firstName": "Shaobing",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37087005435,
+                "preferredName": "Yaxiong Ma",
+                "firstName": "Yaxiong",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37087004652,
+                "preferredName": "Han Liang",
+                "firstName": "Han",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37087006283,
+                "preferredName": "Jiabao Huang",
+                "firstName": "Jiabao",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37536250600,
+                "preferredName": "Ping Lu",
+                "firstName": "Ping",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37600068300,
+                "preferredName": "Jincai Chen",
+                "firstName": "Jincai",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834724",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834724",
+        "articleTitle": "An Adaptive SSD Cache Architecture Simultaneously Using Multiple Caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "An Adaptive SSD Cache Architecture Simultaneously Using Multiple Caches",
+        "authors": [
+            {
+                "id": 37087006514,
+                "preferredName": "Nikolaus Jeremic",
+                "firstName": "Nikolaus",
+                "lastName": "Jeremic"
+            },
+            {
+                "id": 37662551000,
+                "preferredName": "Helge Parzyjegla",
+                "firstName": "Helge",
+                "lastName": "Parzyjegla"
+            },
+            {
+                "id": 37282689500,
+                "preferredName": "Gero M\u00fchl",
+                "firstName": "Gero",
+                "lastName": "M\u00fchl"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834732",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834732",
+        "articleTitle": "Latency Fairness Scheduling for Shared Storage Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Latency Fairness Scheduling for Shared Storage Systems",
+        "authors": [
+            {
+                "id": 37086418297,
+                "preferredName": "Yuhan Peng",
+                "firstName": "Yuhan",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37087008120,
+                "preferredName": "Qingyue Liu",
+                "firstName": "Qingyue",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37295624900,
+                "preferredName": "Peter Varman",
+                "firstName": "Peter",
+                "lastName": "Varman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834714",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834714",
+        "articleTitle": "LT-TCO: A TCO Calculation Model of Data Centers for Long-Term Data Preservation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "LT-TCO: A TCO Calculation Model of Data Centers for Long-Term Data Preservation",
+        "authors": [
+            {
+                "id": 37087008423,
+                "preferredName": "Wenrui Yan",
+                "firstName": "Wenrui",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37085675476,
+                "preferredName": "Jie Yao",
+                "firstName": "Jie",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37397318100,
+                "preferredName": "Qiang Cao",
+                "firstName": "Qiang",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37087008805,
+                "preferredName": "Yifan Zhang",
+                "firstName": "Yifan",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834726",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834726",
+        "articleTitle": "HCMA: Supporting High Concurrency of Memory Accesses with Scratchpad Memory in FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "HCMA: Supporting High Concurrency of Memory Accesses with Scratchpad Memory in FPGAs",
+        "authors": [
+            {
+                "id": 37086289852,
+                "preferredName": "Yangyang Zhao",
+                "firstName": "Yangyang",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085765768,
+                "preferredName": "Yuhang Liu",
+                "firstName": "Yuhang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37087006624,
+                "preferredName": "Wei Li",
+                "firstName": "Wei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37407023400,
+                "preferredName": "Mingyu Chen",
+                "firstName": "Mingyu",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834719",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834719",
+        "articleTitle": "DV-NVLLC: Efficiently guaranteeing crash consistency in persistent memory via dynamic versioning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "DV-NVLLC: Efficiently guaranteeing crash consistency in persistent memory via dynamic versioning",
+        "authors": [
+            {
+                "id": 37087004095,
+                "preferredName": "Kai Tang",
+                "firstName": "Kai",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37985096800,
+                "preferredName": "Wei Tong",
+                "firstName": "Wei",
+                "lastName": "Tong"
+            },
+            {
+                "id": 37087003566,
+                "preferredName": "Jun Ma",
+                "firstName": "Jun",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37089265467,
+                "preferredName": "Bo Liu",
+                "firstName": "Bo",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834727",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834727",
+        "articleTitle": "Load-aware Elastic Data Reduction and Re-computation for Adaptive Mesh Refinement",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Load-aware Elastic Data Reduction and Re-computation for Adaptive Mesh Refinement",
+        "authors": [
+            {
+                "id": 37086452926,
+                "preferredName": "Mengxiao Wang",
+                "firstName": "Mengxiao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086435367,
+                "preferredName": "Huizhang Luo",
+                "firstName": "Huizhang",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37403280600,
+                "preferredName": "Qing Liu",
+                "firstName": "Qing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37272625400,
+                "preferredName": "Hong Jiang",
+                "firstName": "Hong",
+                "lastName": "Jiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834718",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834718",
+        "articleTitle": "NAS 2019 Committees",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "NAS 2019 Committees",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834715",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834715",
+        "articleTitle": "NAS 2019 Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "NAS 2019 Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834712",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834712",
+        "articleTitle": "NAS 2019 Messages",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "NAS 2019 Messages",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834711",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834711",
+        "articleTitle": "NAS 2019 Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "NAS 2019 Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834709",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834709",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834713",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834713",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834731",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834731",
+        "articleTitle": "NAS 2019 Program",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "NAS 2019 Program",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8826389",
+        "doi": "10.1109/NAS.2019.8834710",
+        "publicationYear": "2019",
+        "publicationDate": "15-17 Aug. 2019",
+        "articleNumber": "8834710",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Networking, Architecture and Storage (NAS)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    }
+]

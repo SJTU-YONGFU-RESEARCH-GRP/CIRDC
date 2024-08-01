@@ -1,0 +1,1961 @@
+[
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.54",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431581",
+        "articleTitle": "Virtualizing transactional memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "494",
+        "endPage": "505",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Virtualizing transactional memory",
+        "authors": [
+            {
+                "id": 37424014700,
+                "preferredName": "R. Rajwar",
+                "firstName": "R.",
+                "lastName": "Rajwar"
+            },
+            {
+                "id": 37283799400,
+                "preferredName": "M. Herlihy",
+                "firstName": "M.",
+                "lastName": "Herlihy"
+            },
+            {
+                "id": 37280013100,
+                "preferredName": "K. Lai",
+                "firstName": "K.",
+                "lastName": "Lai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.34",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431574",
+        "articleTitle": "Interconnections in multi-core architectures: understanding mechanisms, overheads and scaling",
+        "volume": null,
+        "issue": null,
+        "startPage": "408",
+        "endPage": "419",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Interconnections in multi-core architectures: understanding mechanisms, overheads and scaling",
+        "authors": [
+            {
+                "id": 37709981500,
+                "preferredName": "R. Kumar",
+                "firstName": "R.",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37267148800,
+                "preferredName": "V. Zyuban",
+                "firstName": "V.",
+                "lastName": "Zyuban"
+            },
+            {
+                "id": 37282355800,
+                "preferredName": "D.M. Tullsen",
+                "firstName": "D.M.",
+                "lastName": "Tullsen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.53",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431568",
+        "articleTitle": "Victim replication: maximizing capacity while hiding wire delay in tiled chip multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "336",
+        "endPage": "345",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Victim replication: maximizing capacity while hiding wire delay in tiled chip multiprocessors",
+        "authors": [
+            {
+                "id": 38226483100,
+                "preferredName": "M. Zhang",
+                "firstName": "M.",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37422631600,
+                "preferredName": "K. Asanovic",
+                "firstName": "K.",
+                "lastName": "Asanovic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.18",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431584",
+        "articleTitle": "Computing architectural vulnerability factors for address-based structures",
+        "volume": null,
+        "issue": null,
+        "startPage": "532",
+        "endPage": "543",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Computing architectural vulnerability factors for address-based structures",
+        "authors": [
+            {
+                "id": 37396210000,
+                "preferredName": "A. Biswas",
+                "firstName": "A.",
+                "lastName": "Biswas"
+            },
+            {
+                "id": 37298045300,
+                "preferredName": "P. Racunas",
+                "firstName": "P.",
+                "lastName": "Racunas"
+            },
+            {
+                "id": 37087261399,
+                "preferredName": "R. Cheveresan",
+                "firstName": "R.",
+                "lastName": "Cheveresan"
+            },
+            {
+                "id": 37266272500,
+                "preferredName": "J. Emer",
+                "firstName": "J.",
+                "lastName": "Emer"
+            },
+            {
+                "id": 37281420600,
+                "preferredName": "S.S. Mukherjee",
+                "firstName": "S.S.",
+                "lastName": "Mukherjee"
+            },
+            {
+                "id": 37282757900,
+                "preferredName": "R. Rangan",
+                "firstName": "R.",
+                "lastName": "Rangan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.16",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431564",
+        "articleTitle": "BugNet: continuously recording program execution for deterministic replay debugging",
+        "volume": null,
+        "issue": null,
+        "startPage": "284",
+        "endPage": "295",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "BugNet: continuously recording program execution for deterministic replay debugging",
+        "authors": [
+            {
+                "id": 37424199700,
+                "preferredName": "S. Narayanasamy",
+                "firstName": "S.",
+                "lastName": "Narayanasamy"
+            },
+            {
+                "id": 37424198800,
+                "preferredName": "G. Pokam",
+                "firstName": "G.",
+                "lastName": "Pokam"
+            },
+            {
+                "id": 37297952100,
+                "preferredName": "B. Calder",
+                "firstName": "B.",
+                "lastName": "Calder"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.39",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431570",
+        "articleTitle": "Optimizing replication, communication, and capacity allocation in CMPs",
+        "volume": null,
+        "issue": null,
+        "startPage": "357",
+        "endPage": "368",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Optimizing replication, communication, and capacity allocation in CMPs",
+        "authors": [
+            {
+                "id": 38484997500,
+                "preferredName": "Z. Chishti",
+                "firstName": "Z.",
+                "lastName": "Chishti"
+            },
+            {
+                "id": 37270530700,
+                "preferredName": "M.D. Powell",
+                "firstName": "M.D.",
+                "lastName": "Powell"
+            },
+            {
+                "id": 37282389000,
+                "preferredName": "T.N. Vijaykumar",
+                "firstName": "T.N.",
+                "lastName": "Vijaykumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.35",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431575",
+        "articleTitle": "Microarchitecture of a high radix router",
+        "volume": null,
+        "issue": null,
+        "startPage": "420",
+        "endPage": "431",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Microarchitecture of a high radix router",
+        "authors": [
+            {
+                "id": 37311384600,
+                "preferredName": "J. Kim",
+                "firstName": "J.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37282485100,
+                "preferredName": "W.J. Dally",
+                "firstName": "W.J.",
+                "lastName": "Dally"
+            },
+            {
+                "id": 37331426900,
+                "preferredName": "B. Towles",
+                "firstName": "B.",
+                "lastName": "Towles"
+            },
+            {
+                "id": 37335244800,
+                "preferredName": "A.K. Gupta",
+                "firstName": "A.K.",
+                "lastName": "Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.28",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431583",
+        "articleTitle": "Exploiting structural duplication for lifetime reliability enhancement",
+        "volume": null,
+        "issue": null,
+        "startPage": "520",
+        "endPage": "531",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Exploiting structural duplication for lifetime reliability enhancement",
+        "authors": [
+            {
+                "id": 37275564500,
+                "preferredName": "J. Srinivasan",
+                "firstName": "J.",
+                "lastName": "Srinivasan"
+            },
+            {
+                "id": 37275579100,
+                "preferredName": "S.V. Adve",
+                "firstName": "S.V.",
+                "lastName": "Adve"
+            },
+            {
+                "id": 37087381027,
+                "preferredName": "Pradip Bose",
+                "firstName": null,
+                "lastName": "Pradip Bose"
+            },
+            {
+                "id": 37275576200,
+                "preferredName": "J.A. Rivers",
+                "firstName": "J.A.",
+                "lastName": "Rivers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.6",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431547",
+        "articleTitle": "A robust main-memory compression scheme",
+        "volume": null,
+        "issue": null,
+        "startPage": "74",
+        "endPage": "85",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "A robust main-memory compression scheme",
+        "authors": [
+            {
+                "id": 37339333000,
+                "preferredName": "M. Ekman",
+                "firstName": "M.",
+                "lastName": "Ekman"
+            },
+            {
+                "id": 37297953700,
+                "preferredName": "P. Stenstrom",
+                "firstName": "P.",
+                "lastName": "Stenstrom"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.51",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431582",
+        "articleTitle": "The impact of performance asymmetry in emerging multicore architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "506",
+        "endPage": "517",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "The impact of performance asymmetry in emerging multicore architectures",
+        "authors": [
+            {
+                "id": 37430920600,
+                "preferredName": "S. Balakrishnan",
+                "firstName": "S.",
+                "lastName": "Balakrishnan"
+            },
+            {
+                "id": 37087770005,
+                "preferredName": "Ravi Rajwar",
+                "firstName": null,
+                "lastName": "Ravi Rajwar"
+            },
+            {
+                "id": 37387713800,
+                "preferredName": "M. Upton",
+                "firstName": "M.",
+                "lastName": "Upton"
+            },
+            {
+                "id": 37280013100,
+                "preferredName": "K. Lai",
+                "firstName": "K.",
+                "lastName": "Lai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.21",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431553",
+        "articleTitle": "Design and evaluation of hybrid fault-detection systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "148",
+        "endPage": "159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Design and evaluation of hybrid fault-detection systems",
+        "authors": [
+            {
+                "id": 37412665300,
+                "preferredName": "G.A. Reis",
+                "firstName": "G.A.",
+                "lastName": "Reis"
+            },
+            {
+                "id": 37423163800,
+                "preferredName": "J. Chang",
+                "firstName": "J.",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37265261100,
+                "preferredName": "N. Vachharajani",
+                "firstName": "N.",
+                "lastName": "Vachharajani"
+            },
+            {
+                "id": 37281420600,
+                "preferredName": "S.S. Mukherjee",
+                "firstName": "S.S.",
+                "lastName": "Mukherjee"
+            },
+            {
+                "id": 37282757900,
+                "preferredName": "R. Rangan",
+                "firstName": "R.",
+                "lastName": "Rangan"
+            },
+            {
+                "id": 37265266800,
+                "preferredName": "D.I. August",
+                "firstName": "D.I.",
+                "lastName": "August"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.36",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431565",
+        "articleTitle": "Mitigating Amdahl's law through EPI throttling",
+        "volume": null,
+        "issue": null,
+        "startPage": "298",
+        "endPage": "309",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Mitigating Amdahl's law through EPI throttling",
+        "authors": [
+            {
+                "id": 37298092100,
+                "preferredName": "M. Annavaram",
+                "firstName": "M.",
+                "lastName": "Annavaram"
+            },
+            {
+                "id": 37273922600,
+                "preferredName": "E. Grochowski",
+                "firstName": "E.",
+                "lastName": "Grochowski"
+            },
+            {
+                "id": 37336157600,
+                "preferredName": "J. Shen",
+                "firstName": "J.",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.14",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431541",
+        "articleTitle": "Architecture for protecting critical secrets in microprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Architecture for protecting critical secrets in microprocessors",
+        "authors": [
+            {
+                "id": 37276167100,
+                "preferredName": "R.B. Lee",
+                "firstName": "R.B.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088039226,
+                "preferredName": "P.C.S. Kwan",
+                "firstName": "P.C.S.",
+                "lastName": "Kwan"
+            },
+            {
+                "id": 37429851200,
+                "preferredName": "J.P. McGregor",
+                "firstName": "J.P.",
+                "lastName": "McGregor"
+            },
+            {
+                "id": 37423964100,
+                "preferredName": "J. Dwoskin",
+                "firstName": "J.",
+                "lastName": "Dwoskin"
+            },
+            {
+                "id": 37087521111,
+                "preferredName": "Zhenghong Wang",
+                "firstName": null,
+                "lastName": "Zhenghong Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.22",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431543",
+        "articleTitle": "Design and implementation of the AEGIS single-chip secure processor using physical random functions",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Design and implementation of the AEGIS single-chip secure processor using physical random functions",
+        "authors": [
+            {
+                "id": 37282761100,
+                "preferredName": "G.E. Suh",
+                "firstName": "G.E.",
+                "lastName": "Suh"
+            },
+            {
+                "id": 37944700900,
+                "preferredName": "C.W. O'Donnell",
+                "firstName": "C.W.",
+                "lastName": "O'Donnell"
+            },
+            {
+                "id": 37087756030,
+                "preferredName": "Ishan Sachdev",
+                "firstName": null,
+                "lastName": "Ishan Sachdev"
+            },
+            {
+                "id": 37087357571,
+                "preferredName": "Srinivas Devadas",
+                "firstName": null,
+                "lastName": "Srinivas Devadas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.38",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431555",
+        "articleTitle": "Opportunistic transient-fault detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "172",
+        "endPage": "183",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Opportunistic transient-fault detection",
+        "authors": [
+            {
+                "id": 37430477600,
+                "preferredName": "M.A. Gomaa",
+                "firstName": "M.A.",
+                "lastName": "Gomaa"
+            },
+            {
+                "id": 37282389000,
+                "preferredName": "T.N. Vijaykumar",
+                "firstName": "T.N.",
+                "lastName": "Vijaykumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.9",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431563",
+        "articleTitle": "An architecture framework for transparent instruction set customization in embedded processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "272",
+        "endPage": "283",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "An architecture framework for transparent instruction set customization in embedded processors",
+        "authors": [
+            {
+                "id": 37297992600,
+                "preferredName": "N. Clark",
+                "firstName": "N.",
+                "lastName": "Clark"
+            },
+            {
+                "id": 37424524200,
+                "preferredName": "J. Blome",
+                "firstName": "J.",
+                "lastName": "Blome"
+            },
+            {
+                "id": 37270158600,
+                "preferredName": "M. Chu",
+                "firstName": "M.",
+                "lastName": "Chu"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "S. Mahlke",
+                "firstName": "S.",
+                "lastName": "Mahlke"
+            },
+            {
+                "id": 37424528200,
+                "preferredName": "S. Biles",
+                "firstName": "S.",
+                "lastName": "Biles"
+            },
+            {
+                "id": 37267088200,
+                "preferredName": "K. Flautner",
+                "firstName": "K.",
+                "lastName": "Flautner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.50",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431559",
+        "articleTitle": "Temporal streaming of shared memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "222",
+        "endPage": "233",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Temporal streaming of shared memory",
+        "authors": [
+            {
+                "id": 37395315400,
+                "preferredName": "T.F. Wenisch",
+                "firstName": "T.F.",
+                "lastName": "Wenisch"
+            },
+            {
+                "id": 37423613900,
+                "preferredName": "S. Somogyi",
+                "firstName": "S.",
+                "lastName": "Somogyi"
+            },
+            {
+                "id": 37397931100,
+                "preferredName": "N. Hardavellas",
+                "firstName": "N.",
+                "lastName": "Hardavellas"
+            },
+            {
+                "id": 37087769504,
+                "preferredName": "Jangwoo Kim",
+                "firstName": null,
+                "lastName": "Jangwoo Kim"
+            },
+            {
+                "id": 37276740000,
+                "preferredName": "A. Ailamaki",
+                "firstName": "A.",
+                "lastName": "Ailamaki"
+            },
+            {
+                "id": 37087770783,
+                "preferredName": "Babak Falsafi",
+                "firstName": null,
+                "lastName": "Babak Falsafi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.42",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431560",
+        "articleTitle": "RegionScout: exploiting coarse grain sharing in snoop-based coherence",
+        "volume": null,
+        "issue": null,
+        "startPage": "234",
+        "endPage": "245",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "RegionScout: exploiting coarse grain sharing in snoop-based coherence",
+        "authors": [
+            {
+                "id": 37267012000,
+                "preferredName": "A. Moshovos",
+                "firstName": "A.",
+                "lastName": "Moshovos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.23",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431545",
+        "articleTitle": "Direct cache access for high bandwidth network I/O",
+        "volume": null,
+        "issue": null,
+        "startPage": "50",
+        "endPage": "59",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Direct cache access for high bandwidth network I/O",
+        "authors": [
+            {
+                "id": 37272507400,
+                "preferredName": "R. Huggahalli",
+                "firstName": "R.",
+                "lastName": "Huggahalli"
+            },
+            {
+                "id": 37065928100,
+                "preferredName": "R. Iyer",
+                "firstName": "R.",
+                "lastName": "Iyer"
+            },
+            {
+                "id": 37088035607,
+                "preferredName": "S. Tetrick",
+                "firstName": "S.",
+                "lastName": "Tetrick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.31",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431561",
+        "articleTitle": "Improving multiprocessor performance with coarse-grain coherence tracking",
+        "volume": null,
+        "issue": null,
+        "startPage": "246",
+        "endPage": "257",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Improving multiprocessor performance with coarse-grain coherence tracking",
+        "authors": [
+            {
+                "id": 37429510800,
+                "preferredName": "J.F. Cantin",
+                "firstName": "J.F.",
+                "lastName": "Cantin"
+            },
+            {
+                "id": 37282368800,
+                "preferredName": "M.H. Lipasti",
+                "firstName": "M.H.",
+                "lastName": "Lipasti"
+            },
+            {
+                "id": 37277158600,
+                "preferredName": "J.E. Smith",
+                "firstName": "J.E.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.12",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431558",
+        "articleTitle": "An ultra low power system architecture for sensor network applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "208",
+        "endPage": "219",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "An ultra low power system architecture for sensor network applications",
+        "authors": [
+            {
+                "id": 37279375900,
+                "preferredName": "M. Hempstead",
+                "firstName": "M.",
+                "lastName": "Hempstead"
+            },
+            {
+                "id": 37087768923,
+                "preferredName": "N. Tripathi",
+                "firstName": "N.",
+                "lastName": "Tripathi"
+            },
+            {
+                "id": 37424235600,
+                "preferredName": "P. Mauro",
+                "firstName": "P.",
+                "lastName": "Mauro"
+            },
+            {
+                "id": 37087146410,
+                "preferredName": "Gu-Yeon Wei",
+                "firstName": null,
+                "lastName": "Gu-Yeon Wei"
+            },
+            {
+                "id": 37279380700,
+                "preferredName": "D. Brooks",
+                "firstName": "D.",
+                "lastName": "Brooks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.52",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431585",
+        "articleTitle": "The V-Way cache: demand-based associativity via global replacement",
+        "volume": null,
+        "issue": null,
+        "startPage": "544",
+        "endPage": "555",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "The V-Way cache: demand-based associativity via global replacement",
+        "authors": [
+            {
+                "id": 37301807700,
+                "preferredName": "M.K. Qureshi",
+                "firstName": "M.K.",
+                "lastName": "Qureshi"
+            },
+            {
+                "id": 37087767812,
+                "preferredName": "D. Thompson",
+                "firstName": "D.",
+                "lastName": "Thompson"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Y.N. Patt",
+                "firstName": "Y.N.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.7",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431551",
+        "articleTitle": "A tree based router search engine architecture with single port memories",
+        "volume": null,
+        "issue": null,
+        "startPage": "123",
+        "endPage": "133",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "A tree based router search engine architecture with single port memories",
+        "authors": [
+            {
+                "id": 37424020400,
+                "preferredName": "F. Baboescu",
+                "firstName": "F.",
+                "lastName": "Baboescu"
+            },
+            {
+                "id": 37282355800,
+                "preferredName": "D.M. Tullsen",
+                "firstName": "D.M.",
+                "lastName": "Tullsen"
+            },
+            {
+                "id": 37267582700,
+                "preferredName": "G. Rosu",
+                "firstName": "G.",
+                "lastName": "Rosu"
+            },
+            {
+                "id": 38184611900,
+                "preferredName": "S. Singh",
+                "firstName": "S.",
+                "lastName": "Singh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.13",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431573",
+        "articleTitle": "Analysis of the O-GEometric history length branch predictor",
+        "volume": null,
+        "issue": null,
+        "startPage": "394",
+        "endPage": "405",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Analysis of the O-GEometric history length branch predictor",
+        "authors": [
+            {
+                "id": 37265543200,
+                "preferredName": "A. Seznec",
+                "firstName": "A.",
+                "lastName": "Seznec"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.5",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431550",
+        "articleTitle": "A high throughput string matching architecture for intrusion detection and prevention",
+        "volume": null,
+        "issue": null,
+        "startPage": "112",
+        "endPage": "122",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "A high throughput string matching architecture for intrusion detection and prevention",
+        "authors": [
+            {
+                "id": 37087531651,
+                "preferredName": "Lin Tan",
+                "firstName": null,
+                "lastName": "Lin Tan"
+            },
+            {
+                "id": 37283546900,
+                "preferredName": "T. Sherwood",
+                "firstName": "T.",
+                "lastName": "Sherwood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.49",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431571",
+        "articleTitle": "Techniques for efficient processing in runahead execution engines",
+        "volume": null,
+        "issue": null,
+        "startPage": "370",
+        "endPage": "381",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Techniques for efficient processing in runahead execution engines",
+        "authors": [
+            {
+                "id": 37088038584,
+                "preferredName": "Onur Mutlu",
+                "firstName": null,
+                "lastName": "Onur Mutlu"
+            },
+            {
+                "id": 37087308568,
+                "preferredName": "Hyesoon Kim",
+                "firstName": null,
+                "lastName": "Hyesoon Kim"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Y.N. Patt",
+                "firstName": "Y.N.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.48",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431578",
+        "articleTitle": "Store vulnerability window (SVW): re-execution filtering for enhanced load optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "458",
+        "endPage": "468",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Store vulnerability window (SVW): re-execution filtering for enhanced load optimization",
+        "authors": [
+            {
+                "id": 37359626500,
+                "preferredName": "A. Roth",
+                "firstName": "A.",
+                "lastName": "Roth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.40",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431572",
+        "articleTitle": "Piecewise linear branch prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "382",
+        "endPage": "393",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Piecewise linear branch prediction",
+        "authors": [
+            {
+                "id": 38485695000,
+                "preferredName": "D.A. Jimenez",
+                "firstName": "D.A.",
+                "lastName": "Jimenez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.26",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431557",
+        "articleTitle": "Energy optimization of subthreshold-voltage sensor network processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "197",
+        "endPage": "207",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Energy optimization of subthreshold-voltage sensor network processors",
+        "authors": [
+            {
+                "id": 37391606300,
+                "preferredName": "L. Nazhandali",
+                "firstName": "L.",
+                "lastName": "Nazhandali"
+            },
+            {
+                "id": 37282273000,
+                "preferredName": "B. Zhai",
+                "firstName": "B.",
+                "lastName": "Zhai"
+            },
+            {
+                "id": 37283384600,
+                "preferredName": "A. Olson",
+                "firstName": "A.",
+                "lastName": "Olson"
+            },
+            {
+                "id": 37424985800,
+                "preferredName": "A. Reeves",
+                "firstName": "A.",
+                "lastName": "Reeves"
+            },
+            {
+                "id": 37424186200,
+                "preferredName": "M. Minuth",
+                "firstName": "M.",
+                "lastName": "Minuth"
+            },
+            {
+                "id": 37424184400,
+                "preferredName": "R. Helfand",
+                "firstName": "R.",
+                "lastName": "Helfand"
+            },
+            {
+                "id": 37087346153,
+                "preferredName": "Sanjay Pant",
+                "firstName": null,
+                "lastName": "Sanjay Pant"
+            },
+            {
+                "id": 37267010600,
+                "preferredName": "T. Austin",
+                "firstName": "T.",
+                "lastName": "Austin"
+            },
+            {
+                "id": 37276099100,
+                "preferredName": "D. Blaauw",
+                "firstName": "D.",
+                "lastName": "Blaauw"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.46",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431577",
+        "articleTitle": "Scalable load and store processing in latency tolerant processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "446",
+        "endPage": "457",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Scalable load and store processing in latency tolerant processors",
+        "authors": [
+            {
+                "id": 37421270000,
+                "preferredName": "A. Gandhi",
+                "firstName": "A.",
+                "lastName": "Gandhi"
+            },
+            {
+                "id": 37274595600,
+                "preferredName": "H. Akkary",
+                "firstName": "H.",
+                "lastName": "Akkary"
+            },
+            {
+                "id": 37424014700,
+                "preferredName": "R. Rajwar",
+                "firstName": "R.",
+                "lastName": "Rajwar"
+            },
+            {
+                "id": 37087754298,
+                "preferredName": "S.T. Srinivasasn",
+                "firstName": "S.T.",
+                "lastName": "Srinivasasn"
+            },
+            {
+                "id": 37280013100,
+                "preferredName": "K. Lai",
+                "firstName": "K.",
+                "lastName": "Lai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.43",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431549",
+        "articleTitle": "RENO: a rename-based instruction optimizer",
+        "volume": null,
+        "issue": null,
+        "startPage": "98",
+        "endPage": "109",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "RENO: a rename-based instruction optimizer",
+        "authors": [
+            {
+                "id": 37424136100,
+                "preferredName": "V. Petric",
+                "firstName": "V.",
+                "lastName": "Petric"
+            },
+            {
+                "id": 37424136300,
+                "preferredName": "T. Sha",
+                "firstName": "T.",
+                "lastName": "Sha"
+            },
+            {
+                "id": 37359626500,
+                "preferredName": "A. Roth",
+                "firstName": "A.",
+                "lastName": "Roth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.8",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431569",
+        "articleTitle": "Adaptive mechanisms and policies for managing cache hierarchies in chip multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "346",
+        "endPage": "356",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Adaptive mechanisms and policies for managing cache hierarchies in chip multiprocessors",
+        "authors": [
+            {
+                "id": 38558265700,
+                "preferredName": "E. Speight",
+                "firstName": "E.",
+                "lastName": "Speight"
+            },
+            {
+                "id": 37424140500,
+                "preferredName": "H. Shafi",
+                "firstName": "H.",
+                "lastName": "Shafi"
+            },
+            {
+                "id": 37087163443,
+                "preferredName": "Lixin Zhang",
+                "firstName": null,
+                "lastName": "Lixin Zhang"
+            },
+            {
+                "id": 37356656300,
+                "preferredName": "R. Rajamony",
+                "firstName": "R.",
+                "lastName": "Rajamony"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.10",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431556",
+        "articleTitle": "An evaluation framework and instruction set architecture for ion-trap based quantum micro-architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "186",
+        "endPage": "196",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "An evaluation framework and instruction set architecture for ion-trap based quantum micro-architectures",
+        "authors": [
+            {
+                "id": 37087777304,
+                "preferredName": "S. Balensiefer",
+                "firstName": "S.",
+                "lastName": "Balensiefer"
+            },
+            {
+                "id": 37087781229,
+                "preferredName": "L. Kregor-Stickles",
+                "firstName": "L.",
+                "lastName": "Kregor-Stickles"
+            },
+            {
+                "id": 37397838100,
+                "preferredName": "M. Oskin",
+                "firstName": "M.",
+                "lastName": "Oskin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.24",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431544",
+        "articleTitle": "Disk drive roadmap from the thermal perspective: a case for dynamic thermal management",
+        "volume": null,
+        "issue": null,
+        "startPage": "38",
+        "endPage": "49",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Disk drive roadmap from the thermal perspective: a case for dynamic thermal management",
+        "authors": [
+            {
+                "id": 37282414100,
+                "preferredName": "S. Gurumurthi",
+                "firstName": "S.",
+                "lastName": "Gurumurthi"
+            },
+            {
+                "id": 37273174700,
+                "preferredName": "A. Sivasubramaniam",
+                "firstName": "A.",
+                "lastName": "Sivasubramaniam"
+            },
+            {
+                "id": 37089088705,
+                "preferredName": "V.K. Natarajan",
+                "firstName": "V.K.",
+                "lastName": "Natarajan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.44",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431554",
+        "articleTitle": "Rescue: a microarchitecture for testability and defect tolerance",
+        "volume": null,
+        "issue": null,
+        "startPage": "160",
+        "endPage": "171",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Rescue: a microarchitecture for testability and defect tolerance",
+        "authors": [
+            {
+                "id": 37326873400,
+                "preferredName": "E. Schuchman",
+                "firstName": "E.",
+                "lastName": "Schuchman"
+            },
+            {
+                "id": 37282389000,
+                "preferredName": "T.N. Vijaykumar",
+                "firstName": "T.N.",
+                "lastName": "Vijaykumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.25",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431580",
+        "articleTitle": "Dynamic verification of sequential consistency",
+        "volume": null,
+        "issue": null,
+        "startPage": "482",
+        "endPage": "493",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Dynamic verification of sequential consistency",
+        "authors": [
+            {
+                "id": 37293555200,
+                "preferredName": "A. Meixner",
+                "firstName": "A.",
+                "lastName": "Meixner"
+            },
+            {
+                "id": 37275338200,
+                "preferredName": "D.J. Sorin",
+                "firstName": "D.J.",
+                "lastName": "Sorin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.11",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431552",
+        "articleTitle": "An integrated memory array processor architecture for embedded image recognition systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "134",
+        "endPage": "145",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "An integrated memory array processor architecture for embedded image recognition systems",
+        "authors": [
+            {
+                "id": 37425239700,
+                "preferredName": "S. Kyo",
+                "firstName": "S.",
+                "lastName": "Kyo"
+            },
+            {
+                "id": 37622795400,
+                "preferredName": "S. Okazaki",
+                "firstName": "S.",
+                "lastName": "Okazaki"
+            },
+            {
+                "id": 37281361000,
+                "preferredName": "T. Arai",
+                "firstName": "T.",
+                "lastName": "Arai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.37",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431576",
+        "articleTitle": "Near-optimal worst-case throughput routing for two-dimensional mesh networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "432",
+        "endPage": "443",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Near-optimal worst-case throughput routing for two-dimensional mesh networks",
+        "authors": [
+            {
+                "id": 37088035318,
+                "preferredName": "Daeho Seo",
+                "firstName": null,
+                "lastName": "Daeho Seo"
+            },
+            {
+                "id": 37088035493,
+                "preferredName": "Akif Ali",
+                "firstName": null,
+                "lastName": "Akif Ali"
+            },
+            {
+                "id": 37088037143,
+                "preferredName": "Won-Taek Lim",
+                "firstName": null,
+                "lastName": "Won-Taek Lim"
+            },
+            {
+                "id": 37424137000,
+                "preferredName": "N. Rafique",
+                "firstName": "N.",
+                "lastName": "Rafique"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.19",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431548",
+        "articleTitle": "Continuous optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "86",
+        "endPage": "97",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Continuous optimization",
+        "authors": [
+            {
+                "id": 37282322700,
+                "preferredName": "B. Fahs",
+                "firstName": "B.",
+                "lastName": "Fahs"
+            },
+            {
+                "id": 37275820100,
+                "preferredName": "T. Rafacz",
+                "firstName": "T.",
+                "lastName": "Rafacz"
+            },
+            {
+                "id": 37276246000,
+                "preferredName": "S.J. Patel",
+                "firstName": "S.J.",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37270164400,
+                "preferredName": "S.S. Lumetta",
+                "firstName": "S.S.",
+                "lastName": "Lumetta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.47",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431579",
+        "articleTitle": "Store buffer design in first-level multibanked data caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "469",
+        "endPage": "480",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Store buffer design in first-level multibanked data caches",
+        "authors": [
+            {
+                "id": 37419290600,
+                "preferredName": "E.F. Torres",
+                "firstName": "E.F.",
+                "lastName": "Torres"
+            },
+            {
+                "id": 38305141300,
+                "preferredName": "P. Ibanez",
+                "firstName": "P.",
+                "lastName": "Ibanez"
+            },
+            {
+                "id": 37282905600,
+                "preferredName": "V. Vinals",
+                "firstName": "V.",
+                "lastName": "Vinals"
+            },
+            {
+                "id": 37369683000,
+                "preferredName": "J.M. Llaberia",
+                "firstName": "J.M.",
+                "lastName": "Llaberia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.30",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431542",
+        "articleTitle": "High efficiency counter mode security architecture via prediction and precomputation",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "High efficiency counter mode security architecture via prediction and precomputation",
+        "authors": [
+            {
+                "id": 37087254737,
+                "preferredName": "Weidong Shi",
+                "firstName": null,
+                "lastName": "Weidong Shi"
+            },
+            {
+                "id": 37280122100,
+                "preferredName": "H.S. Lee",
+                "firstName": "H.S.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37266637700,
+                "preferredName": "M. Ghosh",
+                "firstName": "M.",
+                "lastName": "Ghosh"
+            },
+            {
+                "id": 37088037023,
+                "preferredName": "Chenghuai Lu",
+                "firstName": null,
+                "lastName": "Chenghuai Lu"
+            },
+            {
+                "id": 37424185100,
+                "preferredName": "A. Boldyreva",
+                "firstName": "A.",
+                "lastName": "Boldyreva"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.20",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431546",
+        "articleTitle": "Deconstructing commodity storage clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "60",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Deconstructing commodity storage clusters",
+        "authors": [
+            {
+                "id": 38275086000,
+                "preferredName": "H.S. Gunawi",
+                "firstName": "H.S.",
+                "lastName": "Gunawi"
+            },
+            {
+                "id": 37087754686,
+                "preferredName": "N. Agrawal",
+                "firstName": "N.",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 38306998100,
+                "preferredName": "A.C. Arpaci-Dusseau",
+                "firstName": "A.C.",
+                "lastName": "Arpaci-Dusseau"
+            },
+            {
+                "id": 37087757664,
+                "preferredName": "J. Schindler",
+                "firstName": "J.",
+                "lastName": "Schindler"
+            },
+            {
+                "id": 38273410500,
+                "preferredName": "R.H. Arpaci-Dusseau",
+                "firstName": "R.H.",
+                "lastName": "Arpaci-Dusseau"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.32",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431562",
+        "articleTitle": "Improving program efficiency by packing instructions into registers",
+        "volume": null,
+        "issue": null,
+        "startPage": "260",
+        "endPage": "271",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Improving program efficiency by packing instructions into registers",
+        "authors": [
+            {
+                "id": 37424237300,
+                "preferredName": "S. Hines",
+                "firstName": "S.",
+                "lastName": "Hines"
+            },
+            {
+                "id": 37087973231,
+                "preferredName": "J. Green",
+                "firstName": "J.",
+                "lastName": "Green"
+            },
+            {
+                "id": 37371721200,
+                "preferredName": "G. Tyson",
+                "firstName": "G.",
+                "lastName": "Tyson"
+            },
+            {
+                "id": 37268070500,
+                "preferredName": "D. Whalley",
+                "firstName": "D.",
+                "lastName": "Whalley"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.33",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431566",
+        "articleTitle": "Increased scalability and power efficiency by using multiple speed pipelines",
+        "volume": null,
+        "issue": null,
+        "startPage": "310",
+        "endPage": "321",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Increased scalability and power efficiency by using multiple speed pipelines",
+        "authors": [
+            {
+                "id": 37266918200,
+                "preferredName": "E. Talpes",
+                "firstName": "E.",
+                "lastName": "Talpes"
+            },
+            {
+                "id": 37273684500,
+                "preferredName": "D. Marculescu",
+                "firstName": "D.",
+                "lastName": "Marculescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.27",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431567",
+        "articleTitle": "Energy-effectiveness of pre-execution and energy-aware p-thread selection",
+        "volume": null,
+        "issue": null,
+        "startPage": "322",
+        "endPage": "333",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Energy-effectiveness of pre-execution and energy-aware p-thread selection",
+        "authors": [
+            {
+                "id": 37424136100,
+                "preferredName": "V. Petric",
+                "firstName": "V.",
+                "lastName": "Petric"
+            },
+            {
+                "id": 37359626500,
+                "preferredName": "A. Roth",
+                "firstName": "A.",
+                "lastName": "Roth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.17",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431539",
+        "articleTitle": "Committees",
+        "volume": null,
+        "issue": null,
+        "startPage": "xvi",
+        "endPage": "xvi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Committees",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.41",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431538",
+        "articleTitle": "Program Chairs' message",
+        "volume": null,
+        "issue": null,
+        "startPage": "x",
+        "endPage": "xv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Program Chairs' message",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.29",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431537",
+        "articleTitle": "General Chair's message",
+        "volume": null,
+        "issue": null,
+        "startPage": "ix",
+        "endPage": "ix",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "General Chair's message",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.15",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431586",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "556",
+        "endPage": "557",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.4",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431534",
+        "articleTitle": "32nd International Symposium on Computer Architecture - Title Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "32nd International Symposium on Computer Architecture - Title Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.3",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431536",
+        "articleTitle": "32nd International Symposium on Computer Architecture - Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "viii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "32nd International Symposium on Computer Architecture - Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.45",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431540",
+        "articleTitle": "list-reviewer",
+        "volume": null,
+        "issue": null,
+        "startPage": "xvii",
+        "endPage": "xviii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "list-reviewer",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.2",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431533",
+        "articleTitle": "Proceedings. 32nd International Symposium on Computer Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": null,
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "Proceedings. 32nd International Symposium on Computer Architecture",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9793",
+        "doi": "10.1109/ISCA.2005.1",
+        "publicationYear": "2005",
+        "publicationDate": "4-8 June 2005",
+        "articleNumber": "1431535",
+        "articleTitle": "32nd International Symposium on Computer Architecture - Copyright Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "32nd International Symposium on Computer Architecture (ISCA'05)",
+        "highlightedTitle": "32nd International Symposium on Computer Architecture - Copyright Page",
+        "authors": []
+    }
+]

@@ -1,0 +1,1257 @@
+[
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281665",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281665",
+        "articleTitle": "LLVM: a compilation framework for lifelong program analysis & transformation",
+        "volume": null,
+        "issue": null,
+        "startPage": "75",
+        "endPage": "86",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "LLVM: a compilation framework for lifelong program analysis & transformation",
+        "authors": [
+            {
+                "id": 38202466400,
+                "preferredName": "C. Lattner",
+                "firstName": "C.",
+                "lastName": "Lattner"
+            },
+            {
+                "id": 37282676400,
+                "preferredName": "V. Adve",
+                "firstName": "V.",
+                "lastName": "Adve"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281661",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281661",
+        "articleTitle": "Physical experimentation with prefetching helper threads on Intel's hyper-threaded processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "38",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Physical experimentation with prefetching helper threads on Intel's hyper-threaded processors",
+        "authors": [
+            {
+                "id": 37933884000,
+                "preferredName": "D. Kim",
+                "firstName": "D.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088619882,
+                "preferredName": "S.S.-W. Liao",
+                "firstName": "S.S.-W.",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37423059100,
+                "preferredName": "P.H. Wang",
+                "firstName": "P.H.",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37424653100,
+                "preferredName": "J. del Cuvillo",
+                "firstName": "J.",
+                "lastName": "del Cuvillo"
+            },
+            {
+                "id": 37279245500,
+                "preferredName": "X. Tian",
+                "firstName": "X.",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37088619802,
+                "preferredName": "X. Zou",
+                "firstName": "X.",
+                "lastName": "Zou"
+            },
+            {
+                "id": 37280092900,
+                "preferredName": "H. Wang",
+                "firstName": "H.",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37270592300,
+                "preferredName": "D. Yeung",
+                "firstName": "D.",
+                "lastName": "Yeung"
+            },
+            {
+                "id": 37283875300,
+                "preferredName": "M. Girkar",
+                "firstName": "M.",
+                "lastName": "Girkar"
+            },
+            {
+                "id": 37336157600,
+                "preferredName": "J.P. Shen",
+                "firstName": "J.P.",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281678",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281678",
+        "articleTitle": "Targeted path profiling: lower overhead path profiling for staged dynamic optimization systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "239",
+        "endPage": "250",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Targeted path profiling: lower overhead path profiling for staged dynamic optimization systems",
+        "authors": [
+            {
+                "id": 37088151354,
+                "preferredName": "R. Joshi",
+                "firstName": "R.",
+                "lastName": "Joshi"
+            },
+            {
+                "id": 38179964600,
+                "preferredName": "M.D. Bond",
+                "firstName": "M.D.",
+                "lastName": "Bond"
+            },
+            {
+                "id": 37426078300,
+                "preferredName": "C. Zilles",
+                "firstName": "C.",
+                "lastName": "Zilles"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281666",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281666",
+        "articleTitle": "Exploring code cache eviction granularities in dynamic optimization systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "89",
+        "endPage": "99",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Exploring code cache eviction granularities in dynamic optimization systems",
+        "authors": [
+            {
+                "id": 37267298100,
+                "preferredName": "K. Hazelwood",
+                "firstName": "K.",
+                "lastName": "Hazelwood"
+            },
+            {
+                "id": 37277158600,
+                "preferredName": "J.E. Smith",
+                "firstName": "J.E.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281676",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281676",
+        "articleTitle": "Using dynamic binary translation to fuse dependent instructions",
+        "volume": null,
+        "issue": null,
+        "startPage": "213",
+        "endPage": "224",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Using dynamic binary translation to fuse dependent instructions",
+        "authors": [
+            {
+                "id": 37959679100,
+                "preferredName": "S. Hu",
+                "firstName": "S.",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37277158600,
+                "preferredName": "J.E. Smith",
+                "firstName": "J.E.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281679",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281679",
+        "articleTitle": "Extending path profiling across loop backedges and procedure boundaries",
+        "volume": null,
+        "issue": null,
+        "startPage": "251",
+        "endPage": "262",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Extending path profiling across loop backedges and procedure boundaries",
+        "authors": [
+            {
+                "id": 37087265022,
+                "preferredName": "Sriraman Tallam",
+                "firstName": null,
+                "lastName": "Sriraman Tallam"
+            },
+            {
+                "id": 37088152760,
+                "preferredName": "X. Zhang",
+                "firstName": "X.",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37087200003,
+                "preferredName": "Rajiv Gupta",
+                "firstName": null,
+                "lastName": "Rajiv Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281662",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281662",
+        "articleTitle": "Compiler optimization of memory-resident value communication between speculative threads",
+        "volume": null,
+        "issue": null,
+        "startPage": "39",
+        "endPage": "50",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Compiler optimization of memory-resident value communication between speculative threads",
+        "authors": [
+            {
+                "id": 37392999700,
+                "preferredName": "A. Zhai",
+                "firstName": "A.",
+                "lastName": "Zhai"
+            },
+            {
+                "id": 37442358200,
+                "preferredName": "C.B. Colohan",
+                "firstName": "C.B.",
+                "lastName": "Colohan"
+            },
+            {
+                "id": 37392916900,
+                "preferredName": "J.G. Steffan",
+                "firstName": "J.G.",
+                "lastName": "Steffan"
+            },
+            {
+                "id": 37282940800,
+                "preferredName": "T.C. Mowry",
+                "firstName": "T.C.",
+                "lastName": "Mowry"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281672",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281672",
+        "articleTitle": "Single-dimension software pipelining for multi-dimensional loops",
+        "volume": null,
+        "issue": null,
+        "startPage": "163",
+        "endPage": "174",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Single-dimension software pipelining for multi-dimensional loops",
+        "authors": [
+            {
+                "id": 38203005200,
+                "preferredName": "H. Rong",
+                "firstName": "H.",
+                "lastName": "Rong"
+            },
+            {
+                "id": 37087540512,
+                "preferredName": "Zhizhong Tang",
+                "firstName": null,
+                "lastName": "Zhizhong Tang"
+            },
+            {
+                "id": 37294180600,
+                "preferredName": "R. Govindarajan",
+                "firstName": "R.",
+                "lastName": "Govindarajan"
+            },
+            {
+                "id": 37721752400,
+                "preferredName": "A. Douillet",
+                "firstName": "A.",
+                "lastName": "Douillet"
+            },
+            {
+                "id": 37334741200,
+                "preferredName": "G.R. Gao",
+                "firstName": "G.R.",
+                "lastName": "Gao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281668",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281668",
+        "articleTitle": "A dynamically tuned sorting library",
+        "volume": null,
+        "issue": null,
+        "startPage": "111",
+        "endPage": "122",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "A dynamically tuned sorting library",
+        "authors": [
+            {
+                "id": 37406888700,
+                "preferredName": "X. Li",
+                "firstName": "X.",
+                "lastName": "Li"
+            },
+            {
+                "id": 37326519600,
+                "preferredName": "M.J. Garzaran",
+                "firstName": "M.J.",
+                "lastName": "Garzaran"
+            },
+            {
+                "id": 37282646500,
+                "preferredName": "D. Padua",
+                "firstName": "D.",
+                "lastName": "Padua"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281682",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281682",
+        "articleTitle": "Custom data layout for memory parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "291",
+        "endPage": "302",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Custom data layout for memory parallelism",
+        "authors": [
+            {
+                "id": 37436324500,
+                "preferredName": "B. So",
+                "firstName": "B.",
+                "lastName": "So"
+            },
+            {
+                "id": 37273063000,
+                "preferredName": "M.W. Hall",
+                "firstName": "M.W.",
+                "lastName": "Hall"
+            },
+            {
+                "id": 38203153300,
+                "preferredName": "H.E. Ziegler",
+                "firstName": "H.E.",
+                "lastName": "Ziegler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281670",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281670",
+        "articleTitle": "Specialized dynamic optimizations for high-performance energy-efficient microarchitecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "137",
+        "endPage": "148",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Specialized dynamic optimizations for high-performance energy-efficient microarchitecture",
+        "authors": [
+            {
+                "id": 37282300100,
+                "preferredName": "Y. Almog",
+                "firstName": "Y.",
+                "lastName": "Almog"
+            },
+            {
+                "id": 37282301000,
+                "preferredName": "R. Rosner",
+                "firstName": "R.",
+                "lastName": "Rosner"
+            },
+            {
+                "id": 37268322500,
+                "preferredName": "N. Schwartz",
+                "firstName": "N.",
+                "lastName": "Schwartz"
+            },
+            {
+                "id": 37088149037,
+                "preferredName": "A. Schmorak",
+                "firstName": "A.",
+                "lastName": "Schmorak"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281683",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281683",
+        "articleTitle": "Static identification of delinquent loads",
+        "volume": null,
+        "issue": null,
+        "startPage": "303",
+        "endPage": "314",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Static identification of delinquent loads",
+        "authors": [
+            {
+                "id": 37087380129,
+                "preferredName": "V.-M. Panait",
+                "firstName": "V.-M.",
+                "lastName": "Panait"
+            },
+            {
+                "id": 37087380795,
+                "preferredName": "Amit Sasturkar",
+                "firstName": null,
+                "lastName": "Amit Sasturkar"
+            },
+            {
+                "id": 37279177600,
+                "preferredName": "W.-F. Wong",
+                "firstName": "W.-F.",
+                "lastName": "Wong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281660",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281660",
+        "articleTitle": "Ispike: a post-link optimizer for the Intel/spl reg/ Itanium/spl reg/ architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Ispike: a post-link optimizer for the Intel/spl reg/ Itanium/spl reg/ architecture",
+        "authors": [
+            {
+                "id": 37359582700,
+                "preferredName": "C.-K. Luk",
+                "firstName": "C.-K.",
+                "lastName": "Luk"
+            },
+            {
+                "id": 37087737389,
+                "preferredName": "R. Muth",
+                "firstName": "R.",
+                "lastName": "Muth"
+            },
+            {
+                "id": 37087736969,
+                "preferredName": "Harish Patil",
+                "firstName": null,
+                "lastName": "Harish Patil"
+            },
+            {
+                "id": 37297739900,
+                "preferredName": "R. Cohn",
+                "firstName": "R.",
+                "lastName": "Cohn"
+            },
+            {
+                "id": 37993416700,
+                "preferredName": "G. Lowney",
+                "firstName": "G.",
+                "lastName": "Lowney"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281664",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281664",
+        "articleTitle": "SYZYGY - a framework for scalable cross-module IPO",
+        "volume": null,
+        "issue": null,
+        "startPage": "65",
+        "endPage": "74",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "SYZYGY - a framework for scalable cross-module IPO",
+        "authors": [
+            {
+                "id": 37088149645,
+                "preferredName": "S. Moon",
+                "firstName": "S.",
+                "lastName": "Moon"
+            },
+            {
+                "id": 37280879000,
+                "preferredName": "X.D. Li",
+                "firstName": "X.D.",
+                "lastName": "Li"
+            },
+            {
+                "id": 37282561600,
+                "preferredName": "R. Hundt",
+                "firstName": "R.",
+                "lastName": "Hundt"
+            },
+            {
+                "id": 37282567400,
+                "preferredName": "D.R. Chakrabarti",
+                "firstName": "D.R.",
+                "lastName": "Chakrabarti"
+            },
+            {
+                "id": 37282561000,
+                "preferredName": "L.A. Lozano",
+                "firstName": "L.A.",
+                "lastName": "Lozano"
+            },
+            {
+                "id": 37088149150,
+                "preferredName": "Uma Srinivasan",
+                "firstName": null,
+                "lastName": "Uma Srinivasan"
+            },
+            {
+                "id": 37280148600,
+                "preferredName": "S.-M. Liu",
+                "firstName": "S.-M.",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281680",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281680",
+        "articleTitle": "Optimizing translation out of SSA using renaming constraints",
+        "volume": null,
+        "issue": null,
+        "startPage": "265",
+        "endPage": "276",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Optimizing translation out of SSA using renaming constraints",
+        "authors": [
+            {
+                "id": 37293726200,
+                "preferredName": "F. Rastello",
+                "firstName": "F.",
+                "lastName": "Rastello"
+            },
+            {
+                "id": 37990548300,
+                "preferredName": "F. de Ferriere",
+                "firstName": "F.",
+                "lastName": "de Ferriere"
+            },
+            {
+                "id": 37544769000,
+                "preferredName": "C. Guillon",
+                "firstName": "C.",
+                "lastName": "Guillon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281684",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281684",
+        "articleTitle": "Exposing memory access regularities using object-relative memory profiling",
+        "volume": null,
+        "issue": null,
+        "startPage": "315",
+        "endPage": "323",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Exposing memory access regularities using object-relative memory profiling",
+        "authors": [
+            {
+                "id": 37556224400,
+                "preferredName": "Q. Wu",
+                "firstName": "Q.",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37089732032,
+                "preferredName": "A. Pyatakov",
+                "firstName": "A.",
+                "lastName": "Pyatakov"
+            },
+            {
+                "id": 37087380198,
+                "preferredName": "A. Spiridonov",
+                "firstName": "A.",
+                "lastName": "Spiridonov"
+            },
+            {
+                "id": 37087379996,
+                "preferredName": "Easwaran Raman",
+                "firstName": null,
+                "lastName": "Easwaran Raman"
+            },
+            {
+                "id": 37333576800,
+                "preferredName": "D.W. Clark",
+                "firstName": "D.W.",
+                "lastName": "Clark"
+            },
+            {
+                "id": 37265266800,
+                "preferredName": "D.I. August",
+                "firstName": "D.I.",
+                "lastName": "August"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281667",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281667",
+        "articleTitle": "Improving 64-bit Java IPF performance by compressing heap references",
+        "volume": null,
+        "issue": null,
+        "startPage": "100",
+        "endPage": "110",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Improving 64-bit Java IPF performance by compressing heap references",
+        "authors": [
+            {
+                "id": 38271217600,
+                "preferredName": "A.-R. Adl-Tabatabai",
+                "firstName": "A.-R.",
+                "lastName": "Adl-Tabatabai"
+            },
+            {
+                "id": 37087747965,
+                "preferredName": "Jay Bharadwaj",
+                "firstName": null,
+                "lastName": "Jay Bharadwaj"
+            },
+            {
+                "id": 37355282000,
+                "preferredName": "M. Cierniak",
+                "firstName": "M.",
+                "lastName": "Cierniak"
+            },
+            {
+                "id": 37087752388,
+                "preferredName": "M. Eng",
+                "firstName": "M.",
+                "lastName": "Eng"
+            },
+            {
+                "id": 37287988500,
+                "preferredName": "J. Fang",
+                "firstName": "J.",
+                "lastName": "Fang"
+            },
+            {
+                "id": 38334288000,
+                "preferredName": "B.T. Lewis",
+                "firstName": "B.T.",
+                "lastName": "Lewis"
+            },
+            {
+                "id": 37087750883,
+                "preferredName": "B.R. Murphy",
+                "firstName": "B.R.",
+                "lastName": "Murphy"
+            },
+            {
+                "id": 37938141500,
+                "preferredName": "J.M. Stichnoth",
+                "firstName": "J.M.",
+                "lastName": "Stichnoth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281669",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281669",
+        "articleTitle": "Software-controlled operand-gating",
+        "volume": null,
+        "issue": null,
+        "startPage": "125",
+        "endPage": "136",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Software-controlled operand-gating",
+        "authors": [
+            {
+                "id": 37391750000,
+                "preferredName": "R. Canal",
+                "firstName": "R.",
+                "lastName": "Canal"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "A. Gonzalez",
+                "firstName": "A.",
+                "lastName": "Gonzalez"
+            },
+            {
+                "id": 37277158600,
+                "preferredName": "J.E. Smith",
+                "firstName": "J.E.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281681",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281681",
+        "articleTitle": "A compiler scheme for reusing intermediate computation results",
+        "volume": null,
+        "issue": null,
+        "startPage": "277",
+        "endPage": "288",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "A compiler scheme for reusing intermediate computation results",
+        "authors": [
+            {
+                "id": 37961644800,
+                "preferredName": "Y. Ding",
+                "firstName": "Y.",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37069359200,
+                "preferredName": "Z. Li",
+                "firstName": "Z.",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281674",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281674",
+        "articleTitle": "Exploring the performance potential of Itanium/spl reg/ processors with ILP-based scheduling",
+        "volume": null,
+        "issue": null,
+        "startPage": "189",
+        "endPage": "200",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Exploring the performance potential of Itanium/spl reg/ processors with ILP-based scheduling",
+        "authors": [
+            {
+                "id": 37828385400,
+                "preferredName": "S. Winkel",
+                "firstName": "S.",
+                "lastName": "Winkel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281673",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281673",
+        "articleTitle": "Code generation for single-dimension software pipelining of multi-dimensional loops",
+        "volume": null,
+        "issue": null,
+        "startPage": "175",
+        "endPage": "186",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Code generation for single-dimension software pipelining of multi-dimensional loops",
+        "authors": [
+            {
+                "id": 38203005200,
+                "preferredName": "H. Rong",
+                "firstName": "H.",
+                "lastName": "Rong"
+            },
+            {
+                "id": 37721752400,
+                "preferredName": "A. Douillet",
+                "firstName": "A.",
+                "lastName": "Douillet"
+            },
+            {
+                "id": 37294180600,
+                "preferredName": "R. Govindarajan",
+                "firstName": "R.",
+                "lastName": "Govindarajan"
+            },
+            {
+                "id": 37334741200,
+                "preferredName": "G.R. Gao",
+                "firstName": "G.R.",
+                "lastName": "Gao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281677",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281677",
+        "articleTitle": "The accuracy of initial prediction in two-phase dynamic binary translators",
+        "volume": null,
+        "issue": null,
+        "startPage": "227",
+        "endPage": "238",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "The accuracy of initial prediction in two-phase dynamic binary translators",
+        "authors": [
+            {
+                "id": 37293508700,
+                "preferredName": "Y. Wu",
+                "firstName": "Y.",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37354132300,
+                "preferredName": "M. Breternitz",
+                "firstName": "M.",
+                "lastName": "Breternitz"
+            },
+            {
+                "id": 37275824200,
+                "preferredName": "J. Quek",
+                "firstName": "J.",
+                "lastName": "Quek"
+            },
+            {
+                "id": 38203025900,
+                "preferredName": "O. Etzion",
+                "firstName": "O.",
+                "lastName": "Etzion"
+            },
+            {
+                "id": 37287988500,
+                "preferredName": "J. Fang",
+                "firstName": "J.",
+                "lastName": "Fang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281671",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281671",
+        "articleTitle": "Probabilistic predicate-aware modulo scheduling",
+        "volume": null,
+        "issue": null,
+        "startPage": "151",
+        "endPage": "162",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Probabilistic predicate-aware modulo scheduling",
+        "authors": [
+            {
+                "id": 37089148101,
+                "preferredName": "M. Smelyanskiy",
+                "firstName": "M.",
+                "lastName": "Smelyanskiy"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "S. Mahlke",
+                "firstName": "S.",
+                "lastName": "Mahlke"
+            },
+            {
+                "id": 37300641200,
+                "preferredName": "E.S. Davidson",
+                "firstName": "E.S.",
+                "lastName": "Davidson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281675",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281675",
+        "articleTitle": "FLASH: foresighted latency-aware scheduling heuristic for processors with customized datapaths",
+        "volume": null,
+        "issue": null,
+        "startPage": "201",
+        "endPage": "212",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "FLASH: foresighted latency-aware scheduling heuristic for processors with customized datapaths",
+        "authors": [
+            {
+                "id": 37088149131,
+                "preferredName": "Manjunath Kudlur",
+                "firstName": null,
+                "lastName": "Manjunath Kudlur"
+            },
+            {
+                "id": 37269439300,
+                "preferredName": "K. Fan",
+                "firstName": "K.",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37270158600,
+                "preferredName": "M. Chu",
+                "firstName": "M.",
+                "lastName": "Chu"
+            },
+            {
+                "id": 37087255689,
+                "preferredName": "Rajiv Ravindran",
+                "firstName": null,
+                "lastName": "Rajiv Ravindran"
+            },
+            {
+                "id": 37297992600,
+                "preferredName": "N. Clark",
+                "firstName": "N.",
+                "lastName": "Clark"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "S. Mahlke",
+                "firstName": "S.",
+                "lastName": "Mahlke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281663",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281663",
+        "articleTitle": "VHC: quickly building an optimizer for complex embedded architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "53",
+        "endPage": "64",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "VHC: quickly building an optimizer for complex embedded architectures",
+        "authors": [
+            {
+                "id": 37087737606,
+                "preferredName": "M. Dupre",
+                "firstName": "M.",
+                "lastName": "Dupre"
+            },
+            {
+                "id": 37295558900,
+                "preferredName": "N. Drach",
+                "firstName": "N.",
+                "lastName": "Drach"
+            },
+            {
+                "id": 37282483400,
+                "preferredName": "O. Temam",
+                "firstName": "O.",
+                "lastName": "Temam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281653",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281653",
+        "articleTitle": "Message from the General Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "ix",
+        "endPage": "ix",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Message from the General Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281655",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281655",
+        "articleTitle": "Committee chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "xi",
+        "endPage": "xi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Committee chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281657",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281657",
+        "articleTitle": "Program committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiii",
+        "endPage": "xiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Program committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281656",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281656",
+        "articleTitle": "Steering committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "xii",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Steering committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281654",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281654",
+        "articleTitle": "Message from the Program Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "x",
+        "endPage": "x",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Message from the Program Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281658",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281658",
+        "articleTitle": "External reviewers",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiv",
+        "endPage": "xiv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "External reviewers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281651",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281651",
+        "articleTitle": "Copyright",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Copyright",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281650",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281650",
+        "articleTitle": "International Symposium on Code Generation and Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": null,
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "International Symposium on Code Generation and Optimization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281685",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281685",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "325",
+        "endPage": "325",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9012",
+        "doi": "10.1109/CGO.2004.1281652",
+        "publicationYear": "2004",
+        "publicationDate": "20-24 March 2004",
+        "articleNumber": "1281652",
+        "articleTitle": "Table of contents - CGO 2004",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "viii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "International Symposium on Code Generation and Optimization, 2004. CGO 2004.",
+        "highlightedTitle": "Table of contents - CGO 2004",
+        "authors": []
+    }
+]

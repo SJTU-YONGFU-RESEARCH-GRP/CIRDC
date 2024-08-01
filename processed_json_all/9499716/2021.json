@@ -1,0 +1,5171 @@
+[
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00010",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499913",
+        "articleTitle": "Ten Lessons From Three Generations Shaped Google\u2019s TPUv4i : Industrial Product",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Ten Lessons From Three Generations Shaped Google\u2019s TPUv4i : Industrial Product",
+        "authors": [
+            {
+                "id": 37273884000,
+                "preferredName": "Norman P. Jouppi",
+                "firstName": "Norman P.",
+                "lastName": "Jouppi"
+            },
+            {
+                "id": 37088927201,
+                "preferredName": "Doe Hyun Yoon",
+                "firstName": "Doe",
+                "lastName": "Hyun Yoon"
+            },
+            {
+                "id": 37085385452,
+                "preferredName": "Matthew Ashcraft",
+                "firstName": "Matthew",
+                "lastName": "Ashcraft"
+            },
+            {
+                "id": 38246631900,
+                "preferredName": "Mark Gottscho",
+                "firstName": "Mark",
+                "lastName": "Gottscho"
+            },
+            {
+                "id": 37828374600,
+                "preferredName": "Thomas B. Jablin",
+                "firstName": "Thomas B.",
+                "lastName": "Jablin"
+            },
+            {
+                "id": 37402343600,
+                "preferredName": "George Kurian",
+                "firstName": "George",
+                "lastName": "Kurian"
+            },
+            {
+                "id": 37373735900,
+                "preferredName": "James Laudon",
+                "firstName": "James",
+                "lastName": "Laudon"
+            },
+            {
+                "id": 37598555300,
+                "preferredName": "Sheng Li",
+                "firstName": "Sheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088926907,
+                "preferredName": "Peter Ma",
+                "firstName": "Peter",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37088928572,
+                "preferredName": "Xiaoyu Ma",
+                "firstName": "Xiaoyu",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37088242620,
+                "preferredName": "Thomas Norrie",
+                "firstName": "Thomas",
+                "lastName": "Norrie"
+            },
+            {
+                "id": 37086378613,
+                "preferredName": "Nishant Patil",
+                "firstName": "Nishant",
+                "lastName": "Patil"
+            },
+            {
+                "id": 37088926604,
+                "preferredName": "Sushma Prasad",
+                "firstName": "Sushma",
+                "lastName": "Prasad"
+            },
+            {
+                "id": 37088526561,
+                "preferredName": "Cliff Young",
+                "firstName": "Cliff",
+                "lastName": "Young"
+            },
+            {
+                "id": 37088927412,
+                "preferredName": "Zongwei Zhou",
+                "firstName": "Zongwei",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37274686300,
+                "preferredName": "David Patterson",
+                "firstName": "David",
+                "lastName": "Patterson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00013",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499894",
+        "articleTitle": "Hardware Architecture and Software Stack for PIM Based on Commercial DRAM Technology : Industrial Product",
+        "volume": null,
+        "issue": null,
+        "startPage": "43",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Hardware Architecture and Software Stack for PIM Based on Commercial DRAM Technology : Industrial Product",
+        "authors": [
+            {
+                "id": 37085378314,
+                "preferredName": "Sukhan Lee",
+                "firstName": "Sukhan",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088803044,
+                "preferredName": "Shin-haeng Kang",
+                "firstName": "Shin-haeng",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37089853223,
+                "preferredName": "Jaehoon Lee",
+                "firstName": "Jaehoon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088928621,
+                "preferredName": "Hyeonsu Kim",
+                "firstName": "Hyeonsu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086158487,
+                "preferredName": "Eojin Lee",
+                "firstName": "Eojin",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38060959800,
+                "preferredName": "Seungwoo Seo",
+                "firstName": "Seungwoo",
+                "lastName": "Seo"
+            },
+            {
+                "id": 37088928105,
+                "preferredName": "Hosang Yoon",
+                "firstName": "Hosang",
+                "lastName": "Yoon"
+            },
+            {
+                "id": 38185743200,
+                "preferredName": "Seungwon Lee",
+                "firstName": "Seungwon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088927292,
+                "preferredName": "Kyounghwan Lim",
+                "firstName": "Kyounghwan",
+                "lastName": "Lim"
+            },
+            {
+                "id": 37330143200,
+                "preferredName": "Hyunsung Shin",
+                "firstName": "Hyunsung",
+                "lastName": "Shin"
+            },
+            {
+                "id": 37281207000,
+                "preferredName": "Jinhyun Kim",
+                "firstName": "Jinhyun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085354504,
+                "preferredName": "O Seongil",
+                "firstName": "O",
+                "lastName": "Seongil"
+            },
+            {
+                "id": 37088926272,
+                "preferredName": "Anand Iyer",
+                "firstName": "Anand",
+                "lastName": "Iyer"
+            },
+            {
+                "id": 37088802184,
+                "preferredName": "David Wang",
+                "firstName": "David",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37270369000,
+                "preferredName": "Kyomin Sohn",
+                "firstName": "Kyomin",
+                "lastName": "Sohn"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00014",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499852",
+        "articleTitle": "Pioneering Chiplet Technology and Design for the AMD EPYC\u2122 and Ryzen\u2122 Processor Families : Industrial Product",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Pioneering Chiplet Technology and Design for the AMD EPYC\u2122 and Ryzen\u2122 Processor Families : Industrial Product",
+        "authors": [
+            {
+                "id": 38336652100,
+                "preferredName": "Samuel Naffziger",
+                "firstName": "Samuel",
+                "lastName": "Naffziger"
+            },
+            {
+                "id": 37086349050,
+                "preferredName": "Noah Beck",
+                "firstName": "Noah",
+                "lastName": "Beck"
+            },
+            {
+                "id": 37350047200,
+                "preferredName": "Thomas Burd",
+                "firstName": "Thomas",
+                "lastName": "Burd"
+            },
+            {
+                "id": 37399203900,
+                "preferredName": "Kevin Lepak",
+                "firstName": "Kevin",
+                "lastName": "Lepak"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            },
+            {
+                "id": 37087049677,
+                "preferredName": "Mahesh Subramony",
+                "firstName": "Mahesh",
+                "lastName": "Subramony"
+            },
+            {
+                "id": 37086346062,
+                "preferredName": "Sean White",
+                "firstName": "Sean",
+                "lastName": "White"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00011",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499876",
+        "articleTitle": "Sparsity-Aware and Re-configurable NPU Architecture for Samsung Flagship Mobile SoC",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Sparsity-Aware and Re-configurable NPU Architecture for Samsung Flagship Mobile SoC",
+        "authors": [
+            {
+                "id": 37089117016,
+                "preferredName": "Jun-Woo Jang",
+                "firstName": "Jun-Woo",
+                "lastName": "Jang"
+            },
+            {
+                "id": 37087095365,
+                "preferredName": "Sehwan Lee",
+                "firstName": "Sehwan",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37085699592,
+                "preferredName": "Dongyoung Kim",
+                "firstName": "Dongyoung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37960670900,
+                "preferredName": "Hyunsun Park",
+                "firstName": "Hyunsun",
+                "lastName": "Park"
+            },
+            {
+                "id": 37088925033,
+                "preferredName": "Ali Shafiee Ardestani",
+                "firstName": "Ali Shafiee",
+                "lastName": "Ardestani"
+            },
+            {
+                "id": 37085726750,
+                "preferredName": "Yeongjae Choi",
+                "firstName": "Yeongjae",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37088926007,
+                "preferredName": "Channoh Kim",
+                "firstName": "Channoh",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088925782,
+                "preferredName": "Yoojin Kim",
+                "firstName": "Yoojin",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088926465,
+                "preferredName": "Hyeongseok Yu",
+                "firstName": "Hyeongseok",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37089466511,
+                "preferredName": "Hamzah Abdel-Aziz",
+                "firstName": "Hamzah",
+                "lastName": "Abdel-Aziz"
+            },
+            {
+                "id": 37281004700,
+                "preferredName": "Jun-Seok Park",
+                "firstName": "Jun-Seok",
+                "lastName": "Park"
+            },
+            {
+                "id": 37088801003,
+                "preferredName": "Heonsoo Lee",
+                "firstName": "Heonsoo",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088093531,
+                "preferredName": "Dongwoo Lee",
+                "firstName": "Dongwoo",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088928369,
+                "preferredName": "Myeong Woo Kim",
+                "firstName": "Myeong Woo",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088800914,
+                "preferredName": "Hanwoong Jung",
+                "firstName": "Hanwoong",
+                "lastName": "Jung"
+            },
+            {
+                "id": 37088925144,
+                "preferredName": "Heewoo Nam",
+                "firstName": "Heewoo",
+                "lastName": "Nam"
+            },
+            {
+                "id": 37088928228,
+                "preferredName": "Dongguen Lim",
+                "firstName": "Dongguen",
+                "lastName": "Lim"
+            },
+            {
+                "id": 38185743200,
+                "preferredName": "Seungwon Lee",
+                "firstName": "Seungwon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37277431100,
+                "preferredName": "Joon-Ho Song",
+                "firstName": "Joon-Ho",
+                "lastName": "Song"
+            },
+            {
+                "id": 37088802480,
+                "preferredName": "Suknam Kwon",
+                "firstName": "Suknam",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 37088927114,
+                "preferredName": "Joseph Hassoun",
+                "firstName": "Joseph",
+                "lastName": "Hassoun"
+            },
+            {
+                "id": 38025895700,
+                "preferredName": "SukHwan Lim",
+                "firstName": "SukHwan",
+                "lastName": "Lim"
+            },
+            {
+                "id": 38240142100,
+                "preferredName": "Changkyu Choi",
+                "firstName": "Changkyu",
+                "lastName": "Choi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00050",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499855",
+        "articleTitle": "CoSA: Scheduling by Constrained Optimization for Spatial Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "554",
+        "endPage": "566",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "CoSA: Scheduling by Constrained Optimization for Spatial Accelerators",
+        "authors": [
+            {
+                "id": 37086291140,
+                "preferredName": "Qijing Huang",
+                "firstName": "Qijing",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37089278764,
+                "preferredName": "Minwoo Kang",
+                "firstName": "Minwoo",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37089278497,
+                "preferredName": "Grace Dinh",
+                "firstName": "Grace",
+                "lastName": "Dinh"
+            },
+            {
+                "id": 37089280160,
+                "preferredName": "Thomas Norell",
+                "firstName": "Thomas",
+                "lastName": "Norell"
+            },
+            {
+                "id": 37947300500,
+                "preferredName": "Aravind Kalaiah",
+                "firstName": "Aravind",
+                "lastName": "Kalaiah"
+            },
+            {
+                "id": 37281843900,
+                "preferredName": "James Demmel",
+                "firstName": "James",
+                "lastName": "Demmel"
+            },
+            {
+                "id": 37294181800,
+                "preferredName": "John Wawrzynek",
+                "firstName": "John",
+                "lastName": "Wawrzynek"
+            },
+            {
+                "id": 37070947100,
+                "preferredName": "Yakun Sophia Shao",
+                "firstName": "Yakun Sophia",
+                "lastName": "Shao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00060",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499860",
+        "articleTitle": "ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "692",
+        "endPage": "705",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ELSA: Hardware-Software Co-design for Efficient, Lightweight Self-Attention Mechanism in Neural Networks",
+        "authors": [
+            {
+                "id": 37060925300,
+                "preferredName": "Tae Jun Ham",
+                "firstName": "Tae Jun",
+                "lastName": "Ham"
+            },
+            {
+                "id": 37088489306,
+                "preferredName": "Yejin Lee",
+                "firstName": "Yejin",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088480402,
+                "preferredName": "Seong Hoon Seo",
+                "firstName": "Seong Hoon",
+                "lastName": "Seo"
+            },
+            {
+                "id": 37088928093,
+                "preferredName": "Soosung Kim",
+                "firstName": "Soosung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088927265,
+                "preferredName": "Hyunji Choi",
+                "firstName": "Hyunji",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37088370053,
+                "preferredName": "Sung Jun Jung",
+                "firstName": "Sung Jun",
+                "lastName": "Jung"
+            },
+            {
+                "id": 38008729800,
+                "preferredName": "Jae W. Lee",
+                "firstName": "Jae W.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00021",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499865",
+        "articleTitle": "RaPiD: AI Accelerator for Ultra-low Precision Training and Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "153",
+        "endPage": "166",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "RaPiD: AI Accelerator for Ultra-low Precision Training and Inference",
+        "authors": [
+            {
+                "id": 38466410600,
+                "preferredName": "Swagath Venkataramani",
+                "firstName": "Swagath",
+                "lastName": "Venkataramani"
+            },
+            {
+                "id": 37359567300,
+                "preferredName": "Vijayalakshmi Srinivasan",
+                "firstName": "Vijayalakshmi",
+                "lastName": "Srinivasan"
+            },
+            {
+                "id": 37086843208,
+                "preferredName": "Wei Wang",
+                "firstName": "Wei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086009369,
+                "preferredName": "Sanchari Sen",
+                "firstName": "Sanchari",
+                "lastName": "Sen"
+            },
+            {
+                "id": 37085527721,
+                "preferredName": "Jintao Zhang",
+                "firstName": "Jintao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37674061100,
+                "preferredName": "Ankur Agrawal",
+                "firstName": "Ankur",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 38667724400,
+                "preferredName": "Monodeep Kar",
+                "firstName": "Monodeep",
+                "lastName": "Kar"
+            },
+            {
+                "id": 37085786568,
+                "preferredName": "Shubham Jain",
+                "firstName": "Shubham",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37088927014,
+                "preferredName": "Alberto Mannari",
+                "firstName": "Alberto",
+                "lastName": "Mannari"
+            },
+            {
+                "id": 37088927896,
+                "preferredName": "Hoang Tran",
+                "firstName": "Hoang",
+                "lastName": "Tran"
+            },
+            {
+                "id": 37088804165,
+                "preferredName": "Yulong Li",
+                "firstName": "Yulong",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086840490,
+                "preferredName": "Eri Ogawa",
+                "firstName": "Eri",
+                "lastName": "Ogawa"
+            },
+            {
+                "id": 37399081500,
+                "preferredName": "Kazuaki Ishizaki",
+                "firstName": "Kazuaki",
+                "lastName": "Ishizaki"
+            },
+            {
+                "id": 37292993100,
+                "preferredName": "Hiroshi Inoue",
+                "firstName": "Hiroshi",
+                "lastName": "Inoue"
+            },
+            {
+                "id": 37540741300,
+                "preferredName": "Marcel Schaal",
+                "firstName": "Marcel",
+                "lastName": "Schaal"
+            },
+            {
+                "id": 38270798300,
+                "preferredName": "Mauricio Serrano",
+                "firstName": "Mauricio",
+                "lastName": "Serrano"
+            },
+            {
+                "id": 37085884835,
+                "preferredName": "Jungwook Choi",
+                "firstName": "Jungwook",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37087048571,
+                "preferredName": "Xiao Sun",
+                "firstName": "Xiao",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37401666900,
+                "preferredName": "Naigang Wang",
+                "firstName": "Naigang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086008090,
+                "preferredName": "Chia-Yu Chen",
+                "firstName": "Chia-Yu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088927196,
+                "preferredName": "Allison Allain",
+                "firstName": "Allison",
+                "lastName": "Allain"
+            },
+            {
+                "id": 37088927164,
+                "preferredName": "James Bonano",
+                "firstName": "James",
+                "lastName": "Bonano"
+            },
+            {
+                "id": 37086489465,
+                "preferredName": "Nianzheng Cao",
+                "firstName": "Nianzheng",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37088484481,
+                "preferredName": "Robert Casatuta",
+                "firstName": "Robert",
+                "lastName": "Casatuta"
+            },
+            {
+                "id": 37088489184,
+                "preferredName": "Matthew Cohen",
+                "firstName": "Matthew",
+                "lastName": "Cohen"
+            },
+            {
+                "id": 37857307900,
+                "preferredName": "Bruce Fleischer",
+                "firstName": "Bruce",
+                "lastName": "Fleischer"
+            },
+            {
+                "id": 37078899400,
+                "preferredName": "Michael Guillorn",
+                "firstName": "Michael",
+                "lastName": "Guillorn"
+            },
+            {
+                "id": 37086489535,
+                "preferredName": "Howard Haynie",
+                "firstName": "Howard",
+                "lastName": "Haynie"
+            },
+            {
+                "id": 37086013944,
+                "preferredName": "Jinwook Jung",
+                "firstName": "Jinwook",
+                "lastName": "Jung"
+            },
+            {
+                "id": 37085531020,
+                "preferredName": "Mingu Kang",
+                "firstName": "Mingu",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37367181100,
+                "preferredName": "Kyu-hyoun Kim",
+                "firstName": "Kyu-hyoun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088487210,
+                "preferredName": "Siyu Koswatta",
+                "firstName": "Siyu",
+                "lastName": "Koswatta"
+            },
+            {
+                "id": 37076724700,
+                "preferredName": "Saekyu Lee",
+                "firstName": "Saekyu",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088485089,
+                "preferredName": "Martin Lutz",
+                "firstName": "Martin",
+                "lastName": "Lutz"
+            },
+            {
+                "id": 37425466700,
+                "preferredName": "Silvia Mueller",
+                "firstName": "Silvia",
+                "lastName": "Mueller"
+            },
+            {
+                "id": 37085888794,
+                "preferredName": "Jinwook Oh",
+                "firstName": "Jinwook",
+                "lastName": "Oh"
+            },
+            {
+                "id": 37085411667,
+                "preferredName": "Ashish Ranjan",
+                "firstName": "Ashish",
+                "lastName": "Ranjan"
+            },
+            {
+                "id": 37289712900,
+                "preferredName": "Zhibin Ren",
+                "firstName": "Zhibin",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37088243513,
+                "preferredName": "Scot Rider",
+                "firstName": "Scot",
+                "lastName": "Rider"
+            },
+            {
+                "id": 37947803700,
+                "preferredName": "Kerstin Schelm",
+                "firstName": "Kerstin",
+                "lastName": "Schelm"
+            },
+            {
+                "id": 37318505000,
+                "preferredName": "Michael Scheuermann",
+                "firstName": "Michael",
+                "lastName": "Scheuermann"
+            },
+            {
+                "id": 37361572400,
+                "preferredName": "Joel Silberman",
+                "firstName": "Joel",
+                "lastName": "Silberman"
+            },
+            {
+                "id": 37088928223,
+                "preferredName": "Jie Yang",
+                "firstName": "Jie",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086531378,
+                "preferredName": "Vidhi Zalani",
+                "firstName": "Vidhi",
+                "lastName": "Zalani"
+            },
+            {
+                "id": 37088804292,
+                "preferredName": "Xin Zhang",
+                "firstName": "Xin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085812139,
+                "preferredName": "Ching Zhou",
+                "firstName": "Ching",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37273745700,
+                "preferredName": "Matt Ziegler",
+                "firstName": "Matt",
+                "lastName": "Ziegler"
+            },
+            {
+                "id": 37088488481,
+                "preferredName": "Vinay Shah",
+                "firstName": "Vinay",
+                "lastName": "Shah"
+            },
+            {
+                "id": 37294259700,
+                "preferredName": "Moriyoshi Ohara",
+                "firstName": "Moriyoshi",
+                "lastName": "Ohara"
+            },
+            {
+                "id": 37349407700,
+                "preferredName": "Pong-Fei Lu",
+                "firstName": "Pong-Fei",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37356010100,
+                "preferredName": "Brian Curran",
+                "firstName": "Brian",
+                "lastName": "Curran"
+            },
+            {
+                "id": 37288611700,
+                "preferredName": "Sunil Shukla",
+                "firstName": "Sunil",
+                "lastName": "Shukla"
+            },
+            {
+                "id": 37278239300,
+                "preferredName": "Leland Chang",
+                "firstName": "Leland",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37273029000,
+                "preferredName": "Kailash Gopalakrishnan",
+                "firstName": "Kailash",
+                "lastName": "Gopalakrishnan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00029",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499856",
+        "articleTitle": "FORMS: Fine-grained Polarized ReRAM-based In-situ Computation for Mixed-signal DNN Accelerator",
+        "volume": null,
+        "issue": null,
+        "startPage": "265",
+        "endPage": "278",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "FORMS: Fine-grained Polarized ReRAM-based In-situ Computation for Mixed-signal DNN Accelerator",
+        "authors": [
+            {
+                "id": 37086994553,
+                "preferredName": "Geng Yuan",
+                "firstName": "Geng",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37089099782,
+                "preferredName": "Payman Behnam",
+                "firstName": "Payman",
+                "lastName": "Behnam"
+            },
+            {
+                "id": 37088389898,
+                "preferredName": "Zhengang Li",
+                "firstName": "Zhengang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37587734900,
+                "preferredName": "Ali Shafiee",
+                "firstName": "Ali",
+                "lastName": "Shafiee"
+            },
+            {
+                "id": 37402312700,
+                "preferredName": "Sheng Lin",
+                "firstName": "Sheng",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086084313,
+                "preferredName": "Xiaolong Ma",
+                "firstName": "Xiaolong",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37087104569,
+                "preferredName": "Hang Liu",
+                "firstName": "Hang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086058165,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37294895000,
+                "preferredName": "Mahdi Nazm Bojnordi",
+                "firstName": "Mahdi Nazm",
+                "lastName": "Bojnordi"
+            },
+            {
+                "id": 37966617700,
+                "preferredName": "Yanzhi Wang",
+                "firstName": "Yanzhi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085664380,
+                "preferredName": "Caiwen Ding",
+                "firstName": "Caiwen",
+                "lastName": "Ding"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00090",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499915",
+        "articleTitle": "GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator",
+        "volume": null,
+        "issue": null,
+        "startPage": "1110",
+        "endPage": "1123",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "GoSPA: An Energy-efficient High-performance Globally Optimized SParse Convolutional Neural Network Accelerator",
+        "authors": [
+            {
+                "id": 37086554588,
+                "preferredName": "Chunhua Deng",
+                "firstName": "Chunhua",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37088926572,
+                "preferredName": "Yang Sui",
+                "firstName": "Yang",
+                "lastName": "Sui"
+            },
+            {
+                "id": 37086227138,
+                "preferredName": "Siyu Liao",
+                "firstName": "Siyu",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37086058165,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 38521367500,
+                "preferredName": "Bo Yuan",
+                "firstName": "Bo",
+                "lastName": "Yuan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00075",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499847",
+        "articleTitle": "Demystifying the System Vulnerability Stack: Transient Fault Effects Across the Layers",
+        "volume": null,
+        "issue": null,
+        "startPage": "902",
+        "endPage": "915",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Demystifying the System Vulnerability Stack: Transient Fault Effects Across the Layers",
+        "authors": [
+            {
+                "id": 37085810430,
+                "preferredName": "George Papadimitriou",
+                "firstName": "George",
+                "lastName": "Papadimitriou"
+            },
+            {
+                "id": 37276979600,
+                "preferredName": "Dimitris Gizopoulos",
+                "firstName": "Dimitris",
+                "lastName": "Gizopoulos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00062",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499903",
+        "articleTitle": "TENET: A Framework for Modeling Tensor Dataflow Based on Relation-centric Notation",
+        "volume": null,
+        "issue": null,
+        "startPage": "720",
+        "endPage": "733",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "TENET: A Framework for Modeling Tensor Dataflow Based on Relation-centric Notation",
+        "authors": [
+            {
+                "id": 37086053484,
+                "preferredName": "Liqiang Lu",
+                "firstName": "Liqiang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37086877251,
+                "preferredName": "Naiqing Guan",
+                "firstName": "Naiqing",
+                "lastName": "Guan"
+            },
+            {
+                "id": 37088928411,
+                "preferredName": "Yuyue Wang",
+                "firstName": "Yuyue",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088418133,
+                "preferredName": "Liancheng Jia",
+                "firstName": "Liancheng",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37088927362,
+                "preferredName": "Zizhang Luo",
+                "firstName": "Zizhang",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37086275363,
+                "preferredName": "Jieming Yin",
+                "firstName": "Jieming",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37276009100,
+                "preferredName": "Jason Cong",
+                "firstName": "Jason",
+                "lastName": "Cong"
+            },
+            {
+                "id": 38003339700,
+                "preferredName": "Yun Liang",
+                "firstName": "Yun",
+                "lastName": "Liang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00084",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499726",
+        "articleTitle": "Snafu: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "1027",
+        "endPage": "1040",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Snafu: An Ultra-Low-Power, Energy-Minimal CGRA-Generation Framework and Architecture",
+        "authors": [
+            {
+                "id": 37088928110,
+                "preferredName": "Graham Gobieski",
+                "firstName": "Graham",
+                "lastName": "Gobieski"
+            },
+            {
+                "id": 37088925381,
+                "preferredName": "Ahmet Oguz Atli",
+                "firstName": "Ahmet Oguz",
+                "lastName": "Atli"
+            },
+            {
+                "id": 37270361300,
+                "preferredName": "Kenneth Mai",
+                "firstName": "Kenneth",
+                "lastName": "Mai"
+            },
+            {
+                "id": 37397839100,
+                "preferredName": "Brandon Lucia",
+                "firstName": "Brandon",
+                "lastName": "Lucia"
+            },
+            {
+                "id": 37394328100,
+                "preferredName": "Nathan Beckmann",
+                "firstName": "Nathan",
+                "lastName": "Beckmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00086",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499796",
+        "articleTitle": "HASCO: Towards Agile HArdware and Software CO-design for Tensor Computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1055",
+        "endPage": "1068",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "HASCO: Towards Agile HArdware and Software CO-design for Tensor Computation",
+        "authors": [
+            {
+                "id": 37086049996,
+                "preferredName": "Qingcheng Xiao",
+                "firstName": "Qingcheng",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37088564243,
+                "preferredName": "Size Zheng",
+                "firstName": "Size",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37088925216,
+                "preferredName": "Bingzhe Wu",
+                "firstName": "Bingzhe",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088865062,
+                "preferredName": "Pengcheng Xu",
+                "firstName": "Pengcheng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37086058165,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 38003339700,
+                "preferredName": "Yun Liang",
+                "firstName": "Yun",
+                "lastName": "Liang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00088",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499745",
+        "articleTitle": "Dual-side Sparse Tensor Core",
+        "volume": null,
+        "issue": null,
+        "startPage": "1083",
+        "endPage": "1095",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Dual-side Sparse Tensor Core",
+        "authors": [
+            {
+                "id": 37088928678,
+                "preferredName": "Yang Wang",
+                "firstName": "Yang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37087232850,
+                "preferredName": "Chen Zhang",
+                "firstName": "Chen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088925126,
+                "preferredName": "Zhiqiang Xie",
+                "firstName": "Zhiqiang",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37087235563,
+                "preferredName": "Cong Guo",
+                "firstName": "Cong",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37310071400,
+                "preferredName": "Yunxin Liu",
+                "firstName": "Yunxin",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085526104,
+                "preferredName": "Jingwen Leng",
+                "firstName": "Jingwen",
+                "lastName": "Leng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00055",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499736",
+        "articleTitle": "Cost-Efficient Overclocking in Immersion-Cooled Datacenters",
+        "volume": null,
+        "issue": null,
+        "startPage": "623",
+        "endPage": "636",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Cost-Efficient Overclocking in Immersion-Cooled Datacenters",
+        "authors": [
+            {
+                "id": 37085499572,
+                "preferredName": "Majid Jalili",
+                "firstName": "Majid",
+                "lastName": "Jalili"
+            },
+            {
+                "id": 38526808100,
+                "preferredName": "Ioannis Manousakis",
+                "firstName": "Ioannis",
+                "lastName": "Manousakis"
+            },
+            {
+                "id": 37393924500,
+                "preferredName": "\u00cd\u00f1igo Goiri",
+                "firstName": "\u00cd\u00f1igo",
+                "lastName": "Goiri"
+            },
+            {
+                "id": 37088926883,
+                "preferredName": "Pulkit A. Misra",
+                "firstName": "Pulkit A.",
+                "lastName": "Misra"
+            },
+            {
+                "id": 37088927368,
+                "preferredName": "Ashish Raniwala",
+                "firstName": "Ashish",
+                "lastName": "Raniwala"
+            },
+            {
+                "id": 37085570091,
+                "preferredName": "Husam Alissa",
+                "firstName": "Husam",
+                "lastName": "Alissa"
+            },
+            {
+                "id": 37085544247,
+                "preferredName": "Bharath Ramakrishnan",
+                "firstName": "Bharath",
+                "lastName": "Ramakrishnan"
+            },
+            {
+                "id": 37294058400,
+                "preferredName": "Phillip Tuma",
+                "firstName": "Phillip",
+                "lastName": "Tuma"
+            },
+            {
+                "id": 37089435985,
+                "preferredName": "Christian Belady",
+                "firstName": "Christian",
+                "lastName": "Belady"
+            },
+            {
+                "id": 37088927948,
+                "preferredName": "Marcus Fontoura",
+                "firstName": "Marcus",
+                "lastName": "Fontoura"
+            },
+            {
+                "id": 37265323800,
+                "preferredName": "Ricardo Bianchini",
+                "firstName": "Ricardo",
+                "lastName": "Bianchini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00078",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499795",
+        "articleTitle": "QUAC-TRNG: High-Throughput True Random Number Generation Using Quadruple Row Activation in Commodity DRAM Chips",
+        "volume": null,
+        "issue": null,
+        "startPage": "944",
+        "endPage": "957",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "QUAC-TRNG: High-Throughput True Random Number Generation Using Quadruple Row Activation in Commodity DRAM Chips",
+        "authors": [
+            {
+                "id": 37088847688,
+                "preferredName": "Ataberk Olgun",
+                "firstName": "Ataberk",
+                "lastName": "Olgun"
+            },
+            {
+                "id": 37086188901,
+                "preferredName": "Minesh Patel",
+                "firstName": "Minesh",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37085617764,
+                "preferredName": "A. Giray Ya\u011fl\u0131k\u00e7\u0131",
+                "firstName": "A. Giray",
+                "lastName": "Ya\u011fl\u0131k\u00e7\u0131"
+            },
+            {
+                "id": 37088483950,
+                "preferredName": "Haocong Luo",
+                "firstName": "Haocong",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088927322,
+                "preferredName": "F. Nisa Bostanc\u0131",
+                "firstName": "F.",
+                "lastName": "Nisa Bostanc\u0131"
+            },
+            {
+                "id": 37085635801,
+                "preferredName": "Nandita Vijaykumar",
+                "firstName": "Nandita",
+                "lastName": "Vijaykumar"
+            },
+            {
+                "id": 37274787500,
+                "preferredName": "O\u011fuz Ergin",
+                "firstName": "O\u011fuz",
+                "lastName": "Ergin"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00085",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499943",
+        "articleTitle": "SARA: Scaling a Reconfigurable Dataflow Accelerator",
+        "volume": null,
+        "issue": null,
+        "startPage": "1041",
+        "endPage": "1054",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SARA: Scaling a Reconfigurable Dataflow Accelerator",
+        "authors": [
+            {
+                "id": 37085852303,
+                "preferredName": "Yaqi Zhang",
+                "firstName": "Yaqi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37087078472,
+                "preferredName": "Nathan Zhang",
+                "firstName": "Nathan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086299388,
+                "preferredName": "Tian Zhao",
+                "firstName": "Tian",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085873592,
+                "preferredName": "Matt Vilim",
+                "firstName": "Matt",
+                "lastName": "Vilim"
+            },
+            {
+                "id": 37545355200,
+                "preferredName": "Muhammad Shahbaz",
+                "firstName": "Muhammad",
+                "lastName": "Shahbaz"
+            },
+            {
+                "id": 37282353900,
+                "preferredName": "Kunle Olukotun",
+                "firstName": "Kunle",
+                "lastName": "Olukotun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00053",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499835",
+        "articleTitle": "PolyGraph: Exposing the Value of Flexibility for Graph Processing Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "595",
+        "endPage": "608",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "PolyGraph: Exposing the Value of Flexibility for Graph Processing Accelerators",
+        "authors": [
+            {
+                "id": 37087236762,
+                "preferredName": "Vidushi Dadu",
+                "firstName": "Vidushi",
+                "lastName": "Dadu"
+            },
+            {
+                "id": 37087237569,
+                "preferredName": "Sihao Liu",
+                "firstName": "Sihao",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38234971600,
+                "preferredName": "Tony Nowatzki",
+                "firstName": "Tony",
+                "lastName": "Nowatzki"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00036",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499837",
+        "articleTitle": "I See Dead \u00b5ops: Leaking Secrets via Intel/AMD Micro-Op Caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "361",
+        "endPage": "374",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "I See Dead \u00b5ops: Leaking Secrets via Intel/AMD Micro-Op Caches",
+        "authors": [
+            {
+                "id": 37088927475,
+                "preferredName": "Xida Ren",
+                "firstName": "Xida",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37088925345,
+                "preferredName": "Logan Moody",
+                "firstName": "Logan",
+                "lastName": "Moody"
+            },
+            {
+                "id": 37085823864,
+                "preferredName": "Mohammadkazem Taram",
+                "firstName": "Mohammadkazem",
+                "lastName": "Taram"
+            },
+            {
+                "id": 37088925569,
+                "preferredName": "Matthew Jordan",
+                "firstName": "Matthew",
+                "lastName": "Jordan"
+            },
+            {
+                "id": 37282355800,
+                "preferredName": "Dean M. Tullsen",
+                "firstName": "Dean M.",
+                "lastName": "Tullsen"
+            },
+            {
+                "id": 37086358629,
+                "preferredName": "Ashish Venkat",
+                "firstName": "Ashish",
+                "lastName": "Venkat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00052",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499844",
+        "articleTitle": "FlexMiner: A Pattern-Aware Accelerator for Graph Pattern Mining",
+        "volume": null,
+        "issue": null,
+        "startPage": "581",
+        "endPage": "594",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "FlexMiner: A Pattern-Aware Accelerator for Graph Pattern Mining",
+        "authors": [
+            {
+                "id": 38239046400,
+                "preferredName": "Xuhao Chen",
+                "firstName": "Xuhao",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088550458,
+                "preferredName": "Tianhao Huang",
+                "firstName": "Tianhao",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37087453038,
+                "preferredName": "Shuotao Xu",
+                "firstName": "Shuotao",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37085880523,
+                "preferredName": "Thomas Bourgeat",
+                "firstName": "Thomas",
+                "lastName": "Bourgeat"
+            },
+            {
+                "id": 37089270242,
+                "preferredName": "Chanwoo Chung",
+                "firstName": "Chanwoo",
+                "lastName": "Chung"
+            },
+            {
+                "id": 38253643000,
+                "preferredName": "Arvind Arvind",
+                "firstName": "Arvind",
+                "lastName": "Arvind"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00083",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499743",
+        "articleTitle": "NN-Baton: DNN Workload Orchestration and Chiplet Granularity Exploration for Multichip Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "1013",
+        "endPage": "1026",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "NN-Baton: DNN Workload Orchestration and Chiplet Granularity Exploration for Multichip Accelerators",
+        "authors": [
+            {
+                "id": 37088527061,
+                "preferredName": "Zhanhong Tan",
+                "firstName": "Zhanhong",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37088927854,
+                "preferredName": "Hongyu Cai",
+                "firstName": "Hongyu",
+                "lastName": "Cai"
+            },
+            {
+                "id": 37088927075,
+                "preferredName": "Runpei Dong",
+                "firstName": "Runpei",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37085341005,
+                "preferredName": "Kaisheng Ma",
+                "firstName": "Kaisheng",
+                "lastName": "Ma"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00018",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499850",
+        "articleTitle": "Don\u2019t Forget the I/O When Allocating Your LLC",
+        "volume": null,
+        "issue": null,
+        "startPage": "112",
+        "endPage": "125",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Don\u2019t Forget the I/O When Allocating Your LLC",
+        "authors": [
+            {
+                "id": 37086555163,
+                "preferredName": "Yifan Yuan",
+                "firstName": "Yifan",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37085819806,
+                "preferredName": "Mohammad Alian",
+                "firstName": "Mohammad",
+                "lastName": "Alian"
+            },
+            {
+                "id": 37071845600,
+                "preferredName": "Yipeng Wang",
+                "firstName": "Yipeng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37964713800,
+                "preferredName": "Ren Wang",
+                "firstName": "Ren",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088925541,
+                "preferredName": "Ilia Kurakin",
+                "firstName": "Ilia",
+                "lastName": "Kurakin"
+            },
+            {
+                "id": 37358882300,
+                "preferredName": "Charlie Tai",
+                "firstName": "Charlie",
+                "lastName": "Tai"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00040",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499783",
+        "articleTitle": "PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "416",
+        "endPage": "428",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "PipeZK: Accelerating Zero-Knowledge Proof with a Pipelined Architecture",
+        "authors": [
+            {
+                "id": 37088927495,
+                "preferredName": "Ye Zhang",
+                "firstName": "Ye",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089261891,
+                "preferredName": "Shuo Wang",
+                "firstName": "Shuo",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088925484,
+                "preferredName": "Xian Zhang",
+                "firstName": "Xian",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088926221,
+                "preferredName": "Jiangbin Dong",
+                "firstName": "Jiangbin",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37088926710,
+                "preferredName": "Xingzhong Mao",
+                "firstName": "Xingzhong",
+                "lastName": "Mao"
+            },
+            {
+                "id": 37088530797,
+                "preferredName": "Fan Long",
+                "firstName": "Fan",
+                "lastName": "Long"
+            },
+            {
+                "id": 37405908500,
+                "preferredName": "Cong Wang",
+                "firstName": "Cong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37069968000,
+                "preferredName": "Dong Zhou",
+                "firstName": "Dong",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37085624644,
+                "preferredName": "Mingyu Gao",
+                "firstName": "Mingyu",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37404006100,
+                "preferredName": "Guangyu Sun",
+                "firstName": "Guangyu",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00061",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499944",
+        "articleTitle": "Cambricon-Q: A Hybrid Architecture for Efficient Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "706",
+        "endPage": "719",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Cambricon-Q: A Hybrid Architecture for Efficient Training",
+        "authors": [
+            {
+                "id": 37087472365,
+                "preferredName": "Yongwei Zhao",
+                "firstName": "Yongwei",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 38469590800,
+                "preferredName": "Chang Liu",
+                "firstName": "Chang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085367291,
+                "preferredName": "Zidong Du",
+                "firstName": "Zidong",
+                "lastName": "Du"
+            },
+            {
+                "id": 37306644400,
+                "preferredName": "Qi Guo",
+                "firstName": "Qi",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37086337781,
+                "preferredName": "Xing Hu",
+                "firstName": "Xing",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37088926697,
+                "preferredName": "Yimin Zhuang",
+                "firstName": "Yimin",
+                "lastName": "Zhuang"
+            },
+            {
+                "id": 37088925860,
+                "preferredName": "Zhenxing Zhang",
+                "firstName": "Zhenxing",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088927109,
+                "preferredName": "Xinkai Song",
+                "firstName": "Xinkai",
+                "lastName": "Song"
+            },
+            {
+                "id": 37089268116,
+                "preferredName": "Wei Li",
+                "firstName": "Wei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085582307,
+                "preferredName": "Xishan Zhang",
+                "firstName": "Xishan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37635092300,
+                "preferredName": "Ling Li",
+                "firstName": "Ling",
+                "lastName": "Li"
+            },
+            {
+                "id": 37273450300,
+                "preferredName": "Zhiwei Xu",
+                "firstName": "Zhiwei",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37402474000,
+                "preferredName": "Tianshi Chen",
+                "firstName": "Tianshi",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00072",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499746",
+        "articleTitle": "Albireo: Energy-Efficient Acceleration of Convolutional Neural Networks via Silicon Photonics",
+        "volume": null,
+        "issue": null,
+        "startPage": "860",
+        "endPage": "873",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Albireo: Energy-Efficient Acceleration of Convolutional Neural Networks via Silicon Photonics",
+        "authors": [
+            {
+                "id": 37088370330,
+                "preferredName": "Kyle Shiflett",
+                "firstName": "Kyle",
+                "lastName": "Shiflett"
+            },
+            {
+                "id": 37086563615,
+                "preferredName": "Avinash Karanth",
+                "firstName": "Avinash",
+                "lastName": "Karanth"
+            },
+            {
+                "id": 38198798500,
+                "preferredName": "Razvan Bunescu",
+                "firstName": "Razvan",
+                "lastName": "Bunescu"
+            },
+            {
+                "id": 37271795400,
+                "preferredName": "Ahmed Louri",
+                "firstName": "Ahmed",
+                "lastName": "Louri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00032",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499793",
+        "articleTitle": "Confidential Serverless Made Efficient with Plug-In Enclaves",
+        "volume": null,
+        "issue": null,
+        "startPage": "306",
+        "endPage": "318",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Confidential Serverless Made Efficient with Plug-In Enclaves",
+        "authors": [
+            {
+                "id": 37086306167,
+                "preferredName": "Mingyu Li",
+                "firstName": "Mingyu",
+                "lastName": "Li"
+            },
+            {
+                "id": 38468132400,
+                "preferredName": "Yubin Xia",
+                "firstName": "Yubin",
+                "lastName": "Xia"
+            },
+            {
+                "id": 37539848500,
+                "preferredName": "Haibo Chen",
+                "firstName": "Haibo",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00087",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499902",
+        "articleTitle": "SpZip: Architectural Support for Effective Data Compression In Irregular Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1069",
+        "endPage": "1082",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SpZip: Architectural Support for Effective Data Compression In Irregular Applications",
+        "authors": [
+            {
+                "id": 37088926812,
+                "preferredName": "Yifan Yang",
+                "firstName": "Yifan",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37266272500,
+                "preferredName": "Joel S. Emer",
+                "firstName": "Joel S.",
+                "lastName": "Emer"
+            },
+            {
+                "id": 37531401100,
+                "preferredName": "Daniel Sanchez",
+                "firstName": "Daniel",
+                "lastName": "Sanchez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00045",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499751",
+        "articleTitle": "CODIC: A Low-Cost Substrate for Enabling Custom In-DRAM Functionalities and Optimizations",
+        "volume": null,
+        "issue": null,
+        "startPage": "484",
+        "endPage": "497",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "CODIC: A Low-Cost Substrate for Enabling Custom In-DRAM Functionalities and Optimizations",
+        "authors": [
+            {
+                "id": 37085772584,
+                "preferredName": "Lois Orosa",
+                "firstName": "Lois",
+                "lastName": "Orosa"
+            },
+            {
+                "id": 37900877700,
+                "preferredName": "Yaohua Wang",
+                "firstName": "Yaohua",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085584788,
+                "preferredName": "Mohammad Sadrosadati",
+                "firstName": "Mohammad",
+                "lastName": "Sadrosadati"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086188901,
+                "preferredName": "Minesh Patel",
+                "firstName": "Minesh",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37088928268,
+                "preferredName": "Ivan Puddu",
+                "firstName": "Ivan",
+                "lastName": "Puddu"
+            },
+            {
+                "id": 37088483950,
+                "preferredName": "Haocong Luo",
+                "firstName": "Haocong",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37074859300,
+                "preferredName": "Kaveh Razavi",
+                "firstName": "Kaveh",
+                "lastName": "Razavi"
+            },
+            {
+                "id": 37075039500,
+                "preferredName": "Juan G\u00f3mez-Luna",
+                "firstName": "Juan",
+                "lastName": "G\u00f3mez-Luna"
+            },
+            {
+                "id": 37085624531,
+                "preferredName": "Hasan Hassan",
+                "firstName": "Hasan",
+                "lastName": "Hassan"
+            },
+            {
+                "id": 37086152686,
+                "preferredName": "Nika Mansouri-Ghiasi",
+                "firstName": "Nika",
+                "lastName": "Mansouri-Ghiasi"
+            },
+            {
+                "id": 37085354352,
+                "preferredName": "Saugata Ghose",
+                "firstName": "Saugata",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00063",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499928",
+        "articleTitle": "Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "734",
+        "endPage": "747",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Ripple: Profile-Guided Instruction Cache Replacement for Data Center Applications",
+        "authors": [
+            {
+                "id": 37088549648,
+                "preferredName": "Tanvir Ahmed Khan",
+                "firstName": "Tanvir Ahmed",
+                "lastName": "Khan"
+            },
+            {
+                "id": 37088927796,
+                "preferredName": "Dexin Zhang",
+                "firstName": "Dexin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085779243,
+                "preferredName": "Akshitha Sriraman",
+                "firstName": "Akshitha",
+                "lastName": "Sriraman"
+            },
+            {
+                "id": 38259804100,
+                "preferredName": "Joseph Devietti",
+                "firstName": "Joseph",
+                "lastName": "Devietti"
+            },
+            {
+                "id": 37424198800,
+                "preferredName": "Gilles Pokam",
+                "firstName": "Gilles",
+                "lastName": "Pokam"
+            },
+            {
+                "id": 37392889000,
+                "preferredName": "Heiner Litz",
+                "firstName": "Heiner",
+                "lastName": "Litz"
+            },
+            {
+                "id": 37086577414,
+                "preferredName": "Baris Kasikci",
+                "firstName": "Baris",
+                "lastName": "Kasikci"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00016",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499825",
+        "articleTitle": "Exploiting Page Table Locality for Agile TLB Prefetching",
+        "volume": null,
+        "issue": null,
+        "startPage": "85",
+        "endPage": "98",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Exploiting Page Table Locality for Agile TLB Prefetching",
+        "authors": [
+            {
+                "id": 37088927041,
+                "preferredName": "Georgios Vavouliotis",
+                "firstName": "Georgios",
+                "lastName": "Vavouliotis"
+            },
+            {
+                "id": 37642091100,
+                "preferredName": "Lluc Alvarez",
+                "firstName": "Lluc",
+                "lastName": "Alvarez"
+            },
+            {
+                "id": 38236540200,
+                "preferredName": "Vasileios Karakostas",
+                "firstName": "Vasileios",
+                "lastName": "Karakostas"
+            },
+            {
+                "id": 37572840700,
+                "preferredName": "Konstantinos Nikas",
+                "firstName": "Konstantinos",
+                "lastName": "Nikas"
+            },
+            {
+                "id": 37283854700,
+                "preferredName": "Nectarios Koziris",
+                "firstName": "Nectarios",
+                "lastName": "Koziris"
+            },
+            {
+                "id": 38485695000,
+                "preferredName": "Daniel A. Jim\u00e9nez",
+                "firstName": "Daniel A.",
+                "lastName": "Jim\u00e9nez"
+            },
+            {
+                "id": 37884459100,
+                "preferredName": "Marc Casas",
+                "firstName": "Marc",
+                "lastName": "Casas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00028",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499937",
+        "articleTitle": "Sieve: Scalable In-situ DRAM-based Accelerator Designs for Massively Parallel k-mer Matching",
+        "volume": null,
+        "issue": null,
+        "startPage": "251",
+        "endPage": "264",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Sieve: Scalable In-situ DRAM-based Accelerator Designs for Massively Parallel k-mer Matching",
+        "authors": [
+            {
+                "id": 37088743875,
+                "preferredName": "Lingxi Wu",
+                "firstName": "Lingxi",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37086155433,
+                "preferredName": "Rasool Sharifi",
+                "firstName": "Rasool",
+                "lastName": "Sharifi"
+            },
+            {
+                "id": 37670848100,
+                "preferredName": "Marzieh Lenjani",
+                "firstName": "Marzieh",
+                "lastName": "Lenjani"
+            },
+            {
+                "id": 37273724700,
+                "preferredName": "Kevin Skadron",
+                "firstName": "Kevin",
+                "lastName": "Skadron"
+            },
+            {
+                "id": 37086358629,
+                "preferredName": "Ashish Venkat",
+                "firstName": "Ashish",
+                "lastName": "Venkat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00079",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499874",
+        "articleTitle": "A RISC-V in-network accelerator for flexible high-performance low-power packet processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "958",
+        "endPage": "971",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A RISC-V in-network accelerator for flexible high-performance low-power packet processing",
+        "authors": [
+            {
+                "id": 37085698439,
+                "preferredName": "Salvatore Di Girolamo",
+                "firstName": "Salvatore",
+                "lastName": "Di Girolamo"
+            },
+            {
+                "id": 37086203599,
+                "preferredName": "Andreas Kurth",
+                "firstName": "Andreas",
+                "lastName": "Kurth"
+            },
+            {
+                "id": 37086104415,
+                "preferredName": "Alexandru Calotoiu",
+                "firstName": "Alexandru",
+                "lastName": "Calotoiu"
+            },
+            {
+                "id": 37382428800,
+                "preferredName": "Thomas Benz",
+                "firstName": "Thomas",
+                "lastName": "Benz"
+            },
+            {
+                "id": 37571699300,
+                "preferredName": "Timo Schneider",
+                "firstName": "Timo",
+                "lastName": "Schneider"
+            },
+            {
+                "id": 37088756557,
+                "preferredName": "Jakub Ber\u00e1nek",
+                "firstName": "Jakub",
+                "lastName": "Ber\u00e1nek"
+            },
+            {
+                "id": 37274443600,
+                "preferredName": "Luca Benini",
+                "firstName": "Luca",
+                "lastName": "Benini"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00049",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499904",
+        "articleTitle": "Enabling Compute-Communication Overlap in Distributed Deep Learning Training Platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "540",
+        "endPage": "553",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Enabling Compute-Communication Overlap in Distributed Deep Learning Training Platforms",
+        "authors": [
+            {
+                "id": 37088496553,
+                "preferredName": "Saeed Rashidi",
+                "firstName": "Saeed",
+                "lastName": "Rashidi"
+            },
+            {
+                "id": 37086823969,
+                "preferredName": "Matthew Denton",
+                "firstName": "Matthew",
+                "lastName": "Denton"
+            },
+            {
+                "id": 38468862900,
+                "preferredName": "Srinivas Sridharan",
+                "firstName": "Srinivas",
+                "lastName": "Sridharan"
+            },
+            {
+                "id": 37289180600,
+                "preferredName": "Sudarshan Srinivasan",
+                "firstName": "Sudarshan",
+                "lastName": "Srinivasan"
+            },
+            {
+                "id": 37085549872,
+                "preferredName": "Amoghavarsha Suresh",
+                "firstName": "Amoghavarsha",
+                "lastName": "Suresh"
+            },
+            {
+                "id": 37088847213,
+                "preferredName": "Jade Nie",
+                "firstName": "Jade",
+                "lastName": "Nie"
+            },
+            {
+                "id": 37540652000,
+                "preferredName": "Tushar Krishna",
+                "firstName": "Tushar",
+                "lastName": "Krishna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00059",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499880",
+        "articleTitle": "SPACE: Locality-Aware Processing in Heterogeneous Memory for Personalized Recommendations",
+        "volume": null,
+        "issue": null,
+        "startPage": "679",
+        "endPage": "691",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SPACE: Locality-Aware Processing in Heterogeneous Memory for Personalized Recommendations",
+        "authors": [
+            {
+                "id": 37088909850,
+                "preferredName": "Hongju Kal",
+                "firstName": "Hongju",
+                "lastName": "Kal"
+            },
+            {
+                "id": 37089395738,
+                "preferredName": "Seokmin Lee",
+                "firstName": "Seokmin",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088927743,
+                "preferredName": "Gun Ko",
+                "firstName": "Gun",
+                "lastName": "Ko"
+            },
+            {
+                "id": 37410026400,
+                "preferredName": "Won Woo Ro",
+                "firstName": "Won Woo",
+                "lastName": "Ro"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00023",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499917",
+        "articleTitle": "Communication Algorithm-Architecture Co-Design for Distributed Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "181",
+        "endPage": "194",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Communication Algorithm-Architecture Co-Design for Distributed Deep Learning",
+        "authors": [
+            {
+                "id": 37086043929,
+                "preferredName": "Jiayi Huang",
+                "firstName": "Jiayi",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085418087,
+                "preferredName": "Pritam Majumder",
+                "firstName": "Pritam",
+                "lastName": "Majumder"
+            },
+            {
+                "id": 37086807144,
+                "preferredName": "Sungkeun Kim",
+                "firstName": "Sungkeun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37990890300,
+                "preferredName": "Abdullah Muzahid",
+                "firstName": "Abdullah",
+                "lastName": "Muzahid"
+            },
+            {
+                "id": 38186137500,
+                "preferredName": "Ki Hwan Yum",
+                "firstName": "Ki Hwan",
+                "lastName": "Yum"
+            },
+            {
+                "id": 38188695900,
+                "preferredName": "Eun Jung Kim",
+                "firstName": "Eun Jung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00071",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499787",
+        "articleTitle": "Designing Calibration and Expressivity-Efficient Instruction Sets for Quantum Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "846",
+        "endPage": "859",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Designing Calibration and Expressivity-Efficient Instruction Sets for Quantum Computing",
+        "authors": [
+            {
+                "id": 37086055483,
+                "preferredName": "Lingling Lao",
+                "firstName": "Lingling",
+                "lastName": "Lao"
+            },
+            {
+                "id": 37085509104,
+                "preferredName": "Prakash Murali",
+                "firstName": "Prakash",
+                "lastName": "Murali"
+            },
+            {
+                "id": 37332404000,
+                "preferredName": "Margaret Martonosi",
+                "firstName": "Margaret",
+                "lastName": "Martonosi"
+            },
+            {
+                "id": 37953581300,
+                "preferredName": "Dan Browne",
+                "firstName": "Dan",
+                "lastName": "Browne"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00080",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499833",
+        "articleTitle": "Leaky Buddies: Cross-Component Covert Channels on Integrated CPU-GPU Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "972",
+        "endPage": "984",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Leaky Buddies: Cross-Component Covert Channels on Integrated CPU-GPU Systems",
+        "authors": [
+            {
+                "id": 37088925215,
+                "preferredName": "Sankha Baran Dutta",
+                "firstName": "Sankha Baran",
+                "lastName": "Dutta"
+            },
+            {
+                "id": 37086062867,
+                "preferredName": "Hoda Naghibijouybari",
+                "firstName": "Hoda",
+                "lastName": "Naghibijouybari"
+            },
+            {
+                "id": 37279772800,
+                "preferredName": "Nael Abu-Ghazaleh",
+                "firstName": "Nael",
+                "lastName": "Abu-Ghazaleh"
+            },
+            {
+                "id": 37583988300,
+                "preferredName": "Andres Marquez",
+                "firstName": "Andres",
+                "lastName": "Marquez"
+            },
+            {
+                "id": 37266443100,
+                "preferredName": "Kevin Barker",
+                "firstName": "Kevin",
+                "lastName": "Barker"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00058",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499800",
+        "articleTitle": "Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via Low-cost Hardware Support for Voltage Monitoring",
+        "volume": null,
+        "issue": null,
+        "startPage": "665",
+        "endPage": "678",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Failure Sentinels: Ubiquitous Just-in-time Intermittent Computation via Low-cost Hardware Support for Voltage Monitoring",
+        "authors": [
+            {
+                "id": 37088926619,
+                "preferredName": "Harrison Williams",
+                "firstName": "Harrison",
+                "lastName": "Williams"
+            },
+            {
+                "id": 37086050105,
+                "preferredName": "Michael Moukarzel",
+                "firstName": "Michael",
+                "lastName": "Moukarzel"
+            },
+            {
+                "id": 37543938400,
+                "preferredName": "Matthew Hicks",
+                "firstName": "Matthew",
+                "lastName": "Hicks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00056",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499878",
+        "articleTitle": "CryoGuard: A Near Refresh-Free Robust DRAM Design for Cryogenic Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "637",
+        "endPage": "650",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "CryoGuard: A Near Refresh-Free Robust DRAM Design for Cryogenic Computing",
+        "authors": [
+            {
+                "id": 37086097538,
+                "preferredName": "Gyu-Hyeon Lee",
+                "firstName": "Gyu-Hyeon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088488822,
+                "preferredName": "Seongmin Na",
+                "firstName": "Seongmin",
+                "lastName": "Na"
+            },
+            {
+                "id": 37087469474,
+                "preferredName": "Ilkwon Byun",
+                "firstName": "Ilkwon",
+                "lastName": "Byun"
+            },
+            {
+                "id": 37087467308,
+                "preferredName": "Dongmoon Min",
+                "firstName": "Dongmoon",
+                "lastName": "Min"
+            },
+            {
+                "id": 37085348592,
+                "preferredName": "Jangwoo Kim",
+                "firstName": "Jangwoo",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00073",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499757",
+        "articleTitle": "INTROSPECTRE: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities",
+        "volume": null,
+        "issue": null,
+        "startPage": "874",
+        "endPage": "887",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "INTROSPECTRE: A Pre-Silicon Framework for Discovery and Analysis of Transient Execution Vulnerabilities",
+        "authors": [
+            {
+                "id": 37088927115,
+                "preferredName": "Moein Ghaniyoun",
+                "firstName": "Moein",
+                "lastName": "Ghaniyoun"
+            },
+            {
+                "id": 37085780212,
+                "preferredName": "Kristin Barber",
+                "firstName": "Kristin",
+                "lastName": "Barber"
+            },
+            {
+                "id": 37086429910,
+                "preferredName": "Yinqian Zhang",
+                "firstName": "Yinqian",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37555988600,
+                "preferredName": "Radu Teodorescu",
+                "firstName": "Radu",
+                "lastName": "Teodorescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00047",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499765",
+        "articleTitle": "Rebooting Virtual Memory with Midgard",
+        "volume": null,
+        "issue": null,
+        "startPage": "512",
+        "endPage": "525",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Rebooting Virtual Memory with Midgard",
+        "authors": [
+            {
+                "id": 37086806405,
+                "preferredName": "Siddharth Gupta",
+                "firstName": "Siddharth",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37087412954,
+                "preferredName": "Atri Bhattacharyya",
+                "firstName": "Atri",
+                "lastName": "Bhattacharyya"
+            },
+            {
+                "id": 37085853789,
+                "preferredName": "Yunho Oh",
+                "firstName": "Yunho",
+                "lastName": "Oh"
+            },
+            {
+                "id": 38070367000,
+                "preferredName": "Abhishek Bhattacharjee",
+                "firstName": "Abhishek",
+                "lastName": "Bhattacharjee"
+            },
+            {
+                "id": 37364501300,
+                "preferredName": "Babak Falsafi",
+                "firstName": "Babak",
+                "lastName": "Falsafi"
+            },
+            {
+                "id": 38056933900,
+                "preferredName": "Mathias Payer",
+                "firstName": "Mathias",
+                "lastName": "Payer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00027",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499805",
+        "articleTitle": "ABC-DIMM: Alleviating the Bottleneck of Communication in DIMM-based Near-Memory Processing with Inter-DIMM Broadcast",
+        "volume": null,
+        "issue": null,
+        "startPage": "237",
+        "endPage": "250",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ABC-DIMM: Alleviating the Bottleneck of Communication in DIMM-based Near-Memory Processing with Inter-DIMM Broadcast",
+        "authors": [
+            {
+                "id": 37086638142,
+                "preferredName": "Weiyi Sun",
+                "firstName": "Weiyi",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37085521815,
+                "preferredName": "Zhaoshi Li",
+                "firstName": "Zhaoshi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37400289900,
+                "preferredName": "Shouyi Yin",
+                "firstName": "Shouyi",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37404117300,
+                "preferredName": "Shaojun Wei",
+                "firstName": "Shaojun",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37280777600,
+                "preferredName": "Leibo Liu",
+                "firstName": "Leibo",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00031",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499723",
+        "articleTitle": "SATORI: Efficient and Fair Resource Partitioning by Sacrificing Short-Term Benefits for Long-Term Gains",
+        "volume": null,
+        "issue": null,
+        "startPage": "292",
+        "endPage": "305",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SATORI: Efficient and Fair Resource Partitioning by Sacrificing Short-Term Benefits for Long-Term Gains",
+        "authors": [
+            {
+                "id": 37088769977,
+                "preferredName": "Rohan Basu Roy",
+                "firstName": "Rohan Basu",
+                "lastName": "Roy"
+            },
+            {
+                "id": 37086427329,
+                "preferredName": "Tirthak Patel",
+                "firstName": "Tirthak",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37393039700,
+                "preferredName": "Devesh Tiwari",
+                "firstName": "Devesh",
+                "lastName": "Tiwari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00070",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499812",
+        "articleTitle": "Software-Hardware Co-Optimization for Computational Chemistry on Superconducting Quantum Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "832",
+        "endPage": "845",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Software-Hardware Co-Optimization for Computational Chemistry on Superconducting Quantum Processors",
+        "authors": [
+            {
+                "id": 37088525992,
+                "preferredName": "Gushu Li",
+                "firstName": "Gushu",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088444294,
+                "preferredName": "Yunong Shi",
+                "firstName": "Yunong",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37086425472,
+                "preferredName": "Ali Javadi-Abhari",
+                "firstName": "Ali",
+                "lastName": "Javadi-Abhari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00012",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499822",
+        "articleTitle": "Energy Efficiency Boost in the AI-Infused POWER10 Processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "29",
+        "endPage": "42",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Energy Efficiency Boost in the AI-Infused POWER10 Processor",
+        "authors": [
+            {
+                "id": 37542081100,
+                "preferredName": "Brian W. Thompto",
+                "firstName": "Brian W.",
+                "lastName": "Thompto"
+            },
+            {
+                "id": 37086620308,
+                "preferredName": "Dung Q. Nguyen",
+                "firstName": "Dung Q.",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37271666900,
+                "preferredName": "Jos\u00e9 E. Moreira",
+                "firstName": "Jos\u00e9 E.",
+                "lastName": "Moreira"
+            },
+            {
+                "id": 38580367000,
+                "preferredName": "Ramon Bertran",
+                "firstName": "Ramon",
+                "lastName": "Bertran"
+            },
+            {
+                "id": 37267150200,
+                "preferredName": "Hans Jacobson",
+                "firstName": "Hans",
+                "lastName": "Jacobson"
+            },
+            {
+                "id": 37564136900,
+                "preferredName": "Richard J. Eickemeyer",
+                "firstName": "Richard J.",
+                "lastName": "Eickemeyer"
+            },
+            {
+                "id": 37281259800,
+                "preferredName": "Rahul M. Rao",
+                "firstName": "Rahul M.",
+                "lastName": "Rao"
+            },
+            {
+                "id": 37089269136,
+                "preferredName": "Michael Goulet",
+                "firstName": "Michael",
+                "lastName": "Goulet"
+            },
+            {
+                "id": 37088927620,
+                "preferredName": "Marcy Byers",
+                "firstName": "Marcy",
+                "lastName": "Byers"
+            },
+            {
+                "id": 37085418694,
+                "preferredName": "Christopher J. Gonzalez",
+                "firstName": "Christopher J.",
+                "lastName": "Gonzalez"
+            },
+            {
+                "id": 37967014100,
+                "preferredName": "Karthik Swaminathan",
+                "firstName": "Karthik",
+                "lastName": "Swaminathan"
+            },
+            {
+                "id": 37267168700,
+                "preferredName": "Nagu R. Dhanwada",
+                "firstName": "Nagu R.",
+                "lastName": "Dhanwada"
+            },
+            {
+                "id": 37088922140,
+                "preferredName": "Silvia M. M\u00fcller",
+                "firstName": "Silvia M.",
+                "lastName": "M\u00fcller"
+            },
+            {
+                "id": 37088926998,
+                "preferredName": "Andreas Wagner",
+                "firstName": "Andreas",
+                "lastName": "Wagner"
+            },
+            {
+                "id": 38542644100,
+                "preferredName": "Satish Kumar Sadasivam",
+                "firstName": "Satish Kumar",
+                "lastName": "Sadasivam"
+            },
+            {
+                "id": 37266719700,
+                "preferredName": "Robert K. Montoye",
+                "firstName": "Robert K.",
+                "lastName": "Montoye"
+            },
+            {
+                "id": 37399051800,
+                "preferredName": "William J. Starke",
+                "firstName": "William J.",
+                "lastName": "Starke"
+            },
+            {
+                "id": 37392183300,
+                "preferredName": "Christian G. Zoellin",
+                "firstName": "Christian G.",
+                "lastName": "Zoellin"
+            },
+            {
+                "id": 37268315300,
+                "preferredName": "Michael S. Floyd",
+                "firstName": "Michael S.",
+                "lastName": "Floyd"
+            },
+            {
+                "id": 37594370000,
+                "preferredName": "Jeffrey Stuecheli",
+                "firstName": "Jeffrey",
+                "lastName": "Stuecheli"
+            },
+            {
+                "id": 38466938600,
+                "preferredName": "Nandhini Chandramoorthy",
+                "firstName": "Nandhini",
+                "lastName": "Chandramoorthy"
+            },
+            {
+                "id": 37344210000,
+                "preferredName": "John-David Wellman",
+                "firstName": "John-David",
+                "lastName": "Wellman"
+            },
+            {
+                "id": 37267009200,
+                "preferredName": "Alper Buyuktosunoglu",
+                "firstName": "Alper",
+                "lastName": "Buyuktosunoglu"
+            },
+            {
+                "id": 37089974898,
+                "preferredName": "Matthias Pflanz",
+                "firstName": "Matthias",
+                "lastName": "Pflanz"
+            },
+            {
+                "id": 37268290400,
+                "preferredName": "Balaram Sinharoy",
+                "firstName": "Balaram",
+                "lastName": "Sinharoy"
+            },
+            {
+                "id": 37279227100,
+                "preferredName": "Pradip Bose",
+                "firstName": "Pradip",
+                "lastName": "Bose"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00025",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499750",
+        "articleTitle": "Unlimited Vector Extension with Data Streaming Support",
+        "volume": null,
+        "issue": null,
+        "startPage": "209",
+        "endPage": "222",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Unlimited Vector Extension with Data Streaming Support",
+        "authors": [
+            {
+                "id": 37088471232,
+                "preferredName": "Joao Mario Domingos",
+                "firstName": "Joao Mario",
+                "lastName": "Domingos"
+            },
+            {
+                "id": 37353758000,
+                "preferredName": "Nuno Neves",
+                "firstName": "Nuno",
+                "lastName": "Neves"
+            },
+            {
+                "id": 37331027900,
+                "preferredName": "Nuno Roma",
+                "firstName": "Nuno",
+                "lastName": "Roma"
+            },
+            {
+                "id": 37564017900,
+                "preferredName": "Pedro Tom\u00e1s",
+                "firstName": "Pedro",
+                "lastName": "Tom\u00e1s"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00022",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499927",
+        "articleTitle": "REDUCT: Keep it Close, Keep it Cool! : Efficient Scaling of DNN Inference on Multi-core CPUs with Near-Cache Compute",
+        "volume": null,
+        "issue": null,
+        "startPage": "167",
+        "endPage": "180",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "REDUCT: Keep it Close, Keep it Cool! : Efficient Scaling of DNN Inference on Multi-core CPUs with Near-Cache Compute",
+        "authors": [
+            {
+                "id": 37086460452,
+                "preferredName": "Anant V. Nori",
+                "firstName": "Anant V.",
+                "lastName": "Nori"
+            },
+            {
+                "id": 37088928019,
+                "preferredName": "Rahul Bera",
+                "firstName": "Rahul",
+                "lastName": "Bera"
+            },
+            {
+                "id": 38468360800,
+                "preferredName": "Shankar Balachandran",
+                "firstName": "Shankar",
+                "lastName": "Balachandran"
+            },
+            {
+                "id": 37085555196,
+                "preferredName": "Joydeep Rakshit",
+                "firstName": "Joydeep",
+                "lastName": "Rakshit"
+            },
+            {
+                "id": 37087585562,
+                "preferredName": "Om J. Omer",
+                "firstName": "Om J.",
+                "lastName": "Omer"
+            },
+            {
+                "id": 37088927451,
+                "preferredName": "Avishaii Abuhatzera",
+                "firstName": "Avishaii",
+                "lastName": "Abuhatzera"
+            },
+            {
+                "id": 37062873300,
+                "preferredName": "Belliappa Kuttanna",
+                "firstName": "Belliappa",
+                "lastName": "Kuttanna"
+            },
+            {
+                "id": 38476117600,
+                "preferredName": "Sreenivas Subramoney",
+                "firstName": "Sreenivas",
+                "lastName": "Subramoney"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00035",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499823",
+        "articleTitle": "Opening Pandora\u2019s Box: A Systematic Study of New Ways Microarchitecture Can Leak Private Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "347",
+        "endPage": "360",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Opening Pandora\u2019s Box: A Systematic Study of New Ways Microarchitecture Can Leak Private Data",
+        "authors": [
+            {
+                "id": 37088928179,
+                "preferredName": "Jose Rodrigo Sanchez Vicarte",
+                "firstName": "Jose Rodrigo",
+                "lastName": "Sanchez Vicarte"
+            },
+            {
+                "id": 37088926989,
+                "preferredName": "Pradyumna Shome",
+                "firstName": "Pradyumna",
+                "lastName": "Shome"
+            },
+            {
+                "id": 37088928045,
+                "preferredName": "Nandeeka Nayak",
+                "firstName": "Nandeeka",
+                "lastName": "Nayak"
+            },
+            {
+                "id": 37085670979,
+                "preferredName": "Caroline Trippel",
+                "firstName": "Caroline",
+                "lastName": "Trippel"
+            },
+            {
+                "id": 37086555680,
+                "preferredName": "Adam Morrison",
+                "firstName": "Adam",
+                "lastName": "Morrison"
+            },
+            {
+                "id": 37070291900,
+                "preferredName": "David Kohlbrenner",
+                "firstName": "David",
+                "lastName": "Kohlbrenner"
+            },
+            {
+                "id": 37086426254,
+                "preferredName": "Christopher W. Fletcher",
+                "firstName": "Christopher W.",
+                "lastName": "Fletcher"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00076",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499774",
+        "articleTitle": "No-FAT: Architectural Support for Low Overhead Memory Safety Checks",
+        "volume": null,
+        "issue": null,
+        "startPage": "916",
+        "endPage": "929",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "No-FAT: Architectural Support for Low Overhead Memory Safety Checks",
+        "authors": [
+            {
+                "id": 37088927382,
+                "preferredName": "Mohamed Tarek Ibn Ziad",
+                "firstName": "Mohamed Tarek",
+                "lastName": "Ibn Ziad"
+            },
+            {
+                "id": 37088925466,
+                "preferredName": "Miguel A. Arroyo",
+                "firstName": "Miguel A.",
+                "lastName": "Arroyo"
+            },
+            {
+                "id": 38528018700,
+                "preferredName": "Evgeny Manzhosov",
+                "firstName": "Evgeny",
+                "lastName": "Manzhosov"
+            },
+            {
+                "id": 37088925478,
+                "preferredName": "Ryan Piersma",
+                "firstName": "Ryan",
+                "lastName": "Piersma"
+            },
+            {
+                "id": 37314065100,
+                "preferredName": "Simha Sethumadhavan",
+                "firstName": "Simha",
+                "lastName": "Sethumadhavan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00057",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499888",
+        "articleTitle": "Superconducting Computing with Alternating Logic Elements",
+        "volume": null,
+        "issue": null,
+        "startPage": "651",
+        "endPage": "664",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Superconducting Computing with Alternating Logic Elements",
+        "authors": [
+            {
+                "id": 37078104500,
+                "preferredName": "Georgios Tzimpragos",
+                "firstName": "Georgios",
+                "lastName": "Tzimpragos"
+            },
+            {
+                "id": 37088590361,
+                "preferredName": "Jennifer Volk",
+                "firstName": "Jennifer",
+                "lastName": "Volk"
+            },
+            {
+                "id": 37085645105,
+                "preferredName": "Alex Wynn",
+                "firstName": "Alex",
+                "lastName": "Wynn"
+            },
+            {
+                "id": 37277158600,
+                "preferredName": "James E. Smith",
+                "firstName": "James E.",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37283546900,
+                "preferredName": "Timothy Sherwood",
+                "firstName": "Timothy",
+                "lastName": "Sherwood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00038",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499792",
+        "articleTitle": "Accelerated Seeding for Genome Sequence Alignment with Enumerated Radix Trees",
+        "volume": null,
+        "issue": null,
+        "startPage": "388",
+        "endPage": "401",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Accelerated Seeding for Genome Sequence Alignment with Enumerated Radix Trees",
+        "authors": [
+            {
+                "id": 37085763061,
+                "preferredName": "Arun Subramaniyan",
+                "firstName": "Arun",
+                "lastName": "Subramaniyan"
+            },
+            {
+                "id": 37085709500,
+                "preferredName": "Jack Wadden",
+                "firstName": "Jack",
+                "lastName": "Wadden"
+            },
+            {
+                "id": 37088549848,
+                "preferredName": "Kush Goliya",
+                "firstName": "Kush",
+                "lastName": "Goliya"
+            },
+            {
+                "id": 37088553088,
+                "preferredName": "Nathan Ozog",
+                "firstName": "Nathan",
+                "lastName": "Ozog"
+            },
+            {
+                "id": 37085828621,
+                "preferredName": "Xiao Wu",
+                "firstName": "Xiao",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37424199700,
+                "preferredName": "Satish Narayanasamy",
+                "firstName": "Satish",
+                "lastName": "Narayanasamy"
+            },
+            {
+                "id": 37276099100,
+                "preferredName": "David Blaauw",
+                "firstName": "David",
+                "lastName": "Blaauw"
+            },
+            {
+                "id": 37534767200,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00017",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499798",
+        "articleTitle": "A Cost-Effective Entangling Prefetcher for Instructions",
+        "volume": null,
+        "issue": null,
+        "startPage": "99",
+        "endPage": "111",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A Cost-Effective Entangling Prefetcher for Instructions",
+        "authors": [
+            {
+                "id": 37408952800,
+                "preferredName": "Alberto Ros",
+                "firstName": "Alberto",
+                "lastName": "Ros"
+            },
+            {
+                "id": 38076197500,
+                "preferredName": "Alexandra Jimborean",
+                "firstName": "Alexandra",
+                "lastName": "Jimborean"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00039",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499778",
+        "articleTitle": "Aurochs: An Architecture for Dataflow Threads",
+        "volume": null,
+        "issue": null,
+        "startPage": "402",
+        "endPage": "415",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Aurochs: An Architecture for Dataflow Threads",
+        "authors": [
+            {
+                "id": 37085873592,
+                "preferredName": "Matthew Vilim",
+                "firstName": "Matthew",
+                "lastName": "Vilim"
+            },
+            {
+                "id": 37085998464,
+                "preferredName": "Alexander Rucker",
+                "firstName": "Alexander",
+                "lastName": "Rucker"
+            },
+            {
+                "id": 37282353900,
+                "preferredName": "Kunle Olukotun",
+                "firstName": "Kunle",
+                "lastName": "Olukotun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00054",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499853",
+        "articleTitle": "Large-Scale Graph Processing on FPGAs with Caches for Thousands of Simultaneous Misses",
+        "volume": null,
+        "issue": null,
+        "startPage": "609",
+        "endPage": "622",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Large-Scale Graph Processing on FPGAs with Caches for Thousands of Simultaneous Misses",
+        "authors": [
+            {
+                "id": 37085768397,
+                "preferredName": "Mikhail Asiatici",
+                "firstName": "Mikhail",
+                "lastName": "Asiatici"
+            },
+            {
+                "id": 37271141000,
+                "preferredName": "Paolo Ienne",
+                "firstName": "Paolo",
+                "lastName": "Ienne"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00034",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499869",
+        "articleTitle": "BlockMaestro: Enabling Programmer-Transparent Task-based Execution in GPU Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "333",
+        "endPage": "346",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "BlockMaestro: Enabling Programmer-Transparent Task-based Execution in GPU Systems",
+        "authors": [
+            {
+                "id": 37085516620,
+                "preferredName": "AmirAli Abdolrashidi",
+                "firstName": "AmirAli",
+                "lastName": "Abdolrashidi"
+            },
+            {
+                "id": 37086085201,
+                "preferredName": "Hodjat Asghari Esfeden",
+                "firstName": "Hodjat Asghari",
+                "lastName": "Esfeden"
+            },
+            {
+                "id": 37086719785,
+                "preferredName": "Ali Jahanshahi",
+                "firstName": "Ali",
+                "lastName": "Jahanshahi"
+            },
+            {
+                "id": 37088925554,
+                "preferredName": "Kaustubh Singh",
+                "firstName": "Kaustubh",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37279772800,
+                "preferredName": "Nael Abu-Ghazaleh",
+                "firstName": "Nael",
+                "lastName": "Abu-Ghazaleh"
+            },
+            {
+                "id": 37085713239,
+                "preferredName": "Daniel Wong",
+                "firstName": "Daniel",
+                "lastName": "Wong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00081",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499864",
+        "articleTitle": "IChannels: Exploiting Current Management Mechanisms to Create Covert Channels in Modern Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "985",
+        "endPage": "998",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "IChannels: Exploiting Current Management Mechanisms to Create Covert Channels in Modern Processors",
+        "authors": [
+            {
+                "id": 37086368368,
+                "preferredName": "Jawad Haj-Yahya",
+                "firstName": "Jawad",
+                "lastName": "Haj-Yahya"
+            },
+            {
+                "id": 37085772584,
+                "preferredName": "Lois Orosa",
+                "firstName": "Lois",
+                "lastName": "Orosa"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37075039500,
+                "preferredName": "Juan G\u00f3mez Luna",
+                "firstName": "Juan",
+                "lastName": "G\u00f3mez Luna"
+            },
+            {
+                "id": 37085617764,
+                "preferredName": "A. Giray Ya\u011fl\u0131k\u00e7\u0131",
+                "firstName": "A. Giray",
+                "lastName": "Ya\u011fl\u0131k\u00e7\u0131"
+            },
+            {
+                "id": 38233829500,
+                "preferredName": "Mohammed Alser",
+                "firstName": "Mohammed",
+                "lastName": "Alser"
+            },
+            {
+                "id": 37088928268,
+                "preferredName": "Ivan Puddu",
+                "firstName": "Ivan",
+                "lastName": "Puddu"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00044",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499729",
+        "articleTitle": "Hetero-ViTAL: A Virtualization Stack for Heterogeneous FPGA Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "470",
+        "endPage": "483",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Hetero-ViTAL: A Virtualization Stack for Heterogeneous FPGA Clusters",
+        "authors": [
+            {
+                "id": 37085991612,
+                "preferredName": "Yue Zha",
+                "firstName": "Yue",
+                "lastName": "Zha"
+            },
+            {
+                "id": 37085623210,
+                "preferredName": "Jing Li",
+                "firstName": "Jing",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00037",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499918",
+        "articleTitle": "TimeCache: Using Time to Eliminate Cache Side Channels when Sharing Software",
+        "volume": null,
+        "issue": null,
+        "startPage": "375",
+        "endPage": "387",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "TimeCache: Using Time to Eliminate Cache Side Channels when Sharing Software",
+        "authors": [
+            {
+                "id": 37088926983,
+                "preferredName": "Divya Ojha",
+                "firstName": "Divya",
+                "lastName": "Ojha"
+            },
+            {
+                "id": 37283887000,
+                "preferredName": "Sandhya Dwarkadas",
+                "firstName": "Sandhya",
+                "lastName": "Dwarkadas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00019",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499892",
+        "articleTitle": "PF-DRAM: A Precharge-Free DRAM Structure",
+        "volume": null,
+        "issue": null,
+        "startPage": "126",
+        "endPage": "138",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "PF-DRAM: A Precharge-Free DRAM Structure",
+        "authors": [
+            {
+                "id": 37085425316,
+                "preferredName": "Nezam Rohbani",
+                "firstName": "Nezam",
+                "lastName": "Rohbani"
+            },
+            {
+                "id": 37088926850,
+                "preferredName": "Sina Darabi",
+                "firstName": "Sina",
+                "lastName": "Darabi"
+            },
+            {
+                "id": 38270047600,
+                "preferredName": "Hamid Sarbazi-Azad",
+                "firstName": "Hamid",
+                "lastName": "Sarbazi-Azad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00041",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499863",
+        "articleTitle": "Taming the Zoo: The Unified GraphIt Compiler Framework for Novel Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "429",
+        "endPage": "442",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Taming the Zoo: The Unified GraphIt Compiler Framework for Novel Architectures",
+        "authors": [
+            {
+                "id": 37086181710,
+                "preferredName": "Ajay Brahmakshatriya",
+                "firstName": "Ajay",
+                "lastName": "Brahmakshatriya"
+            },
+            {
+                "id": 37088925390,
+                "preferredName": "Emily Furst",
+                "firstName": "Emily",
+                "lastName": "Furst"
+            },
+            {
+                "id": 37088926212,
+                "preferredName": "Victor A. Ying",
+                "firstName": "Victor A.",
+                "lastName": "Ying"
+            },
+            {
+                "id": 37088928290,
+                "preferredName": "Claire Hsu",
+                "firstName": "Claire",
+                "lastName": "Hsu"
+            },
+            {
+                "id": 37086042446,
+                "preferredName": "Changwan Hong",
+                "firstName": "Changwan",
+                "lastName": "Hong"
+            },
+            {
+                "id": 37088738309,
+                "preferredName": "Max Ruttenberg",
+                "firstName": "Max",
+                "lastName": "Ruttenberg"
+            },
+            {
+                "id": 37086199930,
+                "preferredName": "Yunming Zhang",
+                "firstName": "Yunming",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088431266,
+                "preferredName": "Dai Cheol Jung",
+                "firstName": "Dai Cheol",
+                "lastName": "Jung"
+            },
+            {
+                "id": 37856284000,
+                "preferredName": "Dustin Richmond",
+                "firstName": "Dustin",
+                "lastName": "Richmond"
+            },
+            {
+                "id": 37273314000,
+                "preferredName": "Michael B. Taylor",
+                "firstName": "Michael B.",
+                "lastName": "Taylor"
+            },
+            {
+                "id": 37070487100,
+                "preferredName": "Julian Shun",
+                "firstName": "Julian",
+                "lastName": "Shun"
+            },
+            {
+                "id": 37397838100,
+                "preferredName": "Mark Oskin",
+                "firstName": "Mark",
+                "lastName": "Oskin"
+            },
+            {
+                "id": 37531401100,
+                "preferredName": "Daniel Sanchez",
+                "firstName": "Daniel",
+                "lastName": "Sanchez"
+            },
+            {
+                "id": 37273317200,
+                "preferredName": "Saman Amarasinghe",
+                "firstName": "Saman",
+                "lastName": "Amarasinghe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00046",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499909",
+        "articleTitle": "NVOverlay: Enabling Efficient and Scalable High-Frequency Snapshotting to NVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "498",
+        "endPage": "511",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "NVOverlay: Enabling Efficient and Scalable High-Frequency Snapshotting to NVM",
+        "authors": [
+            {
+                "id": 37087086675,
+                "preferredName": "Ziqi Wang",
+                "firstName": "Ziqi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088927228,
+                "preferredName": "Chul-Hwan Choo",
+                "firstName": "Chul-Hwan",
+                "lastName": "Choo"
+            },
+            {
+                "id": 38185080900,
+                "preferredName": "Michael A. Kozuch",
+                "firstName": "Michael A.",
+                "lastName": "Kozuch"
+            },
+            {
+                "id": 37282940800,
+                "preferredName": "Todd C. Mowry",
+                "firstName": "Todd C.",
+                "lastName": "Mowry"
+            },
+            {
+                "id": 37085379570,
+                "preferredName": "Gennady Pekhimenko",
+                "firstName": "Gennady",
+                "lastName": "Pekhimenko"
+            },
+            {
+                "id": 38267348700,
+                "preferredName": "Vivek Seshadri",
+                "firstName": "Vivek",
+                "lastName": "Seshadri"
+            },
+            {
+                "id": 37085357259,
+                "preferredName": "Dimitrios Skarlatos",
+                "firstName": "Dimitrios",
+                "lastName": "Skarlatos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00089",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499811",
+        "articleTitle": "RingCNN: Exploiting Algebraically-Sparse Ring Tensors for Energy-Efficient CNN-Based Computational Imaging",
+        "volume": null,
+        "issue": null,
+        "startPage": "1096",
+        "endPage": "1109",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "RingCNN: Exploiting Algebraically-Sparse Ring Tensors for Energy-Efficient CNN-Based Computational Imaging",
+        "authors": [
+            {
+                "id": 37085509027,
+                "preferredName": "Chao-Tsung Huang",
+                "firstName": "Chao-Tsung",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00024",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499866",
+        "articleTitle": "Vector Runahead",
+        "volume": null,
+        "issue": null,
+        "startPage": "195",
+        "endPage": "208",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Vector Runahead",
+        "authors": [
+            {
+                "id": 37086027696,
+                "preferredName": "Ajeya Naithani",
+                "firstName": "Ajeya",
+                "lastName": "Naithani"
+            },
+            {
+                "id": 37086122187,
+                "preferredName": "Sam Ainsworth",
+                "firstName": "Sam",
+                "lastName": "Ainsworth"
+            },
+            {
+                "id": 37399109800,
+                "preferredName": "Timothy M. Jones",
+                "firstName": "Timothy M.",
+                "lastName": "Jones"
+            },
+            {
+                "id": 37266694200,
+                "preferredName": "Lieven Eeckhout",
+                "firstName": "Lieven",
+                "lastName": "Eeckhout"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00069",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499945",
+        "articleTitle": "Exploiting Long-Distance Interactions and Tolerating Atom Loss in Neutral Atom Quantum Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "818",
+        "endPage": "831",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Exploiting Long-Distance Interactions and Tolerating Atom Loss in Neutral Atom Quantum Architectures",
+        "authors": [
+            {
+                "id": 37087467189,
+                "preferredName": "Jonathan M. Baker",
+                "firstName": "Jonathan M.",
+                "lastName": "Baker"
+            },
+            {
+                "id": 37088927985,
+                "preferredName": "Andrew Litteken",
+                "firstName": "Andrew",
+                "lastName": "Litteken"
+            },
+            {
+                "id": 37087466784,
+                "preferredName": "Casey Duckering",
+                "firstName": "Casey",
+                "lastName": "Duckering"
+            },
+            {
+                "id": 37282336000,
+                "preferredName": "Henry Hoffmann",
+                "firstName": "Henry",
+                "lastName": "Hoffmann"
+            },
+            {
+                "id": 37063824800,
+                "preferredName": "Hannes Bernien",
+                "firstName": "Hannes",
+                "lastName": "Bernien"
+            },
+            {
+                "id": 37283023200,
+                "preferredName": "Frederic T. Chong",
+                "firstName": "Frederic T.",
+                "lastName": "Chong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00082",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499806",
+        "articleTitle": "ZeR\u00d8: Zero-Overhead Resilient Operation Under Pointer Integrity Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "999",
+        "endPage": "1012",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ZeR\u00d8: Zero-Overhead Resilient Operation Under Pointer Integrity Attacks",
+        "authors": [
+            {
+                "id": 37088927382,
+                "preferredName": "Mohamed Tarek Ibn Ziad",
+                "firstName": "Mohamed Tarek",
+                "lastName": "Ibn Ziad"
+            },
+            {
+                "id": 37088925466,
+                "preferredName": "Miguel A. Arroyo",
+                "firstName": "Miguel A.",
+                "lastName": "Arroyo"
+            },
+            {
+                "id": 38528018700,
+                "preferredName": "Evgeny Manzhosov",
+                "firstName": "Evgeny",
+                "lastName": "Manzhosov"
+            },
+            {
+                "id": 37314065100,
+                "preferredName": "Simha Sethumadhavan",
+                "firstName": "Simha",
+                "lastName": "Sethumadhavan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00033",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499818",
+        "articleTitle": "Flex: High-Availability Datacenters With Zero Reserved Power",
+        "volume": null,
+        "issue": null,
+        "startPage": "319",
+        "endPage": "332",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Flex: High-Availability Datacenters With Zero Reserved Power",
+        "authors": [
+            {
+                "id": 37088928120,
+                "preferredName": "Chaojie Zhang",
+                "firstName": "Chaojie",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37888134300,
+                "preferredName": "Alok Gautam Kumbhare",
+                "firstName": "Alok Gautam",
+                "lastName": "Kumbhare"
+            },
+            {
+                "id": 38526808100,
+                "preferredName": "Ioannis Manousakis",
+                "firstName": "Ioannis",
+                "lastName": "Manousakis"
+            },
+            {
+                "id": 37088927746,
+                "preferredName": "Deli Zhang",
+                "firstName": "Deli",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088926883,
+                "preferredName": "Pulkit A. Misra",
+                "firstName": "Pulkit A.",
+                "lastName": "Misra"
+            },
+            {
+                "id": 37088927763,
+                "preferredName": "Rod Assis",
+                "firstName": "Rod",
+                "lastName": "Assis"
+            },
+            {
+                "id": 37088925110,
+                "preferredName": "Kyle Woolcock",
+                "firstName": "Kyle",
+                "lastName": "Woolcock"
+            },
+            {
+                "id": 37088928279,
+                "preferredName": "Nithish Mahalingam",
+                "firstName": "Nithish",
+                "lastName": "Mahalingam"
+            },
+            {
+                "id": 37088927383,
+                "preferredName": "Brijesh Warrier",
+                "firstName": "Brijesh",
+                "lastName": "Warrier"
+            },
+            {
+                "id": 37088927062,
+                "preferredName": "David Gauthier",
+                "firstName": "David",
+                "lastName": "Gauthier"
+            },
+            {
+                "id": 37088926219,
+                "preferredName": "Lalu Kunnath",
+                "firstName": "Lalu",
+                "lastName": "Kunnath"
+            },
+            {
+                "id": 37088925975,
+                "preferredName": "Steve Solomon",
+                "firstName": "Steve",
+                "lastName": "Solomon"
+            },
+            {
+                "id": 37088925372,
+                "preferredName": "Osvaldo Morales",
+                "firstName": "Osvaldo",
+                "lastName": "Morales"
+            },
+            {
+                "id": 37088927948,
+                "preferredName": "Marcus Fontoura",
+                "firstName": "Marcus",
+                "lastName": "Fontoura"
+            },
+            {
+                "id": 37265323800,
+                "preferredName": "Ricardo Bianchini",
+                "firstName": "Ricardo",
+                "lastName": "Bianchini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00020",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499752",
+        "articleTitle": "Efficient Multi-GPU Shared Memory via Automatic Optimization of Fine-Grained Transfers",
+        "volume": null,
+        "issue": null,
+        "startPage": "139",
+        "endPage": "152",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Efficient Multi-GPU Shared Memory via Automatic Optimization of Fine-Grained Transfers",
+        "authors": [
+            {
+                "id": 37086621452,
+                "preferredName": "Harini Muthukrishnan",
+                "firstName": "Harini",
+                "lastName": "Muthukrishnan"
+            },
+            {
+                "id": 37085439910,
+                "preferredName": "David Nellans",
+                "firstName": "David",
+                "lastName": "Nellans"
+            },
+            {
+                "id": 38075850600,
+                "preferredName": "Daniel Lustig",
+                "firstName": "Daniel",
+                "lastName": "Lustig"
+            },
+            {
+                "id": 37276033500,
+                "preferredName": "Jeffrey A. Fessler",
+                "firstName": "Jeffrey A.",
+                "lastName": "Fessler"
+            },
+            {
+                "id": 37395315400,
+                "preferredName": "Thomas F. Wenisch",
+                "firstName": "Thomas F.",
+                "lastName": "Wenisch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00030",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499890",
+        "articleTitle": "BOSS: Bandwidth-Optimized Search Accelerator for Storage-Class Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "279",
+        "endPage": "291",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "BOSS: Bandwidth-Optimized Search Accelerator for Storage-Class Memory",
+        "authors": [
+            {
+                "id": 37086006672,
+                "preferredName": "Jun Heo",
+                "firstName": "Jun",
+                "lastName": "Heo"
+            },
+            {
+                "id": 37088561180,
+                "preferredName": "Seung Yul Lee",
+                "firstName": "Seung Yul",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37089268335,
+                "preferredName": "Sunhong Min",
+                "firstName": "Sunhong",
+                "lastName": "Min"
+            },
+            {
+                "id": 37088371932,
+                "preferredName": "Yeonhong Park",
+                "firstName": "Yeonhong",
+                "lastName": "Park"
+            },
+            {
+                "id": 37088370053,
+                "preferredName": "Sung Jun Jung",
+                "firstName": "Sung Jun",
+                "lastName": "Jung"
+            },
+            {
+                "id": 37088927320,
+                "preferredName": "Tae Jun Ham",
+                "firstName": "Tae",
+                "lastName": "Jun Ham"
+            },
+            {
+                "id": 38008729800,
+                "preferredName": "Jae W. Lee",
+                "firstName": "Jae W.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00068",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499934",
+        "articleTitle": "PMNet: In-Network Data Persistence",
+        "volume": null,
+        "issue": null,
+        "startPage": "804",
+        "endPage": "817",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "PMNet: In-Network Data Persistence",
+        "authors": [
+            {
+                "id": 37085582880,
+                "preferredName": "Korakit Seemakhupt",
+                "firstName": "Korakit",
+                "lastName": "Seemakhupt"
+            },
+            {
+                "id": 37086358903,
+                "preferredName": "Sihang Liu",
+                "firstName": "Sihang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088927200,
+                "preferredName": "Yasas Senevirathne",
+                "firstName": "Yasas",
+                "lastName": "Senevirathne"
+            },
+            {
+                "id": 37545355200,
+                "preferredName": "Muhammad Shahbaz",
+                "firstName": "Muhammad",
+                "lastName": "Shahbaz"
+            },
+            {
+                "id": 37085386385,
+                "preferredName": "Samira Khan",
+                "firstName": "Samira",
+                "lastName": "Khan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00051",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499761",
+        "articleTitle": "\u03b7-LSTM: Co-Designing Highly-Efficient Large LSTM Training via Exploiting Memory-Saving and Architectural Design Opportunities",
+        "volume": null,
+        "issue": null,
+        "startPage": "567",
+        "endPage": "580",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "\u03b7-LSTM: Co-Designing Highly-Efficient Large LSTM Training via Exploiting Memory-Saving and Architectural Design Opportunities",
+        "authors": [
+            {
+                "id": 37086561094,
+                "preferredName": "Xingyao Zhang",
+                "firstName": "Xingyao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088928031,
+                "preferredName": "Haojun Xia",
+                "firstName": "Haojun",
+                "lastName": "Xia"
+            },
+            {
+                "id": 37088806287,
+                "preferredName": "Donglin Zhuang",
+                "firstName": "Donglin",
+                "lastName": "Zhuang"
+            },
+            {
+                "id": 37088926071,
+                "preferredName": "Hao Sun",
+                "firstName": "Hao",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37085352290,
+                "preferredName": "Xin Fu",
+                "firstName": "Xin",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37273314000,
+                "preferredName": "Michael B. Taylor",
+                "firstName": "Michael B.",
+                "lastName": "Taylor"
+            },
+            {
+                "id": 37088925320,
+                "preferredName": "Shuaiwen Leon Song",
+                "firstName": "Shuaiwen",
+                "lastName": "Leon Song"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00015",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499802",
+        "articleTitle": "Zero Inclusion Victim: Isolating Core Caches from Inclusive Last-level Cache Evictions",
+        "volume": null,
+        "issue": null,
+        "startPage": "71",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Zero Inclusion Victim: Isolating Core Caches from Inclusive Last-level Cache Evictions",
+        "authors": [
+            {
+                "id": 38487313600,
+                "preferredName": "Mainak Chaudhuri",
+                "firstName": "Mainak",
+                "lastName": "Chaudhuri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00042",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499947",
+        "articleTitle": "Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "443",
+        "endPage": "455",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Supporting Legacy Libraries on Non-Volatile Memory: A User-Transparent Approach",
+        "authors": [
+            {
+                "id": 37085385329,
+                "preferredName": "Chencheng Ye",
+                "firstName": "Chencheng",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37089400873,
+                "preferredName": "Yuanchao Xu",
+                "firstName": "Yuanchao",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37085517964,
+                "preferredName": "Xipeng Shen",
+                "firstName": "Xipeng",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37269559200,
+                "preferredName": "Xiaofei Liao",
+                "firstName": "Xiaofei",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37276607900,
+                "preferredName": "Hai Jin",
+                "firstName": "Hai",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37282584700,
+                "preferredName": "Yan Solihin",
+                "firstName": "Yan",
+                "lastName": "Solihin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00065",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499748",
+        "articleTitle": "Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution",
+        "volume": null,
+        "issue": null,
+        "startPage": "762",
+        "endPage": "775",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Revamping Storage Class Memory With Hardware Automated Memory-Over-Storage Solution",
+        "authors": [
+            {
+                "id": 37089263060,
+                "preferredName": "Jie Zhang",
+                "firstName": "Jie",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086294934,
+                "preferredName": "Miryeong Kwon",
+                "firstName": "Miryeong",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 37086565551,
+                "preferredName": "Donghyun Gouk",
+                "firstName": "Donghyun",
+                "lastName": "Gouk"
+            },
+            {
+                "id": 37086322644,
+                "preferredName": "Sungjoon Koh",
+                "firstName": "Sungjoon",
+                "lastName": "Koh"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088928108,
+                "preferredName": "Mahmut Taylan Kandemir",
+                "firstName": "Mahmut",
+                "lastName": "Taylan Kandemir"
+            },
+            {
+                "id": 37085684877,
+                "preferredName": "Myoungsoo Jung",
+                "firstName": "Myoungsoo",
+                "lastName": "Jung"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00067",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499756",
+        "articleTitle": "NASA: Accelerating Neural Network Design with a NAS Processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "790",
+        "endPage": "803",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "NASA: Accelerating Neural Network Design with a NAS Processor",
+        "authors": [
+            {
+                "id": 37088928573,
+                "preferredName": "Xiaohan Ma",
+                "firstName": "Xiaohan",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37088927689,
+                "preferredName": "Chang Si",
+                "firstName": "Chang",
+                "lastName": "Si"
+            },
+            {
+                "id": 37859959900,
+                "preferredName": "Ying Wang",
+                "firstName": "Ying",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37858948200,
+                "preferredName": "Cheng Liu",
+                "firstName": "Cheng",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37406075100,
+                "preferredName": "Lei Zhang",
+                "firstName": "Lei",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00048",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499725",
+        "articleTitle": "Dv\u00e9: Improving DRAM Reliability and Performance On-Demand via Coherent Replication",
+        "volume": null,
+        "issue": null,
+        "startPage": "526",
+        "endPage": "539",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Dv\u00e9: Improving DRAM Reliability and Performance On-Demand via Coherent Replication",
+        "authors": [
+            {
+                "id": 37088926796,
+                "preferredName": "Adarsh Patil",
+                "firstName": "Adarsh",
+                "lastName": "Patil"
+            },
+            {
+                "id": 37085516340,
+                "preferredName": "Vijay Nagarajan",
+                "firstName": "Vijay",
+                "lastName": "Nagarajan"
+            },
+            {
+                "id": 37391836500,
+                "preferredName": "Rajeev Balasubramonian",
+                "firstName": "Rajeev",
+                "lastName": "Balasubramonian"
+            },
+            {
+                "id": 37086427467,
+                "preferredName": "Nicolai Oswald",
+                "firstName": "Nicolai",
+                "lastName": "Oswald"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00026",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499938",
+        "articleTitle": "Speculative Vectorisation with Selective Replay",
+        "volume": null,
+        "issue": null,
+        "startPage": "223",
+        "endPage": "236",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Speculative Vectorisation with Selective Replay",
+        "authors": [
+            {
+                "id": 37088925543,
+                "preferredName": "Peng Sun",
+                "firstName": "Peng",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37876684400,
+                "preferredName": "Giacomo Gabrielli",
+                "firstName": "Giacomo",
+                "lastName": "Gabrielli"
+            },
+            {
+                "id": 37399109800,
+                "preferredName": "Timothy M. Jones",
+                "firstName": "Timothy M.",
+                "lastName": "Jones"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00064",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499771",
+        "articleTitle": "Quantifying Server Memory Frequency Margin and Using It to Improve Performance in HPC Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "748",
+        "endPage": "761",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Quantifying Server Memory Frequency Margin and Using It to Improve Performance in HPC Systems",
+        "authors": [
+            {
+                "id": 37085679127,
+                "preferredName": "Da Zhang",
+                "firstName": "Da",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086097968,
+                "preferredName": "Gagandeep Panwar",
+                "firstName": "Gagandeep",
+                "lastName": "Panwar"
+            },
+            {
+                "id": 37075906700,
+                "preferredName": "Jagadish B. Kotra",
+                "firstName": "Jagadish B.",
+                "lastName": "Kotra"
+            },
+            {
+                "id": 37299745500,
+                "preferredName": "Nathan DeBardeleben",
+                "firstName": "Nathan",
+                "lastName": "DeBardeleben"
+            },
+            {
+                "id": 38027178200,
+                "preferredName": "Sean Blanchard",
+                "firstName": "Sean",
+                "lastName": "Blanchard"
+            },
+            {
+                "id": 37061088100,
+                "preferredName": "Xun Jian",
+                "firstName": "Xun",
+                "lastName": "Jian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00074",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499773",
+        "articleTitle": "Maya: Using Formal Control to Obfuscate Power Side Channels",
+        "volume": null,
+        "issue": null,
+        "startPage": "888",
+        "endPage": "901",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Maya: Using Formal Control to Obfuscate Power Side Channels",
+        "authors": [
+            {
+                "id": 37086430581,
+                "preferredName": "Raghavendra Pradyumna Pothukuchi",
+                "firstName": "Raghavendra",
+                "lastName": "Pradyumna Pothukuchi"
+            },
+            {
+                "id": 37086432321,
+                "preferredName": "Sweta Yamini Pothukuchi",
+                "firstName": "Sweta",
+                "lastName": "Yamini Pothukuchi"
+            },
+            {
+                "id": 37284695500,
+                "preferredName": "Petros G. Voulgaris",
+                "firstName": "Petros G.",
+                "lastName": "Voulgaris"
+            },
+            {
+                "id": 37937546900,
+                "preferredName": "Alexander Schwing",
+                "firstName": "Alexander",
+                "lastName": "Schwing"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00077",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499872",
+        "articleTitle": "Ghost Routing to Enable Oblivious Computation on Memory-centric Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "930",
+        "endPage": "943",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Ghost Routing to Enable Oblivious Computation on Memory-centric Networks",
+        "authors": [
+            {
+                "id": 37086571367,
+                "preferredName": "Yeonju Ro",
+                "firstName": "Yeonju",
+                "lastName": "Ro"
+            },
+            {
+                "id": 37089270716,
+                "preferredName": "Seongwook Jin",
+                "firstName": "Seongwook",
+                "lastName": "Jin"
+            },
+            {
+                "id": 38182003000,
+                "preferredName": "Jaehyuk Huh",
+                "firstName": "Jaehyuk",
+                "lastName": "Huh"
+            },
+            {
+                "id": 37311384600,
+                "preferredName": "John Kim",
+                "firstName": "John",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00043",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499910",
+        "articleTitle": "Execution Dependence Extension (EDE): ISA Support for Eliminating Fences",
+        "volume": null,
+        "issue": null,
+        "startPage": "456",
+        "endPage": "469",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Execution Dependence Extension (EDE): ISA Support for Eliminating Fences",
+        "authors": [
+            {
+                "id": 37086310222,
+                "preferredName": "Thomas Shull",
+                "firstName": "Thomas",
+                "lastName": "Shull"
+            },
+            {
+                "id": 37086805268,
+                "preferredName": "Ilias Vougioukas",
+                "firstName": "Ilias",
+                "lastName": "Vougioukas"
+            },
+            {
+                "id": 38273966500,
+                "preferredName": "Nikos Nikoleris",
+                "firstName": "Nikos",
+                "lastName": "Nikoleris"
+            },
+            {
+                "id": 37086357750,
+                "preferredName": "Wendy Elsasser",
+                "firstName": "Wendy",
+                "lastName": "Elsasser"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00066",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499885",
+        "articleTitle": "NASGuard: A Novel Accelerator Architecture for Robust Neural Architecture Search (NAS) Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "776",
+        "endPage": "789",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "NASGuard: A Novel Accelerator Architecture for Robust Neural Architecture Search (NAS) Networks",
+        "authors": [
+            {
+                "id": 37088487707,
+                "preferredName": "Xingbin Wang",
+                "firstName": "Xingbin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088488482,
+                "preferredName": "Boyan Zhao",
+                "firstName": "Boyan",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37061027100,
+                "preferredName": "Rui Hou",
+                "firstName": "Rui",
+                "lastName": "Hou"
+            },
+            {
+                "id": 37085592951,
+                "preferredName": "Amro Awad",
+                "firstName": "Amro",
+                "lastName": "Awad"
+            },
+            {
+                "id": 37086419587,
+                "preferredName": "Zhihong Tian",
+                "firstName": "Zhihong",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37270019100,
+                "preferredName": "Dan Meng",
+                "firstName": "Dan",
+                "lastName": "Meng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00008",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499816",
+        "articleTitle": "Steering Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Steering Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00007",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499830",
+        "articleTitle": "Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "30",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00092",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499834",
+        "articleTitle": "Message from the General Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "20",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Message from the General Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00006",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499740",
+        "articleTitle": "Message from ISCA 2021 Industry Track Program Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "28",
+        "endPage": "29",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Message from ISCA 2021 Industry Track Program Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00005",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499870",
+        "articleTitle": "Message from the ISCA 2021 Program Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Message from the ISCA 2021 Program Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00009",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499884",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "38",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00091",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499803",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1125",
+        "endPage": "1132",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00002",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499767",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00001",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499883",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00003",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499887",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9499716",
+        "doi": "10.1109/ISCA52012.2021.00004",
+        "publicationYear": "2021",
+        "publicationDate": "14-18 June 2021",
+        "articleNumber": "9499727",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "19",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 ACM/IEEE 48th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]

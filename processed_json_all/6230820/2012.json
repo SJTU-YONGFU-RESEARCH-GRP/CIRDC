@@ -1,0 +1,2175 @@
+[
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237032",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237032",
+        "articleTitle": "A case for exploiting subarray-level parallelism (SALP) in DRAM",
+        "volume": null,
+        "issue": null,
+        "startPage": "368",
+        "endPage": "379",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A case for exploiting subarray-level parallelism (SALP) in DRAM",
+        "authors": [
+            {
+                "id": 38264075800,
+                "preferredName": "Yoongu Kim",
+                "firstName": "Yoongu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38267348700,
+                "preferredName": "Vivek Seshadri",
+                "firstName": "Vivek",
+                "lastName": "Seshadri"
+            },
+            {
+                "id": 38263905800,
+                "preferredName": "Donghyuk Lee",
+                "firstName": "Donghyuk",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38269670800,
+                "preferredName": "Jamie Liu",
+                "firstName": "Jamie",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237019",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237019",
+        "articleTitle": "Scheduling heterogeneous multi-cores through performance impact estimation (PIE)",
+        "volume": null,
+        "issue": null,
+        "startPage": "213",
+        "endPage": "224",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Scheduling heterogeneous multi-cores through performance impact estimation (PIE)",
+        "authors": [
+            {
+                "id": 38233597600,
+                "preferredName": "Kenzo Van Craeynest",
+                "firstName": "Kenzo",
+                "lastName": "Van Craeynest"
+            },
+            {
+                "id": 37298078500,
+                "preferredName": "Aamer Jaleel",
+                "firstName": "Aamer",
+                "lastName": "Jaleel"
+            },
+            {
+                "id": 37266694200,
+                "preferredName": "Lieven Eeckhout",
+                "firstName": "Lieven",
+                "lastName": "Eeckhout"
+            },
+            {
+                "id": 38267190200,
+                "preferredName": "Paolo Narvaez",
+                "firstName": "Paolo",
+                "lastName": "Narvaez"
+            },
+            {
+                "id": 37266272500,
+                "preferredName": "Joel Emer",
+                "firstName": "Joel",
+                "lastName": "Emer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237004",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237004",
+        "articleTitle": "Towards energy-proportional datacenter memory with mobile DRAM",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Towards energy-proportional datacenter memory with mobile DRAM",
+        "authors": [
+            {
+                "id": 38265491100,
+                "preferredName": "Krishna T. Malladi",
+                "firstName": "Krishna T.",
+                "lastName": "Malladi"
+            },
+            {
+                "id": 37085549187,
+                "preferredName": "Frank A. Nothaft",
+                "firstName": "Frank A.",
+                "lastName": "Nothaft"
+            },
+            {
+                "id": 38268145800,
+                "preferredName": "Karthika Periyathambi",
+                "firstName": "Karthika",
+                "lastName": "Periyathambi"
+            },
+            {
+                "id": 38264172200,
+                "preferredName": "Benjamin C. Lee",
+                "firstName": "Benjamin C.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37282352700,
+                "preferredName": "Christos Kozyrakis",
+                "firstName": "Christos",
+                "lastName": "Kozyrakis"
+            },
+            {
+                "id": 37270364000,
+                "preferredName": "Mark Horowitz",
+                "firstName": "Mark",
+                "lastName": "Horowitz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237042",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237042",
+        "articleTitle": "Managing distributed UPS energy for effective power capping in data centers",
+        "volume": null,
+        "issue": null,
+        "startPage": "488",
+        "endPage": "499",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Managing distributed UPS energy for effective power capping in data centers",
+        "authors": [
+            {
+                "id": 37670328600,
+                "preferredName": "Vasileios Kontorinis",
+                "firstName": "Vasileios",
+                "lastName": "Kontorinis"
+            },
+            {
+                "id": 38263133200,
+                "preferredName": "Liuyi Eric Zhang",
+                "firstName": "Liuyi Eric",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 38262370200,
+                "preferredName": "Baris Aksanli",
+                "firstName": "Baris",
+                "lastName": "Aksanli"
+            },
+            {
+                "id": 37420427300,
+                "preferredName": "Jack Sampson",
+                "firstName": "Jack",
+                "lastName": "Sampson"
+            },
+            {
+                "id": 37398927100,
+                "preferredName": "Houman Homayoun",
+                "firstName": "Houman",
+                "lastName": "Homayoun"
+            },
+            {
+                "id": 38265627000,
+                "preferredName": "Eddie Pettis",
+                "firstName": "Eddie",
+                "lastName": "Pettis"
+            },
+            {
+                "id": 37282355800,
+                "preferredName": "Dean M. Tullsen",
+                "firstName": "Dean M.",
+                "lastName": "Tullsen"
+            },
+            {
+                "id": 37086448541,
+                "preferredName": "Tajana Simunic Rosing",
+                "firstName": "Tajana",
+                "lastName": "Simunic Rosing"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237001",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237001",
+        "articleTitle": "RAIDR: Retention-aware intelligent DRAM refresh",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "RAIDR: Retention-aware intelligent DRAM refresh",
+        "authors": [
+            {
+                "id": 38269670800,
+                "preferredName": "Jamie Liu",
+                "firstName": "Jamie",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38267714500,
+                "preferredName": "Ben Jaiyen",
+                "firstName": "Ben",
+                "lastName": "Jaiyen"
+            },
+            {
+                "id": 38265407500,
+                "preferredName": "Richard Veras",
+                "firstName": "Richard",
+                "lastName": "Veras"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237043",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237043",
+        "articleTitle": "Scale-out processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "500",
+        "endPage": "511",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Scale-out processors",
+        "authors": [
+            {
+                "id": 38265125000,
+                "preferredName": "Pejman Lotfi-Kamran",
+                "firstName": "Pejman",
+                "lastName": "Lotfi-Kamran"
+            },
+            {
+                "id": 37669789100,
+                "preferredName": "Boris Grot",
+                "firstName": "Boris",
+                "lastName": "Grot"
+            },
+            {
+                "id": 37395316000,
+                "preferredName": "Michael Ferdman",
+                "firstName": "Michael",
+                "lastName": "Ferdman"
+            },
+            {
+                "id": 38243457500,
+                "preferredName": "Stavros Volos",
+                "firstName": "Stavros",
+                "lastName": "Volos"
+            },
+            {
+                "id": 38265472400,
+                "preferredName": "Onur Kocberber",
+                "firstName": "Onur",
+                "lastName": "Kocberber"
+            },
+            {
+                "id": 38263206700,
+                "preferredName": "Javier Picorel",
+                "firstName": "Javier",
+                "lastName": "Picorel"
+            },
+            {
+                "id": 38265060700,
+                "preferredName": "Almutaz Adileh",
+                "firstName": "Almutaz",
+                "lastName": "Adileh"
+            },
+            {
+                "id": 38264213900,
+                "preferredName": "Djordje Jevdjic",
+                "firstName": "Djordje",
+                "lastName": "Jevdjic"
+            },
+            {
+                "id": 37393926400,
+                "preferredName": "Sachin Idgunji",
+                "firstName": "Sachin",
+                "lastName": "Idgunji"
+            },
+            {
+                "id": 37265472100,
+                "preferredName": "Emre Ozer",
+                "firstName": "Emre",
+                "lastName": "Ozer"
+            },
+            {
+                "id": 37364501300,
+                "preferredName": "Babak Falsafi",
+                "firstName": "Babak",
+                "lastName": "Falsafi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237031",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237031",
+        "articleTitle": "A defect-tolerant accelerator for emerging high-performance applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "356",
+        "endPage": "367",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A defect-tolerant accelerator for emerging high-performance applications",
+        "authors": [
+            {
+                "id": 37282483400,
+                "preferredName": "Olivier Temam",
+                "firstName": "Olivier",
+                "lastName": "Temam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237016",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237016",
+        "articleTitle": "A case for random shortcut topologies for HPC interconnects",
+        "volume": null,
+        "issue": null,
+        "startPage": "177",
+        "endPage": "188",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A case for random shortcut topologies for HPC interconnects",
+        "authors": [
+            {
+                "id": 37283850400,
+                "preferredName": "Michihiro Koibuchi",
+                "firstName": "Michihiro",
+                "lastName": "Koibuchi"
+            },
+            {
+                "id": 37545270100,
+                "preferredName": "Hiroki Matsutani",
+                "firstName": "Hiroki",
+                "lastName": "Matsutani"
+            },
+            {
+                "id": 37280731600,
+                "preferredName": "Hideharu Amano",
+                "firstName": "Hideharu",
+                "lastName": "Amano"
+            },
+            {
+                "id": 37268011700,
+                "preferredName": "D. Frank Hsu",
+                "firstName": "D. Frank",
+                "lastName": "Hsu"
+            },
+            {
+                "id": 37270083100,
+                "preferredName": "Henri Casanova",
+                "firstName": "Henri",
+                "lastName": "Casanova"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237037",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237037",
+        "articleTitle": "Probabilistic Shared Cache Management (PriSM)",
+        "volume": null,
+        "issue": null,
+        "startPage": "428",
+        "endPage": "439",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Probabilistic Shared Cache Management (PriSM)",
+        "authors": [
+            {
+                "id": 38075906400,
+                "preferredName": "R Manikantan",
+                "firstName": "R",
+                "lastName": "Manikantan"
+            },
+            {
+                "id": 37648755900,
+                "preferredName": "Kaushik Rajan",
+                "firstName": "Kaushik",
+                "lastName": "Rajan"
+            },
+            {
+                "id": 37294180600,
+                "preferredName": "R Govindarajan",
+                "firstName": "R",
+                "lastName": "Govindarajan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237036",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237036",
+        "articleTitle": "Staged memory scheduling: Achieving high performance and scalability in heterogeneous systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "416",
+        "endPage": "427",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Staged memory scheduling: Achieving high performance and scalability in heterogeneous systems",
+        "authors": [
+            {
+                "id": 38266728400,
+                "preferredName": "Rachata Ausavarungnirun",
+                "firstName": "Rachata",
+                "lastName": "Ausavarungnirun"
+            },
+            {
+                "id": 38265496300,
+                "preferredName": "Kevin Kai-Wei Chang",
+                "firstName": "Kevin Kai-Wei",
+                "lastName": "Chang"
+            },
+            {
+                "id": 38268318300,
+                "preferredName": "Lavanya Subramanian",
+                "firstName": "Lavanya",
+                "lastName": "Subramanian"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237020",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237020",
+        "articleTitle": "The Yin and Yang of power and performance for asymmetric hardware and managed software",
+        "volume": null,
+        "issue": null,
+        "startPage": "225",
+        "endPage": "236",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "The Yin and Yang of power and performance for asymmetric hardware and managed software",
+        "authors": [
+            {
+                "id": 37604724300,
+                "preferredName": "Ting Cao",
+                "firstName": "Ting",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37267690000,
+                "preferredName": "Stephen M Blackburn",
+                "firstName": "Stephen M",
+                "lastName": "Blackburn"
+            },
+            {
+                "id": 38269310500,
+                "preferredName": "Tiejun Gao",
+                "firstName": "Tiejun",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37267694300,
+                "preferredName": "Kathryn S McKinley",
+                "firstName": "Kathryn S",
+                "lastName": "McKinley"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237045",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237045",
+        "articleTitle": "End-to-end sequential consistency",
+        "volume": null,
+        "issue": null,
+        "startPage": "524",
+        "endPage": "535",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "End-to-end sequential consistency",
+        "authors": [
+            {
+                "id": 37089271482,
+                "preferredName": "Abhayendra Singh",
+                "firstName": "Abhayendra",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37424199700,
+                "preferredName": "Satish Narayanasamy",
+                "firstName": "Satish",
+                "lastName": "Narayanasamy"
+            },
+            {
+                "id": 38265446000,
+                "preferredName": "Daniel Marino",
+                "firstName": "Daniel",
+                "lastName": "Marino"
+            },
+            {
+                "id": 38093694600,
+                "preferredName": "Todd Millstein",
+                "firstName": "Todd",
+                "lastName": "Millstein"
+            },
+            {
+                "id": 37314365900,
+                "preferredName": "Madanlal Musuvathi",
+                "firstName": "Madanlal",
+                "lastName": "Musuvathi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237026",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237026",
+        "articleTitle": "Reducing memory reference energy with opportunistic virtual caching",
+        "volume": null,
+        "issue": null,
+        "startPage": "297",
+        "endPage": "308",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Reducing memory reference energy with opportunistic virtual caching",
+        "authors": [
+            {
+                "id": 38260185000,
+                "preferredName": "Arkaprava Basu",
+                "firstName": "Arkaprava",
+                "lastName": "Basu"
+            },
+            {
+                "id": 37279742700,
+                "preferredName": "Mark D. Hill",
+                "firstName": "Mark D.",
+                "lastName": "Hill"
+            },
+            {
+                "id": 37297953000,
+                "preferredName": "Michael M. Swift",
+                "firstName": "Michael M.",
+                "lastName": "Swift"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237047",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237047",
+        "articleTitle": "The dynamic granularity memory system",
+        "volume": null,
+        "issue": null,
+        "startPage": "548",
+        "endPage": "560",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "The dynamic granularity memory system",
+        "authors": [
+            {
+                "id": 38243849300,
+                "preferredName": "Doe Hyun Yoon",
+                "firstName": "Doe Hyun",
+                "lastName": "Yoon"
+            },
+            {
+                "id": 38236877400,
+                "preferredName": "Min Kyu Jeong",
+                "firstName": "Min Kyu",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 38268714700,
+                "preferredName": "Michael Sullivan",
+                "firstName": "Michael",
+                "lastName": "Sullivan"
+            },
+            {
+                "id": 37318863100,
+                "preferredName": "Mattan Erez",
+                "firstName": "Mattan",
+                "lastName": "Erez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237038",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237038",
+        "articleTitle": "Can traditional programming bridge the Ninja performance gap for parallel computing applications?",
+        "volume": null,
+        "issue": null,
+        "startPage": "440",
+        "endPage": "451",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Can traditional programming bridge the Ninja performance gap for parallel computing applications?",
+        "authors": [
+            {
+                "id": 37391797900,
+                "preferredName": "Nadathur Satish",
+                "firstName": "Nadathur",
+                "lastName": "Satish"
+            },
+            {
+                "id": 37578251700,
+                "preferredName": "Changkyu Kim",
+                "firstName": "Changkyu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37275779800,
+                "preferredName": "Jatin Chhugani",
+                "firstName": "Jatin",
+                "lastName": "Chhugani"
+            },
+            {
+                "id": 37417653300,
+                "preferredName": "Hideki Saito",
+                "firstName": "Hideki",
+                "lastName": "Saito"
+            },
+            {
+                "id": 37426020000,
+                "preferredName": "Rakesh Krishnaiyer",
+                "firstName": "Rakesh",
+                "lastName": "Krishnaiyer"
+            },
+            {
+                "id": 37424579200,
+                "preferredName": "Mikhail Smelyanskiy",
+                "firstName": "Mikhail",
+                "lastName": "Smelyanskiy"
+            },
+            {
+                "id": 37283875300,
+                "preferredName": "Milind Girkar",
+                "firstName": "Milind",
+                "lastName": "Girkar"
+            },
+            {
+                "id": 37356156800,
+                "preferredName": "Pradeep Dubey",
+                "firstName": "Pradeep",
+                "lastName": "Dubey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237005",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237005",
+        "articleTitle": "Simultaneous branch and warp interweaving for sustained GPU performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "60",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Simultaneous branch and warp interweaving for sustained GPU performance",
+        "authors": [
+            {
+                "id": 38233766000,
+                "preferredName": "Nicolas Brunie",
+                "firstName": "Nicolas",
+                "lastName": "Brunie"
+            },
+            {
+                "id": 37087116918,
+                "preferredName": "Caroline Collange",
+                "firstName": "Caroline",
+                "lastName": "Collange"
+            },
+            {
+                "id": 37393016100,
+                "preferredName": "Gregory Diamos",
+                "firstName": "Gregory",
+                "lastName": "Diamos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237044",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237044",
+        "articleTitle": "iSwitch: Coordinating and optimizing renewable energy powered server clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "512",
+        "endPage": "523",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "iSwitch: Coordinating and optimizing renewable energy powered server clusters",
+        "authors": [
+            {
+                "id": 38065111100,
+                "preferredName": "Chao Li",
+                "firstName": "Chao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37670620100,
+                "preferredName": "Amer Qouneh",
+                "firstName": "Amer",
+                "lastName": "Qouneh"
+            },
+            {
+                "id": 37539272900,
+                "preferredName": "Tao Li",
+                "firstName": "Tao",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237013",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237013",
+        "articleTitle": "Tolerating process variations in nanophotonic on-chip networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "142",
+        "endPage": "152",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Tolerating process variations in nanophotonic on-chip networks",
+        "authors": [
+            {
+                "id": 37403519000,
+                "preferredName": "Yi Xu",
+                "firstName": "Yi",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37280196900,
+                "preferredName": "Jun Yang",
+                "firstName": "Jun",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37273234900,
+                "preferredName": "Rami Melhem",
+                "firstName": "Rami",
+                "lastName": "Melhem"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237041",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237041",
+        "articleTitle": "Revisiting hardware-assisted page walks for virtualized systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "476",
+        "endPage": "487",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Revisiting hardware-assisted page walks for virtualized systems",
+        "authors": [
+            {
+                "id": 38262614100,
+                "preferredName": "Jeongseob Ahn",
+                "firstName": "Jeongseob",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37712960800,
+                "preferredName": "Seongwook Jin",
+                "firstName": "Seongwook",
+                "lastName": "Jin"
+            },
+            {
+                "id": 38182003000,
+                "preferredName": "Jaehyuk Huh",
+                "firstName": "Jaehyuk",
+                "lastName": "Huh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237011",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237011",
+        "articleTitle": "TimeWarp: Rethinking timekeeping and performance monitoring mechanisms to mitigate side-channel attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "118",
+        "endPage": "129",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "TimeWarp: Rethinking timekeeping and performance monitoring mechanisms to mitigate side-channel attacks",
+        "authors": [
+            {
+                "id": 37089077600,
+                "preferredName": "Robert Martin",
+                "firstName": "Robert",
+                "lastName": "Martin"
+            },
+            {
+                "id": 38266789300,
+                "preferredName": "John Demme",
+                "firstName": "John",
+                "lastName": "Demme"
+            },
+            {
+                "id": 37314065100,
+                "preferredName": "Simha Sethumadhavan",
+                "firstName": "Simha",
+                "lastName": "Sethumadhavan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237024",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237024",
+        "articleTitle": "A first-order mechanistic model for architectural vulnerability factor",
+        "volume": null,
+        "issue": null,
+        "startPage": "273",
+        "endPage": "284",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A first-order mechanistic model for architectural vulnerability factor",
+        "authors": [
+            {
+                "id": 37653877500,
+                "preferredName": "Arun Arvind Nair",
+                "firstName": "Arun Arvind",
+                "lastName": "Nair"
+            },
+            {
+                "id": 37393439300,
+                "preferredName": "Stijn Eyerman",
+                "firstName": "Stijn",
+                "lastName": "Eyerman"
+            },
+            {
+                "id": 37266694200,
+                "preferredName": "Lieven Eeckhout",
+                "firstName": "Lieven",
+                "lastName": "Eeckhout"
+            },
+            {
+                "id": 37266694600,
+                "preferredName": "Lizy Kurian John",
+                "firstName": "Lizy Kurian",
+                "lastName": "John"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237034",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237034",
+        "articleTitle": "Buffer-on-board memory systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "392",
+        "endPage": "403",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Buffer-on-board memory systems",
+        "authors": [
+            {
+                "id": 37403111800,
+                "preferredName": "Elliott Cooper-Balis",
+                "firstName": "Elliott",
+                "lastName": "Cooper-Balis"
+            },
+            {
+                "id": 37844643200,
+                "preferredName": "Paul Rosenfeld",
+                "firstName": "Paul",
+                "lastName": "Rosenfeld"
+            },
+            {
+                "id": 37282397300,
+                "preferredName": "Bruce Jacob",
+                "firstName": "Bruce",
+                "lastName": "Jacob"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237033",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237033",
+        "articleTitle": "PreSET: Improving performance of phase change memories by exploiting asymmetry in write times",
+        "volume": null,
+        "issue": null,
+        "startPage": "380",
+        "endPage": "391",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "PreSET: Improving performance of phase change memories by exploiting asymmetry in write times",
+        "authors": [
+            {
+                "id": 37301807700,
+                "preferredName": "Moinuddin K. Qureshi",
+                "firstName": "Moinuddin K.",
+                "lastName": "Qureshi"
+            },
+            {
+                "id": 38260207300,
+                "preferredName": "Michele M. Franceschini",
+                "firstName": "Michele M.",
+                "lastName": "Franceschini"
+            },
+            {
+                "id": 37269933200,
+                "preferredName": "Ashish Jagmohan",
+                "firstName": "Ashish",
+                "lastName": "Jagmohan"
+            },
+            {
+                "id": 37326368400,
+                "preferredName": "Luis A. Lastras",
+                "firstName": "Luis A.",
+                "lastName": "Lastras"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237025",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237025",
+        "articleTitle": "LOT-ECC: Localized and tiered reliability mechanisms for commodity memory systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "285",
+        "endPage": "296",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "LOT-ECC: Localized and tiered reliability mechanisms for commodity memory systems",
+        "authors": [
+            {
+                "id": 37391839500,
+                "preferredName": "Aniruddha N. Udipi",
+                "firstName": "Aniruddha N.",
+                "lastName": "Udipi"
+            },
+            {
+                "id": 37391840200,
+                "preferredName": "Naveen Muralimanohar",
+                "firstName": "Naveen",
+                "lastName": "Muralimanohar"
+            },
+            {
+                "id": 38262023600,
+                "preferredName": "Rajeev Balsubramonian",
+                "firstName": "Rajeev",
+                "lastName": "Balsubramonian"
+            },
+            {
+                "id": 37272448500,
+                "preferredName": "Al Davis",
+                "firstName": "Al",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37273884000,
+                "preferredName": "Norman P. Jouppi",
+                "firstName": "Norman P.",
+                "lastName": "Jouppi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237014",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237014",
+        "articleTitle": "A micro-architectural analysis of switched photonic multi-chip interconnects",
+        "volume": null,
+        "issue": null,
+        "startPage": "153",
+        "endPage": "164",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A micro-architectural analysis of switched photonic multi-chip interconnects",
+        "authors": [
+            {
+                "id": 37314090300,
+                "preferredName": "Pranay Koka",
+                "firstName": "Pranay",
+                "lastName": "Koka"
+            },
+            {
+                "id": 37594508700,
+                "preferredName": "Michael O. McCracken",
+                "firstName": "Michael O.",
+                "lastName": "McCracken"
+            },
+            {
+                "id": 37299532800,
+                "preferredName": "Herb Schwetman",
+                "firstName": "Herb",
+                "lastName": "Schwetman"
+            },
+            {
+                "id": 37539294500,
+                "preferredName": "Chia-Hsin Owen Chen",
+                "firstName": "Chia-Hsin Owen",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37289299300,
+                "preferredName": "Xuezhe Zheng",
+                "firstName": "Xuezhe",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37272156800,
+                "preferredName": "Ron Ho",
+                "firstName": "Ron",
+                "lastName": "Ho"
+            },
+            {
+                "id": 37371759300,
+                "preferredName": "Kannan Raj",
+                "firstName": "Kannan",
+                "lastName": "Raj"
+            },
+            {
+                "id": 37268009900,
+                "preferredName": "Ashok V. Krishnamoorthy",
+                "firstName": "Ashok V.",
+                "lastName": "Krishnamoorthy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237018",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237018",
+        "articleTitle": "RADISH: Always-on sound and complete race detection in software and hardware",
+        "volume": null,
+        "issue": null,
+        "startPage": "201",
+        "endPage": "212",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "RADISH: Always-on sound and complete race detection in software and hardware",
+        "authors": [
+            {
+                "id": 38259804100,
+                "preferredName": "Joseph Devietti",
+                "firstName": "Joseph",
+                "lastName": "Devietti"
+            },
+            {
+                "id": 38267709600,
+                "preferredName": "Benjamin P. Wood",
+                "firstName": "Benjamin P.",
+                "lastName": "Wood"
+            },
+            {
+                "id": 37839741500,
+                "preferredName": "Karin Strauss",
+                "firstName": "Karin",
+                "lastName": "Strauss"
+            },
+            {
+                "id": 37297956900,
+                "preferredName": "Luis Ceze",
+                "firstName": "Luis",
+                "lastName": "Ceze"
+            },
+            {
+                "id": 37409909500,
+                "preferredName": "Dan Grossman",
+                "firstName": "Dan",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 37314365200,
+                "preferredName": "Shaz Qadeer",
+                "firstName": "Shaz",
+                "lastName": "Qadeer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237021",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237021",
+        "articleTitle": "Lane decoupling for improving the timing-error resiliency of wide-SIMD architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "237",
+        "endPage": "248",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Lane decoupling for improving the timing-error resiliency of wide-SIMD architectures",
+        "authors": [
+            {
+                "id": 37318862600,
+                "preferredName": "Evgeni Krimer",
+                "firstName": "Evgeni",
+                "lastName": "Krimer"
+            },
+            {
+                "id": 37397204100,
+                "preferredName": "Patrick Chiang",
+                "firstName": "Patrick",
+                "lastName": "Chiang"
+            },
+            {
+                "id": 37318863100,
+                "preferredName": "Mattan Erez",
+                "firstName": "Mattan",
+                "lastName": "Erez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237010",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237010",
+        "articleTitle": "Side-channel vulnerability factor: A metric for measuring information leakage",
+        "volume": null,
+        "issue": null,
+        "startPage": "106",
+        "endPage": "117",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Side-channel vulnerability factor: A metric for measuring information leakage",
+        "authors": [
+            {
+                "id": 38266789300,
+                "preferredName": "John Demme",
+                "firstName": "John",
+                "lastName": "Demme"
+            },
+            {
+                "id": 37089077600,
+                "preferredName": "Robert Martin",
+                "firstName": "Robert",
+                "lastName": "Martin"
+            },
+            {
+                "id": 37541429000,
+                "preferredName": "Adam Waksman",
+                "firstName": "Adam",
+                "lastName": "Waksman"
+            },
+            {
+                "id": 37314065100,
+                "preferredName": "Simha Sethumadhavan",
+                "firstName": "Simha",
+                "lastName": "Sethumadhavan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237017",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237017",
+        "articleTitle": "Watchdog: Hardware for safe and secure manual memory management and full memory safety",
+        "volume": null,
+        "issue": null,
+        "startPage": "189",
+        "endPage": "200",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Watchdog: Hardware for safe and secure manual memory management and full memory safety",
+        "authors": [
+            {
+                "id": 38268962400,
+                "preferredName": "Santosh Nagarakatte",
+                "firstName": "Santosh",
+                "lastName": "Nagarakatte"
+            },
+            {
+                "id": 37277742100,
+                "preferredName": "Milo M. K. Martin",
+                "firstName": "Milo M. K.",
+                "lastName": "Martin"
+            },
+            {
+                "id": 37269670800,
+                "preferredName": "Steve Zdancewic",
+                "firstName": "Steve",
+                "lastName": "Zdancewic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237009",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237009",
+        "articleTitle": "Branch regulation: Low-overhead protection from code reuse attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "94",
+        "endPage": "105",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Branch regulation: Low-overhead protection from code reuse attacks",
+        "authors": [
+            {
+                "id": 37888024400,
+                "preferredName": "Mehmet Kayaalp",
+                "firstName": "Mehmet",
+                "lastName": "Kayaalp"
+            },
+            {
+                "id": 38229573600,
+                "preferredName": "Meltem Ozsoy",
+                "firstName": "Meltem",
+                "lastName": "Ozsoy"
+            },
+            {
+                "id": 37279772800,
+                "preferredName": "Nael Abu-Ghazaleh",
+                "firstName": "Nael",
+                "lastName": "Abu-Ghazaleh"
+            },
+            {
+                "id": 37274792800,
+                "preferredName": "Dmitry Ponomarev",
+                "firstName": "Dmitry",
+                "lastName": "Ponomarev"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237008",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237008",
+        "articleTitle": "Boosting mobile GPU performance with a decoupled access/execute fragment processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "84",
+        "endPage": "93",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Boosting mobile GPU performance with a decoupled access/execute fragment processor",
+        "authors": [
+            {
+                "id": 38261033900,
+                "preferredName": "Jos\u00e9-Mar\u00eda Arnau",
+                "firstName": "Jos\u00e9-Mar\u00eda",
+                "lastName": "Arnau"
+            },
+            {
+                "id": 37274195900,
+                "preferredName": "Joan-Manuel Parcerisa",
+                "firstName": "Joan-Manuel",
+                "lastName": "Parcerisa"
+            },
+            {
+                "id": 37267087900,
+                "preferredName": "Polychronis Xekalakis",
+                "firstName": "Polychronis",
+                "lastName": "Xekalakis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237027",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237027",
+        "articleTitle": "Improving writeback efficiency with decoupled last-write prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "309",
+        "endPage": "320",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Improving writeback efficiency with decoupled last-write prediction",
+        "authors": [
+            {
+                "id": 38239558200,
+                "preferredName": "Zhe Wang",
+                "firstName": "Zhe",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085386385,
+                "preferredName": "Samira M. Khan",
+                "firstName": "Samira M.",
+                "lastName": "Khan"
+            },
+            {
+                "id": 38485695000,
+                "preferredName": "Daniel A. Jim\u00e9nez",
+                "firstName": "Daniel A.",
+                "lastName": "Jim\u00e9nez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237015",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237015",
+        "articleTitle": "Enhancing effective throughput for transmission line-based bus",
+        "volume": null,
+        "issue": null,
+        "startPage": "165",
+        "endPage": "176",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Enhancing effective throughput for transmission line-based bus",
+        "authors": [
+            {
+                "id": 37699183100,
+                "preferredName": "Aaron Carpenter",
+                "firstName": "Aaron",
+                "lastName": "Carpenter"
+            },
+            {
+                "id": 37577315700,
+                "preferredName": "Jianyun Hu",
+                "firstName": "Jianyun",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37888052100,
+                "preferredName": "Ovunc Kocabas",
+                "firstName": "Ovunc",
+                "lastName": "Kocabas"
+            },
+            {
+                "id": 38278085000,
+                "preferredName": "Michael Huang",
+                "firstName": "Michael",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37292235800,
+                "preferredName": "Hui Wu",
+                "firstName": "Hui",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237003",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237003",
+        "articleTitle": "BOOM: Enabling mobile memory based low-power server DIMMs",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "BOOM: Enabling mobile memory based low-power server DIMMs",
+        "authors": [
+            {
+                "id": 38243849300,
+                "preferredName": "Doe Hyun Yoon",
+                "firstName": "Doe Hyun",
+                "lastName": "Yoon"
+            },
+            {
+                "id": 38067096300,
+                "preferredName": "Jichuan Chang",
+                "firstName": "Jichuan",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37391840200,
+                "preferredName": "Naveen Muralimanohar",
+                "firstName": "Naveen",
+                "lastName": "Muralimanohar"
+            },
+            {
+                "id": 37282355200,
+                "preferredName": "Parthasarathy Ranganathan",
+                "firstName": "Parthasarathy",
+                "lastName": "Ranganathan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237035",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237035",
+        "articleTitle": "Physically addressed queueing (PAQ): Improving parallelism in solid state disks",
+        "volume": null,
+        "issue": null,
+        "startPage": "404",
+        "endPage": "415",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Physically addressed queueing (PAQ): Improving parallelism in solid state disks",
+        "authors": [
+            {
+                "id": 37085684877,
+                "preferredName": "Myoungsoo Jung",
+                "firstName": "Myoungsoo",
+                "lastName": "Jung"
+            },
+            {
+                "id": 38252235400,
+                "preferredName": "Ellis H. Wilson",
+                "firstName": "Ellis H.",
+                "lastName": "Wilson"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Kandemir",
+                "firstName": "Mahmut",
+                "lastName": "Kandemir"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237006",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237006",
+        "articleTitle": "CAPRI: Prediction of compaction-adequacy for handling control-divergence in GPGPU architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "61",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "CAPRI: Prediction of compaction-adequacy for handling control-divergence in GPGPU architectures",
+        "authors": [
+            {
+                "id": 38265603700,
+                "preferredName": "Minsoo Rhu",
+                "firstName": "Minsoo",
+                "lastName": "Rhu"
+            },
+            {
+                "id": 37318863100,
+                "preferredName": "Mattan Erez",
+                "firstName": "Mattan",
+                "lastName": "Erez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237022",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237022",
+        "articleTitle": "VRSync: Characterizing and eliminating synchronization-induced voltage emergencies in many-core processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "249",
+        "endPage": "260",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "VRSync: Characterizing and eliminating synchronization-induced voltage emergencies in many-core processors",
+        "authors": [
+            {
+                "id": 37594074000,
+                "preferredName": "Timothy N. Miller",
+                "firstName": "Timothy N.",
+                "lastName": "Miller"
+            },
+            {
+                "id": 38001415200,
+                "preferredName": "Renji Thomas",
+                "firstName": "Renji",
+                "lastName": "Thomas"
+            },
+            {
+                "id": 38240738000,
+                "preferredName": "Xiang Pan",
+                "firstName": "Xiang",
+                "lastName": "Pan"
+            },
+            {
+                "id": 37555988600,
+                "preferredName": "Radu Teodorescu",
+                "firstName": "Radu",
+                "lastName": "Teodorescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237040",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237040",
+        "articleTitle": "Configurable fine-grain protection for multicore processor virtualization",
+        "volume": null,
+        "issue": null,
+        "startPage": "464",
+        "endPage": "475",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Configurable fine-grain protection for multicore processor virtualization",
+        "authors": [
+            {
+                "id": 37265471000,
+                "preferredName": "David Wentzlaff",
+                "firstName": "David",
+                "lastName": "Wentzlaff"
+            },
+            {
+                "id": 37083126800,
+                "preferredName": "Christopher J. Jackson",
+                "firstName": "Christopher J.",
+                "lastName": "Jackson"
+            },
+            {
+                "id": 37942533700,
+                "preferredName": "Patrick Griffin",
+                "firstName": "Patrick",
+                "lastName": "Griffin"
+            },
+            {
+                "id": 37273299600,
+                "preferredName": "Anant Agarwal",
+                "firstName": "Anant",
+                "lastName": "Agarwal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237029",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237029",
+        "articleTitle": "Setting an error detection infrastructure with low cost acoustic wave detectors",
+        "volume": null,
+        "issue": null,
+        "startPage": "333",
+        "endPage": "343",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Setting an error detection infrastructure with low cost acoustic wave detectors",
+        "authors": [
+            {
+                "id": 38259708000,
+                "preferredName": "Gaurang Upasani",
+                "firstName": "Gaurang",
+                "lastName": "Upasani"
+            },
+            {
+                "id": 37331641200,
+                "preferredName": "Xavier Vera",
+                "firstName": "Xavier",
+                "lastName": "Vera"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "Antonio Gonz\u00e1lez",
+                "firstName": "Antonio",
+                "lastName": "Gonz\u00e1lez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237007",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237007",
+        "articleTitle": "iGPU: Exception support and speculative execution on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "72",
+        "endPage": "83",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "iGPU: Exception support and speculative execution on GPUs",
+        "authors": [
+            {
+                "id": 38260820400,
+                "preferredName": "Jaikrishnan Menon",
+                "firstName": "Jaikrishnan",
+                "lastName": "Menon"
+            },
+            {
+                "id": 38266222700,
+                "preferredName": "Marc de Kruijf",
+                "firstName": "Marc",
+                "lastName": "de Kruijf"
+            },
+            {
+                "id": 37398408100,
+                "preferredName": "Karthikeyan Sankaralingam",
+                "firstName": "Karthikeyan",
+                "lastName": "Sankaralingam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237002",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237002",
+        "articleTitle": "PARDIS: A programmable memory controller for the DDRx interfacing standards",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "PARDIS: A programmable memory controller for the DDRx interfacing standards",
+        "authors": [
+            {
+                "id": 37294895000,
+                "preferredName": "Mahdi Nazm Bojnordi",
+                "firstName": "Mahdi Nazm",
+                "lastName": "Bojnordi"
+            },
+            {
+                "id": 37397990300,
+                "preferredName": "Engin Ipek",
+                "firstName": "Engin",
+                "lastName": "Ipek"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237039",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237039",
+        "articleTitle": "Harmony: Collection and analysis of parallel block vectors",
+        "volume": null,
+        "issue": null,
+        "startPage": "452",
+        "endPage": "463",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Harmony: Collection and analysis of parallel block vectors",
+        "authors": [
+            {
+                "id": 38261470200,
+                "preferredName": "Melanie Kambadur",
+                "firstName": "Melanie",
+                "lastName": "Kambadur"
+            },
+            {
+                "id": 38269850300,
+                "preferredName": "Kui Tang",
+                "firstName": "Kui",
+                "lastName": "Tang"
+            },
+            {
+                "id": 38247747700,
+                "preferredName": "Martha A. Kim",
+                "firstName": "Martha A.",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237030",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237030",
+        "articleTitle": "Viper: Virtual pipelines for enhanced reliability",
+        "volume": null,
+        "issue": null,
+        "startPage": "344",
+        "endPage": "355",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Viper: Virtual pipelines for enhanced reliability",
+        "authors": [
+            {
+                "id": 37408157000,
+                "preferredName": "Andrea Pellegrini",
+                "firstName": "Andrea",
+                "lastName": "Pellegrini"
+            },
+            {
+                "id": 38074284000,
+                "preferredName": "Joseph L. Greathouse",
+                "firstName": "Joseph L.",
+                "lastName": "Greathouse"
+            },
+            {
+                "id": 37267142300,
+                "preferredName": "Valeria Bertacco",
+                "firstName": "Valeria",
+                "lastName": "Bertacco"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237028",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237028",
+        "articleTitle": "FLEXclusion: Balancing cache capacity and on-chip bandwidth via Flexible Exclusion",
+        "volume": null,
+        "issue": null,
+        "startPage": "321",
+        "endPage": "332",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "FLEXclusion: Balancing cache capacity and on-chip bandwidth via Flexible Exclusion",
+        "authors": [
+            {
+                "id": 38266865900,
+                "preferredName": "Jaewoong Sim",
+                "firstName": "Jaewoong",
+                "lastName": "Sim"
+            },
+            {
+                "id": 38008722600,
+                "preferredName": "Jaekyu Lee",
+                "firstName": "Jaekyu",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37301807700,
+                "preferredName": "Moinuddin K. Qureshi",
+                "firstName": "Moinuddin K.",
+                "lastName": "Qureshi"
+            },
+            {
+                "id": 37280376200,
+                "preferredName": "Hyesoon Kim",
+                "firstName": "Hyesoon",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237023",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237023",
+        "articleTitle": "Euripus: A flexible unified hardware memory checkpointing accelerator for bidirectional-debugging and reliability",
+        "volume": null,
+        "issue": null,
+        "startPage": "261",
+        "endPage": "272",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Euripus: A flexible unified hardware memory checkpointing accelerator for bidirectional-debugging and reliability",
+        "authors": [
+            {
+                "id": 37402284200,
+                "preferredName": "Ioannis Doudalis",
+                "firstName": "Ioannis",
+                "lastName": "Doudalis"
+            },
+            {
+                "id": 37298065900,
+                "preferredName": "Milos Prvulovic",
+                "firstName": "Milos",
+                "lastName": "Prvulovic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237046",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237046",
+        "articleTitle": "BlockChop: Dynamic squash elimination for hybrid processor architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "536",
+        "endPage": "547",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "BlockChop: Dynamic squash elimination for hybrid processor architecture",
+        "authors": [
+            {
+                "id": 37297735100,
+                "preferredName": "Jason Mars",
+                "firstName": "Jason",
+                "lastName": "Mars"
+            },
+            {
+                "id": 38262051500,
+                "preferredName": "Naveen Kumar",
+                "firstName": "Naveen",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237012",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237012",
+        "articleTitle": "Inspection resistant memory: Architectural support for security from physical examination",
+        "volume": null,
+        "issue": null,
+        "startPage": "130",
+        "endPage": "141",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Inspection resistant memory: Architectural support for security from physical examination",
+        "authors": [
+            {
+                "id": 38094149500,
+                "preferredName": "Jonathan Valamehr",
+                "firstName": "Jonathan",
+                "lastName": "Valamehr"
+            },
+            {
+                "id": 38269449200,
+                "preferredName": "Melissa Chase",
+                "firstName": "Melissa",
+                "lastName": "Chase"
+            },
+            {
+                "id": 37323438400,
+                "preferredName": "Seny Kamara",
+                "firstName": "Seny",
+                "lastName": "Kamara"
+            },
+            {
+                "id": 37662421500,
+                "preferredName": "Andrew Putnam",
+                "firstName": "Andrew",
+                "lastName": "Putnam"
+            },
+            {
+                "id": 38263187300,
+                "preferredName": "Dan Shumow",
+                "firstName": "Dan",
+                "lastName": "Shumow"
+            },
+            {
+                "id": 37271723200,
+                "preferredName": "Vinod Vaikuntanathan",
+                "firstName": "Vinod",
+                "lastName": "Vaikuntanathan"
+            },
+            {
+                "id": 37283546900,
+                "preferredName": "Timothy Sherwood",
+                "firstName": "Timothy",
+                "lastName": "Sherwood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6236997",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6236997",
+        "articleTitle": "ISCA 2012 organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "ix",
+        "endPage": "xi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ISCA 2012 organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6236996",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6236996",
+        "articleTitle": "Message from the general chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Message from the general chair",
+        "authors": [
+            {
+                "id": 38184308200,
+                "preferredName": "Shih-Lien Lu",
+                "firstName": "Shih-Lien",
+                "lastName": "Lu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6236998",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6236998",
+        "articleTitle": "Message from the program chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Message from the program chair",
+        "authors": [
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6236999",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6236999",
+        "articleTitle": "Additional reviewers",
+        "volume": null,
+        "issue": null,
+        "startPage": "xii",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Additional reviewers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6237000",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6237000",
+        "articleTitle": "ISCA'12 Sponsors & Supporters",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiii",
+        "endPage": "xiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ISCA'12 Sponsors & Supporters",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6230820",
+        "doi": "10.1109/ISCA.2012.6236994",
+        "publicationYear": "2012",
+        "publicationDate": "9-13 June 2012",
+        "articleNumber": "6236994",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2012 39th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    }
+]

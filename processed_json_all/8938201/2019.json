@@ -1,0 +1,503 @@
+[
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00014",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948628",
+        "articleTitle": "Parallel SFC-based mesh partitioning and load balancing",
+        "volume": null,
+        "issue": null,
+        "startPage": "72",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Parallel SFC-based mesh partitioning and load balancing",
+        "authors": [
+            {
+                "id": 37086048341,
+                "preferredName": "Ricard Borrell",
+                "firstName": "Ricard",
+                "lastName": "Borrell"
+            },
+            {
+                "id": 37086050539,
+                "preferredName": "Guillermo Oyarzun",
+                "firstName": "Guillermo",
+                "lastName": "Oyarzun"
+            },
+            {
+                "id": 37085480275,
+                "preferredName": "Damien Dosimont",
+                "firstName": "Damien",
+                "lastName": "Dosimont"
+            },
+            {
+                "id": 38489590900,
+                "preferredName": "Guillaume Houzeaux",
+                "firstName": "Guillaume",
+                "lastName": "Houzeaux"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00010",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948618",
+        "articleTitle": "Generic Matrix Multiplication for Multi-GPU Accelerated Distributed-Memory Platforms over PaRSEC",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Generic Matrix Multiplication for Multi-GPU Accelerated Distributed-Memory Platforms over PaRSEC",
+        "authors": [
+            {
+                "id": 37296692100,
+                "preferredName": "Thomas Herault",
+                "firstName": "Thomas",
+                "lastName": "Herault"
+            },
+            {
+                "id": 37283850600,
+                "preferredName": "Yves Robert",
+                "firstName": "Yves",
+                "lastName": "Robert"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00006",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948675",
+        "articleTitle": "GPU Acceleration of Communication Avoiding Chebyshev Basis Conjugate Gradient Solver for Multiphase CFD Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "GPU Acceleration of Communication Avoiding Chebyshev Basis Conjugate Gradient Solver for Multiphase CFD Simulations",
+        "authors": [
+            {
+                "id": 37085432143,
+                "preferredName": "Yussuf Ali",
+                "firstName": "Yussuf",
+                "lastName": "Ali"
+            },
+            {
+                "id": 37085596091,
+                "preferredName": "Naoyuki Onodera",
+                "firstName": "Naoyuki",
+                "lastName": "Onodera"
+            },
+            {
+                "id": 38233779400,
+                "preferredName": "Yasuhiro Idomura",
+                "firstName": "Yasuhiro",
+                "lastName": "Idomura"
+            },
+            {
+                "id": 37086007477,
+                "preferredName": "Takuya Ina",
+                "firstName": "Takuya",
+                "lastName": "Ina"
+            },
+            {
+                "id": 38581267400,
+                "preferredName": "Toshiyuki Imamura",
+                "firstName": "Toshiyuki",
+                "lastName": "Imamura"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00008",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948697",
+        "articleTitle": "Towards Half-Precision Computation for Complex Matrices: A Case Study for Mixed Precision Solvers on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Towards Half-Precision Computation for Complex Matrices: A Case Study for Mixed Precision Solvers on GPUs",
+        "authors": [
+            {
+                "id": 37085354347,
+                "preferredName": "Ahmad Abdelfattah",
+                "firstName": "Ahmad",
+                "lastName": "Abdelfattah"
+            },
+            {
+                "id": 37401700800,
+                "preferredName": "Stanimire Tomov",
+                "firstName": "Stanimire",
+                "lastName": "Tomov"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00007",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948645",
+        "articleTitle": "Optimization of a Solver for Computational Materials and Structures Problems on NVIDIA Volta and AMD Instinct GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Optimization of a Solver for Computational Materials and Structures Problems on NVIDIA Volta and AMD Instinct GPUs",
+        "authors": [
+            {
+                "id": 37282842200,
+                "preferredName": "Mohammad Zubair",
+                "firstName": "Mohammad",
+                "lastName": "Zubair"
+            },
+            {
+                "id": 37087229538,
+                "preferredName": "James Warner",
+                "firstName": "James",
+                "lastName": "Warner"
+            },
+            {
+                "id": 37087229421,
+                "preferredName": "David Wagner",
+                "firstName": "David",
+                "lastName": "Wagner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00009",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948674",
+        "articleTitle": "Extreme Scale Phase-Field Simulation of Sintering Processes",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Extreme Scale Phase-Field Simulation of Sintering Processes",
+        "authors": [
+            {
+                "id": 37087229120,
+                "preferredName": "Henrik Hierl",
+                "firstName": "Henrik",
+                "lastName": "Hierl"
+            },
+            {
+                "id": 37086087437,
+                "preferredName": "Johannes H\u00f6tzer",
+                "firstName": "Johannes",
+                "lastName": "H\u00f6tzer"
+            },
+            {
+                "id": 37087228938,
+                "preferredName": "Marco Seiz",
+                "firstName": "Marco",
+                "lastName": "Seiz"
+            },
+            {
+                "id": 37087228640,
+                "preferredName": "Andreas Reiter",
+                "firstName": "Andreas",
+                "lastName": "Reiter"
+            },
+            {
+                "id": 37087156604,
+                "preferredName": "Britta Nestler",
+                "firstName": "Britta",
+                "lastName": "Nestler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00013",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948696",
+        "articleTitle": "Making Speculative Scheduling Robust to Incomplete Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "62",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Making Speculative Scheduling Robust to Incomplete Data",
+        "authors": [
+            {
+                "id": 37546431600,
+                "preferredName": "Ana Gainaru",
+                "firstName": "Ana",
+                "lastName": "Gainaru"
+            },
+            {
+                "id": 37087229683,
+                "preferredName": "Guillaume Pallez",
+                "firstName": "Guillaume",
+                "lastName": "Pallez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00012",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948604",
+        "articleTitle": "Parallel Multigrid Methods on Manycore Clusters with IHK/McKernel",
+        "volume": null,
+        "issue": null,
+        "startPage": "52",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Parallel Multigrid Methods on Manycore Clusters with IHK/McKernel",
+        "authors": [
+            {
+                "id": 37278275100,
+                "preferredName": "Kengo Nakajima",
+                "firstName": "Kengo",
+                "lastName": "Nakajima"
+            },
+            {
+                "id": 37586611300,
+                "preferredName": "Balazs Gerofi",
+                "firstName": "Balazs",
+                "lastName": "Gerofi"
+            },
+            {
+                "id": 37292334300,
+                "preferredName": "Yutaka Ishikawa",
+                "firstName": "Yutaka",
+                "lastName": "Ishikawa"
+            },
+            {
+                "id": 37086434075,
+                "preferredName": "Masashi Horikoshi",
+                "firstName": "Masashi",
+                "lastName": "Horikoshi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00011",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948659",
+        "articleTitle": "Towards Accelerated Unstructured Mesh Particle-in-Cell",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Towards Accelerated Unstructured Mesh Particle-in-Cell",
+        "authors": [
+            {
+                "id": 37086615121,
+                "preferredName": "Gerrett Diamond",
+                "firstName": "Gerrett",
+                "lastName": "Diamond"
+            },
+            {
+                "id": 38546892700,
+                "preferredName": "Cameron Smith",
+                "firstName": "Cameron",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37087468521,
+                "preferredName": "Chonglin Zhang",
+                "firstName": "Chonglin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086615972,
+                "preferredName": "Eisung Yoon",
+                "firstName": "Eisung",
+                "lastName": "Yoon"
+            },
+            {
+                "id": 37087467777,
+                "preferredName": "Gopan Perumpilly",
+                "firstName": "Gopan",
+                "lastName": "Perumpilly"
+            },
+            {
+                "id": 37392904800,
+                "preferredName": "Onkar Sahni",
+                "firstName": "Onkar",
+                "lastName": "Sahni"
+            },
+            {
+                "id": 37323010800,
+                "preferredName": "Mark S. Shephard",
+                "firstName": "Mark S.",
+                "lastName": "Shephard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00005",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948620",
+        "articleTitle": "Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00004",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948633",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00015",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948678",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "79",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00002",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948504",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00001",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948615",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8938201",
+        "doi": "10.1109/ScalA49573.2019.00003",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8948657",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 10th Workshop on Latest Advances in Scalable Algorithms for Large-Scale Systems (ScalA)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

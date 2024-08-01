@@ -1,0 +1,3233 @@
+[
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.000-5",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418625",
+        "articleTitle": "OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding",
+        "volume": null,
+        "issue": null,
+        "startPage": "583",
+        "endPage": "598",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "OmniLedger: A Secure, Scale-Out, Decentralized Ledger via Sharding",
+        "authors": [
+            {
+                "id": 37085894701,
+                "preferredName": "Eleftherios Kokoris-Kogias",
+                "firstName": "Eleftherios",
+                "lastName": "Kokoris-Kogias"
+            },
+            {
+                "id": 37085464277,
+                "preferredName": "Philipp Jovanovic",
+                "firstName": "Philipp",
+                "lastName": "Jovanovic"
+            },
+            {
+                "id": 37430932600,
+                "preferredName": "Linus Gasser",
+                "firstName": "Linus",
+                "lastName": "Gasser"
+            },
+            {
+                "id": 37085856010,
+                "preferredName": "Nicolas Gailly",
+                "firstName": "Nicolas",
+                "lastName": "Gailly"
+            },
+            {
+                "id": 37396485500,
+                "preferredName": "Ewa Syta",
+                "firstName": "Ewa",
+                "lastName": "Syta"
+            },
+            {
+                "id": 37085357223,
+                "preferredName": "Bryan Ford",
+                "firstName": "Bryan",
+                "lastName": "Ford"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00020",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418611",
+        "articleTitle": "Bulletproofs: Short Proofs for Confidential Transactions and More",
+        "volume": null,
+        "issue": null,
+        "startPage": "315",
+        "endPage": "334",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Bulletproofs: Short Proofs for Confidential Transactions and More",
+        "authors": [
+            {
+                "id": 37086423491,
+                "preferredName": "Benedikt B\u00fcnz",
+                "firstName": "Benedikt",
+                "lastName": "B\u00fcnz"
+            },
+            {
+                "id": 37086430940,
+                "preferredName": "Jonathan Bootle",
+                "firstName": "Jonathan",
+                "lastName": "Bootle"
+            },
+            {
+                "id": 37374985800,
+                "preferredName": "Dan Boneh",
+                "firstName": "Dan",
+                "lastName": "Boneh"
+            },
+            {
+                "id": 37086423682,
+                "preferredName": "Andrew Poelstra",
+                "firstName": "Andrew",
+                "lastName": "Poelstra"
+            },
+            {
+                "id": 37086433205,
+                "preferredName": "Pieter Wuille",
+                "firstName": "Pieter",
+                "lastName": "Wuille"
+            },
+            {
+                "id": 37086430849,
+                "preferredName": "Greg Maxwell",
+                "firstName": "Greg",
+                "lastName": "Maxwell"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00057",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418594",
+        "articleTitle": "Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Manipulating Machine Learning: Poisoning Attacks and Countermeasures for Regression Learning",
+        "authors": [
+            {
+                "id": 37086430667,
+                "preferredName": "Matthew Jagielski",
+                "firstName": "Matthew",
+                "lastName": "Jagielski"
+            },
+            {
+                "id": 37283922900,
+                "preferredName": "Alina Oprea",
+                "firstName": "Alina",
+                "lastName": "Oprea"
+            },
+            {
+                "id": 37947603800,
+                "preferredName": "Battista Biggio",
+                "firstName": "Battista",
+                "lastName": "Biggio"
+            },
+            {
+                "id": 38469590800,
+                "preferredName": "Chang Liu",
+                "firstName": "Chang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38271885700,
+                "preferredName": "Cristina Nita-Rotaru",
+                "firstName": "Cristina",
+                "lastName": "Nita-Rotaru"
+            },
+            {
+                "id": 37086537305,
+                "preferredName": "Bo Li",
+                "firstName": "Bo",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00058",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418593",
+        "articleTitle": "AI2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "AI2: Safety and Robustness Certification of Neural Networks with Abstract Interpretation",
+        "authors": [
+            {
+                "id": 37086427792,
+                "preferredName": "Timon Gehr",
+                "firstName": "Timon",
+                "lastName": "Gehr"
+            },
+            {
+                "id": 37086431531,
+                "preferredName": "Matthew Mirman",
+                "firstName": "Matthew",
+                "lastName": "Mirman"
+            },
+            {
+                "id": 37086427763,
+                "preferredName": "Dana Drachsler-Cohen",
+                "firstName": "Dana",
+                "lastName": "Drachsler-Cohen"
+            },
+            {
+                "id": 38076824200,
+                "preferredName": "Petar Tsankov",
+                "firstName": "Petar",
+                "lastName": "Tsankov"
+            },
+            {
+                "id": 37086423276,
+                "preferredName": "Swarat Chaudhuri",
+                "firstName": "Swarat",
+                "lastName": "Chaudhuri"
+            },
+            {
+                "id": 38071796600,
+                "preferredName": "Martin Vechev",
+                "firstName": "Martin",
+                "lastName": "Vechev"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00046",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418633",
+        "articleTitle": "Angora: Efficient Fuzzing by Principled Search",
+        "volume": null,
+        "issue": null,
+        "startPage": "711",
+        "endPage": "725",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Angora: Efficient Fuzzing by Principled Search",
+        "authors": [
+            {
+                "id": 37086432612,
+                "preferredName": "Peng Chen",
+                "firstName": "Peng",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086433316,
+                "preferredName": "Hao Chen",
+                "firstName": "Hao",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00038",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418595",
+        "articleTitle": "Stealing Hyperparameters in Machine Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "36",
+        "endPage": "52",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Stealing Hyperparameters in Machine Learning",
+        "authors": [
+            {
+                "id": 37089733982,
+                "preferredName": "Binghui Wang",
+                "firstName": "Binghui",
+                "lastName": "Wang"
+            },
+            {
+                "id": 38252367900,
+                "preferredName": "Neil Zhenqiang Gong",
+                "firstName": "Neil Zhenqiang",
+                "lastName": "Gong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00040",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418631",
+        "articleTitle": "CollAFL: Path Sensitive Fuzzing",
+        "volume": null,
+        "issue": null,
+        "startPage": "679",
+        "endPage": "696",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "CollAFL: Path Sensitive Fuzzing",
+        "authors": [
+            {
+                "id": 37086425574,
+                "preferredName": "Shuitao Gan",
+                "firstName": "Shuitao",
+                "lastName": "Gan"
+            },
+            {
+                "id": 37086432952,
+                "preferredName": "Chao Zhang",
+                "firstName": "Chao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086731207,
+                "preferredName": "Xiaojun Qin",
+                "firstName": "Xiaojun",
+                "lastName": "Qin"
+            },
+            {
+                "id": 37086427298,
+                "preferredName": "Xuwen Tu",
+                "firstName": "Xuwen",
+                "lastName": "Tu"
+            },
+            {
+                "id": 37277622200,
+                "preferredName": "Kang Li",
+                "firstName": "Kang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086429131,
+                "preferredName": "Zhongyu Pei",
+                "firstName": "Zhongyu",
+                "lastName": "Pei"
+            },
+            {
+                "id": 38065396500,
+                "preferredName": "Zuoning Chen",
+                "firstName": "Zuoning",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00049",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418606",
+        "articleTitle": "FPGA-Based Remote Power Side-Channel Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "229",
+        "endPage": "244",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "FPGA-Based Remote Power Side-Channel Attacks",
+        "authors": [
+            {
+                "id": 37087141633,
+                "preferredName": "Mark Zhao",
+                "firstName": "Mark",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37282761100,
+                "preferredName": "G. Edward Suh",
+                "firstName": "G. Edward",
+                "lastName": "Suh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00056",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418632",
+        "articleTitle": "T-Fuzz: Fuzzing by Program Transformation",
+        "volume": null,
+        "issue": null,
+        "startPage": "697",
+        "endPage": "710",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "T-Fuzz: Fuzzing by Program Transformation",
+        "authors": [
+            {
+                "id": 37086426505,
+                "preferredName": "Hui Peng",
+                "firstName": "Hui",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37085853344,
+                "preferredName": "Yan Shoshitaishvili",
+                "firstName": "Yan",
+                "lastName": "Shoshitaishvili"
+            },
+            {
+                "id": 38056933900,
+                "preferredName": "Mathias Payer",
+                "firstName": "Mathias",
+                "lastName": "Payer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00060",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418646",
+        "articleTitle": "Doubly-Efficient zkSNARKs Without Trusted Setup",
+        "volume": null,
+        "issue": null,
+        "startPage": "926",
+        "endPage": "943",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Doubly-Efficient zkSNARKs Without Trusted Setup",
+        "authors": [
+            {
+                "id": 37085871413,
+                "preferredName": "Riad S. Wahby",
+                "firstName": "Riad S.",
+                "lastName": "Wahby"
+            },
+            {
+                "id": 37086424018,
+                "preferredName": "Ioanna Tzialla",
+                "firstName": "Ioanna",
+                "lastName": "Tzialla"
+            },
+            {
+                "id": 37402524300,
+                "preferredName": "Abhi Shelat",
+                "firstName": "Abhi",
+                "lastName": "Shelat"
+            },
+            {
+                "id": 37846008500,
+                "preferredName": "Justin Thaler",
+                "firstName": "Justin",
+                "lastName": "Thaler"
+            },
+            {
+                "id": 37070312500,
+                "preferredName": "Michael Walfish",
+                "firstName": "Michael",
+                "lastName": "Walfish"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00025",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418608",
+        "articleTitle": "EnclaveDB: A Secure Database Using SGX",
+        "volume": null,
+        "issue": null,
+        "startPage": "264",
+        "endPage": "278",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "EnclaveDB: A Secure Database Using SGX",
+        "authors": [
+            {
+                "id": 37086423675,
+                "preferredName": "Christian Priebe",
+                "firstName": "Christian",
+                "lastName": "Priebe"
+            },
+            {
+                "id": 37297714000,
+                "preferredName": "Kapil Vaswani",
+                "firstName": "Kapil",
+                "lastName": "Vaswani"
+            },
+            {
+                "id": 37275780300,
+                "preferredName": "Manuel Costa",
+                "firstName": "Manuel",
+                "lastName": "Costa"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00035",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418600",
+        "articleTitle": "Locally Differentially Private Frequent Itemset Mining",
+        "volume": null,
+        "issue": null,
+        "startPage": "127",
+        "endPage": "143",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Locally Differentially Private Frequent Itemset Mining",
+        "authors": [
+            {
+                "id": 37086431158,
+                "preferredName": "Tianhao Wang",
+                "firstName": "Tianhao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37279907500,
+                "preferredName": "Ninghui Li",
+                "firstName": "Ninghui",
+                "lastName": "Li"
+            },
+            {
+                "id": 37279267300,
+                "preferredName": "Somesh Jha",
+                "firstName": "Somesh",
+                "lastName": "Jha"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00031",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418607",
+        "articleTitle": "Another Flip in the Wall of Rowhammer Defenses",
+        "volume": null,
+        "issue": null,
+        "startPage": "245",
+        "endPage": "261",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Another Flip in the Wall of Rowhammer Defenses",
+        "authors": [
+            {
+                "id": 37086432448,
+                "preferredName": "Daniel Gruss",
+                "firstName": "Daniel",
+                "lastName": "Gruss"
+            },
+            {
+                "id": 37086426161,
+                "preferredName": "Moritz Lipp",
+                "firstName": "Moritz",
+                "lastName": "Lipp"
+            },
+            {
+                "id": 37086430127,
+                "preferredName": "Michael Schwarz",
+                "firstName": "Michael",
+                "lastName": "Schwarz"
+            },
+            {
+                "id": 37086044672,
+                "preferredName": "Daniel Genkin",
+                "firstName": "Daniel",
+                "lastName": "Genkin"
+            },
+            {
+                "id": 37086428456,
+                "preferredName": "Jonas Juffinger",
+                "firstName": "Jonas",
+                "lastName": "Juffinger"
+            },
+            {
+                "id": 37086429793,
+                "preferredName": "Sioli O'Connell",
+                "firstName": "Sioli",
+                "lastName": "O'Connell"
+            },
+            {
+                "id": 37086427953,
+                "preferredName": "Wolfgang Schoechl",
+                "firstName": "Wolfgang",
+                "lastName": "Schoechl"
+            },
+            {
+                "id": 37698581700,
+                "preferredName": "Yuval Yarom",
+                "firstName": "Yuval",
+                "lastName": "Yarom"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00054",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418602",
+        "articleTitle": "Understanding Linux Malware",
+        "volume": null,
+        "issue": null,
+        "startPage": "161",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Understanding Linux Malware",
+        "authors": [
+            {
+                "id": 37086430614,
+                "preferredName": "Emanuele Cozzi",
+                "firstName": "Emanuele",
+                "lastName": "Cozzi"
+            },
+            {
+                "id": 37085825965,
+                "preferredName": "Mariano Graziano",
+                "firstName": "Mariano",
+                "lastName": "Graziano"
+            },
+            {
+                "id": 37085434471,
+                "preferredName": "Yanick Fratantonio",
+                "firstName": "Yanick",
+                "lastName": "Fratantonio"
+            },
+            {
+                "id": 37831463300,
+                "preferredName": "Davide Balzarotti",
+                "firstName": "Davide",
+                "lastName": "Balzarotti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00047",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418627",
+        "articleTitle": "Tracking Ransomware End-to-end",
+        "volume": null,
+        "issue": null,
+        "startPage": "618",
+        "endPage": "631",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Tracking Ransomware End-to-end",
+        "authors": [
+            {
+                "id": 37086430118,
+                "preferredName": "Danny Yuxing Huang",
+                "firstName": "Danny Yuxing",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086423790,
+                "preferredName": "Maxwell Matthaios Aliapoulios",
+                "firstName": "Maxwell Matthaios",
+                "lastName": "Aliapoulios"
+            },
+            {
+                "id": 37088730219,
+                "preferredName": "Vector Guo Li",
+                "firstName": "Vector Guo",
+                "lastName": "Li"
+            },
+            {
+                "id": 37845974200,
+                "preferredName": "Luca Invernizzi",
+                "firstName": "Luca",
+                "lastName": "Invernizzi"
+            },
+            {
+                "id": 37541421800,
+                "preferredName": "Elie Bursztein",
+                "firstName": "Elie",
+                "lastName": "Bursztein"
+            },
+            {
+                "id": 37088724670,
+                "preferredName": "Kylie McRoberts",
+                "firstName": "Kylie",
+                "lastName": "McRoberts"
+            },
+            {
+                "id": 37088726555,
+                "preferredName": "Jonathan Levin",
+                "firstName": "Jonathan",
+                "lastName": "Levin"
+            },
+            {
+                "id": 37714097300,
+                "preferredName": "Kirill Levchenko",
+                "firstName": "Kirill",
+                "lastName": "Levchenko"
+            },
+            {
+                "id": 37272044100,
+                "preferredName": "Alex C. Snoeren",
+                "firstName": "Alex C.",
+                "lastName": "Snoeren"
+            },
+            {
+                "id": 37409379600,
+                "preferredName": "Damon McCoy",
+                "firstName": "Damon",
+                "lastName": "McCoy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00036",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418649",
+        "articleTitle": "Secure Two-party Threshold ECDSA from ECDSA Assumptions",
+        "volume": null,
+        "issue": null,
+        "startPage": "980",
+        "endPage": "997",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Secure Two-party Threshold ECDSA from ECDSA Assumptions",
+        "authors": [
+            {
+                "id": 37085866388,
+                "preferredName": "Jack Doerner",
+                "firstName": "Jack",
+                "lastName": "Doerner"
+            },
+            {
+                "id": 37085556220,
+                "preferredName": "Yashvanth Kondi",
+                "firstName": "Yashvanth",
+                "lastName": "Kondi"
+            },
+            {
+                "id": 37086428573,
+                "preferredName": "Eysa Lee",
+                "firstName": "Eysa",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37402524300,
+                "preferredName": "Abhi Shelat",
+                "firstName": "Abhi",
+                "lastName": "Shelat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00016",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418629",
+        "articleTitle": "Learning from Mutants: Using Code Mutation to Learn and Monitor Invariants of a Cyber-Physical System",
+        "volume": null,
+        "issue": null,
+        "startPage": "648",
+        "endPage": "660",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Learning from Mutants: Using Code Mutation to Learn and Monitor Invariants of a Cyber-Physical System",
+        "authors": [
+            {
+                "id": 37086280069,
+                "preferredName": "Yuqi Chen",
+                "firstName": "Yuqi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086278409,
+                "preferredName": "Christopher M. Poskitt",
+                "firstName": "Christopher M.",
+                "lastName": "Poskitt"
+            },
+            {
+                "id": 37424029200,
+                "preferredName": "Jun Sun",
+                "firstName": "Jun",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00002",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418610",
+        "articleTitle": "Improved Reconstruction Attacks on Encrypted Data Using Range Query Leakage",
+        "volume": null,
+        "issue": null,
+        "startPage": "297",
+        "endPage": "314",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Improved Reconstruction Attacks on Encrypted Data Using Range Query Leakage",
+        "authors": [
+            {
+                "id": 37086424043,
+                "preferredName": "Marie-Sarah Lacharit\u00e9",
+                "firstName": "Marie-Sarah",
+                "lastName": "Lacharit\u00e9"
+            },
+            {
+                "id": 37086425544,
+                "preferredName": "Brice Minaud",
+                "firstName": "Brice",
+                "lastName": "Minaud"
+            },
+            {
+                "id": 37283910000,
+                "preferredName": "Kenneth G. Paterson",
+                "firstName": "Kenneth G.",
+                "lastName": "Paterson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00045",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418609",
+        "articleTitle": "Oblix: An Efficient Oblivious Search Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "279",
+        "endPage": "296",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Oblix: An Efficient Oblivious Search Index",
+        "authors": [
+            {
+                "id": 37086429251,
+                "preferredName": "Pratyush Mishra",
+                "firstName": "Pratyush",
+                "lastName": "Mishra"
+            },
+            {
+                "id": 37085576357,
+                "preferredName": "Rishabh Poddar",
+                "firstName": "Rishabh",
+                "lastName": "Poddar"
+            },
+            {
+                "id": 37086433292,
+                "preferredName": "Jerry Chen",
+                "firstName": "Jerry",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085408130,
+                "preferredName": "Alessandro Chiesa",
+                "firstName": "Alessandro",
+                "lastName": "Chiesa"
+            },
+            {
+                "id": 37070126700,
+                "preferredName": "Raluca Ada Popa",
+                "firstName": "Raluca Ada",
+                "lastName": "Popa"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00062",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418648",
+        "articleTitle": "PIR with Compressed Queries and Amortized Query Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "962",
+        "endPage": "979",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "PIR with Compressed Queries and Amortized Query Processing",
+        "authors": [
+            {
+                "id": 37086429807,
+                "preferredName": "Sebastian Angel",
+                "firstName": "Sebastian",
+                "lastName": "Angel"
+            },
+            {
+                "id": 37086433335,
+                "preferredName": "Hao Chen",
+                "firstName": "Hao",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086196175,
+                "preferredName": "Kim Laine",
+                "firstName": "Kim",
+                "lastName": "Laine"
+            },
+            {
+                "id": 37070381300,
+                "preferredName": "Srinath Setty",
+                "firstName": "Srinath",
+                "lastName": "Setty"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00012",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418651",
+        "articleTitle": "Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "1018",
+        "endPage": "1031",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Crowd-GPS-Sec: Leveraging Crowdsourcing to Detect and Localize GPS Spoofing Attacks",
+        "authors": [
+            {
+                "id": 37086422861,
+                "preferredName": "Kai Jansen",
+                "firstName": "Kai",
+                "lastName": "Jansen"
+            },
+            {
+                "id": 37085560150,
+                "preferredName": "Matthias Sch\u00e4fer",
+                "firstName": "Matthias",
+                "lastName": "Sch\u00e4fer"
+            },
+            {
+                "id": 37086420404,
+                "preferredName": "Daniel Moser",
+                "firstName": "Daniel",
+                "lastName": "Moser"
+            },
+            {
+                "id": 37295838200,
+                "preferredName": "Vincent Lenders",
+                "firstName": "Vincent",
+                "lastName": "Lenders"
+            },
+            {
+                "id": 37397191800,
+                "preferredName": "Christina P\u00f6pper",
+                "firstName": "Christina",
+                "lastName": "P\u00f6pper"
+            },
+            {
+                "id": 37089403516,
+                "preferredName": "Jens Schmitt",
+                "firstName": "Jens",
+                "lastName": "Schmitt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00041",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418641",
+        "articleTitle": "Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing Using Different Sensor Types",
+        "volume": null,
+        "issue": null,
+        "startPage": "836",
+        "endPage": "852",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Do You Feel What I Hear? Enabling Autonomous IoT Device Pairing Using Different Sensor Types",
+        "authors": [
+            {
+                "id": 37960077500,
+                "preferredName": "Jun Han",
+                "firstName": "Jun",
+                "lastName": "Han"
+            },
+            {
+                "id": 37086169857,
+                "preferredName": "Albert Jin Chung",
+                "firstName": "Albert Jin",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37086424846,
+                "preferredName": "Manal Kumar Sinha",
+                "firstName": "Manal Kumar",
+                "lastName": "Sinha"
+            },
+            {
+                "id": 37086423015,
+                "preferredName": "Madhumitha Harishankar",
+                "firstName": "Madhumitha",
+                "lastName": "Harishankar"
+            },
+            {
+                "id": 37086187240,
+                "preferredName": "Shijia Pan",
+                "firstName": "Shijia",
+                "lastName": "Pan"
+            },
+            {
+                "id": 37085996848,
+                "preferredName": "Hae Young Noh",
+                "firstName": "Hae Young",
+                "lastName": "Noh"
+            },
+            {
+                "id": 37533588700,
+                "preferredName": "Pei Zhang",
+                "firstName": "Pei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37547773500,
+                "preferredName": "Patrick Tague",
+                "firstName": "Patrick",
+                "lastName": "Tague"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00022",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418604",
+        "articleTitle": "Grand Pwning Unit: Accelerating Microarchitectural Attacks with the GPU",
+        "volume": null,
+        "issue": null,
+        "startPage": "195",
+        "endPage": "210",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Grand Pwning Unit: Accelerating Microarchitectural Attacks with the GPU",
+        "authors": [
+            {
+                "id": 37086427649,
+                "preferredName": "Pietro Frigo",
+                "firstName": "Pietro",
+                "lastName": "Frigo"
+            },
+            {
+                "id": 38252096900,
+                "preferredName": "Cristiano Giuffrida",
+                "firstName": "Cristiano",
+                "lastName": "Giuffrida"
+            },
+            {
+                "id": 37266914600,
+                "preferredName": "Herbert Bos",
+                "firstName": "Herbert",
+                "lastName": "Bos"
+            },
+            {
+                "id": 37074859300,
+                "preferredName": "Kaveh Razavi",
+                "firstName": "Kaveh",
+                "lastName": "Razavi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00003",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418614",
+        "articleTitle": "Hackers vs. Testers: A Comparison of Software Vulnerability Discovery Processes",
+        "volume": null,
+        "issue": null,
+        "startPage": "374",
+        "endPage": "391",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Hackers vs. Testers: A Comparison of Software Vulnerability Discovery Processes",
+        "authors": [
+            {
+                "id": 37086427920,
+                "preferredName": "Daniel Votipka",
+                "firstName": "Daniel",
+                "lastName": "Votipka"
+            },
+            {
+                "id": 37086426429,
+                "preferredName": "Rock Stevens",
+                "firstName": "Rock",
+                "lastName": "Stevens"
+            },
+            {
+                "id": 37085871621,
+                "preferredName": "Elissa Redmiles",
+                "firstName": "Elissa",
+                "lastName": "Redmiles"
+            },
+            {
+                "id": 37086427378,
+                "preferredName": "Jeremy Hu",
+                "firstName": "Jeremy",
+                "lastName": "Hu"
+            },
+            {
+                "id": 38252305900,
+                "preferredName": "Michelle Mazurek",
+                "firstName": "Michelle",
+                "lastName": "Mazurek"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00061",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418618",
+        "articleTitle": "The Spyware Used in Intimate Partner Violence",
+        "volume": null,
+        "issue": null,
+        "startPage": "441",
+        "endPage": "458",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "The Spyware Used in Intimate Partner Violence",
+        "authors": [
+            {
+                "id": 37085434648,
+                "preferredName": "Rahul Chatterjee",
+                "firstName": "Rahul",
+                "lastName": "Chatterjee"
+            },
+            {
+                "id": 37088830486,
+                "preferredName": "Periwinkle Doerfler",
+                "firstName": "Periwinkle",
+                "lastName": "Doerfler"
+            },
+            {
+                "id": 37088828864,
+                "preferredName": "Hadas Orgad",
+                "firstName": "Hadas",
+                "lastName": "Orgad"
+            },
+            {
+                "id": 37088829637,
+                "preferredName": "Sam Havron",
+                "firstName": "Sam",
+                "lastName": "Havron"
+            },
+            {
+                "id": 37088829548,
+                "preferredName": "Jackeline Palmer",
+                "firstName": "Jackeline",
+                "lastName": "Palmer"
+            },
+            {
+                "id": 37088829420,
+                "preferredName": "Diana Freed",
+                "firstName": "Diana",
+                "lastName": "Freed"
+            },
+            {
+                "id": 37088830323,
+                "preferredName": "Karen Levy",
+                "firstName": "Karen",
+                "lastName": "Levy"
+            },
+            {
+                "id": 37086426174,
+                "preferredName": "Nicola Dell",
+                "firstName": "Nicola",
+                "lastName": "Dell"
+            },
+            {
+                "id": 37409379600,
+                "preferredName": "Damon McCoy",
+                "firstName": "Damon",
+                "lastName": "McCoy"
+            },
+            {
+                "id": 38252329000,
+                "preferredName": "Thomas Ristenpart",
+                "firstName": "Thomas",
+                "lastName": "Ristenpart"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00051",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418615",
+        "articleTitle": "Towards Security and Privacy for Multi-user Augmented Reality: Foundations with End Users",
+        "volume": null,
+        "issue": null,
+        "startPage": "392",
+        "endPage": "408",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Towards Security and Privacy for Multi-user Augmented Reality: Foundations with End Users",
+        "authors": [
+            {
+                "id": 37085811714,
+                "preferredName": "Kiron Lebeck",
+                "firstName": "Kiron",
+                "lastName": "Lebeck"
+            },
+            {
+                "id": 37086181952,
+                "preferredName": "Kimberly Ruth",
+                "firstName": "Kimberly",
+                "lastName": "Ruth"
+            },
+            {
+                "id": 37273282400,
+                "preferredName": "Tadayoshi Kohno",
+                "firstName": "Tadayoshi",
+                "lastName": "Kohno"
+            },
+            {
+                "id": 37546680900,
+                "preferredName": "Franziska Roesner",
+                "firstName": "Franziska",
+                "lastName": "Roesner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00018",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418647",
+        "articleTitle": "xJsnark: A Framework for Efficient Verifiable Computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "944",
+        "endPage": "961",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "xJsnark: A Framework for Efficient Verifiable Computation",
+        "authors": [
+            {
+                "id": 38108502000,
+                "preferredName": "Ahmed Kosba",
+                "firstName": "Ahmed",
+                "lastName": "Kosba"
+            },
+            {
+                "id": 37085848597,
+                "preferredName": "Charalampos Papamanthou",
+                "firstName": "Charalampos",
+                "lastName": "Papamanthou"
+            },
+            {
+                "id": 37271533200,
+                "preferredName": "Elaine Shi",
+                "firstName": "Elaine",
+                "lastName": "Shi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00014",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418598",
+        "articleTitle": "Privacy Risks with Facebook's PII-Based Targeting: Auditing a Data Broker's Advertising Interface",
+        "volume": null,
+        "issue": null,
+        "startPage": "89",
+        "endPage": "107",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Privacy Risks with Facebook's PII-Based Targeting: Auditing a Data Broker's Advertising Interface",
+        "authors": [
+            {
+                "id": 37073073600,
+                "preferredName": "Giridhari Venkatadri",
+                "firstName": "Giridhari",
+                "lastName": "Venkatadri"
+            },
+            {
+                "id": 37086430398,
+                "preferredName": "Athanasios Andreou",
+                "firstName": "Athanasios",
+                "lastName": "Andreou"
+            },
+            {
+                "id": 37086423734,
+                "preferredName": "Yabing Liu",
+                "firstName": "Yabing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38233714000,
+                "preferredName": "Alan Mislove",
+                "firstName": "Alan",
+                "lastName": "Mislove"
+            },
+            {
+                "id": 37595852400,
+                "preferredName": "Krishna P. Gummadi",
+                "firstName": "Krishna P.",
+                "lastName": "Gummadi"
+            },
+            {
+                "id": 37396511000,
+                "preferredName": "Patrick Loiseau",
+                "firstName": "Patrick",
+                "lastName": "Loiseau"
+            },
+            {
+                "id": 37085949606,
+                "preferredName": "Oana Goga",
+                "firstName": "Oana",
+                "lastName": "Goga"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00004",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418650",
+        "articleTitle": "Speechless: Analyzing the Threat to Speech Privacy from Smartphone Motion Sensors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1000",
+        "endPage": "1017",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Speechless: Analyzing the Threat to Speech Privacy from Smartphone Motion Sensors",
+        "authors": [
+            {
+                "id": 37086427809,
+                "preferredName": "S Abhishek Anand",
+                "firstName": "S Abhishek",
+                "lastName": "Anand"
+            },
+            {
+                "id": 37267131200,
+                "preferredName": "Nitesh Saxena",
+                "firstName": "Nitesh",
+                "lastName": "Saxena"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00015",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418638",
+        "articleTitle": "Tracking Certificate Misissuance in the Wild",
+        "volume": null,
+        "issue": null,
+        "startPage": "785",
+        "endPage": "798",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Tracking Certificate Misissuance in the Wild",
+        "authors": [
+            {
+                "id": 37086432994,
+                "preferredName": "Deepak Kumar",
+                "firstName": "Deepak",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37088733736,
+                "preferredName": "Zhengping Wang",
+                "firstName": "Zhengping",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088740910,
+                "preferredName": "Matthew Hyder",
+                "firstName": "Matthew",
+                "lastName": "Hyder"
+            },
+            {
+                "id": 37088741206,
+                "preferredName": "Joseph Dickinson",
+                "firstName": "Joseph",
+                "lastName": "Dickinson"
+            },
+            {
+                "id": 37088726247,
+                "preferredName": "Gabrielle Beck",
+                "firstName": "Gabrielle",
+                "lastName": "Beck"
+            },
+            {
+                "id": 37088744650,
+                "preferredName": "David Adrian",
+                "firstName": "David",
+                "lastName": "Adrian"
+            },
+            {
+                "id": 37086071861,
+                "preferredName": "Joshua Mason",
+                "firstName": "Joshua",
+                "lastName": "Mason"
+            },
+            {
+                "id": 37085826377,
+                "preferredName": "Zakir Durumeric",
+                "firstName": "Zakir",
+                "lastName": "Durumeric"
+            },
+            {
+                "id": 37399742500,
+                "preferredName": "J. Alex Halderman",
+                "firstName": "J. Alex",
+                "lastName": "Halderman"
+            },
+            {
+                "id": 37578747300,
+                "preferredName": "Michael Bailey",
+                "firstName": "Michael",
+                "lastName": "Bailey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00029",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418619",
+        "articleTitle": "Compiler-Assisted Code Randomization",
+        "volume": null,
+        "issue": null,
+        "startPage": "461",
+        "endPage": "477",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Compiler-Assisted Code Randomization",
+        "authors": [
+            {
+                "id": 37085867965,
+                "preferredName": "Hyungjoon Koo",
+                "firstName": "Hyungjoon",
+                "lastName": "Koo"
+            },
+            {
+                "id": 37085871015,
+                "preferredName": "Yaohui Chen",
+                "firstName": "Yaohui",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086432595,
+                "preferredName": "Long Lu",
+                "firstName": "Long",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37086086390,
+                "preferredName": "Vasileios P. Kemerlis",
+                "firstName": "Vasileios P.",
+                "lastName": "Kemerlis"
+            },
+            {
+                "id": 37266918600,
+                "preferredName": "Michalis Polychronakis",
+                "firstName": "Michalis",
+                "lastName": "Polychronakis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00008",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418634",
+        "articleTitle": "FP-STALKER: Tracking Browser Fingerprint Evolutions",
+        "volume": null,
+        "issue": null,
+        "startPage": "728",
+        "endPage": "741",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "FP-STALKER: Tracking Browser Fingerprint Evolutions",
+        "authors": [
+            {
+                "id": 37086421916,
+                "preferredName": "Antoine Vastel",
+                "firstName": "Antoine",
+                "lastName": "Vastel"
+            },
+            {
+                "id": 37085530309,
+                "preferredName": "Pierre Laperdrix",
+                "firstName": "Pierre",
+                "lastName": "Laperdrix"
+            },
+            {
+                "id": 37395390200,
+                "preferredName": "Walter Rudametkin",
+                "firstName": "Walter",
+                "lastName": "Rudametkin"
+            },
+            {
+                "id": 37704218600,
+                "preferredName": "Romain Rouvoy",
+                "firstName": "Romain",
+                "lastName": "Rouvoy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00009",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418642",
+        "articleTitle": "On the Economics of Offline Password Cracking",
+        "volume": null,
+        "issue": null,
+        "startPage": "853",
+        "endPage": "871",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "On the Economics of Offline Password Cracking",
+        "authors": [
+            {
+                "id": 37947782900,
+                "preferredName": "Jeremiah Blocki",
+                "firstName": "Jeremiah",
+                "lastName": "Blocki"
+            },
+            {
+                "id": 37086420588,
+                "preferredName": "Benjamin Harsha",
+                "firstName": "Benjamin",
+                "lastName": "Harsha"
+            },
+            {
+                "id": 37085995887,
+                "preferredName": "Samson Zhou",
+                "firstName": "Samson",
+                "lastName": "Zhou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00033",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418623",
+        "articleTitle": "DEEPSEC: Deciding Equivalence Properties in Security Protocols Theory and Practice",
+        "volume": null,
+        "issue": null,
+        "startPage": "529",
+        "endPage": "546",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "DEEPSEC: Deciding Equivalence Properties in Security Protocols Theory and Practice",
+        "authors": [
+            {
+                "id": 37086179757,
+                "preferredName": "Vincent Cheval",
+                "firstName": "Vincent",
+                "lastName": "Cheval"
+            },
+            {
+                "id": 37272644300,
+                "preferredName": "Steve Kremer",
+                "firstName": "Steve",
+                "lastName": "Kremer"
+            },
+            {
+                "id": 37086430939,
+                "preferredName": "Itsaka Rakotonirina",
+                "firstName": "Itsaka",
+                "lastName": "Rakotonirina"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00032",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418626",
+        "articleTitle": "Routing Around Congestion: Defeating DDoS Attacks and Adverse Network Conditions via Reactive BGP Routing",
+        "volume": null,
+        "issue": null,
+        "startPage": "599",
+        "endPage": "617",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Routing Around Congestion: Defeating DDoS Attacks and Adverse Network Conditions via Reactive BGP Routing",
+        "authors": [
+            {
+                "id": 37085869210,
+                "preferredName": "Jared M Smith",
+                "firstName": "Jared M",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37086147642,
+                "preferredName": "Max Schuchard",
+                "firstName": "Max",
+                "lastName": "Schuchard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00011",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418599",
+        "articleTitle": "Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency - Choose Two",
+        "volume": null,
+        "issue": null,
+        "startPage": "108",
+        "endPage": "126",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Anonymity Trilemma: Strong Anonymity, Low Bandwidth Overhead, Low Latency - Choose Two",
+        "authors": [
+            {
+                "id": 37086424571,
+                "preferredName": "Debajyoti Das",
+                "firstName": "Debajyoti",
+                "lastName": "Das"
+            },
+            {
+                "id": 37887974300,
+                "preferredName": "Sebastian Meiser",
+                "firstName": "Sebastian",
+                "lastName": "Meiser"
+            },
+            {
+                "id": 38468019900,
+                "preferredName": "Esfandiar Mohammadi",
+                "firstName": "Esfandiar",
+                "lastName": "Mohammadi"
+            },
+            {
+                "id": 37546342800,
+                "preferredName": "Aniket Kate",
+                "firstName": "Aniket",
+                "lastName": "Kate"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00067",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418643",
+        "articleTitle": "A Tale of Two Studies: The Best and Worst of YubiKey Usability",
+        "volume": null,
+        "issue": null,
+        "startPage": "872",
+        "endPage": "888",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "A Tale of Two Studies: The Best and Worst of YubiKey Usability",
+        "authors": [
+            {
+                "id": 37086427626,
+                "preferredName": "Joshua Reynolds",
+                "firstName": "Joshua",
+                "lastName": "Reynolds"
+            },
+            {
+                "id": 37088226548,
+                "preferredName": "Trevor Smith",
+                "firstName": "Trevor",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37086431911,
+                "preferredName": "Ken Reese",
+                "firstName": "Ken",
+                "lastName": "Reese"
+            },
+            {
+                "id": 37086423677,
+                "preferredName": "Luke Dickinson",
+                "firstName": "Luke",
+                "lastName": "Dickinson"
+            },
+            {
+                "id": 37086034176,
+                "preferredName": "Scott Ruoti",
+                "firstName": "Scott",
+                "lastName": "Ruoti"
+            },
+            {
+                "id": 37267826700,
+                "preferredName": "Kent Seamons",
+                "firstName": "Kent",
+                "lastName": "Seamons"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00017",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418630",
+        "articleTitle": "Precise and Scalable Detection of Double-Fetch Bugs in OS Kernels",
+        "volume": null,
+        "issue": null,
+        "startPage": "661",
+        "endPage": "678",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Precise and Scalable Detection of Double-Fetch Bugs in OS Kernels",
+        "authors": [
+            {
+                "id": 37086430388,
+                "preferredName": "Meng Xu",
+                "firstName": "Meng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37085539160,
+                "preferredName": "Chenxiong Qian",
+                "firstName": "Chenxiong",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37086433073,
+                "preferredName": "Kangjie Lu",
+                "firstName": "Kangjie",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37276018400,
+                "preferredName": "Michael Backes",
+                "firstName": "Michael",
+                "lastName": "Backes"
+            },
+            {
+                "id": 37085456772,
+                "preferredName": "Taesoo Kim",
+                "firstName": "Taesoo",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00034",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418596",
+        "articleTitle": "A Machine Learning Approach to Prevent Malicious Calls over Telephony Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "53",
+        "endPage": "69",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "A Machine Learning Approach to Prevent Malicious Calls over Telephony Networks",
+        "authors": [
+            {
+                "id": 37089069854,
+                "preferredName": "Huichen Li",
+                "firstName": "Huichen",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089100851,
+                "preferredName": "Xiaojun Xu",
+                "firstName": "Xiaojun",
+                "lastName": "Xu"
+            },
+            {
+                "id": 38469590800,
+                "preferredName": "Chang Liu",
+                "firstName": "Chang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086428980,
+                "preferredName": "Teng Ren",
+                "firstName": "Teng",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37086430799,
+                "preferredName": "Kun Wu",
+                "firstName": "Kun",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37085729499,
+                "preferredName": "Xuezhi Cao",
+                "firstName": "Xuezhi",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37086030166,
+                "preferredName": "Weinan Zhang",
+                "firstName": "Weinan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089896019,
+                "preferredName": "Yong Yu",
+                "firstName": "Yong",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37275586500,
+                "preferredName": "Dawn Song",
+                "firstName": "Dawn",
+                "lastName": "Song"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00024",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418603",
+        "articleTitle": "Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races",
+        "volume": null,
+        "issue": null,
+        "startPage": "178",
+        "endPage": "194",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Racing in Hyperspace: Closing Hyper-Threading Side Channels on SGX with Contrived Data Races",
+        "authors": [
+            {
+                "id": 37086431024,
+                "preferredName": "Guoxing Chen",
+                "firstName": "Guoxing",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086429982,
+                "preferredName": "Wenhao Wang",
+                "firstName": "Wenhao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086432544,
+                "preferredName": "Tianyu Chen",
+                "firstName": "Tianyu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086423681,
+                "preferredName": "Sanchuan Chen",
+                "firstName": "Sanchuan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086429910,
+                "preferredName": "Yinqian Zhang",
+                "firstName": "Yinqian",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37293614000,
+                "preferredName": "XiaoFeng Wang",
+                "firstName": "XiaoFeng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37290420600,
+                "preferredName": "Ten-Hwang Lai",
+                "firstName": "Ten-Hwang",
+                "lastName": "Lai"
+            },
+            {
+                "id": 37287664200,
+                "preferredName": "Dongdai Lin",
+                "firstName": "Dongdai",
+                "lastName": "Lin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00044",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418597",
+        "articleTitle": "Surveylance: Automatically Detecting Online Survey Scams",
+        "volume": null,
+        "issue": null,
+        "startPage": "70",
+        "endPage": "86",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Surveylance: Automatically Detecting Online Survey Scams",
+        "authors": [
+            {
+                "id": 37085442898,
+                "preferredName": "Amin Kharraz",
+                "firstName": "Amin",
+                "lastName": "Kharraz"
+            },
+            {
+                "id": 37269456900,
+                "preferredName": "William Robertson",
+                "firstName": "William",
+                "lastName": "Robertson"
+            },
+            {
+                "id": 37298605700,
+                "preferredName": "Engin Kirda",
+                "firstName": "Engin",
+                "lastName": "Kirda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00013",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418645",
+        "articleTitle": "vRAM: Faster Verifiable RAM with Program-Independent Preprocessing",
+        "volume": null,
+        "issue": null,
+        "startPage": "908",
+        "endPage": "925",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "vRAM: Faster Verifiable RAM with Program-Independent Preprocessing",
+        "authors": [
+            {
+                "id": 37086041937,
+                "preferredName": "Yupeng Zhang",
+                "firstName": "Yupeng",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086044672,
+                "preferredName": "Daniel Genkin",
+                "firstName": "Daniel",
+                "lastName": "Genkin"
+            },
+            {
+                "id": 37948738700,
+                "preferredName": "Jonathan Katz",
+                "firstName": "Jonathan",
+                "lastName": "Katz"
+            },
+            {
+                "id": 37086425301,
+                "preferredName": "Dimitrios Papadopoulos",
+                "firstName": "Dimitrios",
+                "lastName": "Papadopoulos"
+            },
+            {
+                "id": 37085848597,
+                "preferredName": "Charalampos Papamanthou",
+                "firstName": "Charalampos",
+                "lastName": "Papamanthou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00026",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418605",
+        "articleTitle": "SoK: Keylogging Side Channels",
+        "volume": null,
+        "issue": null,
+        "startPage": "211",
+        "endPage": "228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "SoK: Keylogging Side Channels",
+        "authors": [
+            {
+                "id": 38072314900,
+                "preferredName": "John V. Monaco",
+                "firstName": "John V.",
+                "lastName": "Monaco"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00027",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418637",
+        "articleTitle": "Enumerating Active IPv6 Hosts for Large-Scale Security Scans via DNSSEC-Signed Reverse Zones",
+        "volume": null,
+        "issue": null,
+        "startPage": "770",
+        "endPage": "784",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Enumerating Active IPv6 Hosts for Large-Scale Security Scans via DNSSEC-Signed Reverse Zones",
+        "authors": [
+            {
+                "id": 37085433215,
+                "preferredName": "Kevin Borgolte",
+                "firstName": "Kevin",
+                "lastName": "Borgolte"
+            },
+            {
+                "id": 37086424237,
+                "preferredName": "Shuang Hao",
+                "firstName": "Shuang",
+                "lastName": "Hao"
+            },
+            {
+                "id": 37086423877,
+                "preferredName": "Tobias Fiebig",
+                "firstName": "Tobias",
+                "lastName": "Fiebig"
+            },
+            {
+                "id": 37284021300,
+                "preferredName": "Giovanni Vigna",
+                "firstName": "Giovanni",
+                "lastName": "Vigna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00005",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418628",
+        "articleTitle": "The Rise of the Citizen Developer: Assessing the Security Impact of Online App Generators",
+        "volume": null,
+        "issue": null,
+        "startPage": "634",
+        "endPage": "647",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "The Rise of the Citizen Developer: Assessing the Security Impact of Online App Generators",
+        "authors": [
+            {
+                "id": 37086428214,
+                "preferredName": "Marten Oltrogge",
+                "firstName": "Marten",
+                "lastName": "Oltrogge"
+            },
+            {
+                "id": 37086426795,
+                "preferredName": "Erik Derr",
+                "firstName": "Erik",
+                "lastName": "Derr"
+            },
+            {
+                "id": 37085865936,
+                "preferredName": "Christian Stransky",
+                "firstName": "Christian",
+                "lastName": "Stransky"
+            },
+            {
+                "id": 37085843351,
+                "preferredName": "Yasemin Acar",
+                "firstName": "Yasemin",
+                "lastName": "Acar"
+            },
+            {
+                "id": 37846351100,
+                "preferredName": "Sascha Fahl",
+                "firstName": "Sascha",
+                "lastName": "Fahl"
+            },
+            {
+                "id": 38251647700,
+                "preferredName": "Christian Rossow",
+                "firstName": "Christian",
+                "lastName": "Rossow"
+            },
+            {
+                "id": 37086421979,
+                "preferredName": "Giancarlo Pellegrino",
+                "firstName": "Giancarlo",
+                "lastName": "Pellegrino"
+            },
+            {
+                "id": 37085835586,
+                "preferredName": "Sven Bugiel",
+                "firstName": "Sven",
+                "lastName": "Bugiel"
+            },
+            {
+                "id": 37276018400,
+                "preferredName": "Michael Backes",
+                "firstName": "Michael",
+                "lastName": "Backes"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00010",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418601",
+        "articleTitle": "EyeTell: Video-Assisted Touchscreen Keystroke Inference from Eye Movements",
+        "volume": null,
+        "issue": null,
+        "startPage": "144",
+        "endPage": "160",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "EyeTell: Video-Assisted Touchscreen Keystroke Inference from Eye Movements",
+        "authors": [
+            {
+                "id": 37085715009,
+                "preferredName": "Yimin Chen",
+                "firstName": "Yimin",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086090939,
+                "preferredName": "Tao Li",
+                "firstName": "Tao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37307313600,
+                "preferredName": "Rui Zhang",
+                "firstName": "Rui",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37279953200,
+                "preferredName": "Yanchao Zhang",
+                "firstName": "Yanchao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086430619,
+                "preferredName": "Terri Hedgpeth",
+                "firstName": "Terri",
+                "lastName": "Hedgpeth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00037",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418652",
+        "articleTitle": "SoK: \"Plug & Pray\" Today \u2013 Understanding USB Insecurity in Versions 1 Through C",
+        "volume": null,
+        "issue": null,
+        "startPage": "1032",
+        "endPage": "1047",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "SoK: \"Plug & Pray\" Today \u2013 Understanding USB Insecurity in Versions 1 Through C",
+        "authors": [
+            {
+                "id": 37087141682,
+                "preferredName": "Jing Tian",
+                "firstName": "Jing",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37085680361,
+                "preferredName": "Nolen Scaife",
+                "firstName": "Nolen",
+                "lastName": "Scaife"
+            },
+            {
+                "id": 37086432994,
+                "preferredName": "Deepak Kumar",
+                "firstName": "Deepak",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37578747300,
+                "preferredName": "Michael Bailey",
+                "firstName": "Michael",
+                "lastName": "Bailey"
+            },
+            {
+                "id": 38559612400,
+                "preferredName": "Adam Bates",
+                "firstName": "Adam",
+                "lastName": "Bates"
+            },
+            {
+                "id": 37298235800,
+                "preferredName": "Kevin Butler",
+                "firstName": "Kevin",
+                "lastName": "Butler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00023",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418616",
+        "articleTitle": "Computer Security and Privacy for Refugees in the United States",
+        "volume": null,
+        "issue": null,
+        "startPage": "409",
+        "endPage": "423",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Computer Security and Privacy for Refugees in the United States",
+        "authors": [
+            {
+                "id": 38076895600,
+                "preferredName": "Lucy Simko",
+                "firstName": "Lucy",
+                "lastName": "Simko"
+            },
+            {
+                "id": 37086044959,
+                "preferredName": "Ada Lerner",
+                "firstName": "Ada",
+                "lastName": "Lerner"
+            },
+            {
+                "id": 37086425796,
+                "preferredName": "Samia Ibtasam",
+                "firstName": "Samia",
+                "lastName": "Ibtasam"
+            },
+            {
+                "id": 37546680900,
+                "preferredName": "Franziska Roesner",
+                "firstName": "Franziska",
+                "lastName": "Roesner"
+            },
+            {
+                "id": 37273282400,
+                "preferredName": "Tadayoshi Kohno",
+                "firstName": "Tadayoshi",
+                "lastName": "Kohno"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00039",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418636",
+        "articleTitle": "Mobile Application Web API Reconnaissance: Web-to-Mobile Inconsistencies & Vulnerabilities",
+        "volume": null,
+        "issue": null,
+        "startPage": "756",
+        "endPage": "769",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Mobile Application Web API Reconnaissance: Web-to-Mobile Inconsistencies & Vulnerabilities",
+        "authors": [
+            {
+                "id": 37085746482,
+                "preferredName": "Abner Mendoza",
+                "firstName": "Abner",
+                "lastName": "Mendoza"
+            },
+            {
+                "id": 37278628300,
+                "preferredName": "Guofei Gu",
+                "firstName": "Guofei",
+                "lastName": "Gu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00028",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418612",
+        "articleTitle": "FuturesMEX: Secure, Distributed Futures Market Exchange",
+        "volume": null,
+        "issue": null,
+        "startPage": "335",
+        "endPage": "353",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "FuturesMEX: Secure, Distributed Futures Market Exchange",
+        "authors": [
+            {
+                "id": 37297076100,
+                "preferredName": "Fabio Massacci",
+                "firstName": "Fabio",
+                "lastName": "Massacci"
+            },
+            {
+                "id": 37087860763,
+                "preferredName": "Chan Nam Ngo",
+                "firstName": "Chan Nam",
+                "lastName": "Ngo"
+            },
+            {
+                "id": 37086432918,
+                "preferredName": "Jing Nie",
+                "firstName": "Jing",
+                "lastName": "Nie"
+            },
+            {
+                "id": 37992954700,
+                "preferredName": "Daniele Venturi",
+                "firstName": "Daniele",
+                "lastName": "Venturi"
+            },
+            {
+                "id": 37085614744,
+                "preferredName": "Julian Williams",
+                "firstName": "Julian",
+                "lastName": "Williams"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00050",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418653",
+        "articleTitle": "Blue Note: How Intentional Acoustic Interference Damages Availability and Integrity in Hard Disk Drives and Operating Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1048",
+        "endPage": "1062",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Blue Note: How Intentional Acoustic Interference Damages Availability and Integrity in Hard Disk Drives and Operating Systems",
+        "authors": [
+            {
+                "id": 37085884725,
+                "preferredName": "Connor Bolton",
+                "firstName": "Connor",
+                "lastName": "Bolton"
+            },
+            {
+                "id": 37076399700,
+                "preferredName": "Sara Rampazzi",
+                "firstName": "Sara",
+                "lastName": "Rampazzi"
+            },
+            {
+                "id": 37089312068,
+                "preferredName": "Chaohao Li",
+                "firstName": "Chaohao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088452227,
+                "preferredName": "Andrew Kwong",
+                "firstName": "Andrew",
+                "lastName": "Kwong"
+            },
+            {
+                "id": 37085888430,
+                "preferredName": "Wenyuan Xu",
+                "firstName": "Wenyuan",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37070364500,
+                "preferredName": "Kevin Fu",
+                "firstName": "Kevin",
+                "lastName": "Fu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00066",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418620",
+        "articleTitle": "Protecting the Stack with Metadata Policies and Tagged Hardware",
+        "volume": null,
+        "issue": null,
+        "startPage": "478",
+        "endPage": "495",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Protecting the Stack with Metadata Policies and Tagged Hardware",
+        "authors": [
+            {
+                "id": 37086427392,
+                "preferredName": "Nick Roessler",
+                "firstName": "Nick",
+                "lastName": "Roessler"
+            },
+            {
+                "id": 37265549500,
+                "preferredName": "Andr\u00e9 DeHon",
+                "firstName": "Andr\u00e9",
+                "lastName": "DeHon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00021",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418639",
+        "articleTitle": "A Formal Treatment of Accountable Proxying Over TLS",
+        "volume": null,
+        "issue": null,
+        "startPage": "799",
+        "endPage": "816",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "A Formal Treatment of Accountable Proxying Over TLS",
+        "authors": [
+            {
+                "id": 37889123700,
+                "preferredName": "Karthikeyan Bhargavan",
+                "firstName": "Karthikeyan",
+                "lastName": "Bhargavan"
+            },
+            {
+                "id": 37085422977,
+                "preferredName": "Ioana Boureanu",
+                "firstName": "Ioana",
+                "lastName": "Boureanu"
+            },
+            {
+                "id": 37085428022,
+                "preferredName": "Antoine Delignat-Lavaud",
+                "firstName": "Antoine",
+                "lastName": "Delignat-Lavaud"
+            },
+            {
+                "id": 37399335200,
+                "preferredName": "Pierre-Alain Fouque",
+                "firstName": "Pierre-Alain",
+                "lastName": "Fouque"
+            },
+            {
+                "id": 37086132929,
+                "preferredName": "Cristina Onete",
+                "firstName": "Cristina",
+                "lastName": "Onete"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00053",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418644",
+        "articleTitle": "When Your Fitness Tracker Betrays You: Quantifying the Predictability of Biometric Features Across Contexts",
+        "volume": null,
+        "issue": null,
+        "startPage": "889",
+        "endPage": "905",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "When Your Fitness Tracker Betrays You: Quantifying the Predictability of Biometric Features Across Contexts",
+        "authors": [
+            {
+                "id": 37086423326,
+                "preferredName": "Simon Eberz",
+                "firstName": "Simon",
+                "lastName": "Eberz"
+            },
+            {
+                "id": 37085696954,
+                "preferredName": "Giulio Lovisotto",
+                "firstName": "Giulio",
+                "lastName": "Lovisotto"
+            },
+            {
+                "id": 37085719359,
+                "preferredName": "Andrea Patan\u00e8",
+                "firstName": "Andrea",
+                "lastName": "Patan\u00e8"
+            },
+            {
+                "id": 37271265100,
+                "preferredName": "Marta Kwiatkowska",
+                "firstName": "Marta",
+                "lastName": "Kwiatkowska"
+            },
+            {
+                "id": 37295838200,
+                "preferredName": "Vincent Lenders",
+                "firstName": "Vincent",
+                "lastName": "Lenders"
+            },
+            {
+                "id": 37267174400,
+                "preferredName": "Ivan Martinovic",
+                "firstName": "Ivan",
+                "lastName": "Martinovic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00043",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418635",
+        "articleTitle": "Study and Mitigation of Origin Stripping Vulnerabilities in Hybrid-postMessage Enabled Mobile Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "742",
+        "endPage": "755",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Study and Mitigation of Origin Stripping Vulnerabilities in Hybrid-postMessage Enabled Mobile Applications",
+        "authors": [
+            {
+                "id": 37086423313,
+                "preferredName": "Guangliang Yang",
+                "firstName": "Guangliang",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37085536205,
+                "preferredName": "Jeff Huang",
+                "firstName": "Jeff",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37278628300,
+                "preferredName": "Guofei Gu",
+                "firstName": "Guofei",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37085746482,
+                "preferredName": "Abner Mendoza",
+                "firstName": "Abner",
+                "lastName": "Mendoza"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00007",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418613",
+        "articleTitle": "Implementing Conjunction Obfuscation Under Entropic Ring LWE",
+        "volume": null,
+        "issue": null,
+        "startPage": "354",
+        "endPage": "371",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Implementing Conjunction Obfuscation Under Entropic Ring LWE",
+        "authors": [
+            {
+                "id": 37268697300,
+                "preferredName": "David Bruce Cousins",
+                "firstName": "David Bruce",
+                "lastName": "Cousins"
+            },
+            {
+                "id": 37282008700,
+                "preferredName": "Giovanni Di Crescenzo",
+                "firstName": "Giovanni",
+                "lastName": "Di Crescenzo"
+            },
+            {
+                "id": 37086426301,
+                "preferredName": "Kamil Doruk G\u00fcr",
+                "firstName": "Kamil Doruk",
+                "lastName": "G\u00fcr"
+            },
+            {
+                "id": 37086428376,
+                "preferredName": "Kevin King",
+                "firstName": "Kevin",
+                "lastName": "King"
+            },
+            {
+                "id": 37085777124,
+                "preferredName": "Yuriy Polyakov",
+                "firstName": "Yuriy",
+                "lastName": "Polyakov"
+            },
+            {
+                "id": 37418600800,
+                "preferredName": "Kurt Rohloff",
+                "firstName": "Kurt",
+                "lastName": "Rohloff"
+            },
+            {
+                "id": 37085870232,
+                "preferredName": "Gerard W. Ryan",
+                "firstName": "Gerard W.",
+                "lastName": "Ryan"
+            },
+            {
+                "id": 37424410100,
+                "preferredName": "Erkay Savas",
+                "firstName": "Erkay",
+                "lastName": "Savas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00019",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418617",
+        "articleTitle": "On Enforcing the Digital Immunity of a Large Humanitarian Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "424",
+        "endPage": "440",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "On Enforcing the Digital Immunity of a Large Humanitarian Organization",
+        "authors": [
+            {
+                "id": 37086015224,
+                "preferredName": "Stevens Le Blond",
+                "firstName": "Stevens",
+                "lastName": "Le Blond"
+            },
+            {
+                "id": 37088147077,
+                "preferredName": "Alejandro Cuevas",
+                "firstName": "Alejandro",
+                "lastName": "Cuevas"
+            },
+            {
+                "id": 38270514200,
+                "preferredName": "Juan Ram\u00f3n Troncoso-Pastoriza",
+                "firstName": "Juan Ram\u00f3n",
+                "lastName": "Troncoso-Pastoriza"
+            },
+            {
+                "id": 37085464277,
+                "preferredName": "Philipp Jovanovic",
+                "firstName": "Philipp",
+                "lastName": "Jovanovic"
+            },
+            {
+                "id": 37085357223,
+                "preferredName": "Bryan Ford",
+                "firstName": "Bryan",
+                "lastName": "Ford"
+            },
+            {
+                "id": 37273270200,
+                "preferredName": "Jean-Pierre Hubaux",
+                "firstName": "Jean-Pierre",
+                "lastName": "Hubaux"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00006",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418624",
+        "articleTitle": "Sonar: Detecting SS7 Redirection Attacks with Audio-Based Distance Bounding",
+        "volume": null,
+        "issue": null,
+        "startPage": "567",
+        "endPage": "582",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Sonar: Detecting SS7 Redirection Attacks with Audio-Based Distance Bounding",
+        "authors": [
+            {
+                "id": 37086426411,
+                "preferredName": "Christian Peeters",
+                "firstName": "Christian",
+                "lastName": "Peeters"
+            },
+            {
+                "id": 37086428221,
+                "preferredName": "Hadi Abdullah",
+                "firstName": "Hadi",
+                "lastName": "Abdullah"
+            },
+            {
+                "id": 37085680361,
+                "preferredName": "Nolen Scaife",
+                "firstName": "Nolen",
+                "lastName": "Scaife"
+            },
+            {
+                "id": 37086125622,
+                "preferredName": "Jasmine Bowers",
+                "firstName": "Jasmine",
+                "lastName": "Bowers"
+            },
+            {
+                "id": 37298239800,
+                "preferredName": "Patrick Traynor",
+                "firstName": "Patrick",
+                "lastName": "Traynor"
+            },
+            {
+                "id": 37665530200,
+                "preferredName": "Bradley Reaves",
+                "firstName": "Bradley",
+                "lastName": "Reaves"
+            },
+            {
+                "id": 37298235800,
+                "preferredName": "Kevin Butler",
+                "firstName": "Kevin",
+                "lastName": "Butler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00055",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418640",
+        "articleTitle": "Secure Device Bootstrapping Without Secrets Resistant to Signal Manipulation Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "819",
+        "endPage": "835",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Secure Device Bootstrapping Without Secrets Resistant to Signal Manipulation Attacks",
+        "authors": [
+            {
+                "id": 37085641415,
+                "preferredName": "Nirnimesh Ghose",
+                "firstName": "Nirnimesh",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 37266503000,
+                "preferredName": "Loukas Lazos",
+                "firstName": "Loukas",
+                "lastName": "Lazos"
+            },
+            {
+                "id": 37085783067,
+                "preferredName": "Ming Li",
+                "firstName": "Ming",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00052",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418622",
+        "articleTitle": "Static Evaluation of Noninterference Using Approximate Model Counting",
+        "volume": null,
+        "issue": null,
+        "startPage": "514",
+        "endPage": "528",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Static Evaluation of Noninterference Using Approximate Model Counting",
+        "authors": [
+            {
+                "id": 37085482525,
+                "preferredName": "Ziqiao Zhou",
+                "firstName": "Ziqiao",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37086058043,
+                "preferredName": "Zhiyun Qian",
+                "firstName": "Zhiyun",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37275478600,
+                "preferredName": "Michael K. Reiter",
+                "firstName": "Michael K.",
+                "lastName": "Reiter"
+            },
+            {
+                "id": 37086429910,
+                "preferredName": "Yinqian Zhang",
+                "firstName": "Yinqian",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00042",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418654",
+        "articleTitle": "The Cards Aren't Alright: Detecting Counterfeit Gift Cards Using Encoding Jitter",
+        "volume": null,
+        "issue": null,
+        "startPage": "1063",
+        "endPage": "1076",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "The Cards Aren't Alright: Detecting Counterfeit Gift Cards Using Encoding Jitter",
+        "authors": [
+            {
+                "id": 37085680361,
+                "preferredName": "Nolen Scaife",
+                "firstName": "Nolen",
+                "lastName": "Scaife"
+            },
+            {
+                "id": 37086426411,
+                "preferredName": "Christian Peeters",
+                "firstName": "Christian",
+                "lastName": "Peeters"
+            },
+            {
+                "id": 37085494121,
+                "preferredName": "Camilo Velez",
+                "firstName": "Camilo",
+                "lastName": "Velez"
+            },
+            {
+                "id": 37086428467,
+                "preferredName": "Hanqing Zhao",
+                "firstName": "Hanqing",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37298239800,
+                "preferredName": "Patrick Traynor",
+                "firstName": "Patrick",
+                "lastName": "Traynor"
+            },
+            {
+                "id": 37275986700,
+                "preferredName": "David Arnold",
+                "firstName": "David",
+                "lastName": "Arnold"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00048",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418621",
+        "articleTitle": "Impossibility of Precise and Sound Termination-Sensitive Security Enforcements",
+        "volume": null,
+        "issue": null,
+        "startPage": "496",
+        "endPage": "513",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Impossibility of Precise and Sound Termination-Sensitive Security Enforcements",
+        "authors": [
+            {
+                "id": 37086427117,
+                "preferredName": "Minh Ngo",
+                "firstName": "Minh",
+                "lastName": "Ngo"
+            },
+            {
+                "id": 37317991400,
+                "preferredName": "Frank Piessens",
+                "firstName": "Frank",
+                "lastName": "Piessens"
+            },
+            {
+                "id": 37282330100,
+                "preferredName": "Tamara Rezk",
+                "firstName": "Tamara",
+                "lastName": "Rezk"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00074",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418656",
+        "articleTitle": "[Publisher's information]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1082",
+        "endPage": "1082",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "[Publisher's information]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00068",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418590",
+        "articleTitle": "Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00069",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418591",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00065",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418589",
+        "articleTitle": "Message from the Program Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Message from the Program Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00064",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418588",
+        "articleTitle": "Message from the General Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Message from the General Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00001",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418584",
+        "articleTitle": "Distance-Bounding Protocols: Verification Without Time and Location",
+        "volume": null,
+        "issue": null,
+        "startPage": "549",
+        "endPage": "566",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Distance-Bounding Protocols: Verification Without Time and Location",
+        "authors": [
+            {
+                "id": 37321972400,
+                "preferredName": "Sjouke Mauw",
+                "firstName": "Sjouke",
+                "lastName": "Mauw"
+            },
+            {
+                "id": 37089546888,
+                "preferredName": "Zach Smith",
+                "firstName": "Zach",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37085810058,
+                "preferredName": "Jorge Toro-Pozo",
+                "firstName": "Jorge",
+                "lastName": "Toro-Pozo"
+            },
+            {
+                "id": 38295357300,
+                "preferredName": "Rolando Trujillo-Rasua",
+                "firstName": "Rolando",
+                "lastName": "Trujillo-Rasua"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00030",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418585",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00059",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418586",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00063",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418587",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00073",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418655",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1077",
+        "endPage": "1080",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8418581",
+        "doi": "10.1109/SP.2018.00070",
+        "publicationYear": "2018",
+        "publicationDate": "20-24 May 2018",
+        "articleNumber": "8418592",
+        "articleTitle": "External Reviewers",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "23",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE Symposium on Security and Privacy (SP)",
+        "highlightedTitle": "External Reviewers",
+        "authors": []
+    }
+]

@@ -1,0 +1,1812 @@
+[
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00042",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106316",
+        "articleTitle": "IRIS-BLAS: Towards a Performance Portable and Heterogeneous BLAS Library",
+        "volume": null,
+        "issue": null,
+        "startPage": "256",
+        "endPage": "261",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "IRIS-BLAS: Towards a Performance Portable and Heterogeneous BLAS Library",
+        "authors": [
+            {
+                "id": 37086525193,
+                "preferredName": "Narasinga Rao Miniskar",
+                "firstName": "Narasinga",
+                "lastName": "Rao Miniskar"
+            },
+            {
+                "id": 37089820431,
+                "preferredName": "Mohammad Alaul Haque Monil",
+                "firstName": "Mohammad",
+                "lastName": "Alaul Haque Monil"
+            },
+            {
+                "id": 38273496100,
+                "preferredName": "Pedro Valero-Lara",
+                "firstName": "Pedro",
+                "lastName": "Valero-Lara"
+            },
+            {
+                "id": 37275916700,
+                "preferredName": "Frank Liu",
+                "firstName": "Frank",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey S. Vetter",
+                "firstName": "Jeffrey S.",
+                "lastName": "Vetter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00025",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106286",
+        "articleTitle": "Efficient Personalized and Non-Personalized Alltoall Communication for Modern Multi-HCA GPU-Based Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "100",
+        "endPage": "104",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Efficient Personalized and Non-Personalized Alltoall Communication for Modern Multi-HCA GPU-Based Clusters",
+        "authors": [
+            {
+                "id": 37088449808,
+                "preferredName": "Kaushik Kandadi Suresh",
+                "firstName": "Kaushik Kandadi",
+                "lastName": "Suresh"
+            },
+            {
+                "id": 37089820509,
+                "preferredName": "Akshay Paniraja Guptha",
+                "firstName": "Akshay Paniraja",
+                "lastName": "Guptha"
+            },
+            {
+                "id": 37089818255,
+                "preferredName": "Benjamin Michalowicz",
+                "firstName": "Benjamin",
+                "lastName": "Michalowicz"
+            },
+            {
+                "id": 37087235805,
+                "preferredName": "Bharath Ramesh",
+                "firstName": "Bharath",
+                "lastName": "Ramesh"
+            },
+            {
+                "id": 37088407576,
+                "preferredName": "Mustafa Abduljabbar",
+                "firstName": "Mustafa",
+                "lastName": "Abduljabbar"
+            },
+            {
+                "id": 37299751600,
+                "preferredName": "Aamir Shafi",
+                "firstName": "Aamir",
+                "lastName": "Shafi"
+            },
+            {
+                "id": 37393051700,
+                "preferredName": "Hari Subramoni",
+                "firstName": "Hari",
+                "lastName": "Subramoni"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar Panda",
+                "firstName": "Dhabaleswar",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00024",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106320",
+        "articleTitle": "Designing Efficient Pipelined Communication Schemes using Compression in MPI Libraries",
+        "volume": null,
+        "issue": null,
+        "startPage": "95",
+        "endPage": "99",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Designing Efficient Pipelined Communication Schemes using Compression in MPI Libraries",
+        "authors": [
+            {
+                "id": 37087235805,
+                "preferredName": "Bharath Ramesh",
+                "firstName": "Bharath",
+                "lastName": "Ramesh"
+            },
+            {
+                "id": 37088546339,
+                "preferredName": "Qinghua Zhou",
+                "firstName": "Qinghua",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37299751600,
+                "preferredName": "Aamir Shafi",
+                "firstName": "Aamir",
+                "lastName": "Shafi"
+            },
+            {
+                "id": 37088407576,
+                "preferredName": "Mustafa Abduljabbar",
+                "firstName": "Mustafa",
+                "lastName": "Abduljabbar"
+            },
+            {
+                "id": 37393051700,
+                "preferredName": "Hari Subramoni",
+                "firstName": "Hari",
+                "lastName": "Subramoni"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K. Panda",
+                "firstName": "Dhabaleswar K.",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00015",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106326",
+        "articleTitle": "Low-latency Mini-batch GNN Inference on CPU-FPGA Heterogeneous Platform",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Low-latency Mini-batch GNN Inference on CPU-FPGA Heterogeneous Platform",
+        "authors": [
+            {
+                "id": 37088420417,
+                "preferredName": "Bingyi Zhang",
+                "firstName": "Bingyi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086221550,
+                "preferredName": "Hanqing Zeng",
+                "firstName": "Hanqing",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37273497500,
+                "preferredName": "Viktor Prasanna",
+                "firstName": "Viktor",
+                "lastName": "Prasanna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00044",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106313",
+        "articleTitle": "1-bit LAMB: Communication Efficient Large-Scale Large-Batch Training with LAMB\u2019s Convergence Speed",
+        "volume": null,
+        "issue": null,
+        "startPage": "272",
+        "endPage": "281",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "1-bit LAMB: Communication Efficient Large-Scale Large-Batch Training with LAMB\u2019s Convergence Speed",
+        "authors": [
+            {
+                "id": 37089817998,
+                "preferredName": "Conglong Li",
+                "firstName": "Conglong",
+                "lastName": "Li"
+            },
+            {
+                "id": 37073634800,
+                "preferredName": "Ammar Ahmad Awan",
+                "firstName": "Ammar Ahmad",
+                "lastName": "Awan"
+            },
+            {
+                "id": 37088214046,
+                "preferredName": "Hanlin Tang",
+                "firstName": "Hanlin",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37085413675,
+                "preferredName": "Samyam Rajbhandari",
+                "firstName": "Samyam",
+                "lastName": "Rajbhandari"
+            },
+            {
+                "id": 38467877800,
+                "preferredName": "Yuxiong He",
+                "firstName": "Yuxiong",
+                "lastName": "He"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00039",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106324",
+        "articleTitle": "An Algorithmic and Software Pipeline for Very Large Scale Scientific Data Compression with Error Guarantees",
+        "volume": null,
+        "issue": null,
+        "startPage": "226",
+        "endPage": "235",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "An Algorithmic and Software Pipeline for Very Large Scale Scientific Data Compression with Error Guarantees",
+        "authors": [
+            {
+                "id": 37085460506,
+                "preferredName": "Tania Banerjee",
+                "firstName": "Tania",
+                "lastName": "Banerjee"
+            },
+            {
+                "id": 37086123943,
+                "preferredName": "Jong Choi",
+                "firstName": "Jong",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37089821552,
+                "preferredName": "Jaemoon Lee",
+                "firstName": "Jaemoon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37089213165,
+                "preferredName": "Qian Gong",
+                "firstName": "Qian",
+                "lastName": "Gong"
+            },
+            {
+                "id": 37676870300,
+                "preferredName": "Ruonan Wang",
+                "firstName": "Ruonan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37267815000,
+                "preferredName": "Scott Klasky",
+                "firstName": "Scott",
+                "lastName": "Klasky"
+            },
+            {
+                "id": 37283062400,
+                "preferredName": "Anand Rangarajan",
+                "firstName": "Anand",
+                "lastName": "Rangarajan"
+            },
+            {
+                "id": 37283782300,
+                "preferredName": "Sanjay Ranka",
+                "firstName": "Sanjay",
+                "lastName": "Ranka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00035",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106338",
+        "articleTitle": "A Real-time Flood Inundation Prediction on SX-Aurora TSUBASA",
+        "volume": null,
+        "issue": null,
+        "startPage": "192",
+        "endPage": "197",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "A Real-time Flood Inundation Prediction on SX-Aurora TSUBASA",
+        "authors": [
+            {
+                "id": 37088639622,
+                "preferredName": "Yoichi Shimomura",
+                "firstName": "Yoichi",
+                "lastName": "Shimomura"
+            },
+            {
+                "id": 37647798500,
+                "preferredName": "Akihiro Musa",
+                "firstName": "Akihiro",
+                "lastName": "Musa"
+            },
+            {
+                "id": 37089681634,
+                "preferredName": "Yoshihiko Sato",
+                "firstName": "Yoshihiko",
+                "lastName": "Sato"
+            },
+            {
+                "id": 37089820052,
+                "preferredName": "Atsuhiko Konja",
+                "firstName": "Atsuhiko",
+                "lastName": "Konja"
+            },
+            {
+                "id": 37089819360,
+                "preferredName": "Guoqing Cui",
+                "firstName": "Guoqing",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37089818850,
+                "preferredName": "Rei Aoyagi",
+                "firstName": "Rei",
+                "lastName": "Aoyagi"
+            },
+            {
+                "id": 37085358476,
+                "preferredName": "Keichi Takahashi",
+                "firstName": "Keichi",
+                "lastName": "Takahashi"
+            },
+            {
+                "id": 37591128700,
+                "preferredName": "Hiroyuki Takizawa",
+                "firstName": "Hiroyuki",
+                "lastName": "Takizawa"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00018",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106346",
+        "articleTitle": "Joint Partitioning and Sampling Algorithm for Scaling Graph Neural Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Joint Partitioning and Sampling Algorithm for Scaling Graph Neural Network",
+        "authors": [
+            {
+                "id": 37089818060,
+                "preferredName": "Manohar Lal Das",
+                "firstName": "Manohar Lal",
+                "lastName": "Das"
+            },
+            {
+                "id": 37087086685,
+                "preferredName": "Vishwesh Jatala",
+                "firstName": "Vishwesh",
+                "lastName": "Jatala"
+            },
+            {
+                "id": 37089820704,
+                "preferredName": "Gagan Raj Gupta",
+                "firstName": "Gagan Raj",
+                "lastName": "Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00016",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106309",
+        "articleTitle": "Accelerating Broadcast Communication with GPU Compression for Deep Learning Workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Accelerating Broadcast Communication with GPU Compression for Deep Learning Workloads",
+        "authors": [
+            {
+                "id": 37088546339,
+                "preferredName": "Qinghua Zhou",
+                "firstName": "Qinghua",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37087082454,
+                "preferredName": "Quentin Anthony",
+                "firstName": "Quentin",
+                "lastName": "Anthony"
+            },
+            {
+                "id": 37299751600,
+                "preferredName": "Aamir Shafi",
+                "firstName": "Aamir",
+                "lastName": "Shafi"
+            },
+            {
+                "id": 37393051700,
+                "preferredName": "Hari Subramoni",
+                "firstName": "Hari",
+                "lastName": "Subramoni"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K. DK Panda",
+                "firstName": "Dhabaleswar K. DK",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00043",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106279",
+        "articleTitle": "Towards Efficient Cache Allocation for High-Frequency Checkpointing",
+        "volume": null,
+        "issue": null,
+        "startPage": "262",
+        "endPage": "271",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Towards Efficient Cache Allocation for High-Frequency Checkpointing",
+        "authors": [
+            {
+                "id": 37088524793,
+                "preferredName": "Avinash Maurya",
+                "firstName": "Avinash",
+                "lastName": "Maurya"
+            },
+            {
+                "id": 37392723100,
+                "preferredName": "Bogdan Nicolae",
+                "firstName": "Bogdan",
+                "lastName": "Nicolae"
+            },
+            {
+                "id": 37579488000,
+                "preferredName": "M. Mustafa Rafique",
+                "firstName": "M. Mustafa",
+                "lastName": "Rafique"
+            },
+            {
+                "id": 37089819791,
+                "preferredName": "Amr M. Elsayed",
+                "firstName": "Amr M.",
+                "lastName": "Elsayed"
+            },
+            {
+                "id": 37087881973,
+                "preferredName": "Thierry Tonellot",
+                "firstName": "Thierry",
+                "lastName": "Tonellot"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00027",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106335",
+        "articleTitle": "Parallel Vertex Color Update on Large Dynamic Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "115",
+        "endPage": "124",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Parallel Vertex Color Update on Large Dynamic Networks",
+        "authors": [
+            {
+                "id": 37088995232,
+                "preferredName": "Arindam Khanda",
+                "firstName": "Arindam",
+                "lastName": "Khanda"
+            },
+            {
+                "id": 38179943900,
+                "preferredName": "Sanjukta Bhowmick",
+                "firstName": "Sanjukta",
+                "lastName": "Bhowmick"
+            },
+            {
+                "id": 37085659880,
+                "preferredName": "Xin Liang",
+                "firstName": "Xin",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37278509800,
+                "preferredName": "Sajal K. Das",
+                "firstName": "Sajal K.",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00014",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106282",
+        "articleTitle": "Split-Knit Convolution: Enabling Dense Evaluation of Transpose and Dilated Convolutions on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Split-Knit Convolution: Enabling Dense Evaluation of Transpose and Dilated Convolutions on GPUs",
+        "authors": [
+            {
+                "id": 37089821529,
+                "preferredName": "Arjun Menon Vadakkeveedu",
+                "firstName": "Arjun Menon",
+                "lastName": "Vadakkeveedu"
+            },
+            {
+                "id": 37089820545,
+                "preferredName": "Debabrata Mandal",
+                "firstName": "Debabrata",
+                "lastName": "Mandal"
+            },
+            {
+                "id": 37089820048,
+                "preferredName": "Pradeep Ramachandran",
+                "firstName": "Pradeep",
+                "lastName": "Ramachandran"
+            },
+            {
+                "id": 37657865600,
+                "preferredName": "Nitin Chandrachoodan",
+                "firstName": "Nitin",
+                "lastName": "Chandrachoodan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00022",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106332",
+        "articleTitle": "Energy Consumption Evaluation of Optane DC Persistent Memory for Indexing Data Structures",
+        "volume": null,
+        "issue": null,
+        "startPage": "75",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Energy Consumption Evaluation of Optane DC Persistent Memory for Indexing Data Structures",
+        "authors": [
+            {
+                "id": 37086836044,
+                "preferredName": "Manolis Katsaragakis",
+                "firstName": "Manolis",
+                "lastName": "Katsaragakis"
+            },
+            {
+                "id": 37545329000,
+                "preferredName": "Christos Baloukas",
+                "firstName": "Christos",
+                "lastName": "Baloukas"
+            },
+            {
+                "id": 37545329300,
+                "preferredName": "Lazaros Papadopoulos",
+                "firstName": "Lazaros",
+                "lastName": "Papadopoulos"
+            },
+            {
+                "id": 37284643800,
+                "preferredName": "Verena Kantere",
+                "firstName": "Verena",
+                "lastName": "Kantere"
+            },
+            {
+                "id": 37275971400,
+                "preferredName": "Francky Catthoor",
+                "firstName": "Francky",
+                "lastName": "Catthoor"
+            },
+            {
+                "id": 37271305000,
+                "preferredName": "Dimitrios Soudris",
+                "firstName": "Dimitrios",
+                "lastName": "Soudris"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00023",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106336",
+        "articleTitle": "LDT: Lightweight Dirty Tracking of Memory Pages for x86 Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "85",
+        "endPage": "94",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "LDT: Lightweight Dirty Tracking of Memory Pages for x86 Systems",
+        "authors": [
+            {
+                "id": 37089819111,
+                "preferredName": "Rohit Singh",
+                "firstName": "Rohit",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37089427871,
+                "preferredName": "Arun KP",
+                "firstName": "Arun",
+                "lastName": "KP"
+            },
+            {
+                "id": 37089309125,
+                "preferredName": "Debadatta Mishra",
+                "firstName": "Debadatta",
+                "lastName": "Mishra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00045",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106342",
+        "articleTitle": "Input Feature Pruning for Accelerating GNN Inference on Heterogeneous Platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "282",
+        "endPage": "291",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Input Feature Pruning for Accelerating GNN Inference on Heterogeneous Platforms",
+        "authors": [
+            {
+                "id": 37089819025,
+                "preferredName": "Jason Yik",
+                "firstName": "Jason",
+                "lastName": "Yik"
+            },
+            {
+                "id": 37085375579,
+                "preferredName": "Sanmukh R. Kuppannagari",
+                "firstName": "Sanmukh R.",
+                "lastName": "Kuppannagari"
+            },
+            {
+                "id": 37086221550,
+                "preferredName": "Hanqing Zeng",
+                "firstName": "Hanqing",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37273497500,
+                "preferredName": "Viktor K. Prasanna",
+                "firstName": "Viktor K.",
+                "lastName": "Prasanna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00046",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106315",
+        "articleTitle": "Provenance-based Workflow Diagnostics Using Program Specification",
+        "volume": null,
+        "issue": null,
+        "startPage": "292",
+        "endPage": "301",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Provenance-based Workflow Diagnostics Using Program Specification",
+        "authors": [
+            {
+                "id": 37088849645,
+                "preferredName": "Yuta Nakamura",
+                "firstName": "Yuta",
+                "lastName": "Nakamura"
+            },
+            {
+                "id": 37426624800,
+                "preferredName": "Tanu Malik",
+                "firstName": "Tanu",
+                "lastName": "Malik"
+            },
+            {
+                "id": 37284504800,
+                "preferredName": "Iyad Kanj",
+                "firstName": "Iyad",
+                "lastName": "Kanj"
+            },
+            {
+                "id": 37563448500,
+                "preferredName": "Ashish Gehani",
+                "firstName": "Ashish",
+                "lastName": "Gehani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00019",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106317",
+        "articleTitle": "Building a Performance Model for Deep Learning Recommendation Model Training on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "58",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Building a Performance Model for Deep Learning Recommendation Model Training on GPUs",
+        "authors": [
+            {
+                "id": 37086487427,
+                "preferredName": "Zhongyi Lin",
+                "firstName": "Zhongyi",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37089255680,
+                "preferredName": "Louis Feng",
+                "firstName": "Louis",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37870627200,
+                "preferredName": "Ehsan K. Ardestani",
+                "firstName": "Ehsan K.",
+                "lastName": "Ardestani"
+            },
+            {
+                "id": 37089502591,
+                "preferredName": "Jaewon Lee",
+                "firstName": "Jaewon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37089432614,
+                "preferredName": "John Lundell",
+                "firstName": "John",
+                "lastName": "Lundell"
+            },
+            {
+                "id": 37088963137,
+                "preferredName": "Changkyu Kim",
+                "firstName": "Changkyu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37089851380,
+                "preferredName": "Arun Kejariwal",
+                "firstName": "Arun",
+                "lastName": "Kejariwal"
+            },
+            {
+                "id": 37365541300,
+                "preferredName": "John D. Owens",
+                "firstName": "John D.",
+                "lastName": "Owens"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00033",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106329",
+        "articleTitle": "HiBGT: High-Performance Bayesian Group Testing for COVID-19",
+        "volume": null,
+        "issue": null,
+        "startPage": "176",
+        "endPage": "185",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "HiBGT: High-Performance Bayesian Group Testing for COVID-19",
+        "authors": [
+            {
+                "id": 37089822227,
+                "preferredName": "Weicong Chen",
+                "firstName": "Weicong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089819520,
+                "preferredName": "Curtis Tatsuoka",
+                "firstName": "Curtis",
+                "lastName": "Tatsuoka"
+            },
+            {
+                "id": 37089300523,
+                "preferredName": "Xiaoyi Lu",
+                "firstName": "Xiaoyi",
+                "lastName": "Lu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00020",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106341",
+        "articleTitle": "Accelerating Prefix Scan with in-network computing on Intel PIUMA",
+        "volume": null,
+        "issue": null,
+        "startPage": "59",
+        "endPage": "68",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Accelerating Prefix Scan with in-network computing on Intel PIUMA",
+        "authors": [
+            {
+                "id": 37085854586,
+                "preferredName": "Kartik Lakhotia",
+                "firstName": "Kartik",
+                "lastName": "Lakhotia"
+            },
+            {
+                "id": 37271662700,
+                "preferredName": "Fabrizio Petrini",
+                "firstName": "Fabrizio",
+                "lastName": "Petrini"
+            },
+            {
+                "id": 37085991386,
+                "preferredName": "Rajopgal Kannan",
+                "firstName": "Rajopgal",
+                "lastName": "Kannan"
+            },
+            {
+                "id": 37273497500,
+                "preferredName": "Viktor Prasanna",
+                "firstName": "Viktor",
+                "lastName": "Prasanna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00021",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106345",
+        "articleTitle": "memwalkd : Accelerating Key-value stores using Page Table Walkers",
+        "volume": null,
+        "issue": null,
+        "startPage": "69",
+        "endPage": "74",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "memwalkd : Accelerating Key-value stores using Page Table Walkers",
+        "authors": [
+            {
+                "id": 37088389603,
+                "preferredName": "Ravi Shreyas Anupindi",
+                "firstName": "Ravi Shreyas",
+                "lastName": "Anupindi"
+            },
+            {
+                "id": 37089819825,
+                "preferredName": "Swaroop Kotni",
+                "firstName": "Swaroop",
+                "lastName": "Kotni"
+            },
+            {
+                "id": 38260185000,
+                "preferredName": "Arkaprava Basu",
+                "firstName": "Arkaprava",
+                "lastName": "Basu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00032",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106312",
+        "articleTitle": "A Deep Learning-Based In Situ Analysis Framework for Tropical Cyclogenesis Prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "166",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "A Deep Learning-Based In Situ Analysis Framework for Tropical Cyclogenesis Prediction",
+        "authors": [
+            {
+                "id": 37089821078,
+                "preferredName": "Abir Mukherjee",
+                "firstName": "Abir",
+                "lastName": "Mukherjee"
+            },
+            {
+                "id": 37591275300,
+                "preferredName": "Preeti Malakar",
+                "firstName": "Preeti",
+                "lastName": "Malakar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00038",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106280",
+        "articleTitle": "A GPU-accelerated Data Transformation Framework Rooted in Pushdown Transducers",
+        "volume": null,
+        "issue": null,
+        "startPage": "215",
+        "endPage": "225",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "A GPU-accelerated Data Transformation Framework Rooted in Pushdown Transducers",
+        "authors": [
+            {
+                "id": 37089254275,
+                "preferredName": "Tri Nguyen",
+                "firstName": "Tri",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37703614000,
+                "preferredName": "Michela Becchi",
+                "firstName": "Michela",
+                "lastName": "Becchi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00036",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106284",
+        "articleTitle": "Precise Parallel FEM-based Interactive Cutting Simulation of Deformable Bodies",
+        "volume": null,
+        "issue": null,
+        "startPage": "198",
+        "endPage": "203",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Precise Parallel FEM-based Interactive Cutting Simulation of Deformable Bodies",
+        "authors": [
+            {
+                "id": 37086194695,
+                "preferredName": "Harshvardhan Das",
+                "firstName": "Harshvardhan",
+                "lastName": "Das"
+            },
+            {
+                "id": 37089501003,
+                "preferredName": "Suraj Kumar",
+                "firstName": "Suraj",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37085423959,
+                "preferredName": "Subodh Kumar",
+                "firstName": "Subodh",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00034",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106322",
+        "articleTitle": "Churn Prediction in Telecommunications Industry Based on Conditional Wasserstein GAN",
+        "volume": null,
+        "issue": null,
+        "startPage": "186",
+        "endPage": "191",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Churn Prediction in Telecommunications Industry Based on Conditional Wasserstein GAN",
+        "authors": [
+            {
+                "id": 38009997200,
+                "preferredName": "Chang Su",
+                "firstName": "Chang",
+                "lastName": "Su"
+            },
+            {
+                "id": 37089821158,
+                "preferredName": "Linglin Wei",
+                "firstName": "Linglin",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37288936900,
+                "preferredName": "Xianzhong Xie",
+                "firstName": "Xianzhong",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00040",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106330",
+        "articleTitle": "COMPROF and COMPLACE: Shared-Memory Communication Profiling and Automated Thread Placement via Dynamic Binary Instrumentation",
+        "volume": null,
+        "issue": null,
+        "startPage": "236",
+        "endPage": "245",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "COMPROF and COMPLACE: Shared-Memory Communication Profiling and Automated Thread Placement via Dynamic Binary Instrumentation",
+        "authors": [
+            {
+                "id": 37089819506,
+                "preferredName": "Ryan Kirkpatrick",
+                "firstName": "Ryan",
+                "lastName": "Kirkpatrick"
+            },
+            {
+                "id": 37070929000,
+                "preferredName": "Christopher Brown",
+                "firstName": "Christopher",
+                "lastName": "Brown"
+            },
+            {
+                "id": 37973650900,
+                "preferredName": "Vladimir Janjic",
+                "firstName": "Vladimir",
+                "lastName": "Janjic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00047",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106334",
+        "articleTitle": "EECAAP: Efficient Edge-Computing based Anonymous Authentication Protocol for IoV",
+        "volume": null,
+        "issue": null,
+        "startPage": "302",
+        "endPage": "307",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "EECAAP: Efficient Edge-Computing based Anonymous Authentication Protocol for IoV",
+        "authors": [
+            {
+                "id": 37088342595,
+                "preferredName": "Himani Sikarwar",
+                "firstName": "Himani",
+                "lastName": "Sikarwar"
+            },
+            {
+                "id": 37085686626,
+                "preferredName": "Debasis Das",
+                "firstName": "Debasis",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00029",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106311",
+        "articleTitle": "Leveraging GPU Tensor Cores for Double Precision Euclidean Distance Calculations",
+        "volume": null,
+        "issue": null,
+        "startPage": "135",
+        "endPage": "144",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Leveraging GPU Tensor Cores for Double Precision Euclidean Distance Calculations",
+        "authors": [
+            {
+                "id": 37086921785,
+                "preferredName": "Benoit Gallet",
+                "firstName": "Benoit",
+                "lastName": "Gallet"
+            },
+            {
+                "id": 37085358905,
+                "preferredName": "Michael Gowanlock",
+                "firstName": "Michael",
+                "lastName": "Gowanlock"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00041",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106285",
+        "articleTitle": "LuxIO: Intelligent Resource Provisioning and Auto-Configuration for Storage Services",
+        "volume": null,
+        "issue": null,
+        "startPage": "246",
+        "endPage": "255",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "LuxIO: Intelligent Resource Provisioning and Auto-Configuration for Storage Services",
+        "authors": [
+            {
+                "id": 37088547318,
+                "preferredName": "Keith Bateman",
+                "firstName": "Keith",
+                "lastName": "Bateman"
+            },
+            {
+                "id": 37088992283,
+                "preferredName": "Neeraj Rajesh",
+                "firstName": "Neeraj",
+                "lastName": "Rajesh"
+            },
+            {
+                "id": 37089818296,
+                "preferredName": "Jaime Cernuda Garcia",
+                "firstName": "Jaime",
+                "lastName": "Cernuda Garcia"
+            },
+            {
+                "id": 37088409603,
+                "preferredName": "Luke Logan",
+                "firstName": "Luke",
+                "lastName": "Logan"
+            },
+            {
+                "id": 37088992660,
+                "preferredName": "Jie Ye",
+                "firstName": "Jie",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37085351424,
+                "preferredName": "Stephen Herbein",
+                "firstName": "Stephen",
+                "lastName": "Herbein"
+            },
+            {
+                "id": 37086066117,
+                "preferredName": "Anthony Kougkas",
+                "firstName": "Anthony",
+                "lastName": "Kougkas"
+            },
+            {
+                "id": 37276409100,
+                "preferredName": "Xian-He Sun",
+                "firstName": "Xian-He",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00026",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106323",
+        "articleTitle": "High-Performance Truss Analytics in Arkouda",
+        "volume": null,
+        "issue": null,
+        "startPage": "105",
+        "endPage": "114",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "High-Performance Truss Analytics in Arkouda",
+        "authors": [
+            {
+                "id": 37401624000,
+                "preferredName": "Zhihui Du",
+                "firstName": "Zhihui",
+                "lastName": "Du"
+            },
+            {
+                "id": 37089646875,
+                "preferredName": "Joseph Patchett",
+                "firstName": "Joseph",
+                "lastName": "Patchett"
+            },
+            {
+                "id": 37089169892,
+                "preferredName": "Oliver Alvarado Rodriguez",
+                "firstName": "Oliver Alvarado",
+                "lastName": "Rodriguez"
+            },
+            {
+                "id": 37089172371,
+                "preferredName": "Fuhuan Li",
+                "firstName": "Fuhuan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089403015,
+                "preferredName": "David A. Bader",
+                "firstName": "David A.",
+                "lastName": "Bader"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00028",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106325",
+        "articleTitle": "IMpart: A Partitioning-based Parallel Approach to Accelerate Influence Maximization",
+        "volume": null,
+        "issue": null,
+        "startPage": "125",
+        "endPage": "134",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "IMpart: A Partitioning-based Parallel Approach to Accelerate Influence Maximization",
+        "authors": [
+            {
+                "id": 37088650442,
+                "preferredName": "Reet Barik",
+                "firstName": "Reet",
+                "lastName": "Barik"
+            },
+            {
+                "id": 37085564275,
+                "preferredName": "Marco Minutoli",
+                "firstName": "Marco",
+                "lastName": "Minutoli"
+            },
+            {
+                "id": 37885961700,
+                "preferredName": "Mahantesh Halappanavar",
+                "firstName": "Mahantesh",
+                "lastName": "Halappanavar"
+            },
+            {
+                "id": 38242841200,
+                "preferredName": "Ananth Kalyanaraman",
+                "firstName": "Ananth",
+                "lastName": "Kalyanaraman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00037",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106327",
+        "articleTitle": "Scaling the SOO Global Blackbox Optimizer on a 128-core Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "204",
+        "endPage": "214",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Scaling the SOO Global Blackbox Optimizer on a 128-core Architecture",
+        "authors": [
+            {
+                "id": 37089818025,
+                "preferredName": "David Redon",
+                "firstName": "David",
+                "lastName": "Redon"
+            },
+            {
+                "id": 37546362200,
+                "preferredName": "Bilel Derbel",
+                "firstName": "Bilel",
+                "lastName": "Derbel"
+            },
+            {
+                "id": 37599674800,
+                "preferredName": "Pierre Fortin",
+                "firstName": "Pierre",
+                "lastName": "Fortin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00017",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106337",
+        "articleTitle": "AccDP: Accelerated Data-Parallel Distributed DNN Training for Modern GPU-Based HPC Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "AccDP: Accelerated Data-Parallel Distributed DNN Training for Modern GPU-Based HPC Clusters",
+        "authors": [
+            {
+                "id": 37088979267,
+                "preferredName": "Nawras Alnaasan",
+                "firstName": "Nawras",
+                "lastName": "Alnaasan"
+            },
+            {
+                "id": 37087084894,
+                "preferredName": "Arpan Jain",
+                "firstName": "Arpan",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37299751600,
+                "preferredName": "Aamir Shafi",
+                "firstName": "Aamir",
+                "lastName": "Shafi"
+            },
+            {
+                "id": 37393051700,
+                "preferredName": "Hari Subramoni",
+                "firstName": "Hari",
+                "lastName": "Subramoni"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K Panda",
+                "firstName": "Dhabaleswar K",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00030",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106339",
+        "articleTitle": "A Portable Sparse Solver Framework for Large Matrices on Heterogeneous Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "145",
+        "endPage": "155",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "A Portable Sparse Solver Framework for Large Matrices on Heterogeneous Architectures",
+        "authors": [
+            {
+                "id": 38666368100,
+                "preferredName": "Fazlay Rabbi",
+                "firstName": "Fazlay",
+                "lastName": "Rabbi"
+            },
+            {
+                "id": 37085647912,
+                "preferredName": "Christopher S. Daley",
+                "firstName": "Christopher S.",
+                "lastName": "Daley"
+            },
+            {
+                "id": 37275773300,
+                "preferredName": "\u00dcmit V. \u00c7ataly\u00fcrek",
+                "firstName": "\u00dcmit V.",
+                "lastName": "\u00c7ataly\u00fcrek"
+            },
+            {
+                "id": 37946325800,
+                "preferredName": "Hasan Metin Aktulga",
+                "firstName": "Hasan Metin",
+                "lastName": "Aktulga"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00031",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106310",
+        "articleTitle": "Performance analysis of GPU accelerated meshfree q-LSKUM solvers in Fortran, C, Python, and Julia",
+        "volume": null,
+        "issue": null,
+        "startPage": "156",
+        "endPage": "165",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Performance analysis of GPU accelerated meshfree q-LSKUM solvers in Fortran, C, Python, and Julia",
+        "authors": [
+            {
+                "id": 37088599926,
+                "preferredName": "Nischay Ram Mamidi",
+                "firstName": "Nischay Ram",
+                "lastName": "Mamidi"
+            },
+            {
+                "id": 37089821750,
+                "preferredName": "Dhruv Saxena",
+                "firstName": "Dhruv",
+                "lastName": "Saxena"
+            },
+            {
+                "id": 37088599187,
+                "preferredName": "Kumar Prasun",
+                "firstName": "Kumar",
+                "lastName": "Prasun"
+            },
+            {
+                "id": 37088598643,
+                "preferredName": "Anil Nemili",
+                "firstName": "Anil",
+                "lastName": "Nemili"
+            },
+            {
+                "id": 37086618437,
+                "preferredName": "Bharatkumar Sharma",
+                "firstName": "Bharatkumar",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37088598976,
+                "preferredName": "S. M. Deshpande",
+                "firstName": "S. M.",
+                "lastName": "Deshpande"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00012",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106314",
+        "articleTitle": "Keynote 3: Jack Dongarra",
+        "volume": null,
+        "issue": null,
+        "startPage": "24",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Keynote 3: Jack Dongarra",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00011",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106318",
+        "articleTitle": "Keynote 2: P Sadayappan",
+        "volume": null,
+        "issue": null,
+        "startPage": "23",
+        "endPage": "23",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Keynote 2: P Sadayappan",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00001",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106340",
+        "articleTitle": "Title Page i",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Title Page i",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00013",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106307",
+        "articleTitle": "Keynote 4: Per Stenstr\u0308m",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "25",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Keynote 4: Per Stenstr\u0308m",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00002",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106321",
+        "articleTitle": "Title Page iii",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Title Page iii",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00010",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106319",
+        "articleTitle": "Keynote 1: Paolo Lenne",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Keynote 1: Paolo Lenne",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00005",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106344",
+        "articleTitle": "Message from the HiPC 2022 General Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Message from the HiPC 2022 General Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00006",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106343",
+        "articleTitle": "Message from the HiPC 2022 Program Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Message from the HiPC 2022 Program Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00008",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106308",
+        "articleTitle": "HiPC 2022 Steering Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "HiPC 2022 Steering Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00003",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106331",
+        "articleTitle": "Copyright Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Copyright Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00007",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106333",
+        "articleTitle": "HiPC 2022 Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "HiPC 2022 Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00009",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106328",
+        "articleTitle": "HiPC 2022 Technical Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "HiPC 2022 Technical Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00048",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106281",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "309",
+        "endPage": "310",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10106277",
+        "doi": "10.1109/HiPC56025.2022.00004",
+        "publicationYear": "2022",
+        "publicationDate": "18-21 Dec. 2022",
+        "articleNumber": "10106283",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE 29th International Conference on High Performance Computing, Data, and Analytics (HiPC)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]

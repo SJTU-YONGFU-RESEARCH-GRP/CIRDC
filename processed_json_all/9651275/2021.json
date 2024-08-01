@@ -1,0 +1,362 @@
+[
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00008",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651301",
+        "articleTitle": "Extending LLVM IR for DPC++ Matrix Support: A Case Study with Intel\u00ae Advanced Matrix Extensions (Intel\u00ae AMX)",
+        "volume": null,
+        "issue": null,
+        "startPage": "20",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Extending LLVM IR for DPC++ Matrix Support: A Case Study with Intel\u00ae Advanced Matrix Extensions (Intel\u00ae AMX)",
+        "authors": [
+            {
+                "id": 37085610405,
+                "preferredName": "Dounia Khaldi",
+                "firstName": "Dounia",
+                "lastName": "Khaldi"
+            },
+            {
+                "id": 37089201665,
+                "preferredName": "Yuanke Luo",
+                "firstName": "Yuanke",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37089201427,
+                "preferredName": "Bing Yu",
+                "firstName": "Bing",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37089201150,
+                "preferredName": "Alexey Sotkin",
+                "firstName": "Alexey",
+                "lastName": "Sotkin"
+            },
+            {
+                "id": 37089198687,
+                "preferredName": "Bruno Morais",
+                "firstName": "Bruno",
+                "lastName": "Morais"
+            },
+            {
+                "id": 37283875300,
+                "preferredName": "Milind Girkar",
+                "firstName": "Milind",
+                "lastName": "Girkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00009",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651314",
+        "articleTitle": "A High Performance Sparse Tensor Algebra Compiler in MLIR",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "38",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "A High Performance Sparse Tensor Algebra Compiler in MLIR",
+        "authors": [
+            {
+                "id": 37089198623,
+                "preferredName": "Ruiqin Tian",
+                "firstName": "Ruiqin",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37089198769,
+                "preferredName": "Luanzheng Guo",
+                "firstName": "Luanzheng",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37086040108,
+                "preferredName": "Jiajia Li",
+                "firstName": "Jiajia",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086260562,
+                "preferredName": "Bin Ren",
+                "firstName": "Bin",
+                "lastName": "Ren"
+            },
+            {
+                "id": 38233220000,
+                "preferredName": "Gokcen Kestor",
+                "firstName": "Gokcen",
+                "lastName": "Kestor"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00007",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651310",
+        "articleTitle": "Flacc: Towards OpenACC support for Fortran in the LLVM Ecosystem",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "19",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Flacc: Towards OpenACC support for Fortran in the LLVM Ecosystem",
+        "authors": [
+            {
+                "id": 37086854942,
+                "preferredName": "Valentin Clement",
+                "firstName": "Valentin",
+                "lastName": "Clement"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey S. Vetter",
+                "firstName": "Jeffrey S.",
+                "lastName": "Vetter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00006",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651305",
+        "articleTitle": "OpenMP aware MHP Analysis for Improved Static Data-Race Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "OpenMP aware MHP Analysis for Improved Static Data-Race Detection",
+        "authors": [
+            {
+                "id": 37089203300,
+                "preferredName": "Utpal Bora",
+                "firstName": "Utpal",
+                "lastName": "Bora"
+            },
+            {
+                "id": 37089198932,
+                "preferredName": "Shraiysh Vaishay",
+                "firstName": "Shraiysh",
+                "lastName": "Vaishay"
+            },
+            {
+                "id": 38468782800,
+                "preferredName": "Saurabh Joshi",
+                "firstName": "Saurabh",
+                "lastName": "Joshi"
+            },
+            {
+                "id": 37086519304,
+                "preferredName": "Ramakrishna Upadrasta",
+                "firstName": "Ramakrishna",
+                "lastName": "Upadrasta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00010",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651316",
+        "articleTitle": "Toward an Automated Hardware Pipelining LLVM Pass Infrastructure",
+        "volume": null,
+        "issue": null,
+        "startPage": "39",
+        "endPage": "49",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Toward an Automated Hardware Pipelining LLVM Pass Infrastructure",
+        "authors": [
+            {
+                "id": 38581369400,
+                "preferredName": "John Leidel",
+                "firstName": "John",
+                "lastName": "Leidel"
+            },
+            {
+                "id": 37088638800,
+                "preferredName": "Ryan Kabrick",
+                "firstName": "Ryan",
+                "lastName": "Kabrick"
+            },
+            {
+                "id": 37671269300,
+                "preferredName": "David Donofrio",
+                "firstName": "David",
+                "lastName": "Donofrio"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00011",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651313",
+        "articleTitle": "Facilitating CoDesign with Automatic Code Similarity Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "50",
+        "endPage": "58",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Facilitating CoDesign with Automatic Code Similarity Learning",
+        "authors": [
+            {
+                "id": 37086016972,
+                "preferredName": "Tan Nguyen",
+                "firstName": "Tan",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37271736300,
+                "preferredName": "Erich Strohmaier",
+                "firstName": "Erich",
+                "lastName": "Strohmaier"
+            },
+            {
+                "id": 37281789600,
+                "preferredName": "John Shalf",
+                "firstName": "John",
+                "lastName": "Shalf"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00004",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651296",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00005",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651309",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00001",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651312",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00003",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651298",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00012",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651311",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "59",
+        "endPage": "59",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9651275",
+        "doi": "10.1109/LLVMHPC54804.2021.00002",
+        "publicationYear": "2021",
+        "publicationDate": "14-14 Nov. 2021",
+        "articleNumber": "9651300",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM 7th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    }
+]

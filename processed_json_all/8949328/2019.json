@@ -1,0 +1,411 @@
+[
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00010",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950978",
+        "articleTitle": "HPC Container Runtimes have Minimal or No Performance Impact",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "42",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "HPC Container Runtimes have Minimal or No Performance Impact",
+        "authors": [
+            {
+                "id": 38252135100,
+                "preferredName": "Alfred Torrez",
+                "firstName": "Alfred",
+                "lastName": "Torrez"
+            },
+            {
+                "id": 37086428989,
+                "preferredName": "Timothy Randles",
+                "firstName": "Timothy",
+                "lastName": "Randles"
+            },
+            {
+                "id": 37087230744,
+                "preferredName": "Reid Priedhorsky",
+                "firstName": "Reid",
+                "lastName": "Priedhorsky"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00007",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950981",
+        "articleTitle": "Enabling HPC Workloads on Cloud Infrastructure Using Kubernetes Container Orchestration Mechanisms",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "Enabling HPC Workloads on Cloud Infrastructure Using Kubernetes Container Orchestration Mechanisms",
+        "authors": [
+            {
+                "id": 37086106512,
+                "preferredName": "Angel M. Beltre",
+                "firstName": "Angel M.",
+                "lastName": "Beltre"
+            },
+            {
+                "id": 37086476005,
+                "preferredName": "Pankaj Saha",
+                "firstName": "Pankaj",
+                "lastName": "Saha"
+            },
+            {
+                "id": 37275836300,
+                "preferredName": "Madhusudhan Govindaraju",
+                "firstName": "Madhusudhan",
+                "lastName": "Govindaraju"
+            },
+            {
+                "id": 38309114800,
+                "preferredName": "Andrew Younge",
+                "firstName": "Andrew",
+                "lastName": "Younge"
+            },
+            {
+                "id": 37085363711,
+                "preferredName": "Ryan E. Grant",
+                "firstName": "Ryan E.",
+                "lastName": "Grant"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00012",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950982",
+        "articleTitle": "A Case for Portability and Reproducibility of HPC Containers",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "54",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "A Case for Portability and Reproducibility of HPC Containers",
+        "authors": [
+            {
+                "id": 38467760400,
+                "preferredName": "Richard S. Canon",
+                "firstName": "Richard S.",
+                "lastName": "Canon"
+            },
+            {
+                "id": 38309114800,
+                "preferredName": "Andrew Younge",
+                "firstName": "Andrew",
+                "lastName": "Younge"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00006",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950983",
+        "articleTitle": "Evaluation and Benchmarking of Singularity MPI containers on EU Research e-Infrastructure",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "Evaluation and Benchmarking of Singularity MPI containers on EU Research e-Infrastructure",
+        "authors": [
+            {
+                "id": 37087234171,
+                "preferredName": "V\u00ccctor Sande Veiga",
+                "firstName": "V\u00ccctor",
+                "lastName": "Sande Veiga"
+            },
+            {
+                "id": 37087235534,
+                "preferredName": "Manuel Simon",
+                "firstName": "Manuel",
+                "lastName": "Simon"
+            },
+            {
+                "id": 37295588100,
+                "preferredName": "Abdulrahman Azab",
+                "firstName": "Abdulrahman",
+                "lastName": "Azab"
+            },
+            {
+                "id": 37087232904,
+                "preferredName": "Carlos Fernandez",
+                "firstName": "Carlos",
+                "lastName": "Fernandez"
+            },
+            {
+                "id": 37087232958,
+                "preferredName": "Giuseppa Muscianisi",
+                "firstName": "Giuseppa",
+                "lastName": "Muscianisi"
+            },
+            {
+                "id": 38190712400,
+                "preferredName": "Giuseppe Fiameni",
+                "firstName": "Giuseppe",
+                "lastName": "Fiameni"
+            },
+            {
+                "id": 37087233205,
+                "preferredName": "Simone Marocchi",
+                "firstName": "Simone",
+                "lastName": "Marocchi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00011",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950980",
+        "articleTitle": "On-node Resource Manager for Containerized HPC Workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "43",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "On-node Resource Manager for Containerized HPC Workloads",
+        "authors": [
+            {
+                "id": 37391956400,
+                "preferredName": "Geoffroy Vallee",
+                "firstName": "Geoffroy",
+                "lastName": "Vallee"
+            },
+            {
+                "id": 37087232288,
+                "preferredName": "Carlos Eduardo Arango Gutierrez",
+                "firstName": "Carlos Eduardo Arango",
+                "lastName": "Gutierrez"
+            },
+            {
+                "id": 37087233013,
+                "preferredName": "Cedric Clerget",
+                "firstName": "Cedric",
+                "lastName": "Clerget"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00008",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950979",
+        "articleTitle": "Long-term Preservation of Repeatable Builds in Occam",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "30",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "Long-term Preservation of Repeatable Builds in Occam",
+        "authors": [
+            {
+                "id": 37281709100,
+                "preferredName": "David Wilkinson",
+                "firstName": "David",
+                "lastName": "Wilkinson"
+            },
+            {
+                "id": 37380444500,
+                "preferredName": "Luis Oliveira",
+                "firstName": "Luis",
+                "lastName": "Oliveira"
+            },
+            {
+                "id": 37273237100,
+                "preferredName": "Daniel Mosse",
+                "firstName": "Daniel",
+                "lastName": "Mosse"
+            },
+            {
+                "id": 37266684800,
+                "preferredName": "Bruce Childers",
+                "firstName": "Bruce",
+                "lastName": "Childers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00009",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950976",
+        "articleTitle": "KBase: A Platform for Reproducible Bioinformatics Research",
+        "volume": null,
+        "issue": null,
+        "startPage": "31",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "KBase: A Platform for Reproducible Bioinformatics Research",
+        "authors": [
+            {
+                "id": 37087233525,
+                "preferredName": "William J. Riehl",
+                "firstName": "William J.",
+                "lastName": "Riehl"
+            },
+            {
+                "id": 38467760400,
+                "preferredName": "Richard S. Canon",
+                "firstName": "Richard S.",
+                "lastName": "Canon"
+            },
+            {
+                "id": 37087233729,
+                "preferredName": "Boris Sadkhin",
+                "firstName": "Boris",
+                "lastName": "Sadkhin"
+            },
+            {
+                "id": 37087231007,
+                "preferredName": "Jay R. Bolton",
+                "firstName": "Jay R.",
+                "lastName": "Bolton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00005",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950975",
+        "articleTitle": "Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00004",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950974",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00001",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950971",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00003",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950973",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00002",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950977",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8949328",
+        "doi": "10.1109/CANOPIE-HPC49598.2019.00013",
+        "publicationYear": "2019",
+        "publicationDate": "18-18 Nov. 2019",
+        "articleNumber": "8950972",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "55",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Workshop on Containers and New Orchestration Paradigms for Isolated Environments in HPC (CANOPIE-HPC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

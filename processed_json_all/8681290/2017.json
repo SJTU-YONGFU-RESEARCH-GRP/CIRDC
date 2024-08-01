@@ -1,0 +1,3177 @@
+[
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686544",
+        "articleTitle": "Fine-Grained DRAM: Energy-Efficient DRAM for Extreme Bandwidth Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "54",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Fine-Grained DRAM: Energy-Efficient DRAM for Extreme Bandwidth Systems",
+        "authors": [
+            {
+                "id": 37087326440,
+                "preferredName": "Mike O\u2019Connor",
+                "firstName": "Mike",
+                "lastName": "O\u2019Connor"
+            },
+            {
+                "id": 37861758200,
+                "preferredName": "Niladrish Chatterjee",
+                "firstName": "Niladrish",
+                "lastName": "Chatterjee"
+            },
+            {
+                "id": 38263905800,
+                "preferredName": "Donghyuk Lee",
+                "firstName": "Donghyuk",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37275491700,
+                "preferredName": "John Wilson",
+                "firstName": "John",
+                "lastName": "Wilson"
+            },
+            {
+                "id": 37061090400,
+                "preferredName": "Aditya Agrawal",
+                "firstName": "Aditya",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37282751600,
+                "preferredName": "Stephen W. Keckler",
+                "firstName": "Stephen W.",
+                "lastName": "Keckler"
+            },
+            {
+                "id": 37282485100,
+                "preferredName": "William J. Dally",
+                "firstName": "William J.",
+                "lastName": "Dally"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686671",
+        "articleTitle": "Beyond the Socket: NUMA-Aware GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "123",
+        "endPage": "135",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Beyond the Socket: NUMA-Aware GPUs",
+        "authors": [
+            {
+                "id": 37075504800,
+                "preferredName": "Ugljesa Milic",
+                "firstName": "Ugljesa",
+                "lastName": "Milic"
+            },
+            {
+                "id": 37408471700,
+                "preferredName": "Oreste Villa",
+                "firstName": "Oreste",
+                "lastName": "Villa"
+            },
+            {
+                "id": 37640432400,
+                "preferredName": "Evgeny Bolotin",
+                "firstName": "Evgeny",
+                "lastName": "Bolotin"
+            },
+            {
+                "id": 38503020500,
+                "preferredName": "Akhil Arunkumar",
+                "firstName": "Akhil",
+                "lastName": "Arunkumar"
+            },
+            {
+                "id": 37085648603,
+                "preferredName": "Eiman Ebrahimi",
+                "firstName": "Eiman",
+                "lastName": "Ebrahimi"
+            },
+            {
+                "id": 37298078500,
+                "preferredName": "Aamer Jaleel",
+                "firstName": "Aamer",
+                "lastName": "Jaleel"
+            },
+            {
+                "id": 37275843200,
+                "preferredName": "Alex Ramirez",
+                "firstName": "Alex",
+                "lastName": "Ramirez"
+            },
+            {
+                "id": 37085439910,
+                "preferredName": "David Nellans",
+                "firstName": "David",
+                "lastName": "Nellans"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686636",
+        "articleTitle": "RHMD: Evasion-Resilient Hardware Malware Detectors",
+        "volume": null,
+        "issue": null,
+        "startPage": "315",
+        "endPage": "327",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "RHMD: Evasion-Resilient Hardware Malware Detectors",
+        "authors": [
+            {
+                "id": 37085824317,
+                "preferredName": "Khaled N. Khasawneh",
+                "firstName": "Khaled N.",
+                "lastName": "Khasawneh"
+            },
+            {
+                "id": 37279772800,
+                "preferredName": "Nael Abu-Ghazaleh",
+                "firstName": "Nael",
+                "lastName": "Abu-Ghazaleh"
+            },
+            {
+                "id": 37274792800,
+                "preferredName": "Dmitry Ponomarev",
+                "firstName": "Dmitry",
+                "lastName": "Ponomarev"
+            },
+            {
+                "id": 37653004300,
+                "preferredName": "Lei Yu",
+                "firstName": "Lei",
+                "lastName": "Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686553",
+        "articleTitle": "Mosaic: A GPU Memory Manager with Application-Transparent Support for Multiple Page Sizes",
+        "volume": null,
+        "issue": null,
+        "startPage": "136",
+        "endPage": "150",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Mosaic: A GPU Memory Manager with Application-Transparent Support for Multiple Page Sizes",
+        "authors": [
+            {
+                "id": 38266728400,
+                "preferredName": "Rachata Ausavarungnirun",
+                "firstName": "Rachata",
+                "lastName": "Ausavarungnirun"
+            },
+            {
+                "id": 37086811869,
+                "preferredName": "Joshua Landgraf",
+                "firstName": "Joshua",
+                "lastName": "Landgraf"
+            },
+            {
+                "id": 37086811634,
+                "preferredName": "Vance Miller",
+                "firstName": "Vance",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37085354352,
+                "preferredName": "Saugata Ghose",
+                "firstName": "Saugata",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 38349730000,
+                "preferredName": "Jayneel Gandhi",
+                "firstName": "Jayneel",
+                "lastName": "Gandhi"
+            },
+            {
+                "id": 37418352200,
+                "preferredName": "Christopher J. Rossbach",
+                "firstName": "Christopher J.",
+                "lastName": "Rossbach"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686501",
+        "articleTitle": "VersaPipe: A Versatile Programming Framework for Pipelined Computing on GPU",
+        "volume": null,
+        "issue": null,
+        "startPage": "587",
+        "endPage": "599",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "VersaPipe: A Versatile Programming Framework for Pipelined Computing on GPU",
+        "authors": [
+            {
+                "id": 37086813608,
+                "preferredName": "Zhen Zheng",
+                "firstName": "Zhen",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37085431698,
+                "preferredName": "Chanyoung Oh",
+                "firstName": "Chanyoung",
+                "lastName": "Oh"
+            },
+            {
+                "id": 38242413700,
+                "preferredName": "Jidong Zhai",
+                "firstName": "Jidong",
+                "lastName": "Zhai"
+            },
+            {
+                "id": 37085517964,
+                "preferredName": "Xipeng Shen",
+                "firstName": "Xipeng",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37274318500,
+                "preferredName": "Youngmin Yi",
+                "firstName": "Youngmin",
+                "lastName": "Yi"
+            },
+            {
+                "id": 37279191300,
+                "preferredName": "Wenguang Chen",
+                "firstName": "Wenguang",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686607",
+        "articleTitle": "Xylem: Enhancing Vertical Thermal Conduction in 3D Processor-Memory Stacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "546",
+        "endPage": "559",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Xylem: Enhancing Vertical Thermal Conduction in 3D Processor-Memory Stacks",
+        "authors": [
+            {
+                "id": 37061090400,
+                "preferredName": "Aditya Agrawal",
+                "firstName": "Aditya",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            },
+            {
+                "id": 37393926400,
+                "preferredName": "Sachin Idgunji",
+                "firstName": "Sachin",
+                "lastName": "Idgunji"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686578",
+        "articleTitle": "GPUpd: A Fast and Scalable Multi-GPU Architecture Using Cooperative Projection and Distribution",
+        "volume": null,
+        "issue": null,
+        "startPage": "574",
+        "endPage": "586",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "GPUpd: A Fast and Scalable Multi-GPU Architecture Using Cooperative Projection and Distribution",
+        "authors": [
+            {
+                "id": 37085464907,
+                "preferredName": "Youngsok Kim",
+                "firstName": "Youngsok",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086095778,
+                "preferredName": "Jae-Eon Jo",
+                "firstName": "Jae-Eon",
+                "lastName": "Jo"
+            },
+            {
+                "id": 37085546428,
+                "preferredName": "Hanhwi Jang",
+                "firstName": "Hanhwi",
+                "lastName": "Jang"
+            },
+            {
+                "id": 38265603700,
+                "preferredName": "Minsoo Rhu",
+                "firstName": "Minsoo",
+                "lastName": "Rhu"
+            },
+            {
+                "id": 37086206636,
+                "preferredName": "Hanjun Kim",
+                "firstName": "Hanjun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085348592,
+                "preferredName": "Jangwoo Kim",
+                "firstName": "Jangwoo",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686698",
+        "articleTitle": "Load Value Prediction via Path-based Address Prediction: Avoiding Mispredictions due to Conflicting Stores",
+        "volume": null,
+        "issue": null,
+        "startPage": "423",
+        "endPage": "435",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Load Value Prediction via Path-based Address Prediction: Avoiding Mispredictions due to Conflicting Stores",
+        "authors": [
+            {
+                "id": 37602557500,
+                "preferredName": "Rami Sheikh",
+                "firstName": "Rami",
+                "lastName": "Sheikh"
+            },
+            {
+                "id": 37282324600,
+                "preferredName": "Harold W. Cain",
+                "firstName": "Harold W.",
+                "lastName": "Cain"
+            },
+            {
+                "id": 37330446400,
+                "preferredName": "Raguram Damodaran",
+                "firstName": "Raguram",
+                "lastName": "Damodaran"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686594",
+        "articleTitle": "WIREFRAME: Supporting Data-dependent Parallelism through Dependency Graph Execution in GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "600",
+        "endPage": "611",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "WIREFRAME: Supporting Data-dependent Parallelism through Dependency Graph Execution in GPUs",
+        "authors": [
+            {
+                "id": 37085516620,
+                "preferredName": "AmirAli Abdolrashidi",
+                "firstName": "AmirAli",
+                "lastName": "Abdolrashidi"
+            },
+            {
+                "id": 37086813980,
+                "preferredName": "Devashree Tripathy",
+                "firstName": "Devashree",
+                "lastName": "Tripathy"
+            },
+            {
+                "id": 37085649986,
+                "preferredName": "Mehmet Esat Belviranli",
+                "firstName": "Mehmet Esat",
+                "lastName": "Belviranli"
+            },
+            {
+                "id": 37273460100,
+                "preferredName": "Laxmi Narayan Bhuyan",
+                "firstName": "Laxmi Narayan",
+                "lastName": "Bhuyan"
+            },
+            {
+                "id": 37085713239,
+                "preferredName": "Daniel Wong",
+                "firstName": "Daniel",
+                "lastName": "Wong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686534",
+        "articleTitle": "Efficient Exception Handling Support for GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "109",
+        "endPage": "122",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Efficient Exception Handling Support for GPUs",
+        "authors": [
+            {
+                "id": 37086755304,
+                "preferredName": "Ivan Tanasic",
+                "firstName": "Ivan",
+                "lastName": "Tanasic"
+            },
+            {
+                "id": 37540403500,
+                "preferredName": "Isaac Gelado",
+                "firstName": "Isaac",
+                "lastName": "Gelado"
+            },
+            {
+                "id": 37086775372,
+                "preferredName": "Marc Jorda",
+                "firstName": "Marc",
+                "lastName": "Jorda"
+            },
+            {
+                "id": 37283770000,
+                "preferredName": "Eduard Ayguade",
+                "firstName": "Eduard",
+                "lastName": "Ayguade"
+            },
+            {
+                "id": 37444137400,
+                "preferredName": "Nacho Navarro",
+                "firstName": "Nacho",
+                "lastName": "Navarro"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686666",
+        "articleTitle": "Architectural Tradeoffs for Biodegradable Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "706",
+        "endPage": "717",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Architectural Tradeoffs for Biodegradable Computing",
+        "authors": [
+            {
+                "id": 37086812347,
+                "preferredName": "Ting-Jung Chang",
+                "firstName": "Ting-Jung",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37086814707,
+                "preferredName": "Zhuozhi Yao",
+                "firstName": "Zhuozhi",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37087599265,
+                "preferredName": "Paul J. Jackson",
+                "firstName": "Paul J.",
+                "lastName": "Jackson"
+            },
+            {
+                "id": 37304051600,
+                "preferredName": "Barry P. Rand",
+                "firstName": "Barry P.",
+                "lastName": "Rand"
+            },
+            {
+                "id": 37086815372,
+                "preferredName": "David Wentzla",
+                "firstName": "David",
+                "lastName": "Wentzla"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686493",
+        "articleTitle": "RegLess: Just-in-Time Operand Staging for GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "151",
+        "endPage": "164",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "RegLess: Just-in-Time Operand Staging for GPUs",
+        "authors": [
+            {
+                "id": 37086011705,
+                "preferredName": "John Kloosterman",
+                "firstName": "John",
+                "lastName": "Kloosterman"
+            },
+            {
+                "id": 37070834200,
+                "preferredName": "Jonathan Beaumont",
+                "firstName": "Jonathan",
+                "lastName": "Beaumont"
+            },
+            {
+                "id": 37086034008,
+                "preferredName": "D. Anoushe Jamshidi",
+                "firstName": "D. Anoushe",
+                "lastName": "Jamshidi"
+            },
+            {
+                "id": 37086486827,
+                "preferredName": "Jonathan Bailey",
+                "firstName": "Jonathan",
+                "lastName": "Bailey"
+            },
+            {
+                "id": 37267150400,
+                "preferredName": "Trevor Mudge",
+                "firstName": "Trevor",
+                "lastName": "Mudge"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "Scott Mahlke",
+                "firstName": "Scott",
+                "lastName": "Mahlke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686710",
+        "articleTitle": "Exploiting Heterogeneity for Tail Latency and Energy Efficiency",
+        "volume": null,
+        "issue": null,
+        "startPage": "625",
+        "endPage": "638",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Exploiting Heterogeneity for Tail Latency and Energy Efficiency",
+        "authors": [
+            {
+                "id": 38236490200,
+                "preferredName": "Md E. Haque",
+                "firstName": "Md E.",
+                "lastName": "Haque"
+            },
+            {
+                "id": 38467877800,
+                "preferredName": "Yuxiong He",
+                "firstName": "Yuxiong",
+                "lastName": "He"
+            },
+            {
+                "id": 37397352700,
+                "preferredName": "Sameh Elnikety",
+                "firstName": "Sameh",
+                "lastName": "Elnikety"
+            },
+            {
+                "id": 37280728500,
+                "preferredName": "Thu D. Nguyen",
+                "firstName": "Thu D.",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37265323800,
+                "preferredName": "Ricardo Bianchini",
+                "firstName": "Ricardo",
+                "lastName": "Bianchini"
+            },
+            {
+                "id": 37267694300,
+                "preferredName": "Kathryn S. McKinley",
+                "firstName": "Kathryn S.",
+                "lastName": "McKinley"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686556",
+        "articleTitle": "Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology",
+        "volume": null,
+        "issue": null,
+        "startPage": "273",
+        "endPage": "287",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Ambit: In-Memory Accelerator for Bulk Bitwise Operations Using Commodity DRAM Technology",
+        "authors": [
+            {
+                "id": 38267348700,
+                "preferredName": "Vivek Seshadri",
+                "firstName": "Vivek",
+                "lastName": "Seshadri"
+            },
+            {
+                "id": 38263905800,
+                "preferredName": "Donghyuk Lee",
+                "firstName": "Donghyuk",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086004509,
+                "preferredName": "Thomas Mullins",
+                "firstName": "Thomas",
+                "lastName": "Mullins"
+            },
+            {
+                "id": 37085624531,
+                "preferredName": "Hasan Hassan",
+                "firstName": "Hasan",
+                "lastName": "Hassan"
+            },
+            {
+                "id": 37086000685,
+                "preferredName": "Amirali Boroumand",
+                "firstName": "Amirali",
+                "lastName": "Boroumand"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie Kim",
+                "firstName": "Jeremie",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38185080900,
+                "preferredName": "Michael A. Kozuch",
+                "firstName": "Michael A.",
+                "lastName": "Kozuch"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37282940400,
+                "preferredName": "Phillip B. Gibbons",
+                "firstName": "Phillip B.",
+                "lastName": "Gibbons"
+            },
+            {
+                "id": 37282940800,
+                "preferredName": "Todd C. Mowry",
+                "firstName": "Todd C.",
+                "lastName": "Mowry"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686604",
+        "articleTitle": "DRISA: A DRAM-based Reconfigurable In-Situ Accelerator",
+        "volume": null,
+        "issue": null,
+        "startPage": "288",
+        "endPage": "301",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DRISA: A DRAM-based Reconfigurable In-Situ Accelerator",
+        "authors": [
+            {
+                "id": 37537866000,
+                "preferredName": "Shuangchen Li",
+                "firstName": "Shuangchen",
+                "lastName": "Li"
+            },
+            {
+                "id": 37409787700,
+                "preferredName": "Dimin Niu",
+                "firstName": "Dimin",
+                "lastName": "Niu"
+            },
+            {
+                "id": 38265491100,
+                "preferredName": "Krishna T. Malladi",
+                "firstName": "Krishna T.",
+                "lastName": "Malladi"
+            },
+            {
+                "id": 37085762078,
+                "preferredName": "Hongzhong Zheng",
+                "firstName": "Hongzhong",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37085850615,
+                "preferredName": "Bob Brennan",
+                "firstName": "Bob",
+                "lastName": "Brennan"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686550",
+        "articleTitle": "Bit-Pragmatic Deep Neural Network Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "382",
+        "endPage": "394",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Bit-Pragmatic Deep Neural Network Computing",
+        "authors": [
+            {
+                "id": 37085517445,
+                "preferredName": "Jorge Albericio",
+                "firstName": "Jorge",
+                "lastName": "Albericio"
+            },
+            {
+                "id": 37085550161,
+                "preferredName": "Alberto Delm\u00e1s",
+                "firstName": "Alberto",
+                "lastName": "Delm\u00e1s"
+            },
+            {
+                "id": 37086143035,
+                "preferredName": "Patrick Judd",
+                "firstName": "Patrick",
+                "lastName": "Judd"
+            },
+            {
+                "id": 37086339855,
+                "preferredName": "Sayeh Sharify",
+                "firstName": "Sayeh",
+                "lastName": "Sharify"
+            },
+            {
+                "id": 37086195008,
+                "preferredName": "Gerard O\u2019Leary",
+                "firstName": "Gerard",
+                "lastName": "O\u2019Leary"
+            },
+            {
+                "id": 37270856200,
+                "preferredName": "Roman Genov",
+                "firstName": "Roman",
+                "lastName": "Genov"
+            },
+            {
+                "id": 37267012000,
+                "preferredName": "Andreas Moshovos",
+                "firstName": "Andreas",
+                "lastName": "Moshovos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686678",
+        "articleTitle": "CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices",
+        "volume": null,
+        "issue": null,
+        "startPage": "395",
+        "endPage": "408",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "CirCNN: Accelerating and Compressing Deep Neural Networks Using Block-Circulant Weight Matrices",
+        "authors": [
+            {
+                "id": 37085664380,
+                "preferredName": "Caiwen Ding",
+                "firstName": "Caiwen",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37086227138,
+                "preferredName": "Siyu Liao",
+                "firstName": "Siyu",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37966617700,
+                "preferredName": "Yanzhi Wang",
+                "firstName": "Yanzhi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085463866,
+                "preferredName": "Zhe Li",
+                "firstName": "Zhe",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085839703,
+                "preferredName": "Ning Liu",
+                "firstName": "Ning",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086186826,
+                "preferredName": "Youwei Zhuo",
+                "firstName": "Youwei",
+                "lastName": "Zhuo"
+            },
+            {
+                "id": 37086358445,
+                "preferredName": "Chao Wang",
+                "firstName": "Chao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086058165,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37085621438,
+                "preferredName": "Yu Bai",
+                "firstName": "Yu",
+                "lastName": "Bai"
+            },
+            {
+                "id": 37086994553,
+                "preferredName": "Geng Yuan",
+                "firstName": "Geng",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37086084313,
+                "preferredName": "Xiaolong Ma",
+                "firstName": "Xiaolong",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37086378965,
+                "preferredName": "Yipeng Zhang",
+                "firstName": "Yipeng",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37276758700,
+                "preferredName": "Jian Tang",
+                "firstName": "Jian",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37267088600,
+                "preferredName": "Qinru Qiu",
+                "firstName": "Qinru",
+                "lastName": "Qiu"
+            },
+            {
+                "id": 38237315300,
+                "preferredName": "Xue Lin",
+                "firstName": "Xue",
+                "lastName": "Lin"
+            },
+            {
+                "id": 38521367500,
+                "preferredName": "Bo Yuan",
+                "firstName": "Bo",
+                "lastName": "Yuan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686581",
+        "articleTitle": "Summarizer: Trading Communication with Computing Near Storage",
+        "volume": null,
+        "issue": null,
+        "startPage": "219",
+        "endPage": "231",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Summarizer: Trading Communication with Computing Near Storage",
+        "authors": [
+            {
+                "id": 37085673970,
+                "preferredName": "Gunjae Koo",
+                "firstName": "Gunjae",
+                "lastName": "Koo"
+            },
+            {
+                "id": 37892051900,
+                "preferredName": "Kiran Kumar Matam",
+                "firstName": "Kiran Kumar",
+                "lastName": "Matam"
+            },
+            {
+                "id": 37086811426,
+                "preferredName": "Te I.",
+                "firstName": "Te",
+                "lastName": "I."
+            },
+            {
+                "id": 37086812220,
+                "preferredName": "H.V. Krishna Giri Narra",
+                "firstName": "H.V. Krishna Giri",
+                "lastName": "Narra"
+            },
+            {
+                "id": 37086205593,
+                "preferredName": "Jing Li",
+                "firstName": "Jing",
+                "lastName": "Li"
+            },
+            {
+                "id": 37067924400,
+                "preferredName": "Hung-Wei Tseng",
+                "firstName": "Hung-Wei",
+                "lastName": "Tseng"
+            },
+            {
+                "id": 37407859800,
+                "preferredName": "Steven Swanson",
+                "firstName": "Steven",
+                "lastName": "Swanson"
+            },
+            {
+                "id": 37298092100,
+                "preferredName": "Murali Annavaram",
+                "firstName": "Murali",
+                "lastName": "Annavaram"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686528",
+        "articleTitle": "Banshee: Bandwidth-Efficient DRAM Caching via Software/Hardware Cooperation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Banshee: Bandwidth-Efficient DRAM Caching via Software/Hardware Cooperation",
+        "authors": [
+            {
+                "id": 37085763982,
+                "preferredName": "Xiangyao Yu",
+                "firstName": "Xiangyao",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37282406900,
+                "preferredName": "Christopher J. Hughes",
+                "firstName": "Christopher J.",
+                "lastName": "Hughes"
+            },
+            {
+                "id": 37391797900,
+                "preferredName": "Nadathur Satish",
+                "firstName": "Nadathur",
+                "lastName": "Satish"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37283553100,
+                "preferredName": "Srinivas Devadas",
+                "firstName": "Srinivas",
+                "lastName": "Devadas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686655",
+        "articleTitle": "Proteus: A Flexible and Fast Software Supported Hardware Logging approach for NVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "178",
+        "endPage": "190",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Proteus: A Flexible and Fast Software Supported Hardware Logging approach for NVM",
+        "authors": [
+            {
+                "id": 37086270966,
+                "preferredName": "Seunghee Shin",
+                "firstName": "Seunghee",
+                "lastName": "Shin"
+            },
+            {
+                "id": 37086812383,
+                "preferredName": "Satish Kumar Tirukkovalluri",
+                "firstName": "Satish Kumar",
+                "lastName": "Tirukkovalluri"
+            },
+            {
+                "id": 37409802200,
+                "preferredName": "James Tuck",
+                "firstName": "James",
+                "lastName": "Tuck"
+            },
+            {
+                "id": 37282584700,
+                "preferredName": "Yan Solihin",
+                "firstName": "Yan",
+                "lastName": "Solihin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686667",
+        "articleTitle": "How secure is your cache against side-channel attacks?",
+        "volume": null,
+        "issue": null,
+        "startPage": "341",
+        "endPage": "353",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "How secure is your cache against side-channel attacks?",
+        "authors": [
+            {
+                "id": 37085990108,
+                "preferredName": "Zecheng He",
+                "firstName": "Zecheng",
+                "lastName": "He"
+            },
+            {
+                "id": 37276167100,
+                "preferredName": "Ruby B. Lee",
+                "firstName": "Ruby B.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686526",
+        "articleTitle": "Multiperspective Reuse Prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "436",
+        "endPage": "448",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Multiperspective Reuse Prediction",
+        "authors": [
+            {
+                "id": 38485695000,
+                "preferredName": "Daniel A. Jim\u00e9nez",
+                "firstName": "Daniel A.",
+                "lastName": "Jim\u00e9nez"
+            },
+            {
+                "id": 37085772311,
+                "preferredName": "Elvira Teran",
+                "firstName": "Elvira",
+                "lastName": "Teran"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686519",
+        "articleTitle": "Harnessing Voltage Margins for Energy Efficiency in Multicore CPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "503",
+        "endPage": "516",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Harnessing Voltage Margins for Energy Efficiency in Multicore CPUs",
+        "authors": [
+            {
+                "id": 37085810430,
+                "preferredName": "George Papadimitriou",
+                "firstName": "George",
+                "lastName": "Papadimitriou"
+            },
+            {
+                "id": 37074173000,
+                "preferredName": "Manolis Kaliorakis",
+                "firstName": "Manolis",
+                "lastName": "Kaliorakis"
+            },
+            {
+                "id": 37085608035,
+                "preferredName": "Athanasios Chatzidimitriou",
+                "firstName": "Athanasios",
+                "lastName": "Chatzidimitriou"
+            },
+            {
+                "id": 37276979600,
+                "preferredName": "Dimitris Gizopoulos",
+                "firstName": "Dimitris",
+                "lastName": "Gizopoulos"
+            },
+            {
+                "id": 37086372811,
+                "preferredName": "Peter Lawthers",
+                "firstName": "Peter",
+                "lastName": "Lawthers"
+            },
+            {
+                "id": 37278510600,
+                "preferredName": "Shidhartha Das",
+                "firstName": "Shidhartha",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686596",
+        "articleTitle": "RTLCheck: Verifying the Memory Consistency of RTL Designs",
+        "volume": null,
+        "issue": null,
+        "startPage": "463",
+        "endPage": "476",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "RTLCheck: Verifying the Memory Consistency of RTL Designs",
+        "authors": [
+            {
+                "id": 37086126105,
+                "preferredName": "Yatin A. Manerkar",
+                "firstName": "Yatin A.",
+                "lastName": "Manerkar"
+            },
+            {
+                "id": 38075850600,
+                "preferredName": "Daniel Lustig",
+                "firstName": "Daniel",
+                "lastName": "Lustig"
+            },
+            {
+                "id": 37332404000,
+                "preferredName": "Margaret Martonosi",
+                "firstName": "Margaret",
+                "lastName": "Martonosi"
+            },
+            {
+                "id": 37546240200,
+                "preferredName": "Michael Pellauer",
+                "firstName": "Michael",
+                "lastName": "Pellauer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686546",
+        "articleTitle": "Hybrid Analog-Digital Solution of Nonlinear Partial Differential Equations",
+        "volume": null,
+        "issue": null,
+        "startPage": "665",
+        "endPage": "678",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Hybrid Analog-Digital Solution of Nonlinear Partial Differential Equations",
+        "authors": [
+            {
+                "id": 37085719525,
+                "preferredName": "Yipeng Huang",
+                "firstName": "Yipeng",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085713882,
+                "preferredName": "Ning Guo",
+                "firstName": "Ning",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37541098600,
+                "preferredName": "Mingoo Seok",
+                "firstName": "Mingoo",
+                "lastName": "Seok"
+            },
+            {
+                "id": 37270896700,
+                "preferredName": "Yannis Tsividis",
+                "firstName": "Yannis",
+                "lastName": "Tsividis"
+            },
+            {
+                "id": 37086517148,
+                "preferredName": "Kyle Mandli",
+                "firstName": "Kyle",
+                "lastName": "Mandli"
+            },
+            {
+                "id": 37314065100,
+                "preferredName": "Simha Sethumadhavan",
+                "firstName": "Simha",
+                "lastName": "Sethumadhavan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686656",
+        "articleTitle": "Optimized Surface Code Communication in Superconducting Quantum Computers",
+        "volume": null,
+        "issue": null,
+        "startPage": "692",
+        "endPage": "705",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Optimized Surface Code Communication in Superconducting Quantum Computers",
+        "authors": [
+            {
+                "id": 37086425472,
+                "preferredName": "Ali Javadi-Abhari",
+                "firstName": "Ali",
+                "lastName": "Javadi-Abhari"
+            },
+            {
+                "id": 37086811427,
+                "preferredName": "Pranav Gokhale",
+                "firstName": "Pranav",
+                "lastName": "Gokhale"
+            },
+            {
+                "id": 37086428727,
+                "preferredName": "Adam Holmes",
+                "firstName": "Adam",
+                "lastName": "Holmes"
+            },
+            {
+                "id": 37266636300,
+                "preferredName": "Diana Franklin",
+                "firstName": "Diana",
+                "lastName": "Franklin"
+            },
+            {
+                "id": 37086812749,
+                "preferredName": "Kenneth R. Brown",
+                "firstName": "Kenneth R.",
+                "lastName": "Brown"
+            },
+            {
+                "id": 37332404000,
+                "preferredName": "Margaret Martonosi",
+                "firstName": "Margaret",
+                "lastName": "Martonosi"
+            },
+            {
+                "id": 37283023200,
+                "preferredName": "Frederic T. Chong",
+                "firstName": "Frederic T.",
+                "lastName": "Chong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686682",
+        "articleTitle": "Taming the Instruction Bandwidth of Quantum Computers via Hardware-Managed Error Correction",
+        "volume": null,
+        "issue": null,
+        "startPage": "679",
+        "endPage": "691",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Taming the Instruction Bandwidth of Quantum Computers via Hardware-Managed Error Correction",
+        "authors": [
+            {
+                "id": 38542921000,
+                "preferredName": "Swamit S. Tannu",
+                "firstName": "Swamit S.",
+                "lastName": "Tannu"
+            },
+            {
+                "id": 37086812619,
+                "preferredName": "Zachary A. Myers",
+                "firstName": "Zachary A.",
+                "lastName": "Myers"
+            },
+            {
+                "id": 37061113300,
+                "preferredName": "Prashant J. Nair",
+                "firstName": "Prashant J.",
+                "lastName": "Nair"
+            },
+            {
+                "id": 37332751500,
+                "preferredName": "Douglas M. Carmean",
+                "firstName": "Douglas M.",
+                "lastName": "Carmean"
+            },
+            {
+                "id": 37301807700,
+                "preferredName": "Moinuddin K. Qureshi",
+                "firstName": "Moinuddin K.",
+                "lastName": "Qureshi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686647",
+        "articleTitle": "An Experimental Microarchitecture for a Superconducting Quantum Processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "813",
+        "endPage": "825",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "An Experimental Microarchitecture for a Superconducting Quantum Processor",
+        "authors": [
+            {
+                "id": 37085352290,
+                "preferredName": "X. Fu",
+                "firstName": "X.",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37086379012,
+                "preferredName": "M. A. Rol",
+                "firstName": "M. A.",
+                "lastName": "Rol"
+            },
+            {
+                "id": 37086378795,
+                "preferredName": "C. C. Bultink",
+                "firstName": "C. C.",
+                "lastName": "Bultink"
+            },
+            {
+                "id": 37086378761,
+                "preferredName": "J. van Someren",
+                "firstName": "J.",
+                "lastName": "van Someren"
+            },
+            {
+                "id": 37085673655,
+                "preferredName": "N. Khammassi",
+                "firstName": "N.",
+                "lastName": "Khammassi"
+            },
+            {
+                "id": 37587898200,
+                "preferredName": "I. Ashraf",
+                "firstName": "I.",
+                "lastName": "Ashraf"
+            },
+            {
+                "id": 37086042629,
+                "preferredName": "R. F. L. Vermeulen",
+                "firstName": "R. F. L.",
+                "lastName": "Vermeulen"
+            },
+            {
+                "id": 37086378335,
+                "preferredName": "J. C. de Sterke",
+                "firstName": "J. C.",
+                "lastName": "de Sterke"
+            },
+            {
+                "id": 38073904800,
+                "preferredName": "W. J. Vlothuizen",
+                "firstName": "W. J.",
+                "lastName": "Vlothuizen"
+            },
+            {
+                "id": 37317280800,
+                "preferredName": "R. N. Schouten",
+                "firstName": "R. N.",
+                "lastName": "Schouten"
+            },
+            {
+                "id": 37086020874,
+                "preferredName": "C. G. Almudever",
+                "firstName": "C. G.",
+                "lastName": "Almudever"
+            },
+            {
+                "id": 37409223100,
+                "preferredName": "L. DiCarlo",
+                "firstName": "L.",
+                "lastName": "DiCarlo"
+            },
+            {
+                "id": 37284722300,
+                "preferredName": "K. Bertels",
+                "firstName": "K.",
+                "lastName": "Bertels"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686601",
+        "articleTitle": "Estimating and Understanding Architectural Risk",
+        "volume": null,
+        "issue": null,
+        "startPage": "651",
+        "endPage": "664",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Estimating and Understanding Architectural Risk",
+        "authors": [
+            {
+                "id": 37086174055,
+                "preferredName": "Weilong Cui",
+                "firstName": "Weilong",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37283546900,
+                "preferredName": "Timothy Sherwood",
+                "firstName": "Timothy",
+                "lastName": "Sherwood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686533",
+        "articleTitle": "DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission",
+        "volume": null,
+        "issue": null,
+        "startPage": "786",
+        "endPage": "799",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DeftNN: Addressing Bottlenecks for DNN Execution on GPUs via Synapse Vector Elimination and Near-compute Data Fission",
+        "authors": [
+            {
+                "id": 37086030867,
+                "preferredName": "Parker Hill",
+                "firstName": "Parker",
+                "lastName": "Hill"
+            },
+            {
+                "id": 37085533766,
+                "preferredName": "Animesh Jain",
+                "firstName": "Animesh",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37086815012,
+                "preferredName": "Mason Hill",
+                "firstName": "Mason",
+                "lastName": "Hill"
+            },
+            {
+                "id": 37085691417,
+                "preferredName": "Babak Zamirai",
+                "firstName": "Babak",
+                "lastName": "Zamirai"
+            },
+            {
+                "id": 37085526794,
+                "preferredName": "Chang-Hong Hsu",
+                "firstName": "Chang-Hong",
+                "lastName": "Hsu"
+            },
+            {
+                "id": 37085391340,
+                "preferredName": "Michael A. Laurenzano",
+                "firstName": "Michael A.",
+                "lastName": "Laurenzano"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "Scott Mahlke",
+                "firstName": "Scott",
+                "lastName": "Mahlke"
+            },
+            {
+                "id": 37085392912,
+                "preferredName": "Lingjia Tang",
+                "firstName": "Lingjia",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37297735100,
+                "preferredName": "Jason Mars",
+                "firstName": "Jason",
+                "lastName": "Mars"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686680",
+        "articleTitle": "Cache Automaton",
+        "volume": null,
+        "issue": null,
+        "startPage": "259",
+        "endPage": "272",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Cache Automaton",
+        "authors": [
+            {
+                "id": 37085763061,
+                "preferredName": "Arun Subramaniyan",
+                "firstName": "Arun",
+                "lastName": "Subramaniyan"
+            },
+            {
+                "id": 37085537076,
+                "preferredName": "Jingcheng Wang",
+                "firstName": "Jingcheng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086811420,
+                "preferredName": "R. M. Ezhil Balasubramanian",
+                "firstName": "R. M.",
+                "lastName": "Ezhil Balasubramanian"
+            },
+            {
+                "id": 37276099100,
+                "preferredName": "David Blaauw",
+                "firstName": "David",
+                "lastName": "Blaauw"
+            },
+            {
+                "id": 37274874600,
+                "preferredName": "Dennis Sylvester",
+                "firstName": "Dennis",
+                "lastName": "Sylvester"
+            },
+            {
+                "id": 37534767200,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686520",
+        "articleTitle": "Memory Cocktail Therapy: A General Learning-Based Framework to Optimize Dynamic Tradeoffs in NVMs",
+        "volume": null,
+        "issue": null,
+        "startPage": "232",
+        "endPage": "244",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Memory Cocktail Therapy: A General Learning-Based Framework to Optimize Dynamic Tradeoffs in NVMs",
+        "authors": [
+            {
+                "id": 37086320079,
+                "preferredName": "Zhaoxia Deng",
+                "firstName": "Zhaoxia",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37085852197,
+                "preferredName": "Lunkai Zhang",
+                "firstName": "Lunkai",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086026641,
+                "preferredName": "Nikita Mishra",
+                "firstName": "Nikita",
+                "lastName": "Mishra"
+            },
+            {
+                "id": 37282336000,
+                "preferredName": "Henry Hoffmann",
+                "firstName": "Henry",
+                "lastName": "Hoffmann"
+            },
+            {
+                "id": 37283023200,
+                "preferredName": "Frederic T. Chong",
+                "firstName": "Frederic T.",
+                "lastName": "Chong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686492",
+        "articleTitle": "CSALT: Context Switch Aware Large TLB",
+        "volume": null,
+        "issue": null,
+        "startPage": "449",
+        "endPage": "462",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "CSALT: Context Switch Aware Large TLB",
+        "authors": [
+            {
+                "id": 37086621226,
+                "preferredName": "Yashwant Marathe",
+                "firstName": "Yashwant",
+                "lastName": "Marathe"
+            },
+            {
+                "id": 38233084500,
+                "preferredName": "Nagendra Gulur",
+                "firstName": "Nagendra",
+                "lastName": "Gulur"
+            },
+            {
+                "id": 37085473274,
+                "preferredName": "Jee Ho Ryoo",
+                "firstName": "Jee Ho",
+                "lastName": "Ryoo"
+            },
+            {
+                "id": 37085691333,
+                "preferredName": "Shuang Song",
+                "firstName": "Shuang",
+                "lastName": "Song"
+            },
+            {
+                "id": 37266694600,
+                "preferredName": "Lizy K. John",
+                "firstName": "Lizy K.",
+                "lastName": "John"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686715",
+        "articleTitle": "Data Movement Aware Computation Partitioning",
+        "volume": null,
+        "issue": null,
+        "startPage": "730",
+        "endPage": "744",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Data Movement Aware Computation Partitioning",
+        "authors": [
+            {
+                "id": 37086020208,
+                "preferredName": "Xulong Tang",
+                "firstName": "Xulong",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37077780000,
+                "preferredName": "Orhan Kislal",
+                "firstName": "Orhan",
+                "lastName": "Kislal"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Kandemir",
+                "firstName": "Mahmut",
+                "lastName": "Kandemir"
+            },
+            {
+                "id": 37294939000,
+                "preferredName": "Mustafa Karakoy",
+                "firstName": "Mustafa",
+                "lastName": "Karakoy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686683",
+        "articleTitle": "Scale-Out Acceleration for Machine Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "367",
+        "endPage": "381",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Scale-Out Acceleration for Machine Learning",
+        "authors": [
+            {
+                "id": 37085569167,
+                "preferredName": "Jongse Park",
+                "firstName": "Jongse",
+                "lastName": "Park"
+            },
+            {
+                "id": 37085778200,
+                "preferredName": "Hardik Sharma",
+                "firstName": "Hardik",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37085569665,
+                "preferredName": "Divya Mahajan",
+                "firstName": "Divya",
+                "lastName": "Mahajan"
+            },
+            {
+                "id": 37085771351,
+                "preferredName": "Joon Kyung Kim",
+                "firstName": "Joon Kyung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086811267,
+                "preferredName": "Preston Olds",
+                "firstName": "Preston",
+                "lastName": "Olds"
+            },
+            {
+                "id": 37267164000,
+                "preferredName": "Hadi Esmaeilzadeh",
+                "firstName": "Hadi",
+                "lastName": "Esmaeilzadeh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686523",
+        "articleTitle": "Detecting and Mitigating Data-Dependent DRAM Failures by Exploiting Current Memory Content",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Detecting and Mitigating Data-Dependent DRAM Failures by Exploiting Current Memory Content",
+        "authors": [
+            {
+                "id": 37085386385,
+                "preferredName": "Samira Khan",
+                "firstName": "Samira",
+                "lastName": "Khan"
+            },
+            {
+                "id": 37392830600,
+                "preferredName": "Chris Wilkerson",
+                "firstName": "Chris",
+                "lastName": "Wilkerson"
+            },
+            {
+                "id": 37086022813,
+                "preferredName": "Zhe Wang",
+                "firstName": "Zhe",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37282351800,
+                "preferredName": "Alaa R. Alameldeen",
+                "firstName": "Alaa R.",
+                "lastName": "Alameldeen"
+            },
+            {
+                "id": 38263905800,
+                "preferredName": "Donghyuk Lee",
+                "firstName": "Donghyuk",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686491",
+        "articleTitle": "Constructing and Characterizing Covert Channels on GPGPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "354",
+        "endPage": "366",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Constructing and Characterizing Covert Channels on GPGPUs",
+        "authors": [
+            {
+                "id": 37086062867,
+                "preferredName": "Hoda Naghibijouybari",
+                "firstName": "Hoda",
+                "lastName": "Naghibijouybari"
+            },
+            {
+                "id": 37085824317,
+                "preferredName": "Khaled N. Khasawneh",
+                "firstName": "Khaled N.",
+                "lastName": "Khasawneh"
+            },
+            {
+                "id": 37279772800,
+                "preferredName": "Nael Abu-Ghazaleh",
+                "firstName": "Nael",
+                "lastName": "Abu-Ghazaleh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686525",
+        "articleTitle": "IDEAL: Image DEnoising AcceLerator",
+        "volume": null,
+        "issue": null,
+        "startPage": "82",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "IDEAL: Image DEnoising AcceLerator",
+        "authors": [
+            {
+                "id": 37085894321,
+                "preferredName": "Mostafa Mahmoud",
+                "firstName": "Mostafa",
+                "lastName": "Mahmoud"
+            },
+            {
+                "id": 37086549434,
+                "preferredName": "Bojian Zheng",
+                "firstName": "Bojian",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37086338442,
+                "preferredName": "Alberto Delm\u00e1s Lascorz",
+                "firstName": "Alberto Delm\u00e1s",
+                "lastName": "Lascorz"
+            },
+            {
+                "id": 37075809600,
+                "preferredName": "Felix Heide",
+                "firstName": "Felix",
+                "lastName": "Heide"
+            },
+            {
+                "id": 37086811201,
+                "preferredName": "Jonathan Assouline",
+                "firstName": "Jonathan",
+                "lastName": "Assouline"
+            },
+            {
+                "id": 37086812611,
+                "preferredName": "Paul Boucher",
+                "firstName": "Paul",
+                "lastName": "Boucher"
+            },
+            {
+                "id": 37085727222,
+                "preferredName": "Emmanuel Onzon",
+                "firstName": "Emmanuel",
+                "lastName": "Onzon"
+            },
+            {
+                "id": 37267012000,
+                "preferredName": "Andreas Moshovos",
+                "firstName": "Andreas",
+                "lastName": "Moshovos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686489",
+        "articleTitle": "PageForge: A Near-Memory Content-Aware Page-Merging Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "302",
+        "endPage": "314",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "PageForge: A Near-Memory Content-Aware Page-Merging Architecture",
+        "authors": [
+            {
+                "id": 37085357259,
+                "preferredName": "Dimitrios Skarlatos",
+                "firstName": "Dimitrios",
+                "lastName": "Skarlatos"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686668",
+        "articleTitle": "Pipelining a Triggered Processing Element",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "108",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Pipelining a Triggered Processing Element",
+        "authors": [
+            {
+                "id": 37086811958,
+                "preferredName": "Thomas J. Repetti",
+                "firstName": "Thomas J.",
+                "lastName": "Repetti"
+            },
+            {
+                "id": 37085826690,
+                "preferredName": "Jo\u00e3o P. Cerqueira",
+                "firstName": "Jo\u00e3o P.",
+                "lastName": "Cerqueira"
+            },
+            {
+                "id": 38247747700,
+                "preferredName": "Martha A. Kim",
+                "firstName": "Martha A.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37541098600,
+                "preferredName": "Mingoo Seok",
+                "firstName": "Mingoo",
+                "lastName": "Seok"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686531",
+        "articleTitle": "SCRATCH: An End-to-End Application-Aware So-GPGPU Architecture and Trimming Tool",
+        "volume": null,
+        "issue": null,
+        "startPage": "165",
+        "endPage": "177",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "SCRATCH: An End-to-End Application-Aware So-GPGPU Architecture and Trimming Tool",
+        "authors": [
+            {
+                "id": 38230041700,
+                "preferredName": "Pedro Duarte",
+                "firstName": "Pedro",
+                "lastName": "Duarte"
+            },
+            {
+                "id": 37564017900,
+                "preferredName": "Pedro Tomas",
+                "firstName": "Pedro",
+                "lastName": "Tomas"
+            },
+            {
+                "id": 37394052900,
+                "preferredName": "Gabriel Falcao",
+                "firstName": "Gabriel",
+                "lastName": "Falcao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686497",
+        "articleTitle": "Incidental Computing on IoT Nonvolatile Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "204",
+        "endPage": "218",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Incidental Computing on IoT Nonvolatile Processors",
+        "authors": [
+            {
+                "id": 37085341005,
+                "preferredName": "Kaisheng Ma",
+                "firstName": "Kaisheng",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37085343534,
+                "preferredName": "Xueqing Li",
+                "firstName": "Xueqing",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085417204,
+                "preferredName": "Jinyang Li",
+                "firstName": "Jinyang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37292036600,
+                "preferredName": "Yongpan Liu",
+                "firstName": "Yongpan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37420427300,
+                "preferredName": "Jack Sampson",
+                "firstName": "Jack",
+                "lastName": "Sampson"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Taylan Kandemir",
+                "firstName": "Mahmut Taylan",
+                "lastName": "Kandemir"
+            },
+            {
+                "id": 37273383200,
+                "preferredName": "Vijaykrishnan Narayanan",
+                "firstName": "Vijaykrishnan",
+                "lastName": "Narayanan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686688",
+        "articleTitle": "Using Intra-Core Loop-Task Accelerators to Improve the Productivity and Performance of Task-Based Parallel Programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "759",
+        "endPage": "773",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Using Intra-Core Loop-Task Accelerators to Improve the Productivity and Performance of Task-Based Parallel Programs",
+        "authors": [
+            {
+                "id": 37085497611,
+                "preferredName": "Ji Kim",
+                "firstName": "Ji",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086457855,
+                "preferredName": "Shunning Jiang",
+                "firstName": "Shunning",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37085452788,
+                "preferredName": "Christopher Torng",
+                "firstName": "Christopher",
+                "lastName": "Torng"
+            },
+            {
+                "id": 37085849688,
+                "preferredName": "Moyang Wang",
+                "firstName": "Moyang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37082798600,
+                "preferredName": "Shreesha Srinath",
+                "firstName": "Shreesha",
+                "lastName": "Srinath"
+            },
+            {
+                "id": 37085433213,
+                "preferredName": "Berkin Ilbeyi",
+                "firstName": "Berkin",
+                "lastName": "Ilbeyi"
+            },
+            {
+                "id": 37086811534,
+                "preferredName": "Khalid Al-Hawa",
+                "firstName": "Khalid",
+                "lastName": "Al-Hawa"
+            },
+            {
+                "id": 37704124200,
+                "preferredName": "Christopher Batten",
+                "firstName": "Christopher",
+                "lastName": "Batten"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686555",
+        "articleTitle": "Architecting Hierarchical Coherence Protocols for Push-button Parametric Verification",
+        "volume": null,
+        "issue": null,
+        "startPage": "477",
+        "endPage": "489",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Architecting Hierarchical Coherence Protocols for Push-button Parametric Verification",
+        "authors": [
+            {
+                "id": 37086111838,
+                "preferredName": "Opeoluwa Matthews",
+                "firstName": "Opeoluwa",
+                "lastName": "Matthews"
+            },
+            {
+                "id": 37275338200,
+                "preferredName": "Daniel J. Sorin",
+                "firstName": "Daniel J.",
+                "lastName": "Sorin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686490",
+        "articleTitle": "Efficient Support of Position Independence on Non-Volatile Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "191",
+        "endPage": "203",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Efficient Support of Position Independence on Non-Volatile Memory",
+        "authors": [
+            {
+                "id": 37085506950,
+                "preferredName": "Guoyang Chen",
+                "firstName": "Guoyang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086812504,
+                "preferredName": "Lei Zhang",
+                "firstName": "Lei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086814841,
+                "preferredName": "Richa Budhiraja",
+                "firstName": "Richa",
+                "lastName": "Budhiraja"
+            },
+            {
+                "id": 37085517964,
+                "preferredName": "Xipeng Shen",
+                "firstName": "Xipeng",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37293508700,
+                "preferredName": "Youfeng Wu",
+                "firstName": "Youfeng",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686669",
+        "articleTitle": "Using Branch Predictors to Predict Brain Activity in Brain-Machine Implants",
+        "volume": null,
+        "issue": null,
+        "startPage": "409",
+        "endPage": "422",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Using Branch Predictors to Predict Brain Activity in Brain-Machine Implants",
+        "authors": [
+            {
+                "id": 38070367000,
+                "preferredName": "Abhishek Bhattacharjee",
+                "firstName": "Abhishek",
+                "lastName": "Bhattacharjee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686494",
+        "articleTitle": "Improving the Effectiveness of Searching for Isomorphic Chains in Superword Level Parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "718",
+        "endPage": "729",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Improving the Effectiveness of Searching for Isomorphic Chains in Superword Level Parallelism",
+        "authors": [
+            {
+                "id": 37085401829,
+                "preferredName": "Joonmoo Huh",
+                "firstName": "Joonmoo",
+                "lastName": "Huh"
+            },
+            {
+                "id": 37409802200,
+                "preferredName": "James Tuck",
+                "firstName": "James",
+                "lastName": "Tuck"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686532",
+        "articleTitle": "Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-efficient Video Streaming on Handhelds",
+        "volume": null,
+        "issue": null,
+        "startPage": "517",
+        "endPage": "531",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Race-To-Sleep + Content Caching + Display Caching: A Recipe for Energy-efficient Video Streaming on Handhelds",
+        "authors": [
+            {
+                "id": 37085730193,
+                "preferredName": "Haibo Zhang",
+                "firstName": "Haibo",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085523156,
+                "preferredName": "Prasanna Venkatesh Rengasamy",
+                "firstName": "Prasanna Venkatesh",
+                "lastName": "Rengasamy"
+            },
+            {
+                "id": 37086325122,
+                "preferredName": "Shulin Zhao",
+                "firstName": "Shulin",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085396158,
+                "preferredName": "Nachiappan Chidambaram Nachiappan",
+                "firstName": "Nachiappan Chidambaram",
+                "lastName": "Nachiappan"
+            },
+            {
+                "id": 37273174700,
+                "preferredName": "Anand Sivasubramaniam",
+                "firstName": "Anand",
+                "lastName": "Sivasubramaniam"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut T. Kandemir",
+                "firstName": "Mahmut T.",
+                "lastName": "Kandemir"
+            },
+            {
+                "id": 37065928100,
+                "preferredName": "Ravi Iyer",
+                "firstName": "Ravi",
+                "lastName": "Iyer"
+            },
+            {
+                "id": 37268589600,
+                "preferredName": "Chita R. Das",
+                "firstName": "Chita R.",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686496",
+        "articleTitle": "BVF: Enabling Significant On-Chip Power Savings via Bit-Value-Favor for Throughput Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "532",
+        "endPage": "545",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "BVF: Enabling Significant On-Chip Power Savings via Bit-Value-Favor for Throughput Processors",
+        "authors": [
+            {
+                "id": 37086806662,
+                "preferredName": "Ang Li",
+                "firstName": "Ang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085999474,
+                "preferredName": "Wenfeng Zhao",
+                "firstName": "Wenfeng",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085484533,
+                "preferredName": "Shuaiwen Leon Song",
+                "firstName": "Shuaiwen Leon",
+                "lastName": "Song"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686675",
+        "articleTitle": "Hardware Supported Persistent Object Address Translation",
+        "volume": null,
+        "issue": null,
+        "startPage": "800",
+        "endPage": "812",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Hardware Supported Persistent Object Address Translation",
+        "authors": [
+            {
+                "id": 37086431000,
+                "preferredName": "Tiancong Wang",
+                "firstName": "Tiancong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086429555,
+                "preferredName": "Sakthikumaran Sambasivam",
+                "firstName": "Sakthikumaran",
+                "lastName": "Sambasivam"
+            },
+            {
+                "id": 37282584700,
+                "preferredName": "Yan Solihin",
+                "firstName": "Yan",
+                "lastName": "Solihin"
+            },
+            {
+                "id": 37409802200,
+                "preferredName": "James Tuck",
+                "firstName": "James",
+                "lastName": "Tuck"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686575",
+        "articleTitle": "A Many-core Architecture for In-Memory Data Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "245",
+        "endPage": "258",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "A Many-core Architecture for In-Memory Data Processing",
+        "authors": [
+            {
+                "id": 37086131578,
+                "preferredName": "Sandeep R Agrawal",
+                "firstName": "Sandeep R",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37085772870,
+                "preferredName": "Sam Idicula",
+                "firstName": "Sam",
+                "lastName": "Idicula"
+            },
+            {
+                "id": 38187615000,
+                "preferredName": "Arun Raghavan",
+                "firstName": "Arun",
+                "lastName": "Raghavan"
+            },
+            {
+                "id": 37088730552,
+                "preferredName": "Evangelos Vlachos",
+                "firstName": "Evangelos",
+                "lastName": "Vlachos"
+            },
+            {
+                "id": 38063965500,
+                "preferredName": "Venkatraman Govindaraju",
+                "firstName": "Venkatraman",
+                "lastName": "Govindaraju"
+            },
+            {
+                "id": 37088737428,
+                "preferredName": "Venkatanathan Varadarajan",
+                "firstName": "Venkatanathan",
+                "lastName": "Varadarajan"
+            },
+            {
+                "id": 37070113000,
+                "preferredName": "Cagri Balkesen",
+                "firstName": "Cagri",
+                "lastName": "Balkesen"
+            },
+            {
+                "id": 37088741324,
+                "preferredName": "Georgios Giannikis",
+                "firstName": "Georgios",
+                "lastName": "Giannikis"
+            },
+            {
+                "id": 37088725705,
+                "preferredName": "Charlie Roth",
+                "firstName": "Charlie",
+                "lastName": "Roth"
+            },
+            {
+                "id": 37088725460,
+                "preferredName": "Nipun Agarwal",
+                "firstName": "Nipun",
+                "lastName": "Agarwal"
+            },
+            {
+                "id": 38666726300,
+                "preferredName": "Eric Sedlar",
+                "firstName": "Eric",
+                "lastName": "Sedlar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686503",
+        "articleTitle": "UDP: A Programmable Accelerator for Extract-Transform-Load Workloads and More",
+        "volume": null,
+        "issue": null,
+        "startPage": "55",
+        "endPage": "68",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "UDP: A Programmable Accelerator for Extract-Transform-Load Workloads and More",
+        "authors": [
+            {
+                "id": 37086116086,
+                "preferredName": "Yuanwei Fang",
+                "firstName": "Yuanwei",
+                "lastName": "Fang"
+            },
+            {
+                "id": 37085857931,
+                "preferredName": "Chen Zou",
+                "firstName": "Chen",
+                "lastName": "Zou"
+            },
+            {
+                "id": 37086209107,
+                "preferredName": "Aaron J. Elmore",
+                "firstName": "Aaron J.",
+                "lastName": "Elmore"
+            },
+            {
+                "id": 37275890600,
+                "preferredName": "Andrew A. Chien",
+                "firstName": "Andrew A.",
+                "lastName": "Chien"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686646",
+        "articleTitle": "SchedTask: A Hardware-Assisted Task Scheduler",
+        "volume": null,
+        "issue": null,
+        "startPage": "612",
+        "endPage": "624",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "SchedTask: A Hardware-Assisted Task Scheduler",
+        "authors": [
+            {
+                "id": 37085417246,
+                "preferredName": "Prathmesh Kallurkar",
+                "firstName": "Prathmesh",
+                "lastName": "Kallurkar"
+            },
+            {
+                "id": 38553959500,
+                "preferredName": "Smruti R. Sarangi",
+                "firstName": "Smruti R.",
+                "lastName": "Sarangi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686505",
+        "articleTitle": "Unleashing the Power of GPU for Physically-Based Rendering via Dynamic Ray Shuffling",
+        "volume": null,
+        "issue": null,
+        "startPage": "560",
+        "endPage": "573",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Unleashing the Power of GPU for Physically-Based Rendering via Dynamic Ray Shuffling",
+        "authors": [
+            {
+                "id": 37086813313,
+                "preferredName": "Yashuai Lu\u00fc",
+                "firstName": "Yashuai",
+                "lastName": "Lu\u00fc"
+            },
+            {
+                "id": 37292522800,
+                "preferredName": "Libo Huang",
+                "firstName": "Libo",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37287404400,
+                "preferredName": "Li Shen",
+                "firstName": "Li",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37279253800,
+                "preferredName": "Zhiying Wang",
+                "firstName": "Zhiying",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686723",
+        "articleTitle": "TMI: Thread Memory Isolation for False Sharing Repair",
+        "volume": null,
+        "issue": null,
+        "startPage": "639",
+        "endPage": "650",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "TMI: Thread Memory Isolation for False Sharing Repair",
+        "authors": [
+            {
+                "id": 37086426028,
+                "preferredName": "Christian DeLozier",
+                "firstName": "Christian",
+                "lastName": "DeLozier"
+            },
+            {
+                "id": 37086426873,
+                "preferredName": "Ariel Eizenberg",
+                "firstName": "Ariel",
+                "lastName": "Eizenberg"
+            },
+            {
+                "id": 38063766100,
+                "preferredName": "Shiliang Hu",
+                "firstName": "Shiliang",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37424198800,
+                "preferredName": "Gilles Pokam",
+                "firstName": "Gilles",
+                "lastName": "Pokam"
+            },
+            {
+                "id": 38259804100,
+                "preferredName": "Joseph Devietti",
+                "firstName": "Joseph",
+                "lastName": "Devietti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686693",
+        "articleTitle": "UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition",
+        "volume": null,
+        "issue": null,
+        "startPage": "69",
+        "endPage": "81",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "UNFOLD: A Memory-Efficient Speech Recognizer Using On-The-Fly WFST Composition",
+        "authors": [
+            {
+                "id": 38469449100,
+                "preferredName": "Reza Yazdani",
+                "firstName": "Reza",
+                "lastName": "Yazdani"
+            },
+            {
+                "id": 38261033900,
+                "preferredName": "Jose-Maria Arnau",
+                "firstName": "Jose-Maria",
+                "lastName": "Arnau"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "Antonio Gonz\u00e1lez",
+                "firstName": "Antonio",
+                "lastName": "Gonz\u00e1lez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686585",
+        "articleTitle": "ConTutto \u2013 A Novel FPGA-based Prototyping Platform Enabling Innovation in the Memory Subsystem of a Server Class Processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "ConTutto \u2013 A Novel FPGA-based Prototyping Platform Enabling Innovation in the Memory Subsystem of a Server Class Processor",
+        "authors": [
+            {
+                "id": 37297287200,
+                "preferredName": "Bharat Sukhwani",
+                "firstName": "Bharat",
+                "lastName": "Sukhwani"
+            },
+            {
+                "id": 37086568861,
+                "preferredName": "Thomas Roewer",
+                "firstName": "Thomas",
+                "lastName": "Roewer"
+            },
+            {
+                "id": 37265690500,
+                "preferredName": "Charles L. Haymes",
+                "firstName": "Charles L.",
+                "lastName": "Haymes"
+            },
+            {
+                "id": 37367181100,
+                "preferredName": "Kyu-Hyoun Kim",
+                "firstName": "Kyu-Hyoun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086567597,
+                "preferredName": "Adam J. McPadden",
+                "firstName": "Adam J.",
+                "lastName": "McPadden"
+            },
+            {
+                "id": 37332025000,
+                "preferredName": "Daniel M. Dreps",
+                "firstName": "Daniel M.",
+                "lastName": "Dreps"
+            },
+            {
+                "id": 37086812368,
+                "preferredName": "Dean Sanner",
+                "firstName": "Dean",
+                "lastName": "Sanner"
+            },
+            {
+                "id": 37086813652,
+                "preferredName": "Jan Van Lunteren",
+                "firstName": "Jan Van",
+                "lastName": "Lunteren"
+            },
+            {
+                "id": 37354789400,
+                "preferredName": "Sameh Asaad",
+                "firstName": "Sameh",
+                "lastName": "Asaad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686521",
+        "articleTitle": "Architectural Opportunities for Novel Dynamic EMI Shifting(DEMIS)",
+        "volume": null,
+        "issue": null,
+        "startPage": "774",
+        "endPage": "785",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Architectural Opportunities for Novel Dynamic EMI Shifting(DEMIS)",
+        "authors": [
+            {
+                "id": 37086813487,
+                "preferredName": "Daphne I. Gorman",
+                "firstName": "Daphne I.",
+                "lastName": "Gorman"
+            },
+            {
+                "id": 37400047600,
+                "preferredName": "Matthew R. Guthaus",
+                "firstName": "Matthew R.",
+                "lastName": "Guthaus"
+            },
+            {
+                "id": 37328722100,
+                "preferredName": "Jose Renau",
+                "firstName": "Jose",
+                "lastName": "Renau"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686674",
+        "articleTitle": "Mirage Cores: The Illusion of Many Out-of-order Cores Using In-order Hardware",
+        "volume": null,
+        "issue": null,
+        "startPage": "745",
+        "endPage": "758",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Mirage Cores: The Illusion of Many Out-of-order Cores Using In-order Hardware",
+        "authors": [
+            {
+                "id": 38581075900,
+                "preferredName": "Shruti Padmanabha",
+                "firstName": "Shruti",
+                "lastName": "Padmanabha"
+            },
+            {
+                "id": 38580762400,
+                "preferredName": "Andrew Lukefahr",
+                "firstName": "Andrew",
+                "lastName": "Lukefahr"
+            },
+            {
+                "id": 37534767200,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "Scott Mahlke",
+                "firstName": "Scott",
+                "lastName": "Mahlke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686602",
+        "articleTitle": "Software-based Gate-level Information Flow Security for IoT Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "328",
+        "endPage": "340",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Software-based Gate-level Information Flow Security for IoT Systems",
+        "authors": [
+            {
+                "id": 37085703170,
+                "preferredName": "Hari Cherupalli",
+                "firstName": "Hari",
+                "lastName": "Cherupalli"
+            },
+            {
+                "id": 38667878300,
+                "preferredName": "Henry Duwe",
+                "firstName": "Henry",
+                "lastName": "Duwe"
+            },
+            {
+                "id": 37086049874,
+                "preferredName": "Weidong Ye",
+                "firstName": "Weidong",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37709981500,
+                "preferredName": "Rakesh Kumar",
+                "firstName": "Rakesh",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37391767500,
+                "preferredName": "John Sartori",
+                "firstName": "John",
+                "lastName": "Sartori"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686576",
+        "articleTitle": "PARSNIP: Performant Architecture for Race Safety with No Impact on Precision",
+        "volume": null,
+        "issue": null,
+        "startPage": "490",
+        "endPage": "502",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "PARSNIP: Performant Architecture for Race Safety with No Impact on Precision",
+        "authors": [
+            {
+                "id": 37086427015,
+                "preferredName": "Yuanfeng Peng",
+                "firstName": "Yuanfeng",
+                "lastName": "Peng"
+            },
+            {
+                "id": 38267709600,
+                "preferredName": "Benjamin P. Wood",
+                "firstName": "Benjamin P.",
+                "lastName": "Wood"
+            },
+            {
+                "id": 38259804100,
+                "preferredName": "Joseph Devietti",
+                "firstName": "Joseph",
+                "lastName": "Devietti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686657",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8681290",
+        "doi": null,
+        "publicationYear": "2017",
+        "publicationDate": "14-17 Oct. 2017",
+        "articleNumber": "8686691",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 50th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    }
+]

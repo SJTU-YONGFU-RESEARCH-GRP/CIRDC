@@ -1,0 +1,1962 @@
+[
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00039",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136140",
+        "articleTitle": "Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "464",
+        "endPage": "483",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Toward Transparent AI: A Survey on Interpreting the Inner Structures of Deep Neural Networks",
+        "authors": [
+            {
+                "id": 37089863606,
+                "preferredName": "Tilman R\u00e4uker",
+                "firstName": "Tilman",
+                "lastName": "R\u00e4uker"
+            },
+            {
+                "id": 37089549237,
+                "preferredName": "Anson Ho",
+                "firstName": "Anson",
+                "lastName": "Ho"
+            },
+            {
+                "id": 37089864025,
+                "preferredName": "Stephen Casper",
+                "firstName": "Stephen",
+                "lastName": "Casper"
+            },
+            {
+                "id": 37077610100,
+                "preferredName": "Dylan Hadfield-Menell",
+                "firstName": "Dylan",
+                "lastName": "Hadfield-Menell"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00031",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136152",
+        "articleTitle": "\u201cReal Attackers Don't Compute Gradients\u201d: Bridging the Gap Between Adversarial ML Research and Practice",
+        "volume": null,
+        "issue": null,
+        "startPage": "339",
+        "endPage": "364",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "\u201cReal Attackers Don't Compute Gradients\u201d: Bridging the Gap Between Adversarial ML Research and Practice",
+        "authors": [
+            {
+                "id": 37086264470,
+                "preferredName": "Giovanni Apruzzese",
+                "firstName": "Giovanni",
+                "lastName": "Apruzzese"
+            },
+            {
+                "id": 37089862477,
+                "preferredName": "Hyrum S. Anderson",
+                "firstName": "Hyrum S.",
+                "lastName": "Anderson"
+            },
+            {
+                "id": 37088451824,
+                "preferredName": "Savino Dambra",
+                "firstName": "Savino",
+                "lastName": "Dambra"
+            },
+            {
+                "id": 37089863279,
+                "preferredName": "David Freeman",
+                "firstName": "David",
+                "lastName": "Freeman"
+            },
+            {
+                "id": 37085435422,
+                "preferredName": "Fabio Pierazzi",
+                "firstName": "Fabio",
+                "lastName": "Pierazzi"
+            },
+            {
+                "id": 37086243723,
+                "preferredName": "Kevin Roundy",
+                "firstName": "Kevin",
+                "lastName": "Roundy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00047",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136160",
+        "articleTitle": "No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes",
+        "volume": null,
+        "issue": null,
+        "startPage": "622",
+        "endPage": "637",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "No Matter How You Slice It: Machine Unlearning with SISA Comes at the Expense of Minority Classes",
+        "authors": [
+            {
+                "id": 37089863189,
+                "preferredName": "Korbinian Koch",
+                "firstName": "Korbinian",
+                "lastName": "Koch"
+            },
+            {
+                "id": 37088745914,
+                "preferredName": "Marcus Soll",
+                "firstName": "Marcus",
+                "lastName": "Soll"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00024",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136149",
+        "articleTitle": "A Light Recipe to Train Robust Vision Transformers",
+        "volume": null,
+        "issue": null,
+        "startPage": "225",
+        "endPage": "253",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "A Light Recipe to Train Robust Vision Transformers",
+        "authors": [
+            {
+                "id": 37089863422,
+                "preferredName": "Edoardo Debenedetti",
+                "firstName": "Edoardo",
+                "lastName": "Debenedetti"
+            },
+            {
+                "id": 37089269920,
+                "preferredName": "Vikash Sehwag",
+                "firstName": "Vikash",
+                "lastName": "Sehwag"
+            },
+            {
+                "id": 38093877700,
+                "preferredName": "Prateek Mittal",
+                "firstName": "Prateek",
+                "lastName": "Mittal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00020",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136175",
+        "articleTitle": "ExPLoit: Extracting Private Labels in Split Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "165",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "ExPLoit: Extracting Private Labels in Split Learning",
+        "authors": [
+            {
+                "id": 37086806895,
+                "preferredName": "Sanjay Kariyappa",
+                "firstName": "Sanjay",
+                "lastName": "Kariyappa"
+            },
+            {
+                "id": 37301807700,
+                "preferredName": "Moinuddin K Qureshi",
+                "firstName": "Moinuddin K",
+                "lastName": "Qureshi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00035",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136135",
+        "articleTitle": "Venomave: Targeted Poisoning Against Speech Recognition",
+        "volume": null,
+        "issue": null,
+        "startPage": "404",
+        "endPage": "417",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Venomave: Targeted Poisoning Against Speech Recognition",
+        "authors": [
+            {
+                "id": 37087390529,
+                "preferredName": "Hojjat Aghakhani",
+                "firstName": "Hojjat",
+                "lastName": "Aghakhani"
+            },
+            {
+                "id": 37086176749,
+                "preferredName": "Lea Sch\u00f6nherr",
+                "firstName": "Lea",
+                "lastName": "Sch\u00f6nherr"
+            },
+            {
+                "id": 37089862023,
+                "preferredName": "Thorsten Eisenhofer",
+                "firstName": "Thorsten",
+                "lastName": "Eisenhofer"
+            },
+            {
+                "id": 37295367900,
+                "preferredName": "Dorothea Kolossa",
+                "firstName": "Dorothea",
+                "lastName": "Kolossa"
+            },
+            {
+                "id": 37300644200,
+                "preferredName": "Thorsten Holz",
+                "firstName": "Thorsten",
+                "lastName": "Holz"
+            },
+            {
+                "id": 37283981400,
+                "preferredName": "Christopher Kruegel",
+                "firstName": "Christopher",
+                "lastName": "Kruegel"
+            },
+            {
+                "id": 37284021300,
+                "preferredName": "Giovanni Vigna",
+                "firstName": "Giovanni",
+                "lastName": "Vigna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00038",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136139",
+        "articleTitle": "Harnessing Prior Knowledge for Explainable Machine Learning: An Overview",
+        "volume": null,
+        "issue": null,
+        "startPage": "450",
+        "endPage": "463",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Harnessing Prior Knowledge for Explainable Machine Learning: An Overview",
+        "authors": [
+            {
+                "id": 37089628615,
+                "preferredName": "Katharina Beckh",
+                "firstName": "Katharina",
+                "lastName": "Beckh"
+            },
+            {
+                "id": 37089860974,
+                "preferredName": "Sebastian M\u00fcller",
+                "firstName": "Sebastian",
+                "lastName": "M\u00fcller"
+            },
+            {
+                "id": 37086543139,
+                "preferredName": "Matthias Jakobs",
+                "firstName": "Matthias",
+                "lastName": "Jakobs"
+            },
+            {
+                "id": 37089861017,
+                "preferredName": "Vanessa Toborek",
+                "firstName": "Vanessa",
+                "lastName": "Toborek"
+            },
+            {
+                "id": 37089299705,
+                "preferredName": "Hanxiao Tan",
+                "firstName": "Hanxiao",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37088558793,
+                "preferredName": "Raphael Fischer",
+                "firstName": "Raphael",
+                "lastName": "Fischer"
+            },
+            {
+                "id": 37088307041,
+                "preferredName": "Pascal Welke",
+                "firstName": "Pascal",
+                "lastName": "Welke"
+            },
+            {
+                "id": 37706519500,
+                "preferredName": "Sebastian Houben",
+                "firstName": "Sebastian",
+                "lastName": "Houben"
+            },
+            {
+                "id": 37088855214,
+                "preferredName": "Laura von Rueden",
+                "firstName": "Laura",
+                "lastName": "von Rueden"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00012",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136153",
+        "articleTitle": "Exploiting Fairness to Enhance Sensitive Attributes Reconstruction",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Exploiting Fairness to Enhance Sensitive Attributes Reconstruction",
+        "authors": [
+            {
+                "id": 37089810078,
+                "preferredName": "Julien Ferry",
+                "firstName": "Julien",
+                "lastName": "Ferry"
+            },
+            {
+                "id": 37087011544,
+                "preferredName": "Ulrich A\u00efvodji",
+                "firstName": "Ulrich",
+                "lastName": "A\u00efvodji"
+            },
+            {
+                "id": 37304115400,
+                "preferredName": "S\u00e9bastien Gambs",
+                "firstName": "S\u00e9bastien",
+                "lastName": "Gambs"
+            },
+            {
+                "id": 37301616700,
+                "preferredName": "Marie-Jos\u00e9 Huguet",
+                "firstName": "Marie-Jos\u00e9",
+                "lastName": "Huguet"
+            },
+            {
+                "id": 37089861256,
+                "preferredName": "Mohamed Siala",
+                "firstName": "Mohamed",
+                "lastName": "Siala"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00027",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136134",
+        "articleTitle": "EDoG: Adversarial Edge Detection For Graph Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "291",
+        "endPage": "305",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "EDoG: Adversarial Edge Detection For Graph Neural Networks",
+        "authors": [
+            {
+                "id": 37088458437,
+                "preferredName": "Xiaojun Xu",
+                "firstName": "Xiaojun",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37089248958,
+                "preferredName": "Hanzhang Wang",
+                "firstName": "Hanzhang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089862767,
+                "preferredName": "Alok Lal",
+                "firstName": "Alok",
+                "lastName": "Lal"
+            },
+            {
+                "id": 37271432500,
+                "preferredName": "Carl A. Gunter",
+                "firstName": "Carl A.",
+                "lastName": "Gunter"
+            },
+            {
+                "id": 37086537305,
+                "preferredName": "Bo Li",
+                "firstName": "Bo",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00042",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136136",
+        "articleTitle": "Toward Certified Robustness Against Real-World Distribution Shifts",
+        "volume": null,
+        "issue": null,
+        "startPage": "537",
+        "endPage": "553",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Toward Certified Robustness Against Real-World Distribution Shifts",
+        "authors": [
+            {
+                "id": 37088556359,
+                "preferredName": "Haoze Wu",
+                "firstName": "Haoze",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37089860302,
+                "preferredName": "Teruhiro Tagomori",
+                "firstName": "Teruhiro",
+                "lastName": "Tagomori"
+            },
+            {
+                "id": 37088758024,
+                "preferredName": "Alexander Robey",
+                "firstName": "Alexander",
+                "lastName": "Robey"
+            },
+            {
+                "id": 37089278541,
+                "preferredName": "Fengjun Yang",
+                "firstName": "Fengjun",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37398611500,
+                "preferredName": "Nikolai Matni",
+                "firstName": "Nikolai",
+                "lastName": "Matni"
+            },
+            {
+                "id": 37281547100,
+                "preferredName": "George Pappas",
+                "firstName": "George",
+                "lastName": "Pappas"
+            },
+            {
+                "id": 37086178545,
+                "preferredName": "Hamed Hassani",
+                "firstName": "Hamed",
+                "lastName": "Hassani"
+            },
+            {
+                "id": 37267663200,
+                "preferredName": "Corina Pasareanu",
+                "firstName": "Corina",
+                "lastName": "Pasareanu"
+            },
+            {
+                "id": 37272555300,
+                "preferredName": "Clark Barrett",
+                "firstName": "Clark",
+                "lastName": "Barrett"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00034",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136146",
+        "articleTitle": "Backdoor Attacks on Time Series: A Generative Approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "392",
+        "endPage": "403",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Backdoor Attacks on Time Series: A Generative Approach",
+        "authors": [
+            {
+                "id": 37088969210,
+                "preferredName": "Yujing Jiang",
+                "firstName": "Yujing",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37086254873,
+                "preferredName": "Xingjun Ma",
+                "firstName": "Xingjun",
+                "lastName": "Ma"
+            },
+            {
+                "id": 38241509700,
+                "preferredName": "Sarah Monazam Erfani",
+                "firstName": "Sarah Monazam",
+                "lastName": "Erfani"
+            },
+            {
+                "id": 37395392600,
+                "preferredName": "James Bailey",
+                "firstName": "James",
+                "lastName": "Bailey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00014",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136151",
+        "articleTitle": "Learning Fair Representations through Uniformly Distributed Sensitive Attributes",
+        "volume": null,
+        "issue": null,
+        "startPage": "58",
+        "endPage": "67",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Learning Fair Representations through Uniformly Distributed Sensitive Attributes",
+        "authors": [
+            {
+                "id": 37088901472,
+                "preferredName": "Patrik Joslin Kenfack",
+                "firstName": "Patrik Joslin",
+                "lastName": "Kenfack"
+            },
+            {
+                "id": 38468773900,
+                "preferredName": "Ad\u00edn Ram\u00edrez Rivera",
+                "firstName": "Ad\u00edn Ram\u00edrez",
+                "lastName": "Rivera"
+            },
+            {
+                "id": 37085895664,
+                "preferredName": "Adil Mehmood Khan",
+                "firstName": "Adil Mehmood",
+                "lastName": "Khan"
+            },
+            {
+                "id": 37546088900,
+                "preferredName": "Manuel Mazzara",
+                "firstName": "Manuel",
+                "lastName": "Mazzara"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00050",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136159",
+        "articleTitle": "A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "690",
+        "endPage": "704",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "A Validity Perspective on Evaluating the Justified Use of Data-driven Decision-making Algorithms",
+        "authors": [
+            {
+                "id": 37089860392,
+                "preferredName": "Amanda Coston",
+                "firstName": "Amanda",
+                "lastName": "Coston"
+            },
+            {
+                "id": 37089862226,
+                "preferredName": "Anna Kawakami",
+                "firstName": "Anna",
+                "lastName": "Kawakami"
+            },
+            {
+                "id": 37089863784,
+                "preferredName": "Haiyi Zhu",
+                "firstName": "Haiyi",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37089860950,
+                "preferredName": "Ken Holstein",
+                "firstName": "Ken",
+                "lastName": "Holstein"
+            },
+            {
+                "id": 37089863280,
+                "preferredName": "Hoda Heidari",
+                "firstName": "Hoda",
+                "lastName": "Heidari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00030",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136132",
+        "articleTitle": "Towards Transferable Unrestricted Adversarial Examples with Minimum Changes",
+        "volume": null,
+        "issue": null,
+        "startPage": "327",
+        "endPage": "338",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Towards Transferable Unrestricted Adversarial Examples with Minimum Changes",
+        "authors": [
+            {
+                "id": 37089861383,
+                "preferredName": "Fangcheng Liu",
+                "firstName": "Fangcheng",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37288983200,
+                "preferredName": "Chao Zhang",
+                "firstName": "Chao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089861718,
+                "preferredName": "Hongyang Zhang",
+                "firstName": "Hongyang",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00048",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136171",
+        "articleTitle": "Data Redaction from Pre-trained GANs",
+        "volume": null,
+        "issue": null,
+        "startPage": "638",
+        "endPage": "677",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Data Redaction from Pre-trained GANs",
+        "authors": [
+            {
+                "id": 37089467597,
+                "preferredName": "Zhifeng Kong",
+                "firstName": "Zhifeng",
+                "lastName": "Kong"
+            },
+            {
+                "id": 37322218600,
+                "preferredName": "Kamalika Chaudhuri",
+                "firstName": "Kamalika",
+                "lastName": "Chaudhuri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00019",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136142",
+        "articleTitle": "Dissecting Distribution Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "150",
+        "endPage": "164",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Dissecting Distribution Inference",
+        "authors": [
+            {
+                "id": 37087013620,
+                "preferredName": "Anshuman Suri",
+                "firstName": "Anshuman",
+                "lastName": "Suri"
+            },
+            {
+                "id": 37089863243,
+                "preferredName": "Yifu Lu",
+                "firstName": "Yifu",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37089864077,
+                "preferredName": "Yanjin Chen",
+                "firstName": "Yanjin",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37277762500,
+                "preferredName": "David Evans",
+                "firstName": "David",
+                "lastName": "Evans"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00018",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136150",
+        "articleTitle": "Distribution Inference Risks: Identifying and Mitigating Sources of Leakage",
+        "volume": null,
+        "issue": null,
+        "startPage": "136",
+        "endPage": "149",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Distribution Inference Risks: Identifying and Mitigating Sources of Leakage",
+        "authors": [
+            {
+                "id": 37089862317,
+                "preferredName": "Valentin Hartmann",
+                "firstName": "Valentin",
+                "lastName": "Hartmann"
+            },
+            {
+                "id": 37089861510,
+                "preferredName": "L\u00e9o Meynent",
+                "firstName": "L\u00e9o",
+                "lastName": "Meynent"
+            },
+            {
+                "id": 37089860696,
+                "preferredName": "Maxime Peyrard",
+                "firstName": "Maxime",
+                "lastName": "Peyrard"
+            },
+            {
+                "id": 37392746700,
+                "preferredName": "Dimitrios Dimitriadis",
+                "firstName": "Dimitrios",
+                "lastName": "Dimitriadis"
+            },
+            {
+                "id": 37088771603,
+                "preferredName": "Shruti Tople",
+                "firstName": "Shruti",
+                "lastName": "Tople"
+            },
+            {
+                "id": 37089704325,
+                "preferredName": "Robert West",
+                "firstName": "Robert",
+                "lastName": "West"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00023",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136162",
+        "articleTitle": "Optimal Data Acquisition with Privacy-Aware Agents",
+        "volume": null,
+        "issue": null,
+        "startPage": "210",
+        "endPage": "224",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Optimal Data Acquisition with Privacy-Aware Agents",
+        "authors": [
+            {
+                "id": 37088988353,
+                "preferredName": "Rachel Cummings",
+                "firstName": "Rachel",
+                "lastName": "Cummings"
+            },
+            {
+                "id": 37089861589,
+                "preferredName": "Hadi Elzayn",
+                "firstName": "Hadi",
+                "lastName": "Elzayn"
+            },
+            {
+                "id": 37085698562,
+                "preferredName": "Emmanouil Pountourakis",
+                "firstName": "Emmanouil",
+                "lastName": "Pountourakis"
+            },
+            {
+                "id": 37086489443,
+                "preferredName": "Vasilis Gkatzelis",
+                "firstName": "Vasilis",
+                "lastName": "Gkatzelis"
+            },
+            {
+                "id": 37086362858,
+                "preferredName": "Juba Ziani",
+                "firstName": "Juba",
+                "lastName": "Ziani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00033",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136141",
+        "articleTitle": "Sniper Backdoor: Single Client Targeted Backdoor Attack in Federated Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "377",
+        "endPage": "391",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Sniper Backdoor: Single Client Targeted Backdoor Attack in Federated Learning",
+        "authors": [
+            {
+                "id": 37089862690,
+                "preferredName": "Gorka Abad",
+                "firstName": "Gorka",
+                "lastName": "Abad"
+            },
+            {
+                "id": 37089485514,
+                "preferredName": "Servio Paguada",
+                "firstName": "Servio",
+                "lastName": "Paguada"
+            },
+            {
+                "id": 37089863324,
+                "preferredName": "O\u011fuzhan Ersoy",
+                "firstName": "O\u011fuzhan",
+                "lastName": "Ersoy"
+            },
+            {
+                "id": 37706928300,
+                "preferredName": "Stjepan Picek",
+                "firstName": "Stjepan",
+                "lastName": "Picek"
+            },
+            {
+                "id": 37089860649,
+                "preferredName": "V\u00edctor Julio Ram\u00edrez-Dur\u00e1n",
+                "firstName": "V\u00edctor Julio",
+                "lastName": "Ram\u00edrez-Dur\u00e1n"
+            },
+            {
+                "id": 38097828200,
+                "preferredName": "Aitor Urbieta",
+                "firstName": "Aitor",
+                "lastName": "Urbieta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00040",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136157",
+        "articleTitle": "Reducing Certified Regression to Certified Classification for General Poisoning Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "484",
+        "endPage": "523",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Reducing Certified Regression to Certified Classification for General Poisoning Attacks",
+        "authors": [
+            {
+                "id": 37089863680,
+                "preferredName": "Zayd Hammoudeh",
+                "firstName": "Zayd",
+                "lastName": "Hammoudeh"
+            },
+            {
+                "id": 37992254500,
+                "preferredName": "Daniel Lowd",
+                "firstName": "Daniel",
+                "lastName": "Lowd"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00025",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136161",
+        "articleTitle": "Less is More: Dimension Reduction Finds On-Manifold Adversarial Examples in Hard-Label Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "254",
+        "endPage": "270",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Less is More: Dimension Reduction Finds On-Manifold Adversarial Examples in Hard-Label Attacks",
+        "authors": [
+            {
+                "id": 37086949030,
+                "preferredName": "Washington Garcia",
+                "firstName": "Washington",
+                "lastName": "Garcia"
+            },
+            {
+                "id": 37085344795,
+                "preferredName": "Pin-Yu Chen",
+                "firstName": "Pin-Yu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085390077,
+                "preferredName": "Hamilton Scott Clouse",
+                "firstName": "Hamilton Scott",
+                "lastName": "Clouse"
+            },
+            {
+                "id": 37279267300,
+                "preferredName": "Somesh Jha",
+                "firstName": "Somesh",
+                "lastName": "Jha"
+            },
+            {
+                "id": 37298235800,
+                "preferredName": "Kevin R.B. Butler",
+                "firstName": "Kevin R.B.",
+                "lastName": "Butler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00036",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136130",
+        "articleTitle": "Endogenous Macrodynamics in Algorithmic Recourse",
+        "volume": null,
+        "issue": null,
+        "startPage": "418",
+        "endPage": "431",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Endogenous Macrodynamics in Algorithmic Recourse",
+        "authors": [
+            {
+                "id": 37089862339,
+                "preferredName": "Patrick Altmeyer",
+                "firstName": "Patrick",
+                "lastName": "Altmeyer"
+            },
+            {
+                "id": 37089860342,
+                "preferredName": "Giovan Angela",
+                "firstName": "Giovan",
+                "lastName": "Angela"
+            },
+            {
+                "id": 37089863582,
+                "preferredName": "Aleksander Buszydlik",
+                "firstName": "Aleksander",
+                "lastName": "Buszydlik"
+            },
+            {
+                "id": 37089862052,
+                "preferredName": "Karol Dobiczek",
+                "firstName": "Karol",
+                "lastName": "Dobiczek"
+            },
+            {
+                "id": 37271310500,
+                "preferredName": "Arie van Deursen",
+                "firstName": "Arie",
+                "lastName": "van Deursen"
+            },
+            {
+                "id": 37075691600,
+                "preferredName": "Cynthia C. S. Liem",
+                "firstName": "Cynthia C. S.",
+                "lastName": "Liem"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00011",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136173",
+        "articleTitle": "Explainable Global Fairness Verification of Tree-Based Classifiers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Explainable Global Fairness Verification of Tree-Based Classifiers",
+        "authors": [
+            {
+                "id": 37947669500,
+                "preferredName": "Stefano Calzavara",
+                "firstName": "Stefano",
+                "lastName": "Calzavara"
+            },
+            {
+                "id": 37089862888,
+                "preferredName": "Lorenzo Cazzaro",
+                "firstName": "Lorenzo",
+                "lastName": "Cazzaro"
+            },
+            {
+                "id": 37426735700,
+                "preferredName": "Claudio Lucchese",
+                "firstName": "Claudio",
+                "lastName": "Lucchese"
+            },
+            {
+                "id": 37089861815,
+                "preferredName": "Federico Marcuzzi",
+                "firstName": "Federico",
+                "lastName": "Marcuzzi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00043",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136144",
+        "articleTitle": "CARE: Certifiably Robust Learning with Reasoning via Variational Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "554",
+        "endPage": "574",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "CARE: Certifiably Robust Learning with Reasoning via Variational Inference",
+        "authors": [
+            {
+                "id": 37089776181,
+                "preferredName": "Jiawei Zhang",
+                "firstName": "Jiawei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089427029,
+                "preferredName": "Linyi Li",
+                "firstName": "Linyi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086011002,
+                "preferredName": "Ce Zhang",
+                "firstName": "Ce",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086537305,
+                "preferredName": "Bo Li",
+                "firstName": "Bo",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00037",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136156",
+        "articleTitle": "ModelPred: A Framework for Predicting Trained Model from Training Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "432",
+        "endPage": "449",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "ModelPred: A Framework for Predicting Trained Model from Training Data",
+        "authors": [
+            {
+                "id": 37088908243,
+                "preferredName": "Yingyan Zeng",
+                "firstName": "Yingyan",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37089862278,
+                "preferredName": "Jiachen T. Wang",
+                "firstName": "Jiachen T.",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089500705,
+                "preferredName": "Si Chen",
+                "firstName": "Si",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089539382,
+                "preferredName": "Hoang Anh Just",
+                "firstName": "Hoang Anh",
+                "lastName": "Just"
+            },
+            {
+                "id": 37086041689,
+                "preferredName": "Ran Jin",
+                "firstName": "Ran",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37085390534,
+                "preferredName": "Ruoxi Jia",
+                "firstName": "Ruoxi",
+                "lastName": "Jia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00028",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136170",
+        "articleTitle": "Counterfactual Sentence Generation with Plug-and-Play Perturbation",
+        "volume": null,
+        "issue": null,
+        "startPage": "306",
+        "endPage": "315",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Counterfactual Sentence Generation with Plug-and-Play Perturbation",
+        "authors": [
+            {
+                "id": 37086057653,
+                "preferredName": "Nishtha Madaan",
+                "firstName": "Nishtha",
+                "lastName": "Madaan"
+            },
+            {
+                "id": 37085436653,
+                "preferredName": "Diptikalyan Saha",
+                "firstName": "Diptikalyan",
+                "lastName": "Saha"
+            },
+            {
+                "id": 37283131500,
+                "preferredName": "Srikanta Bedathur",
+                "firstName": "Srikanta",
+                "lastName": "Bedathur"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00049",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136168",
+        "articleTitle": "Tensions Between the Proxies of Human Values in AI",
+        "volume": null,
+        "issue": null,
+        "startPage": "678",
+        "endPage": "689",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Tensions Between the Proxies of Human Values in AI",
+        "authors": [
+            {
+                "id": 37089861551,
+                "preferredName": "Teresa Datta",
+                "firstName": "Teresa",
+                "lastName": "Datta"
+            },
+            {
+                "id": 37294620300,
+                "preferredName": "Daniel Nissani",
+                "firstName": "Daniel",
+                "lastName": "Nissani"
+            },
+            {
+                "id": 37089860911,
+                "preferredName": "Max Cembalest",
+                "firstName": "Max",
+                "lastName": "Cembalest"
+            },
+            {
+                "id": 37089863843,
+                "preferredName": "Akash Khanna",
+                "firstName": "Akash",
+                "lastName": "Khanna"
+            },
+            {
+                "id": 37089862527,
+                "preferredName": "Haley Massa",
+                "firstName": "Haley",
+                "lastName": "Massa"
+            },
+            {
+                "id": 37089861652,
+                "preferredName": "John Dickerson",
+                "firstName": "John",
+                "lastName": "Dickerson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00015",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136172",
+        "articleTitle": "Can Stochastic Gradient Langevin Dynamics Provide Differential Privacy for Deep Learning?",
+        "volume": null,
+        "issue": null,
+        "startPage": "68",
+        "endPage": "106",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Can Stochastic Gradient Langevin Dynamics Provide Differential Privacy for Deep Learning?",
+        "authors": [
+            {
+                "id": 37089285448,
+                "preferredName": "Guy Heller",
+                "firstName": "Guy",
+                "lastName": "Heller"
+            },
+            {
+                "id": 37087781670,
+                "preferredName": "Ethan Fetaya",
+                "firstName": "Ethan",
+                "lastName": "Fetaya"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00046",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136174",
+        "articleTitle": "Theoretical Limits of Provable Security Against Model Extraction by Efficient Observational Defenses",
+        "volume": null,
+        "issue": null,
+        "startPage": "605",
+        "endPage": "621",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Theoretical Limits of Provable Security Against Model Extraction by Efficient Observational Defenses",
+        "authors": [
+            {
+                "id": 37089863005,
+                "preferredName": "Ari Karchmer",
+                "firstName": "Ari",
+                "lastName": "Karchmer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00022",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136143",
+        "articleTitle": "Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming",
+        "volume": null,
+        "issue": null,
+        "startPage": "197",
+        "endPage": "209",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Reprogrammable-FL: Improving Utility-Privacy Tradeoff in Federated Learning via Model Reprogramming",
+        "authors": [
+            {
+                "id": 37089863093,
+                "preferredName": "Huzaifa Arif",
+                "firstName": "Huzaifa",
+                "lastName": "Arif"
+            },
+            {
+                "id": 37086600957,
+                "preferredName": "Alex Gittens",
+                "firstName": "Alex",
+                "lastName": "Gittens"
+            },
+            {
+                "id": 37085344795,
+                "preferredName": "Pin-Yu Chen",
+                "firstName": "Pin-Yu",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00013",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136147",
+        "articleTitle": "Wealth Dynamics Over Generations: Analysis and Interventions",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Wealth Dynamics Over Generations: Analysis and Interventions",
+        "authors": [
+            {
+                "id": 37089860391,
+                "preferredName": "Krishna Acharya",
+                "firstName": "Krishna",
+                "lastName": "Acharya"
+            },
+            {
+                "id": 37089863389,
+                "preferredName": "Eshwar Ram Arunachaleswaran",
+                "firstName": "Eshwar Ram",
+                "lastName": "Arunachaleswaran"
+            },
+            {
+                "id": 37446431100,
+                "preferredName": "Sampath Kannan",
+                "firstName": "Sampath",
+                "lastName": "Kannan"
+            },
+            {
+                "id": 37085521899,
+                "preferredName": "Aaron Roth",
+                "firstName": "Aaron",
+                "lastName": "Roth"
+            },
+            {
+                "id": 37086362858,
+                "preferredName": "Juba Ziani",
+                "firstName": "Juba",
+                "lastName": "Ziani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00021",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136155",
+        "articleTitle": "SafeNet: The Unreasonable Effectiveness of Ensembles in Private Collaborative Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "176",
+        "endPage": "196",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "SafeNet: The Unreasonable Effectiveness of Ensembles in Private Collaborative Learning",
+        "authors": [
+            {
+                "id": 37089861910,
+                "preferredName": "Harsh Chaudhari",
+                "firstName": "Harsh",
+                "lastName": "Chaudhari"
+            },
+            {
+                "id": 37086430667,
+                "preferredName": "Matthew Jagielski",
+                "firstName": "Matthew",
+                "lastName": "Jagielski"
+            },
+            {
+                "id": 37283922900,
+                "preferredName": "Alina Oprea",
+                "firstName": "Alina",
+                "lastName": "Oprea"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00041",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136138",
+        "articleTitle": "Neural Lower Bounds for Verification",
+        "volume": null,
+        "issue": null,
+        "startPage": "524",
+        "endPage": "536",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Neural Lower Bounds for Verification",
+        "authors": [
+            {
+                "id": 37089861159,
+                "preferredName": "Florian Jaeckle",
+                "firstName": "Florian",
+                "lastName": "Jaeckle"
+            },
+            {
+                "id": 38194665000,
+                "preferredName": "M. Pawan Kumar",
+                "firstName": "M. Pawan",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00045",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136177",
+        "articleTitle": "PolyKervNets: Activation-free Neural Networks For Efficient Private Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "593",
+        "endPage": "604",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "PolyKervNets: Activation-free Neural Networks For Efficient Private Inference",
+        "authors": [
+            {
+                "id": 37089861394,
+                "preferredName": "Toluwani Aremu",
+                "firstName": "Toluwani",
+                "lastName": "Aremu"
+            },
+            {
+                "id": 37400095000,
+                "preferredName": "Karthik Nandakumar",
+                "firstName": "Karthik",
+                "lastName": "Nandakumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00017",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136179",
+        "articleTitle": "Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability",
+        "volume": null,
+        "issue": null,
+        "startPage": "119",
+        "endPage": "135",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Model Inversion Attack with Least Information and an In-depth Analysis of its Disparate Vulnerability",
+        "authors": [
+            {
+                "id": 37085858505,
+                "preferredName": "Sayanton V. Dibbo",
+                "firstName": "Sayanton V.",
+                "lastName": "Dibbo"
+            },
+            {
+                "id": 37089862968,
+                "preferredName": "Dae Lim Chung",
+                "firstName": "Dae Lim",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37072422700,
+                "preferredName": "Shagufta Mehnaz",
+                "firstName": "Shagufta",
+                "lastName": "Mehnaz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00016",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136154",
+        "articleTitle": "Kernel Normalized Convolutional Networks for Privacy-Preserving Machine Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "107",
+        "endPage": "118",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Kernel Normalized Convolutional Networks for Privacy-Preserving Machine Learning",
+        "authors": [
+            {
+                "id": 37085680551,
+                "preferredName": "Reza Nasirigerdeh",
+                "firstName": "Reza",
+                "lastName": "Nasirigerdeh"
+            },
+            {
+                "id": 37089860637,
+                "preferredName": "Javad Torkzadehmahani",
+                "firstName": "Javad",
+                "lastName": "Torkzadehmahani"
+            },
+            {
+                "id": 37272737900,
+                "preferredName": "Daniel Rueckert",
+                "firstName": "Daniel",
+                "lastName": "Rueckert"
+            },
+            {
+                "id": 37088723001,
+                "preferredName": "Georgios Kaissis",
+                "firstName": "Georgios",
+                "lastName": "Kaissis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00044",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136158",
+        "articleTitle": "FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs",
+        "volume": null,
+        "issue": null,
+        "startPage": "575",
+        "endPage": "592",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "FaShapley: Fast and Approximated Shapley Based Model Pruning Towards Certifiably Robust DNNs",
+        "authors": [
+            {
+                "id": 37089863788,
+                "preferredName": "Mintong Kang",
+                "firstName": "Mintong",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37089427029,
+                "preferredName": "Linyi Li",
+                "firstName": "Linyi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086537305,
+                "preferredName": "Bo Li",
+                "firstName": "Bo",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00029",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136131",
+        "articleTitle": "Rethinking the Entropy of Instance in Adversarial Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "316",
+        "endPage": "326",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Rethinking the Entropy of Instance in Adversarial Training",
+        "authors": [
+            {
+                "id": 37089861720,
+                "preferredName": "Minseon Kim",
+                "firstName": "Minseon",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37089861282,
+                "preferredName": "Jihoon Tack",
+                "firstName": "Jihoon",
+                "lastName": "Tack"
+            },
+            {
+                "id": 37075956400,
+                "preferredName": "Jinwoo Shin",
+                "firstName": "Jinwoo",
+                "lastName": "Shin"
+            },
+            {
+                "id": 37086423446,
+                "preferredName": "Sung Ju Hwang",
+                "firstName": "Sung Ju",
+                "lastName": "Hwang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00026",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136180",
+        "articleTitle": "Publishing Efficient On-device Models Increases Adversarial Vulnerability",
+        "volume": null,
+        "issue": null,
+        "startPage": "271",
+        "endPage": "290",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Publishing Efficient On-device Models Increases Adversarial Vulnerability",
+        "authors": [
+            {
+                "id": 37089641789,
+                "preferredName": "Sanghyun Hong",
+                "firstName": "Sanghyun",
+                "lastName": "Hong"
+            },
+            {
+                "id": 37086000570,
+                "preferredName": "Nicholas Carlini",
+                "firstName": "Nicholas",
+                "lastName": "Carlini"
+            },
+            {
+                "id": 37089861548,
+                "preferredName": "Alexey Kurakin",
+                "firstName": "Alexey",
+                "lastName": "Kurakin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00032",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136178",
+        "articleTitle": "What Are Effective Labels for Augmented Data? Improving Calibration and Robustness with AutoLabel",
+        "volume": null,
+        "issue": null,
+        "startPage": "365",
+        "endPage": "376",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "What Are Effective Labels for Augmented Data? Improving Calibration and Robustness with AutoLabel",
+        "authors": [
+            {
+                "id": 37089863341,
+                "preferredName": "Yao Qin",
+                "firstName": "Yao",
+                "lastName": "Qin"
+            },
+            {
+                "id": 37089861618,
+                "preferredName": "Xuezhi Wang",
+                "firstName": "Xuezhi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37671711800,
+                "preferredName": "Balaji Lakshminarayanan",
+                "firstName": "Balaji",
+                "lastName": "Lakshminarayanan"
+            },
+            {
+                "id": 37089861658,
+                "preferredName": "Ed H. Chi",
+                "firstName": "Ed H.",
+                "lastName": "Chi"
+            },
+            {
+                "id": 37085367075,
+                "preferredName": "Alex Beutel",
+                "firstName": "Alex",
+                "lastName": "Beutel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00001",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136169",
+        "articleTitle": "Title Page I",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Title Page I",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00010",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136148",
+        "articleTitle": "Sponsors: SaTML 2023",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Sponsors: SaTML 2023",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00002",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136137",
+        "articleTitle": "Title Page III",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Title Page III",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00005",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136133",
+        "articleTitle": "Message from the Program Committee Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "xi",
+        "endPage": "xi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Message from the Program Committee Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00009",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136163",
+        "articleTitle": "Keynote Addresses: SaTML 2023",
+        "volume": null,
+        "issue": null,
+        "startPage": "xvi",
+        "endPage": "xvi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Keynote Addresses: SaTML 2023",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00006",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136165",
+        "articleTitle": "Organizing Committee: SaTML 2023",
+        "volume": null,
+        "issue": null,
+        "startPage": "xii",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Organizing Committee: SaTML 2023",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00008",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136164",
+        "articleTitle": "Steering Committee: SaTML 2023",
+        "volume": null,
+        "issue": null,
+        "startPage": "xv",
+        "endPage": "xv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Steering Committee: SaTML 2023",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00003",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136166",
+        "articleTitle": "Copyright",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Copyright",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00051",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136145",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "705",
+        "endPage": "707",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00004",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136167",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "x",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10135546",
+        "doi": "10.1109/SaTML54575.2023.00007",
+        "publicationYear": "2023",
+        "publicationDate": "8-10 Feb. 2023",
+        "articleNumber": "10136176",
+        "articleTitle": "Program Committee: SaTML 2023",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiii",
+        "endPage": "xiv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+        "highlightedTitle": "Program Committee: SaTML 2023",
+        "authors": []
+    }
+]

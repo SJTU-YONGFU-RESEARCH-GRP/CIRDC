@@ -1,0 +1,1262 @@
+[
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140251",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140251",
+        "articleTitle": "Achieving side-channel protection with dynamic logic reconfiguration on modern FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "130",
+        "endPage": "136",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Achieving side-channel protection with dynamic logic reconfiguration on modern FPGAs",
+        "authors": [
+            {
+                "id": 37085493306,
+                "preferredName": "Pascal Sasdrich",
+                "firstName": "Pascal",
+                "lastName": "Sasdrich"
+            },
+            {
+                "id": 37397075200,
+                "preferredName": "Amir Moradi",
+                "firstName": "Amir",
+                "lastName": "Moradi"
+            },
+            {
+                "id": 37705223400,
+                "preferredName": "Oliver Mischke",
+                "firstName": "Oliver",
+                "lastName": "Mischke"
+            },
+            {
+                "id": 37662108000,
+                "preferredName": "Tim G\u00fcneysu",
+                "firstName": "Tim",
+                "lastName": "G\u00fcneysu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140254",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140254",
+        "articleTitle": "Resilient hardware Trojans detection based on path delay measurements",
+        "volume": null,
+        "issue": null,
+        "startPage": "151",
+        "endPage": "156",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Resilient hardware Trojans detection based on path delay measurements",
+        "authors": [
+            {
+                "id": 37072612200,
+                "preferredName": "Ingrid Exurville",
+                "firstName": "Ingrid",
+                "lastName": "Exurville"
+            },
+            {
+                "id": 37074173100,
+                "preferredName": "Loie Zussa",
+                "firstName": "Loie",
+                "lastName": "Zussa"
+            },
+            {
+                "id": 37695967800,
+                "preferredName": "Jean-Baptiste Rigaud",
+                "firstName": "Jean-Baptiste",
+                "lastName": "Rigaud"
+            },
+            {
+                "id": 37704710000,
+                "preferredName": "Bruno Robisson",
+                "firstName": "Bruno",
+                "lastName": "Robisson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140235",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140235",
+        "articleTitle": "FPGA SoC architecture and runtime to prevent hardware Trojans from leaking secrets",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "FPGA SoC architecture and runtime to prevent hardware Trojans from leaking secrets",
+        "authors": [
+            {
+                "id": 37589164400,
+                "preferredName": "Gedare Bloom",
+                "firstName": "Gedare",
+                "lastName": "Bloom"
+            },
+            {
+                "id": 37352246900,
+                "preferredName": "Bhagirath Narahari",
+                "firstName": "Bhagirath",
+                "lastName": "Narahari"
+            },
+            {
+                "id": 37352248800,
+                "preferredName": "Rahul Simha",
+                "firstName": "Rahul",
+                "lastName": "Simha"
+            },
+            {
+                "id": 37293877700,
+                "preferredName": "Ali Namazi",
+                "firstName": "Ali",
+                "lastName": "Namazi"
+            },
+            {
+                "id": 37530422000,
+                "preferredName": "Renato Levy",
+                "firstName": "Renato",
+                "lastName": "Levy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140228",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140228",
+        "articleTitle": "Robust true random number generator using hot-carrier injection balanced metastable sense amplifiers",
+        "volume": null,
+        "issue": null,
+        "startPage": "7",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Robust true random number generator using hot-carrier injection balanced metastable sense amplifiers",
+        "authors": [
+            {
+                "id": 37396578200,
+                "preferredName": "Mudit Bhargava",
+                "firstName": "Mudit",
+                "lastName": "Bhargava"
+            },
+            {
+                "id": 37085503400,
+                "preferredName": "Kaship Sheikh",
+                "firstName": "Kaship",
+                "lastName": "Sheikh"
+            },
+            {
+                "id": 37270361300,
+                "preferredName": "Ken Mai",
+                "firstName": "Ken",
+                "lastName": "Mai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140236",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140236",
+        "articleTitle": "A security-aware design scheme for better hardware Trojan detection sensitivity",
+        "volume": null,
+        "issue": null,
+        "startPage": "52",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "A security-aware design scheme for better hardware Trojan detection sensitivity",
+        "authors": [
+            {
+                "id": 37085491295,
+                "preferredName": "Chongxi Bao",
+                "firstName": "Chongxi",
+                "lastName": "Bao"
+            },
+            {
+                "id": 37085492427,
+                "preferredName": "Yang Xie",
+                "firstName": "Yang",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37278954800,
+                "preferredName": "Ankur Srivastava",
+                "firstName": "Ankur",
+                "lastName": "Srivastava"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140239",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140239",
+        "articleTitle": "Power analysis of the t-private logic style for FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "68",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Power analysis of the t-private logic style for FPGAs",
+        "authors": [
+            {
+                "id": 37085499113,
+                "preferredName": "Zachary N. Goddard",
+                "firstName": "Zachary N.",
+                "lastName": "Goddard"
+            },
+            {
+                "id": 37085488554,
+                "preferredName": "Nicholas LaJeunesse",
+                "firstName": "Nicholas",
+                "lastName": "LaJeunesse"
+            },
+            {
+                "id": 38230880700,
+                "preferredName": "Thomas Eisenbarth",
+                "firstName": "Thomas",
+                "lastName": "Eisenbarth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140232",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140232",
+        "articleTitle": "A family of Schmitt-Trigger-based arbiter-PUFs and selective challenge-pruning for robustness and quality",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "37",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "A family of Schmitt-Trigger-based arbiter-PUFs and selective challenge-pruning for robustness and quality",
+        "authors": [
+            {
+                "id": 37085349790,
+                "preferredName": "Cheng Wei Lin",
+                "firstName": "Cheng Wei",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37273380600,
+                "preferredName": "Swaroop Ghosh",
+                "firstName": "Swaroop",
+                "lastName": "Ghosh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140248",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140248",
+        "articleTitle": "A DPA-resistant self-timed three-phase dual-rail pre-charge logic family",
+        "volume": null,
+        "issue": null,
+        "startPage": "112",
+        "endPage": "117",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "A DPA-resistant self-timed three-phase dual-rail pre-charge logic family",
+        "authors": [
+            {
+                "id": 37085777385,
+                "preferredName": "Nail Etkin Can Akkaya",
+                "firstName": "Nail Etkin Can",
+                "lastName": "Akkaya"
+            },
+            {
+                "id": 37601748500,
+                "preferredName": "Burak Erbagci",
+                "firstName": "Burak",
+                "lastName": "Erbagci"
+            },
+            {
+                "id": 38035717700,
+                "preferredName": "Raymond Carley",
+                "firstName": "Raymond",
+                "lastName": "Carley"
+            },
+            {
+                "id": 37270361300,
+                "preferredName": "Ken Mai",
+                "firstName": "Ken",
+                "lastName": "Mai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140241",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140241",
+        "articleTitle": "Validation of RTL laser fault injection model with respect to layout information",
+        "volume": null,
+        "issue": null,
+        "startPage": "78",
+        "endPage": "81",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Validation of RTL laser fault injection model with respect to layout information",
+        "authors": [
+            {
+                "id": 37085439824,
+                "preferredName": "Athanasios Papadimitriou",
+                "firstName": "Athanasios",
+                "lastName": "Papadimitriou"
+            },
+            {
+                "id": 37085441929,
+                "preferredName": "Marios Tampas",
+                "firstName": "Marios",
+                "lastName": "Tampas"
+            },
+            {
+                "id": 37427398600,
+                "preferredName": "David H\u00e9ly",
+                "firstName": "David",
+                "lastName": "H\u00e9ly"
+            },
+            {
+                "id": 37283260900,
+                "preferredName": "Vincent Beroulle",
+                "firstName": "Vincent",
+                "lastName": "Beroulle"
+            },
+            {
+                "id": 37274200000,
+                "preferredName": "Paolo Maistri",
+                "firstName": "Paolo",
+                "lastName": "Maistri"
+            },
+            {
+                "id": 37273803800,
+                "preferredName": "Regis Leveugle",
+                "firstName": "Regis",
+                "lastName": "Leveugle"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140243",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140243",
+        "articleTitle": "Preventing fault attack on stream cipher using randomization",
+        "volume": null,
+        "issue": null,
+        "startPage": "88",
+        "endPage": "91",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Preventing fault attack on stream cipher using randomization",
+        "authors": [
+            {
+                "id": 37085427655,
+                "preferredName": "Shamit Ghosh",
+                "firstName": "Shamit",
+                "lastName": "Ghosh"
+            },
+            {
+                "id": 37341962600,
+                "preferredName": "Dipanwita Roy Chowdhury",
+                "firstName": "Dipanwita Roy",
+                "lastName": "Chowdhury"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140244",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140244",
+        "articleTitle": "Post-layout estimation of side-channel power supply signatures",
+        "volume": null,
+        "issue": null,
+        "startPage": "92",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Post-layout estimation of side-channel power supply signatures",
+        "authors": [
+            {
+                "id": 38252093000,
+                "preferredName": "Sushmita Kadiyala Rao",
+                "firstName": "Sushmita Kadiyala",
+                "lastName": "Rao"
+            },
+            {
+                "id": 37085530173,
+                "preferredName": "Deepak Krishnankutty",
+                "firstName": "Deepak",
+                "lastName": "Krishnankutty"
+            },
+            {
+                "id": 37079231000,
+                "preferredName": "Ryan Robucci",
+                "firstName": "Ryan",
+                "lastName": "Robucci"
+            },
+            {
+                "id": 37085369449,
+                "preferredName": "Nilanjan Banerjee",
+                "firstName": "Nilanjan",
+                "lastName": "Banerjee"
+            },
+            {
+                "id": 37279652100,
+                "preferredName": "Chintan Patel",
+                "firstName": "Chintan",
+                "lastName": "Patel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140245",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140245",
+        "articleTitle": "Template attack on masking AES based on fault sensitivity analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "99",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Template attack on masking AES based on fault sensitivity analysis",
+        "authors": [
+            {
+                "id": 37085408076,
+                "preferredName": "Qian Wang",
+                "firstName": "Qian",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37072860600,
+                "preferredName": "An Wang",
+                "firstName": "An",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37535430800,
+                "preferredName": "Liji Wu",
+                "firstName": "Liji",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37269284700,
+                "preferredName": "Gang Qu",
+                "firstName": "Gang",
+                "lastName": "Qu"
+            },
+            {
+                "id": 37085406307,
+                "preferredName": "Guoshuang Zhang",
+                "firstName": "Guoshuang",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140234",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140234",
+        "articleTitle": "A practical DPA on Grain v1 using LS-SVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "44",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "A practical DPA on Grain v1 using LS-SVM",
+        "authors": [
+            {
+                "id": 37085371960,
+                "preferredName": "Abhishek Chakraborty",
+                "firstName": "Abhishek",
+                "lastName": "Chakraborty"
+            },
+            {
+                "id": 37689648600,
+                "preferredName": "Bodhisatwa Mazumdar",
+                "firstName": "Bodhisatwa",
+                "lastName": "Mazumdar"
+            },
+            {
+                "id": 37411288700,
+                "preferredName": "Debdeep Mukhopadhyay",
+                "firstName": "Debdeep",
+                "lastName": "Mukhopadhyay"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140252",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140252",
+        "articleTitle": "Evaluating the security of logic encryption algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "137",
+        "endPage": "143",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Evaluating the security of logic encryption algorithms",
+        "authors": [
+            {
+                "id": 37540919800,
+                "preferredName": "Pramod Subramanyan",
+                "firstName": "Pramod",
+                "lastName": "Subramanyan"
+            },
+            {
+                "id": 37085340548,
+                "preferredName": "Sayak Ray",
+                "firstName": "Sayak",
+                "lastName": "Ray"
+            },
+            {
+                "id": 37267339800,
+                "preferredName": "Sharad Malik",
+                "firstName": "Sharad",
+                "lastName": "Malik"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140247",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140247",
+        "articleTitle": "Neural network based attack on a masked implementation of AES",
+        "volume": null,
+        "issue": null,
+        "startPage": "106",
+        "endPage": "111",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Neural network based attack on a masked implementation of AES",
+        "authors": [
+            {
+                "id": 37085387729,
+                "preferredName": "Richard Gilmore",
+                "firstName": "Richard",
+                "lastName": "Gilmore"
+            },
+            {
+                "id": 37590805600,
+                "preferredName": "Neil Hanley",
+                "firstName": "Neil",
+                "lastName": "Hanley"
+            },
+            {
+                "id": 37534626700,
+                "preferredName": "Maire O'Neill",
+                "firstName": "Maire",
+                "lastName": "O'Neill"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140229",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140229",
+        "articleTitle": "Efficient and secure split manufacturing via obfuscated built-in self-authentication",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "19",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Efficient and secure split manufacturing via obfuscated built-in self-authentication",
+        "authors": [
+            {
+                "id": 38529148400,
+                "preferredName": "Kan Xiao",
+                "firstName": "Kan",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37722751400,
+                "preferredName": "Domenic Forte",
+                "firstName": "Domenic",
+                "lastName": "Forte"
+            },
+            {
+                "id": 37293853000,
+                "preferredName": "Mark Mohammed Tehranipoor",
+                "firstName": "Mark Mohammed",
+                "lastName": "Tehranipoor"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140238",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140238",
+        "articleTitle": "High precision fault injections on the instruction cache of ARMv7-M architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "62",
+        "endPage": "67",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "High precision fault injections on the instruction cache of ARMv7-M architectures",
+        "authors": [
+            {
+                "id": 37085352744,
+                "preferredName": "Lionel Rivi\u00e8re",
+                "firstName": "Lionel",
+                "lastName": "Rivi\u00e8re"
+            },
+            {
+                "id": 37085369760,
+                "preferredName": "Zakaria Najm",
+                "firstName": "Zakaria",
+                "lastName": "Najm"
+            },
+            {
+                "id": 37085341961,
+                "preferredName": "Pablo Rauzy",
+                "firstName": "Pablo",
+                "lastName": "Rauzy"
+            },
+            {
+                "id": 37275155000,
+                "preferredName": "Jean-Luc Danger",
+                "firstName": "Jean-Luc",
+                "lastName": "Danger"
+            },
+            {
+                "id": 37596358100,
+                "preferredName": "Julien Bringer",
+                "firstName": "Julien",
+                "lastName": "Bringer"
+            },
+            {
+                "id": 37393582800,
+                "preferredName": "Laurent Sauvage",
+                "firstName": "Laurent",
+                "lastName": "Sauvage"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140242",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140242",
+        "articleTitle": "Linear complementary dual code improvement to strengthen encoded circuit against hardware Trojan horses",
+        "volume": null,
+        "issue": null,
+        "startPage": "82",
+        "endPage": "87",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Linear complementary dual code improvement to strengthen encoded circuit against hardware Trojan horses",
+        "authors": [
+            {
+                "id": 37076627000,
+                "preferredName": "Xuan Thuy Ngo",
+                "firstName": "Xuan Thuy",
+                "lastName": "Ngo"
+            },
+            {
+                "id": 37392052300,
+                "preferredName": "Shivam Bhasin",
+                "firstName": "Shivam",
+                "lastName": "Bhasin"
+            },
+            {
+                "id": 37275155000,
+                "preferredName": "Jean-Luc Danger",
+                "firstName": "Jean-Luc",
+                "lastName": "Danger"
+            },
+            {
+                "id": 37317992900,
+                "preferredName": "Sylvain Guilley",
+                "firstName": "Sylvain",
+                "lastName": "Guilley"
+            },
+            {
+                "id": 37085369760,
+                "preferredName": "Zakaria Najm",
+                "firstName": "Zakaria",
+                "lastName": "Najm"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140231",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140231",
+        "articleTitle": "Exploiting resistive cross-point array for compact design of physical unclonable function",
+        "volume": null,
+        "issue": null,
+        "startPage": "26",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Exploiting resistive cross-point array for compact design of physical unclonable function",
+        "authors": [
+            {
+                "id": 37085344760,
+                "preferredName": "Pai-Yu Chen",
+                "firstName": "Pai-Yu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085499496,
+                "preferredName": "Runchen Fang",
+                "firstName": "Runchen",
+                "lastName": "Fang"
+            },
+            {
+                "id": 38469480300,
+                "preferredName": "Rui Liu",
+                "firstName": "Rui",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37271330900,
+                "preferredName": "Chaitali Chakrabarti",
+                "firstName": "Chaitali",
+                "lastName": "Chakrabarti"
+            },
+            {
+                "id": 37277285000,
+                "preferredName": "Yu Cao",
+                "firstName": "Yu",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37085352683,
+                "preferredName": "Shimeng Yu",
+                "firstName": "Shimeng",
+                "lastName": "Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140240",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140240",
+        "articleTitle": "TVVF: Estimating the vulnerability of hardware cryptosystems against timing violation attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "72",
+        "endPage": "77",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "TVVF: Estimating the vulnerability of hardware cryptosystems against timing violation attacks",
+        "authors": [
+            {
+                "id": 38557415900,
+                "preferredName": "Bilgiday Yuce",
+                "firstName": "Bilgiday",
+                "lastName": "Yuce"
+            },
+            {
+                "id": 37946236500,
+                "preferredName": "Nahid Farhady Ghalaty",
+                "firstName": "Nahid Farhady",
+                "lastName": "Ghalaty"
+            },
+            {
+                "id": 37281913600,
+                "preferredName": "Patrick Schaumont",
+                "firstName": "Patrick",
+                "lastName": "Schaumont"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140256",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140256",
+        "articleTitle": "Toward automatic proof generation for information flow policies in third-party hardware IP",
+        "volume": null,
+        "issue": null,
+        "startPage": "163",
+        "endPage": "168",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Toward automatic proof generation for information flow policies in third-party hardware IP",
+        "authors": [
+            {
+                "id": 37294198600,
+                "preferredName": "Mohammad-Mahdi Bidmeshki",
+                "firstName": "Mohammad-Mahdi",
+                "lastName": "Bidmeshki"
+            },
+            {
+                "id": 37274481400,
+                "preferredName": "Yiorgos Makris",
+                "firstName": "Yiorgos",
+                "lastName": "Makris"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140237",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140237",
+        "articleTitle": "Automatic obfuscated cell layout for trusted split-foundry design",
+        "volume": null,
+        "issue": null,
+        "startPage": "56",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Automatic obfuscated cell layout for trusted split-foundry design",
+        "authors": [
+            {
+                "id": 38180819900,
+                "preferredName": "Carlos Tadeo Ortega Otero",
+                "firstName": "Carlos Tadeo Ortega",
+                "lastName": "Otero"
+            },
+            {
+                "id": 37976648300,
+                "preferredName": "Jonathan Tse",
+                "firstName": "Jonathan",
+                "lastName": "Tse"
+            },
+            {
+                "id": 37070479500,
+                "preferredName": "Robert Karmazin",
+                "firstName": "Robert",
+                "lastName": "Karmazin"
+            },
+            {
+                "id": 37975987200,
+                "preferredName": "Benjamin Hill",
+                "firstName": "Benjamin",
+                "lastName": "Hill"
+            },
+            {
+                "id": 37275630900,
+                "preferredName": "Rajit Manohar",
+                "firstName": "Rajit",
+                "lastName": "Manohar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140227",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140227",
+        "articleTitle": "Silent Simon: A threshold implementation under 100 slices",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Silent Simon: A threshold implementation under 100 slices",
+        "authors": [
+            {
+                "id": 37085508599,
+                "preferredName": "Aria Shahverdi",
+                "firstName": "Aria",
+                "lastName": "Shahverdi"
+            },
+            {
+                "id": 38491631300,
+                "preferredName": "Mostafa Taha",
+                "firstName": "Mostafa",
+                "lastName": "Taha"
+            },
+            {
+                "id": 38230880700,
+                "preferredName": "Thomas Eisenbarth",
+                "firstName": "Thomas",
+                "lastName": "Eisenbarth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140230",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140230",
+        "articleTitle": "Security analysis of index-based syndrome coding for PUF-based key generation",
+        "volume": null,
+        "issue": null,
+        "startPage": "20",
+        "endPage": "25",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Security analysis of index-based syndrome coding for PUF-based key generation",
+        "authors": [
+            {
+                "id": 37085398990,
+                "preferredName": "Georg T. Becker",
+                "firstName": "Georg T.",
+                "lastName": "Becker"
+            },
+            {
+                "id": 37085386248,
+                "preferredName": "Alexander Wild",
+                "firstName": "Alexander",
+                "lastName": "Wild"
+            },
+            {
+                "id": 37662108000,
+                "preferredName": "Tim G\u00fcneysu",
+                "firstName": "Tim",
+                "lastName": "G\u00fcneysu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140233",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140233",
+        "articleTitle": "Maximum-likelihood decoding of device-specific multi-bit symbols for reliable key generation",
+        "volume": null,
+        "issue": null,
+        "startPage": "38",
+        "endPage": "43",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Maximum-likelihood decoding of device-specific multi-bit symbols for reliable key generation",
+        "authors": [
+            {
+                "id": 37401578800,
+                "preferredName": "Meng-Day Yu",
+                "firstName": "Meng-Day",
+                "lastName": "Yu"
+            },
+            {
+                "id": 38248194200,
+                "preferredName": "Matthias Hiller",
+                "firstName": "Matthias",
+                "lastName": "Hiller"
+            },
+            {
+                "id": 37283553100,
+                "preferredName": "Srinivas Devadas",
+                "firstName": "Srinivas",
+                "lastName": "Devadas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140253",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140253",
+        "articleTitle": "GDS-II Trojan detection using multiple supply pad VDD and GND IDDQs in ASIC functional units",
+        "volume": null,
+        "issue": null,
+        "startPage": "144",
+        "endPage": "150",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "GDS-II Trojan detection using multiple supply pad VDD and GND IDDQs in ASIC functional units",
+        "authors": [
+            {
+                "id": 37085346145,
+                "preferredName": "I. Wilcox",
+                "firstName": "I.",
+                "lastName": "Wilcox"
+            },
+            {
+                "id": 37085355452,
+                "preferredName": "F. Saqib",
+                "firstName": "F.",
+                "lastName": "Saqib"
+            },
+            {
+                "id": 37330239000,
+                "preferredName": "J. Plusquellic",
+                "firstName": "J.",
+                "lastName": "Plusquellic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140255",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140255",
+        "articleTitle": "Physically secure and fully reconfigurable data storage using optical scattering",
+        "volume": null,
+        "issue": null,
+        "startPage": "157",
+        "endPage": "162",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Physically secure and fully reconfigurable data storage using optical scattering",
+        "authors": [
+            {
+                "id": 37546879100,
+                "preferredName": "Roarke Horstmeyer",
+                "firstName": "Roarke",
+                "lastName": "Horstmeyer"
+            },
+            {
+                "id": 37085341782,
+                "preferredName": "Sid Assawaworrarit",
+                "firstName": "Sid",
+                "lastName": "Assawaworrarit"
+            },
+            {
+                "id": 37394026600,
+                "preferredName": "Ulrich Ruhrmair",
+                "firstName": "Ulrich",
+                "lastName": "Ruhrmair"
+            },
+            {
+                "id": 37279098600,
+                "preferredName": "Changhuei Yang",
+                "firstName": "Changhuei",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140246",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140246",
+        "articleTitle": "Diagonal fault analysis of Gr\u2298stl in dedicated MAC mode",
+        "volume": null,
+        "issue": null,
+        "startPage": "100",
+        "endPage": "105",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Diagonal fault analysis of Gr\u2298stl in dedicated MAC mode",
+        "authors": [
+            {
+                "id": 37856288500,
+                "preferredName": "Dhiman Saha",
+                "firstName": "Dhiman",
+                "lastName": "Saha"
+            },
+            {
+                "id": 37341962600,
+                "preferredName": "Dipanwita Roy Chowdhury",
+                "firstName": "Dipanwita Roy",
+                "lastName": "Chowdhury"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140250",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140250",
+        "articleTitle": "Simulation and analysis of negative-bias temperature instability aging on power analysis attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "124",
+        "endPage": "129",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Simulation and analysis of negative-bias temperature instability aging on power analysis attacks",
+        "authors": [
+            {
+                "id": 38107402600,
+                "preferredName": "Xiaofei Guo",
+                "firstName": "Xiaofei",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37393453000,
+                "preferredName": "Naghmeh Karimi",
+                "firstName": "Naghmeh",
+                "lastName": "Karimi"
+            },
+            {
+                "id": 37391916900,
+                "preferredName": "Francesco Regazzoni",
+                "firstName": "Francesco",
+                "lastName": "Regazzoni"
+            },
+            {
+                "id": 37085839060,
+                "preferredName": "Chenglu Jin",
+                "firstName": "Chenglu",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37269471300,
+                "preferredName": "Ramesh Karri",
+                "firstName": "Ramesh",
+                "lastName": "Karri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140249",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140249",
+        "articleTitle": "Efficient 2nd-order power analysis on masked devices utilizing multiple leakage",
+        "volume": null,
+        "issue": null,
+        "startPage": "118",
+        "endPage": "123",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Efficient 2nd-order power analysis on masked devices utilizing multiple leakage",
+        "authors": [
+            {
+                "id": 37085467975,
+                "preferredName": "Liwei Zhang",
+                "firstName": "Liwei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085470513,
+                "preferredName": "A. Adam Ding",
+                "firstName": "A. Adam",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37404688200,
+                "preferredName": "Yunsi Fei",
+                "firstName": "Yunsi",
+                "lastName": "Fei"
+            },
+            {
+                "id": 37085350408,
+                "preferredName": "Pei Luo",
+                "firstName": "Pei",
+                "lastName": "Luo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7119893",
+        "doi": "10.1109/HST.2015.7140226",
+        "publicationYear": "2015",
+        "publicationDate": "5-7 May 2015",
+        "articleNumber": "7140226",
+        "articleTitle": "Front matter",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)",
+        "highlightedTitle": "Front matter",
+        "authors": []
+    }
+]

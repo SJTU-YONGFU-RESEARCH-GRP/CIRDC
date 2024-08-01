@@ -1,0 +1,943 @@
+[
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00012",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652623",
+        "articleTitle": "ExaWorks: Workflows for Exascale",
+        "volume": null,
+        "issue": null,
+        "startPage": "50",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "ExaWorks: Workflows for Exascale",
+        "authors": [
+            {
+                "id": 37088994833,
+                "preferredName": "Aymen Al-Saadi",
+                "firstName": "Aymen",
+                "lastName": "Al-Saadi"
+            },
+            {
+                "id": 37534013900,
+                "preferredName": "Dong H. Ahn",
+                "firstName": "Dong H.",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37086033592,
+                "preferredName": "Yadu Babuji",
+                "firstName": "Yadu",
+                "lastName": "Babuji"
+            },
+            {
+                "id": 38341857300,
+                "preferredName": "Kyle Chard",
+                "firstName": "Kyle",
+                "lastName": "Chard"
+            },
+            {
+                "id": 37089210568,
+                "preferredName": "James Corbett",
+                "firstName": "James",
+                "lastName": "Corbett"
+            },
+            {
+                "id": 37283429600,
+                "preferredName": "Mihael Hategan",
+                "firstName": "Mihael",
+                "lastName": "Hategan"
+            },
+            {
+                "id": 37085351424,
+                "preferredName": "Stephen Herbein",
+                "firstName": "Stephen",
+                "lastName": "Herbein"
+            },
+            {
+                "id": 37279267500,
+                "preferredName": "Shantenu Jha",
+                "firstName": "Shantenu",
+                "lastName": "Jha"
+            },
+            {
+                "id": 37281901900,
+                "preferredName": "Daniel Laney",
+                "firstName": "Daniel",
+                "lastName": "Laney"
+            },
+            {
+                "id": 37284779000,
+                "preferredName": "Andre Merzky",
+                "firstName": "Andre",
+                "lastName": "Merzky"
+            },
+            {
+                "id": 37564568900,
+                "preferredName": "Todd Munson",
+                "firstName": "Todd",
+                "lastName": "Munson"
+            },
+            {
+                "id": 37086618224,
+                "preferredName": "Michael Salim",
+                "firstName": "Michael",
+                "lastName": "Salim"
+            },
+            {
+                "id": 38581255400,
+                "preferredName": "Mikhail Titov",
+                "firstName": "Mikhail",
+                "lastName": "Titov"
+            },
+            {
+                "id": 37689500600,
+                "preferredName": "Matteo Turilli",
+                "firstName": "Matteo",
+                "lastName": "Turilli"
+            },
+            {
+                "id": 37283444600,
+                "preferredName": "Thomas D. Uram",
+                "firstName": "Thomas D.",
+                "lastName": "Uram"
+            },
+            {
+                "id": 37070064800,
+                "preferredName": "Justin M. Wozniak",
+                "firstName": "Justin M.",
+                "lastName": "Wozniak"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00016",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652570",
+        "articleTitle": "A Community Roadmap for Scientific Workflows Research and Development",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "90",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "A Community Roadmap for Scientific Workflows Research and Development",
+        "authors": [
+            {
+                "id": 37085575436,
+                "preferredName": "Rafael Ferreira da Silva",
+                "firstName": "Rafael Ferreira",
+                "lastName": "da Silva"
+            },
+            {
+                "id": 37270083100,
+                "preferredName": "Henri Casanova",
+                "firstName": "Henri",
+                "lastName": "Casanova"
+            },
+            {
+                "id": 38341857300,
+                "preferredName": "Kyle Chard",
+                "firstName": "Kyle",
+                "lastName": "Chard"
+            },
+            {
+                "id": 37277124600,
+                "preferredName": "Ilkay Altintas",
+                "firstName": "Ilkay",
+                "lastName": "Altintas"
+            },
+            {
+                "id": 37265189900,
+                "preferredName": "Rosa M Badia",
+                "firstName": "Rosa M",
+                "lastName": "Badia"
+            },
+            {
+                "id": 37658317100,
+                "preferredName": "Bartosz Balis",
+                "firstName": "Bartosz",
+                "lastName": "Balis"
+            },
+            {
+                "id": 37088749153,
+                "preferredName": "Tain\u00e3 Coleman",
+                "firstName": "Tain\u00e3",
+                "lastName": "Coleman"
+            },
+            {
+                "id": 37089214027,
+                "preferredName": "Frederik Coppens",
+                "firstName": "Frederik",
+                "lastName": "Coppens"
+            },
+            {
+                "id": 37086219061,
+                "preferredName": "Frank Di Natale",
+                "firstName": "Frank",
+                "lastName": "Di Natale"
+            },
+            {
+                "id": 37088598395,
+                "preferredName": "Bjoern Enders",
+                "firstName": "Bjoern",
+                "lastName": "Enders"
+            },
+            {
+                "id": 37299753200,
+                "preferredName": "Thomas Fahringer",
+                "firstName": "Thomas",
+                "lastName": "Fahringer"
+            },
+            {
+                "id": 37689390100,
+                "preferredName": "Rosa Filgueira",
+                "firstName": "Rosa",
+                "lastName": "Filgueira"
+            },
+            {
+                "id": 37089399498,
+                "preferredName": "Grigori Fursin",
+                "firstName": "Grigori",
+                "lastName": "Fursin"
+            },
+            {
+                "id": 37085460297,
+                "preferredName": "Daniel Garijo",
+                "firstName": "Daniel",
+                "lastName": "Garijo"
+            },
+            {
+                "id": 37281903400,
+                "preferredName": "Carole Goble",
+                "firstName": "Carole",
+                "lastName": "Goble"
+            },
+            {
+                "id": 37089215325,
+                "preferredName": "Dorran Howell",
+                "firstName": "Dorran",
+                "lastName": "Howell"
+            },
+            {
+                "id": 37279267500,
+                "preferredName": "Shantenu Jha",
+                "firstName": "Shantenu",
+                "lastName": "Jha"
+            },
+            {
+                "id": 37276383200,
+                "preferredName": "Daniel S. Katz",
+                "firstName": "Daniel S.",
+                "lastName": "Katz"
+            },
+            {
+                "id": 37281901900,
+                "preferredName": "Daniel Laney",
+                "firstName": "Daniel",
+                "lastName": "Laney"
+            },
+            {
+                "id": 37688841400,
+                "preferredName": "Ulf Leser",
+                "firstName": "Ulf",
+                "lastName": "Leser"
+            },
+            {
+                "id": 37421618700,
+                "preferredName": "Maciej Malawski",
+                "firstName": "Maciej",
+                "lastName": "Malawski"
+            },
+            {
+                "id": 37086122035,
+                "preferredName": "Kshitij Mehta",
+                "firstName": "Kshitij",
+                "lastName": "Mehta"
+            },
+            {
+                "id": 37085828414,
+                "preferredName": "Lo\u00efc Pottier",
+                "firstName": "Lo\u00efc",
+                "lastName": "Pottier"
+            },
+            {
+                "id": 38095297300,
+                "preferredName": "Jonathan Ozik",
+                "firstName": "Jonathan",
+                "lastName": "Ozik"
+            },
+            {
+                "id": 37086041112,
+                "preferredName": "J. Luc Peterson",
+                "firstName": "J. Luc",
+                "lastName": "Peterson"
+            },
+            {
+                "id": 37550118200,
+                "preferredName": "Lavanya Ramakrishnan",
+                "firstName": "Lavanya",
+                "lastName": "Ramakrishnan"
+            },
+            {
+                "id": 38294008600,
+                "preferredName": "Stian Soiland-Reyes",
+                "firstName": "Stian",
+                "lastName": "Soiland-Reyes"
+            },
+            {
+                "id": 37299761800,
+                "preferredName": "Douglas Thain",
+                "firstName": "Douglas",
+                "lastName": "Thain"
+            },
+            {
+                "id": 37272868500,
+                "preferredName": "Matthew Wolf",
+                "firstName": "Matthew",
+                "lastName": "Wolf"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00006",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652602",
+        "articleTitle": "A Recommender System for Scientific Datasets and Analysis Pipelines",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "A Recommender System for Scientific Datasets and Analysis Pipelines",
+        "authors": [
+            {
+                "id": 37089213652,
+                "preferredName": "Mandana Mazaheri",
+                "firstName": "Mandana",
+                "lastName": "Mazaheri"
+            },
+            {
+                "id": 37089213777,
+                "preferredName": "Gregory Kiar",
+                "firstName": "Gregory",
+                "lastName": "Kiar"
+            },
+            {
+                "id": 37395834300,
+                "preferredName": "Tristan Glatard",
+                "firstName": "Tristan",
+                "lastName": "Glatard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00008",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652605",
+        "articleTitle": "Not All Tasks Are Created Equal: Adaptive Resource Allocation for Heterogeneous Tasks in Dynamic Workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Not All Tasks Are Created Equal: Adaptive Resource Allocation for Heterogeneous Tasks in Dynamic Workflows",
+        "authors": [
+            {
+                "id": 37089215215,
+                "preferredName": "Thanh Son Phung",
+                "firstName": "Thanh Son",
+                "lastName": "Phung"
+            },
+            {
+                "id": 37086260918,
+                "preferredName": "Logan Ward",
+                "firstName": "Logan",
+                "lastName": "Ward"
+            },
+            {
+                "id": 38341857300,
+                "preferredName": "Kyle Chard",
+                "firstName": "Kyle",
+                "lastName": "Chard"
+            },
+            {
+                "id": 37299761800,
+                "preferredName": "Douglas Thain",
+                "firstName": "Douglas",
+                "lastName": "Thain"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00009",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652625",
+        "articleTitle": "Dynamic Heterogeneous Task Specification and Execution for In Situ Workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Dynamic Heterogeneous Task Specification and Execution for In Situ Workflows",
+        "authors": [
+            {
+                "id": 37085738405,
+                "preferredName": "Orcun Yildiz",
+                "firstName": "Orcun",
+                "lastName": "Yildiz"
+            },
+            {
+                "id": 38276269000,
+                "preferredName": "Dmitriy Morozov",
+                "firstName": "Dmitriy",
+                "lastName": "Morozov"
+            },
+            {
+                "id": 37392723100,
+                "preferredName": "Bogdan Nicolae",
+                "firstName": "Bogdan",
+                "lastName": "Nicolae"
+            },
+            {
+                "id": 37295026400,
+                "preferredName": "Tom Peterka",
+                "firstName": "Tom",
+                "lastName": "Peterka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00010",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652616",
+        "articleTitle": "An Adaptive Elasticity Policy For Staging Based In-Situ Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "An Adaptive Elasticity Policy For Staging Based In-Situ Processing",
+        "authors": [
+            {
+                "id": 37088544128,
+                "preferredName": "Zhe Wang",
+                "firstName": "Zhe",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37392722500,
+                "preferredName": "Matthieu Dorier",
+                "firstName": "Matthieu",
+                "lastName": "Dorier"
+            },
+            {
+                "id": 37085445872,
+                "preferredName": "Pradeep Subedi",
+                "firstName": "Pradeep",
+                "lastName": "Subedi"
+            },
+            {
+                "id": 37086030391,
+                "preferredName": "Philip E. Davis",
+                "firstName": "Philip E.",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37269279100,
+                "preferredName": "Manish Parashar",
+                "firstName": "Manish",
+                "lastName": "Parashar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00014",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652572",
+        "articleTitle": "Science Capsule: Towards Sharing and Reproducibility of Scientific Workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "66",
+        "endPage": "73",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Science Capsule: Towards Sharing and Reproducibility of Scientific Workflows",
+        "authors": [
+            {
+                "id": 38581268300,
+                "preferredName": "Devarshi Ghoshal",
+                "firstName": "Devarshi",
+                "lastName": "Ghoshal"
+            },
+            {
+                "id": 37088198990,
+                "preferredName": "Ludovico Bianchi",
+                "firstName": "Ludovico",
+                "lastName": "Bianchi"
+            },
+            {
+                "id": 37271773900,
+                "preferredName": "Abdelilah Essiari",
+                "firstName": "Abdelilah",
+                "lastName": "Essiari"
+            },
+            {
+                "id": 38548685300,
+                "preferredName": "Drew Paine",
+                "firstName": "Drew",
+                "lastName": "Paine"
+            },
+            {
+                "id": 37868031100,
+                "preferredName": "Sarah S. Poon",
+                "firstName": "Sarah S.",
+                "lastName": "Poon"
+            },
+            {
+                "id": 37089213918,
+                "preferredName": "Michael Beach",
+                "firstName": "Michael",
+                "lastName": "Beach"
+            },
+            {
+                "id": 37089211463,
+                "preferredName": "Alpha T. N&#x0027;Diaye",
+                "firstName": "Alpha T.",
+                "lastName": "N&#x0027;Diaye"
+            },
+            {
+                "id": 37085667010,
+                "preferredName": "Patrick Huck",
+                "firstName": "Patrick",
+                "lastName": "Huck"
+            },
+            {
+                "id": 37550118200,
+                "preferredName": "Lavanya Ramakrishnan",
+                "firstName": "Lavanya",
+                "lastName": "Ramakrishnan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00015",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652608",
+        "articleTitle": "Emerging Frameworks for Advancing Scientific Workflows Research, Development, and Education",
+        "volume": null,
+        "issue": null,
+        "startPage": "74",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Emerging Frameworks for Advancing Scientific Workflows Research, Development, and Education",
+        "authors": [
+            {
+                "id": 37270083100,
+                "preferredName": "Henri Casanova",
+                "firstName": "Henri",
+                "lastName": "Casanova"
+            },
+            {
+                "id": 37276642300,
+                "preferredName": "Ewa Deelman",
+                "firstName": "Ewa",
+                "lastName": "Deelman"
+            },
+            {
+                "id": 37973612800,
+                "preferredName": "Sandra Gesing",
+                "firstName": "Sandra",
+                "lastName": "Gesing"
+            },
+            {
+                "id": 37268005300,
+                "preferredName": "Michael Hildreth",
+                "firstName": "Michael",
+                "lastName": "Hildreth"
+            },
+            {
+                "id": 37088994367,
+                "preferredName": "Stephen Hudson",
+                "firstName": "Stephen",
+                "lastName": "Hudson"
+            },
+            {
+                "id": 37088637445,
+                "preferredName": "William Koch",
+                "firstName": "William",
+                "lastName": "Koch"
+            },
+            {
+                "id": 37085470105,
+                "preferredName": "Jeffrey Larson",
+                "firstName": "Jeffrey",
+                "lastName": "Larson"
+            },
+            {
+                "id": 37089211034,
+                "preferredName": "Mary Ann McDowell",
+                "firstName": "Mary Ann",
+                "lastName": "McDowell"
+            },
+            {
+                "id": 37085364523,
+                "preferredName": "Natalie Meyers",
+                "firstName": "Natalie",
+                "lastName": "Meyers"
+            },
+            {
+                "id": 37088994902,
+                "preferredName": "John-Luke Navarro",
+                "firstName": "John-Luke",
+                "lastName": "Navarro"
+            },
+            {
+                "id": 37086863412,
+                "preferredName": "George Papadimitriou",
+                "firstName": "George",
+                "lastName": "Papadimitriou"
+            },
+            {
+                "id": 37086615958,
+                "preferredName": "Ryan Tanaka",
+                "firstName": "Ryan",
+                "lastName": "Tanaka"
+            },
+            {
+                "id": 37283153400,
+                "preferredName": "Ian Taylor",
+                "firstName": "Ian",
+                "lastName": "Taylor"
+            },
+            {
+                "id": 37299761800,
+                "preferredName": "Douglas Thain",
+                "firstName": "Douglas",
+                "lastName": "Thain"
+            },
+            {
+                "id": 37085384495,
+                "preferredName": "Stefan M. Wild",
+                "firstName": "Stefan M.",
+                "lastName": "Wild"
+            },
+            {
+                "id": 37689390100,
+                "preferredName": "Rosa Filgueira",
+                "firstName": "Rosa",
+                "lastName": "Filgueira"
+            },
+            {
+                "id": 37085575436,
+                "preferredName": "Rafael Ferreira da Silva",
+                "firstName": "Rafael Ferreira",
+                "lastName": "da Silva"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00013",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652609",
+        "articleTitle": "A Performance Characterization of Scientific Machine Learning Workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "58",
+        "endPage": "65",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "A Performance Characterization of Scientific Machine Learning Workflows",
+        "authors": [
+            {
+                "id": 37089003354,
+                "preferredName": "Patrycja Krawczuk",
+                "firstName": "Patrycja",
+                "lastName": "Krawczuk"
+            },
+            {
+                "id": 37086863412,
+                "preferredName": "George Papadimitriou",
+                "firstName": "George",
+                "lastName": "Papadimitriou"
+            },
+            {
+                "id": 37086615958,
+                "preferredName": "Ryan Tanaka",
+                "firstName": "Ryan",
+                "lastName": "Tanaka"
+            },
+            {
+                "id": 37088385762,
+                "preferredName": "Tu Mai Anh Do",
+                "firstName": "Tu Mai",
+                "lastName": "Anh Do"
+            },
+            {
+                "id": 37089214710,
+                "preferredName": "Srujana Subramanya",
+                "firstName": "Srujana",
+                "lastName": "Subramanya"
+            },
+            {
+                "id": 37089005448,
+                "preferredName": "Shubham Nagarkar",
+                "firstName": "Shubham",
+                "lastName": "Nagarkar"
+            },
+            {
+                "id": 37089211311,
+                "preferredName": "Aditi Jain",
+                "firstName": "Aditi",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37089215322,
+                "preferredName": "Kelsie Lam",
+                "firstName": "Kelsie",
+                "lastName": "Lam"
+            },
+            {
+                "id": 38302142700,
+                "preferredName": "Anirban Mandal",
+                "firstName": "Anirban",
+                "lastName": "Mandal"
+            },
+            {
+                "id": 37085828414,
+                "preferredName": "Lo\u00efc Pottier",
+                "firstName": "Lo\u00efc",
+                "lastName": "Pottier"
+            },
+            {
+                "id": 37276642300,
+                "preferredName": "Ewa Deelman",
+                "firstName": "Ewa",
+                "lastName": "Deelman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00011",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652624",
+        "articleTitle": "The benefits of prefetching for large-scale cloud-based neuroimaging analysis workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "49",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "The benefits of prefetching for large-scale cloud-based neuroimaging analysis workflows",
+        "authors": [
+            {
+                "id": 37086320984,
+                "preferredName": "Valerie Hayot-Sasson",
+                "firstName": "Valerie",
+                "lastName": "Hayot-Sasson"
+            },
+            {
+                "id": 37395834300,
+                "preferredName": "Tristan Glatard",
+                "firstName": "Tristan",
+                "lastName": "Glatard"
+            },
+            {
+                "id": 37089215493,
+                "preferredName": "Ariel Rokem",
+                "firstName": "Ariel",
+                "lastName": "Rokem"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00007",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652627",
+        "articleTitle": "Intelligent Resource Provisioning for Scientific Workflows and HPC",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Intelligent Resource Provisioning for Scientific Workflows and HPC",
+        "authors": [
+            {
+                "id": 37087088044,
+                "preferredName": "Benjamin T. Shealy",
+                "firstName": "Benjamin T.",
+                "lastName": "Shealy"
+            },
+            {
+                "id": 37846043000,
+                "preferredName": "F. Alex Feltus",
+                "firstName": "F. Alex",
+                "lastName": "Feltus"
+            },
+            {
+                "id": 38636812600,
+                "preferredName": "Melissa C. Smith",
+                "firstName": "Melissa C.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00005",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652596",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "vii",
+        "endPage": "viii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00004",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652619",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "vi",
+        "endPage": "vi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00002",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652618",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00001",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652626",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00017",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652598",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "91",
+        "endPage": "92",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652564",
+        "doi": "10.1109/WORKS54523.2021.00003",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652604",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE Workshop on Workflows in Support of Large-Scale Science (WORKS)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]

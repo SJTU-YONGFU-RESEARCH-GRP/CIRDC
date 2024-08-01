@@ -1,0 +1,4506 @@
+[
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00013",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251967",
+        "articleTitle": "Keynotes",
+        "volume": null,
+        "issue": null,
+        "startPage": "35",
+        "endPage": "37",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Keynotes",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00079",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9252000",
+        "articleTitle": "AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing",
+        "volume": null,
+        "issue": null,
+        "startPage": "922",
+        "endPage": "936",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "AWB-GCN: A Graph Convolutional Network Accelerator with Runtime Workload Rebalancing",
+        "authors": [
+            {
+                "id": 37085904163,
+                "preferredName": "Tong Geng",
+                "firstName": "Tong",
+                "lastName": "Geng"
+            },
+            {
+                "id": 37086806662,
+                "preferredName": "Ang Li",
+                "firstName": "Ang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086278257,
+                "preferredName": "Runbin Shi",
+                "firstName": "Runbin",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37086994272,
+                "preferredName": "Chunshu Wu",
+                "firstName": "Chunshu",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37085491176,
+                "preferredName": "Tianqi Wang",
+                "firstName": "Tianqi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088469955,
+                "preferredName": "Yanfei Li",
+                "firstName": "Yanfei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088421037,
+                "preferredName": "Pouya Haghi",
+                "firstName": "Pouya",
+                "lastName": "Haghi"
+            },
+            {
+                "id": 37391915300,
+                "preferredName": "Antonino Tumeo",
+                "firstName": "Antonino",
+                "lastName": "Tumeo"
+            },
+            {
+                "id": 37586051700,
+                "preferredName": "Shuai Che",
+                "firstName": "Shuai",
+                "lastName": "Che"
+            },
+            {
+                "id": 37282365500,
+                "preferredName": "Steve Reinhardt",
+                "firstName": "Steve",
+                "lastName": "Reinhardt"
+            },
+            {
+                "id": 37265497700,
+                "preferredName": "Martin C. Herbordt",
+                "firstName": "Martin C.",
+                "lastName": "Herbordt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00068",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251978",
+        "articleTitle": "MatRaptor: A Sparse-Sparse Matrix Multiplication Accelerator Based on Row-Wise Product",
+        "volume": null,
+        "issue": null,
+        "startPage": "766",
+        "endPage": "780",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "MatRaptor: A Sparse-Sparse Matrix Multiplication Accelerator Based on Row-Wise Product",
+        "authors": [
+            {
+                "id": 37086802385,
+                "preferredName": "Nitish Srivastava",
+                "firstName": "Nitish",
+                "lastName": "Srivastava"
+            },
+            {
+                "id": 37086953610,
+                "preferredName": "Hanchen Jin",
+                "firstName": "Hanchen",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37088550497,
+                "preferredName": "Jie Liu",
+                "firstName": "Jie",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37267232800,
+                "preferredName": "David Albonesi",
+                "firstName": "David",
+                "lastName": "Albonesi"
+            },
+            {
+                "id": 38552737500,
+                "preferredName": "Zhiru Zhang",
+                "firstName": "Zhiru",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00040",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251855",
+        "articleTitle": "Newton: A DRAM-maker\u2019s Accelerator-in-Memory (AiM) Architecture for Machine Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "372",
+        "endPage": "385",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Newton: A DRAM-maker\u2019s Accelerator-in-Memory (AiM) Architecture for Machine Learning",
+        "authors": [
+            {
+                "id": 37086835879,
+                "preferredName": "Mingxuan He",
+                "firstName": "Mingxuan",
+                "lastName": "He"
+            },
+            {
+                "id": 37086948461,
+                "preferredName": "Choungki Song",
+                "firstName": "Choungki",
+                "lastName": "Song"
+            },
+            {
+                "id": 37089737005,
+                "preferredName": "Ilkon Kim",
+                "firstName": "Ilkon",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37268288000,
+                "preferredName": "Chunseok Jeong",
+                "firstName": "Chunseok",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 37089546344,
+                "preferredName": "Seho Kim",
+                "firstName": "Seho",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086876800,
+                "preferredName": "Il Park",
+                "firstName": "Il",
+                "lastName": "Park"
+            },
+            {
+                "id": 37324850400,
+                "preferredName": "Mithuna Thottethodi",
+                "firstName": "Mithuna",
+                "lastName": "Thottethodi"
+            },
+            {
+                "id": 37282389000,
+                "preferredName": "T. N. Vijaykumar",
+                "firstName": "T. N.",
+                "lastName": "Vijaykumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00039",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251944",
+        "articleTitle": "DUAL: Acceleration of Clustering Algorithms using Digital-based Processing In-Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "356",
+        "endPage": "371",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DUAL: Acceleration of Clustering Algorithms using Digital-based Processing In-Memory",
+        "authors": [
+            {
+                "id": 37074212000,
+                "preferredName": "Mohsen Imani",
+                "firstName": "Mohsen",
+                "lastName": "Imani"
+            },
+            {
+                "id": 37088550972,
+                "preferredName": "Saikishan Pampana",
+                "firstName": "Saikishan",
+                "lastName": "Pampana"
+            },
+            {
+                "id": 37086051321,
+                "preferredName": "Saransh Gupta",
+                "firstName": "Saransh",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37086950603,
+                "preferredName": "Minxuan Zhou",
+                "firstName": "Minxuan",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37085640764,
+                "preferredName": "Yeseong Kim",
+                "firstName": "Yeseong",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37295875800,
+                "preferredName": "Tajana Rosing",
+                "firstName": "Tajana",
+                "lastName": "Rosing"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00049",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251957",
+        "articleTitle": "Characterizing and Modeling Non-Volatile Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "496",
+        "endPage": "508",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Characterizing and Modeling Non-Volatile Memory Systems",
+        "authors": [
+            {
+                "id": 37086422609,
+                "preferredName": "Zixuan Wang",
+                "firstName": "Zixuan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088344838,
+                "preferredName": "Xiao Liu",
+                "firstName": "Xiao",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088551375,
+                "preferredName": "Jian Yang",
+                "firstName": "Jian",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37088553146,
+                "preferredName": "Theodore Michailidis",
+                "firstName": "Theodore",
+                "lastName": "Michailidis"
+            },
+            {
+                "id": 37407859800,
+                "preferredName": "Steven Swanson",
+                "firstName": "Steven",
+                "lastName": "Swanson"
+            },
+            {
+                "id": 37085443152,
+                "preferredName": "Jishen Zhao",
+                "firstName": "Jishen",
+                "lastName": "Zhao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00027",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251970",
+        "articleTitle": "Optimized Quantum Compilation for Near-Term Algorithms with OpenPulse",
+        "volume": null,
+        "issue": null,
+        "startPage": "186",
+        "endPage": "200",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Optimized Quantum Compilation for Near-Term Algorithms with OpenPulse",
+        "authors": [
+            {
+                "id": 37086811427,
+                "preferredName": "Pranav Gokhale",
+                "firstName": "Pranav",
+                "lastName": "Gokhale"
+            },
+            {
+                "id": 37086425472,
+                "preferredName": "Ali Javadi-Abhari",
+                "firstName": "Ali",
+                "lastName": "Javadi-Abhari"
+            },
+            {
+                "id": 37088552652,
+                "preferredName": "Nathan Earnest",
+                "firstName": "Nathan",
+                "lastName": "Earnest"
+            },
+            {
+                "id": 37088444294,
+                "preferredName": "Yunong Shi",
+                "firstName": "Yunong",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37283023200,
+                "preferredName": "Frederic T. Chong",
+                "firstName": "Frederic T.",
+                "lastName": "Chong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00089",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251973",
+        "articleTitle": "Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1067",
+        "endPage": "1081",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Building the Computing System for Autonomous Micromobility Vehicles: Design Constraints and Architectural Optimizations",
+        "authors": [
+            {
+                "id": 37086262236,
+                "preferredName": "Bo Yu",
+                "firstName": "Bo",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37088549429,
+                "preferredName": "Wei Hu",
+                "firstName": "Wei",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37088550630,
+                "preferredName": "Leimeng Xu",
+                "firstName": "Leimeng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37085384969,
+                "preferredName": "Jie Tang",
+                "firstName": "Jie",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37406041000,
+                "preferredName": "Shaoshan Liu",
+                "firstName": "Shaoshan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086433612,
+                "preferredName": "Yuhao Zhu",
+                "firstName": "Yuhao",
+                "lastName": "Zhu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00081",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251930",
+        "articleTitle": "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "951",
+        "endPage": "966",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "GenASM: A High-Performance, Low-Power Approximate String Matching Acceleration Framework for Genome Sequence Analysis",
+        "authors": [
+            {
+                "id": 37088495506,
+                "preferredName": "Damla Senol Cali",
+                "firstName": "Damla Senol",
+                "lastName": "Cali"
+            },
+            {
+                "id": 37087586300,
+                "preferredName": "Gurpreet S. Kalsi",
+                "firstName": "Gurpreet S.",
+                "lastName": "Kalsi"
+            },
+            {
+                "id": 37088495640,
+                "preferredName": "Z\u00fclal Bing\u00f6l",
+                "firstName": "Z\u00fclal",
+                "lastName": "Bing\u00f6l"
+            },
+            {
+                "id": 37088552114,
+                "preferredName": "Can Firtina",
+                "firstName": "Can",
+                "lastName": "Firtina"
+            },
+            {
+                "id": 38268318300,
+                "preferredName": "Lavanya Subramanian",
+                "firstName": "Lavanya",
+                "lastName": "Subramanian"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38266728400,
+                "preferredName": "Rachata Ausavarungnirun",
+                "firstName": "Rachata",
+                "lastName": "Ausavarungnirun"
+            },
+            {
+                "id": 38233829500,
+                "preferredName": "Mohammed Alser",
+                "firstName": "Mohammed",
+                "lastName": "Alser"
+            },
+            {
+                "id": 37075039500,
+                "preferredName": "Juan Gomez-Luna",
+                "firstName": "Juan",
+                "lastName": "Gomez-Luna"
+            },
+            {
+                "id": 37086000685,
+                "preferredName": "Amirali Boroumand",
+                "firstName": "Amirali",
+                "lastName": "Boroumand"
+            },
+            {
+                "id": 37088550808,
+                "preferredName": "Anant Norion",
+                "firstName": "Anant",
+                "lastName": "Norion"
+            },
+            {
+                "id": 37088550150,
+                "preferredName": "Allison Scibisz",
+                "firstName": "Allison",
+                "lastName": "Scibisz"
+            },
+            {
+                "id": 37088552789,
+                "preferredName": "Sreenivas Subramoneyon",
+                "firstName": "Sreenivas",
+                "lastName": "Subramoneyon"
+            },
+            {
+                "id": 37086197574,
+                "preferredName": "Can Alkan",
+                "firstName": "Can",
+                "lastName": "Alkan"
+            },
+            {
+                "id": 37085354352,
+                "preferredName": "Saugata Ghose",
+                "firstName": "Saugata",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00069",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251995",
+        "articleTitle": "TensorDash: Exploiting Sparsity to Accelerate Deep Neural Network Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "781",
+        "endPage": "795",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "TensorDash: Exploiting Sparsity to Accelerate Deep Neural Network Training",
+        "authors": [
+            {
+                "id": 37085894321,
+                "preferredName": "Mostafa Mahmoud",
+                "firstName": "Mostafa",
+                "lastName": "Mahmoud"
+            },
+            {
+                "id": 37088551368,
+                "preferredName": "Isak Edo",
+                "firstName": "Isak",
+                "lastName": "Edo"
+            },
+            {
+                "id": 37088344153,
+                "preferredName": "Ali Hadi Zadeh",
+                "firstName": "Ali Hadi",
+                "lastName": "Zadeh"
+            },
+            {
+                "id": 37088552064,
+                "preferredName": "Omar Mohamed Awad",
+                "firstName": "Omar",
+                "lastName": "Mohamed Awad"
+            },
+            {
+                "id": 37085379570,
+                "preferredName": "Gennady Pekhimenko",
+                "firstName": "Gennady",
+                "lastName": "Pekhimenko"
+            },
+            {
+                "id": 37085517445,
+                "preferredName": "Jorge Albericio",
+                "firstName": "Jorge",
+                "lastName": "Albericio"
+            },
+            {
+                "id": 37267012000,
+                "preferredName": "Andreas Moshovos",
+                "firstName": "Andreas",
+                "lastName": "Moshovos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00058",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251929",
+        "articleTitle": "ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "622",
+        "endPage": "636",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning",
+        "authors": [
+            {
+                "id": 37088550417,
+                "preferredName": "Sheng-Chun Kao",
+                "firstName": "Sheng-Chun",
+                "lastName": "Kao"
+            },
+            {
+                "id": 37088551128,
+                "preferredName": "Geonhwa Jeong",
+                "firstName": "Geonhwa",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 37540652000,
+                "preferredName": "Tushar Krishna",
+                "firstName": "Tushar",
+                "lastName": "Krishna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00014",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251863",
+        "articleTitle": "Graphene: Strong yet Lightweight Row Hammer Protection",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Graphene: Strong yet Lightweight Row Hammer Protection",
+        "authors": [
+            {
+                "id": 37088371932,
+                "preferredName": "Yeonhong Park",
+                "firstName": "Yeonhong",
+                "lastName": "Park"
+            },
+            {
+                "id": 37088551812,
+                "preferredName": "Woosuk Kwon",
+                "firstName": "Woosuk",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 37086158487,
+                "preferredName": "Eojin Lee",
+                "firstName": "Eojin",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37060925300,
+                "preferredName": "Tae Jun Ham",
+                "firstName": "Tae Jun",
+                "lastName": "Ham"
+            },
+            {
+                "id": 37085520148,
+                "preferredName": "Jung Ho Ahn",
+                "firstName": "Jung",
+                "lastName": "Ho Ahn"
+            },
+            {
+                "id": 38008729800,
+                "preferredName": "Jae W. Lee",
+                "firstName": "Jae W.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00033",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251852",
+        "articleTitle": "FIdelity: Efficient Resilience Analysis Framework for Deep Learning Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "270",
+        "endPage": "281",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "FIdelity: Efficient Resilience Analysis Framework for Deep Learning Accelerators",
+        "authors": [
+            {
+                "id": 37087994987,
+                "preferredName": "Yi He",
+                "firstName": "Yi",
+                "lastName": "He"
+            },
+            {
+                "id": 38581290700,
+                "preferredName": "Prasanna Balaprakash",
+                "firstName": "Prasanna",
+                "lastName": "Balaprakash"
+            },
+            {
+                "id": 37405719600,
+                "preferredName": "Yanjing Li",
+                "firstName": "Yanjing",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00075",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9252003",
+        "articleTitle": "ThymesisFlow: A Software-Defined, HW/SW co-Designed Interconnect Stack for Rack-Scale Memory Disaggregation",
+        "volume": null,
+        "issue": null,
+        "startPage": "868",
+        "endPage": "880",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "ThymesisFlow: A Software-Defined, HW/SW co-Designed Interconnect Stack for Rack-Scale Memory Disaggregation",
+        "authors": [
+            {
+                "id": 37085772118,
+                "preferredName": "Christian Pinto",
+                "firstName": "Christian",
+                "lastName": "Pinto"
+            },
+            {
+                "id": 37399419800,
+                "preferredName": "Dimitris Syrivelis",
+                "firstName": "Dimitris",
+                "lastName": "Syrivelis"
+            },
+            {
+                "id": 37088553557,
+                "preferredName": "Michele Gazzetti",
+                "firstName": "Michele",
+                "lastName": "Gazzetti"
+            },
+            {
+                "id": 37086371843,
+                "preferredName": "Panos Koutsovasilis",
+                "firstName": "Panos",
+                "lastName": "Koutsovasilis"
+            },
+            {
+                "id": 37086060586,
+                "preferredName": "Andrea Reale",
+                "firstName": "Andrea",
+                "lastName": "Reale"
+            },
+            {
+                "id": 37317532600,
+                "preferredName": "Kostas Katrinis",
+                "firstName": "Kostas",
+                "lastName": "Katrinis"
+            },
+            {
+                "id": 38556297400,
+                "preferredName": "H. Peter Hofstee",
+                "firstName": "H. Peter",
+                "lastName": "Hofstee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00078",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251946",
+        "articleTitle": "GraphPulse: An Event-Driven Hardware Accelerator for Asynchronous Graph Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "908",
+        "endPage": "921",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "GraphPulse: An Event-Driven Hardware Accelerator for Asynchronous Graph Processing",
+        "authors": [
+            {
+                "id": 37088550175,
+                "preferredName": "Shafiur Rahman",
+                "firstName": "Shafiur",
+                "lastName": "Rahman"
+            },
+            {
+                "id": 37279772800,
+                "preferredName": "Nael Abu-Ghazaleh",
+                "firstName": "Nael",
+                "lastName": "Abu-Ghazaleh"
+            },
+            {
+                "id": 37272679200,
+                "preferredName": "Rajiv Gupta",
+                "firstName": "Rajiv",
+                "lastName": "Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00090",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251950",
+        "articleTitle": "AutoScale: Energy Efficiency Optimization for Stochastic Edge Inference Using Reinforcement Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1082",
+        "endPage": "1096",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "AutoScale: Energy Efficiency Optimization for Stochastic Edge Inference Using Reinforcement Learning",
+        "authors": [
+            {
+                "id": 37085377786,
+                "preferredName": "Young Geun Kim",
+                "firstName": "Young Geun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085392155,
+                "preferredName": "Carole-Jean Wu",
+                "firstName": "Carole-Jean",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00062",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251939",
+        "articleTitle": "Planaria: Dynamic Architecture Fission for Spatial Multi-Tenant Acceleration of Deep Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "681",
+        "endPage": "697",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Planaria: Dynamic Architecture Fission for Spatial Multi-Tenant Acceleration of Deep Neural Networks",
+        "authors": [
+            {
+                "id": 37086468848,
+                "preferredName": "Soroush Ghodrati",
+                "firstName": "Soroush",
+                "lastName": "Ghodrati"
+            },
+            {
+                "id": 37088551118,
+                "preferredName": "Byung Hoon Ahn",
+                "firstName": "Byung Hoon",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37088553218,
+                "preferredName": "Joon Kyung Kim",
+                "firstName": "Joon",
+                "lastName": "Kyung Kim"
+            },
+            {
+                "id": 37088550893,
+                "preferredName": "Sean Kinzer",
+                "firstName": "Sean",
+                "lastName": "Kinzer"
+            },
+            {
+                "id": 37088553541,
+                "preferredName": "Brahmendra Reddy Yatham",
+                "firstName": "Brahmendra Reddy",
+                "lastName": "Yatham"
+            },
+            {
+                "id": 37088552526,
+                "preferredName": "Navateja Alla",
+                "firstName": "Navateja",
+                "lastName": "Alla"
+            },
+            {
+                "id": 37085778200,
+                "preferredName": "Hardik Sharma",
+                "firstName": "Hardik",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37085819806,
+                "preferredName": "Mohammad Alian",
+                "firstName": "Mohammad",
+                "lastName": "Alian"
+            },
+            {
+                "id": 37085648603,
+                "preferredName": "Eiman Ebrahimi",
+                "firstName": "Eiman",
+                "lastName": "Ebrahimi"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088526561,
+                "preferredName": "Cliff Young",
+                "firstName": "Cliff",
+                "lastName": "Young"
+            },
+            {
+                "id": 37267164000,
+                "preferredName": "Hadi Esmaeilzadeh",
+                "firstName": "Hadi",
+                "lastName": "Esmaeilzadeh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00071",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251854",
+        "articleTitle": "GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "811",
+        "endPage": "824",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference",
+        "authors": [
+            {
+                "id": 37088344153,
+                "preferredName": "Ali Hadi Zadeh",
+                "firstName": "Ali Hadi",
+                "lastName": "Zadeh"
+            },
+            {
+                "id": 37088551368,
+                "preferredName": "Isak Edo",
+                "firstName": "Isak",
+                "lastName": "Edo"
+            },
+            {
+                "id": 37086952856,
+                "preferredName": "Omar Mohamed Awad",
+                "firstName": "Omar Mohamed",
+                "lastName": "Awad"
+            },
+            {
+                "id": 37267012000,
+                "preferredName": "Andreas Moshovos",
+                "firstName": "Andreas",
+                "lastName": "Moshovos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00064",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251866",
+        "articleTitle": "Procrustes: a Dataflow and Accelerator for Sparse Deep Neural Network Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "711",
+        "endPage": "724",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Procrustes: a Dataflow and Accelerator for Sparse Deep Neural Network Training",
+        "authors": [
+            {
+                "id": 37088552771,
+                "preferredName": "Dingqing Yang",
+                "firstName": "Dingqing",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37085579319,
+                "preferredName": "Amin Ghasemazar",
+                "firstName": "Amin",
+                "lastName": "Ghasemazar"
+            },
+            {
+                "id": 37086151681,
+                "preferredName": "Xiaowei Ren",
+                "firstName": "Xiaowei",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37088552596,
+                "preferredName": "Maximilian Golub",
+                "firstName": "Maximilian",
+                "lastName": "Golub"
+            },
+            {
+                "id": 37300320100,
+                "preferredName": "Guy Lemieux",
+                "firstName": "Guy",
+                "lastName": "Lemieux"
+            },
+            {
+                "id": 37319012000,
+                "preferredName": "Mieszko Lis",
+                "firstName": "Mieszko",
+                "lastName": "Lis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00018",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251979",
+        "articleTitle": "SuperNPU: An Extremely Fast Neural Processing Unit Using Superconducting Logic Devices",
+        "volume": null,
+        "issue": null,
+        "startPage": "58",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "SuperNPU: An Extremely Fast Neural Processing Unit Using Superconducting Logic Devices",
+        "authors": [
+            {
+                "id": 37086045333,
+                "preferredName": "Koki Ishida",
+                "firstName": "Koki",
+                "lastName": "Ishida"
+            },
+            {
+                "id": 37087469474,
+                "preferredName": "Ilkwon Byun",
+                "firstName": "Ilkwon",
+                "lastName": "Byun"
+            },
+            {
+                "id": 37086699455,
+                "preferredName": "Ikki Nagaoka",
+                "firstName": "Ikki",
+                "lastName": "Nagaoka"
+            },
+            {
+                "id": 37088549837,
+                "preferredName": "Kosuke Fukumitsu",
+                "firstName": "Kosuke",
+                "lastName": "Fukumitsu"
+            },
+            {
+                "id": 37309851000,
+                "preferredName": "Masamitsu Tanaka",
+                "firstName": "Masamitsu",
+                "lastName": "Tanaka"
+            },
+            {
+                "id": 37088457357,
+                "preferredName": "Satoshi Kawakami",
+                "firstName": "Satoshi",
+                "lastName": "Kawakami"
+            },
+            {
+                "id": 37086099535,
+                "preferredName": "Teruo Tanimoto",
+                "firstName": "Teruo",
+                "lastName": "Tanimoto"
+            },
+            {
+                "id": 37403022900,
+                "preferredName": "Takatsugu Ono",
+                "firstName": "Takatsugu",
+                "lastName": "Ono"
+            },
+            {
+                "id": 37085348592,
+                "preferredName": "Jangwoo Kim",
+                "firstName": "Jangwoo",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37293596600,
+                "preferredName": "Koji Inoue",
+                "firstName": "Koji",
+                "lastName": "Inoue"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00077",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251861",
+        "articleTitle": "A Locality-Aware Energy-Efficient Accelerator for Graph Mining Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "895",
+        "endPage": "907",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "A Locality-Aware Energy-Efficient Accelerator for Graph Mining Applications",
+        "authors": [
+            {
+                "id": 37086087640,
+                "preferredName": "Pengcheng Yao",
+                "firstName": "Pengcheng",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37535311300,
+                "preferredName": "Long Zheng",
+                "firstName": "Long",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37088441145,
+                "preferredName": "Zhen Zeng",
+                "firstName": "Zhen",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37086837189,
+                "preferredName": "Yu Huang",
+                "firstName": "Yu",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086837448,
+                "preferredName": "Chuangyi Gui",
+                "firstName": "Chuangyi",
+                "lastName": "Gui"
+            },
+            {
+                "id": 37269559200,
+                "preferredName": "Xiaofei Liao",
+                "firstName": "Xiaofei",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37276607900,
+                "preferredName": "Hai Jin",
+                "firstName": "Hai",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37402346100,
+                "preferredName": "Jingling Xue",
+                "firstName": "Jingling",
+                "lastName": "Xue"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00029",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251960",
+        "articleTitle": "Circuit Compilation Methodologies for Quantum Approximate Optimization Algorithm",
+        "volume": null,
+        "issue": null,
+        "startPage": "215",
+        "endPage": "228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Circuit Compilation Methodologies for Quantum Approximate Optimization Algorithm",
+        "authors": [
+            {
+                "id": 37086951392,
+                "preferredName": "Mahabubul Alam",
+                "firstName": "Mahabubul",
+                "lastName": "Alam"
+            },
+            {
+                "id": 37085527120,
+                "preferredName": "Abdullah Ash-Saki",
+                "firstName": "Abdullah",
+                "lastName": "Ash-Saki"
+            },
+            {
+                "id": 37273380600,
+                "preferredName": "Swaroop Ghosh",
+                "firstName": "Swaroop",
+                "lastName": "Ghosh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00028",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251858",
+        "articleTitle": "Systematic Crosstalk Mitigation for Superconducting Qubits via Frequency-Aware Compilation",
+        "volume": null,
+        "issue": null,
+        "startPage": "201",
+        "endPage": "214",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Systematic Crosstalk Mitigation for Superconducting Qubits via Frequency-Aware Compilation",
+        "authors": [
+            {
+                "id": 37086428398,
+                "preferredName": "Yongshan Ding",
+                "firstName": "Yongshan",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37086811427,
+                "preferredName": "Pranav Gokhale",
+                "firstName": "Pranav",
+                "lastName": "Gokhale"
+            },
+            {
+                "id": 37088549680,
+                "preferredName": "Sophia Fuhui Lin",
+                "firstName": "Sophia Fuhui",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37088552830,
+                "preferredName": "Richard Rines",
+                "firstName": "Richard",
+                "lastName": "Rines"
+            },
+            {
+                "id": 37088549847,
+                "preferredName": "Thomas Propson",
+                "firstName": "Thomas",
+                "lastName": "Propson"
+            },
+            {
+                "id": 37283023200,
+                "preferredName": "Frederic T. Chong",
+                "firstName": "Frederic T.",
+                "lastName": "Chong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00048",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251942",
+        "articleTitle": "Shaving Retries with Sentinels for Fast Read over High-Density 3D Flash",
+        "volume": null,
+        "issue": null,
+        "startPage": "483",
+        "endPage": "495",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Shaving Retries with Sentinels for Fast Read over High-Density 3D Flash",
+        "authors": [
+            {
+                "id": 37085551680,
+                "preferredName": "Qiao Li",
+                "firstName": "Qiao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088480378,
+                "preferredName": "Min Ye",
+                "firstName": "Min",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37086542250,
+                "preferredName": "Yufei Cui",
+                "firstName": "Yufei",
+                "lastName": "Cui"
+            },
+            {
+                "id": 38019681300,
+                "preferredName": "Liang Shi",
+                "firstName": "Liang",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37086607744,
+                "preferredName": "Xiaoqiang Li",
+                "firstName": "Xiaoqiang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37276775300,
+                "preferredName": "Tei-Wei Kuo",
+                "firstName": "Tei-Wei",
+                "lastName": "Kuo"
+            },
+            {
+                "id": 37265504000,
+                "preferredName": "Chun Jason Xue",
+                "firstName": "Chun Jason",
+                "lastName": "Xue"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00087",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251968",
+        "articleTitle": "Mesorasi: Architecture Support for Point Cloud Analytics via Delayed-Aggregation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1037",
+        "endPage": "1050",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Mesorasi: Architecture Support for Point Cloud Analytics via Delayed-Aggregation",
+        "authors": [
+            {
+                "id": 37088552839,
+                "preferredName": "Yu Feng",
+                "firstName": "Yu",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37088552010,
+                "preferredName": "Boyuan Tian",
+                "firstName": "Boyuan",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37088550539,
+                "preferredName": "Tiancheng Xu",
+                "firstName": "Tiancheng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37543130500,
+                "preferredName": "Paul Whatmough",
+                "firstName": "Paul",
+                "lastName": "Whatmough"
+            },
+            {
+                "id": 37086433612,
+                "preferredName": "Yuhao Zhu",
+                "firstName": "Yuhao",
+                "lastName": "Zhu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00036",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251865",
+        "articleTitle": "FIGARO: Improving System Performance via Fine-Grained In-DRAM Data Relocation and Caching",
+        "volume": null,
+        "issue": null,
+        "startPage": "313",
+        "endPage": "328",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "FIGARO: Improving System Performance via Fine-Grained In-DRAM Data Relocation and Caching",
+        "authors": [
+            {
+                "id": 37900877700,
+                "preferredName": "Yaohua Wang",
+                "firstName": "Yaohua",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085772584,
+                "preferredName": "Lois Orosa",
+                "firstName": "Lois",
+                "lastName": "Orosa"
+            },
+            {
+                "id": 37088552144,
+                "preferredName": "Xiangjun Peng",
+                "firstName": "Xiangjun",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37086156690,
+                "preferredName": "Yang Guo",
+                "firstName": "Yang",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37085354352,
+                "preferredName": "Saugata Ghose",
+                "firstName": "Saugata",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 37086188901,
+                "preferredName": "Minesh Patel",
+                "firstName": "Minesh",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088550636,
+                "preferredName": "Juan G\u00f3mez Luna",
+                "firstName": "Juan G\u00f3mez",
+                "lastName": "Luna"
+            },
+            {
+                "id": 37085584788,
+                "preferredName": "Mohammad Sadrosadati",
+                "firstName": "Mohammad",
+                "lastName": "Sadrosadati"
+            },
+            {
+                "id": 37086555700,
+                "preferredName": "Nika Mansouri Ghiasi",
+                "firstName": "Nika Mansouri",
+                "lastName": "Ghiasi"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00020",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251975",
+        "articleTitle": "Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration",
+        "volume": null,
+        "issue": null,
+        "startPage": "88",
+        "endPage": "101",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Look-Up Table based Energy Efficient Processing in Cache Support for Neural Network Acceleration",
+        "authors": [
+            {
+                "id": 37086436652,
+                "preferredName": "Akshay Krishna Ramanathan",
+                "firstName": "Akshay Krishna",
+                "lastName": "Ramanathan"
+            },
+            {
+                "id": 37087586300,
+                "preferredName": "Gurpreet S Kalsi",
+                "firstName": "Gurpreet S",
+                "lastName": "Kalsi"
+            },
+            {
+                "id": 37085903000,
+                "preferredName": "Srivatsa Srinivasa",
+                "firstName": "Srivatsa",
+                "lastName": "Srinivasa"
+            },
+            {
+                "id": 37088550826,
+                "preferredName": "Tarun Makesh Chandran",
+                "firstName": "Tarun Makesh",
+                "lastName": "Chandran"
+            },
+            {
+                "id": 37088552139,
+                "preferredName": "Kamlesh R Pillai",
+                "firstName": "Kamlesh R",
+                "lastName": "Pillai"
+            },
+            {
+                "id": 37087585562,
+                "preferredName": "Om J Omer",
+                "firstName": "Om J",
+                "lastName": "Omer"
+            },
+            {
+                "id": 37273383200,
+                "preferredName": "Vijaykrishnan Narayanan",
+                "firstName": "Vijaykrishnan",
+                "lastName": "Narayanan"
+            },
+            {
+                "id": 38476117600,
+                "preferredName": "Sreenivas Subramoney",
+                "firstName": "Sreenivas",
+                "lastName": "Subramoney"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00034",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251987",
+        "articleTitle": "Bit-Exact ECC Recovery (BEER): Determining DRAM On-Die ECC Functions by Exploiting DRAM Data Retention Characteristics",
+        "volume": null,
+        "issue": null,
+        "startPage": "282",
+        "endPage": "297",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Bit-Exact ECC Recovery (BEER): Determining DRAM On-Die ECC Functions by Exploiting DRAM Data Retention Characteristics",
+        "authors": [
+            {
+                "id": 37086188901,
+                "preferredName": "Minesh Patel",
+                "firstName": "Minesh",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086408576,
+                "preferredName": "Taha Shahroodi",
+                "firstName": "Taha",
+                "lastName": "Shahroodi"
+            },
+            {
+                "id": 37085624531,
+                "preferredName": "Hasan Hassan",
+                "firstName": "Hasan",
+                "lastName": "Hassan"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00042",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251938",
+        "articleTitle": "MOUSE: Inference In Non-volatile Memory for Energy Harvesting Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "400",
+        "endPage": "414",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "MOUSE: Inference In Non-volatile Memory for Energy Harvesting Applications",
+        "authors": [
+            {
+                "id": 37086821769,
+                "preferredName": "Salonik Resch",
+                "firstName": "Salonik",
+                "lastName": "Resch"
+            },
+            {
+                "id": 37086018019,
+                "preferredName": "S. Karen Khatamifard",
+                "firstName": "S. Karen",
+                "lastName": "Khatamifard"
+            },
+            {
+                "id": 37393524500,
+                "preferredName": "Zamshed I. Chowdhury",
+                "firstName": "Zamshed I.",
+                "lastName": "Chowdhury"
+            },
+            {
+                "id": 37085423531,
+                "preferredName": "Masoud Zabihi",
+                "firstName": "Masoud",
+                "lastName": "Zabihi"
+            },
+            {
+                "id": 37085513206,
+                "preferredName": "Zhengyang Zhao",
+                "firstName": "Zhengyang",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37086092464,
+                "preferredName": "Husrev Cilasun",
+                "firstName": "Husrev",
+                "lastName": "Cilasun"
+            },
+            {
+                "id": 37310887900,
+                "preferredName": "Jian-Ping Wang",
+                "firstName": "Jian-Ping",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37276061900,
+                "preferredName": "Sachin S. Sapatnekar",
+                "firstName": "Sachin S.",
+                "lastName": "Sapatnekar"
+            },
+            {
+                "id": 37402942500,
+                "preferredName": "Ulya R. Karpuzcu",
+                "firstName": "Ulya R.",
+                "lastName": "Karpuzcu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00016",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251982",
+        "articleTitle": "PThammer: Cross-User-Kernel-Boundary Rowhammer through Implicit Accesses",
+        "volume": null,
+        "issue": null,
+        "startPage": "28",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "PThammer: Cross-User-Kernel-Boundary Rowhammer through Implicit Accesses",
+        "authors": [
+            {
+                "id": 37088451214,
+                "preferredName": "Zhi Zhang",
+                "firstName": "Zhi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088450132,
+                "preferredName": "Yueqiang Cheng",
+                "firstName": "Yueqiang",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37402810300,
+                "preferredName": "Dongxi Liu",
+                "firstName": "Dongxi",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37544720700,
+                "preferredName": "Surya Nepal",
+                "firstName": "Surya",
+                "lastName": "Nepal"
+            },
+            {
+                "id": 37086595746,
+                "preferredName": "Zhi Wang",
+                "firstName": "Zhi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37698581700,
+                "preferredName": "Yuval Yarom",
+                "firstName": "Yuval",
+                "lastName": "Yarom"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00080",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251992",
+        "articleTitle": "SeedEx: A Genome Sequencing Accelerator for Optimal Alignments in Subminimal Space",
+        "volume": null,
+        "issue": null,
+        "startPage": "937",
+        "endPage": "950",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "SeedEx: A Genome Sequencing Accelerator for Optimal Alignments in Subminimal Space",
+        "authors": [
+            {
+                "id": 37085789644,
+                "preferredName": "Daichi Fujiki",
+                "firstName": "Daichi",
+                "lastName": "Fujiki"
+            },
+            {
+                "id": 37088552049,
+                "preferredName": "Shunhao Wu",
+                "firstName": "Shunhao",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088553088,
+                "preferredName": "Nathan Ozog",
+                "firstName": "Nathan",
+                "lastName": "Ozog"
+            },
+            {
+                "id": 37088549848,
+                "preferredName": "Kush Goliya",
+                "firstName": "Kush",
+                "lastName": "Goliya"
+            },
+            {
+                "id": 37276099100,
+                "preferredName": "David Blaauw",
+                "firstName": "David",
+                "lastName": "Blaauw"
+            },
+            {
+                "id": 37424199700,
+                "preferredName": "Satish Narayanasamy",
+                "firstName": "Satish",
+                "lastName": "Narayanasamy"
+            },
+            {
+                "id": 37534767200,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00092",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251961",
+        "articleTitle": "CaSA: End-to-end Quantitative Security Analysis of Randomly Mapped Caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "1110",
+        "endPage": "1123",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "CaSA: End-to-end Quantitative Security Analysis of Randomly Mapped Caches",
+        "authors": [
+            {
+                "id": 37085880523,
+                "preferredName": "Thomas Bourgeat",
+                "firstName": "Thomas",
+                "lastName": "Bourgeat"
+            },
+            {
+                "id": 37086836404,
+                "preferredName": "Jules Drean",
+                "firstName": "Jules",
+                "lastName": "Drean"
+            },
+            {
+                "id": 37086576962,
+                "preferredName": "Yuheng Yang",
+                "firstName": "Yuheng",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37088551428,
+                "preferredName": "Lillian Tsai",
+                "firstName": "Lillian",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 37266272500,
+                "preferredName": "Joel Emer",
+                "firstName": "Joel",
+                "lastName": "Emer"
+            },
+            {
+                "id": 37086046296,
+                "preferredName": "Mengjia Yan",
+                "firstName": "Mengjia",
+                "lastName": "Yan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00022",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251928",
+        "articleTitle": "BranchNet: A Convolutional Neural Network to Predict Hard-To-Predict Branches",
+        "volume": null,
+        "issue": null,
+        "startPage": "118",
+        "endPage": "130",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "BranchNet: A Convolutional Neural Network to Predict Hard-To-Predict Branches",
+        "authors": [
+            {
+                "id": 37088551322,
+                "preferredName": "Siavash Zangeneh",
+                "firstName": "Siavash",
+                "lastName": "Zangeneh"
+            },
+            {
+                "id": 37088549838,
+                "preferredName": "Stephen Pruett",
+                "firstName": "Stephen",
+                "lastName": "Pruett"
+            },
+            {
+                "id": 37085849832,
+                "preferredName": "Sangkug Lym",
+                "firstName": "Sangkug",
+                "lastName": "Lym"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Yale N. Patt",
+                "firstName": "Yale N.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00070",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251932",
+        "articleTitle": "SAVE: Sparsity-Aware Vector Engine for Accelerating DNN Training and Inference on CPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "796",
+        "endPage": "810",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "SAVE: Sparsity-Aware Vector Engine for Accelerating DNN Training and Inference on CPUs",
+        "authors": [
+            {
+                "id": 37088552061,
+                "preferredName": "Zhangxiaowen Gong",
+                "firstName": "Zhangxiaowen",
+                "lastName": "Gong"
+            },
+            {
+                "id": 37088553147,
+                "preferredName": "Houxiang Ji",
+                "firstName": "Houxiang",
+                "lastName": "Ji"
+            },
+            {
+                "id": 37086426254,
+                "preferredName": "Christopher W. Fletcher",
+                "firstName": "Christopher W.",
+                "lastName": "Fletcher"
+            },
+            {
+                "id": 37282406900,
+                "preferredName": "Christopher J. Hughes",
+                "firstName": "Christopher J.",
+                "lastName": "Hughes"
+            },
+            {
+                "id": 37086947577,
+                "preferredName": "Sara Baghsorkhi",
+                "firstName": "Sara",
+                "lastName": "Baghsorkhi"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00056",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251856",
+        "articleTitle": "Pipette: Improving Core Utilization on Irregular Applications through Intra-Core Pipeline Parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "596",
+        "endPage": "608",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Pipette: Improving Core Utilization on Irregular Applications through Intra-Core Pipeline Parallelism",
+        "authors": [
+            {
+                "id": 37088550438,
+                "preferredName": "Quan M. Nguyen",
+                "firstName": "Quan M.",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37531401100,
+                "preferredName": "Daniel Sanchez",
+                "firstName": "Daniel",
+                "lastName": "Sanchez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00024",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251862",
+        "articleTitle": "I-SPY: Context-Driven Conditional Instruction Prefetching with Coalescing",
+        "volume": null,
+        "issue": null,
+        "startPage": "146",
+        "endPage": "159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "I-SPY: Context-Driven Conditional Instruction Prefetching with Coalescing",
+        "authors": [
+            {
+                "id": 37088549648,
+                "preferredName": "Tanvir Ahmed Khan",
+                "firstName": "Tanvir Ahmed",
+                "lastName": "Khan"
+            },
+            {
+                "id": 37085779243,
+                "preferredName": "Akshitha Sriraman",
+                "firstName": "Akshitha",
+                "lastName": "Sriraman"
+            },
+            {
+                "id": 38259804100,
+                "preferredName": "Joseph Devietti",
+                "firstName": "Joseph",
+                "lastName": "Devietti"
+            },
+            {
+                "id": 37424198800,
+                "preferredName": "Gilles Pokam",
+                "firstName": "Gilles",
+                "lastName": "Pokam"
+            },
+            {
+                "id": 37392889000,
+                "preferredName": "Heiner Litz",
+                "firstName": "Heiner",
+                "lastName": "Litz"
+            },
+            {
+                "id": 37086577414,
+                "preferredName": "Baris Kasikci",
+                "firstName": "Baris",
+                "lastName": "Kasikci"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00019",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251954",
+        "articleTitle": "Printed Machine Learning Classifiers",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "87",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Printed Machine Learning Classifiers",
+        "authors": [
+            {
+                "id": 37088487725,
+                "preferredName": "Muhammad Husnain Mubarik",
+                "firstName": "Muhammad Husnain",
+                "lastName": "Mubarik"
+            },
+            {
+                "id": 37086378014,
+                "preferredName": "Dennis D. Weller",
+                "firstName": "Dennis D.",
+                "lastName": "Weller"
+            },
+            {
+                "id": 37088485088,
+                "preferredName": "Nathaniel Bleier",
+                "firstName": "Nathaniel",
+                "lastName": "Bleier"
+            },
+            {
+                "id": 37086431763,
+                "preferredName": "Matthew Tomei",
+                "firstName": "Matthew",
+                "lastName": "Tomei"
+            },
+            {
+                "id": 37085556435,
+                "preferredName": "Jasmin Aghassi-Hagmann",
+                "firstName": "Jasmin",
+                "lastName": "Aghassi-Hagmann"
+            },
+            {
+                "id": 37273925100,
+                "preferredName": "Mehdi B. Tahoori",
+                "firstName": "Mehdi B.",
+                "lastName": "Tahoori"
+            },
+            {
+                "id": 37709981500,
+                "preferredName": "Rakesh Kumar",
+                "firstName": "Rakesh",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00047",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251937",
+        "articleTitle": "gem5-SALAM: A System Architecture for LLVM-based Accelerator Modeling",
+        "volume": null,
+        "issue": null,
+        "startPage": "471",
+        "endPage": "482",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "gem5-SALAM: A System Architecture for LLVM-based Accelerator Modeling",
+        "authors": [
+            {
+                "id": 37086458480,
+                "preferredName": "Samuel Rogers",
+                "firstName": "Samuel",
+                "lastName": "Rogers"
+            },
+            {
+                "id": 37086617003,
+                "preferredName": "Joshua Slycord",
+                "firstName": "Joshua",
+                "lastName": "Slycord"
+            },
+            {
+                "id": 37086536804,
+                "preferredName": "Mohammadreza Baharani",
+                "firstName": "Mohammadreza",
+                "lastName": "Baharani"
+            },
+            {
+                "id": 37540810300,
+                "preferredName": "Hamed Tabkhi",
+                "firstName": "Hamed",
+                "lastName": "Tabkhi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00044",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251965",
+        "articleTitle": "Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "427",
+        "endPage": "441",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Optimizing the Memory Hierarchy by Compositing Automatic Transformations on Computations and Data",
+        "authors": [
+            {
+                "id": 37088551829,
+                "preferredName": "Jie Zhao",
+                "firstName": "Jie",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 38113105400,
+                "preferredName": "Peng Di",
+                "firstName": "Peng",
+                "lastName": "Di"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00031",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251936",
+        "articleTitle": "Ptolemy: Architecture Support for Robust Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "241",
+        "endPage": "255",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Ptolemy: Architecture Support for Robust Deep Learning",
+        "authors": [
+            {
+                "id": 37086810031,
+                "preferredName": "Yiming Gan",
+                "firstName": "Yiming",
+                "lastName": "Gan"
+            },
+            {
+                "id": 37086810240,
+                "preferredName": "Yuxian Qiu",
+                "firstName": "Yuxian",
+                "lastName": "Qiu"
+            },
+            {
+                "id": 37085526104,
+                "preferredName": "Jingwen Leng",
+                "firstName": "Jingwen",
+                "lastName": "Leng"
+            },
+            {
+                "id": 37274181400,
+                "preferredName": "Minyi Guo",
+                "firstName": "Minyi",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37086433612,
+                "preferredName": "Yuhao Zhu",
+                "firstName": "Yuhao",
+                "lastName": "Zhu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00015",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251985",
+        "articleTitle": "Persist Level Parallelism: Streamlining Integrity Tree Updates for Secure Persistent Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Persist Level Parallelism: Streamlining Integrity Tree Updates for Secure Persistent Memory",
+        "authors": [
+            {
+                "id": 37088551418,
+                "preferredName": "Alexander Freij",
+                "firstName": "Alexander",
+                "lastName": "Freij"
+            },
+            {
+                "id": 37088551167,
+                "preferredName": "Shougang Yuan",
+                "firstName": "Shougang",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37422204700,
+                "preferredName": "Huiyang Zhou",
+                "firstName": "Huiyang",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37282584700,
+                "preferredName": "Yan Solihin",
+                "firstName": "Yan",
+                "lastName": "Solihin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00095",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251969",
+        "articleTitle": "Hardware-based Always-On Heap Memory Safety",
+        "volume": null,
+        "issue": null,
+        "startPage": "1153",
+        "endPage": "1166",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Hardware-based Always-On Heap Memory Safety",
+        "authors": [
+            {
+                "id": 37086700088,
+                "preferredName": "Yonghae Kim",
+                "firstName": "Yonghae",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38008722600,
+                "preferredName": "Jaekyu Lee",
+                "firstName": "Jaekyu",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37280376200,
+                "preferredName": "Hyesoon Kim",
+                "firstName": "Hyesoon",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00066",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251991",
+        "articleTitle": "DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "738",
+        "endPage": "750",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DUET: Boosting Deep Neural Network Efficiency on Dual-Module Architecture",
+        "authors": [
+            {
+                "id": 37086095319,
+                "preferredName": "Liu Liu",
+                "firstName": "Liu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088550577,
+                "preferredName": "Zheng Qu",
+                "firstName": "Zheng",
+                "lastName": "Qu"
+            },
+            {
+                "id": 37086459754,
+                "preferredName": "Lei Deng",
+                "firstName": "Lei",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37085406101,
+                "preferredName": "Fengbin Tu",
+                "firstName": "Fengbin",
+                "lastName": "Tu"
+            },
+            {
+                "id": 37537866000,
+                "preferredName": "Shuangchen Li",
+                "firstName": "Shuangchen",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086337781,
+                "preferredName": "Xing Hu",
+                "firstName": "Xing",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37088551837,
+                "preferredName": "Zhenyu Gu",
+                "firstName": "Zhenyu",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37086859727,
+                "preferredName": "Yufei Ding",
+                "firstName": "Yufei",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00060",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251947",
+        "articleTitle": "CuttleSys: Data-Driven Resource Management for Interactive Services on Reconfigurable Multicores",
+        "volume": null,
+        "issue": null,
+        "startPage": "650",
+        "endPage": "664",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "CuttleSys: Data-Driven Resource Management for Interactive Services on Reconfigurable Multicores",
+        "authors": [
+            {
+                "id": 37086404012,
+                "preferredName": "Neeraj Kulkarni",
+                "firstName": "Neeraj",
+                "lastName": "Kulkarni"
+            },
+            {
+                "id": 37088550270,
+                "preferredName": "Gonzalo Gonzalez-Pumariega",
+                "firstName": "Gonzalo",
+                "lastName": "Gonzalez-Pumariega"
+            },
+            {
+                "id": 37088553108,
+                "preferredName": "Amulya Khurana",
+                "firstName": "Amulya",
+                "lastName": "Khurana"
+            },
+            {
+                "id": 37272208500,
+                "preferredName": "Christine A. Shoemaker",
+                "firstName": "Christine A.",
+                "lastName": "Shoemaker"
+            },
+            {
+                "id": 37705169700,
+                "preferredName": "Christina Delimitrou",
+                "firstName": "Christina",
+                "lastName": "Delimitrou"
+            },
+            {
+                "id": 37267232800,
+                "preferredName": "David H. Albonesi",
+                "firstName": "David H.",
+                "lastName": "Albonesi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00051",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251977",
+        "articleTitle": "Unbounded Hardware Transactional Memory for a Hybrid DRAM/NVM Memory System",
+        "volume": null,
+        "issue": null,
+        "startPage": "525",
+        "endPage": "538",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Unbounded Hardware Transactional Memory for a Hybrid DRAM/NVM Memory System",
+        "authors": [
+            {
+                "id": 37086280019,
+                "preferredName": "Jungi Jeong",
+                "firstName": "Jungi",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 37088549246,
+                "preferredName": "Jaewan Hong",
+                "firstName": "Jaewan",
+                "lastName": "Hong"
+            },
+            {
+                "id": 37354388400,
+                "preferredName": "Seungryoul Maeng",
+                "firstName": "Seungryoul",
+                "lastName": "Maeng"
+            },
+            {
+                "id": 37085846782,
+                "preferredName": "Changhee Jung",
+                "firstName": "Changhee",
+                "lastName": "Jung"
+            },
+            {
+                "id": 37088482300,
+                "preferredName": "Youngjin Kwon",
+                "firstName": "Youngjin",
+                "lastName": "Kwon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00045",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251993",
+        "articleTitle": "DiffTune: Optimizing CPU Simulator Parameters with Learned Differentiable Surrogates",
+        "volume": null,
+        "issue": null,
+        "startPage": "442",
+        "endPage": "455",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DiffTune: Optimizing CPU Simulator Parameters with Learned Differentiable Surrogates",
+        "authors": [
+            {
+                "id": 37087041652,
+                "preferredName": "Alex Renda",
+                "firstName": "Alex",
+                "lastName": "Renda"
+            },
+            {
+                "id": 37088345161,
+                "preferredName": "Yishen Chen",
+                "firstName": "Yishen",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086281945,
+                "preferredName": "Charith Mendis",
+                "firstName": "Charith",
+                "lastName": "Mendis"
+            },
+            {
+                "id": 38251909500,
+                "preferredName": "Michael Carbin",
+                "firstName": "Michael",
+                "lastName": "Carbin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00093",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251956",
+        "articleTitle": "PerSpectron: Detecting Invariant Footprints of Microarchitectural Attacks with Perceptron",
+        "volume": null,
+        "issue": null,
+        "startPage": "1124",
+        "endPage": "1137",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "PerSpectron: Detecting Invariant Footprints of Microarchitectural Attacks with Perceptron",
+        "authors": [
+            {
+                "id": 37086423484,
+                "preferredName": "Samira Mirbagher-Ajorpaz",
+                "firstName": "Samira",
+                "lastName": "Mirbagher-Ajorpaz"
+            },
+            {
+                "id": 37424198800,
+                "preferredName": "Gilles Pokam",
+                "firstName": "Gilles",
+                "lastName": "Pokam"
+            },
+            {
+                "id": 37088552178,
+                "preferredName": "Esmaeil Mohammadian-Koruyeh",
+                "firstName": "Esmaeil",
+                "lastName": "Mohammadian-Koruyeh"
+            },
+            {
+                "id": 37086431368,
+                "preferredName": "Elba Garza",
+                "firstName": "Elba",
+                "lastName": "Garza"
+            },
+            {
+                "id": 37279772800,
+                "preferredName": "Nael Abu-Ghazaleh",
+                "firstName": "Nael",
+                "lastName": "Abu-Ghazaleh"
+            },
+            {
+                "id": 38485695000,
+                "preferredName": "Daniel A. Jim\u00e9nez",
+                "firstName": "Daniel A.",
+                "lastName": "Jim\u00e9nez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00086",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251964",
+        "articleTitle": "Locality-Centric Data and Threadblock Management for Massive GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1022",
+        "endPage": "1036",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Locality-Centric Data and Threadblock Management for Massive GPUs",
+        "authors": [
+            {
+                "id": 37086059483,
+                "preferredName": "Mahmoud Khairy",
+                "firstName": "Mahmoud",
+                "lastName": "Khairy"
+            },
+            {
+                "id": 37088552954,
+                "preferredName": "Vadim Nikiforov",
+                "firstName": "Vadim",
+                "lastName": "Nikiforov"
+            },
+            {
+                "id": 37085439910,
+                "preferredName": "David Nellans",
+                "firstName": "David",
+                "lastName": "Nellans"
+            },
+            {
+                "id": 38232412000,
+                "preferredName": "Timothy G. Rogers",
+                "firstName": "Timothy G.",
+                "lastName": "Rogers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00065",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251984",
+        "articleTitle": "Duplo: Lifting Redundant Memory Accesses of Deep Neural Networks for GPU Tensor Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "725",
+        "endPage": "737",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Duplo: Lifting Redundant Memory Accesses of Deep Neural Networks for GPU Tensor Cores",
+        "authors": [
+            {
+                "id": 37088550562,
+                "preferredName": "Hyeonjin Kim",
+                "firstName": "Hyeonjin",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088549861,
+                "preferredName": "Sungwoo Ahn",
+                "firstName": "Sungwoo",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37085853789,
+                "preferredName": "Yunho Oh",
+                "firstName": "Yunho",
+                "lastName": "Oh"
+            },
+            {
+                "id": 37088551425,
+                "preferredName": "Bogil Kim",
+                "firstName": "Bogil",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37410026400,
+                "preferredName": "Won Woo Ro",
+                "firstName": "Won Woo",
+                "lastName": "Ro"
+            },
+            {
+                "id": 37086556019,
+                "preferredName": "William J. Song",
+                "firstName": "William J.",
+                "lastName": "Song"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00094",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251941",
+        "articleTitle": "Speculation Invariance (InvarSpec): Faster Safe Execution Through Program Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "1138",
+        "endPage": "1152",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Speculation Invariance (InvarSpec): Faster Safe Execution Through Program Analysis",
+        "authors": [
+            {
+                "id": 37088552921,
+                "preferredName": "Zirui Neil Zhao",
+                "firstName": "Zirui Neil",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37088553147,
+                "preferredName": "Houxiang Ji",
+                "firstName": "Houxiang",
+                "lastName": "Ji"
+            },
+            {
+                "id": 37086046296,
+                "preferredName": "Mengjia Yan",
+                "firstName": "Mengjia",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37086432582,
+                "preferredName": "Jiyong Yu",
+                "firstName": "Jiyong",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37086426254,
+                "preferredName": "Christopher W. Fletcher",
+                "firstName": "Christopher W.",
+                "lastName": "Fletcher"
+            },
+            {
+                "id": 37086555680,
+                "preferredName": "Adam Morrison",
+                "firstName": "Adam",
+                "lastName": "Morrison"
+            },
+            {
+                "id": 37266072000,
+                "preferredName": "Darko Marinov",
+                "firstName": "Darko",
+                "lastName": "Marinov"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00030",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9252005",
+        "articleTitle": "Fast-BCNN: Massive Neuron Skipping in Bayesian Convolutional Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "229",
+        "endPage": "240",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Fast-BCNN: Massive Neuron Skipping in Bayesian Convolutional Neural Networks",
+        "authors": [
+            {
+                "id": 37088549384,
+                "preferredName": "Qiyu Wan",
+                "firstName": "Qiyu",
+                "lastName": "Wan"
+            },
+            {
+                "id": 37085352290,
+                "preferredName": "Xin Fu",
+                "firstName": "Xin",
+                "lastName": "Fu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00041",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251860",
+        "articleTitle": "AQUOMAN: An Analytic-Query Offloading Machine",
+        "volume": null,
+        "issue": null,
+        "startPage": "386",
+        "endPage": "399",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "AQUOMAN: An Analytic-Query Offloading Machine",
+        "authors": [
+            {
+                "id": 37087453038,
+                "preferredName": "Shuotao Xu",
+                "firstName": "Shuotao",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37085880523,
+                "preferredName": "Thomas Bourgeat",
+                "firstName": "Thomas",
+                "lastName": "Bourgeat"
+            },
+            {
+                "id": 37088550458,
+                "preferredName": "Tianhao Huang",
+                "firstName": "Tianhao",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37088550560,
+                "preferredName": "Hojun Kim",
+                "firstName": "Hojun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37836391500,
+                "preferredName": "Sungjin Lee",
+                "firstName": "Sungjin",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38253643000,
+                "preferredName": "Arvind Arvind",
+                "firstName": "Arvind",
+                "lastName": "Arvind"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00091",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251958",
+        "articleTitle": "NCPU: An Embedded Neural CPU Architecture on Resource-Constrained Low Power Devices for Real-time End-to-End Performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "1097",
+        "endPage": "1109",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "NCPU: An Embedded Neural CPU Architecture on Resource-Constrained Low Power Devices for Real-time End-to-End Performance",
+        "authors": [
+            {
+                "id": 37085855149,
+                "preferredName": "Tianyu Jia",
+                "firstName": "Tianyu",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37088368071,
+                "preferredName": "Yuhao Ju",
+                "firstName": "Yuhao",
+                "lastName": "Ju"
+            },
+            {
+                "id": 37413368000,
+                "preferredName": "Russ Joseph",
+                "firstName": "Russ",
+                "lastName": "Joseph"
+            },
+            {
+                "id": 37085592395,
+                "preferredName": "Jie Gu",
+                "firstName": "Jie",
+                "lastName": "Gu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00063",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251974",
+        "articleTitle": "VR-DANN: Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration",
+        "volume": null,
+        "issue": null,
+        "startPage": "698",
+        "endPage": "710",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "VR-DANN: Real-Time Video Recognition via Decoder-Assisted Neural Network Acceleration",
+        "authors": [
+            {
+                "id": 37086579890,
+                "preferredName": "Zhuoran Song",
+                "firstName": "Zhuoran",
+                "lastName": "Song"
+            },
+            {
+                "id": 37088481738,
+                "preferredName": "Feiyang Wu",
+                "firstName": "Feiyang",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088552551,
+                "preferredName": "Xueyuan Liu",
+                "firstName": "Xueyuan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088526009,
+                "preferredName": "Jing Ke",
+                "firstName": "Jing",
+                "lastName": "Ke"
+            },
+            {
+                "id": 37322547400,
+                "preferredName": "Naifeng Jing",
+                "firstName": "Naifeng",
+                "lastName": "Jing"
+            },
+            {
+                "id": 38240391200,
+                "preferredName": "Xiaoyao Liang",
+                "firstName": "Xiaoyao",
+                "lastName": "Liang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00017",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251949",
+        "articleTitle": "Draco: Architectural and Operating System Support for System Call Security",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Draco: Architectural and Operating System Support for System Call Security",
+        "authors": [
+            {
+                "id": 37085357259,
+                "preferredName": "Dimitrios Skarlatos",
+                "firstName": "Dimitrios",
+                "lastName": "Skarlatos"
+            },
+            {
+                "id": 37088552848,
+                "preferredName": "Qingrong Chen",
+                "firstName": "Qingrong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088552092,
+                "preferredName": "Jianyan Chen",
+                "firstName": "Jianyan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088898066,
+                "preferredName": "Tianyin Xu",
+                "firstName": "Tianyin",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00057",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251959",
+        "articleTitle": "RnR: A Software-Assisted Record-and-Replay Hardware Prefetcher",
+        "volume": null,
+        "issue": null,
+        "startPage": "609",
+        "endPage": "621",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "RnR: A Software-Assisted Record-and-Replay Hardware Prefetcher",
+        "authors": [
+            {
+                "id": 37086022902,
+                "preferredName": "Chao Zhang",
+                "firstName": "Chao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086455794,
+                "preferredName": "Yuan Zeng",
+                "firstName": "Yuan",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37281789600,
+                "preferredName": "John Shalf",
+                "firstName": "John",
+                "lastName": "Shalf"
+            },
+            {
+                "id": 37085660159,
+                "preferredName": "Xiaochen Guo",
+                "firstName": "Xiaochen",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00043",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251952",
+        "articleTitle": "More with Less \u2013 Deriving More Translation Rules with Less Training Data for DBTs Using Parameterization",
+        "volume": null,
+        "issue": null,
+        "startPage": "415",
+        "endPage": "426",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "More with Less \u2013 Deriving More Translation Rules with Less Training Data for DBTs Using Parameterization",
+        "authors": [
+            {
+                "id": 37088549992,
+                "preferredName": "Jinhu Jiang",
+                "firstName": "Jinhu",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37088551144,
+                "preferredName": "Rongchao Dong",
+                "firstName": "Rongchao",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37088553070,
+                "preferredName": "Zhongjun Zhou",
+                "firstName": "Zhongjun",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37088553353,
+                "preferredName": "Changheng Song",
+                "firstName": "Changheng",
+                "lastName": "Song"
+            },
+            {
+                "id": 37088349770,
+                "preferredName": "Wenwen Wang",
+                "firstName": "Wenwen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37282743100,
+                "preferredName": "Pen-Chung Yew",
+                "firstName": "Pen-Chung",
+                "lastName": "Yew"
+            },
+            {
+                "id": 37714609100,
+                "preferredName": "Weihua Zhang",
+                "firstName": "Weihua",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00084",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251966",
+        "articleTitle": "BOW: Breathing Operand Windows to Exploit Bypassing in GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "996",
+        "endPage": "1008",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "BOW: Breathing Operand Windows to Exploit Bypassing in GPUs",
+        "authors": [
+            {
+                "id": 37086085201,
+                "preferredName": "Hodjat Asghari Esfeden",
+                "firstName": "Hodjat Asghari",
+                "lastName": "Esfeden"
+            },
+            {
+                "id": 37085516620,
+                "preferredName": "Amirali Abdolrashidi",
+                "firstName": "Amirali",
+                "lastName": "Abdolrashidi"
+            },
+            {
+                "id": 37088550175,
+                "preferredName": "Shafiur Rahman",
+                "firstName": "Shafiur",
+                "lastName": "Rahman"
+            },
+            {
+                "id": 37085713239,
+                "preferredName": "Daniel Wong",
+                "firstName": "Daniel",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37279772800,
+                "preferredName": "Nael Abu-Ghazaleh",
+                "firstName": "Nael",
+                "lastName": "Abu-Ghazaleh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00061",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251972",
+        "articleTitle": "Jumanji: The Case for Dynamic NUCA in the Datacenter",
+        "volume": null,
+        "issue": null,
+        "startPage": "665",
+        "endPage": "680",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Jumanji: The Case for Dynamic NUCA in the Datacenter",
+        "authors": [
+            {
+                "id": 37088549481,
+                "preferredName": "Brian C. Schwedock",
+                "firstName": "Brian C.",
+                "lastName": "Schwedock"
+            },
+            {
+                "id": 37394328100,
+                "preferredName": "Nathan Beckmann",
+                "firstName": "Nathan",
+                "lastName": "Beckmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00023",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251943",
+        "articleTitle": "CHiRP: Control-Flow History Reuse Prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "131",
+        "endPage": "145",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "CHiRP: Control-Flow History Reuse Prediction",
+        "authors": [
+            {
+                "id": 37086423484,
+                "preferredName": "Samira Mirbagher-Ajorpaz",
+                "firstName": "Samira",
+                "lastName": "Mirbagher-Ajorpaz"
+            },
+            {
+                "id": 37086431368,
+                "preferredName": "Elba Garza",
+                "firstName": "Elba",
+                "lastName": "Garza"
+            },
+            {
+                "id": 37424198800,
+                "preferredName": "Gilles Pokam",
+                "firstName": "Gilles",
+                "lastName": "Pokam"
+            },
+            {
+                "id": 38485695000,
+                "preferredName": "Daniel A. Jim\u00e9nez",
+                "firstName": "Daniel A.",
+                "lastName": "Jim\u00e9nez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00026",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251988",
+        "articleTitle": "Virtualized Logical Qubits: A 2.5D Architecture for Error-Corrected Quantum Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "173",
+        "endPage": "185",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Virtualized Logical Qubits: A 2.5D Architecture for Error-Corrected Quantum Computing",
+        "authors": [
+            {
+                "id": 37087466784,
+                "preferredName": "Casey Duckering",
+                "firstName": "Casey",
+                "lastName": "Duckering"
+            },
+            {
+                "id": 37087467189,
+                "preferredName": "Jonathan M. Baker",
+                "firstName": "Jonathan M.",
+                "lastName": "Baker"
+            },
+            {
+                "id": 37392540100,
+                "preferredName": "David I. Schuster",
+                "firstName": "David I.",
+                "lastName": "Schuster"
+            },
+            {
+                "id": 37283023200,
+                "preferredName": "Frederic T. Chong",
+                "firstName": "Frederic T.",
+                "lastName": "Chong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00085",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251853",
+        "articleTitle": "MDM: The GPU Memory Divergence Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "1009",
+        "endPage": "1021",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "MDM: The GPU Memory Divergence Model",
+        "authors": [
+            {
+                "id": 37086436656,
+                "preferredName": "Lu Wang",
+                "firstName": "Lu",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37570065200,
+                "preferredName": "Magnus Jahre",
+                "firstName": "Magnus",
+                "lastName": "Jahre"
+            },
+            {
+                "id": 37088551065,
+                "preferredName": "Almutaz Adileho",
+                "firstName": "Almutaz",
+                "lastName": "Adileho"
+            },
+            {
+                "id": 37266694200,
+                "preferredName": "Lieven Eeckhout",
+                "firstName": "Lieven",
+                "lastName": "Eeckhout"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00059",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251983",
+        "articleTitle": "Gemini: Learning to Manage CPU Power for Latency-Critical Search Engines",
+        "volume": null,
+        "issue": null,
+        "startPage": "637",
+        "endPage": "349",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Gemini: Learning to Manage CPU Power for Latency-Critical Search Engines",
+        "authors": [
+            {
+                "id": 37086426309,
+                "preferredName": "Liang Zhou",
+                "firstName": "Liang",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37273460100,
+                "preferredName": "Laxmi N. Bhuyan",
+                "firstName": "Laxmi N.",
+                "lastName": "Bhuyan"
+            },
+            {
+                "id": 37298030000,
+                "preferredName": "K. K. Ramakrishnan",
+                "firstName": "K. K.",
+                "lastName": "Ramakrishnan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00074",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251997",
+        "articleTitle": "HyperPlane: A Scalable Low-Latency Notification Accelerator for Software Data Planes",
+        "volume": null,
+        "issue": null,
+        "startPage": "852",
+        "endPage": "867",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "HyperPlane: A Scalable Low-Latency Notification Accelerator for Software Data Planes",
+        "authors": [
+            {
+                "id": 37085573750,
+                "preferredName": "Amirhossein Mirhosseini",
+                "firstName": "Amirhossein",
+                "lastName": "Mirhosseini"
+            },
+            {
+                "id": 37086823929,
+                "preferredName": "Hossein Golestani",
+                "firstName": "Hossein",
+                "lastName": "Golestani"
+            },
+            {
+                "id": 37395315400,
+                "preferredName": "Thomas F. Wenisch",
+                "firstName": "Thomas F.",
+                "lastName": "Wenisch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00035",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251864",
+        "articleTitle": "DStress: Automatic Synthesis of DRAM Reliability Stress Viruses using Genetic Algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "298",
+        "endPage": "312",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DStress: Automatic Synthesis of DRAM Reliability Stress Viruses using Genetic Algorithms",
+        "authors": [
+            {
+                "id": 37075693600,
+                "preferredName": "Lev Mukhanov",
+                "firstName": "Lev",
+                "lastName": "Mukhanov"
+            },
+            {
+                "id": 37281854800,
+                "preferredName": "Dimitrios S. Nikolopoulos",
+                "firstName": "Dimitrios S.",
+                "lastName": "Nikolopoulos"
+            },
+            {
+                "id": 37545574600,
+                "preferredName": "Georgios Karakonstantis",
+                "firstName": "Georgios",
+                "lastName": "Karakonstantis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00032",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251935",
+        "articleTitle": "Non-Blocking Simultaneous Multithreading: Embracing the Resiliency of Deep Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "256",
+        "endPage": "269",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Non-Blocking Simultaneous Multithreading: Embracing the Resiliency of Deep Neural Networks",
+        "authors": [
+            {
+                "id": 37086171017,
+                "preferredName": "Gil Shomron",
+                "firstName": "Gil",
+                "lastName": "Shomron"
+            },
+            {
+                "id": 37354492100,
+                "preferredName": "Uri Weiser",
+                "firstName": "Uri",
+                "lastName": "Weiser"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00052",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251971",
+        "articleTitle": "(Almost) Fence-less Persist Ordering",
+        "volume": null,
+        "issue": null,
+        "startPage": "539",
+        "endPage": "554",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "(Almost) Fence-less Persist Ordering",
+        "authors": [
+            {
+                "id": 37088551599,
+                "preferredName": "Sara Mahdizadeh Shahri",
+                "firstName": "Sara Mahdizadeh",
+                "lastName": "Shahri"
+            },
+            {
+                "id": 37088550709,
+                "preferredName": "Seyed Armin Vakil Ghahani",
+                "firstName": "Seyed",
+                "lastName": "Armin Vakil Ghahani"
+            },
+            {
+                "id": 37085993674,
+                "preferredName": "Aasheesh Kolli",
+                "firstName": "Aasheesh",
+                "lastName": "Kolli"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00067",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251980",
+        "articleTitle": "TFE: Energy-efficient Transferred Filter-based Engine to Compress and Accelerate Convolutional Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "751",
+        "endPage": "765",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "TFE: Energy-efficient Transferred Filter-based Engine to Compress and Accelerate Convolutional Neural Networks",
+        "authors": [
+            {
+                "id": 37086152086,
+                "preferredName": "Huiyu Mo",
+                "firstName": "Huiyu",
+                "lastName": "Mo"
+            },
+            {
+                "id": 37280777600,
+                "preferredName": "Leibo Liu",
+                "firstName": "Leibo",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086947547,
+                "preferredName": "Wenjing Hu",
+                "firstName": "Wenjing",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37594285200,
+                "preferredName": "Wenping Zhu",
+                "firstName": "Wenping",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37291114800,
+                "preferredName": "Qiang Li",
+                "firstName": "Qiang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085343370,
+                "preferredName": "Ang Li",
+                "firstName": "Ang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37400289900,
+                "preferredName": "Shouyi Yin",
+                "firstName": "Shouyi",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37088551838,
+                "preferredName": "Jian Chen",
+                "firstName": "Jian",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37403105000,
+                "preferredName": "Xiaowei Jiang",
+                "firstName": "Xiaowei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37404117300,
+                "preferredName": "Shaojun Wei",
+                "firstName": "Shaojun",
+                "lastName": "Wei"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00076",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251945",
+        "articleTitle": "A Benchmarking Framework for Interactive 3D Applications in the Cloud",
+        "volume": null,
+        "issue": null,
+        "startPage": "881",
+        "endPage": "894",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "A Benchmarking Framework for Interactive 3D Applications in the Cloud",
+        "authors": [
+            {
+                "id": 37088552638,
+                "preferredName": "Tianyi Liu",
+                "firstName": "Tianyi",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086385550,
+                "preferredName": "Sen He",
+                "firstName": "Sen",
+                "lastName": "He"
+            },
+            {
+                "id": 37086387300,
+                "preferredName": "Sunzhou Huang",
+                "firstName": "Sunzhou",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37276155700,
+                "preferredName": "Danny Tsang",
+                "firstName": "Danny",
+                "lastName": "Tsang"
+            },
+            {
+                "id": 37085392912,
+                "preferredName": "Lingjia Tang",
+                "firstName": "Lingjia",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37297735100,
+                "preferredName": "Jason Mars",
+                "firstName": "Jason",
+                "lastName": "Mars"
+            },
+            {
+                "id": 38067013100,
+                "preferredName": "Wei Wang",
+                "firstName": "Wei",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00021",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251953",
+        "articleTitle": "FReaC Cache: Folded-logic Reconfigurable Computing in the Last Level Cache",
+        "volume": null,
+        "issue": null,
+        "startPage": "102",
+        "endPage": "117",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "FReaC Cache: Folded-logic Reconfigurable Computing in the Last Level Cache",
+        "authors": [
+            {
+                "id": 37085485958,
+                "preferredName": "Ashutosh Dhar",
+                "firstName": "Ashutosh",
+                "lastName": "Dhar"
+            },
+            {
+                "id": 37088413119,
+                "preferredName": "Xiaohao Wang",
+                "firstName": "Xiaohao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37268882500,
+                "preferredName": "Hubertus Franke",
+                "firstName": "Hubertus",
+                "lastName": "Franke"
+            },
+            {
+                "id": 37276003700,
+                "preferredName": "Jinjun Xiong",
+                "firstName": "Jinjun",
+                "lastName": "Xiong"
+            },
+            {
+                "id": 37086948945,
+                "preferredName": "Jian Huang",
+                "firstName": "Jian",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37282333800,
+                "preferredName": "Wen-mei Hwu",
+                "firstName": "Wen-mei",
+                "lastName": "Hwu"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37274186500,
+                "preferredName": "Deming Chen",
+                "firstName": "Deming",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00073",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9252004",
+        "articleTitle": "Coordinated Priority-aware Charging of Distributed Batteries in Oversubscribed Data Centers",
+        "volume": null,
+        "issue": null,
+        "startPage": "839",
+        "endPage": "851",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Coordinated Priority-aware Charging of Distributed Batteries in Oversubscribed Data Centers",
+        "authors": [
+            {
+                "id": 37086152142,
+                "preferredName": "Sulav Malla",
+                "firstName": "Sulav",
+                "lastName": "Malla"
+            },
+            {
+                "id": 37085837129,
+                "preferredName": "Qingyuan Deng",
+                "firstName": "Qingyuan",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37088551911,
+                "preferredName": "Zoh Ebrahimzadeh",
+                "firstName": "Zoh",
+                "lastName": "Ebrahimzadeh"
+            },
+            {
+                "id": 37088551657,
+                "preferredName": "Joe Gasperetti",
+                "firstName": "Joe",
+                "lastName": "Gasperetti"
+            },
+            {
+                "id": 37088549903,
+                "preferredName": "Sajal Jain",
+                "firstName": "Sajal",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37088553529,
+                "preferredName": "Parimala Kondety",
+                "firstName": "Parimala",
+                "lastName": "Kondety"
+            },
+            {
+                "id": 37088549971,
+                "preferredName": "Thiara Ortiz",
+                "firstName": "Thiara",
+                "lastName": "Ortiz"
+            },
+            {
+                "id": 37088553584,
+                "preferredName": "Debra Vieira",
+                "firstName": "Debra",
+                "lastName": "Vieira"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00038",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251963",
+        "articleTitle": "CATCAM: Constant-time Alteration Ternary CAM with Scalable In-Memory Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "342",
+        "endPage": "355",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "CATCAM: Constant-time Alteration Ternary CAM with Scalable In-Memory Architecture",
+        "authors": [
+            {
+                "id": 37088550513,
+                "preferredName": "Dibei Chen",
+                "firstName": "Dibei",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085521815,
+                "preferredName": "Zhaoshi Li",
+                "firstName": "Zhaoshi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088553315,
+                "preferredName": "Tianzhu Xiong",
+                "firstName": "Tianzhu",
+                "lastName": "Xiong"
+            },
+            {
+                "id": 37088479688,
+                "preferredName": "Zhiwei Liu",
+                "firstName": "Zhiwei",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086029058,
+                "preferredName": "Jun Yang",
+                "firstName": "Jun",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37400289900,
+                "preferredName": "Shouyi Yin",
+                "firstName": "Shouyi",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37404117300,
+                "preferredName": "Shaojun Wei",
+                "firstName": "Shaojun",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37280777600,
+                "preferredName": "Leibo Liu",
+                "firstName": "Leibo",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00083",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251962",
+        "articleTitle": "Deterministic Atomic Buffering",
+        "volume": null,
+        "issue": null,
+        "startPage": "981",
+        "endPage": "995",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Deterministic Atomic Buffering",
+        "authors": [
+            {
+                "id": 37088552080,
+                "preferredName": "Yuan Hsi Chou",
+                "firstName": "Yuan Hsi",
+                "lastName": "Chou"
+            },
+            {
+                "id": 37088081029,
+                "preferredName": "Christopher Ng",
+                "firstName": "Christopher",
+                "lastName": "Ng"
+            },
+            {
+                "id": 37088080419,
+                "preferredName": "Shaylin Cattell",
+                "firstName": "Shaylin",
+                "lastName": "Cattell"
+            },
+            {
+                "id": 37088553430,
+                "preferredName": "Jeremy Intan",
+                "firstName": "Jeremy",
+                "lastName": "Intan"
+            },
+            {
+                "id": 37085667828,
+                "preferredName": "Matthew D. Sinclair",
+                "firstName": "Matthew D.",
+                "lastName": "Sinclair"
+            },
+            {
+                "id": 38259804100,
+                "preferredName": "Joseph Devietti",
+                "firstName": "Joseph",
+                "lastName": "Devietti"
+            },
+            {
+                "id": 38232412000,
+                "preferredName": "Timothy G. Rogers",
+                "firstName": "Timothy G.",
+                "lastName": "Rogers"
+            },
+            {
+                "id": 37392928300,
+                "preferredName": "Tor M. Aamodt",
+                "firstName": "Tor M.",
+                "lastName": "Aamodt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00082",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251999",
+        "articleTitle": "Selective Replication in Memory-Side GPU Caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "967",
+        "endPage": "980",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Selective Replication in Memory-Side GPU Caches",
+        "authors": [
+            {
+                "id": 37085838522,
+                "preferredName": "Xia Zhao",
+                "firstName": "Xia",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37570065200,
+                "preferredName": "Magnus Jahre",
+                "firstName": "Magnus",
+                "lastName": "Jahre"
+            },
+            {
+                "id": 37266694200,
+                "preferredName": "Lieven Eeckhout",
+                "firstName": "Lieven",
+                "lastName": "Eeckhout"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00025",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251990",
+        "articleTitle": "Improving the Utilization of Micro-operation Caches in x86 Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "160",
+        "endPage": "172",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Improving the Utilization of Micro-operation Caches in x86 Processors",
+        "authors": [
+            {
+                "id": 37075906700,
+                "preferredName": "Jagadish B. Kotra",
+                "firstName": "Jagadish B.",
+                "lastName": "Kotra"
+            },
+            {
+                "id": 37266693700,
+                "preferredName": "John Kalamatianos",
+                "firstName": "John",
+                "lastName": "Kalamatianos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00046",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251981",
+        "articleTitle": "Predicting Execution Times With Partial Simulations in Virtual Memory Research: Why and How",
+        "volume": null,
+        "issue": null,
+        "startPage": "456",
+        "endPage": "470",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Predicting Execution Times With Partial Simulations in Virtual Memory Research: Why and How",
+        "authors": [
+            {
+                "id": 37088550585,
+                "preferredName": "Mohammad Agbarya",
+                "firstName": "Mohammad",
+                "lastName": "Agbarya"
+            },
+            {
+                "id": 37088551360,
+                "preferredName": "Idan Yaniv",
+                "firstName": "Idan",
+                "lastName": "Yaniv"
+            },
+            {
+                "id": 38349730000,
+                "preferredName": "Jayneel Gandhi",
+                "firstName": "Jayneel",
+                "lastName": "Gandhi"
+            },
+            {
+                "id": 37295072500,
+                "preferredName": "Dan Tsafrir",
+                "firstName": "Dan",
+                "lastName": "Tsafrir"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00088",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251996",
+        "articleTitle": "FlexWatts: A Power- and Workload-Aware Hybrid Power Delivery Network for Energy-Efficient Microprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1051",
+        "endPage": "1066",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "FlexWatts: A Power- and Workload-Aware Hybrid Power Delivery Network for Energy-Efficient Microprocessors",
+        "authors": [
+            {
+                "id": 37086368368,
+                "preferredName": "Jawad Haj-Yahya",
+                "firstName": "Jawad",
+                "lastName": "Haj-Yahya"
+            },
+            {
+                "id": 38233829500,
+                "preferredName": "Mohammed Alser",
+                "firstName": "Mohammed",
+                "lastName": "Alser"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085772584,
+                "preferredName": "Lois Orosa",
+                "firstName": "Lois",
+                "lastName": "Orosa"
+            },
+            {
+                "id": 37421230400,
+                "preferredName": "Efraim Rotem",
+                "firstName": "Efraim",
+                "lastName": "Rotem"
+            },
+            {
+                "id": 37282322100,
+                "preferredName": "Avi Mendelson",
+                "firstName": "Avi",
+                "lastName": "Mendelson"
+            },
+            {
+                "id": 37412698700,
+                "preferredName": "Anupam Chattopadhyay",
+                "firstName": "Anupam",
+                "lastName": "Chattopadhyay"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00053",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251951",
+        "articleTitle": "Speculative Enforcement of Store Atomicity",
+        "volume": null,
+        "issue": null,
+        "startPage": "555",
+        "endPage": "567",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Speculative Enforcement of Store Atomicity",
+        "authors": [
+            {
+                "id": 37408952800,
+                "preferredName": "Alberto Ros",
+                "firstName": "Alberto",
+                "lastName": "Ros"
+            },
+            {
+                "id": 37267088500,
+                "preferredName": "Stefanos Kaxiras",
+                "firstName": "Stefanos",
+                "lastName": "Kaxiras"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00054",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251940",
+        "articleTitle": "Boosting Store Buffer Efficiency with Store-Prefetch Bursts",
+        "volume": null,
+        "issue": null,
+        "startPage": "568",
+        "endPage": "580",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Boosting Store Buffer Efficiency with Store-Prefetch Bursts",
+        "authors": [
+            {
+                "id": 38180739600,
+                "preferredName": "Juan M. Cebrian",
+                "firstName": "Juan M.",
+                "lastName": "Cebrian"
+            },
+            {
+                "id": 37267088500,
+                "preferredName": "Stefanos Kaxiras",
+                "firstName": "Stefanos",
+                "lastName": "Kaxiras"
+            },
+            {
+                "id": 37408952800,
+                "preferredName": "Alberto Ros",
+                "firstName": "Alberto",
+                "lastName": "Ros"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00072",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251955",
+        "articleTitle": "TrainBox: An Extreme-Scale Neural Network Training Server Architecture by Systematically Balancing Operations",
+        "volume": null,
+        "issue": null,
+        "startPage": "825",
+        "endPage": "838",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "TrainBox: An Extreme-Scale Neural Network Training Server Architecture by Systematically Balancing Operations",
+        "authors": [
+            {
+                "id": 37086345688,
+                "preferredName": "Pyeongsu Park",
+                "firstName": "Pyeongsu",
+                "lastName": "Park"
+            },
+            {
+                "id": 37088552864,
+                "preferredName": "Heetaek Jeong",
+                "firstName": "Heetaek",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 37085348592,
+                "preferredName": "Jangwoo Kim",
+                "firstName": "Jangwoo",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00055",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251998",
+        "articleTitle": "D-SOAP: Dynamic Spatial Orientation Affinity Prediction for Caching in Multi-Orientation Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "581",
+        "endPage": "595",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "D-SOAP: Dynamic Spatial Orientation Affinity Prediction for Caching in Multi-Orientation Memory Systems",
+        "authors": [
+            {
+                "id": 37086379827,
+                "preferredName": "Minli Julie Liao",
+                "firstName": "Minli Julie",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37420427300,
+                "preferredName": "Jack Sampson",
+                "firstName": "Jack",
+                "lastName": "Sampson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00050",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251857",
+        "articleTitle": "P-INSPECT: Architectural Support for Programmable Non-Volatile Memory Frameworks",
+        "volume": null,
+        "issue": null,
+        "startPage": "509",
+        "endPage": "524",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "P-INSPECT: Architectural Support for Programmable Non-Volatile Memory Frameworks",
+        "authors": [
+            {
+                "id": 37085781164,
+                "preferredName": "Apostolos Kokolis",
+                "firstName": "Apostolos",
+                "lastName": "Kokolis"
+            },
+            {
+                "id": 37086310222,
+                "preferredName": "Thomas Shull",
+                "firstName": "Thomas",
+                "lastName": "Shull"
+            },
+            {
+                "id": 37086948945,
+                "preferredName": "Jian Huang",
+                "firstName": "Jian",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00037",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251867",
+        "articleTitle": "PerpLE: Improving the Speed and Effectiveness of Memory Consistency Testing",
+        "volume": null,
+        "issue": null,
+        "startPage": "329",
+        "endPage": "341",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "PerpLE: Improving the Speed and Effectiveness of Memory Consistency Testing",
+        "authors": [
+            {
+                "id": 37085993732,
+                "preferredName": "Themis Melissaris",
+                "firstName": "Themis",
+                "lastName": "Melissaris"
+            },
+            {
+                "id": 37088552515,
+                "preferredName": "Markos Markakis",
+                "firstName": "Markos",
+                "lastName": "Markakis"
+            },
+            {
+                "id": 37667284200,
+                "preferredName": "Kelly Shaw",
+                "firstName": "Kelly",
+                "lastName": "Shaw"
+            },
+            {
+                "id": 37332404000,
+                "preferredName": "Margaret Martonosi",
+                "firstName": "Margaret",
+                "lastName": "Martonosi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251994",
+        "articleTitle": "MICRO-53 Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "34",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "MICRO-53 Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251850",
+        "articleTitle": "Steering Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Steering Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251859",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251934",
+        "articleTitle": "Message from the MICRO 2020 General Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "16",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Message from the MICRO 2020 General Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251989",
+        "articleTitle": "Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "23",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251976",
+        "articleTitle": "Message from the MICRO 2020 Program Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Message from the MICRO 2020 Program Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251851",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9252001",
+        "articleTitle": "Additional External Reviewers",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Additional External Reviewers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251931",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251986",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251948",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00096",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9251933",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1167",
+        "endPage": "1172",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9251289",
+        "doi": "10.1109/MICRO50266.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "17-21 Oct. 2020",
+        "articleNumber": "9252002",
+        "articleTitle": "External Review Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "28",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 53rd Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "External Review Committee",
+        "authors": []
+    }
+]

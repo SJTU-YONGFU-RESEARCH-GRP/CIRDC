@@ -1,0 +1,514 @@
+[
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307060",
+        "articleTitle": "GPU Direct I/O with HDF5",
+        "volume": null,
+        "issue": null,
+        "startPage": "28",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "GPU Direct I/O with HDF5",
+        "authors": [
+            {
+                "id": 37086619028,
+                "preferredName": "John Ravi",
+                "firstName": "John",
+                "lastName": "Ravi"
+            },
+            {
+                "id": 37085862825,
+                "preferredName": "Suren Byna",
+                "firstName": "Suren",
+                "lastName": "Byna"
+            },
+            {
+                "id": 37085424277,
+                "preferredName": "Quincey Koziol",
+                "firstName": "Quincey",
+                "lastName": "Koziol"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306992",
+        "articleTitle": "Pangeo Benchmarking Analysis: Object Storage vs. POSIX File System",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Pangeo Benchmarking Analysis: Object Storage vs. POSIX File System",
+        "authors": [
+            {
+                "id": 37085710185,
+                "preferredName": "Haiying Xu",
+                "firstName": "Haiying",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37085706132,
+                "preferredName": "Kevin Paul",
+                "firstName": "Kevin",
+                "lastName": "Paul"
+            },
+            {
+                "id": 37088600933,
+                "preferredName": "Anderson Banihirwe",
+                "firstName": "Anderson",
+                "lastName": "Banihirwe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00013",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307050",
+        "articleTitle": "Fingerprinting the Checker Policies of Parallel File Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Fingerprinting the Checker Policies of Parallel File Systems",
+        "authors": [
+            {
+                "id": 37088600329,
+                "preferredName": "Runzhou Han",
+                "firstName": "Runzhou",
+                "lastName": "Han"
+            },
+            {
+                "id": 37088600689,
+                "preferredName": "Duo Zhang",
+                "firstName": "Duo",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085852266,
+                "preferredName": "Mai Zheng",
+                "firstName": "Mai",
+                "lastName": "Zheng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306979",
+        "articleTitle": "Gauge: An Interactive Data-Driven Visualization Tool for HPC Application I/O Performance Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Gauge: An Interactive Data-Driven Visualization Tool for HPC Application I/O Performance Analysis",
+        "authors": [
+            {
+                "id": 37088591068,
+                "preferredName": "Eliakin del Rosario",
+                "firstName": "Eliakin",
+                "lastName": "del Rosario"
+            },
+            {
+                "id": 37088602506,
+                "preferredName": "Mikaela Currier",
+                "firstName": "Mikaela",
+                "lastName": "Currier"
+            },
+            {
+                "id": 37086057928,
+                "preferredName": "Mihailo Isakov",
+                "firstName": "Mihailo",
+                "lastName": "Isakov"
+            },
+            {
+                "id": 37086175339,
+                "preferredName": "Sandeep Madireddy",
+                "firstName": "Sandeep",
+                "lastName": "Madireddy"
+            },
+            {
+                "id": 38581290700,
+                "preferredName": "Prasanna Balaprakash",
+                "firstName": "Prasanna",
+                "lastName": "Balaprakash"
+            },
+            {
+                "id": 37422604200,
+                "preferredName": "Philip Carns",
+                "firstName": "Philip",
+                "lastName": "Carns"
+            },
+            {
+                "id": 37284984100,
+                "preferredName": "Robert B. Ross",
+                "firstName": "Robert B.",
+                "lastName": "Ross"
+            },
+            {
+                "id": 37720198900,
+                "preferredName": "Kevin Harms",
+                "firstName": "Kevin",
+                "lastName": "Harms"
+            },
+            {
+                "id": 37669591300,
+                "preferredName": "Shane Snyder",
+                "firstName": "Shane",
+                "lastName": "Snyder"
+            },
+            {
+                "id": 37318978700,
+                "preferredName": "Michel A. Kinsy",
+                "firstName": "Michel A.",
+                "lastName": "Kinsy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307006",
+        "articleTitle": "Emulating I/O Behavior in Scientific Workflows on High Performance Computing Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Emulating I/O Behavior in Scientific Workflows on High Performance Computing Systems",
+        "authors": [
+            {
+                "id": 37086519485,
+                "preferredName": "Fahim Chowdhury",
+                "firstName": "Fahim",
+                "lastName": "Chowdhury"
+            },
+            {
+                "id": 37086163015,
+                "preferredName": "Yue Zhu",
+                "firstName": "Yue",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37086219061,
+                "preferredName": "Francesco Di Natale",
+                "firstName": "Francesco",
+                "lastName": "Di Natale"
+            },
+            {
+                "id": 37601318100,
+                "preferredName": "Adam Moody",
+                "firstName": "Adam",
+                "lastName": "Moody"
+            },
+            {
+                "id": 38487555000,
+                "preferredName": "Elsa Gonsiorowski",
+                "firstName": "Elsa",
+                "lastName": "Gonsiorowski"
+            },
+            {
+                "id": 37422444700,
+                "preferredName": "Kathryn Mohror",
+                "firstName": "Kathryn",
+                "lastName": "Mohror"
+            },
+            {
+                "id": 37405649800,
+                "preferredName": "Weikuan Yu",
+                "firstName": "Weikuan",
+                "lastName": "Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307161",
+        "articleTitle": "Towards On-Demand I/O Forwarding in HPC Platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "7",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Towards On-Demand I/O Forwarding in HPC Platforms",
+        "authors": [
+            {
+                "id": 37085494555,
+                "preferredName": "Jean Luca Bez",
+                "firstName": "Jean Luca",
+                "lastName": "Bez"
+            },
+            {
+                "id": 37591198100,
+                "preferredName": "Francieli Z. Boito",
+                "firstName": "Francieli Z.",
+                "lastName": "Boito"
+            },
+            {
+                "id": 38241974400,
+                "preferredName": "Alberto Miranda",
+                "firstName": "Alberto",
+                "lastName": "Miranda"
+            },
+            {
+                "id": 37299625800,
+                "preferredName": "Ramon Nou",
+                "firstName": "Ramon",
+                "lastName": "Nou"
+            },
+            {
+                "id": 37283859700,
+                "preferredName": "Toni Cortes",
+                "firstName": "Toni",
+                "lastName": "Cortes"
+            },
+            {
+                "id": 37266686600,
+                "preferredName": "Philippe O. A. Navaux",
+                "firstName": "Philippe O. A.",
+                "lastName": "Navaux"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306972",
+        "articleTitle": "Fractional-Overlap Declustered Parity: Evaluating Reliability for Storage Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Fractional-Overlap Declustered Parity: Evaluating Reliability for Storage Systems",
+        "authors": [
+            {
+                "id": 37088452261,
+                "preferredName": "Huan Ke",
+                "firstName": "Huan",
+                "lastName": "Ke"
+            },
+            {
+                "id": 38275086000,
+                "preferredName": "Haryadi S. Gunawi",
+                "firstName": "Haryadi S.",
+                "lastName": "Gunawi"
+            },
+            {
+                "id": 37088453285,
+                "preferredName": "Dominic Manno",
+                "firstName": "Dominic",
+                "lastName": "Manno"
+            },
+            {
+                "id": 37088451932,
+                "preferredName": "David Bonnie",
+                "firstName": "David",
+                "lastName": "Bonnie"
+            },
+            {
+                "id": 37590976400,
+                "preferredName": "Bradley W. Settlemyer",
+                "firstName": "Bradley W.",
+                "lastName": "Settlemyer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307141",
+        "articleTitle": "Keeping It Real: Why HPC Data Services Don't Achieve I/O Microbenchmark Performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Keeping It Real: Why HPC Data Services Don't Achieve I/O Microbenchmark Performance",
+        "authors": [
+            {
+                "id": 37422604200,
+                "preferredName": "Philip Carns",
+                "firstName": "Philip",
+                "lastName": "Carns"
+            },
+            {
+                "id": 37720198900,
+                "preferredName": "Kevin Harms",
+                "firstName": "Kevin",
+                "lastName": "Harms"
+            },
+            {
+                "id": 37590976400,
+                "preferredName": "Bradley W. Settlemyer",
+                "firstName": "Bradley W.",
+                "lastName": "Settlemyer"
+            },
+            {
+                "id": 37085446571,
+                "preferredName": "Brian Atkinson",
+                "firstName": "Brian",
+                "lastName": "Atkinson"
+            },
+            {
+                "id": 37284984100,
+                "preferredName": "Robert B. Ross",
+                "firstName": "Robert B.",
+                "lastName": "Ross"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9307153",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "vi",
+        "endPage": "vii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306981",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00014",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306962",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "53",
+        "endPage": "53",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306929",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306938",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306851",
+        "doi": "10.1109/PDSW51947.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "12-12 Nov. 2020",
+        "articleNumber": "9306960",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Fifth International Parallel Data Systems Workshop (PDSW)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]

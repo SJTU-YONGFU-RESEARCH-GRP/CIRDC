@@ -1,0 +1,3465 @@
+[
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00011",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816771",
+        "articleTitle": "Keynote Abstract",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "34",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Keynote Abstract",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00064",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816802",
+        "articleTitle": "A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software",
+        "volume": null,
+        "issue": null,
+        "startPage": "383",
+        "endPage": "387",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software",
+        "authors": [
+            {
+                "id": 37085398758,
+                "preferredName": "Serena Elisa Ponta",
+                "firstName": "Serena Elisa",
+                "lastName": "Ponta"
+            },
+            {
+                "id": 37714058800,
+                "preferredName": "Henrik Plate",
+                "firstName": "Henrik",
+                "lastName": "Plate"
+            },
+            {
+                "id": 37659442400,
+                "preferredName": "Antonino Sabetta",
+                "firstName": "Antonino",
+                "lastName": "Sabetta"
+            },
+            {
+                "id": 37401495300,
+                "preferredName": "Michele Bezzi",
+                "firstName": "Michele",
+                "lastName": "Bezzi"
+            },
+            {
+                "id": 37086958685,
+                "preferredName": "C\u00e9dric Dangremont",
+                "firstName": "C\u00e9dric",
+                "lastName": "Dangremont"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00038",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816778",
+        "articleTitle": "SOTorrent: Studying the Origin, Evolution, and Usage of Stack Overflow Code Snippets",
+        "volume": null,
+        "issue": null,
+        "startPage": "191",
+        "endPage": "194",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "SOTorrent: Studying the Origin, Evolution, and Usage of Stack Overflow Code Snippets",
+        "authors": [
+            {
+                "id": 37085486113,
+                "preferredName": "Sebastian Baltes",
+                "firstName": "Sebastian",
+                "lastName": "Baltes"
+            },
+            {
+                "id": 37315775500,
+                "preferredName": "Christoph Treude",
+                "firstName": "Christoph",
+                "lastName": "Treude"
+            },
+            {
+                "id": 37275546500,
+                "preferredName": "Stephan Diehl",
+                "firstName": "Stephan",
+                "lastName": "Diehl"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00067",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816783",
+        "articleTitle": "RmvDroid: Towards A Reliable Android Malware Dataset with App Metadata",
+        "volume": null,
+        "issue": null,
+        "startPage": "404",
+        "endPage": "408",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "RmvDroid: Towards A Reliable Android Malware Dataset with App Metadata",
+        "authors": [
+            {
+                "id": 37086050265,
+                "preferredName": "Haoyu Wang",
+                "firstName": "Haoyu",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086958231,
+                "preferredName": "Junjun Si",
+                "firstName": "Junjun",
+                "lastName": "Si"
+            },
+            {
+                "id": 37086964059,
+                "preferredName": "Hao Li",
+                "firstName": "Hao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37277881100,
+                "preferredName": "Yao Guo",
+                "firstName": "Yao",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00030",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816748",
+        "articleTitle": "The Software Heritage Graph Dataset: Public Software Development Under One Roof",
+        "volume": null,
+        "issue": null,
+        "startPage": "138",
+        "endPage": "142",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "The Software Heritage Graph Dataset: Public Software Development Under One Roof",
+        "authors": [
+            {
+                "id": 37086958947,
+                "preferredName": "Antoine Pietri",
+                "firstName": "Antoine",
+                "lastName": "Pietri"
+            },
+            {
+                "id": 37296849000,
+                "preferredName": "Diomidis Spinellis",
+                "firstName": "Diomidis",
+                "lastName": "Spinellis"
+            },
+            {
+                "id": 37391847800,
+                "preferredName": "Stefano Zacchiroli",
+                "firstName": "Stefano",
+                "lastName": "Zacchiroli"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00051",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816756",
+        "articleTitle": "We Need to Talk About Microservices: an Analysis from the Discussions on StackOverflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "255",
+        "endPage": "259",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "We Need to Talk About Microservices: an Analysis from the Discussions on StackOverflow",
+        "authors": [
+            {
+                "id": 37086962839,
+                "preferredName": "Alan Bandeira",
+                "firstName": "Alan",
+                "lastName": "Bandeira"
+            },
+            {
+                "id": 37086963373,
+                "preferredName": "Carlos Alberto Medeiros",
+                "firstName": "Carlos Alberto",
+                "lastName": "Medeiros"
+            },
+            {
+                "id": 37086239083,
+                "preferredName": "Matheus Paixao",
+                "firstName": "Matheus",
+                "lastName": "Paixao"
+            },
+            {
+                "id": 37679067600,
+                "preferredName": "Paulo Henrique Maia",
+                "firstName": "Paulo Henrique",
+                "lastName": "Maia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00052",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816808",
+        "articleTitle": "What do Developers Know About Machine Learning: A Study of ML Discussions on StackOverflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "260",
+        "endPage": "264",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "What do Developers Know About Machine Learning: A Study of ML Discussions on StackOverflow",
+        "authors": [
+            {
+                "id": 37938361400,
+                "preferredName": "Abdul Ali Bangash",
+                "firstName": "Abdul Ali",
+                "lastName": "Bangash"
+            },
+            {
+                "id": 37086241071,
+                "preferredName": "Hareem Sahar",
+                "firstName": "Hareem",
+                "lastName": "Sahar"
+            },
+            {
+                "id": 37085567456,
+                "preferredName": "Shaiful Chowdhury",
+                "firstName": "Shaiful",
+                "lastName": "Chowdhury"
+            },
+            {
+                "id": 37086958502,
+                "preferredName": "Alexander William Wong",
+                "firstName": "Alexander William",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37314241800,
+                "preferredName": "Abram Hindle",
+                "firstName": "Abram",
+                "lastName": "Hindle"
+            },
+            {
+                "id": 37086141021,
+                "preferredName": "Karim Ali",
+                "firstName": "Karim",
+                "lastName": "Ali"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00049",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816730",
+        "articleTitle": "Challenges with Responding to Static Analysis Tool Alerts",
+        "volume": null,
+        "issue": null,
+        "startPage": "245",
+        "endPage": "249",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Challenges with Responding to Static Analysis Tool Alerts",
+        "authors": [
+            {
+                "id": 37086953665,
+                "preferredName": "Nasif Imtiaz",
+                "firstName": "Nasif",
+                "lastName": "Imtiaz"
+            },
+            {
+                "id": 37086015855,
+                "preferredName": "Akond Rahman",
+                "firstName": "Akond",
+                "lastName": "Rahman"
+            },
+            {
+                "id": 37086521320,
+                "preferredName": "Effat Farhana",
+                "firstName": "Effat",
+                "lastName": "Farhana"
+            },
+            {
+                "id": 37275745700,
+                "preferredName": "Laurie Williams",
+                "firstName": "Laurie",
+                "lastName": "Williams"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00013",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816777",
+        "articleTitle": "PathMiner: A Library for Mining of Path-Based Representations of Code",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "PathMiner: A Library for Mining of Path-Based Representations of Code",
+        "authors": [
+            {
+                "id": 37086450675,
+                "preferredName": "Vladimir Kovalenko",
+                "firstName": "Vladimir",
+                "lastName": "Kovalenko"
+            },
+            {
+                "id": 37086959737,
+                "preferredName": "Egor Bogomolov",
+                "firstName": "Egor",
+                "lastName": "Bogomolov"
+            },
+            {
+                "id": 37086252515,
+                "preferredName": "Timofey Bryksin",
+                "firstName": "Timofey",
+                "lastName": "Bryksin"
+            },
+            {
+                "id": 37540945900,
+                "preferredName": "Alberto Bacchelli",
+                "firstName": "Alberto",
+                "lastName": "Bacchelli"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00060",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816814",
+        "articleTitle": "The Maven Dependency Graph: A Temporal Graph-Based Representation of Maven Central",
+        "volume": null,
+        "issue": null,
+        "startPage": "344",
+        "endPage": "348",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "The Maven Dependency Graph: A Temporal Graph-Based Representation of Maven Central",
+        "authors": [
+            {
+                "id": 37086260532,
+                "preferredName": "Amine Benelallam",
+                "firstName": "Amine",
+                "lastName": "Benelallam"
+            },
+            {
+                "id": 37086027811,
+                "preferredName": "Nicolas Harrand",
+                "firstName": "Nicolas",
+                "lastName": "Harrand"
+            },
+            {
+                "id": 37086589116,
+                "preferredName": "C\u00e9sar Soto-Valero",
+                "firstName": "C\u00e9sar",
+                "lastName": "Soto-Valero"
+            },
+            {
+                "id": 37280045400,
+                "preferredName": "Benoit Baudry",
+                "firstName": "Benoit",
+                "lastName": "Baudry"
+            },
+            {
+                "id": 37312497500,
+                "preferredName": "Olivier Barais",
+                "firstName": "Olivier",
+                "lastName": "Barais"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00086",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816757",
+        "articleTitle": "Boa Meets Python: A Boa Dataset of Data Science Software in Python Language",
+        "volume": null,
+        "issue": null,
+        "startPage": "577",
+        "endPage": "581",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Boa Meets Python: A Boa Dataset of Data Science Software in Python Language",
+        "authors": [
+            {
+                "id": 37089107670,
+                "preferredName": "Sumon Biswas",
+                "firstName": "Sumon",
+                "lastName": "Biswas"
+            },
+            {
+                "id": 37086963271,
+                "preferredName": "Md Johirul Islam",
+                "firstName": "Md Johirul",
+                "lastName": "Islam"
+            },
+            {
+                "id": 37086957269,
+                "preferredName": "Yijia Huang",
+                "firstName": "Yijia",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37267737900,
+                "preferredName": "Hridesh Rajan",
+                "firstName": "Hridesh",
+                "lastName": "Rajan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00042",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816812",
+        "articleTitle": "Python Coding Style Compliance on Stack Overflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "210",
+        "endPage": "214",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Python Coding Style Compliance on Stack Overflow",
+        "authors": [
+            {
+                "id": 37086955416,
+                "preferredName": "Nikolaos Bafatakis",
+                "firstName": "Nikolaos",
+                "lastName": "Bafatakis"
+            },
+            {
+                "id": 37086955573,
+                "preferredName": "Niels Boecker",
+                "firstName": "Niels",
+                "lastName": "Boecker"
+            },
+            {
+                "id": 37086958521,
+                "preferredName": "Wenjie Boon",
+                "firstName": "Wenjie",
+                "lastName": "Boon"
+            },
+            {
+                "id": 37086963405,
+                "preferredName": "Mart\u00edn Cabello Salazar",
+                "firstName": "Mart\u00edn",
+                "lastName": "Cabello Salazar"
+            },
+            {
+                "id": 37265159500,
+                "preferredName": "Jens Krinke",
+                "firstName": "Jens",
+                "lastName": "Krinke"
+            },
+            {
+                "id": 37086961973,
+                "preferredName": "Gazi Oznacar",
+                "firstName": "Gazi",
+                "lastName": "Oznacar"
+            },
+            {
+                "id": 37086957915,
+                "preferredName": "Robert White",
+                "firstName": "Robert",
+                "lastName": "White"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00040",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816764",
+        "articleTitle": "Snakes in Paradise?: Insecure Python-Related Coding Practices in Stack Overflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "200",
+        "endPage": "204",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Snakes in Paradise?: Insecure Python-Related Coding Practices in Stack Overflow",
+        "authors": [
+            {
+                "id": 37086015855,
+                "preferredName": "Akond Rahman",
+                "firstName": "Akond",
+                "lastName": "Rahman"
+            },
+            {
+                "id": 37086521320,
+                "preferredName": "Effat Farhana",
+                "firstName": "Effat",
+                "lastName": "Farhana"
+            },
+            {
+                "id": 37086953665,
+                "preferredName": "Nasif Imtiaz",
+                "firstName": "Nasif",
+                "lastName": "Imtiaz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00081",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816773",
+        "articleTitle": "Tracing Back Log Data to its Log Statement: From Research to Practice",
+        "volume": null,
+        "issue": null,
+        "startPage": "545",
+        "endPage": "549",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Tracing Back Log Data to its Log Statement: From Research to Practice",
+        "authors": [
+            {
+                "id": 37086955345,
+                "preferredName": "Daan Schipper",
+                "firstName": "Daan",
+                "lastName": "Schipper"
+            },
+            {
+                "id": 37391773600,
+                "preferredName": "Maur\u00edcio Aniche",
+                "firstName": "Maur\u00edcio",
+                "lastName": "Aniche"
+            },
+            {
+                "id": 37271310500,
+                "preferredName": "Arie van Deursen",
+                "firstName": "Arie",
+                "lastName": "van Deursen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00066",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816810",
+        "articleTitle": "A Dataset of Non-Functional Bugs",
+        "volume": null,
+        "issue": null,
+        "startPage": "399",
+        "endPage": "403",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "A Dataset of Non-Functional Bugs",
+        "authors": [
+            {
+                "id": 37086958355,
+                "preferredName": "Aida Radu",
+                "firstName": "Aida",
+                "lastName": "Radu"
+            },
+            {
+                "id": 37860418800,
+                "preferredName": "Sarah Nadi",
+                "firstName": "Sarah",
+                "lastName": "Nadi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00019",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816788",
+        "articleTitle": "Snoring: A Noise in Defect Prediction Datasets",
+        "volume": null,
+        "issue": null,
+        "startPage": "63",
+        "endPage": "67",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Snoring: A Noise in Defect Prediction Datasets",
+        "authors": [
+            {
+                "id": 37086961875,
+                "preferredName": "Aalok Ahluwalia",
+                "firstName": "Aalok",
+                "lastName": "Ahluwalia"
+            },
+            {
+                "id": 37395476600,
+                "preferredName": "Davide Falessi",
+                "firstName": "Davide",
+                "lastName": "Falessi"
+            },
+            {
+                "id": 37275656800,
+                "preferredName": "Massimiliano Di Penta",
+                "firstName": "Massimiliano",
+                "lastName": "Di Penta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00047",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816796",
+        "articleTitle": "How Often and What StackOverflow Posts Do Developers Reference in Their GitHub Projects?",
+        "volume": null,
+        "issue": null,
+        "startPage": "235",
+        "endPage": "239",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "How Often and What StackOverflow Posts Do Developers Reference in Their GitHub Projects?",
+        "authors": [
+            {
+                "id": 37086960825,
+                "preferredName": "Saraj Singh Manes",
+                "firstName": "Saraj Singh",
+                "lastName": "Manes"
+            },
+            {
+                "id": 37701483300,
+                "preferredName": "Olga Baysal",
+                "firstName": "Olga",
+                "lastName": "Baysal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00027",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816791",
+        "articleTitle": "Test Coverage in Python Programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "116",
+        "endPage": "120",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Test Coverage in Python Programs",
+        "authors": [
+            {
+                "id": 37086956948,
+                "preferredName": "Hongyu Zhai",
+                "firstName": "Hongyu",
+                "lastName": "Zhai"
+            },
+            {
+                "id": 37086109790,
+                "preferredName": "Casey Casalnuovo",
+                "firstName": "Casey",
+                "lastName": "Casalnuovo"
+            },
+            {
+                "id": 37267727500,
+                "preferredName": "Prem Devanbu",
+                "firstName": "Prem",
+                "lastName": "Devanbu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00046",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816736",
+        "articleTitle": "Can Duplicate Questions on Stack Overflow Benefit the Software Development Community?",
+        "volume": null,
+        "issue": null,
+        "startPage": "230",
+        "endPage": "234",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Can Duplicate Questions on Stack Overflow Benefit the Software Development Community?",
+        "authors": [
+            {
+                "id": 37086963725,
+                "preferredName": "Durham Abric",
+                "firstName": "Durham",
+                "lastName": "Abric"
+            },
+            {
+                "id": 37086962729,
+                "preferredName": "Oliver E. Clark",
+                "firstName": "Oliver E.",
+                "lastName": "Clark"
+            },
+            {
+                "id": 37086964213,
+                "preferredName": "Matthew Caminiti",
+                "firstName": "Matthew",
+                "lastName": "Caminiti"
+            },
+            {
+                "id": 37085657958,
+                "preferredName": "Keheliya Gallaba",
+                "firstName": "Keheliya",
+                "lastName": "Gallaba"
+            },
+            {
+                "id": 37411436100,
+                "preferredName": "Shane McIntosh",
+                "firstName": "Shane",
+                "lastName": "McIntosh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00039",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816735",
+        "articleTitle": "Mining Rule Violations in JavaScript Code Snippets",
+        "volume": null,
+        "issue": null,
+        "startPage": "195",
+        "endPage": "199",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Mining Rule Violations in JavaScript Code Snippets",
+        "authors": [
+            {
+                "id": 37086963621,
+                "preferredName": "Uriel Ferreira Campos",
+                "firstName": "Uriel",
+                "lastName": "Ferreira Campos"
+            },
+            {
+                "id": 37086964019,
+                "preferredName": "Guilherme Smethurst",
+                "firstName": "Guilherme",
+                "lastName": "Smethurst"
+            },
+            {
+                "id": 37086963165,
+                "preferredName": "Jo\u00e3o Pedro Moraes",
+                "firstName": "Jo\u00e3o Pedro",
+                "lastName": "Moraes"
+            },
+            {
+                "id": 37702758400,
+                "preferredName": "Rodrigo Bonif\u00e1cio",
+                "firstName": "Rodrigo",
+                "lastName": "Bonif\u00e1cio"
+            },
+            {
+                "id": 37085383033,
+                "preferredName": "Gustavo Pinto",
+                "firstName": "Gustavo",
+                "lastName": "Pinto"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00035",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816732",
+        "articleTitle": "GreenSource: A Large-Scale Collection of Android Code, Tests and Energy Metrics",
+        "volume": null,
+        "issue": null,
+        "startPage": "176",
+        "endPage": "180",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "GreenSource: A Large-Scale Collection of Android Code, Tests and Energy Metrics",
+        "authors": [
+            {
+                "id": 37086962319,
+                "preferredName": "Rui Rua",
+                "firstName": "Rui",
+                "lastName": "Rua"
+            },
+            {
+                "id": 37085666852,
+                "preferredName": "Marco Couto",
+                "firstName": "Marco",
+                "lastName": "Couto"
+            },
+            {
+                "id": 37287527500,
+                "preferredName": "Jo\u00e3o Saraiva",
+                "firstName": "Jo\u00e3o",
+                "lastName": "Saraiva"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00045",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816767",
+        "articleTitle": "What Edits are Done on the Highly Answered Questions in Stack Overflow? An Empirical Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "225",
+        "endPage": "229",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "What Edits are Done on the Highly Answered Questions in Stack Overflow? An Empirical Study",
+        "authors": [
+            {
+                "id": 37086589624,
+                "preferredName": "Xianhao Jin",
+                "firstName": "Xianhao",
+                "lastName": "Jin"
+            },
+            {
+                "id": 38235603100,
+                "preferredName": "Francisco Servant",
+                "firstName": "Francisco",
+                "lastName": "Servant"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00082",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816807",
+        "articleTitle": "Beyond GumTree: A Hybrid Approach to Generate Edit Scripts",
+        "volume": null,
+        "issue": null,
+        "startPage": "550",
+        "endPage": "554",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Beyond GumTree: A Hybrid Approach to Generate Edit Scripts",
+        "authors": [
+            {
+                "id": 37086843251,
+                "preferredName": "Junnosuke Matsumoto",
+                "firstName": "Junnosuke",
+                "lastName": "Matsumoto"
+            },
+            {
+                "id": 37565444700,
+                "preferredName": "Yoshiki Higo",
+                "firstName": "Yoshiki",
+                "lastName": "Higo"
+            },
+            {
+                "id": 37265990300,
+                "preferredName": "Shinji Kusumoto",
+                "firstName": "Shinji",
+                "lastName": "Kusumoto"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00044",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816785",
+        "articleTitle": "Analyzing Comment-Induced Updates on Stack Overflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "220",
+        "endPage": "224",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Analyzing Comment-Induced Updates on Stack Overflow",
+        "authors": [
+            {
+                "id": 37086962409,
+                "preferredName": "Abhishek Soni",
+                "firstName": "Abhishek",
+                "lastName": "Soni"
+            },
+            {
+                "id": 37860418800,
+                "preferredName": "Sarah Nadi",
+                "firstName": "Sarah",
+                "lastName": "Nadi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00024",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816762",
+        "articleTitle": "Does UML Modeling Associate with Lower Defect Proneness?: A Preliminary Empirical Investigation",
+        "volume": null,
+        "issue": null,
+        "startPage": "101",
+        "endPage": "104",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Does UML Modeling Associate with Lower Defect Proneness?: A Preliminary Empirical Investigation",
+        "authors": [
+            {
+                "id": 37086962003,
+                "preferredName": "Adithya Raghuraman",
+                "firstName": "Adithya",
+                "lastName": "Raghuraman"
+            },
+            {
+                "id": 37085344023,
+                "preferredName": "Truong Ho-Quang",
+                "firstName": "Truong",
+                "lastName": "Ho-Quang"
+            },
+            {
+                "id": 37267018100,
+                "preferredName": "Michel R. V. Chaudron",
+                "firstName": "Michel R. V.",
+                "lastName": "Chaudron"
+            },
+            {
+                "id": 37595390800,
+                "preferredName": "Alexander Serebrenik",
+                "firstName": "Alexander",
+                "lastName": "Serebrenik"
+            },
+            {
+                "id": 38229105200,
+                "preferredName": "Bogdan Vasilescu",
+                "firstName": "Bogdan",
+                "lastName": "Vasilescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00089",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816741",
+        "articleTitle": "ConPan: A Tool to Analyze Packages in Software Containers",
+        "volume": null,
+        "issue": null,
+        "startPage": "592",
+        "endPage": "596",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "ConPan: A Tool to Analyze Packages in Software Containers",
+        "authors": [
+            {
+                "id": 37086168519,
+                "preferredName": "Ahmed Zerouali",
+                "firstName": "Ahmed",
+                "lastName": "Zerouali"
+            },
+            {
+                "id": 37085347363,
+                "preferredName": "Valerio Cosentino",
+                "firstName": "Valerio",
+                "lastName": "Cosentino"
+            },
+            {
+                "id": 37307439300,
+                "preferredName": "Gregorio Robles",
+                "firstName": "Gregorio",
+                "lastName": "Robles"
+            },
+            {
+                "id": 38273693300,
+                "preferredName": "Jesus M. Gonzalez-Barahona",
+                "firstName": "Jesus M.",
+                "lastName": "Gonzalez-Barahona"
+            },
+            {
+                "id": 37329984900,
+                "preferredName": "Tom Mens",
+                "firstName": "Tom",
+                "lastName": "Mens"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00032",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816734",
+        "articleTitle": "Crossflow: A Framework for Distributed Mining of Software Repositories",
+        "volume": null,
+        "issue": null,
+        "startPage": "155",
+        "endPage": "159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Crossflow: A Framework for Distributed Mining of Software Repositories",
+        "authors": [
+            {
+                "id": 37320347500,
+                "preferredName": "Dimitris Kolovos",
+                "firstName": "Dimitris",
+                "lastName": "Kolovos"
+            },
+            {
+                "id": 37086092206,
+                "preferredName": "Patrick Neubauer",
+                "firstName": "Patrick",
+                "lastName": "Neubauer"
+            },
+            {
+                "id": 37086584876,
+                "preferredName": "Konstantinos Barmpis",
+                "firstName": "Konstantinos",
+                "lastName": "Barmpis"
+            },
+            {
+                "id": 38073927300,
+                "preferredName": "Nicholas Matragkas",
+                "firstName": "Nicholas",
+                "lastName": "Matragkas"
+            },
+            {
+                "id": 37298473700,
+                "preferredName": "Richard Paige",
+                "firstName": "Richard",
+                "lastName": "Paige"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00090",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816729",
+        "articleTitle": "An Empirical History of Permission Requests and Mistakes in Open Source Android Apps",
+        "volume": null,
+        "issue": null,
+        "startPage": "597",
+        "endPage": "601",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "An Empirical History of Permission Requests and Mistakes in Open Source Android Apps",
+        "authors": [
+            {
+                "id": 37086103115,
+                "preferredName": "Gian Luca Scoccia",
+                "firstName": "Gian Luca",
+                "lastName": "Scoccia"
+            },
+            {
+                "id": 37085997045,
+                "preferredName": "Anthony Peruma",
+                "firstName": "Anthony",
+                "lastName": "Peruma"
+            },
+            {
+                "id": 37086959719,
+                "preferredName": "Virginia Pujols",
+                "firstName": "Virginia",
+                "lastName": "Pujols"
+            },
+            {
+                "id": 37086962772,
+                "preferredName": "Ben Christians",
+                "firstName": "Ben",
+                "lastName": "Christians"
+            },
+            {
+                "id": 38546700000,
+                "preferredName": "Daniel Krutz",
+                "firstName": "Daniel",
+                "lastName": "Krutz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00088",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816794",
+        "articleTitle": "RapidRelease - A Dataset of Projects and Issues on Github with Rapid Releases",
+        "volume": null,
+        "issue": null,
+        "startPage": "587",
+        "endPage": "591",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "RapidRelease - A Dataset of Projects and Issues on Github with Rapid Releases",
+        "authors": [
+            {
+                "id": 37086964350,
+                "preferredName": "Saket Dattatray Joshi",
+                "firstName": "Saket Dattatray",
+                "lastName": "Joshi"
+            },
+            {
+                "id": 37947734300,
+                "preferredName": "Sridhar Chimalakonda",
+                "firstName": "Sridhar",
+                "lastName": "Chimalakonda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00048",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816800",
+        "articleTitle": "Characterizing Duplicate Code Snippets between Stack Overflow and Tutorials",
+        "volume": null,
+        "issue": null,
+        "startPage": "240",
+        "endPage": "244",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Characterizing Duplicate Code Snippets between Stack Overflow and Tutorials",
+        "authors": [
+            {
+                "id": 37086185083,
+                "preferredName": "Manziba Akanda Nishi",
+                "firstName": "Manziba Akanda",
+                "lastName": "Nishi"
+            },
+            {
+                "id": 37086585868,
+                "preferredName": "Agnieszka Ciborowska",
+                "firstName": "Agnieszka",
+                "lastName": "Ciborowska"
+            },
+            {
+                "id": 37427233100,
+                "preferredName": "Kostadin Damevski",
+                "firstName": "Kostadin",
+                "lastName": "Damevski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00041",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816737",
+        "articleTitle": "Man vs Machine \u2013 A Study into Language Identification of Stack Overflow Code Snippets",
+        "volume": null,
+        "issue": null,
+        "startPage": "205",
+        "endPage": "209",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Man vs Machine \u2013 A Study into Language Identification of Stack Overflow Code Snippets",
+        "authors": [
+            {
+                "id": 37297512100,
+                "preferredName": "Jens Dietrich",
+                "firstName": "Jens",
+                "lastName": "Dietrich"
+            },
+            {
+                "id": 37085697244,
+                "preferredName": "Markus Luczak-Roesch",
+                "firstName": "Markus",
+                "lastName": "Luczak-Roesch"
+            },
+            {
+                "id": 37086962493,
+                "preferredName": "Elroy Dalefield",
+                "firstName": "Elroy",
+                "lastName": "Dalefield"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00023",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816792",
+        "articleTitle": "A Dataset of Parametric Cryptographic Misuses",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "100",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "A Dataset of Parametric Cryptographic Misuses",
+        "authors": [
+            {
+                "id": 37086958200,
+                "preferredName": "Anna-Katharina Wickert",
+                "firstName": "Anna-Katharina",
+                "lastName": "Wickert"
+            },
+            {
+                "id": 37086961531,
+                "preferredName": "Michael Reif",
+                "firstName": "Michael",
+                "lastName": "Reif"
+            },
+            {
+                "id": 37284100500,
+                "preferredName": "Michael Eichberg",
+                "firstName": "Michael",
+                "lastName": "Eichberg"
+            },
+            {
+                "id": 37086957085,
+                "preferredName": "Anam Dodhy",
+                "firstName": "Anam",
+                "lastName": "Dodhy"
+            },
+            {
+                "id": 37284102900,
+                "preferredName": "Mira Mezini",
+                "firstName": "Mira",
+                "lastName": "Mezini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00087",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816798",
+        "articleTitle": "A Benchmark of Data Loss Bugs for Android Apps",
+        "volume": null,
+        "issue": null,
+        "startPage": "582",
+        "endPage": "586",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "A Benchmark of Data Loss Bugs for Android Apps",
+        "authors": [
+            {
+                "id": 37396366000,
+                "preferredName": "Oliviero Riganelli",
+                "firstName": "Oliviero",
+                "lastName": "Riganelli"
+            },
+            {
+                "id": 37085632340,
+                "preferredName": "Marco Mobilio",
+                "firstName": "Marco",
+                "lastName": "Mobilio"
+            },
+            {
+                "id": 37280837600,
+                "preferredName": "Daniela Micucci",
+                "firstName": "Daniela",
+                "lastName": "Micucci"
+            },
+            {
+                "id": 37267495400,
+                "preferredName": "Leonardo Mariani",
+                "firstName": "Leonardo",
+                "lastName": "Mariani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00076",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816815",
+        "articleTitle": "Impacts of Daylight Saving Time on Software Development",
+        "volume": null,
+        "issue": null,
+        "startPage": "502",
+        "endPage": "506",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Impacts of Daylight Saving Time on Software Development",
+        "authors": [
+            {
+                "id": 37086957471,
+                "preferredName": "Junichi Hayashi",
+                "firstName": "Junichi",
+                "lastName": "Hayashi"
+            },
+            {
+                "id": 37565444700,
+                "preferredName": "Yoshiki Higo",
+                "firstName": "Yoshiki",
+                "lastName": "Higo"
+            },
+            {
+                "id": 37593661800,
+                "preferredName": "Shinsuke Matsumoto",
+                "firstName": "Shinsuke",
+                "lastName": "Matsumoto"
+            },
+            {
+                "id": 37265990300,
+                "preferredName": "Shinji Kusumoto",
+                "firstName": "Shinji",
+                "lastName": "Kusumoto"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00050",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816758",
+        "articleTitle": "Impact of Stack Overflow Code Snippets on Software Cohesion: A Preliminary Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "250",
+        "endPage": "254",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Impact of Stack Overflow Code Snippets on Software Cohesion: A Preliminary Study",
+        "authors": [
+            {
+                "id": 37086095960,
+                "preferredName": "Mashal Ahmad",
+                "firstName": "Mashal",
+                "lastName": "Ahmad"
+            },
+            {
+                "id": 37595294700,
+                "preferredName": "Mel \u00d3 Cinn\u00e9ide",
+                "firstName": "Mel \u00d3",
+                "lastName": "Cinn\u00e9ide"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00043",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816782",
+        "articleTitle": "Towards Mining Answer Edits to Extract Evolution Patterns in Stack Overflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "215",
+        "endPage": "219",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Towards Mining Answer Edits to Extract Evolution Patterns in Stack Overflow",
+        "authors": [
+            {
+                "id": 37085347953,
+                "preferredName": "Themistoklis Diamantopoulos",
+                "firstName": "Themistoklis",
+                "lastName": "Diamantopoulos"
+            },
+            {
+                "id": 37086962423,
+                "preferredName": "Maria Ioanna Sifaki",
+                "firstName": "Maria Ioanna",
+                "lastName": "Sifaki"
+            },
+            {
+                "id": 37424270800,
+                "preferredName": "Andreas Symeonidis",
+                "firstName": "Andreas",
+                "lastName": "Symeonidis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00036",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816811",
+        "articleTitle": "Striking Gold in Software Repositories? An Econometric Study of Cryptocurrencies on GitHub",
+        "volume": null,
+        "issue": null,
+        "startPage": "181",
+        "endPage": "185",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Striking Gold in Software Repositories? An Econometric Study of Cryptocurrencies on GitHub",
+        "authors": [
+            {
+                "id": 37086461953,
+                "preferredName": "Asher Trockman",
+                "firstName": "Asher",
+                "lastName": "Trockman"
+            },
+            {
+                "id": 37085783684,
+                "preferredName": "Rijnard van Tonder",
+                "firstName": "Rijnard",
+                "lastName": "van Tonder"
+            },
+            {
+                "id": 38229105200,
+                "preferredName": "Bogdan Vasilescu",
+                "firstName": "Bogdan",
+                "lastName": "Vasilescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00037",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816797",
+        "articleTitle": "A Panel Data Set of Cryptocurrency Development Activity on GitHub",
+        "volume": null,
+        "issue": null,
+        "startPage": "186",
+        "endPage": "190",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "A Panel Data Set of Cryptocurrency Development Activity on GitHub",
+        "authors": [
+            {
+                "id": 37085783684,
+                "preferredName": "Rijnard van Tonder",
+                "firstName": "Rijnard",
+                "lastName": "van Tonder"
+            },
+            {
+                "id": 37086461953,
+                "preferredName": "Asher Trockman",
+                "firstName": "Asher",
+                "lastName": "Trockman"
+            },
+            {
+                "id": 37085783283,
+                "preferredName": "Claire Le Goues",
+                "firstName": "Claire",
+                "lastName": "Le Goues"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00025",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816793",
+        "articleTitle": "STRAIT: A Tool for Automated Software Reliability Growth Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "105",
+        "endPage": "110",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "STRAIT: A Tool for Automated Software Reliability Growth Analysis",
+        "authors": [
+            {
+                "id": 37085787270,
+                "preferredName": "Stanislav Chren",
+                "firstName": "Stanislav",
+                "lastName": "Chren"
+            },
+            {
+                "id": 37086957460,
+                "preferredName": "Radoslav Micko",
+                "firstName": "Radoslav",
+                "lastName": "Micko"
+            },
+            {
+                "id": 38517020200,
+                "preferredName": "Barbora Buhnova",
+                "firstName": "Barbora",
+                "lastName": "Buhnova"
+            },
+            {
+                "id": 37824469400,
+                "preferredName": "Bruno Rossi",
+                "firstName": "Bruno",
+                "lastName": "Rossi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00083",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816733",
+        "articleTitle": "The Impact of Systematic Edits in History Slicing",
+        "volume": null,
+        "issue": null,
+        "startPage": "555",
+        "endPage": "559",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "The Impact of Systematic Edits in History Slicing",
+        "authors": [
+            {
+                "id": 37086959787,
+                "preferredName": "Ryosuke Funaki",
+                "firstName": "Ryosuke",
+                "lastName": "Funaki"
+            },
+            {
+                "id": 37402494200,
+                "preferredName": "Shinpei Hayashi",
+                "firstName": "Shinpei",
+                "lastName": "Hayashi"
+            },
+            {
+                "id": 37270252000,
+                "preferredName": "Motoshi Saeki",
+                "firstName": "Motoshi",
+                "lastName": "Saeki"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00084",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816790",
+        "articleTitle": "Scalable Software Merging Studies with MERGANSER",
+        "volume": null,
+        "issue": null,
+        "startPage": "560",
+        "endPage": "564",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Scalable Software Merging Studies with MERGANSER",
+        "authors": [
+            {
+                "id": 37085629474,
+                "preferredName": "Moein Owhadi-Kareshk",
+                "firstName": "Moein",
+                "lastName": "Owhadi-Kareshk"
+            },
+            {
+                "id": 37860418800,
+                "preferredName": "Sarah Nadi",
+                "firstName": "Sarah",
+                "lastName": "Nadi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00026",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816801",
+        "articleTitle": "A Data Set of Program Invariants and Error Paths",
+        "volume": null,
+        "issue": null,
+        "startPage": "111",
+        "endPage": "115",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "A Data Set of Program Invariants and Error Paths",
+        "authors": [
+            {
+                "id": 37267560600,
+                "preferredName": "Dirk Beyer",
+                "firstName": "Dirk",
+                "lastName": "Beyer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00018",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816740",
+        "articleTitle": "Empirical Study in using Version Histories for Change Risk Classification",
+        "volume": null,
+        "issue": null,
+        "startPage": "58",
+        "endPage": "62",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Empirical Study in using Version Histories for Change Risk Classification",
+        "authors": [
+            {
+                "id": 37086957313,
+                "preferredName": "Max Kiehn",
+                "firstName": "Max",
+                "lastName": "Kiehn"
+            },
+            {
+                "id": 37086957912,
+                "preferredName": "Xiangyi Pan",
+                "firstName": "Xiangyi",
+                "lastName": "Pan"
+            },
+            {
+                "id": 37295503200,
+                "preferredName": "Fatih Camci",
+                "firstName": "Fatih",
+                "lastName": "Camci"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00016",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816772",
+        "articleTitle": "DeepJIT: An End-to-End Deep Learning Framework for Just-in-Time Defect Prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "DeepJIT: An End-to-End Deep Learning Framework for Just-in-Time Defect Prediction",
+        "authors": [
+            {
+                "id": 37086940824,
+                "preferredName": "Thong Hoang",
+                "firstName": "Thong",
+                "lastName": "Hoang"
+            },
+            {
+                "id": 37086960790,
+                "preferredName": "Hoa Khanh Dam",
+                "firstName": "Hoa",
+                "lastName": "Khanh Dam"
+            },
+            {
+                "id": 37602369000,
+                "preferredName": "Yasutaka Kamei",
+                "firstName": "Yasutaka",
+                "lastName": "Kamei"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            },
+            {
+                "id": 37303951500,
+                "preferredName": "Naoyasu Ubayashi",
+                "firstName": "Naoyasu",
+                "lastName": "Ubayashi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00077",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816763",
+        "articleTitle": "A Large-Scale Study About Quality and Reproducibility of Jupyter Notebooks",
+        "volume": null,
+        "issue": null,
+        "startPage": "507",
+        "endPage": "517",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "A Large-Scale Study About Quality and Reproducibility of Jupyter Notebooks",
+        "authors": [
+            {
+                "id": 37089904620,
+                "preferredName": "Jo\u00e3o Felipe Pimentel",
+                "firstName": "Jo\u00e3o Felipe",
+                "lastName": "Pimentel"
+            },
+            {
+                "id": 37303836200,
+                "preferredName": "Leonardo Murta",
+                "firstName": "Leonardo",
+                "lastName": "Murta"
+            },
+            {
+                "id": 37396213900,
+                "preferredName": "Vanessa Braganholo",
+                "firstName": "Vanessa",
+                "lastName": "Braganholo"
+            },
+            {
+                "id": 37283149600,
+                "preferredName": "Juliana Freire",
+                "firstName": "Juliana",
+                "lastName": "Freire"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00017",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816787",
+        "articleTitle": "Lessons Learned from Using a Deep Tree-Based Model for Software Defect Prediction in Practice",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Lessons Learned from Using a Deep Tree-Based Model for Software Defect Prediction in Practice",
+        "authors": [
+            {
+                "id": 38193075600,
+                "preferredName": "Hoa Khanh Dam",
+                "firstName": "Hoa Khanh",
+                "lastName": "Dam"
+            },
+            {
+                "id": 37086181144,
+                "preferredName": "Trang Pham",
+                "firstName": "Trang",
+                "lastName": "Pham"
+            },
+            {
+                "id": 37086960173,
+                "preferredName": "Shien Wee Ng",
+                "firstName": "Shien Wee",
+                "lastName": "Ng"
+            },
+            {
+                "id": 38469374300,
+                "preferredName": "Truyen Tran",
+                "firstName": "Truyen",
+                "lastName": "Tran"
+            },
+            {
+                "id": 37267454600,
+                "preferredName": "John Grundy",
+                "firstName": "John",
+                "lastName": "Grundy"
+            },
+            {
+                "id": 37271884900,
+                "preferredName": "Aditya Ghose",
+                "firstName": "Aditya",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 37085584594,
+                "preferredName": "Taeksu Kim",
+                "firstName": "Taeksu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086853982,
+                "preferredName": "Chul-Joo Kim",
+                "firstName": "Chul-Joo",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00031",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816786",
+        "articleTitle": "World of Code: An Infrastructure for Mining the Universe of Open Source VCS Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "143",
+        "endPage": "154",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "World of Code: An Infrastructure for Mining the Universe of Open Source VCS Data",
+        "authors": [
+            {
+                "id": 37086163004,
+                "preferredName": "Yuxing Ma",
+                "firstName": "Yuxing",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37320951900,
+                "preferredName": "Chris Bogart",
+                "firstName": "Chris",
+                "lastName": "Bogart"
+            },
+            {
+                "id": 37085541986,
+                "preferredName": "Sadika Amreen",
+                "firstName": "Sadika",
+                "lastName": "Amreen"
+            },
+            {
+                "id": 38567918300,
+                "preferredName": "Russell Zaretzki",
+                "firstName": "Russell",
+                "lastName": "Zaretzki"
+            },
+            {
+                "id": 37315742600,
+                "preferredName": "Audris Mockus",
+                "firstName": "Audris",
+                "lastName": "Mockus"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00075",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816749",
+        "articleTitle": "Exploratory Study of Slack Q&A Chats as a Mining Source for Software Engineering Tools",
+        "volume": null,
+        "issue": null,
+        "startPage": "490",
+        "endPage": "501",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Exploratory Study of Slack Q&A Chats as a Mining Source for Software Engineering Tools",
+        "authors": [
+            {
+                "id": 37086118828,
+                "preferredName": "Preetha Chatterjee",
+                "firstName": "Preetha",
+                "lastName": "Chatterjee"
+            },
+            {
+                "id": 37427233100,
+                "preferredName": "Kostadin Damevski",
+                "firstName": "Kostadin",
+                "lastName": "Damevski"
+            },
+            {
+                "id": 37264940900,
+                "preferredName": "Lori Pollock",
+                "firstName": "Lori",
+                "lastName": "Pollock"
+            },
+            {
+                "id": 37265085800,
+                "preferredName": "Vinay Augustine",
+                "firstName": "Vinay",
+                "lastName": "Augustine"
+            },
+            {
+                "id": 37546741900,
+                "preferredName": "Nicholas A. Kraft",
+                "firstName": "Nicholas A.",
+                "lastName": "Kraft"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00061",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816809",
+        "articleTitle": "Dependency Versioning in the Wild",
+        "volume": null,
+        "issue": null,
+        "startPage": "349",
+        "endPage": "359",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Dependency Versioning in the Wild",
+        "authors": [
+            {
+                "id": 37297512100,
+                "preferredName": "Jens Dietrich",
+                "firstName": "Jens",
+                "lastName": "Dietrich"
+            },
+            {
+                "id": 37074630500,
+                "preferredName": "David Pearce",
+                "firstName": "David",
+                "lastName": "Pearce"
+            },
+            {
+                "id": 37086962783,
+                "preferredName": "Jacob Stringer",
+                "firstName": "Jacob",
+                "lastName": "Stringer"
+            },
+            {
+                "id": 37604247500,
+                "preferredName": "Amjed Tahir",
+                "firstName": "Amjed",
+                "lastName": "Tahir"
+            },
+            {
+                "id": 38193036600,
+                "preferredName": "Kelly Blincoe",
+                "firstName": "Kelly",
+                "lastName": "Blincoe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00055",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816731",
+        "articleTitle": "Data-Driven Solutions to Detect API Compatibility Issues in Android: An Empirical Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "288",
+        "endPage": "298",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Data-Driven Solutions to Detect API Compatibility Issues in Android: An Empirical Study",
+        "authors": [
+            {
+                "id": 37085822344,
+                "preferredName": "Simone Scalabrino",
+                "firstName": "Simone",
+                "lastName": "Scalabrino"
+            },
+            {
+                "id": 37598376400,
+                "preferredName": "Gabriele Bavota",
+                "firstName": "Gabriele",
+                "lastName": "Bavota"
+            },
+            {
+                "id": 38342748100,
+                "preferredName": "Mario Linares-V\u00e1squez",
+                "firstName": "Mario",
+                "lastName": "Linares-V\u00e1squez"
+            },
+            {
+                "id": 37272102400,
+                "preferredName": "Michele Lanza",
+                "firstName": "Michele",
+                "lastName": "Lanza"
+            },
+            {
+                "id": 37265274900,
+                "preferredName": "Rocco Oliveto",
+                "firstName": "Rocco",
+                "lastName": "Oliveto"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00056",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816770",
+        "articleTitle": "Generating Commit Messages from Diffs using Pointer-Generator Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "299",
+        "endPage": "309",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Generating Commit Messages from Diffs using Pointer-Generator Network",
+        "authors": [
+            {
+                "id": 37654361400,
+                "preferredName": "Qin Liu",
+                "firstName": "Qin",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086962074,
+                "preferredName": "Zihe Liu",
+                "firstName": "Zihe",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085379810,
+                "preferredName": "Hongming Zhu",
+                "firstName": "Hongming",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37085688647,
+                "preferredName": "Hongfei Fan",
+                "firstName": "Hongfei",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37089500878,
+                "preferredName": "Bowen Du",
+                "firstName": "Bowen",
+                "lastName": "Du"
+            },
+            {
+                "id": 37086955315,
+                "preferredName": "Yu Qian",
+                "firstName": "Yu",
+                "lastName": "Qian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00054",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816776",
+        "articleTitle": "Identifying Experts in Software Libraries and Frameworks Among GitHub Users",
+        "volume": null,
+        "issue": null,
+        "startPage": "276",
+        "endPage": "287",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Identifying Experts in Software Libraries and Frameworks Among GitHub Users",
+        "authors": [
+            {
+                "id": 37086681895,
+                "preferredName": "Jo\u00e3o Eduardo Montandon",
+                "firstName": "Jo\u00e3o Eduardo",
+                "lastName": "Montandon"
+            },
+            {
+                "id": 37086961051,
+                "preferredName": "Luciana Lourdes Silva",
+                "firstName": "Luciana",
+                "lastName": "Lourdes Silva"
+            },
+            {
+                "id": 38557357600,
+                "preferredName": "Marco Tulio Valente",
+                "firstName": "Marco Tulio",
+                "lastName": "Valente"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00078",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816761",
+        "articleTitle": "Cross-Language Clone Detection by Learning Over Abstract Syntax Trees",
+        "volume": null,
+        "issue": null,
+        "startPage": "518",
+        "endPage": "528",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Cross-Language Clone Detection by Learning Over Abstract Syntax Trees",
+        "authors": [
+            {
+                "id": 37086956755,
+                "preferredName": "Daniel Perez",
+                "firstName": "Daniel",
+                "lastName": "Perez"
+            },
+            {
+                "id": 37287072000,
+                "preferredName": "Shigeru Chiba",
+                "firstName": "Shigeru",
+                "lastName": "Chiba"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00053",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816795",
+        "articleTitle": "Investigating Next Steps in Static API-Misuse Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "265",
+        "endPage": "275",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Investigating Next Steps in Static API-Misuse Detection",
+        "authors": [
+            {
+                "id": 37086963026,
+                "preferredName": "Amann Sven",
+                "firstName": "Amann",
+                "lastName": "Sven"
+            },
+            {
+                "id": 37309315600,
+                "preferredName": "Hoan Anh Nguyen",
+                "firstName": "Hoan Anh",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37860418800,
+                "preferredName": "Sarah Nadi",
+                "firstName": "Sarah",
+                "lastName": "Nadi"
+            },
+            {
+                "id": 37280728200,
+                "preferredName": "Tien N. Nguyen",
+                "firstName": "Tien N.",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37284102900,
+                "preferredName": "Mira Mezini",
+                "firstName": "Mira",
+                "lastName": "Mezini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00033",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816747",
+        "articleTitle": "Recommending Energy-Efficient Java Collections",
+        "volume": null,
+        "issue": null,
+        "startPage": "160",
+        "endPage": "170",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Recommending Energy-Efficient Java Collections",
+        "authors": [
+            {
+                "id": 37085797971,
+                "preferredName": "Wellington Oliveira",
+                "firstName": "Wellington",
+                "lastName": "Oliveira"
+            },
+            {
+                "id": 37086163256,
+                "preferredName": "Renato Oliveira",
+                "firstName": "Renato",
+                "lastName": "Oliveira"
+            },
+            {
+                "id": 37669639400,
+                "preferredName": "Fernando Castor",
+                "firstName": "Fernando",
+                "lastName": "Castor"
+            },
+            {
+                "id": 37086147220,
+                "preferredName": "Benito Fernandes",
+                "firstName": "Benito",
+                "lastName": "Fernandes"
+            },
+            {
+                "id": 37085383033,
+                "preferredName": "Gustavo Pinto",
+                "firstName": "Gustavo",
+                "lastName": "Pinto"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00065",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816738",
+        "articleTitle": "Negative Results on Mining Crypto-API Usage Rules in Android Apps",
+        "volume": null,
+        "issue": null,
+        "startPage": "388",
+        "endPage": "398",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Negative Results on Mining Crypto-API Usage Rules in Android Apps",
+        "authors": [
+            {
+                "id": 37086584895,
+                "preferredName": "Jun Gao",
+                "firstName": "Jun",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37086696754,
+                "preferredName": "Pingfan Kong",
+                "firstName": "Pingfan",
+                "lastName": "Kong"
+            },
+            {
+                "id": 37085562448,
+                "preferredName": "Li Li",
+                "firstName": "Li",
+                "lastName": "Li"
+            },
+            {
+                "id": 38649517800,
+                "preferredName": "Tegawend\u00e9 F. Bissyand\u00e9",
+                "firstName": "Tegawend\u00e9 F.",
+                "lastName": "Bissyand\u00e9"
+            },
+            {
+                "id": 37692883300,
+                "preferredName": "Jacques Klein",
+                "firstName": "Jacques",
+                "lastName": "Klein"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00022",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816780",
+        "articleTitle": "Predicting Good Configurations for GitHub and Stack Overflow Topic Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "84",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Predicting Good Configurations for GitHub and Stack Overflow Topic Models",
+        "authors": [
+            {
+                "id": 37315775500,
+                "preferredName": "Christoph Treude",
+                "firstName": "Christoph",
+                "lastName": "Treude"
+            },
+            {
+                "id": 38467699100,
+                "preferredName": "Markus Wagner",
+                "firstName": "Markus",
+                "lastName": "Wagner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00072",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816745",
+        "articleTitle": "Assessing Diffusion and Perception of Test Smells in Scala Projects",
+        "volume": null,
+        "issue": null,
+        "startPage": "457",
+        "endPage": "467",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Assessing Diffusion and Perception of Test Smells in Scala Projects",
+        "authors": [
+            {
+                "id": 37086956099,
+                "preferredName": "Jonas De Bleser",
+                "firstName": "Jonas",
+                "lastName": "De Bleser"
+            },
+            {
+                "id": 37085755880,
+                "preferredName": "Dario Di Nucci",
+                "firstName": "Dario",
+                "lastName": "Di Nucci"
+            },
+            {
+                "id": 37862720400,
+                "preferredName": "Coen De Roover",
+                "firstName": "Coen",
+                "lastName": "De Roover"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00014",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816754",
+        "articleTitle": "Import2vec: Learning Embeddings for Software Libraries",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Import2vec: Learning Embeddings for Software Libraries",
+        "authors": [
+            {
+                "id": 37829340000,
+                "preferredName": "Bart Theeten",
+                "firstName": "Bart",
+                "lastName": "Theeten"
+            },
+            {
+                "id": 37888809800,
+                "preferredName": "Frederik Vandeputte",
+                "firstName": "Frederik",
+                "lastName": "Vandeputte"
+            },
+            {
+                "id": 37086963679,
+                "preferredName": "Tom Van Cutsem",
+                "firstName": "Tom",
+                "lastName": "Van Cutsem"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00063",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816739",
+        "articleTitle": "Automated Software Vulnerability Assessment with Concept Drift",
+        "volume": null,
+        "issue": null,
+        "startPage": "371",
+        "endPage": "382",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Automated Software Vulnerability Assessment with Concept Drift",
+        "authors": [
+            {
+                "id": 37086962299,
+                "preferredName": "Triet Huynh Minh Le",
+                "firstName": "Triet Huynh Minh",
+                "lastName": "Le"
+            },
+            {
+                "id": 37086961991,
+                "preferredName": "Bushra Sabir",
+                "firstName": "Bushra",
+                "lastName": "Sabir"
+            },
+            {
+                "id": 37270342300,
+                "preferredName": "Muhammad Ali Babar",
+                "firstName": "Muhammad Ali",
+                "lastName": "Babar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00059",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816742",
+        "articleTitle": "The Emergence of Software Diversity in Maven Central",
+        "volume": null,
+        "issue": null,
+        "startPage": "333",
+        "endPage": "343",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "The Emergence of Software Diversity in Maven Central",
+        "authors": [
+            {
+                "id": 37086589116,
+                "preferredName": "C\u00e9sar Soto-Valero",
+                "firstName": "C\u00e9sar",
+                "lastName": "Soto-Valero"
+            },
+            {
+                "id": 37086260532,
+                "preferredName": "Amine Benelallam",
+                "firstName": "Amine",
+                "lastName": "Benelallam"
+            },
+            {
+                "id": 37086027811,
+                "preferredName": "Nicolas Harrand",
+                "firstName": "Nicolas",
+                "lastName": "Harrand"
+            },
+            {
+                "id": 37312497500,
+                "preferredName": "Olivier Barais",
+                "firstName": "Olivier",
+                "lastName": "Barais"
+            },
+            {
+                "id": 37280045400,
+                "preferredName": "Benoit Baudry",
+                "firstName": "Benoit",
+                "lastName": "Baudry"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00071",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816779",
+        "articleTitle": "The Rise of Android Code Smells: Who is to Blame?",
+        "volume": null,
+        "issue": null,
+        "startPage": "445",
+        "endPage": "456",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "The Rise of Android Code Smells: Who is to Blame?",
+        "authors": [
+            {
+                "id": 37086103890,
+                "preferredName": "Sarra Habchi",
+                "firstName": "Sarra",
+                "lastName": "Habchi"
+            },
+            {
+                "id": 37831786300,
+                "preferredName": "Naouel Moha",
+                "firstName": "Naouel",
+                "lastName": "Moha"
+            },
+            {
+                "id": 37704218600,
+                "preferredName": "Romain Rouvoy",
+                "firstName": "Romain",
+                "lastName": "Rouvoy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00058",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816774",
+        "articleTitle": "Extracting API Tips from Developer Question and Answer Websites",
+        "volume": null,
+        "issue": null,
+        "startPage": "321",
+        "endPage": "332",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Extracting API Tips from Developer Question and Answer Websites",
+        "authors": [
+            {
+                "id": 37086956713,
+                "preferredName": "Shaohua Wang",
+                "firstName": "Shaohua",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085650928,
+                "preferredName": "NhatHai Phan",
+                "firstName": "NhatHai",
+                "lastName": "Phan"
+            },
+            {
+                "id": 37085335265,
+                "preferredName": "Yan Wang",
+                "firstName": "Yan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086959301,
+                "preferredName": "Yong Zhao",
+                "firstName": "Yong",
+                "lastName": "Zhao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00020",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816816",
+        "articleTitle": "Exploring Word Embedding Techniques to Improve Sentiment Analysis of Software Engineering Texts",
+        "volume": null,
+        "issue": null,
+        "startPage": "68",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Exploring Word Embedding Techniques to Improve Sentiment Analysis of Software Engineering Texts",
+        "authors": [
+            {
+                "id": 37086959074,
+                "preferredName": "Eeshita Biswas",
+                "firstName": "Eeshita",
+                "lastName": "Biswas"
+            },
+            {
+                "id": 38275569000,
+                "preferredName": "K. Vijay-Shanker",
+                "firstName": "K.",
+                "lastName": "Vijay-Shanker"
+            },
+            {
+                "id": 37264940900,
+                "preferredName": "Lori Pollock",
+                "firstName": "Lori",
+                "lastName": "Pollock"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00015",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816775",
+        "articleTitle": "Semantic Source Code Models Using Identifier Embeddings",
+        "volume": null,
+        "issue": null,
+        "startPage": "29",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Semantic Source Code Models Using Identifier Embeddings",
+        "authors": [
+            {
+                "id": 37070770900,
+                "preferredName": "Vasiliki Efstathiou",
+                "firstName": "Vasiliki",
+                "lastName": "Efstathiou"
+            },
+            {
+                "id": 37296849000,
+                "preferredName": "Diomidis Spinellis",
+                "firstName": "Diomidis",
+                "lastName": "Spinellis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00074",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816784",
+        "articleTitle": "Can Issues Reported at Stack Overflow Questions be Reproduced? An Exploratory Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "479",
+        "endPage": "489",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Can Issues Reported at Stack Overflow Questions be Reproduced? An Exploratory Study",
+        "authors": [
+            {
+                "id": 37086963046,
+                "preferredName": "Saikat Mondal",
+                "firstName": "Saikat",
+                "lastName": "Mondal"
+            },
+            {
+                "id": 37085473999,
+                "preferredName": "Mohammad Masudur Rahman",
+                "firstName": "Mohammad Masudur",
+                "lastName": "Rahman"
+            },
+            {
+                "id": 37602021900,
+                "preferredName": "Chanchal K. Roy",
+                "firstName": "Chanchal K.",
+                "lastName": "Roy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00028",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816768",
+        "articleTitle": "On the Effectiveness of Manual and Automatic Unit Test Generation: Ten Years Later",
+        "volume": null,
+        "issue": null,
+        "startPage": "121",
+        "endPage": "125",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "On the Effectiveness of Manual and Automatic Unit Test Generation: Ten Years Later",
+        "authors": [
+            {
+                "id": 37086959689,
+                "preferredName": "Domenico Serra",
+                "firstName": "Domenico",
+                "lastName": "Serra"
+            },
+            {
+                "id": 37086361556,
+                "preferredName": "Giovanni Grano",
+                "firstName": "Giovanni",
+                "lastName": "Grano"
+            },
+            {
+                "id": 38252643400,
+                "preferredName": "Fabio Palomba",
+                "firstName": "Fabio",
+                "lastName": "Palomba"
+            },
+            {
+                "id": 37330745900,
+                "preferredName": "Filomena Ferrucci",
+                "firstName": "Filomena",
+                "lastName": "Ferrucci"
+            },
+            {
+                "id": 37266441700,
+                "preferredName": "Harald C. Gall",
+                "firstName": "Harald C.",
+                "lastName": "Gall"
+            },
+            {
+                "id": 37540945900,
+                "preferredName": "Alberto Bacchelli",
+                "firstName": "Alberto",
+                "lastName": "Bacchelli"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00070",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816744",
+        "articleTitle": "git2net - Mining Time-Stamped Co-Editing Networks from Large git Repositories",
+        "volume": null,
+        "issue": null,
+        "startPage": "433",
+        "endPage": "444",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "git2net - Mining Time-Stamped Co-Editing Networks from Large git Repositories",
+        "authors": [
+            {
+                "id": 37085431355,
+                "preferredName": "Christoph Gote",
+                "firstName": "Christoph",
+                "lastName": "Gote"
+            },
+            {
+                "id": 37296408600,
+                "preferredName": "Ingo Scholtes",
+                "firstName": "Ingo",
+                "lastName": "Scholtes"
+            },
+            {
+                "id": 38524100300,
+                "preferredName": "Frank Schweitzer",
+                "firstName": "Frank",
+                "lastName": "Schweitzer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00057",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816799",
+        "articleTitle": "Automatically Generating Documentation for Lambda Expressions in Java",
+        "volume": null,
+        "issue": null,
+        "startPage": "310",
+        "endPage": "320",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Automatically Generating Documentation for Lambda Expressions in Java",
+        "authors": [
+            {
+                "id": 37086961999,
+                "preferredName": "Anwar Alqaimi",
+                "firstName": "Anwar",
+                "lastName": "Alqaimi"
+            },
+            {
+                "id": 37085394302,
+                "preferredName": "Patanamon Thongtanunam",
+                "firstName": "Patanamon",
+                "lastName": "Thongtanunam"
+            },
+            {
+                "id": 37315775500,
+                "preferredName": "Christoph Treude",
+                "firstName": "Christoph",
+                "lastName": "Treude"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00069",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816759",
+        "articleTitle": "Characterizing the Roles of Contributors in Open-Source Scientific Software Projects",
+        "volume": null,
+        "issue": null,
+        "startPage": "421",
+        "endPage": "432",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Characterizing the Roles of Contributors in Open-Source Scientific Software Projects",
+        "authors": [
+            {
+                "id": 37086169687,
+                "preferredName": "Reed Milewicz",
+                "firstName": "Reed",
+                "lastName": "Milewicz"
+            },
+            {
+                "id": 37085383033,
+                "preferredName": "Gustavo Pinto",
+                "firstName": "Gustavo",
+                "lastName": "Pinto"
+            },
+            {
+                "id": 37085620727,
+                "preferredName": "Paige Rodeghero",
+                "firstName": "Paige",
+                "lastName": "Rodeghero"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00012",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816789",
+        "articleTitle": "SCOR: Source Code Retrieval with Semantics and Order",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "SCOR: Source Code Retrieval with Semantics and Order",
+        "authors": [
+            {
+                "id": 37085752503,
+                "preferredName": "Shayan Akbar",
+                "firstName": "Shayan",
+                "lastName": "Akbar"
+            },
+            {
+                "id": 37283032100,
+                "preferredName": "Avinash Kak",
+                "firstName": "Avinash",
+                "lastName": "Kak"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00068",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816766",
+        "articleTitle": "An Empirical Study of Multiple Names and Email Addresses in OSS Version Control Repositories",
+        "volume": null,
+        "issue": null,
+        "startPage": "409",
+        "endPage": "420",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "An Empirical Study of Multiple Names and Email Addresses in OSS Version Control Repositories",
+        "authors": [
+            {
+                "id": 37086964069,
+                "preferredName": "Jiaxin Zhu",
+                "firstName": "Jiaxin",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37279094100,
+                "preferredName": "Jun Wei",
+                "firstName": "Jun",
+                "lastName": "Wei"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00085",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816806",
+        "articleTitle": "Standing on Shoulders or Feet? The Usage of the MSR Data Papers",
+        "volume": null,
+        "issue": null,
+        "startPage": "565",
+        "endPage": "576",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Standing on Shoulders or Feet? The Usage of the MSR Data Papers",
+        "authors": [
+            {
+                "id": 37086957278,
+                "preferredName": "Zoe Kotti",
+                "firstName": "Zoe",
+                "lastName": "Kotti"
+            },
+            {
+                "id": 37296849000,
+                "preferredName": "Diomidis Spinellis",
+                "firstName": "Diomidis",
+                "lastName": "Spinellis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00034",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816755",
+        "articleTitle": "GreenHub Farmer: Real-World Data for Android Energy Mining",
+        "volume": null,
+        "issue": null,
+        "startPage": "171",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "GreenHub Farmer: Real-World Data for Android Energy Mining",
+        "authors": [
+            {
+                "id": 37086958569,
+                "preferredName": "Hugo Matalonga",
+                "firstName": "Hugo",
+                "lastName": "Matalonga"
+            },
+            {
+                "id": 37688711300,
+                "preferredName": "Bruno Cabral",
+                "firstName": "Bruno",
+                "lastName": "Cabral"
+            },
+            {
+                "id": 37669639400,
+                "preferredName": "Fernando Castor",
+                "firstName": "Fernando",
+                "lastName": "Castor"
+            },
+            {
+                "id": 37085666852,
+                "preferredName": "Marco Couto",
+                "firstName": "Marco",
+                "lastName": "Couto"
+            },
+            {
+                "id": 38592112700,
+                "preferredName": "Rui Pereira",
+                "firstName": "Rui",
+                "lastName": "Pereira"
+            },
+            {
+                "id": 37085587981,
+                "preferredName": "Simao Melo de Sousa",
+                "firstName": "Simao Melo",
+                "lastName": "de Sousa"
+            },
+            {
+                "id": 37272143500,
+                "preferredName": "Joao Paulo Fernandes",
+                "firstName": "Joao Paulo",
+                "lastName": "Fernandes"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00029",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816751",
+        "articleTitle": "Time Present and Time Past: Analyzing the Evolution of JavaScript Code in the Wild",
+        "volume": null,
+        "issue": null,
+        "startPage": "126",
+        "endPage": "137",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Time Present and Time Past: Analyzing the Evolution of JavaScript Code in the Wild",
+        "authors": [
+            {
+                "id": 37604858600,
+                "preferredName": "Dimitris Mitropoulos",
+                "firstName": "Dimitris",
+                "lastName": "Mitropoulos"
+            },
+            {
+                "id": 37660843600,
+                "preferredName": "Panos Louridas",
+                "firstName": "Panos",
+                "lastName": "Louridas"
+            },
+            {
+                "id": 37086960588,
+                "preferredName": "Vitalis Salis",
+                "firstName": "Vitalis",
+                "lastName": "Salis"
+            },
+            {
+                "id": 37296849000,
+                "preferredName": "Diomidis Spinellis",
+                "firstName": "Diomidis",
+                "lastName": "Spinellis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00073",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816753",
+        "articleTitle": "Style-Analyzer: Fixing Code Style Inconsistencies with Interpretable Unsupervised Algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "468",
+        "endPage": "478",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Style-Analyzer: Fixing Code Style Inconsistencies with Interpretable Unsupervised Algorithms",
+        "authors": [
+            {
+                "id": 37086584577,
+                "preferredName": "Vadim Markovtsev",
+                "firstName": "Vadim",
+                "lastName": "Markovtsev"
+            },
+            {
+                "id": 37086583918,
+                "preferredName": "Waren Long",
+                "firstName": "Waren",
+                "lastName": "Long"
+            },
+            {
+                "id": 37086956923,
+                "preferredName": "Hugo Mougard",
+                "firstName": "Hugo",
+                "lastName": "Mougard"
+            },
+            {
+                "id": 37086957814,
+                "preferredName": "Konstantin Slavnov",
+                "firstName": "Konstantin",
+                "lastName": "Slavnov"
+            },
+            {
+                "id": 37086962212,
+                "preferredName": "Egor Bulychev",
+                "firstName": "Egor",
+                "lastName": "Bulychev"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00079",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816817",
+        "articleTitle": "SeSaMe: A Data Set of Semantically Similar Java Methods",
+        "volume": null,
+        "issue": null,
+        "startPage": "529",
+        "endPage": "533",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "SeSaMe: A Data Set of Semantically Similar Java Methods",
+        "authors": [
+            {
+                "id": 37086963354,
+                "preferredName": "Marius Kamp",
+                "firstName": "Marius",
+                "lastName": "Kamp"
+            },
+            {
+                "id": 37086132154,
+                "preferredName": "Patrick Kreutzer",
+                "firstName": "Patrick",
+                "lastName": "Kreutzer"
+            },
+            {
+                "id": 37297219000,
+                "preferredName": "Michael Philippsen",
+                "firstName": "Michael",
+                "lastName": "Philippsen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00021",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816752",
+        "articleTitle": "Cleaning StackOverflow for Machine Translation",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "83",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Cleaning StackOverflow for Machine Translation",
+        "authors": [
+            {
+                "id": 37086952530,
+                "preferredName": "Musfiqur Rahman",
+                "firstName": "Musfiqur",
+                "lastName": "Rahman"
+            },
+            {
+                "id": 37312360600,
+                "preferredName": "Peter Rigby",
+                "firstName": "Peter",
+                "lastName": "Rigby"
+            },
+            {
+                "id": 37086521801,
+                "preferredName": "Dharani Palani",
+                "firstName": "Dharani",
+                "lastName": "Palani"
+            },
+            {
+                "id": 37280728200,
+                "preferredName": "Tien Nguyen",
+                "firstName": "Tien",
+                "lastName": "Nguyen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00080",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816743",
+        "articleTitle": "Predicting Co-Changes between Functionality Specifications and Source Code in Behavior Driven Development",
+        "volume": null,
+        "issue": null,
+        "startPage": "534",
+        "endPage": "544",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Predicting Co-Changes between Functionality Specifications and Source Code in Behavior Driven Development",
+        "authors": [
+            {
+                "id": 37086959099,
+                "preferredName": "Aidan Z.H. Yang",
+                "firstName": "Aidan Z.H.",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086960809,
+                "preferredName": "Daniel Alencar da Costa",
+                "firstName": "Daniel",
+                "lastName": "Alencar da Costa"
+            },
+            {
+                "id": 37275730500,
+                "preferredName": "Ying Zou",
+                "firstName": "Ying",
+                "lastName": "Zou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00062",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816781",
+        "articleTitle": "Splitting APIs: An Exploratory Study of Software Unbundling",
+        "volume": null,
+        "issue": null,
+        "startPage": "360",
+        "endPage": "370",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Splitting APIs: An Exploratory Study of Software Unbundling",
+        "authors": [
+            {
+                "id": 37087081519,
+                "preferredName": "Anderson S. Matos",
+                "firstName": "Anderson S.",
+                "lastName": "Matos"
+            },
+            {
+                "id": 37086311542,
+                "preferredName": "Jo\u00e3o B. Ferreira Filho",
+                "firstName": "Jo\u00e3o B.",
+                "lastName": "Ferreira Filho"
+            },
+            {
+                "id": 37588185900,
+                "preferredName": "Lincoln S. Rocha",
+                "firstName": "Lincoln S.",
+                "lastName": "Rocha"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00008",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816746",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "29",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00009",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816750",
+        "articleTitle": "Steering Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "30",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Steering Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00006",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816760",
+        "articleTitle": "Message from the Chairs of MSR 2019",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Message from the Chairs of MSR 2019",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00007",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816803",
+        "articleTitle": "Organizing Committee for MSR 2019",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Organizing Committee for MSR 2019",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00003",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816804",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00001",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816765",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00002",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816728",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00091",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816805",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "603",
+        "endPage": "606",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00010",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816769",
+        "articleTitle": "Additional Reviewers",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Additional Reviewers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8804710",
+        "doi": "10.1109/MSR.2019.00004",
+        "publicationYear": "2019",
+        "publicationDate": "25-31 May 2019",
+        "articleNumber": "8816813",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM 16th International Conference on Mining Software Repositories (MSR)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

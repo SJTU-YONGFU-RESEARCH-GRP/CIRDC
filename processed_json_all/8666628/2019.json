@@ -1,0 +1,3022 @@
+[
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00-44",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675228",
+        "articleTitle": "Keynote Abstracts",
+        "volume": null,
+        "issue": null,
+        "startPage": "24",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Keynote Abstracts",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00048",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675201",
+        "articleTitle": "Machine Learning at Facebook: Understanding Inference at the Edge",
+        "volume": null,
+        "issue": null,
+        "startPage": "331",
+        "endPage": "344",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Machine Learning at Facebook: Understanding Inference at the Edge",
+        "authors": [
+            {
+                "id": 37085392155,
+                "preferredName": "Carole-Jean Wu",
+                "firstName": "Carole-Jean",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37279380700,
+                "preferredName": "David Brooks",
+                "firstName": "David",
+                "lastName": "Brooks"
+            },
+            {
+                "id": 37088740563,
+                "preferredName": "Kevin Chen",
+                "firstName": "Kevin",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085888587,
+                "preferredName": "Douglas Chen",
+                "firstName": "Douglas",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088740376,
+                "preferredName": "Sy Choudhury",
+                "firstName": "Sy",
+                "lastName": "Choudhury"
+            },
+            {
+                "id": 37085820251,
+                "preferredName": "Marat Dukhan",
+                "firstName": "Marat",
+                "lastName": "Dukhan"
+            },
+            {
+                "id": 37267298100,
+                "preferredName": "Kim Hazelwood",
+                "firstName": "Kim",
+                "lastName": "Hazelwood"
+            },
+            {
+                "id": 37088731578,
+                "preferredName": "Eldad Isaac",
+                "firstName": "Eldad",
+                "lastName": "Isaac"
+            },
+            {
+                "id": 37088727515,
+                "preferredName": "Yangqing Jia",
+                "firstName": "Yangqing",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37086358619,
+                "preferredName": "Bill Jia",
+                "firstName": "Bill",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37846667400,
+                "preferredName": "Tommer Leyvand",
+                "firstName": "Tommer",
+                "lastName": "Leyvand"
+            },
+            {
+                "id": 37088744736,
+                "preferredName": "Hao Lu",
+                "firstName": "Hao",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37089853021,
+                "preferredName": "Yang Lu",
+                "firstName": "Yang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37088744888,
+                "preferredName": "Lin Qiao",
+                "firstName": "Lin",
+                "lastName": "Qiao"
+            },
+            {
+                "id": 37076157700,
+                "preferredName": "Brandon Reagen",
+                "firstName": "Brandon",
+                "lastName": "Reagen"
+            },
+            {
+                "id": 37085363743,
+                "preferredName": "Joe Spisak",
+                "firstName": "Joe",
+                "lastName": "Spisak"
+            },
+            {
+                "id": 37086806433,
+                "preferredName": "Fei Sun",
+                "firstName": "Fei",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37088743203,
+                "preferredName": "Andrew Tulloch",
+                "firstName": "Andrew",
+                "lastName": "Tulloch"
+            },
+            {
+                "id": 37321610000,
+                "preferredName": "Peter Vajda",
+                "firstName": "Peter",
+                "lastName": "Vajda"
+            },
+            {
+                "id": 37086357504,
+                "preferredName": "Xiaodong Wang",
+                "firstName": "Xiaodong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088726664,
+                "preferredName": "Yanghan Wang",
+                "firstName": "Yanghan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088731201,
+                "preferredName": "Bram Wasti",
+                "firstName": "Bram",
+                "lastName": "Wasti"
+            },
+            {
+                "id": 37088726182,
+                "preferredName": "Yiming Wu",
+                "firstName": "Yiming",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088737139,
+                "preferredName": "Ran Xian",
+                "firstName": "Ran",
+                "lastName": "Xian"
+            },
+            {
+                "id": 37085210700,
+                "preferredName": "Sungjoo Yoo",
+                "firstName": "Sungjoo",
+                "lastName": "Yoo"
+            },
+            {
+                "id": 37086806513,
+                "preferredName": "Peizhao Zhang",
+                "firstName": "Peizhao",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00053",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675188",
+        "articleTitle": "Bingo Spatial Data Prefetcher",
+        "volume": null,
+        "issue": null,
+        "startPage": "399",
+        "endPage": "411",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Bingo Spatial Data Prefetcher",
+        "authors": [
+            {
+                "id": 37086302062,
+                "preferredName": "Mohammad Bakhshalipour",
+                "firstName": "Mohammad",
+                "lastName": "Bakhshalipour"
+            },
+            {
+                "id": 37086806340,
+                "preferredName": "Mehran Shakerinava",
+                "firstName": "Mehran",
+                "lastName": "Shakerinava"
+            },
+            {
+                "id": 38265125000,
+                "preferredName": "Pejman Lotfi-Kamran",
+                "firstName": "Pejman",
+                "lastName": "Lotfi-Kamran"
+            },
+            {
+                "id": 38270047600,
+                "preferredName": "Hamid Sarbazi-Azad",
+                "firstName": "Hamid",
+                "lastName": "Sarbazi-Azad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00052",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675244",
+        "articleTitle": "FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "387",
+        "endPage": "398",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data",
+        "authors": [
+            {
+                "id": 37086476525,
+                "preferredName": "Sujoy Sinha Roy",
+                "firstName": "Sujoy",
+                "lastName": "Sinha Roy"
+            },
+            {
+                "id": 37085824257,
+                "preferredName": "Furkan Turan",
+                "firstName": "Furkan",
+                "lastName": "Turan"
+            },
+            {
+                "id": 37561103300,
+                "preferredName": "Kimmo Jarvinen",
+                "firstName": "Kimmo",
+                "lastName": "Jarvinen"
+            },
+            {
+                "id": 37681004400,
+                "preferredName": "Frederik Vercauteren",
+                "firstName": "Frederik",
+                "lastName": "Vercauteren"
+            },
+            {
+                "id": 37274332200,
+                "preferredName": "Ingrid Verbauwhede",
+                "firstName": "Ingrid",
+                "lastName": "Verbauwhede"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00011",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675245",
+        "articleTitle": "D-RaNGe: Using Commodity DRAM Devices to Generate True Random Numbers with Low Latency and High Throughput",
+        "volume": null,
+        "issue": null,
+        "startPage": "582",
+        "endPage": "595",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "D-RaNGe: Using Commodity DRAM Devices to Generate True Random Numbers with Low Latency and High Throughput",
+        "authors": [
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086188901,
+                "preferredName": "Minesh Patel",
+                "firstName": "Minesh",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37085624531,
+                "preferredName": "Hasan Hassan",
+                "firstName": "Hasan",
+                "lastName": "Hassan"
+            },
+            {
+                "id": 37085772584,
+                "preferredName": "Lois Orosa",
+                "firstName": "Lois",
+                "lastName": "Orosa"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00027",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675232",
+        "articleTitle": "HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array",
+        "volume": null,
+        "issue": null,
+        "startPage": "56",
+        "endPage": "68",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array",
+        "authors": [
+            {
+                "id": 37086049153,
+                "preferredName": "Linghao Song",
+                "firstName": "Linghao",
+                "lastName": "Song"
+            },
+            {
+                "id": 37085858386,
+                "preferredName": "Jiachen Mao",
+                "firstName": "Jiachen",
+                "lastName": "Mao"
+            },
+            {
+                "id": 37086186826,
+                "preferredName": "Youwei Zhuo",
+                "firstName": "Youwei",
+                "lastName": "Zhuo"
+            },
+            {
+                "id": 37086058165,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37407153400,
+                "preferredName": "Hai Li",
+                "firstName": "Hai",
+                "lastName": "Li"
+            },
+            {
+                "id": 37281023800,
+                "preferredName": "Yiran Chen",
+                "firstName": "Yiran",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00051",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675225",
+        "articleTitle": "Analysis and Optimization of the Memory Hierarchy for Graph Processing Workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "373",
+        "endPage": "386",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Analysis and Optimization of the Memory Hierarchy for Graph Processing Workloads",
+        "authors": [
+            {
+                "id": 37085350325,
+                "preferredName": "Abanti Basak",
+                "firstName": "Abanti",
+                "lastName": "Basak"
+            },
+            {
+                "id": 37537866000,
+                "preferredName": "Shuangchen Li",
+                "firstName": "Shuangchen",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086337781,
+                "preferredName": "Xing Hu",
+                "firstName": "Xing",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37086452277,
+                "preferredName": "Sang Min Oh",
+                "firstName": "Sang Min",
+                "lastName": "Oh"
+            },
+            {
+                "id": 37086804122,
+                "preferredName": "Xinfeng Xie",
+                "firstName": "Xinfeng",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37086805798,
+                "preferredName": "Li Zhao",
+                "firstName": "Li",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37403105000,
+                "preferredName": "Xiaowei Jiang",
+                "firstName": "Xiaowei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00028",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675229",
+        "articleTitle": "E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "69",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs",
+        "authors": [
+            {
+                "id": 37085463866,
+                "preferredName": "Zhe Li",
+                "firstName": "Zhe",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085664380,
+                "preferredName": "Caiwen Ding",
+                "firstName": "Caiwen",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37086687820,
+                "preferredName": "Siyue Wang",
+                "firstName": "Siyue",
+                "lastName": "Wang"
+            },
+            {
+                "id": 38466944200,
+                "preferredName": "Wujie Wen",
+                "firstName": "Wujie",
+                "lastName": "Wen"
+            },
+            {
+                "id": 37086186826,
+                "preferredName": "Youwei Zhuo",
+                "firstName": "Youwei",
+                "lastName": "Zhuo"
+            },
+            {
+                "id": 38469590800,
+                "preferredName": "Chang Liu",
+                "firstName": "Chang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37267088600,
+                "preferredName": "Qinru Qiu",
+                "firstName": "Qinru",
+                "lastName": "Qiu"
+            },
+            {
+                "id": 37597167400,
+                "preferredName": "Wenyao Xu",
+                "firstName": "Wenyao",
+                "lastName": "Xu"
+            },
+            {
+                "id": 38237315300,
+                "preferredName": "Xue Lin",
+                "firstName": "Xue",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086058165,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37966617700,
+                "preferredName": "Yanzhi Wang",
+                "firstName": "Yanzhi",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00043",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675250",
+        "articleTitle": "Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "264",
+        "endPage": "276",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks",
+        "authors": [
+            {
+                "id": 37086806760,
+                "preferredName": "Peinan Li",
+                "firstName": "Peinan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086805809,
+                "preferredName": "Lutan Zhao",
+                "firstName": "Lutan",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37061027100,
+                "preferredName": "Rui Hou",
+                "firstName": "Rui",
+                "lastName": "Hou"
+            },
+            {
+                "id": 37280174500,
+                "preferredName": "Lixin Zhang",
+                "firstName": "Lixin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37270019100,
+                "preferredName": "Dan Meng",
+                "firstName": "Dan",
+                "lastName": "Meng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00040",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675197",
+        "articleTitle": "eQASM: An Executable Quantum Instruction Set Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "224",
+        "endPage": "237",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "eQASM: An Executable Quantum Instruction Set Architecture",
+        "authors": [
+            {
+                "id": 37085352290,
+                "preferredName": "X. Fu",
+                "firstName": "X.",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37086023071,
+                "preferredName": "L. Riesebos",
+                "firstName": "L.",
+                "lastName": "Riesebos"
+            },
+            {
+                "id": 37086379012,
+                "preferredName": "M. A. Rol",
+                "firstName": "M. A.",
+                "lastName": "Rol"
+            },
+            {
+                "id": 37085612389,
+                "preferredName": "Jeroen van Straten",
+                "firstName": "Jeroen",
+                "lastName": "van Straten"
+            },
+            {
+                "id": 37086378761,
+                "preferredName": "J. van Someren",
+                "firstName": "J.",
+                "lastName": "van Someren"
+            },
+            {
+                "id": 37085673655,
+                "preferredName": "N. Khammassi",
+                "firstName": "N.",
+                "lastName": "Khammassi"
+            },
+            {
+                "id": 37587898200,
+                "preferredName": "I. Ashraf",
+                "firstName": "I.",
+                "lastName": "Ashraf"
+            },
+            {
+                "id": 37086042629,
+                "preferredName": "R. F. L. Vermeulen",
+                "firstName": "R. F. L.",
+                "lastName": "Vermeulen"
+            },
+            {
+                "id": 37089779902,
+                "preferredName": "V. Newsum",
+                "firstName": "V.",
+                "lastName": "Newsum"
+            },
+            {
+                "id": 37088734700,
+                "preferredName": "K. K. L. Loh",
+                "firstName": "K. K. L.",
+                "lastName": "Loh"
+            },
+            {
+                "id": 37086378335,
+                "preferredName": "J. C. de Sterke",
+                "firstName": "J. C.",
+                "lastName": "de Sterke"
+            },
+            {
+                "id": 38073904800,
+                "preferredName": "W. J. Vlothuizen",
+                "firstName": "W. J.",
+                "lastName": "Vlothuizen"
+            },
+            {
+                "id": 37317280800,
+                "preferredName": "R. N. Schouten",
+                "firstName": "R. N.",
+                "lastName": "Schouten"
+            },
+            {
+                "id": 37086020874,
+                "preferredName": "C. G. Almudever",
+                "firstName": "C. G.",
+                "lastName": "Almudever"
+            },
+            {
+                "id": 37409223100,
+                "preferredName": "L. DiCarlo",
+                "firstName": "L.",
+                "lastName": "DiCarlo"
+            },
+            {
+                "id": 37284722300,
+                "preferredName": "K. Bertels",
+                "firstName": "K.",
+                "lastName": "Bertels"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00030",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675236",
+        "articleTitle": "Shortcut Mining: Exploiting Cross-Layer Shortcut Reuse in DCNN Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "94",
+        "endPage": "105",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Shortcut Mining: Exploiting Cross-Layer Shortcut Reuse in DCNN Accelerators",
+        "authors": [
+            {
+                "id": 37086360387,
+                "preferredName": "Arash Azizimazreah",
+                "firstName": "Arash",
+                "lastName": "Azizimazreah"
+            },
+            {
+                "id": 37085429544,
+                "preferredName": "Lizhong Chen",
+                "firstName": "Lizhong",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00033",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675246",
+        "articleTitle": "Adaptive Voltage/Frequency Scaling and Core Allocation for Balanced Energy and Performance on Multicore CPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "133",
+        "endPage": "146",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Adaptive Voltage/Frequency Scaling and Core Allocation for Balanced Energy and Performance on Multicore CPUs",
+        "authors": [
+            {
+                "id": 37085810430,
+                "preferredName": "George Papadimitriou",
+                "firstName": "George",
+                "lastName": "Papadimitriou"
+            },
+            {
+                "id": 37085608035,
+                "preferredName": "Athanasios Chatzidimitriou",
+                "firstName": "Athanasios",
+                "lastName": "Chatzidimitriou"
+            },
+            {
+                "id": 37276979600,
+                "preferredName": "Dimitris Gizopoulos",
+                "firstName": "Dimitris",
+                "lastName": "Gizopoulos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00017",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675209",
+        "articleTitle": "NAND-Net: Minimizing Computational Complexity of In-Memory Processing for Binary Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "661",
+        "endPage": "673",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "NAND-Net: Minimizing Computational Complexity of In-Memory Processing for Binary Neural Networks",
+        "authors": [
+            {
+                "id": 37086129454,
+                "preferredName": "Hyeonuk Kim",
+                "firstName": "Hyeonuk",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37074185400,
+                "preferredName": "Jaehyeong Sim",
+                "firstName": "Jaehyeong",
+                "lastName": "Sim"
+            },
+            {
+                "id": 37085726750,
+                "preferredName": "Yeongjae Choi",
+                "firstName": "Yeongjae",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37278168900,
+                "preferredName": "Lee-Sup Kim",
+                "firstName": "Lee-Sup",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00023",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675237",
+        "articleTitle": "The Accelerator Wall: Limits of Chip Specialization",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "The Accelerator Wall: Limits of Chip Specialization",
+        "authors": [
+            {
+                "id": 37086426818,
+                "preferredName": "Adi Fuchs",
+                "firstName": "Adi",
+                "lastName": "Fuchs"
+            },
+            {
+                "id": 37265471000,
+                "preferredName": "David Wentzlaff",
+                "firstName": "David",
+                "lastName": "Wentzlaff"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00042",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675211",
+        "articleTitle": "Architecting Waferscale Processors - A GPU Case Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "250",
+        "endPage": "263",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Architecting Waferscale Processors - A GPU Case Study",
+        "authors": [
+            {
+                "id": 37086018216,
+                "preferredName": "Saptadeep Pal",
+                "firstName": "Saptadeep",
+                "lastName": "Pal"
+            },
+            {
+                "id": 37085843664,
+                "preferredName": "Daniel Petrisko",
+                "firstName": "Daniel",
+                "lastName": "Petrisko"
+            },
+            {
+                "id": 37086431763,
+                "preferredName": "Matthew Tomei",
+                "firstName": "Matthew",
+                "lastName": "Tomei"
+            },
+            {
+                "id": 37275298800,
+                "preferredName": "Puneet Gupta",
+                "firstName": "Puneet",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37306990800,
+                "preferredName": "Subramanian S. Iyer",
+                "firstName": "Subramanian S.",
+                "lastName": "Iyer"
+            },
+            {
+                "id": 37709981500,
+                "preferredName": "Rakesh Kumar",
+                "firstName": "Rakesh",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00029",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675204",
+        "articleTitle": "Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "93",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks",
+        "authors": [
+            {
+                "id": 37086426232,
+                "preferredName": "Xiaowei Wang",
+                "firstName": "Xiaowei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086264968,
+                "preferredName": "Jiecao Yu",
+                "firstName": "Jiecao",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37392520200,
+                "preferredName": "Charles Augustine",
+                "firstName": "Charles",
+                "lastName": "Augustine"
+            },
+            {
+                "id": 37065928100,
+                "preferredName": "Ravi Iyer",
+                "firstName": "Ravi",
+                "lastName": "Iyer"
+            },
+            {
+                "id": 37534767200,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00047",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675198",
+        "articleTitle": "Gables: A Roofline Model for Mobile SoCs",
+        "volume": null,
+        "issue": null,
+        "startPage": "317",
+        "endPage": "330",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Gables: A Roofline Model for Mobile SoCs",
+        "authors": [
+            {
+                "id": 37279742700,
+                "preferredName": "Mark Hill",
+                "firstName": "Mark",
+                "lastName": "Hill"
+            },
+            {
+                "id": 37086157898,
+                "preferredName": "Vijay Janapa Reddi",
+                "firstName": "Vijay",
+                "lastName": "Janapa Reddi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00041",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675194",
+        "articleTitle": "Reliability Evaluation of Mixed-Precision Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "238",
+        "endPage": "249",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Reliability Evaluation of Mixed-Precision Architectures",
+        "authors": [
+            {
+                "id": 37087442737,
+                "preferredName": "Fernando Fernandes dos Santos",
+                "firstName": "Fernando",
+                "lastName": "Fernandes dos Santos"
+            },
+            {
+                "id": 37085511669,
+                "preferredName": "Caio Lunardi",
+                "firstName": "Caio",
+                "lastName": "Lunardi"
+            },
+            {
+                "id": 37085386273,
+                "preferredName": "Daniel Oliveira",
+                "firstName": "Daniel",
+                "lastName": "Oliveira"
+            },
+            {
+                "id": 37086285668,
+                "preferredName": "Fabiano Libano",
+                "firstName": "Fabiano",
+                "lastName": "Libano"
+            },
+            {
+                "id": 38515515000,
+                "preferredName": "Paolo Rech",
+                "firstName": "Paolo",
+                "lastName": "Rech"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00032",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675218",
+        "articleTitle": "\u03bcDPM: Dynamic Power Management for the Microsecond Era",
+        "volume": null,
+        "issue": null,
+        "startPage": "120",
+        "endPage": "132",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "\u03bcDPM: Dynamic Power Management for the Microsecond Era",
+        "authors": [
+            {
+                "id": 37085760182,
+                "preferredName": "Chih-Hsun Chou",
+                "firstName": "Chih-Hsun",
+                "lastName": "Chou"
+            },
+            {
+                "id": 37273460100,
+                "preferredName": "Laxmi N. Bhuyan",
+                "firstName": "Laxmi N.",
+                "lastName": "Bhuyan"
+            },
+            {
+                "id": 37085713239,
+                "preferredName": "Daniel Wong",
+                "firstName": "Daniel",
+                "lastName": "Wong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00034",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675205",
+        "articleTitle": "Resilient Low Voltage Accelerators for High Energy Efficiency",
+        "volume": null,
+        "issue": null,
+        "startPage": "147",
+        "endPage": "158",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Resilient Low Voltage Accelerators for High Energy Efficiency",
+        "authors": [
+            {
+                "id": 38466938600,
+                "preferredName": "Nandhini Chandramoorthy",
+                "firstName": "Nandhini",
+                "lastName": "Chandramoorthy"
+            },
+            {
+                "id": 37967014100,
+                "preferredName": "Karthik Swaminathan",
+                "firstName": "Karthik",
+                "lastName": "Swaminathan"
+            },
+            {
+                "id": 37085394894,
+                "preferredName": "Martin Cochet",
+                "firstName": "Martin",
+                "lastName": "Cochet"
+            },
+            {
+                "id": 38108841600,
+                "preferredName": "Arun Paidimarri",
+                "firstName": "Arun",
+                "lastName": "Paidimarri"
+            },
+            {
+                "id": 37085609469,
+                "preferredName": "Schuyler Eldridge",
+                "firstName": "Schuyler",
+                "lastName": "Eldridge"
+            },
+            {
+                "id": 37273934800,
+                "preferredName": "Rajiv V. Joshi",
+                "firstName": "Rajiv V.",
+                "lastName": "Joshi"
+            },
+            {
+                "id": 37273745700,
+                "preferredName": "Matthew M. Ziegler",
+                "firstName": "Matthew M.",
+                "lastName": "Ziegler"
+            },
+            {
+                "id": 37267009200,
+                "preferredName": "Alper Buyuktosunoglu",
+                "firstName": "Alper",
+                "lastName": "Buyuktosunoglu"
+            },
+            {
+                "id": 37279227100,
+                "preferredName": "Pradip Bose",
+                "firstName": "Pradip",
+                "lastName": "Bose"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00044",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675252",
+        "articleTitle": "FPGA Accelerated INDEL Realignment in the Cloud",
+        "volume": null,
+        "issue": null,
+        "startPage": "277",
+        "endPage": "290",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "FPGA Accelerated INDEL Realignment in the Cloud",
+        "authors": [
+            {
+                "id": 37089851772,
+                "preferredName": "Lisa Wu",
+                "firstName": "Lisa",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37086015423,
+                "preferredName": "David Bruns-Smith",
+                "firstName": "David",
+                "lastName": "Bruns-Smith"
+            },
+            {
+                "id": 37085549187,
+                "preferredName": "Frank A. Nothaft",
+                "firstName": "Frank A.",
+                "lastName": "Nothaft"
+            },
+            {
+                "id": 37086291140,
+                "preferredName": "Qijing Huang",
+                "firstName": "Qijing",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086432492,
+                "preferredName": "Sagar Karandikar",
+                "firstName": "Sagar",
+                "lastName": "Karandikar"
+            },
+            {
+                "id": 37088743983,
+                "preferredName": "Johnny Le",
+                "firstName": "Johnny",
+                "lastName": "Le"
+            },
+            {
+                "id": 37088722649,
+                "preferredName": "Andrew Lin",
+                "firstName": "Andrew",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086287902,
+                "preferredName": "Howard Mao",
+                "firstName": "Howard",
+                "lastName": "Mao"
+            },
+            {
+                "id": 37088090437,
+                "preferredName": "Brendan Sweeney",
+                "firstName": "Brendan",
+                "lastName": "Sweeney"
+            },
+            {
+                "id": 37422631600,
+                "preferredName": "Krste Asanovi\u0107",
+                "firstName": "Krste",
+                "lastName": "Asanovi\u0107"
+            },
+            {
+                "id": 37274686300,
+                "preferredName": "David A. Patterson",
+                "firstName": "David A.",
+                "lastName": "Patterson"
+            },
+            {
+                "id": 37272708300,
+                "preferredName": "Anthony D. Joseph",
+                "firstName": "Anthony D.",
+                "lastName": "Joseph"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00037",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675221",
+        "articleTitle": "Enhancing Server Efficiency in the Face of Killer Microseconds",
+        "volume": null,
+        "issue": null,
+        "startPage": "185",
+        "endPage": "198",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Enhancing Server Efficiency in the Face of Killer Microseconds",
+        "authors": [
+            {
+                "id": 37085573750,
+                "preferredName": "Amirhossein Mirhosseini",
+                "firstName": "Amirhossein",
+                "lastName": "Mirhosseini"
+            },
+            {
+                "id": 37085779243,
+                "preferredName": "Akshitha Sriraman",
+                "firstName": "Akshitha",
+                "lastName": "Sriraman"
+            },
+            {
+                "id": 37395315400,
+                "preferredName": "Thomas F. Wenisch",
+                "firstName": "Thomas F.",
+                "lastName": "Wenisch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00012",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675233",
+        "articleTitle": "PageSeer: Using Page Walks to Trigger Page Swaps in Hybrid Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "596",
+        "endPage": "608",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "PageSeer: Using Page Walks to Trigger Page Swaps in Hybrid Memory Systems",
+        "authors": [
+            {
+                "id": 37085781164,
+                "preferredName": "Apostolos Kokolis",
+                "firstName": "Apostolos",
+                "lastName": "Kokolis"
+            },
+            {
+                "id": 37085357259,
+                "preferredName": "Dimitrios Skarlatos",
+                "firstName": "Dimitrios",
+                "lastName": "Skarlatos"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00063",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675192",
+        "articleTitle": "Understanding the Future of Energy Efficiency in Multi-Module GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "519",
+        "endPage": "532",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Understanding the Future of Energy Efficiency in Multi-Module GPUs",
+        "authors": [
+            {
+                "id": 38503020500,
+                "preferredName": "Akhil Arunkumar",
+                "firstName": "Akhil",
+                "lastName": "Arunkumar"
+            },
+            {
+                "id": 37640432400,
+                "preferredName": "Evgeny Bolotin",
+                "firstName": "Evgeny",
+                "lastName": "Bolotin"
+            },
+            {
+                "id": 37085439910,
+                "preferredName": "David Nellans",
+                "firstName": "David",
+                "lastName": "Nellans"
+            },
+            {
+                "id": 37085392155,
+                "preferredName": "Carole-Jean Wu",
+                "firstName": "Carole-Jean",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00050",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675186",
+        "articleTitle": "Darwin-WGA: A Co-processor Provides Increased Sensitivity in Whole Genome Alignments with High Speedup",
+        "volume": null,
+        "issue": null,
+        "startPage": "359",
+        "endPage": "372",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Darwin-WGA: A Co-processor Provides Increased Sensitivity in Whole Genome Alignments with High Speedup",
+        "authors": [
+            {
+                "id": 37071689600,
+                "preferredName": "Yatish Turakhia",
+                "firstName": "Yatish",
+                "lastName": "Turakhia"
+            },
+            {
+                "id": 37086806378,
+                "preferredName": "Sneha D. Goenka",
+                "firstName": "Sneha D.",
+                "lastName": "Goenka"
+            },
+            {
+                "id": 37086806250,
+                "preferredName": "Gill Bejerano",
+                "firstName": "Gill",
+                "lastName": "Bejerano"
+            },
+            {
+                "id": 37282485100,
+                "preferredName": "WIlliam J. Dally",
+                "firstName": "WIlliam J.",
+                "lastName": "Dally"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00058",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675222",
+        "articleTitle": "BRB: Mitigating Branch Predictor Side-Channels",
+        "volume": null,
+        "issue": null,
+        "startPage": "466",
+        "endPage": "477",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "BRB: Mitigating Branch Predictor Side-Channels",
+        "authors": [
+            {
+                "id": 37086805268,
+                "preferredName": "Ilias Vougioukas",
+                "firstName": "Ilias",
+                "lastName": "Vougioukas"
+            },
+            {
+                "id": 38273966500,
+                "preferredName": "Nikos Nikoleris",
+                "firstName": "Nikos",
+                "lastName": "Nikoleris"
+            },
+            {
+                "id": 37604552800,
+                "preferredName": "Andreas Sandberg",
+                "firstName": "Andreas",
+                "lastName": "Sandberg"
+            },
+            {
+                "id": 37540973100,
+                "preferredName": "Stephan Diestelhorst",
+                "firstName": "Stephan",
+                "lastName": "Diestelhorst"
+            },
+            {
+                "id": 37275577600,
+                "preferredName": "Bashir M. Al-Hashimi",
+                "firstName": "Bashir M.",
+                "lastName": "Al-Hashimi"
+            },
+            {
+                "id": 37295893100,
+                "preferredName": "Geoff V. Merrett",
+                "firstName": "Geoff V.",
+                "lastName": "Merrett"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00045",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675190",
+        "articleTitle": "POWERT Channels: A Novel Class of Covert CommunicationExploiting Power Management Vulnerabilities",
+        "volume": null,
+        "issue": null,
+        "startPage": "291",
+        "endPage": "303",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "POWERT Channels: A Novel Class of Covert CommunicationExploiting Power Management Vulnerabilities",
+        "authors": [
+            {
+                "id": 37086018019,
+                "preferredName": "S. Karen Khatamifard",
+                "firstName": "S. Karen",
+                "lastName": "Khatamifard"
+            },
+            {
+                "id": 37086021959,
+                "preferredName": "Longfei Wang",
+                "firstName": "Longfei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086806480,
+                "preferredName": "Amitabh Das",
+                "firstName": "Amitabh",
+                "lastName": "Das"
+            },
+            {
+                "id": 37543079700,
+                "preferredName": "Selcuk Kose",
+                "firstName": "Selcuk",
+                "lastName": "Kose"
+            },
+            {
+                "id": 37402942500,
+                "preferredName": "Ulya R. Karpuzcu",
+                "firstName": "Ulya R.",
+                "lastName": "Karpuzcu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00018",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675217",
+        "articleTitle": "Active-Routing: Compute on the Way for Near-Data Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "674",
+        "endPage": "686",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Active-Routing: Compute on the Way for Near-Data Processing",
+        "authors": [
+            {
+                "id": 37086043929,
+                "preferredName": "Jiayi Huang",
+                "firstName": "Jiayi",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37088090497,
+                "preferredName": "Ramprakash Reddy Puli",
+                "firstName": "Ramprakash",
+                "lastName": "Reddy Puli"
+            },
+            {
+                "id": 37085418087,
+                "preferredName": "Pritam Majumder",
+                "firstName": "Pritam",
+                "lastName": "Majumder"
+            },
+            {
+                "id": 37086807144,
+                "preferredName": "Sungkeun Kim",
+                "firstName": "Sungkeun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38253403300,
+                "preferredName": "Rahul Boyapati",
+                "firstName": "Rahul",
+                "lastName": "Boyapati"
+            },
+            {
+                "id": 38186137500,
+                "preferredName": "Ki Hwan Yum",
+                "firstName": "Ki Hwan",
+                "lastName": "Yum"
+            },
+            {
+                "id": 38188695900,
+                "preferredName": "Eun Jung Kim",
+                "firstName": "Eun Jung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00056",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675243",
+        "articleTitle": "Featherlight Reuse-Distance Measurement",
+        "volume": null,
+        "issue": null,
+        "startPage": "440",
+        "endPage": "453",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Featherlight Reuse-Distance Measurement",
+        "authors": [
+            {
+                "id": 37086806410,
+                "preferredName": "Qingsen Wang",
+                "firstName": "Qingsen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085667961,
+                "preferredName": "Xu Liu",
+                "firstName": "Xu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37072575300,
+                "preferredName": "Milind Chabbi",
+                "firstName": "Milind",
+                "lastName": "Chabbi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00062",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675207",
+        "articleTitle": "A Hybrid Framework for Fast and Accurate GPU Performance Estimation through Source-Level Analysis and Trace-Based Simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "506",
+        "endPage": "518",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "A Hybrid Framework for Fast and Accurate GPU Performance Estimation through Source-Level Analysis and Trace-Based Simulation",
+        "authors": [
+            {
+                "id": 37086351389,
+                "preferredName": "Xiebing Wang",
+                "firstName": "Xiebing",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37534912900,
+                "preferredName": "Kai Huang",
+                "firstName": "Kai",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37276234100,
+                "preferredName": "Alois Knoll",
+                "firstName": "Alois",
+                "lastName": "Knoll"
+            },
+            {
+                "id": 37086058165,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00039",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675223",
+        "articleTitle": "The What's Next Intermittent Computing Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "211",
+        "endPage": "223",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "The What's Next Intermittent Computing Architecture",
+        "authors": [
+            {
+                "id": 37086344603,
+                "preferredName": "Karthik Ganesan",
+                "firstName": "Karthik",
+                "lastName": "Ganesan"
+            },
+            {
+                "id": 37086343739,
+                "preferredName": "Joshua San Miguel",
+                "firstName": "Joshua",
+                "lastName": "San Miguel"
+            },
+            {
+                "id": 37086337617,
+                "preferredName": "Natalie Enright Jerger",
+                "firstName": "Natalie",
+                "lastName": "Enright Jerger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00024",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675191",
+        "articleTitle": "Stretch: Balancing QoS and Throughput for Colocated Server Workloads on SMT Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Stretch: Balancing QoS and Throughput for Colocated Server Workloads on SMT Cores",
+        "authors": [
+            {
+                "id": 37086571771,
+                "preferredName": "Artemiy Margaritov",
+                "firstName": "Artemiy",
+                "lastName": "Margaritov"
+            },
+            {
+                "id": 37086806405,
+                "preferredName": "Siddharth Gupta",
+                "firstName": "Siddharth",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37086807160,
+                "preferredName": "Rekai Gonzalez-Alberquilla",
+                "firstName": "Rekai",
+                "lastName": "Gonzalez-Alberquilla"
+            },
+            {
+                "id": 37669789100,
+                "preferredName": "Boris Grot",
+                "firstName": "Boris",
+                "lastName": "Grot"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00013",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675230",
+        "articleTitle": "PIM-VR: Erasing Motion Anomalies In Highly-Interactive Virtual Reality World with Customized Memory Cube",
+        "volume": null,
+        "issue": null,
+        "startPage": "609",
+        "endPage": "622",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "PIM-VR: Erasing Motion Anomalies In Highly-Interactive Virtual Reality World with Customized Memory Cube",
+        "authors": [
+            {
+                "id": 37087471811,
+                "preferredName": "Chenhao Xie",
+                "firstName": "Chenhao",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37086561094,
+                "preferredName": "Xingyao Zhang",
+                "firstName": "Xingyao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086806662,
+                "preferredName": "Ang Li",
+                "firstName": "Ang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085352290,
+                "preferredName": "Xin Fu",
+                "firstName": "Xin",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37085484533,
+                "preferredName": "Shuaiwen Song",
+                "firstName": "Shuaiwen",
+                "lastName": "Song"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00067",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675238",
+        "articleTitle": "A Scalable Priority-Aware Approach to Managing Data Center Server Power",
+        "volume": null,
+        "issue": null,
+        "startPage": "701",
+        "endPage": "714",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "A Scalable Priority-Aware Approach to Managing Data Center Server Power",
+        "authors": [
+            {
+                "id": 37085792965,
+                "preferredName": "Yang Li",
+                "firstName": "Yang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37265517300,
+                "preferredName": "Charles R. Lefurgy",
+                "firstName": "Charles R.",
+                "lastName": "Lefurgy"
+            },
+            {
+                "id": 37366464600,
+                "preferredName": "Karthick Rajamani",
+                "firstName": "Karthick",
+                "lastName": "Rajamani"
+            },
+            {
+                "id": 38270768400,
+                "preferredName": "Malcolm S. Allen-Ware",
+                "firstName": "Malcolm S.",
+                "lastName": "Allen-Ware"
+            },
+            {
+                "id": 37086806810,
+                "preferredName": "Guillermo J. Silva",
+                "firstName": "Guillermo J.",
+                "lastName": "Silva"
+            },
+            {
+                "id": 37086806179,
+                "preferredName": "Daniel D. Heimsoth",
+                "firstName": "Daniel D.",
+                "lastName": "Heimsoth"
+            },
+            {
+                "id": 37085354352,
+                "preferredName": "Saugata Ghose",
+                "firstName": "Saugata",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00026",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675215",
+        "articleTitle": "Composite-ISA Cores: Enabling Multi-ISA Heterogeneity Using a Single ISA",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Composite-ISA Cores: Enabling Multi-ISA Heterogeneity Using a Single ISA",
+        "authors": [
+            {
+                "id": 37086358629,
+                "preferredName": "Ashish Venkat",
+                "firstName": "Ashish",
+                "lastName": "Venkat"
+            },
+            {
+                "id": 37086805409,
+                "preferredName": "Harsha Basavaraj",
+                "firstName": "Harsha",
+                "lastName": "Basavaraj"
+            },
+            {
+                "id": 37282355800,
+                "preferredName": "Dean M. Tullsen",
+                "firstName": "Dean M.",
+                "lastName": "Tullsen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00036",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675247",
+        "articleTitle": "Kelp: QoS for Accelerated Machine Learning Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "172",
+        "endPage": "184",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Kelp: QoS for Accelerated Machine Learning Systems",
+        "authors": [
+            {
+                "id": 37086358224,
+                "preferredName": "Haishan Zhu",
+                "firstName": "Haishan",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            },
+            {
+                "id": 37085757798,
+                "preferredName": "Liqun Cheng",
+                "firstName": "Liqun",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37085755756,
+                "preferredName": "Rama Govindaraju",
+                "firstName": "Rama",
+                "lastName": "Govindaraju"
+            },
+            {
+                "id": 37282355200,
+                "preferredName": "Parthasarathy Ranganathan",
+                "firstName": "Parthasarathy",
+                "lastName": "Ranganathan"
+            },
+            {
+                "id": 37318863100,
+                "preferredName": "Mattan Erez",
+                "firstName": "Mattan",
+                "lastName": "Erez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00025",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675249",
+        "articleTitle": "CIDR: A Cost-Effective In-Line Data Reduction System for Terabit-Per-Second Scale SSD Arrays",
+        "volume": null,
+        "issue": null,
+        "startPage": "28",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "CIDR: A Cost-Effective In-Line Data Reduction System for Terabit-Per-Second Scale SSD Arrays",
+        "authors": [
+            {
+                "id": 37086013599,
+                "preferredName": "Mohammadamin Ajdari",
+                "firstName": "Mohammadamin",
+                "lastName": "Ajdari"
+            },
+            {
+                "id": 37086345688,
+                "preferredName": "Pyeongsu Park",
+                "firstName": "Pyeongsu",
+                "lastName": "Park"
+            },
+            {
+                "id": 37086347611,
+                "preferredName": "Joonsung Kim",
+                "firstName": "Joonsung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37089855004,
+                "preferredName": "Dongup Kwon",
+                "firstName": "Dongup",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 37085348592,
+                "preferredName": "Jangwoo Kim",
+                "firstName": "Jangwoo",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00009",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675234",
+        "articleTitle": "Freeway: Maximizing MLP for Slice-Out-of-Order Execution",
+        "volume": null,
+        "issue": null,
+        "startPage": "558",
+        "endPage": "569",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Freeway: Maximizing MLP for Slice-Out-of-Order Execution",
+        "authors": [
+            {
+                "id": 37086068187,
+                "preferredName": "Rakesh Kumar",
+                "firstName": "Rakesh",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37590048700,
+                "preferredName": "Mehdi Alipour",
+                "firstName": "Mehdi",
+                "lastName": "Alipour"
+            },
+            {
+                "id": 38276932600,
+                "preferredName": "David Black-Schaffer",
+                "firstName": "David",
+                "lastName": "Black-Schaffer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00061",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675219",
+        "articleTitle": "Poise: Balancing Thread-Level Parallelism and Memory System Performance in GPUs Using Machine Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "492",
+        "endPage": "505",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Poise: Balancing Thread-Level Parallelism and Memory System Performance in GPUs Using Machine Learning",
+        "authors": [
+            {
+                "id": 37085903185,
+                "preferredName": "Saumay Dublish",
+                "firstName": "Saumay",
+                "lastName": "Dublish"
+            },
+            {
+                "id": 37085516340,
+                "preferredName": "Vijay Nagarajan",
+                "firstName": "Vijay",
+                "lastName": "Nagarajan"
+            },
+            {
+                "id": 37372482500,
+                "preferredName": "Nigel Topham",
+                "firstName": "Nigel",
+                "lastName": "Topham"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00010",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675200",
+        "articleTitle": "Enabling Transparent Memory-Compression for Commodity Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "570",
+        "endPage": "581",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Enabling Transparent Memory-Compression for Commodity Memory Systems",
+        "authors": [
+            {
+                "id": 37086293156,
+                "preferredName": "Vinson Young",
+                "firstName": "Vinson",
+                "lastName": "Young"
+            },
+            {
+                "id": 37086806895,
+                "preferredName": "Sanjay Kariyappa",
+                "firstName": "Sanjay",
+                "lastName": "Kariyappa"
+            },
+            {
+                "id": 37301807700,
+                "preferredName": "Moinuddin K. Qureshi",
+                "firstName": "Moinuddin K.",
+                "lastName": "Qureshi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00014",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675248",
+        "articleTitle": "Rendering Elimination: Early Discard of Redundant Tiles in the Graphics Pipeline",
+        "volume": null,
+        "issue": null,
+        "startPage": "623",
+        "endPage": "634",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Rendering Elimination: Early Discard of Redundant Tiles in the Graphics Pipeline",
+        "authors": [
+            {
+                "id": 37086207720,
+                "preferredName": "Mart\u00ed Anglada",
+                "firstName": "Mart\u00ed",
+                "lastName": "Anglada"
+            },
+            {
+                "id": 37086170375,
+                "preferredName": "Enrique de Lucas",
+                "firstName": "Enrique",
+                "lastName": "de Lucas"
+            },
+            {
+                "id": 37274195900,
+                "preferredName": "Joan-Manuel Parcerisa",
+                "firstName": "Joan-Manuel",
+                "lastName": "Parcerisa"
+            },
+            {
+                "id": 37391924100,
+                "preferredName": "Juan L. Arag\u00f3n",
+                "firstName": "Juan L.",
+                "lastName": "Arag\u00f3n"
+            },
+            {
+                "id": 37373843900,
+                "preferredName": "Pedro Marcuello",
+                "firstName": "Pedro",
+                "lastName": "Marcuello"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "Antonio Gonz\u00e1lez",
+                "firstName": "Antonio",
+                "lastName": "Gonz\u00e1lez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00049",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675242",
+        "articleTitle": "VIP: A Versatile Inference Processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "345",
+        "endPage": "358",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "VIP: A Versatile Inference Processor",
+        "authors": [
+            {
+                "id": 37085564811,
+                "preferredName": "Skand Hurkat",
+                "firstName": "Skand",
+                "lastName": "Hurkat"
+            },
+            {
+                "id": 37421430100,
+                "preferredName": "Jos\u00e9 F. Mart\u00ednez",
+                "firstName": "Jos\u00e9 F.",
+                "lastName": "Mart\u00ednez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00016",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675231",
+        "articleTitle": "String Figure: A Scalable and Elastic Memory Network Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "647",
+        "endPage": "660",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "String Figure: A Scalable and Elastic Memory Network Architecture",
+        "authors": [
+            {
+                "id": 37086357717,
+                "preferredName": "Matheus Ogleari",
+                "firstName": "Matheus",
+                "lastName": "Ogleari"
+            },
+            {
+                "id": 37085590495,
+                "preferredName": "Ye Yu",
+                "firstName": "Ye",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37085449889,
+                "preferredName": "Chen Qian",
+                "firstName": "Chen",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37276377000,
+                "preferredName": "Ethan Miller",
+                "firstName": "Ethan",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37085443152,
+                "preferredName": "Jishen Zhao",
+                "firstName": "Jishen",
+                "lastName": "Zhao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00015",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675195",
+        "articleTitle": "Early Visibility Resolution for Removing Ineffectual Computations in the Graphics Pipeline",
+        "volume": null,
+        "issue": null,
+        "startPage": "635",
+        "endPage": "646",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Early Visibility Resolution for Removing Ineffectual Computations in the Graphics Pipeline",
+        "authors": [
+            {
+                "id": 37086207720,
+                "preferredName": "Mart\u00ed Anglada",
+                "firstName": "Mart\u00ed",
+                "lastName": "Anglada"
+            },
+            {
+                "id": 37086170375,
+                "preferredName": "Enrique de Lucas",
+                "firstName": "Enrique",
+                "lastName": "de Lucas"
+            },
+            {
+                "id": 37274195900,
+                "preferredName": "Joan-Manuel Parcerisa",
+                "firstName": "Joan-Manuel",
+                "lastName": "Parcerisa"
+            },
+            {
+                "id": 37391924100,
+                "preferredName": "Juan L. Arag\u00f3n",
+                "firstName": "Juan L.",
+                "lastName": "Arag\u00f3n"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "Antonio Gonz\u00e1lez",
+                "firstName": "Antonio",
+                "lastName": "Gonz\u00e1lez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00057",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675251",
+        "articleTitle": "Efficient Load Value Prediction Using Multiple Predictors and Filters",
+        "volume": null,
+        "issue": null,
+        "startPage": "454",
+        "endPage": "465",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Efficient Load Value Prediction Using Multiple Predictors and Filters",
+        "authors": [
+            {
+                "id": 37602557500,
+                "preferredName": "Rami Sheikh",
+                "firstName": "Rami",
+                "lastName": "Sheikh"
+            },
+            {
+                "id": 38061002600,
+                "preferredName": "Derek Hower",
+                "firstName": "Derek",
+                "lastName": "Hower"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00055",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675216",
+        "articleTitle": "FUSE: Fusing STT-MRAM into GPUs to Alleviate Off-Chip Memory Access Overheads",
+        "volume": null,
+        "issue": null,
+        "startPage": "426",
+        "endPage": "439",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "FUSE: Fusing STT-MRAM into GPUs to Alleviate Off-Chip Memory Access Overheads",
+        "authors": [
+            {
+                "id": 37085697770,
+                "preferredName": "Jie Zhang",
+                "firstName": "Jie",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085684877,
+                "preferredName": "Myoungsoo Jung",
+                "firstName": "Myoungsoo",
+                "lastName": "Jung"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Kandemir",
+                "firstName": "Mahmut",
+                "lastName": "Kandemir"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00035",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675193",
+        "articleTitle": "Pliant: Leveraging Approximation to Improve Datacenter Resource Efficiency",
+        "volume": null,
+        "issue": null,
+        "startPage": "159",
+        "endPage": "171",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Pliant: Leveraging Approximation to Improve Datacenter Resource Efficiency",
+        "authors": [
+            {
+                "id": 37086404012,
+                "preferredName": "Neeraj Kulkarni",
+                "firstName": "Neeraj",
+                "lastName": "Kulkarni"
+            },
+            {
+                "id": 37086405501,
+                "preferredName": "Feng Qi",
+                "firstName": "Feng",
+                "lastName": "Qi"
+            },
+            {
+                "id": 37705169700,
+                "preferredName": "Christina Delimitrou",
+                "firstName": "Christina",
+                "lastName": "Delimitrou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00059",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675212",
+        "articleTitle": "Elastic Instruction Fetching",
+        "volume": null,
+        "issue": null,
+        "startPage": "478",
+        "endPage": "490",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Elastic Instruction Fetching",
+        "authors": [
+            {
+                "id": 37085466768,
+                "preferredName": "Arthur Perais",
+                "firstName": "Arthur",
+                "lastName": "Perais"
+            },
+            {
+                "id": 37602557500,
+                "preferredName": "Rami Sheikh",
+                "firstName": "Rami",
+                "lastName": "Sheikh"
+            },
+            {
+                "id": 37086806856,
+                "preferredName": "Luke Yen",
+                "firstName": "Luke",
+                "lastName": "Yen"
+            },
+            {
+                "id": 37086806231,
+                "preferredName": "Michael McIlvaine",
+                "firstName": "Michael",
+                "lastName": "McIlvaine"
+            },
+            {
+                "id": 37086805364,
+                "preferredName": "Robert D. Clancy",
+                "firstName": "Robert D.",
+                "lastName": "Clancy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00064",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675226",
+        "articleTitle": "R3-DLA (Reduce, Reuse, Recycle): A More Efficient Approach to Decoupled Look-Ahead Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "533",
+        "endPage": "544",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "R3-DLA (Reduce, Reuse, Recycle): A More Efficient Approach to Decoupled Look-Ahead Architectures",
+        "authors": [
+            {
+                "id": 37086246340,
+                "preferredName": "Sushant Kondguli",
+                "firstName": "Sushant",
+                "lastName": "Kondguli"
+            },
+            {
+                "id": 38278085000,
+                "preferredName": "Michael Huang",
+                "firstName": "Michael",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00038",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675214",
+        "articleTitle": "Poly: Efficient Heterogeneous System and Application Management for Interactive Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "199",
+        "endPage": "210",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Poly: Efficient Heterogeneous System and Application Management for Interactive Applications",
+        "authors": [
+            {
+                "id": 37085839471,
+                "preferredName": "Shuo Wang",
+                "firstName": "Shuo",
+                "lastName": "Wang"
+            },
+            {
+                "id": 38003339700,
+                "preferredName": "Yun Liang",
+                "firstName": "Yun",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37085379157,
+                "preferredName": "Wei Zhang",
+                "firstName": "Wei",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00046",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675224",
+        "articleTitle": "Killi: Runtime Fault Classification to Deploy Low Voltage Caches without MBIST",
+        "volume": null,
+        "issue": null,
+        "startPage": "304",
+        "endPage": "316",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Killi: Runtime Fault Classification to Deploy Low Voltage Caches without MBIST",
+        "authors": [
+            {
+                "id": 37408917700,
+                "preferredName": "Shrikanth Ganapathy",
+                "firstName": "Shrikanth",
+                "lastName": "Ganapathy"
+            },
+            {
+                "id": 37266693700,
+                "preferredName": "John Kalamatianos",
+                "firstName": "John",
+                "lastName": "Kalamatianos"
+            },
+            {
+                "id": 37564441800,
+                "preferredName": "Bradford M. Beckmann",
+                "firstName": "Bradford M.",
+                "lastName": "Beckmann"
+            },
+            {
+                "id": 37332360300,
+                "preferredName": "Steven Raasch",
+                "firstName": "Steven",
+                "lastName": "Raasch"
+            },
+            {
+                "id": 37594654400,
+                "preferredName": "Lukasz G. Szafaryn",
+                "firstName": "Lukasz G.",
+                "lastName": "Szafaryn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00065",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675213",
+        "articleTitle": "Recycling Data Slack in Out-of-Order Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "545",
+        "endPage": "557",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Recycling Data Slack in Out-of-Order Cores",
+        "authors": [
+            {
+                "id": 37086040882,
+                "preferredName": "Gokul Subramanian Ravi",
+                "firstName": "Gokul Subramanian",
+                "lastName": "Ravi"
+            },
+            {
+                "id": 37282368800,
+                "preferredName": "Mikko Lipasti",
+                "firstName": "Mikko",
+                "lastName": "Lipasti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00068",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675210",
+        "articleTitle": "Power Aware Heterogeneous Node Assembly",
+        "volume": null,
+        "issue": null,
+        "startPage": "715",
+        "endPage": "727",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Power Aware Heterogeneous Node Assembly",
+        "authors": [
+            {
+                "id": 37085424843,
+                "preferredName": "Bilge Acun",
+                "firstName": "Bilge",
+                "lastName": "Acun"
+            },
+            {
+                "id": 37267009200,
+                "preferredName": "Alper Buyuktosunoglu",
+                "firstName": "Alper",
+                "lastName": "Buyuktosunoglu"
+            },
+            {
+                "id": 37896869800,
+                "preferredName": "Eun Kyung Lee",
+                "firstName": "Eun Kyung",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37069156000,
+                "preferredName": "Yoonho Park",
+                "firstName": "Yoonho",
+                "lastName": "Park"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00066",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675196",
+        "articleTitle": "Understanding the Impact of Socket Density in Density Optimized Servers",
+        "volume": null,
+        "issue": null,
+        "startPage": "687",
+        "endPage": "700",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Understanding the Impact of Socket Density in Density Optimized Servers",
+        "authors": [
+            {
+                "id": 38287775800,
+                "preferredName": "Manish Arora",
+                "firstName": "Manish",
+                "lastName": "Arora"
+            },
+            {
+                "id": 37085761986,
+                "preferredName": "Matt Skach",
+                "firstName": "Matt",
+                "lastName": "Skach"
+            },
+            {
+                "id": 37273208900,
+                "preferredName": "Wei Huang",
+                "firstName": "Wei",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086421626,
+                "preferredName": "Xudong An",
+                "firstName": "Xudong",
+                "lastName": "An"
+            },
+            {
+                "id": 37297735100,
+                "preferredName": "Jason Mars",
+                "firstName": "Jason",
+                "lastName": "Mars"
+            },
+            {
+                "id": 37085392912,
+                "preferredName": "Lingjia Tang",
+                "firstName": "Lingjia",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37282355800,
+                "preferredName": "Dean M. Tullsen",
+                "firstName": "Dean M.",
+                "lastName": "Tullsen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00054",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675185",
+        "articleTitle": "NoMap: Speeding-Up JavaScript Using Hardware Transactional Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "412",
+        "endPage": "425",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "NoMap: Speeding-Up JavaScript Using Hardware Transactional Memory",
+        "authors": [
+            {
+                "id": 37086310222,
+                "preferredName": "Thomas Shull",
+                "firstName": "Thomas",
+                "lastName": "Shull"
+            },
+            {
+                "id": 37086334557,
+                "preferredName": "Jiho Choi",
+                "firstName": "Jiho",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37326519600,
+                "preferredName": "Maria J. Garzaran",
+                "firstName": "Maria J.",
+                "lastName": "Garzaran"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00031",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675227",
+        "articleTitle": "Fine-Tuning the Active Timing Margin (ATM) Control Loop for Maximizing Multi-core Efficiency on an IBM POWER Server",
+        "volume": null,
+        "issue": null,
+        "startPage": "106",
+        "endPage": "119",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Fine-Tuning the Active Timing Margin (ATM) Control Loop for Maximizing Multi-core Efficiency on an IBM POWER Server",
+        "authors": [
+            {
+                "id": 37085567346,
+                "preferredName": "Yazhou Zu",
+                "firstName": "Yazhou",
+                "lastName": "Zu"
+            },
+            {
+                "id": 38283078000,
+                "preferredName": "Daniel Richins",
+                "firstName": "Daniel",
+                "lastName": "Richins"
+            },
+            {
+                "id": 37265517300,
+                "preferredName": "Charles Lefurgy",
+                "firstName": "Charles",
+                "lastName": "Lefurgy"
+            },
+            {
+                "id": 37293801200,
+                "preferredName": "Vijay Reddi",
+                "firstName": "Vijay",
+                "lastName": "Reddi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00007",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675235",
+        "articleTitle": "Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "16",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00000",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675241",
+        "articleTitle": "Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00-46",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675187",
+        "articleTitle": "Industry Session Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "20",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Industry Session Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00008",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675189",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "19",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00005",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675206",
+        "articleTitle": "Message from the General Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Message from the General Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00006",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675183",
+        "articleTitle": "Message from the Program Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Message from the Program Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00070",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675239",
+        "articleTitle": "[Publisher's information]",
+        "volume": null,
+        "issue": null,
+        "startPage": "734",
+        "endPage": "734",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "[Publisher's information]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00001",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675208",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00002",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675184",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00060",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675240",
+        "articleTitle": "The Best of CAL - IEEE Computer Architecture Letters in 2018",
+        "volume": null,
+        "issue": null,
+        "startPage": "491",
+        "endPage": "491",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "The Best of CAL - IEEE Computer Architecture Letters in 2018",
+        "authors": [
+            {
+                "id": 827472895602943,
+                "preferredName": "Paul Gratz",
+                "firstName": "Paul",
+                "lastName": "Gratz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00003",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675203",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00019",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675199",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "729",
+        "endPage": "732",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00004",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675202",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8666628",
+        "doi": "10.1109/HPCA.2019.00-45",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8675220",
+        "articleTitle": "External Review Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "23",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Symposium on High Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "External Review Committee",
+        "authors": []
+    }
+]

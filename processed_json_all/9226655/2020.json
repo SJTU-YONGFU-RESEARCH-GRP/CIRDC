@@ -1,0 +1,733 @@
+[
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232940",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232940",
+        "articleTitle": "A Minimal RISC-V Vector Processor for Embedded Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "A Minimal RISC-V Vector Processor for Embedded Systems",
+        "authors": [
+            {
+                "id": 37088546895,
+                "preferredName": "Matthew Johns",
+                "firstName": "Matthew",
+                "lastName": "Johns"
+            },
+            {
+                "id": 38182203900,
+                "preferredName": "Tom J. Kazmierski",
+                "firstName": "Tom J.",
+                "lastName": "Kazmierski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232946",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232946",
+        "articleTitle": "ComPy-Learn: A toolbox for exploring machine learning representations for compilers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "ComPy-Learn: A toolbox for exploring machine learning representations for compilers",
+        "authors": [
+            {
+                "id": 37088547418,
+                "preferredName": "Alexander Brauckmann",
+                "firstName": "Alexander",
+                "lastName": "Brauckmann"
+            },
+            {
+                "id": 37085748126,
+                "preferredName": "Andr\u00e9s Goens",
+                "firstName": "Andr\u00e9s",
+                "lastName": "Goens"
+            },
+            {
+                "id": 37392054300,
+                "preferredName": "Jeronimo Castrillon",
+                "firstName": "Jeronimo",
+                "lastName": "Castrillon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232932",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232932",
+        "articleTitle": "Beyond real number modeling: Comparison of analog modeling approaches",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Beyond real number modeling: Comparison of analog modeling approaches",
+        "authors": [
+            {
+                "id": 37295989600,
+                "preferredName": "Wolfgang Scherr",
+                "firstName": "Wolfgang",
+                "lastName": "Scherr"
+            },
+            {
+                "id": 37391634300,
+                "preferredName": "Karsten Einwich",
+                "firstName": "Karsten",
+                "lastName": "Einwich"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232931",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232931",
+        "articleTitle": "Exploiting Dataflow Models for Parallel Simulation of Discrete Timed Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Exploiting Dataflow Models for Parallel Simulation of Discrete Timed Systems",
+        "authors": [
+            {
+                "id": 37086002996,
+                "preferredName": "George Ungureanu",
+                "firstName": "George",
+                "lastName": "Ungureanu"
+            },
+            {
+                "id": 37088545681,
+                "preferredName": "Rodolfo Jord\u00e3o",
+                "firstName": "Rodolfo",
+                "lastName": "Jord\u00e3o"
+            },
+            {
+                "id": 37327227800,
+                "preferredName": "Ingo Sander",
+                "firstName": "Ingo",
+                "lastName": "Sander"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232934",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232934",
+        "articleTitle": "Machine Learning in Compilers: Past, Present and Future",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Machine Learning in Compilers: Past, Present and Future",
+        "authors": [
+            {
+                "id": 37643265100,
+                "preferredName": "Hugh Leather",
+                "firstName": "Hugh",
+                "lastName": "Leather"
+            },
+            {
+                "id": 37086186898,
+                "preferredName": "Chris Cummins",
+                "firstName": "Chris",
+                "lastName": "Cummins"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232941",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232941",
+        "articleTitle": "Efficient Cross-Level Testing for Processor Verification: A RISC- V Case-Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "7",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Efficient Cross-Level Testing for Processor Verification: A RISC- V Case-Study",
+        "authors": [
+            {
+                "id": 37071425200,
+                "preferredName": "Vladimir Herdt",
+                "firstName": "Vladimir",
+                "lastName": "Herdt"
+            },
+            {
+                "id": 37293737900,
+                "preferredName": "Daniel Gro\u00dfe",
+                "firstName": "Daniel",
+                "lastName": "Gro\u00dfe"
+            },
+            {
+                "id": 37832648700,
+                "preferredName": "Eyck Jentzsch",
+                "firstName": "Eyck",
+                "lastName": "Jentzsch"
+            },
+            {
+                "id": 37276502700,
+                "preferredName": "Rolf Drechsler",
+                "firstName": "Rolf",
+                "lastName": "Drechsler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232939",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232939",
+        "articleTitle": "A Language for Deterministic Coordination Across Multiple Timelines",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "A Language for Deterministic Coordination Across Multiple Timelines",
+        "authors": [
+            {
+                "id": 37085742863,
+                "preferredName": "Marten Lohstroh",
+                "firstName": "Marten",
+                "lastName": "Lohstroh"
+            },
+            {
+                "id": 37086369016,
+                "preferredName": "Christian Menard",
+                "firstName": "Christian",
+                "lastName": "Menard"
+            },
+            {
+                "id": 37086507642,
+                "preferredName": "Alexander Schulz-Rosengarten",
+                "firstName": "Alexander",
+                "lastName": "Schulz-Rosengarten"
+            },
+            {
+                "id": 37085741290,
+                "preferredName": "Matthew Weber",
+                "firstName": "Matthew",
+                "lastName": "Weber"
+            },
+            {
+                "id": 37392054300,
+                "preferredName": "Jeronimo Castrillon",
+                "firstName": "Jeronimo",
+                "lastName": "Castrillon"
+            },
+            {
+                "id": 37277525600,
+                "preferredName": "Edward A. Lee",
+                "firstName": "Edward A.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232936",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232936",
+        "articleTitle": "QRML: A Component Language and Toolset for Quality and Resource Management",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "QRML: A Component Language and Toolset for Quality and Resource Management",
+        "authors": [
+            {
+                "id": 37086423678,
+                "preferredName": "Freek van den Berg",
+                "firstName": "Freek",
+                "lastName": "van den Berg"
+            },
+            {
+                "id": 37088533015,
+                "preferredName": "V\u00e1clav \u010camra",
+                "firstName": "V\u00e1clav",
+                "lastName": "\u010camra"
+            },
+            {
+                "id": 37429178300,
+                "preferredName": "Martijn Hendriks",
+                "firstName": "Martijn",
+                "lastName": "Hendriks"
+            },
+            {
+                "id": 37373827600,
+                "preferredName": "Marc Geilen",
+                "firstName": "Marc",
+                "lastName": "Geilen"
+            },
+            {
+                "id": 37659903100,
+                "preferredName": "Petr Hnetynka",
+                "firstName": "Petr",
+                "lastName": "Hnetynka"
+            },
+            {
+                "id": 37088546053,
+                "preferredName": "Fernando Manteca",
+                "firstName": "Fernando",
+                "lastName": "Manteca"
+            },
+            {
+                "id": 37295417000,
+                "preferredName": "Pablo S\u00e1nchez",
+                "firstName": "Pablo",
+                "lastName": "S\u00e1nchez"
+            },
+            {
+                "id": 37938443900,
+                "preferredName": "Tom\u00e1\u0161 Bure\u0161",
+                "firstName": "Tom\u00e1\u0161",
+                "lastName": "Bure\u0161"
+            },
+            {
+                "id": 37298850600,
+                "preferredName": "Twan Basten",
+                "firstName": "Twan",
+                "lastName": "Basten"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232938",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232938",
+        "articleTitle": "The Sparse Synchronous Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "The Sparse Synchronous Model",
+        "authors": [
+            {
+                "id": 37292689900,
+                "preferredName": "Stephen A. Edwards",
+                "firstName": "Stephen A.",
+                "lastName": "Edwards"
+            },
+            {
+                "id": 37088542981,
+                "preferredName": "John Hui",
+                "firstName": "John",
+                "lastName": "Hui"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232942",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232942",
+        "articleTitle": "Synchronized Shared Memory and Procedural Abstraction: Towards a Formal Semantics of Blech",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Synchronized Shared Memory and Procedural Abstraction: Towards a Formal Semantics of Blech",
+        "authors": [
+            {
+                "id": 37086508302,
+                "preferredName": "F. Gretz",
+                "firstName": "F.",
+                "lastName": "Gretz"
+            },
+            {
+                "id": 37390501600,
+                "preferredName": "F-J. Grosch",
+                "firstName": "F-J.",
+                "lastName": "Grosch"
+            },
+            {
+                "id": 37937223300,
+                "preferredName": "M. Mendler",
+                "firstName": "M.",
+                "lastName": "Mendler"
+            },
+            {
+                "id": 37088546063,
+                "preferredName": "S. Scheele",
+                "firstName": "S.",
+                "lastName": "Scheele"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232944",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232944",
+        "articleTitle": "From Lustre to Graphical Models and SCCharts",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "From Lustre to Graphical Models and SCCharts",
+        "authors": [
+            {
+                "id": 37088547222,
+                "preferredName": "Lena Grimm",
+                "firstName": "Lena",
+                "lastName": "Grimm"
+            },
+            {
+                "id": 37085625361,
+                "preferredName": "Steven Smyth",
+                "firstName": "Steven",
+                "lastName": "Smyth"
+            },
+            {
+                "id": 37086507642,
+                "preferredName": "Alexander Schulz-Rosengarten",
+                "firstName": "Alexander",
+                "lastName": "Schulz-Rosengarten"
+            },
+            {
+                "id": 37294837100,
+                "preferredName": "Reinhard von Hanxleden",
+                "firstName": "Reinhard",
+                "lastName": "von Hanxleden"
+            },
+            {
+                "id": 37297105800,
+                "preferredName": "Marc Pouzet",
+                "firstName": "Marc",
+                "lastName": "Pouzet"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232937",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232937",
+        "articleTitle": "Supervisory Control for Dynamic Feature Configuration in Product Lines",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Supervisory Control for Dynamic Feature Configuration in Product Lines",
+        "authors": [
+            {
+                "id": 37282568000,
+                "preferredName": "Michel Reniers",
+                "firstName": "Michel",
+                "lastName": "Reniers"
+            },
+            {
+                "id": 37086956874,
+                "preferredName": "Sander Thuijsman",
+                "firstName": "Sander",
+                "lastName": "Thuijsman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9233008",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9233008",
+        "articleTitle": "Bringing Uncertainties into System Simulation: A SystemC AMS Case Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Bringing Uncertainties into System Simulation: A SystemC AMS Case Study",
+        "authors": [
+            {
+                "id": 37086507134,
+                "preferredName": "C. Zivkovic",
+                "firstName": "C.",
+                "lastName": "Zivkovic"
+            },
+            {
+                "id": 37265232400,
+                "preferredName": "Ch. Grimm",
+                "firstName": "Ch.",
+                "lastName": "Grimm"
+            },
+            {
+                "id": 37086358713,
+                "preferredName": "J. K\u00f6lsch",
+                "firstName": "J.",
+                "lastName": "K\u00f6lsch"
+            },
+            {
+                "id": 37088543436,
+                "preferredName": "D. Short",
+                "firstName": "D.",
+                "lastName": "Short"
+            },
+            {
+                "id": 37088546397,
+                "preferredName": "M. Ferstl",
+                "firstName": "M.",
+                "lastName": "Ferstl"
+            },
+            {
+                "id": 37088545873,
+                "preferredName": "D. Denger",
+                "firstName": "D.",
+                "lastName": "Denger"
+            },
+            {
+                "id": 37088544264,
+                "preferredName": "D. Krems",
+                "firstName": "D.",
+                "lastName": "Krems"
+            },
+            {
+                "id": 37088547451,
+                "preferredName": "A. Barisic",
+                "firstName": "A.",
+                "lastName": "Barisic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232935",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232935",
+        "articleTitle": "Temporal Property-Based Testing of a Timed C Compiler using Time-Flow Graph Semantics",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Temporal Property-Based Testing of a Timed C Compiler using Time-Flow Graph Semantics",
+        "authors": [
+            {
+                "id": 37086436080,
+                "preferredName": "Saranya Natarajan",
+                "firstName": "Saranya",
+                "lastName": "Natarajan"
+            },
+            {
+                "id": 37392280600,
+                "preferredName": "David Broman",
+                "firstName": "David",
+                "lastName": "Broman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232943",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232943",
+        "articleTitle": "A Hard Real Time Demonstrator for Dynamic Ticks and Timed SCCharts",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "A Hard Real Time Demonstrator for Dynamic Ticks and Timed SCCharts",
+        "authors": [
+            {
+                "id": 37088544294,
+                "preferredName": "Andreas Boysen",
+                "firstName": "Andreas",
+                "lastName": "Boysen"
+            },
+            {
+                "id": 37086507642,
+                "preferredName": "Alexander Schulz-Rosengarten",
+                "firstName": "Alexander",
+                "lastName": "Schulz-Rosengarten"
+            },
+            {
+                "id": 37294837100,
+                "preferredName": "Reinhard von Hanxleden",
+                "firstName": "Reinhard",
+                "lastName": "von Hanxleden"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232945",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232945",
+        "articleTitle": "An Algebra of Deterministic Propositional Acceptance Automata (DPAA)",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "An Algebra of Deterministic Propositional Acceptance Automata (DPAA)",
+        "authors": [
+            {
+                "id": 37088544201,
+                "preferredName": "Aur\u00e9lien Lamercerie",
+                "firstName": "Aur\u00e9lien",
+                "lastName": "Lamercerie"
+            },
+            {
+                "id": 37267820300,
+                "preferredName": "Benoit Caillaud",
+                "firstName": "Benoit",
+                "lastName": "Caillaud"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232947",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232947",
+        "articleTitle": "Virtual Prototyping of Open Source Heterogeneous Systems with an Open Source Framework Featuring SystemC MDVP Extensions",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "Virtual Prototyping of Open Source Heterogeneous Systems with an Open Source Framework Featuring SystemC MDVP Extensions",
+        "authors": [
+            {
+                "id": 37377690900,
+                "preferredName": "Fran\u00e7ois P\u011bcheux",
+                "firstName": "Fran\u00e7ois",
+                "lastName": "P\u011bcheux"
+            },
+            {
+                "id": 37085573243,
+                "preferredName": "Liliana Andrade",
+                "firstName": "Liliana",
+                "lastName": "Andrade"
+            },
+            {
+                "id": 37270044100,
+                "preferredName": "Marie-Minerve Lou\u00ebrat",
+                "firstName": "Marie-Minerve",
+                "lastName": "Lou\u00ebrat"
+            },
+            {
+                "id": 37088546324,
+                "preferredName": "Ilias Bournias",
+                "firstName": "Ilias",
+                "lastName": "Bournias"
+            },
+            {
+                "id": 37088544529,
+                "preferredName": "Roselyne Chotin",
+                "firstName": "Roselyne",
+                "lastName": "Chotin"
+            },
+            {
+                "id": 37371642900,
+                "preferredName": "Daniela Genius",
+                "firstName": "Daniela",
+                "lastName": "Genius"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9226655",
+        "doi": "10.1109/FDL50818.2020.9232933",
+        "publicationYear": "2020",
+        "publicationDate": "15-17 Sept. 2020",
+        "articleNumber": "9232933",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Forum for Specification and Design Languages (FDL)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    }
+]

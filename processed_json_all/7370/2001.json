@@ -1,0 +1,774 @@
+[
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924628",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924628",
+        "articleTitle": "Using quad trees for parallelizing conflict detection in a sequential simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "117",
+        "endPage": "123",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Using quad trees for parallelizing conflict detection in a sequential simulation",
+        "authors": [
+            {
+                "id": 37087874103,
+                "preferredName": "F. Wireland",
+                "firstName": "F.",
+                "lastName": "Wireland"
+            },
+            {
+                "id": 37087877236,
+                "preferredName": "D. Carnes",
+                "firstName": "D.",
+                "lastName": "Carnes"
+            },
+            {
+                "id": 38059570700,
+                "preferredName": "G. Schultz",
+                "firstName": "G.",
+                "lastName": "Schultz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924636",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924636",
+        "articleTitle": "Speedup of a sparse system simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "193",
+        "endPage": "199",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Speedup of a sparse system simulation",
+        "authors": [
+            {
+                "id": 37296775500,
+                "preferredName": "J. Nutaro",
+                "firstName": "J.",
+                "lastName": "Nutaro"
+            },
+            {
+                "id": 37271641100,
+                "preferredName": "H. Sarjoughian",
+                "firstName": "H.",
+                "lastName": "Sarjoughian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924625",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924625",
+        "articleTitle": "The resource sharing system: dynamic federate mapping for HLA-based distributed simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "91",
+        "endPage": "98",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "The resource sharing system: dynamic federate mapping for HLA-based distributed simulation",
+        "authors": [
+            {
+                "id": 37353826400,
+                "preferredName": "J. Luthi",
+                "firstName": "J.",
+                "lastName": "Luthi"
+            },
+            {
+                "id": 37087731546,
+                "preferredName": "S. Grossmann",
+                "firstName": "S.",
+                "lastName": "Grossmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924616",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924616",
+        "articleTitle": "Improving lookahead in parallel discrete event simulations of large-scale applications using compiler analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Improving lookahead in parallel discrete event simulations of large-scale applications using compiler analysis",
+        "authors": [
+            {
+                "id": 37276642300,
+                "preferredName": "E. Deelman",
+                "firstName": "E.",
+                "lastName": "Deelman"
+            },
+            {
+                "id": 37087428648,
+                "preferredName": "R. Bargodia",
+                "firstName": "R.",
+                "lastName": "Bargodia"
+            },
+            {
+                "id": 37267308300,
+                "preferredName": "R. Sakellariou",
+                "firstName": "R.",
+                "lastName": "Sakellariou"
+            },
+            {
+                "id": 37282676400,
+                "preferredName": "V. Adve",
+                "firstName": "V.",
+                "lastName": "Adve"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924620",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924620",
+        "articleTitle": "Learning not to share [large-scale discrete event simulation]",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Learning not to share [large-scale discrete event simulation]",
+        "authors": [
+            {
+                "id": 37087164628,
+                "preferredName": "J. Liu",
+                "firstName": "J.",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37272495200,
+                "preferredName": "D. Nicol",
+                "firstName": "D.",
+                "lastName": "Nicol"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924618",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924618",
+        "articleTitle": "Lock-free scheduling of logical processes in parallel simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Lock-free scheduling of logical processes in parallel simulation",
+        "authors": [
+            {
+                "id": 37087164628,
+                "preferredName": "J. Liu",
+                "firstName": "J.",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37272495200,
+                "preferredName": "D.M. Nicol",
+                "firstName": "D.M.",
+                "lastName": "Nicol"
+            },
+            {
+                "id": 37087297596,
+                "preferredName": "King Tan",
+                "firstName": null,
+                "lastName": "King Tan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924629",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924629",
+        "articleTitle": "Virtual time synchronization over unreliable network transport",
+        "volume": null,
+        "issue": null,
+        "startPage": "129",
+        "endPage": "136",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Virtual time synchronization over unreliable network transport",
+        "authors": [
+            {
+                "id": 38476509600,
+                "preferredName": "K. Perumalla",
+                "firstName": "K.",
+                "lastName": "Perumalla"
+            },
+            {
+                "id": 37272485600,
+                "preferredName": "R. Fujimoto",
+                "firstName": "R.",
+                "lastName": "Fujimoto"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924619",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924619",
+        "articleTitle": "The dependence list in time warp",
+        "volume": null,
+        "issue": null,
+        "startPage": "35",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "The dependence list in time warp",
+        "authors": [
+            {
+                "id": 37087298365,
+                "preferredName": "Jing Lei Zhang",
+                "firstName": null,
+                "lastName": "Jing Lei Zhang"
+            },
+            {
+                "id": 37269210300,
+                "preferredName": "C. Tropper",
+                "firstName": "C.",
+                "lastName": "Tropper"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924622",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924622",
+        "articleTitle": "Hierarchical federations: an architecture for information hiding",
+        "volume": null,
+        "issue": null,
+        "startPage": "67",
+        "endPage": "74",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Hierarchical federations: an architecture for information hiding",
+        "authors": [
+            {
+                "id": 37087143041,
+                "preferredName": "Wentong Cai",
+                "firstName": null,
+                "lastName": "Wentong Cai"
+            },
+            {
+                "id": 37271774000,
+                "preferredName": "S.J. Turner",
+                "firstName": "S.J.",
+                "lastName": "Turner"
+            },
+            {
+                "id": 37087152165,
+                "preferredName": "Boon Ping Gan",
+                "firstName": null,
+                "lastName": "Boon Ping Gan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924623",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924623",
+        "articleTitle": "An agent-based DDM for High Level Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "75",
+        "endPage": "82",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "An agent-based DDM for High Level Architecture",
+        "authors": [
+            {
+                "id": 37271444500,
+                "preferredName": "G. Tan",
+                "firstName": "G.",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37087402259,
+                "preferredName": "Liang Xu",
+                "firstName": null,
+                "lastName": "Liang Xu"
+            },
+            {
+                "id": 37297435800,
+                "preferredName": "F. Moradi",
+                "firstName": "F.",
+                "lastName": "Moradi"
+            },
+            {
+                "id": 37271648200,
+                "preferredName": "S. Taylor",
+                "firstName": "S.",
+                "lastName": "Taylor"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924624",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924624",
+        "articleTitle": "A causality based time management mechanism for federated simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "83",
+        "endPage": "90",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "A causality based time management mechanism for federated simulation",
+        "authors": [
+            {
+                "id": 37087161808,
+                "preferredName": "Bu-Sung Lee",
+                "firstName": null,
+                "lastName": "Bu-Sung Lee"
+            },
+            {
+                "id": 37087143041,
+                "preferredName": "Wentong Cai",
+                "firstName": null,
+                "lastName": "Wentong Cai"
+            },
+            {
+                "id": 37087188630,
+                "preferredName": "Junlan Zhou",
+                "firstName": null,
+                "lastName": "Junlan Zhou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924627",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924627",
+        "articleTitle": "Practical parallel simulation applied to aviation modeling",
+        "volume": null,
+        "issue": null,
+        "startPage": "109",
+        "endPage": "116",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Practical parallel simulation applied to aviation modeling",
+        "authors": [
+            {
+                "id": 37271350700,
+                "preferredName": "F. Wieland",
+                "firstName": "F.",
+                "lastName": "Wieland"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924631",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924631",
+        "articleTitle": "Spatio-temporal correlations and rollback distributions in optimistic simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "145",
+        "endPage": "152",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Spatio-temporal correlations and rollback distributions in optimistic simulations",
+        "authors": [
+            {
+                "id": 37330730100,
+                "preferredName": "B.J. Overeinder",
+                "firstName": "B.J.",
+                "lastName": "Overeinder"
+            },
+            {
+                "id": 37089405466,
+                "preferredName": "A. Schoneveld",
+                "firstName": "A.",
+                "lastName": "Schoneveld"
+            },
+            {
+                "id": 37269037000,
+                "preferredName": "P.M.A. Sloot",
+                "firstName": "P.M.A.",
+                "lastName": "Sloot"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924633",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924633",
+        "articleTitle": "Causality representation and cancellation mechanism in time warp simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "165",
+        "endPage": "172",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Causality representation and cancellation mechanism in time warp simulations",
+        "authors": [
+            {
+                "id": 37089142272,
+                "preferredName": "M. Chetlur",
+                "firstName": "M.",
+                "lastName": "Chetlur"
+            },
+            {
+                "id": 37300908400,
+                "preferredName": "P.A. Wilsey",
+                "firstName": "P.A.",
+                "lastName": "Wilsey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924632",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924632",
+        "articleTitle": "A scaled version of the elastic time algorithm",
+        "volume": null,
+        "issue": null,
+        "startPage": "157",
+        "endPage": "164",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "A scaled version of the elastic time algorithm",
+        "authors": [
+            {
+                "id": 37273199300,
+                "preferredName": "F. Quaglia",
+                "firstName": "F.",
+                "lastName": "Quaglia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924621",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924621",
+        "articleTitle": "Semi-asynchronous checkpointing for optimistic simulation on a Myrinet based NOW",
+        "volume": null,
+        "issue": null,
+        "startPage": "56",
+        "endPage": "63",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Semi-asynchronous checkpointing for optimistic simulation on a Myrinet based NOW",
+        "authors": [
+            {
+                "id": 37273199300,
+                "preferredName": "F. Quaglia",
+                "firstName": "F.",
+                "lastName": "Quaglia"
+            },
+            {
+                "id": 37265554600,
+                "preferredName": "A. Santoro",
+                "firstName": "A.",
+                "lastName": "Santoro"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924637",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924637",
+        "articleTitle": "A probabilistic performance model for conservative simulation protocol",
+        "volume": null,
+        "issue": null,
+        "startPage": "200",
+        "endPage": "207",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "A probabilistic performance model for conservative simulation protocol",
+        "authors": [
+            {
+                "id": 37087302519,
+                "preferredName": "Ha Yoon Song",
+                "firstName": null,
+                "lastName": "Ha Yoon Song"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924634",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924634",
+        "articleTitle": "Optimistic simulation of parallel message-passing applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "173",
+        "endPage": "181",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Optimistic simulation of parallel message-passing applications",
+        "authors": [
+            {
+                "id": 37285457700,
+                "preferredName": "T. Phan",
+                "firstName": "T.",
+                "lastName": "Phan"
+            },
+            {
+                "id": 37269537000,
+                "preferredName": "R. Bagrodia",
+                "firstName": "R.",
+                "lastName": "Bagrodia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924635",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924635",
+        "articleTitle": "Synchronous relaxation for parallel Ising spin simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "185",
+        "endPage": "192",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Synchronous relaxation for parallel Ising spin simulations",
+        "authors": [
+            {
+                "id": 37369723700,
+                "preferredName": "B. Lubachevsky",
+                "firstName": "B.",
+                "lastName": "Lubachevsky"
+            },
+            {
+                "id": 37285014600,
+                "preferredName": "A. Weiss",
+                "firstName": "A.",
+                "lastName": "Weiss"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924626",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924626",
+        "articleTitle": "A parallel object-oriented manufacturing simulation language",
+        "volume": null,
+        "issue": null,
+        "startPage": "101",
+        "endPage": "108",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "A parallel object-oriented manufacturing simulation language",
+        "authors": [
+            {
+                "id": 37087181093,
+                "preferredName": "Ye Zhang",
+                "firstName": null,
+                "lastName": "Ye Zhang"
+            },
+            {
+                "id": 37087143041,
+                "preferredName": "Wentong Cai",
+                "firstName": null,
+                "lastName": "Wentong Cai"
+            },
+            {
+                "id": 37271774000,
+                "preferredName": "S.J. Turner",
+                "firstName": "S.J.",
+                "lastName": "Turner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924617",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924617",
+        "articleTitle": "Looking ahead of real time in hybrid component networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Looking ahead of real time in hybrid component networks",
+        "authors": [
+            {
+                "id": 37087154852,
+                "preferredName": "Kaixin Xu",
+                "firstName": null,
+                "lastName": "Kaixin Xu"
+            },
+            {
+                "id": 37277931400,
+                "preferredName": "M. Takai",
+                "firstName": "M.",
+                "lastName": "Takai"
+            },
+            {
+                "id": 37276766400,
+                "preferredName": "J. Martin",
+                "firstName": "J.",
+                "lastName": "Martin"
+            },
+            {
+                "id": 37269537000,
+                "preferredName": "R. Bagrodia",
+                "firstName": "R.",
+                "lastName": "Bagrodia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924630",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924630",
+        "articleTitle": "Consistent modeling of distributed mutual exclusion protocol using optimistic simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "137",
+        "endPage": "144",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Consistent modeling of distributed mutual exclusion protocol using optimistic simulation",
+        "authors": [
+            {
+                "id": 37271777900,
+                "preferredName": "M.Y.H. Low",
+                "firstName": "M.Y.H.",
+                "lastName": "Low"
+            },
+            {
+                "id": 37272495200,
+                "preferredName": "D.M. Nicol",
+                "firstName": "D.M.",
+                "lastName": "Nicol"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924638",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924638",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "208",
+        "endPage": "208",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7370",
+        "doi": "10.1109/PADS.2001.924615",
+        "publicationYear": "2001",
+        "publicationDate": "15-18 May 2001",
+        "articleNumber": "924615",
+        "articleTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation [front matter]",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation",
+        "highlightedTitle": "Proceedings 15th Workshop on Parallel and Distributed Simulation [front matter]",
+        "authors": []
+    }
+]

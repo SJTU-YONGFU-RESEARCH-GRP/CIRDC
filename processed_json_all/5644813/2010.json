@@ -1,0 +1,2795 @@
+[
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.18",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645453",
+        "articleTitle": "Design, Modeling, and Evaluation of a Scalable Multi-level Checkpointing System",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Design, Modeling, and Evaluation of a Scalable Multi-level Checkpointing System",
+        "authors": [
+            {
+                "id": 37601318100,
+                "preferredName": "Adam Moody",
+                "firstName": "Adam",
+                "lastName": "Moody"
+            },
+            {
+                "id": 37391497300,
+                "preferredName": "Greg Bronevetsky",
+                "firstName": "Greg",
+                "lastName": "Bronevetsky"
+            },
+            {
+                "id": 37422444700,
+                "preferredName": "Kathryn Mohror",
+                "firstName": "Kathryn",
+                "lastName": "Mohror"
+            },
+            {
+                "id": 37085440603,
+                "preferredName": "Bronis R. de Supinski",
+                "firstName": "Bronis R. de",
+                "lastName": "Supinski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.2",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645463",
+        "articleTitle": "3.5-D Blocking Optimization for Stencil Computations on Modern CPUs and GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "3.5-D Blocking Optimization for Stencil Computations on Modern CPUs and GPUs",
+        "authors": [
+            {
+                "id": 38181758300,
+                "preferredName": "Anthony Nguyen",
+                "firstName": "Anthony",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37391797900,
+                "preferredName": "Nadathur Satish",
+                "firstName": "Nadathur",
+                "lastName": "Satish"
+            },
+            {
+                "id": 37275779800,
+                "preferredName": "Jatin Chhugani",
+                "firstName": "Jatin",
+                "lastName": "Chhugani"
+            },
+            {
+                "id": 37578251700,
+                "preferredName": "Changkyu Kim",
+                "firstName": "Changkyu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37356156800,
+                "preferredName": "Pradeep Dubey",
+                "firstName": "Pradeep",
+                "lastName": "Dubey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.46",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644875",
+        "articleTitle": "Scalable Graph Exploration on Multicore Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Graph Exploration on Multicore Processors",
+        "authors": [
+            {
+                "id": 37401047200,
+                "preferredName": "Virat Agarwal",
+                "firstName": "Virat",
+                "lastName": "Agarwal"
+            },
+            {
+                "id": 37271662700,
+                "preferredName": "Fabrizio Petrini",
+                "firstName": "Fabrizio",
+                "lastName": "Petrini"
+            },
+            {
+                "id": 37393064600,
+                "preferredName": "Davide Pasetto",
+                "firstName": "Davide",
+                "lastName": "Pasetto"
+            },
+            {
+                "id": 37089403015,
+                "preferredName": "David A. Bader",
+                "firstName": "David A.",
+                "lastName": "Bader"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.36",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644879",
+        "articleTitle": "OpenMPC: Extended OpenMP Programming and Tuning for GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "OpenMPC: Extended OpenMP Programming and Tuning for GPUs",
+        "authors": [
+            {
+                "id": 38552184200,
+                "preferredName": "Seyong Lee",
+                "firstName": "Seyong",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37284772300,
+                "preferredName": "Rudolf Eigenmann",
+                "firstName": "Rudolf",
+                "lastName": "Eigenmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.53",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644880",
+        "articleTitle": "The 48-core SCC Processor: the Programmer's View",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "The 48-core SCC Processor: the Programmer's View",
+        "authors": [
+            {
+                "id": 37350565900,
+                "preferredName": "Timothy G Mattson",
+                "firstName": "Timothy G",
+                "lastName": "Mattson"
+            },
+            {
+                "id": 37283773900,
+                "preferredName": "Rob F Van der Wijngaart",
+                "firstName": "Rob F",
+                "lastName": "Van der Wijngaart"
+            },
+            {
+                "id": 37591310200,
+                "preferredName": "Michael Riepen",
+                "firstName": "Michael",
+                "lastName": "Riepen"
+            },
+            {
+                "id": 37088606959,
+                "preferredName": "Thomas Lehnig",
+                "firstName": "Thomas",
+                "lastName": "Lehnig"
+            },
+            {
+                "id": 37394849900,
+                "preferredName": "Paul Brett",
+                "firstName": "Paul",
+                "lastName": "Brett"
+            },
+            {
+                "id": 37089145352,
+                "preferredName": "Werner Haas",
+                "firstName": "Werner",
+                "lastName": "Haas"
+            },
+            {
+                "id": 37088607008,
+                "preferredName": "Patrick Kennedy",
+                "firstName": "Patrick",
+                "lastName": "Kennedy"
+            },
+            {
+                "id": 37587521500,
+                "preferredName": "Jason Howard",
+                "firstName": "Jason",
+                "lastName": "Howard"
+            },
+            {
+                "id": 37285024400,
+                "preferredName": "Sriram Vangal",
+                "firstName": "Sriram",
+                "lastName": "Vangal"
+            },
+            {
+                "id": 37284993500,
+                "preferredName": "Nitin Borkar",
+                "firstName": "Nitin",
+                "lastName": "Borkar"
+            },
+            {
+                "id": 37536150800,
+                "preferredName": "Greg Ruhl",
+                "firstName": "Greg",
+                "lastName": "Ruhl"
+            },
+            {
+                "id": 37561119400,
+                "preferredName": "Saurabh Dighe",
+                "firstName": "Saurabh",
+                "lastName": "Dighe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.12",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645455",
+        "articleTitle": "Characterizing the Influence of System Noise on Large-Scale Applications by Simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Characterizing the Influence of System Noise on Large-Scale Applications by Simulation",
+        "authors": [
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            },
+            {
+                "id": 37571699300,
+                "preferredName": "Timo Schneider",
+                "firstName": "Timo",
+                "lastName": "Schneider"
+            },
+            {
+                "id": 37282650000,
+                "preferredName": "Andrew Lumsdaine",
+                "firstName": "Andrew",
+                "lastName": "Lumsdaine"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.32",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644883",
+        "articleTitle": "Managing Variability in the IO Performance of Petascale Storage Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Managing Variability in the IO Performance of Petascale Storage Systems",
+        "authors": [
+            {
+                "id": 37393849700,
+                "preferredName": "Jay Lofstead",
+                "firstName": "Jay",
+                "lastName": "Lofstead"
+            },
+            {
+                "id": 37395471200,
+                "preferredName": "Fang Zheng",
+                "firstName": "Fang",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37403280600,
+                "preferredName": "Qing Liu",
+                "firstName": "Qing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37267815000,
+                "preferredName": "Scott Klasky",
+                "firstName": "Scott",
+                "lastName": "Klasky"
+            },
+            {
+                "id": 37299773500,
+                "preferredName": "Ron Oldfield",
+                "firstName": "Ron",
+                "lastName": "Oldfield"
+            },
+            {
+                "id": 37299776900,
+                "preferredName": "Todd Kordenbrock",
+                "firstName": "Todd",
+                "lastName": "Kordenbrock"
+            },
+            {
+                "id": 37268091800,
+                "preferredName": "Karsten Schwan",
+                "firstName": "Karsten",
+                "lastName": "Schwan"
+            },
+            {
+                "id": 37272868500,
+                "preferredName": "Matthew Wolf",
+                "firstName": "Matthew",
+                "lastName": "Wolf"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.50",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645467",
+        "articleTitle": "Simple but Effective Heterogeneous Main Memory with On-Chip Memory Controller Support",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Simple but Effective Heterogeneous Main Memory with On-Chip Memory Controller Support",
+        "authors": [
+            {
+                "id": 37407343000,
+                "preferredName": "Xiangyu Dong",
+                "firstName": "Xiangyu",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37391840200,
+                "preferredName": "Naveen Muralimanohar",
+                "firstName": "Naveen",
+                "lastName": "Muralimanohar"
+            },
+            {
+                "id": 37273884000,
+                "preferredName": "Norman P. Jouppi",
+                "firstName": "Norman P.",
+                "lastName": "Jouppi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.56",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645465",
+        "articleTitle": "Understanding the Impact of Emerging Non-Volatile Memories on High-Performance, IO-Intensive Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Understanding the Impact of Emerging Non-Volatile Memories on High-Performance, IO-Intensive Computing",
+        "authors": [
+            {
+                "id": 37397927800,
+                "preferredName": "Adrian M. Caulfield",
+                "firstName": "Adrian M.",
+                "lastName": "Caulfield"
+            },
+            {
+                "id": 37562189000,
+                "preferredName": "Joel Coburn",
+                "firstName": "Joel",
+                "lastName": "Coburn"
+            },
+            {
+                "id": 37088677687,
+                "preferredName": "Todor Mollov",
+                "firstName": "Todor",
+                "lastName": "Mollov"
+            },
+            {
+                "id": 37995245000,
+                "preferredName": "Arup De",
+                "firstName": "Arup",
+                "lastName": "De"
+            },
+            {
+                "id": 37087565231,
+                "preferredName": "Ameen Akel",
+                "firstName": "Ameen",
+                "lastName": "Akel"
+            },
+            {
+                "id": 37597251800,
+                "preferredName": "Jiahua He",
+                "firstName": "Jiahua",
+                "lastName": "He"
+            },
+            {
+                "id": 37276592700,
+                "preferredName": "Arun Jagatheesan",
+                "firstName": "Arun",
+                "lastName": "Jagatheesan"
+            },
+            {
+                "id": 37272679300,
+                "preferredName": "Rajesh K. Gupta",
+                "firstName": "Rajesh K.",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37281816700,
+                "preferredName": "Allan Snavely",
+                "firstName": "Allan",
+                "lastName": "Snavely"
+            },
+            {
+                "id": 37407859800,
+                "preferredName": "Steven Swanson",
+                "firstName": "Steven",
+                "lastName": "Swanson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.9",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645464",
+        "articleTitle": "An 80-Fold Speedup, 15.0 TFlops Full GPU Acceleration of Non-Hydrostatic Weather Model ASUCA Production Code",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "An 80-Fold Speedup, 15.0 TFlops Full GPU Acceleration of Non-Hydrostatic Weather Model ASUCA Production Code",
+        "authors": [
+            {
+                "id": 37599416500,
+                "preferredName": "Takashi Shimokawabe",
+                "firstName": "Takashi",
+                "lastName": "Shimokawabe"
+            },
+            {
+                "id": 37597601500,
+                "preferredName": "Takayuki Aoki",
+                "firstName": "Takayuki",
+                "lastName": "Aoki"
+            },
+            {
+                "id": 37599374000,
+                "preferredName": "Chiashi Muroi",
+                "firstName": "Chiashi",
+                "lastName": "Muroi"
+            },
+            {
+                "id": 37087713420,
+                "preferredName": "Junichi Ishida",
+                "firstName": "Junichi",
+                "lastName": "Ishida"
+            },
+            {
+                "id": 37596624500,
+                "preferredName": "Kohei Kawano",
+                "firstName": "Kohei",
+                "lastName": "Kawano"
+            },
+            {
+                "id": 37277040100,
+                "preferredName": "Toshio Endo",
+                "firstName": "Toshio",
+                "lastName": "Endo"
+            },
+            {
+                "id": 37392857200,
+                "preferredName": "Akira Nukada",
+                "firstName": "Akira",
+                "lastName": "Nukada"
+            },
+            {
+                "id": 37318518100,
+                "preferredName": "Naoya Maruyama",
+                "firstName": "Naoya",
+                "lastName": "Maruyama"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.45",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644908",
+        "articleTitle": "Scalable Earthquake Simulation on Petascale Supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Earthquake Simulation on Petascale Supercomputers",
+        "authors": [
+            {
+                "id": 37532199800,
+                "preferredName": "Yifeng Cui",
+                "firstName": "Yifeng",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37590996800,
+                "preferredName": "Kim B. Olsen",
+                "firstName": "Kim B.",
+                "lastName": "Olsen"
+            },
+            {
+                "id": 37592163600,
+                "preferredName": "Thomas H. Jordan",
+                "firstName": "Thomas H.",
+                "lastName": "Jordan"
+            },
+            {
+                "id": 37088609007,
+                "preferredName": "Kwangyoon Lee",
+                "firstName": "Kwangyoon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37536451700,
+                "preferredName": "Jun Zhou",
+                "firstName": "Jun",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37085479702,
+                "preferredName": "Patrick Small",
+                "firstName": "Patrick",
+                "lastName": "Small"
+            },
+            {
+                "id": 37591174800,
+                "preferredName": "Daniel Roten",
+                "firstName": "Daniel",
+                "lastName": "Roten"
+            },
+            {
+                "id": 37088608955,
+                "preferredName": "Geoffrey Ely",
+                "firstName": "Geoffrey",
+                "lastName": "Ely"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K. Panda",
+                "firstName": "Dhabaleswar K.",
+                "lastName": "Panda"
+            },
+            {
+                "id": 37062769000,
+                "preferredName": "Amit Chourasia",
+                "firstName": "Amit",
+                "lastName": "Chourasia"
+            },
+            {
+                "id": 37291346600,
+                "preferredName": "John Levesque",
+                "firstName": "John",
+                "lastName": "Levesque"
+            },
+            {
+                "id": 37603052400,
+                "preferredName": "Steven M. Day",
+                "firstName": "Steven M.",
+                "lastName": "Day"
+            },
+            {
+                "id": 37392774200,
+                "preferredName": "Philip Maechling",
+                "firstName": "Philip",
+                "lastName": "Maechling"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.34",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644845",
+        "articleTitle": "Multithreaded Asynchronous Graph Traversal for In-Memory and Semi-External Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Multithreaded Asynchronous Graph Traversal for In-Memory and Semi-External Memory",
+        "authors": [
+            {
+                "id": 37329638800,
+                "preferredName": "Roger Pearce",
+                "firstName": "Roger",
+                "lastName": "Pearce"
+            },
+            {
+                "id": 37265510600,
+                "preferredName": "Maya Gokhale",
+                "firstName": "Maya",
+                "lastName": "Gokhale"
+            },
+            {
+                "id": 37277222500,
+                "preferredName": "Nancy M. Amato",
+                "firstName": "Nancy M.",
+                "lastName": "Amato"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.42",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644910",
+        "articleTitle": "Petascale Direct Numerical Simulation of Blood Flow on 200K Cores and Heterogeneous Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Petascale Direct Numerical Simulation of Blood Flow on 200K Cores and Heterogeneous Architectures",
+        "authors": [
+            {
+                "id": 37596040500,
+                "preferredName": "Abtin Rahimian",
+                "firstName": "Abtin",
+                "lastName": "Rahimian"
+            },
+            {
+                "id": 37392746400,
+                "preferredName": "Ilya Lashuk",
+                "firstName": "Ilya",
+                "lastName": "Lashuk"
+            },
+            {
+                "id": 37089884517,
+                "preferredName": "Shravan Veerapaneni",
+                "firstName": "Shravan",
+                "lastName": "Veerapaneni"
+            },
+            {
+                "id": 37392807900,
+                "preferredName": "Aparna Chandramowlishwaran",
+                "firstName": "Aparna",
+                "lastName": "Chandramowlishwaran"
+            },
+            {
+                "id": 37591154800,
+                "preferredName": "Dhairya Malhotra",
+                "firstName": "Dhairya",
+                "lastName": "Malhotra"
+            },
+            {
+                "id": 37088608055,
+                "preferredName": "Logan Moon",
+                "firstName": "Logan",
+                "lastName": "Moon"
+            },
+            {
+                "id": 38574208200,
+                "preferredName": "Rahul Sampath",
+                "firstName": "Rahul",
+                "lastName": "Sampath"
+            },
+            {
+                "id": 37591153100,
+                "preferredName": "Aashay Shringarpure",
+                "firstName": "Aashay",
+                "lastName": "Shringarpure"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey Vetter",
+                "firstName": "Jeffrey",
+                "lastName": "Vetter"
+            },
+            {
+                "id": 37281842800,
+                "preferredName": "Richard Vuduc",
+                "firstName": "Richard",
+                "lastName": "Vuduc"
+            },
+            {
+                "id": 37392248400,
+                "preferredName": "Denis Zorin",
+                "firstName": "Denis",
+                "lastName": "Zorin"
+            },
+            {
+                "id": 37392746800,
+                "preferredName": "George Biros",
+                "firstName": "George",
+                "lastName": "Biros"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.17",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644898",
+        "articleTitle": "Data Sharing Options for Scientific Workflows on Amazon EC2",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Data Sharing Options for Scientific Workflows on Amazon EC2",
+        "authors": [
+            {
+                "id": 38550359000,
+                "preferredName": "Gideon Juve",
+                "firstName": "Gideon",
+                "lastName": "Juve"
+            },
+            {
+                "id": 37276642300,
+                "preferredName": "Ewa Deelman",
+                "firstName": "Ewa",
+                "lastName": "Deelman"
+            },
+            {
+                "id": 37276258500,
+                "preferredName": "Karan Vahi",
+                "firstName": "Karan",
+                "lastName": "Vahi"
+            },
+            {
+                "id": 37276267300,
+                "preferredName": "Gaurang Mehta",
+                "firstName": "Gaurang",
+                "lastName": "Mehta"
+            },
+            {
+                "id": 38557649600,
+                "preferredName": "Bruce Berriman",
+                "firstName": "Bruce",
+                "lastName": "Berriman"
+            },
+            {
+                "id": 37087152341,
+                "preferredName": "Benjamin P. Berman",
+                "firstName": "Benjamin P.",
+                "lastName": "Berman"
+            },
+            {
+                "id": 37392774200,
+                "preferredName": "Phil Maechling",
+                "firstName": "Phil",
+                "lastName": "Maechling"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.43",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644899",
+        "articleTitle": "Power-Aware Consolidation of Scientific Workflows in Virtualized Environments",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Power-Aware Consolidation of Scientific Workflows in Virtualized Environments",
+        "authors": [
+            {
+                "id": 37576452200,
+                "preferredName": "Qian Zhu",
+                "firstName": "Qian",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37599018900,
+                "preferredName": "Jiedan Zhu",
+                "firstName": "Jiedan",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37276602400,
+                "preferredName": "Gagan Agrawal",
+                "firstName": "Gagan",
+                "lastName": "Agrawal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.41",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644905",
+        "articleTitle": "PerfExpert: An Easy-to-Use Performance Diagnosis Tool for HPC Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "PerfExpert: An Easy-to-Use Performance Diagnosis Tool for HPC Applications",
+        "authors": [
+            {
+                "id": 37297364200,
+                "preferredName": "Martin Burtscher",
+                "firstName": "Martin",
+                "lastName": "Burtscher"
+            },
+            {
+                "id": 38183292400,
+                "preferredName": "Byoung-Do Kim",
+                "firstName": "Byoung-Do",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37089130565,
+                "preferredName": "Jeff Diamond",
+                "firstName": "Jeff",
+                "lastName": "Diamond"
+            },
+            {
+                "id": 37591305200,
+                "preferredName": "John McCalpin",
+                "firstName": "John",
+                "lastName": "McCalpin"
+            },
+            {
+                "id": 37591305600,
+                "preferredName": "Lars Koesterke",
+                "firstName": "Lars",
+                "lastName": "Koesterke"
+            },
+            {
+                "id": 37284224100,
+                "preferredName": "James Browne",
+                "firstName": "James",
+                "lastName": "Browne"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.7",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644885",
+        "articleTitle": "A Scalable and Distributed Dynamic Formal Verifier for MPI Programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Scalable and Distributed Dynamic Formal Verifier for MPI Programs",
+        "authors": [
+            {
+                "id": 37392894600,
+                "preferredName": "Anh Vo",
+                "firstName": "Anh",
+                "lastName": "Vo"
+            },
+            {
+                "id": 37591314200,
+                "preferredName": "Sriram Aananthakrishnan",
+                "firstName": "Sriram",
+                "lastName": "Aananthakrishnan"
+            },
+            {
+                "id": 37283850200,
+                "preferredName": "Ganesh Gopalakrishnan",
+                "firstName": "Ganesh",
+                "lastName": "Gopalakrishnan"
+            },
+            {
+                "id": 37085440603,
+                "preferredName": "Bronis R. de Supinski",
+                "firstName": "Bronis R. de",
+                "lastName": "Supinski"
+            },
+            {
+                "id": 37290317700,
+                "preferredName": "Martin Schulz",
+                "firstName": "Martin",
+                "lastName": "Schulz"
+            },
+            {
+                "id": 37391497300,
+                "preferredName": "Greg Bronevetsky",
+                "firstName": "Greg",
+                "lastName": "Bronevetsky"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.22",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645454",
+        "articleTitle": "Experiences with a Lightweight Supercomputer Kernel: Lessons Learned from Blue Gene's CNK",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Experiences with a Lightweight Supercomputer Kernel: Lessons Learned from Blue Gene's CNK",
+        "authors": [
+            {
+                "id": 37600440500,
+                "preferredName": "Mark Giampapa",
+                "firstName": "Mark",
+                "lastName": "Giampapa"
+            },
+            {
+                "id": 37600442700,
+                "preferredName": "Thomas Gooding",
+                "firstName": "Thomas",
+                "lastName": "Gooding"
+            },
+            {
+                "id": 37600435200,
+                "preferredName": "Todd Inglett",
+                "firstName": "Todd",
+                "lastName": "Inglett"
+            },
+            {
+                "id": 37347877500,
+                "preferredName": "Robert W. Wisniewski",
+                "firstName": "Robert W.",
+                "lastName": "Wisniewski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.25",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644907",
+        "articleTitle": "Extreme-Scale AMR",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Extreme-Scale AMR",
+        "authors": [
+            {
+                "id": 37591147900,
+                "preferredName": "Carsten Burstedde",
+                "firstName": "Carsten",
+                "lastName": "Burstedde"
+            },
+            {
+                "id": 37374500900,
+                "preferredName": "Omar Ghattas",
+                "firstName": "Omar",
+                "lastName": "Ghattas"
+            },
+            {
+                "id": 37591147700,
+                "preferredName": "Michael Gurnis",
+                "firstName": "Michael",
+                "lastName": "Gurnis"
+            },
+            {
+                "id": 37591146100,
+                "preferredName": "Tobin Isaac",
+                "firstName": "Tobin",
+                "lastName": "Isaac"
+            },
+            {
+                "id": 37591146300,
+                "preferredName": "Georg Stadler",
+                "firstName": "Georg",
+                "lastName": "Stadler"
+            },
+            {
+                "id": 37303174100,
+                "preferredName": "Tim Warburton",
+                "firstName": "Tim",
+                "lastName": "Warburton"
+            },
+            {
+                "id": 37592339400,
+                "preferredName": "Lucas Wilcox",
+                "firstName": "Lucas",
+                "lastName": "Wilcox"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.47",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644887",
+        "articleTitle": "Scalable Identification of Load Imbalance in Parallel Executions Using Call Path Profiles",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Identification of Load Imbalance in Parallel Executions Using Call Path Profiles",
+        "authors": [
+            {
+                "id": 37085671581,
+                "preferredName": "Nathan R. Tallent",
+                "firstName": "Nathan R.",
+                "lastName": "Tallent"
+            },
+            {
+                "id": 38353199600,
+                "preferredName": "Laksono Adhianto",
+                "firstName": "Laksono",
+                "lastName": "Adhianto"
+            },
+            {
+                "id": 38276457400,
+                "preferredName": "John M. Mellor-Crummey",
+                "firstName": "John M.",
+                "lastName": "Mellor-Crummey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.15",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645461",
+        "articleTitle": "CPM in CMPs: Coordinated Power Management in Chip-Multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "CPM in CMPs: Coordinated Power Management in Chip-Multiprocessors",
+        "authors": [
+            {
+                "id": 37595168200,
+                "preferredName": "Asit K. Mishra",
+                "firstName": "Asit K.",
+                "lastName": "Mishra"
+            },
+            {
+                "id": 37599903400,
+                "preferredName": "Shekhar Srikantaiah",
+                "firstName": "Shekhar",
+                "lastName": "Srikantaiah"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Kandemir",
+                "firstName": "Mahmut",
+                "lastName": "Kandemir"
+            },
+            {
+                "id": 37268589600,
+                "preferredName": "Chita R. Das",
+                "firstName": "Chita R.",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.49",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644894",
+        "articleTitle": "Scaling Hierarchical N-body Simulations on GPU Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scaling Hierarchical N-body Simulations on GPU Clusters",
+        "authors": [
+            {
+                "id": 37393033500,
+                "preferredName": "Pritish Jetley",
+                "firstName": "Pritish",
+                "lastName": "Jetley"
+            },
+            {
+                "id": 37591277500,
+                "preferredName": "Lukasz Wesolowski",
+                "firstName": "Lukasz",
+                "lastName": "Wesolowski"
+            },
+            {
+                "id": 37572797300,
+                "preferredName": "Filippo Gioachin",
+                "firstName": "Filippo",
+                "lastName": "Gioachin"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant V. Kal\u00e9",
+                "firstName": "Laxmikant V.",
+                "lastName": "Kal\u00e9"
+            },
+            {
+                "id": 37590876000,
+                "preferredName": "Thomas R. Quinn",
+                "firstName": "Thomas R.",
+                "lastName": "Quinn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.30",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644884",
+        "articleTitle": "IOrchestrator: Improving the Performance of Multi-node I/O Systems via Inter-Server Coordination",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "IOrchestrator: Improving the Performance of Multi-node I/O Systems via Inter-Server Coordination",
+        "authors": [
+            {
+                "id": 37089655471,
+                "preferredName": "Xuechen Zhang",
+                "firstName": "Xuechen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37282656500,
+                "preferredName": "Kei Davis",
+                "firstName": "Kei",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37279383900,
+                "preferredName": "Song Jiang",
+                "firstName": "Song",
+                "lastName": "Jiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.28",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644890",
+        "articleTitle": "Functional Partitioning to Optimize End-to-End Performance on Many-core Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Functional Partitioning to Optimize End-to-End Performance on Many-core Architectures",
+        "authors": [
+            {
+                "id": 37597517000,
+                "preferredName": "Min Li",
+                "firstName": "Min",
+                "lastName": "Li"
+            },
+            {
+                "id": 37299720900,
+                "preferredName": "Sudharshan S. Vazhkudai",
+                "firstName": "Sudharshan S.",
+                "lastName": "Vazhkudai"
+            },
+            {
+                "id": 37411735900,
+                "preferredName": "Ali R. Butt",
+                "firstName": "Ali R.",
+                "lastName": "Butt"
+            },
+            {
+                "id": 37606454700,
+                "preferredName": "Fei Meng",
+                "firstName": "Fei",
+                "lastName": "Meng"
+            },
+            {
+                "id": 37279527500,
+                "preferredName": "Xiaosong Ma",
+                "firstName": "Xiaosong",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37066715800,
+                "preferredName": "Youngjae Kim",
+                "firstName": "Youngjae",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37296621200,
+                "preferredName": "Christian Engelmann",
+                "firstName": "Christian",
+                "lastName": "Engelmann"
+            },
+            {
+                "id": 37299772300,
+                "preferredName": "Galen Shipman",
+                "firstName": "Galen",
+                "lastName": "Shipman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.4",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645470",
+        "articleTitle": "A Flexible Reservation Algorithm for Advance Network Provisioning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Flexible Reservation Algorithm for Advance Network Provisioning",
+        "authors": [
+            {
+                "id": 37318043200,
+                "preferredName": "Mehmet Balman",
+                "firstName": "Mehmet",
+                "lastName": "Balman"
+            },
+            {
+                "id": 37087569512,
+                "preferredName": "Evangelos Chaniotakisy",
+                "firstName": "Evangelos",
+                "lastName": "Chaniotakisy"
+            },
+            {
+                "id": 37276933600,
+                "preferredName": "Arie Shoshani",
+                "firstName": "Arie",
+                "lastName": "Shoshani"
+            },
+            {
+                "id": 37276898000,
+                "preferredName": "Alex Sim",
+                "firstName": "Alex",
+                "lastName": "Sim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.40",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644900",
+        "articleTitle": "Parallelizing the QUDA Library for Multi-GPU Calculations in Lattice Quantum Chromodynamics",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Parallelizing the QUDA Library for Multi-GPU Calculations in Lattice Quantum Chromodynamics",
+        "authors": [
+            {
+                "id": 37591342900,
+                "preferredName": "Ronald Babich",
+                "firstName": "Ronald",
+                "lastName": "Babich"
+            },
+            {
+                "id": 37595296700,
+                "preferredName": "Michael A. Clark",
+                "firstName": "Michael A.",
+                "lastName": "Clark"
+            },
+            {
+                "id": 37605723200,
+                "preferredName": "Balint Jo\u00f3",
+                "firstName": "Balint",
+                "lastName": "Jo\u00f3"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.14",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644877",
+        "articleTitle": "Combined iterative and model-driven optimization in an automatic parallelization framework",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Combined iterative and model-driven optimization in an automatic parallelization framework",
+        "authors": [
+            {
+                "id": 37297752800,
+                "preferredName": "Louis-No\u00ebl Pouchet",
+                "firstName": "Louis-No\u00ebl",
+                "lastName": "Pouchet"
+            },
+            {
+                "id": 37591315900,
+                "preferredName": "Uday Bondhugula",
+                "firstName": "Uday",
+                "lastName": "Bondhugula"
+            },
+            {
+                "id": 37282536500,
+                "preferredName": "Cedric Bastoul",
+                "firstName": "Cedric",
+                "lastName": "Bastoul"
+            },
+            {
+                "id": 37285890400,
+                "preferredName": "Albert Cohen",
+                "firstName": "Albert",
+                "lastName": "Cohen"
+            },
+            {
+                "id": 37283826700,
+                "preferredName": "J. Ramanujam",
+                "firstName": "J.",
+                "lastName": "Ramanujam"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.13",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645460",
+        "articleTitle": "Circuit-Switched Memory Access in Photonic Interconnection Networks for High-Performance Embedded Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Circuit-Switched Memory Access in Photonic Interconnection Networks for High-Performance Embedded Computing",
+        "authors": [
+            {
+                "id": 37318888600,
+                "preferredName": "Gilbert Hendry",
+                "firstName": "Gilbert",
+                "lastName": "Hendry"
+            },
+            {
+                "id": 37604063600,
+                "preferredName": "Eric Robinson",
+                "firstName": "Eric",
+                "lastName": "Robinson"
+            },
+            {
+                "id": 37600993900,
+                "preferredName": "Vitaliy Gleyzer",
+                "firstName": "Vitaliy",
+                "lastName": "Gleyzer"
+            },
+            {
+                "id": 37307167000,
+                "preferredName": "Johnnie Chan",
+                "firstName": "Johnnie",
+                "lastName": "Chan"
+            },
+            {
+                "id": 37282454900,
+                "preferredName": "Luca Carloni",
+                "firstName": "Luca",
+                "lastName": "Carloni"
+            },
+            {
+                "id": 37604787300,
+                "preferredName": "Nadya Bliss",
+                "firstName": "Nadya",
+                "lastName": "Bliss"
+            },
+            {
+                "id": 37278923800,
+                "preferredName": "Keren Bergman",
+                "firstName": "Keren",
+                "lastName": "Bergman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.44",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644904",
+        "articleTitle": "Reducing Cache Pollution Through Detection and Elimination of Non-Temporal Memory Accesses",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Reducing Cache Pollution Through Detection and Elimination of Non-Temporal Memory Accesses",
+        "authors": [
+            {
+                "id": 37604552800,
+                "preferredName": "Andreas Sandberg",
+                "firstName": "Andreas",
+                "lastName": "Sandberg"
+            },
+            {
+                "id": 37392930300,
+                "preferredName": "David Ekl\u00f6v",
+                "firstName": "David",
+                "lastName": "Ekl\u00f6v"
+            },
+            {
+                "id": 37281897200,
+                "preferredName": "Erik Hagersten",
+                "firstName": "Erik",
+                "lastName": "Hagersten"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.57",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645469",
+        "articleTitle": "vSnoop: Improving TCP Throughput in Virtualized Environments via Acknowledgement Offload",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "vSnoop: Improving TCP Throughput in Virtualized Environments via Acknowledgement Offload",
+        "authors": [
+            {
+                "id": 37599898800,
+                "preferredName": "Ardalan Kangarlou",
+                "firstName": "Ardalan",
+                "lastName": "Kangarlou"
+            },
+            {
+                "id": 37089146723,
+                "preferredName": "Sahan Gamage",
+                "firstName": "Sahan",
+                "lastName": "Gamage"
+            },
+            {
+                "id": 37299687000,
+                "preferredName": "Ramana Rao Kompella",
+                "firstName": "Ramana Rao",
+                "lastName": "Kompella"
+            },
+            {
+                "id": 37278439300,
+                "preferredName": "Dongyan Xu",
+                "firstName": "Dongyan",
+                "lastName": "Xu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.16",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645466",
+        "articleTitle": "DASH: a Recipe for a Flash-based Data Intensive Supercomputer",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "DASH: a Recipe for a Flash-based Data Intensive Supercomputer",
+        "authors": [
+            {
+                "id": 37597251800,
+                "preferredName": "Jiahua He",
+                "firstName": "Jiahua",
+                "lastName": "He"
+            },
+            {
+                "id": 37276592700,
+                "preferredName": "Arun Jagatheesan",
+                "firstName": "Arun",
+                "lastName": "Jagatheesan"
+            },
+            {
+                "id": 37597727500,
+                "preferredName": "Sandeep Gupta",
+                "firstName": "Sandeep",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37589044400,
+                "preferredName": "Jeffrey Bennett",
+                "firstName": "Jeffrey",
+                "lastName": "Bennett"
+            },
+            {
+                "id": 37281816700,
+                "preferredName": "Allan Snavely",
+                "firstName": "Allan",
+                "lastName": "Snavely"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.26",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644844",
+        "articleTitle": "Fast PGAS Implementation of Distributed Graph Algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Fast PGAS Implementation of Distributed Graph Algorithms",
+        "authors": [
+            {
+                "id": 37276829600,
+                "preferredName": "Guojing Cong",
+                "firstName": "Guojing",
+                "lastName": "Cong"
+            },
+            {
+                "id": 37086619229,
+                "preferredName": "George Almasi",
+                "firstName": "George",
+                "lastName": "Almasi"
+            },
+            {
+                "id": 37590950500,
+                "preferredName": "Vijay Saraswat",
+                "firstName": "Vijay",
+                "lastName": "Saraswat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.21",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644897",
+        "articleTitle": "Elastic Cloud Caches for Accelerating Service-Oriented Computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Elastic Cloud Caches for Accelerating Service-Oriented Computations",
+        "authors": [
+            {
+                "id": 37306107200,
+                "preferredName": "David Chiu",
+                "firstName": "David",
+                "lastName": "Chiu"
+            },
+            {
+                "id": 37589599800,
+                "preferredName": "Apeksha Shetty",
+                "firstName": "Apeksha",
+                "lastName": "Shetty"
+            },
+            {
+                "id": 37276602400,
+                "preferredName": "Gagan Agrawal",
+                "firstName": "Gagan",
+                "lastName": "Agrawal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.1",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644906",
+        "articleTitle": "190 TFlops Astrophysical N-body Simulation on a Cluster of GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "190 TFlops Astrophysical N-body Simulation on a Cluster of GPUs",
+        "authors": [
+            {
+                "id": 37534199600,
+                "preferredName": "Tsuyoshi Hamada",
+                "firstName": "Tsuyoshi",
+                "lastName": "Hamada"
+            },
+            {
+                "id": 37604363200,
+                "preferredName": "Keigo Nitadori",
+                "firstName": "Keigo",
+                "lastName": "Nitadori"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.8",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644882",
+        "articleTitle": "Accelerating I/O Forwarding in IBM Blue Gene/P Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Accelerating I/O Forwarding in IBM Blue Gene/P Systems",
+        "authors": [
+            {
+                "id": 37282610100,
+                "preferredName": "Venkatram Vishwanath",
+                "firstName": "Venkatram",
+                "lastName": "Vishwanath"
+            },
+            {
+                "id": 37326529900,
+                "preferredName": "Mark Hereld",
+                "firstName": "Mark",
+                "lastName": "Hereld"
+            },
+            {
+                "id": 37286689900,
+                "preferredName": "Kamil Iskra",
+                "firstName": "Kamil",
+                "lastName": "Iskra"
+            },
+            {
+                "id": 37595805100,
+                "preferredName": "Dries Kimpe",
+                "firstName": "Dries",
+                "lastName": "Kimpe"
+            },
+            {
+                "id": 38494263600,
+                "preferredName": "Vitali Morozov",
+                "firstName": "Vitali",
+                "lastName": "Morozov"
+            },
+            {
+                "id": 37267817200,
+                "preferredName": "Michael E. Papka",
+                "firstName": "Michael E.",
+                "lastName": "Papka"
+            },
+            {
+                "id": 37284984100,
+                "preferredName": "Robert Ross",
+                "firstName": "Robert",
+                "lastName": "Ross"
+            },
+            {
+                "id": 37285297400,
+                "preferredName": "Kazutomo Yoshii",
+                "firstName": "Kazutomo",
+                "lastName": "Yoshii"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.33",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644909",
+        "articleTitle": "Multiscale Simulation of Cardiovascular flows on the IBM Bluegene/P: Full Heart-Circulation System at Red-Blood Cell Resolution",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Multiscale Simulation of Cardiovascular flows on the IBM Bluegene/P: Full Heart-Circulation System at Red-Blood Cell Resolution",
+        "authors": [
+            {
+                "id": 37089115014,
+                "preferredName": "Amanda Peters",
+                "firstName": "Amanda",
+                "lastName": "Peters"
+            },
+            {
+                "id": 37422034400,
+                "preferredName": "Simone Melchionna",
+                "firstName": "Simone",
+                "lastName": "Melchionna"
+            },
+            {
+                "id": 37303905300,
+                "preferredName": "Efthimios Kaxiras",
+                "firstName": "Efthimios",
+                "lastName": "Kaxiras"
+            },
+            {
+                "id": 37591119800,
+                "preferredName": "Jonas L\u00e4tt",
+                "firstName": "Jonas",
+                "lastName": "L\u00e4tt"
+            },
+            {
+                "id": 37591119900,
+                "preferredName": "Joy Sircar",
+                "firstName": "Joy",
+                "lastName": "Sircar"
+            },
+            {
+                "id": 37273838500,
+                "preferredName": "Massimo Bernaschi",
+                "firstName": "Massimo",
+                "lastName": "Bernaschi"
+            },
+            {
+                "id": 37087940879,
+                "preferredName": "Mauro Bison",
+                "firstName": "Mauro",
+                "lastName": "Bison"
+            },
+            {
+                "id": 37377153700,
+                "preferredName": "Sauro Succi",
+                "firstName": "Sauro",
+                "lastName": "Succi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.48",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645553",
+        "articleTitle": "Scalable Tile Communication-Avoiding QR Factorization on Multicore Cluster Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Tile Communication-Avoiding QR Factorization on Multicore Cluster Systems",
+        "authors": [
+            {
+                "id": 37265987300,
+                "preferredName": "Fengguang Song",
+                "firstName": "Fengguang",
+                "lastName": "Song"
+            },
+            {
+                "id": 37392859400,
+                "preferredName": "Hatem Ltaief",
+                "firstName": "Hatem",
+                "lastName": "Ltaief"
+            },
+            {
+                "id": 37392851700,
+                "preferredName": "Bilel Hadri",
+                "firstName": "Bilel",
+                "lastName": "Hadri"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.38",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645458",
+        "articleTitle": "Overlapping Methods of All-to-All Communication and FFT Algorithms for Torus-Connected Massively Parallel Supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Overlapping Methods of All-to-All Communication and FFT Algorithms for Torus-Connected Massively Parallel Supercomputers",
+        "authors": [
+            {
+                "id": 37601356400,
+                "preferredName": "Jun Doi",
+                "firstName": "Jun",
+                "lastName": "Doi"
+            },
+            {
+                "id": 37586700100,
+                "preferredName": "Yasushi Negishi",
+                "firstName": "Yasushi",
+                "lastName": "Negishi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.27",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644886",
+        "articleTitle": "FlowChecker: Detecting Bugs in MPI Libraries via Message Flow Checking",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "FlowChecker: Detecting Bugs in MPI Libraries via Message Flow Checking",
+        "authors": [
+            {
+                "id": 37597201600,
+                "preferredName": "Zhezhe Chen",
+                "firstName": "Zhezhe",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37287312600,
+                "preferredName": "Qi Gao",
+                "firstName": "Qi",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37597076600,
+                "preferredName": "Wenbin Zhang",
+                "firstName": "Wenbin",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37282329000,
+                "preferredName": "Feng Qin",
+                "firstName": "Feng",
+                "lastName": "Qin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.51",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644895",
+        "articleTitle": "Size Matters: Space/Time Tradeoffs to Improve GPGPU Applications Performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Size Matters: Space/Time Tradeoffs to Improve GPGPU Applications Performance",
+        "authors": [
+            {
+                "id": 37546600400,
+                "preferredName": "Abdullah Gharaibeh",
+                "firstName": "Abdullah",
+                "lastName": "Gharaibeh"
+            },
+            {
+                "id": 37276544300,
+                "preferredName": "Matei Ripeanu",
+                "firstName": "Matei",
+                "lastName": "Ripeanu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.54",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644903",
+        "articleTitle": "The Sharing Tracker: Using Ideas from Cache Coherence Hardware to Reduce Off-Chip Memory Traffic with Non-Coherent Caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "The Sharing Tracker: Using Ideas from Cache Coherence Hardware to Reduce Off-Chip Memory Traffic with Non-Coherent Caches",
+        "authors": [
+            {
+                "id": 37572977500,
+                "preferredName": "David Tarjan",
+                "firstName": "David",
+                "lastName": "Tarjan"
+            },
+            {
+                "id": 37273724700,
+                "preferredName": "Kevin Skadron",
+                "firstName": "Kevin",
+                "lastName": "Skadron"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.23",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645468",
+        "articleTitle": "Exploiting 162-Nanosecond End-to-End Communication Latency on Anton",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Exploiting 162-Nanosecond End-to-End Communication Latency on Anton",
+        "authors": [
+            {
+                "id": 37599793000,
+                "preferredName": "Ron O. Dror",
+                "firstName": "Ron O.",
+                "lastName": "Dror"
+            },
+            {
+                "id": 37585891900,
+                "preferredName": "J.P. Grossman",
+                "firstName": "J.P.",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 38577425800,
+                "preferredName": "Kenneth M. Mackenzie",
+                "firstName": "Kenneth M.",
+                "lastName": "Mackenzie"
+            },
+            {
+                "id": 37331426900,
+                "preferredName": "Brian Towles",
+                "firstName": "Brian",
+                "lastName": "Towles"
+            },
+            {
+                "id": 37554538600,
+                "preferredName": "Edmond Chow",
+                "firstName": "Edmond",
+                "lastName": "Chow"
+            },
+            {
+                "id": 37588990400,
+                "preferredName": "John K. Salmon",
+                "firstName": "John K.",
+                "lastName": "Salmon"
+            },
+            {
+                "id": 37592001800,
+                "preferredName": "Cliff Young",
+                "firstName": "Cliff",
+                "lastName": "Young"
+            },
+            {
+                "id": 37602297900,
+                "preferredName": "Joseph A. Bank",
+                "firstName": "Joseph A.",
+                "lastName": "Bank"
+            },
+            {
+                "id": 37599524600,
+                "preferredName": "Brannon Batson",
+                "firstName": "Brannon",
+                "lastName": "Batson"
+            },
+            {
+                "id": 37599510800,
+                "preferredName": "Martin M. Deneroff",
+                "firstName": "Martin M.",
+                "lastName": "Deneroff"
+            },
+            {
+                "id": 38576798300,
+                "preferredName": "Jeffrey S. Kuskin",
+                "firstName": "Jeffrey S.",
+                "lastName": "Kuskin"
+            },
+            {
+                "id": 37604762200,
+                "preferredName": "Richard H. Larson",
+                "firstName": "Richard H.",
+                "lastName": "Larson"
+            },
+            {
+                "id": 37587730600,
+                "preferredName": "Mark A. Moraes",
+                "firstName": "Mark A.",
+                "lastName": "Moraes"
+            },
+            {
+                "id": 37400628000,
+                "preferredName": "David E. Shaw",
+                "firstName": "David E.",
+                "lastName": "Shaw"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.19",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644891",
+        "articleTitle": "Diagnosis, Tuning, and Redesign for Multicore Performance: A Case Study of the Fast Multipole Method",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Diagnosis, Tuning, and Redesign for Multicore Performance: A Case Study of the Fast Multipole Method",
+        "authors": [
+            {
+                "id": 37087896027,
+                "preferredName": "Aparna Chandramowlishwarany",
+                "firstName": "Aparna",
+                "lastName": "Chandramowlishwarany"
+            },
+            {
+                "id": 37268662700,
+                "preferredName": "Kamesh Madduri",
+                "firstName": "Kamesh",
+                "lastName": "Madduri"
+            },
+            {
+                "id": 37281842800,
+                "preferredName": "Richard Vuduc",
+                "firstName": "Richard",
+                "lastName": "Vuduc"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.20",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644902",
+        "articleTitle": "Direct Numerical Simulation of Particulate Flows on 294912 Processor Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Direct Numerical Simulation of Particulate Flows on 294912 Processor Cores",
+        "authors": [
+            {
+                "id": 38243157700,
+                "preferredName": "Jan G\u00f6tz",
+                "firstName": "Jan",
+                "lastName": "G\u00f6tz"
+            },
+            {
+                "id": 37590965500,
+                "preferredName": "Klaus Iglberger",
+                "firstName": "Klaus",
+                "lastName": "Iglberger"
+            },
+            {
+                "id": 37595771800,
+                "preferredName": "Markus St\u00fcrmer",
+                "firstName": "Markus",
+                "lastName": "St\u00fcrmer"
+            },
+            {
+                "id": 37321180500,
+                "preferredName": "Ulrich R\u00fcde",
+                "firstName": "Ulrich",
+                "lastName": "R\u00fcde"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.10",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644878",
+        "articleTitle": "An Adaptive Framework for Simulation and Online Remote Visualization of Critical Climate Applications in Resource-constrained Environments",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "An Adaptive Framework for Simulation and Online Remote Visualization of Critical Climate Applications in Resource-constrained Environments",
+        "authors": [
+            {
+                "id": 37591275300,
+                "preferredName": "Preeti Malakar",
+                "firstName": "Preeti",
+                "lastName": "Malakar"
+            },
+            {
+                "id": 37278509300,
+                "preferredName": "Vijay Natarajan",
+                "firstName": "Vijay",
+                "lastName": "Natarajan"
+            },
+            {
+                "id": 37329350900,
+                "preferredName": "Sathish S. Vadhiyar",
+                "firstName": "Sathish S.",
+                "lastName": "Vadhiyar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.37",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644896",
+        "articleTitle": "Optimal Utilization of Heterogeneous Resources for Biomolecular Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Optimal Utilization of Heterogeneous Resources for Biomolecular Simulations",
+        "authors": [
+            {
+                "id": 37547459400,
+                "preferredName": "Scott S. Hampton",
+                "firstName": "Scott S.",
+                "lastName": "Hampton"
+            },
+            {
+                "id": 37285489600,
+                "preferredName": "Sadaf R. Alam",
+                "firstName": "Sadaf R.",
+                "lastName": "Alam"
+            },
+            {
+                "id": 37299633700,
+                "preferredName": "Paul S. Crozier",
+                "firstName": "Paul S.",
+                "lastName": "Crozier"
+            },
+            {
+                "id": 37289633700,
+                "preferredName": "Pratul K. Agarwal",
+                "firstName": "Pratul K.",
+                "lastName": "Agarwal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.5",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645462",
+        "articleTitle": "A Multi-Scale Heart Simulation on Massively Parallel Computers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Multi-Scale Heart Simulation on Massively Parallel Computers",
+        "authors": [
+            {
+                "id": 37601420500,
+                "preferredName": "Akira Hosoi",
+                "firstName": "Akira",
+                "lastName": "Hosoi"
+            },
+            {
+                "id": 37588272800,
+                "preferredName": "Takumi Washio",
+                "firstName": "Takumi",
+                "lastName": "Washio"
+            },
+            {
+                "id": 37603938900,
+                "preferredName": "Jun-ichi Okada",
+                "firstName": "Jun-ichi",
+                "lastName": "Okada"
+            },
+            {
+                "id": 37563563000,
+                "preferredName": "Yoshimasa Kadooka",
+                "firstName": "Yoshimasa",
+                "lastName": "Kadooka"
+            },
+            {
+                "id": 37278275100,
+                "preferredName": "Kengo Nakajima",
+                "firstName": "Kengo",
+                "lastName": "Nakajima"
+            },
+            {
+                "id": 37280807400,
+                "preferredName": "Toshiaki Hisada",
+                "firstName": "Toshiaki",
+                "lastName": "Hisada"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.3",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644881",
+        "articleTitle": "A Block-Oriented Language and Runtime System for Tensor Algebra with Very Large Arrays",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Block-Oriented Language and Runtime System for Tensor Algebra with Very Large Arrays",
+        "authors": [
+            {
+                "id": 37334581800,
+                "preferredName": "Beverly A. Sanders",
+                "firstName": "Beverly A.",
+                "lastName": "Sanders"
+            },
+            {
+                "id": 37605006000,
+                "preferredName": "Rod Bartlett",
+                "firstName": "Rod",
+                "lastName": "Bartlett"
+            },
+            {
+                "id": 37591335500,
+                "preferredName": "Erik Deumens",
+                "firstName": "Erik",
+                "lastName": "Deumens"
+            },
+            {
+                "id": 37591333300,
+                "preferredName": "Victor Lotrich",
+                "firstName": "Victor",
+                "lastName": "Lotrich"
+            },
+            {
+                "id": 37595722000,
+                "preferredName": "Mark Ponton",
+                "firstName": "Mark",
+                "lastName": "Ponton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.39",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645554",
+        "articleTitle": "Parallel Fast Gauss Transform",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Parallel Fast Gauss Transform",
+        "authors": [
+            {
+                "id": 38574208200,
+                "preferredName": "Rahul S. Sampath",
+                "firstName": "Rahul S.",
+                "lastName": "Sampath"
+            },
+            {
+                "id": 37547932200,
+                "preferredName": "Hari Sundar",
+                "firstName": "Hari",
+                "lastName": "Sundar"
+            },
+            {
+                "id": 37089884517,
+                "preferredName": "Shravan K. Veerapaneni",
+                "firstName": "Shravan K.",
+                "lastName": "Veerapaneni"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.35",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5645459",
+        "articleTitle": "On-Chip Network Evaluation Framework",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "On-Chip Network Evaluation Framework",
+        "authors": [
+            {
+                "id": 38185781200,
+                "preferredName": "Hanjoon Kim",
+                "firstName": "Hanjoon",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37594055000,
+                "preferredName": "Seulki Heo",
+                "firstName": "Seulki",
+                "lastName": "Heo"
+            },
+            {
+                "id": 37089395207,
+                "preferredName": "Junghoon Lee",
+                "firstName": "Junghoon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38182003000,
+                "preferredName": "Jaehyuk Huh",
+                "firstName": "Jaehyuk",
+                "lastName": "Huh"
+            },
+            {
+                "id": 37311384600,
+                "preferredName": "John Kim",
+                "firstName": "John",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.31",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644888",
+        "articleTitle": "JAWS: Job-Aware Workload Scheduling for the Exploration of Turbulence Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "JAWS: Job-Aware Workload Scheduling for the Exploration of Turbulence Simulations",
+        "authors": [
+            {
+                "id": 37601033800,
+                "preferredName": "Xiaodan Wang",
+                "firstName": "Xiaodan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37591319600,
+                "preferredName": "Eric Perlman",
+                "firstName": "Eric",
+                "lastName": "Perlman"
+            },
+            {
+                "id": 37276510400,
+                "preferredName": "Randal Burns",
+                "firstName": "Randal",
+                "lastName": "Burns"
+            },
+            {
+                "id": 37426624800,
+                "preferredName": "Tanu Malik",
+                "firstName": "Tanu",
+                "lastName": "Malik"
+            },
+            {
+                "id": 37591317700,
+                "preferredName": "Tamas Budav\u00e1ri",
+                "firstName": "Tamas",
+                "lastName": "Budav\u00e1ri"
+            },
+            {
+                "id": 37591319300,
+                "preferredName": "Charles Meneveau",
+                "firstName": "Charles",
+                "lastName": "Meneveau"
+            },
+            {
+                "id": 37294404700,
+                "preferredName": "Alexander Szalay",
+                "firstName": "Alexander",
+                "lastName": "Szalay"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.29",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644892",
+        "articleTitle": "Hierarchical Diagonal Blocking and Precision Reduction Applied to Combinatorial Multigrid",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Hierarchical Diagonal Blocking and Precision Reduction Applied to Combinatorial Multigrid",
+        "authors": [
+            {
+                "id": 37378460400,
+                "preferredName": "Guy E. Blelloch",
+                "firstName": "Guy E.",
+                "lastName": "Blelloch"
+            },
+            {
+                "id": 37591307500,
+                "preferredName": "Ioannis Koutis",
+                "firstName": "Ioannis",
+                "lastName": "Koutis"
+            },
+            {
+                "id": 37420770400,
+                "preferredName": "Gary L. Miller",
+                "firstName": "Gary L.",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37396778500,
+                "preferredName": "Kanat Tangwongsan",
+                "firstName": "Kanat",
+                "lastName": "Tangwongsan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.6",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644901",
+        "articleTitle": "A Parallel Implementation of Electron-Phonon Scattering in Nanoelectronic Devices up to 95k Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Parallel Implementation of Electron-Phonon Scattering in Nanoelectronic Devices up to 95k Cores",
+        "authors": [
+            {
+                "id": 37293931300,
+                "preferredName": "Mathieu Luisier",
+                "firstName": "Mathieu",
+                "lastName": "Luisier"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.55",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644911",
+        "articleTitle": "Toward First Principles Electronic Structure Simulations of Excited States and Strong Correlations in Nano- and Materials Science",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Toward First Principles Electronic Structure Simulations of Excited States and Strong Correlations in Nano- and Materials Science",
+        "authors": [
+            {
+                "id": 37587753800,
+                "preferredName": "Anton Kozhevnikov",
+                "firstName": "Anton",
+                "lastName": "Kozhevnikov"
+            },
+            {
+                "id": 37087842708,
+                "preferredName": "Adolfo G. Eguiluz",
+                "firstName": "Adolfo G.",
+                "lastName": "Eguiluz"
+            },
+            {
+                "id": 37266438300,
+                "preferredName": "Thomas C. Schulthess",
+                "firstName": "Thomas C.",
+                "lastName": "Schulthess"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.11",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644889",
+        "articleTitle": "Automatic Run-time Parallelization and Transformation of I/O",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Automatic Run-time Parallelization and Transformation of I/O",
+        "authors": [
+            {
+                "id": 37590908000,
+                "preferredName": "Thorvald Natvig",
+                "firstName": "Thorvald",
+                "lastName": "Natvig"
+            },
+            {
+                "id": 37576021100,
+                "preferredName": "Anne C. Elster",
+                "firstName": "Anne C.",
+                "lastName": "Elster"
+            },
+            {
+                "id": 37399763300,
+                "preferredName": "Jan Christian Meyer",
+                "firstName": "Jan Christian",
+                "lastName": "Meyer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.52",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644876",
+        "articleTitle": "Strider: Runtime Support for Optimizing Strided Data Accesses on Multi-Cores with Explicitly Managed Memories",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Strider: Runtime Support for Optimizing Strided Data Accesses on Multi-Cores with Explicitly Managed Memories",
+        "authors": [
+            {
+                "id": 38468486600,
+                "preferredName": "Jae-Seung Yeom",
+                "firstName": "Jae-Seung",
+                "lastName": "Yeom"
+            },
+            {
+                "id": 37281854800,
+                "preferredName": "Dimitrios S. Nikolopoulos",
+                "firstName": "Dimitrios S.",
+                "lastName": "Nikolopoulos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644813",
+        "doi": "10.1109/SC.2010.24",
+        "publicationYear": "2010",
+        "publicationDate": "13-19 Nov. 2010",
+        "articleNumber": "5644893",
+        "articleTitle": "Exploring a Novel Gathering Method for Finite Element Codes on the Cell/B.E. Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '10: Proceedings of the 2010 ACM/IEEE International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Exploring a Novel Gathering Method for Finite Element Codes on the Cell/B.E. Architecture",
+        "authors": [
+            {
+                "id": 37078595400,
+                "preferredName": "Mohammad Jowkar",
+                "firstName": "Mohammad",
+                "lastName": "Jowkar"
+            },
+            {
+                "id": 38272292100,
+                "preferredName": "Ra\u00fal de la Cruz",
+                "firstName": "Ra\u00fal",
+                "lastName": "de la Cruz"
+            },
+            {
+                "id": 38347789200,
+                "preferredName": "Jos\u00e9 M. Cela",
+                "firstName": "Jos\u00e9 M.",
+                "lastName": "Cela"
+            }
+        ]
+    }
+]

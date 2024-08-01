@@ -1,0 +1,3703 @@
+[
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771550",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771550",
+        "articleTitle": "Analog Weights in ReRAM DNN Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "267",
+        "endPage": "271",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Analog Weights in ReRAM DNN Accelerators",
+        "authors": [
+            {
+                "id": 37085814242,
+                "preferredName": "Jason K. Eshraghian",
+                "firstName": "Jason K.",
+                "lastName": "Eshraghian"
+            },
+            {
+                "id": 37087600592,
+                "preferredName": "Sung-Mo Kang",
+                "firstName": "Sung-Mo",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37085818623,
+                "preferredName": "Seungbum Baek",
+                "firstName": "Seungbum",
+                "lastName": "Baek"
+            },
+            {
+                "id": 37312579800,
+                "preferredName": "Garrick Orchard",
+                "firstName": "Garrick",
+                "lastName": "Orchard"
+            },
+            {
+                "id": 37278163000,
+                "preferredName": "Herbert Ho-Ching Iu",
+                "firstName": "Herbert Ho-Ching",
+                "lastName": "Iu"
+            },
+            {
+                "id": 37085447555,
+                "preferredName": "Wen Lei",
+                "firstName": "Wen",
+                "lastName": "Lei"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771544",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771544",
+        "articleTitle": "Outstanding Bit Error Tolerance of Resistive RAM-Based Binarized Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "288",
+        "endPage": "292",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Outstanding Bit Error Tolerance of Resistive RAM-Based Binarized Neural Networks",
+        "authors": [
+            {
+                "id": 37086154486,
+                "preferredName": "T. Hirtzlin",
+                "firstName": "T.",
+                "lastName": "Hirtzlin"
+            },
+            {
+                "id": 37294592400,
+                "preferredName": "M. Bocquet",
+                "firstName": "M.",
+                "lastName": "Bocquet"
+            },
+            {
+                "id": 37276514100,
+                "preferredName": "J.-O. Klein",
+                "firstName": "J.-O.",
+                "lastName": "Klein"
+            },
+            {
+                "id": 37085784799,
+                "preferredName": "E. Nowak",
+                "firstName": "E.",
+                "lastName": "Nowak"
+            },
+            {
+                "id": 37296942800,
+                "preferredName": "E. Vianello",
+                "firstName": "E.",
+                "lastName": "Vianello"
+            },
+            {
+                "id": 37265513200,
+                "preferredName": "J.-M. Portal",
+                "firstName": "J.-M.",
+                "lastName": "Portal"
+            },
+            {
+                "id": 37294060900,
+                "preferredName": "D. Querlioz",
+                "firstName": "D.",
+                "lastName": "Querlioz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771481",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771481",
+        "articleTitle": "Sub-Word Parallel Precision-Scalable MAC Engines for Efficient Embedded DNN Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Sub-Word Parallel Precision-Scalable MAC Engines for Efficient Embedded DNN Inference",
+        "authors": [
+            {
+                "id": 37086921092,
+                "preferredName": "Linyan Mei",
+                "firstName": "Linyan",
+                "lastName": "Mei"
+            },
+            {
+                "id": 37086918865,
+                "preferredName": "Mohit Dandekar",
+                "firstName": "Mohit",
+                "lastName": "Dandekar"
+            },
+            {
+                "id": 38075713500,
+                "preferredName": "Dimitrios Rodopoulos",
+                "firstName": "Dimitrios",
+                "lastName": "Rodopoulos"
+            },
+            {
+                "id": 38232584000,
+                "preferredName": "Jeremy Constantin",
+                "firstName": "Jeremy",
+                "lastName": "Constantin"
+            },
+            {
+                "id": 37564865900,
+                "preferredName": "Peter Debacker",
+                "firstName": "Peter",
+                "lastName": "Debacker"
+            },
+            {
+                "id": 37266921700,
+                "preferredName": "Rudy Lauwereins",
+                "firstName": "Rudy",
+                "lastName": "Lauwereins"
+            },
+            {
+                "id": 37267304800,
+                "preferredName": "Marian Verhelst",
+                "firstName": "Marian",
+                "lastName": "Verhelst"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771610",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771610",
+        "articleTitle": "Survey of Precision-Scalable Multiply-Accumulate Units for Neural-Network Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Survey of Precision-Scalable Multiply-Accumulate Units for Neural-Network Processing",
+        "authors": [
+            {
+                "id": 37085411128,
+                "preferredName": "Vincent Camus",
+                "firstName": "Vincent",
+                "lastName": "Camus"
+            },
+            {
+                "id": 37269686200,
+                "preferredName": "Christian Enz",
+                "firstName": "Christian",
+                "lastName": "Enz"
+            },
+            {
+                "id": 37267304800,
+                "preferredName": "Marian Verhelst",
+                "firstName": "Marian",
+                "lastName": "Verhelst"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771630",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771630",
+        "articleTitle": "Artificial Intelligence of Things Wearable System for Cardiac Disease Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "67",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Artificial Intelligence of Things Wearable System for Cardiac Disease Detection",
+        "authors": [
+            {
+                "id": 37086013106,
+                "preferredName": "Yu-Jin Lin",
+                "firstName": "Yu-Jin",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086498781,
+                "preferredName": "Chen-Wei Chuang",
+                "firstName": "Chen-Wei",
+                "lastName": "Chuang"
+            },
+            {
+                "id": 37086497357,
+                "preferredName": "Chun-Yueh Yen",
+                "firstName": "Chun-Yueh",
+                "lastName": "Yen"
+            },
+            {
+                "id": 37086499846,
+                "preferredName": "Sheng-Hsin Huang",
+                "firstName": "Sheng-Hsin",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085607654,
+                "preferredName": "Peng-Wei Huang",
+                "firstName": "Peng-Wei",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086530847,
+                "preferredName": "Ju-Yi Chen",
+                "firstName": "Ju-Yi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37293419600,
+                "preferredName": "Shuenn-Yuh Lee",
+                "firstName": "Shuenn-Yuh",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771581",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771581",
+        "articleTitle": "Design of Intelligent EEG System for Human Emotion Recognition with Convolutional Neural Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "142",
+        "endPage": "145",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Design of Intelligent EEG System for Human Emotion Recognition with Convolutional Neural Network",
+        "authors": [
+            {
+                "id": 37086578917,
+                "preferredName": "Kai-Yen Wang",
+                "firstName": "Kai-Yen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086575202,
+                "preferredName": "Yun-Lung Ho",
+                "firstName": "Yun-Lung",
+                "lastName": "Ho"
+            },
+            {
+                "id": 37086575335,
+                "preferredName": "Yu-De Huang",
+                "firstName": "Yu-De",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37274389600,
+                "preferredName": "Wai-Chi Fang",
+                "firstName": "Wai-Chi",
+                "lastName": "Fang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771624",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771624",
+        "articleTitle": "Conversion of Synchronous Artificial Neural Network to Asynchronous Spiking Neural Network using sigma-delta quantization",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "85",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Conversion of Synchronous Artificial Neural Network to Asynchronous Spiking Neural Network using sigma-delta quantization",
+        "authors": [
+            {
+                "id": 37085764183,
+                "preferredName": "Amirreza Yousefzadeh",
+                "firstName": "Amirreza",
+                "lastName": "Yousefzadeh"
+            },
+            {
+                "id": 37086918766,
+                "preferredName": "Sahar Hosseini",
+                "firstName": "Sahar",
+                "lastName": "Hosseini"
+            },
+            {
+                "id": 37086012955,
+                "preferredName": "Priscila Holanda",
+                "firstName": "Priscila",
+                "lastName": "Holanda"
+            },
+            {
+                "id": 37085657642,
+                "preferredName": "Sam Leroux",
+                "firstName": "Sam",
+                "lastName": "Leroux"
+            },
+            {
+                "id": 37085865953,
+                "preferredName": "Thilo Werner",
+                "firstName": "Thilo",
+                "lastName": "Werner"
+            },
+            {
+                "id": 38275047600,
+                "preferredName": "Teresa Serrano-Gotarredona",
+                "firstName": "Teresa",
+                "lastName": "Serrano-Gotarredona"
+            },
+            {
+                "id": 37086921081,
+                "preferredName": "Bernabe Linares Barranco",
+                "firstName": "Bernabe Linares",
+                "lastName": "Barranco"
+            },
+            {
+                "id": 37279070000,
+                "preferredName": "Bart Dhoedt",
+                "firstName": "Bart",
+                "lastName": "Dhoedt"
+            },
+            {
+                "id": 37605392800,
+                "preferredName": "Pieter Simoens",
+                "firstName": "Pieter",
+                "lastName": "Simoens"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771517",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771517",
+        "articleTitle": "Fast Detection of Objects Using a YOLOv3 Network for a Vending Machine",
+        "volume": null,
+        "issue": null,
+        "startPage": "132",
+        "endPage": "136",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Fast Detection of Objects Using a YOLOv3 Network for a Vending Machine",
+        "authors": [
+            {
+                "id": 37086920710,
+                "preferredName": "Youhak Lee",
+                "firstName": "Youhak",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37085784191,
+                "preferredName": "Chulhee Lee",
+                "firstName": "Chulhee",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37280120400,
+                "preferredName": "Hyuk-Jae Lee",
+                "firstName": "Hyuk-Jae",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38240999800,
+                "preferredName": "Jin-Sung Kim",
+                "firstName": "Jin-Sung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771559",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771559",
+        "articleTitle": "A Deep Learning Based Wearable Medicines Recognition System for Visually Impaired People",
+        "volume": null,
+        "issue": null,
+        "startPage": "207",
+        "endPage": "208",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "A Deep Learning Based Wearable Medicines Recognition System for Visually Impaired People",
+        "authors": [
+            {
+                "id": 37085385685,
+                "preferredName": "Wan-Jung Chang",
+                "firstName": "Wan-Jung",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37086918420,
+                "preferredName": "Yue-Xun Yu",
+                "firstName": "Yue-Xun",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37086923110,
+                "preferredName": "Jhen-Hao Chen",
+                "firstName": "Jhen-Hao",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086920517,
+                "preferredName": "Zhi-Yao Zhang",
+                "firstName": "Zhi-Yao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086922637,
+                "preferredName": "Sung-Jie Ko",
+                "firstName": "Sung-Jie",
+                "lastName": "Ko"
+            },
+            {
+                "id": 37089547497,
+                "preferredName": "Tsung-Han Yang",
+                "firstName": "Tsung-Han",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086551895,
+                "preferredName": "Chia-Hao Hsu",
+                "firstName": "Chia-Hao",
+                "lastName": "Hsu"
+            },
+            {
+                "id": 37086046066,
+                "preferredName": "Liang-Bi Chen",
+                "firstName": "Liang-Bi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085381666,
+                "preferredName": "Ming-Che Chen",
+                "firstName": "Ming-Che",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771615",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771615",
+        "articleTitle": "Multi-task ADAS system on FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "171",
+        "endPage": "174",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Multi-task ADAS system on FPGA",
+        "authors": [
+            {
+                "id": 37086285685,
+                "preferredName": "Jinzhang Peng",
+                "firstName": "Jinzhang",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37086863174,
+                "preferredName": "Lu Tian",
+                "firstName": "Lu",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37089404935,
+                "preferredName": "Xijie Jia",
+                "firstName": "Xijie",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37086922744,
+                "preferredName": "Haotian Guo",
+                "firstName": "Haotian",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37086922769,
+                "preferredName": "Yongsheng Xu",
+                "firstName": "Yongsheng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37086611231,
+                "preferredName": "Dongliang Xie",
+                "firstName": "Dongliang",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37089734872,
+                "preferredName": "Hong Luo",
+                "firstName": "Hong",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37085710681,
+                "preferredName": "Yi Shan",
+                "firstName": "Yi",
+                "lastName": "Shan"
+            },
+            {
+                "id": 37293645500,
+                "preferredName": "Yu Wang",
+                "firstName": "Yu",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771604",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771604",
+        "articleTitle": "AI-Based Edge-Intelligent Hypoglycemia Prediction System Using Alternate Learning and Inference Method for Blood Glucose Level Data with Low-periodicity",
+        "volume": null,
+        "issue": null,
+        "startPage": "201",
+        "endPage": "206",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "AI-Based Edge-Intelligent Hypoglycemia Prediction System Using Alternate Learning and Inference Method for Blood Glucose Level Data with Low-periodicity",
+        "authors": [
+            {
+                "id": 37085391211,
+                "preferredName": "Tran Minh Quan",
+                "firstName": "Tran Minh",
+                "lastName": "Quan"
+            },
+            {
+                "id": 37086553685,
+                "preferredName": "Takuyoshi Doike",
+                "firstName": "Takuyoshi",
+                "lastName": "Doike"
+            },
+            {
+                "id": 37086577151,
+                "preferredName": "Dang Cong Bui",
+                "firstName": "Dang Cong",
+                "lastName": "Bui"
+            },
+            {
+                "id": 37086378887,
+                "preferredName": "Kenya hayashi",
+                "firstName": "Kenya",
+                "lastName": "hayashi"
+            },
+            {
+                "id": 37086460823,
+                "preferredName": "Shigeki Arata",
+                "firstName": "Shigeki",
+                "lastName": "Arata"
+            },
+            {
+                "id": 37085691164,
+                "preferredName": "Atsuki Kobayashi",
+                "firstName": "Atsuki",
+                "lastName": "Kobayashi"
+            },
+            {
+                "id": 37086918528,
+                "preferredName": "Md. Zahidul Islam",
+                "firstName": "Md. Zahidul",
+                "lastName": "Islam"
+            },
+            {
+                "id": 37393074800,
+                "preferredName": "Kiichi Niitsu",
+                "firstName": "Kiichi",
+                "lastName": "Niitsu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771593",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771593",
+        "articleTitle": "Sparse Autoencoder with Attention Mechanism for Speech Emotion Recognition",
+        "volume": null,
+        "issue": null,
+        "startPage": "146",
+        "endPage": "149",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Sparse Autoencoder with Attention Mechanism for Speech Emotion Recognition",
+        "authors": [
+            {
+                "id": 37086921013,
+                "preferredName": "Ting-Wei Sun",
+                "firstName": "Ting-Wei",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37271932500,
+                "preferredName": "An-Yeu Andy Wu",
+                "firstName": "An-Yeu Andy",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771529",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771529",
+        "articleTitle": "Epilepsy Identification System with Neural Network Hardware Implementation",
+        "volume": null,
+        "issue": null,
+        "startPage": "163",
+        "endPage": "166",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Epilepsy Identification System with Neural Network Hardware Implementation",
+        "authors": [
+            {
+                "id": 37085608014,
+                "preferredName": "Chieh Tsou",
+                "firstName": "Chieh",
+                "lastName": "Tsou"
+            },
+            {
+                "id": 37086698122,
+                "preferredName": "Chi-Chung Liao",
+                "firstName": "Chi-Chung",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37293419600,
+                "preferredName": "Shuenn-Yuh Lee",
+                "firstName": "Shuenn-Yuh",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771612",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771612",
+        "articleTitle": "Age Estimation on Low Quality Face Images",
+        "volume": null,
+        "issue": null,
+        "startPage": "295",
+        "endPage": "296",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Age Estimation on Low Quality Face Images",
+        "authors": [
+            {
+                "id": 37085642439,
+                "preferredName": "Kuan-Hsien Liu",
+                "firstName": "Kuan-Hsien",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37405283800,
+                "preferredName": "Hsin-Hua Liu",
+                "firstName": "Hsin-Hua",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37271112500,
+                "preferredName": "Soo-Chang Pei",
+                "firstName": "Soo-Chang",
+                "lastName": "Pei"
+            },
+            {
+                "id": 37085692843,
+                "preferredName": "Tsung-Jung Liu",
+                "firstName": "Tsung-Jung",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086922517,
+                "preferredName": "Chun-Te Chang",
+                "firstName": "Chun-Te",
+                "lastName": "Chang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771586",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771586",
+        "articleTitle": "Complexity Reduction on HEVC Intra Mode Decision with modified LeNet-5",
+        "volume": null,
+        "issue": null,
+        "startPage": "20",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Complexity Reduction on HEVC Intra Mode Decision with modified LeNet-5",
+        "authors": [
+            {
+                "id": 37086217216,
+                "preferredName": "Hai-Che Ting",
+                "firstName": "Hai-Che",
+                "lastName": "Ting"
+            },
+            {
+                "id": 37086916900,
+                "preferredName": "Hung-Luen Fang",
+                "firstName": "Hung-Luen",
+                "lastName": "Fang"
+            },
+            {
+                "id": 37292921100,
+                "preferredName": "Jia-Shung Wang",
+                "firstName": "Jia-Shung",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771617",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771617",
+        "articleTitle": "CNNP-v2:An Energy Efficient Memory-Centric Convolutional Neural Network Processor Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "38",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "CNNP-v2:An Energy Efficient Memory-Centric Convolutional Neural Network Processor Architecture",
+        "authors": [
+            {
+                "id": 37085345650,
+                "preferredName": "Sungpill Choi",
+                "firstName": "Sungpill",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37085520085,
+                "preferredName": "Kyeongryeol Bong",
+                "firstName": "Kyeongryeol",
+                "lastName": "Bong"
+            },
+            {
+                "id": 37086285021,
+                "preferredName": "Donghyeon Han",
+                "firstName": "Donghyeon",
+                "lastName": "Han"
+            },
+            {
+                "id": 37274307200,
+                "preferredName": "Hoi-Jun Yoo",
+                "firstName": "Hoi-Jun",
+                "lastName": "Yoo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771513",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771513",
+        "articleTitle": "On-chip Learning of Multilayer Perceptron Based on Memristors with Limited Multilevel States",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "On-chip Learning of Multilayer Perceptron Based on Memristors with Limited Multilevel States",
+        "authors": [
+            {
+                "id": 37087114583,
+                "preferredName": "Yuhang Zhang",
+                "firstName": "Yuhang",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37391441500,
+                "preferredName": "Guanghui He",
+                "firstName": "Guanghui",
+                "lastName": "He"
+            },
+            {
+                "id": 37290163100,
+                "preferredName": "Kea-Tiong Tang",
+                "firstName": "Kea-Tiong",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37278826800,
+                "preferredName": "Guoxing Wang",
+                "firstName": "Guoxing",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771609",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771609",
+        "articleTitle": "Using A Cropping Technique or Not: Impacts on SVM-based AMD Detection on OCT Images",
+        "volume": null,
+        "issue": null,
+        "startPage": "199",
+        "endPage": "200",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Using A Cropping Technique or Not: Impacts on SVM-based AMD Detection on OCT Images",
+        "authors": [
+            {
+                "id": 37086917912,
+                "preferredName": "Cheng-En Ko",
+                "firstName": "Cheng-En",
+                "lastName": "Ko"
+            },
+            {
+                "id": 37086917848,
+                "preferredName": "Po-Han Chen",
+                "firstName": "Po-Han",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086922952,
+                "preferredName": "Wei-Ming Liao",
+                "firstName": "Wei-Ming",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37086324084,
+                "preferredName": "Cheng-Kai Lu",
+                "firstName": "Cheng-Kai",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37278412000,
+                "preferredName": "Cheng-Hung Lin",
+                "firstName": "Cheng-Hung",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086923035,
+                "preferredName": "Jing-Wen Liang",
+                "firstName": "Jing-Wen",
+                "lastName": "Liang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771616",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771616",
+        "articleTitle": "A Customized Convolutional Neural Network Design Using Improved Softmax Layer for Real-time Human Emotion Recognition",
+        "volume": null,
+        "issue": null,
+        "startPage": "102",
+        "endPage": "106",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "A Customized Convolutional Neural Network Design Using Improved Softmax Layer for Real-time Human Emotion Recognition",
+        "authors": [
+            {
+                "id": 37086578917,
+                "preferredName": "Kai-Yen Wang",
+                "firstName": "Kai-Yen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086575335,
+                "preferredName": "Yu-De Huang",
+                "firstName": "Yu-De",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086575202,
+                "preferredName": "Yun-Lung Ho",
+                "firstName": "Yun-Lung",
+                "lastName": "Ho"
+            },
+            {
+                "id": 37274389600,
+                "preferredName": "Wai-Chi Fang",
+                "firstName": "Wai-Chi",
+                "lastName": "Fang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771603",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771603",
+        "articleTitle": "Function-Safe Vehicular AI Processor with Nano Core-In-Memory Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "127",
+        "endPage": "131",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Function-Safe Vehicular AI Processor with Nano Core-In-Memory Architecture",
+        "authors": [
+            {
+                "id": 37069073800,
+                "preferredName": "Youngsu Kwon",
+                "firstName": "Youngsu",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 37088731876,
+                "preferredName": "Jeongmin Yang",
+                "firstName": "Jeongmin",
+                "lastName": "Yang"
+            },
+            {
+                "id": 38238576100,
+                "preferredName": "Yongcheol Peter Cho",
+                "firstName": "Yongcheol Peter",
+                "lastName": "Cho"
+            },
+            {
+                "id": 37088728964,
+                "preferredName": "Kyoung-Seon Shin",
+                "firstName": "Kyoung-Seon",
+                "lastName": "Shin"
+            },
+            {
+                "id": 37088744490,
+                "preferredName": "Jaehoon Chung",
+                "firstName": "Jaehoon",
+                "lastName": "Chung"
+            },
+            {
+                "id": 38247556200,
+                "preferredName": "Jinho Han",
+                "firstName": "Jinho",
+                "lastName": "Han"
+            },
+            {
+                "id": 37266987700,
+                "preferredName": "Chun-Gi Lyuh",
+                "firstName": "Chun-Gi",
+                "lastName": "Lyuh"
+            },
+            {
+                "id": 37085351588,
+                "preferredName": "Hyun-Mi Kim",
+                "firstName": "Hyun-Mi",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086262913,
+                "preferredName": "Chan Kim",
+                "firstName": "Chan",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088732063,
+                "preferredName": "Min-Seok Choi",
+                "firstName": "Min-Seok",
+                "lastName": "Choi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771613",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771613",
+        "articleTitle": "Deep Multi-Scale Residual Learning-based Blocking Artifacts Reduction for Compressed Images",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "19",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Deep Multi-Scale Residual Learning-based Blocking Artifacts Reduction for Compressed Images",
+        "authors": [
+            {
+                "id": 37086007646,
+                "preferredName": "Min-Hui Lin",
+                "firstName": "Min-Hui",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37401925700,
+                "preferredName": "Chia-Hung Yeh",
+                "firstName": "Chia-Hung",
+                "lastName": "Yeh"
+            },
+            {
+                "id": 37086860130,
+                "preferredName": "Chu-Han Lin",
+                "firstName": "Chu-Han",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086403655,
+                "preferredName": "Chih-Hsiang Huang",
+                "firstName": "Chih-Hsiang",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37275756200,
+                "preferredName": "Li-Wei Kang",
+                "firstName": "Li-Wei",
+                "lastName": "Kang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771562",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771562",
+        "articleTitle": "Extended Bit-Plane Compression for Convolutional Neural Network Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "279",
+        "endPage": "283",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Extended Bit-Plane Compression for Convolutional Neural Network Accelerators",
+        "authors": [
+            {
+                "id": 37085869238,
+                "preferredName": "Lukas Cavigelli",
+                "firstName": "Lukas",
+                "lastName": "Cavigelli"
+            },
+            {
+                "id": 37274443600,
+                "preferredName": "Luca Benini",
+                "firstName": "Luca",
+                "lastName": "Benini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771472",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771472",
+        "articleTitle": "Fast event-driven incremental learning of hand symbols",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Fast event-driven incremental learning of hand symbols",
+        "authors": [
+            {
+                "id": 37086048205,
+                "preferredName": "Iulia Alexandra Lungu",
+                "firstName": "Iulia Alexandra",
+                "lastName": "Lungu"
+            },
+            {
+                "id": 37280142900,
+                "preferredName": "Shih-Chii Liu",
+                "firstName": "Shih-Chii",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37269976700,
+                "preferredName": "Tobi Delbruck",
+                "firstName": "Tobi",
+                "lastName": "Delbruck"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771536",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771536",
+        "articleTitle": "NeuroPilot: A Cross-Platform Framework for Edge-AI",
+        "volume": null,
+        "issue": null,
+        "startPage": "167",
+        "endPage": "170",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "NeuroPilot: A Cross-Platform Framework for Edge-AI",
+        "authors": [
+            {
+                "id": 37276681700,
+                "preferredName": "Tung-Chien Chen",
+                "firstName": "Tung-Chien",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086921230,
+                "preferredName": "Wei-Ting Wang",
+                "firstName": "Wei-Ting",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086917352,
+                "preferredName": "Kloze Kao",
+                "firstName": "Kloze",
+                "lastName": "Kao"
+            },
+            {
+                "id": 37086917608,
+                "preferredName": "Chia-Lin Yu",
+                "firstName": "Chia-Lin",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37086920372,
+                "preferredName": "Code Lin",
+                "firstName": "Code",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086917464,
+                "preferredName": "Shu-Hsin Chang",
+                "firstName": "Shu-Hsin",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37321418400,
+                "preferredName": "Pei-Kuei Tsung",
+                "firstName": "Pei-Kuei",
+                "lastName": "Tsung"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771512",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771512",
+        "articleTitle": "Neuromorphic networks on the SpiNNaker platform",
+        "volume": null,
+        "issue": null,
+        "startPage": "86",
+        "endPage": "91",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Neuromorphic networks on the SpiNNaker platform",
+        "authors": [
+            {
+                "id": 37086427295,
+                "preferredName": "Germain Haessig",
+                "firstName": "Germain",
+                "lastName": "Haessig"
+            },
+            {
+                "id": 37888482700,
+                "preferredName": "Francesco Galluppi",
+                "firstName": "Francesco",
+                "lastName": "Galluppi"
+            },
+            {
+                "id": 37085445917,
+                "preferredName": "Xavier Lagorce",
+                "firstName": "Xavier",
+                "lastName": "Lagorce"
+            },
+            {
+                "id": 38532062400,
+                "preferredName": "Ryad Benosman",
+                "firstName": "Ryad",
+                "lastName": "Benosman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771598",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771598",
+        "articleTitle": "Novel Sleep Apnea Detection Based on UWB Artificial Intelligence Mattress",
+        "volume": null,
+        "issue": null,
+        "startPage": "158",
+        "endPage": "159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Novel Sleep Apnea Detection Based on UWB Artificial Intelligence Mattress",
+        "authors": [
+            {
+                "id": 37292498000,
+                "preferredName": "Chiapin Wang",
+                "firstName": "Chiapin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086922131,
+                "preferredName": "Jen-Hau Chan",
+                "firstName": "Jen-Hau",
+                "lastName": "Chan"
+            },
+            {
+                "id": 37401406900,
+                "preferredName": "Shih-Hau Fang",
+                "firstName": "Shih-Hau",
+                "lastName": "Fang"
+            },
+            {
+                "id": 37086920896,
+                "preferredName": "Ho-Ti Cheng",
+                "firstName": "Ho-Ti",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37416036300,
+                "preferredName": "Yeh-Liang Hsu",
+                "firstName": "Yeh-Liang",
+                "lastName": "Hsu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771475",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771475",
+        "articleTitle": "Elastic Neural Networks for Classification",
+        "volume": null,
+        "issue": null,
+        "startPage": "251",
+        "endPage": "255",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Elastic Neural Networks for Classification",
+        "authors": [
+            {
+                "id": 37089853575,
+                "preferredName": "Yi Zhou",
+                "firstName": "Yi",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37086537879,
+                "preferredName": "Yue Bai",
+                "firstName": "Yue",
+                "lastName": "Bai"
+            },
+            {
+                "id": 37276941700,
+                "preferredName": "Shuvra S. Bhattacharyya",
+                "firstName": "Shuvra S.",
+                "lastName": "Bhattacharyya"
+            },
+            {
+                "id": 38503116300,
+                "preferredName": "Heikki Huttunen",
+                "firstName": "Heikki",
+                "lastName": "Huttunen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771531",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771531",
+        "articleTitle": "Fast Convolution Algorithm for Convolutional Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "258",
+        "endPage": "261",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Fast Convolution Algorithm for Convolutional Neural Networks",
+        "authors": [
+            {
+                "id": 38468331200,
+                "preferredName": "Tae Sun Kim",
+                "firstName": "Tae Sun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086918773,
+                "preferredName": "Jihoon Bae",
+                "firstName": "Jihoon",
+                "lastName": "Bae"
+            },
+            {
+                "id": 37271838300,
+                "preferredName": "Myung Hoon Sunwoo",
+                "firstName": "Myung Hoon",
+                "lastName": "Sunwoo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771632",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771632",
+        "articleTitle": "Machine Learning Based Sleep-Status Discrimination Using a Motion Sensing Mattress",
+        "volume": null,
+        "issue": null,
+        "startPage": "160",
+        "endPage": "162",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Machine Learning Based Sleep-Status Discrimination Using a Motion Sensing Mattress",
+        "authors": [
+            {
+                "id": 37292498000,
+                "preferredName": "Chiapin Wang",
+                "firstName": "Chiapin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086922512,
+                "preferredName": "Tsung-Yi Fan Chiang",
+                "firstName": "Tsung-Yi Fan",
+                "lastName": "Chiang"
+            },
+            {
+                "id": 37401406900,
+                "preferredName": "Shih-Hau Fang",
+                "firstName": "Shih-Hau",
+                "lastName": "Fang"
+            },
+            {
+                "id": 37086919941,
+                "preferredName": "Chieh-Ju Li",
+                "firstName": "Chieh-Ju",
+                "lastName": "Li"
+            },
+            {
+                "id": 37416036300,
+                "preferredName": "Yeh-Liang Hsu",
+                "firstName": "Yeh-Liang",
+                "lastName": "Hsu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771569",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771569",
+        "articleTitle": "Low Precision Electroencephalogram for Seizure Detection with Convolutional Neural Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "299",
+        "endPage": "301",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Low Precision Electroencephalogram for Seizure Detection with Convolutional Neural Network",
+        "authors": [
+            {
+                "id": 37086432937,
+                "preferredName": "Nhan Duy Truong",
+                "firstName": "Nhan Duy",
+                "lastName": "Truong"
+            },
+            {
+                "id": 37398910100,
+                "preferredName": "Omid Kavehei",
+                "firstName": "Omid",
+                "lastName": "Kavehei"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771469",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771469",
+        "articleTitle": "Accelerator Design for Vector Quantized Convolutional Neural Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "50",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Accelerator Design for Vector Quantized Convolutional Neural Network",
+        "authors": [
+            {
+                "id": 37086500264,
+                "preferredName": "Yi-Heng Wu",
+                "firstName": "Yi-Heng",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37086818857,
+                "preferredName": "Heng Lee",
+                "firstName": "Heng",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086178258,
+                "preferredName": "Yu Sheng Lin",
+                "firstName": "Yu Sheng",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37279813300,
+                "preferredName": "Shao-Yi Chien",
+                "firstName": "Shao-Yi",
+                "lastName": "Chien"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771623",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771623",
+        "articleTitle": "Modern Architecture Style Transfer for Ruin Buildings",
+        "volume": null,
+        "issue": null,
+        "startPage": "293",
+        "endPage": "294",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Modern Architecture Style Transfer for Ruin Buildings",
+        "authors": [
+            {
+                "id": 37086881510,
+                "preferredName": "Chia-Ching Wang",
+                "firstName": "Chia-Ching",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37405283800,
+                "preferredName": "Hsin-Hua Liu",
+                "firstName": "Hsin-Hua",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37271112500,
+                "preferredName": "Soo-Chang Pei",
+                "firstName": "Soo-Chang",
+                "lastName": "Pei"
+            },
+            {
+                "id": 37085642439,
+                "preferredName": "Kuan-Hsien Liu",
+                "firstName": "Kuan-Hsien",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085692843,
+                "preferredName": "Tsung-Jung Liu",
+                "firstName": "Tsung-Jung",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771627",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771627",
+        "articleTitle": "Heart Rate Estimation from Ballistocardiogram Using Hilbert Transform and Viterbi Decoding",
+        "volume": null,
+        "issue": null,
+        "startPage": "189",
+        "endPage": "193",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Heart Rate Estimation from Ballistocardiogram Using Hilbert Transform and Viterbi Decoding",
+        "authors": [
+            {
+                "id": 37086155043,
+                "preferredName": "Qingsong Xie",
+                "firstName": "Qingsong",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37676359400,
+                "preferredName": "Yongfu Li",
+                "firstName": "Yongfu",
+                "lastName": "Li"
+            },
+            {
+                "id": 37278826800,
+                "preferredName": "Guoxing Wang",
+                "firstName": "Guoxing",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085343628,
+                "preferredName": "Yong Lian",
+                "firstName": "Yong",
+                "lastName": "Lian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771631",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771631",
+        "articleTitle": "A 2.17mW Acoustic DSP Processor with CNN-FFT Accelerators for Intelligent Hearing Aided Devices",
+        "volume": null,
+        "issue": null,
+        "startPage": "97",
+        "endPage": "101",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "A 2.17mW Acoustic DSP Processor with CNN-FFT Accelerators for Intelligent Hearing Aided Devices",
+        "authors": [
+            {
+                "id": 37085775181,
+                "preferredName": "Yu-Chi Lee",
+                "firstName": "Yu-Chi",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37625418400,
+                "preferredName": "Tai-Shih Chi",
+                "firstName": "Tai-Shih",
+                "lastName": "Chi"
+            },
+            {
+                "id": 38088369000,
+                "preferredName": "Chia-Hsiang Yang",
+                "firstName": "Chia-Hsiang",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771533",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771533",
+        "articleTitle": "DropOut and DropConnect for Reliable Neuromorphic Inference under Energy and Bandwidth Constraints in Network Connectivity",
+        "volume": null,
+        "issue": null,
+        "startPage": "76",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "DropOut and DropConnect for Reliable Neuromorphic Inference under Energy and Bandwidth Constraints in Network Connectivity",
+        "authors": [
+            {
+                "id": 37086918102,
+                "preferredName": "Yasufumi Sakai",
+                "firstName": "Yasufumi",
+                "lastName": "Sakai"
+            },
+            {
+                "id": 37269134100,
+                "preferredName": "Bruno U. Pedroni",
+                "firstName": "Bruno U.",
+                "lastName": "Pedroni"
+            },
+            {
+                "id": 38593214100,
+                "preferredName": "Siddharth Joshi",
+                "firstName": "Siddharth",
+                "lastName": "Joshi"
+            },
+            {
+                "id": 37085480115,
+                "preferredName": "Abraham Akinin",
+                "firstName": "Abraham",
+                "lastName": "Akinin"
+            },
+            {
+                "id": 37270866000,
+                "preferredName": "Gert Cauwenberghs",
+                "firstName": "Gert",
+                "lastName": "Cauwenberghs"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771620",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771620",
+        "articleTitle": "Classification of Cardiac Arrhythmias Based on Artificial Neural Networks and Continuous-in-Time Discrete-in-Amplitude Signal Flow",
+        "volume": null,
+        "issue": null,
+        "startPage": "175",
+        "endPage": "178",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Classification of Cardiac Arrhythmias Based on Artificial Neural Networks and Continuous-in-Time Discrete-in-Amplitude Signal Flow",
+        "authors": [
+            {
+                "id": 37086205745,
+                "preferredName": "Yang Zhao",
+                "firstName": "Yang",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37086922474,
+                "preferredName": "Simon Lin",
+                "firstName": "Simon",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086299335,
+                "preferredName": "Zhongxia Shang",
+                "firstName": "Zhongxia",
+                "lastName": "Shang"
+            },
+            {
+                "id": 37085343628,
+                "preferredName": "Yong Lian",
+                "firstName": "Yong",
+                "lastName": "Lian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771520",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771520",
+        "articleTitle": "Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments",
+        "volume": null,
+        "issue": null,
+        "startPage": "29",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Slasher: Stadium racer car for event camera end-to-end learning autonomous driving experiments",
+        "authors": [
+            {
+                "id": 37086880612,
+                "preferredName": "Yuhuang Hu",
+                "firstName": "Yuhuang",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37086919977,
+                "preferredName": "Hong Ming Chen",
+                "firstName": "Hong Ming",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37269976700,
+                "preferredName": "Tobi Delbruck",
+                "firstName": "Tobi",
+                "lastName": "Delbruck"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771626",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771626",
+        "articleTitle": "SIFT Features and SVM Learning based Sclera Recognition Method with Efficient Sclera Segmentation for Identity Identification",
+        "volume": null,
+        "issue": null,
+        "startPage": "297",
+        "endPage": "298",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "SIFT Features and SVM Learning based Sclera Recognition Method with Efficient Sclera Segmentation for Identity Identification",
+        "authors": [
+            {
+                "id": 37086919106,
+                "preferredName": "Sheng-Yu He",
+                "firstName": "Sheng-Yu",
+                "lastName": "He"
+            },
+            {
+                "id": 37291177500,
+                "preferredName": "Chih-Peng Fan",
+                "firstName": "Chih-Peng",
+                "lastName": "Fan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771492",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771492",
+        "articleTitle": "Multi-level Weight Indexing Scheme for Memory-Reduced Convolutional Neural Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "284",
+        "endPage": "287",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Multi-level Weight Indexing Scheme for Memory-Reduced Convolutional Neural Network",
+        "authors": [
+            {
+                "id": 37086919053,
+                "preferredName": "Jongmin Park",
+                "firstName": "Jongmin",
+                "lastName": "Park"
+            },
+            {
+                "id": 37086603709,
+                "preferredName": "Seungsik Moon",
+                "firstName": "Seungsik",
+                "lastName": "Moon"
+            },
+            {
+                "id": 37086692373,
+                "preferredName": "Younghoon Byun",
+                "firstName": "Younghoon",
+                "lastName": "Byun"
+            },
+            {
+                "id": 37293414300,
+                "preferredName": "Sunggu Lee",
+                "firstName": "Sunggu",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37539806200,
+                "preferredName": "Youngjoo Lee",
+                "firstName": "Youngjoo",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771565",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771565",
+        "articleTitle": "Binarized Neural Network with Stochastic Memristors",
+        "volume": null,
+        "issue": null,
+        "startPage": "274",
+        "endPage": "275",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Binarized Neural Network with Stochastic Memristors",
+        "authors": [
+            {
+                "id": 37085902161,
+                "preferredName": "Olga Krestinskaya",
+                "firstName": "Olga",
+                "lastName": "Krestinskaya"
+            },
+            {
+                "id": 37086918722,
+                "preferredName": "Otaniyoz Otaniyozov",
+                "firstName": "Otaniyoz",
+                "lastName": "Otaniyozov"
+            },
+            {
+                "id": 37391662800,
+                "preferredName": "Alex Pappachen James",
+                "firstName": "Alex Pappachen",
+                "lastName": "James"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771589",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771589",
+        "articleTitle": "A Learnable Unmanned Smart Logistics Prototype System Design and Implementation",
+        "volume": null,
+        "issue": null,
+        "startPage": "221",
+        "endPage": "224",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "A Learnable Unmanned Smart Logistics Prototype System Design and Implementation",
+        "authors": [
+            {
+                "id": 37086921975,
+                "preferredName": "I-Lok Cheng",
+                "firstName": "I-Lok",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37403136800,
+                "preferredName": "Ching-Hwa Cheng",
+                "firstName": "Ching-Hwa",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37402808700,
+                "preferredName": "Don-Gey Liu",
+                "firstName": "Don-Gey",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771556",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771556",
+        "articleTitle": "A Flexible and High-Performance Self-Organizing Feature Map Training Acceleration Circuit and Its Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "92",
+        "endPage": "96",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "A Flexible and High-Performance Self-Organizing Feature Map Training Acceleration Circuit and Its Applications",
+        "authors": [
+            {
+                "id": 37086918557,
+                "preferredName": "Yu-Hsiu Sun",
+                "firstName": "Yu-Hsiu",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37087157344,
+                "preferredName": "Tzi-Dar Chiueh",
+                "firstName": "Tzi-Dar",
+                "lastName": "Chiueh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771558",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771558",
+        "articleTitle": "Towards Workload-Balanced, Live Deep Learning Analytics for Confidentiality-Aware IoT Medical Platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "62",
+        "endPage": "66",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Towards Workload-Balanced, Live Deep Learning Analytics for Confidentiality-Aware IoT Medical Platforms",
+        "authors": [
+            {
+                "id": 37085464472,
+                "preferredName": "Jose Granados",
+                "firstName": "Jose",
+                "lastName": "Granados"
+            },
+            {
+                "id": 37086499355,
+                "preferredName": "Haoming Chu",
+                "firstName": "Haoming",
+                "lastName": "Chu"
+            },
+            {
+                "id": 37590307500,
+                "preferredName": "Zhuo Zou",
+                "firstName": "Zhuo",
+                "lastName": "Zou"
+            },
+            {
+                "id": 37276915800,
+                "preferredName": "Li-Rong Zheng",
+                "firstName": "Li-Rong",
+                "lastName": "Zheng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771600",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771600",
+        "articleTitle": "An Energy-Efficient Accelerator with Relative- Indexing Memory for Sparse Compressed Convolutional Neural Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "An Energy-Efficient Accelerator with Relative- Indexing Memory for Sparse Compressed Convolutional Neural Network",
+        "authors": [
+            {
+                "id": 37323677200,
+                "preferredName": "I-Chen Wu",
+                "firstName": "I-Chen",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37293060800,
+                "preferredName": "Po-Tsang Huang",
+                "firstName": "Po-Tsang",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086919560,
+                "preferredName": "Chin-Yang Lo",
+                "firstName": "Chin-Yang",
+                "lastName": "Lo"
+            },
+            {
+                "id": 37285310100,
+                "preferredName": "Wei Hwang",
+                "firstName": "Wei",
+                "lastName": "Hwang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771580",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771580",
+        "articleTitle": "Robust Learning and Recognition of Visual Patterns in Neuromorphic Electronic Agents",
+        "volume": null,
+        "issue": null,
+        "startPage": "71",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Robust Learning and Recognition of Visual Patterns in Neuromorphic Electronic Agents",
+        "authors": [
+            {
+                "id": 37086361393,
+                "preferredName": "Dongchen Liang",
+                "firstName": "Dongchen",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37086360886,
+                "preferredName": "Raphaela Kreiser",
+                "firstName": "Raphaela",
+                "lastName": "Kreiser"
+            },
+            {
+                "id": 38257973600,
+                "preferredName": "Carsten Nielsen",
+                "firstName": "Carsten",
+                "lastName": "Nielsen"
+            },
+            {
+                "id": 37085629197,
+                "preferredName": "Ning Qiao",
+                "firstName": "Ning",
+                "lastName": "Qiao"
+            },
+            {
+                "id": 38498075300,
+                "preferredName": "Yulia Sandamirskaya",
+                "firstName": "Yulia",
+                "lastName": "Sandamirskaya"
+            },
+            {
+                "id": 37265625900,
+                "preferredName": "Giacomo Indiveri",
+                "firstName": "Giacomo",
+                "lastName": "Indiveri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771614",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771614",
+        "articleTitle": "Flyintel \u2013 a Platform for Robot Navigation based on a Brain-Inspired Spiking Neural Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "219",
+        "endPage": "220",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Flyintel \u2013 a Platform for Robot Navigation based on a Brain-Inspired Spiking Neural Network",
+        "authors": [
+            {
+                "id": 37086920585,
+                "preferredName": "Yao Huang-Yu",
+                "firstName": "Yao",
+                "lastName": "Huang-Yu"
+            },
+            {
+                "id": 37086917541,
+                "preferredName": "Hsuan-Pei Huang",
+                "firstName": "Hsuan-Pei",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086919375,
+                "preferredName": "Yu-Chi Huang",
+                "firstName": "Yu-Chi",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37728954000,
+                "preferredName": "Chung-Chuan Lo",
+                "firstName": "Chung-Chuan",
+                "lastName": "Lo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771476",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771476",
+        "articleTitle": "A Framework for Design and Implementation of Adaptive Digital Predistortion Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "112",
+        "endPage": "116",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "A Framework for Design and Implementation of Adaptive Digital Predistortion Systems",
+        "authors": [
+            {
+                "id": 37086009980,
+                "preferredName": "Lin Li",
+                "firstName": "Lin",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086919992,
+                "preferredName": "Peter Deaville",
+                "firstName": "Peter",
+                "lastName": "Deaville"
+            },
+            {
+                "id": 37086040358,
+                "preferredName": "Adrian Sapio",
+                "firstName": "Adrian",
+                "lastName": "Sapio"
+            },
+            {
+                "id": 37399951300,
+                "preferredName": "Lauri Anttila",
+                "firstName": "Lauri",
+                "lastName": "Anttila"
+            },
+            {
+                "id": 37267657500,
+                "preferredName": "Mikko Valkama",
+                "firstName": "Mikko",
+                "lastName": "Valkama"
+            },
+            {
+                "id": 37398766200,
+                "preferredName": "Marilyn Wolf",
+                "firstName": "Marilyn",
+                "lastName": "Wolf"
+            },
+            {
+                "id": 37276941700,
+                "preferredName": "Shuvra S. Bhattacharyya",
+                "firstName": "Shuvra S.",
+                "lastName": "Bhattacharyya"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771482",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771482",
+        "articleTitle": "Accelerating CNN-RNN Based Machine Health Monitoring on FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "184",
+        "endPage": "188",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Accelerating CNN-RNN Based Machine Health Monitoring on FPGA",
+        "authors": [
+            {
+                "id": 37086441566,
+                "preferredName": "Xiaoyu Feng",
+                "firstName": "Xiaoyu",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37085863395,
+                "preferredName": "Jinshan Yue",
+                "firstName": "Jinshan",
+                "lastName": "Yue"
+            },
+            {
+                "id": 37086279748,
+                "preferredName": "Qingwei Guo",
+                "firstName": "Qingwei",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37291236500,
+                "preferredName": "Huazhong Yang",
+                "firstName": "Huazhong",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37292036600,
+                "preferredName": "Yongpan Liu",
+                "firstName": "Yongpan",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771594",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771594",
+        "articleTitle": "Memristor Emulators for an Adaptive DPE Algorithm: Comparative Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Memristor Emulators for an Adaptive DPE Algorithm: Comparative Study",
+        "authors": [
+            {
+                "id": 37086593846,
+                "preferredName": "Hussein Assaf",
+                "firstName": "Hussein",
+                "lastName": "Assaf"
+            },
+            {
+                "id": 37276922900,
+                "preferredName": "Yvon Savaria",
+                "firstName": "Yvon",
+                "lastName": "Savaria"
+            },
+            {
+                "id": 37276702600,
+                "preferredName": "Mohamad Sawan",
+                "firstName": "Mohamad",
+                "lastName": "Sawan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771561",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771561",
+        "articleTitle": "Spatial Data Dependence Graph Simulator for Convolutional Neural Network Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "309",
+        "endPage": "310",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Spatial Data Dependence Graph Simulator for Convolutional Neural Network Accelerators",
+        "authors": [
+            {
+                "id": 37086918422,
+                "preferredName": "Jooho Wang",
+                "firstName": "Jooho",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086920010,
+                "preferredName": "Jiwon Kim",
+                "firstName": "Jiwon",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086922920,
+                "preferredName": "Sungmin Moon",
+                "firstName": "Sungmin",
+                "lastName": "Moon"
+            },
+            {
+                "id": 37086692636,
+                "preferredName": "Sunwoo Kim",
+                "firstName": "Sunwoo",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085691338,
+                "preferredName": "Sungkyung Park",
+                "firstName": "Sungkyung",
+                "lastName": "Park"
+            },
+            {
+                "id": 37086921810,
+                "preferredName": "Chester Sungchung Park",
+                "firstName": "Chester Sungchung",
+                "lastName": "Park"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771628",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771628",
+        "articleTitle": "AnalogHTM: Memristive Spatial Pooler Learning with Backpropagation",
+        "volume": null,
+        "issue": null,
+        "startPage": "262",
+        "endPage": "266",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "AnalogHTM: Memristive Spatial Pooler Learning with Backpropagation",
+        "authors": [
+            {
+                "id": 37085902161,
+                "preferredName": "Olga Krestinskaya",
+                "firstName": "Olga",
+                "lastName": "Krestinskaya"
+            },
+            {
+                "id": 37391662800,
+                "preferredName": "Alex Pappachen James",
+                "firstName": "Alex Pappachen",
+                "lastName": "James"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771498",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771498",
+        "articleTitle": "Exploration of Automatic Mixed-Precision Search for Deep Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "276",
+        "endPage": "278",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Exploration of Automatic Mixed-Precision Search for Deep Neural Networks",
+        "authors": [
+            {
+                "id": 37086857564,
+                "preferredName": "Xuyang Guo",
+                "firstName": "Xuyang",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37086007641,
+                "preferredName": "Yuanjun Huang",
+                "firstName": "Yuanjun",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086920902,
+                "preferredName": "Hsin-pai Cheng",
+                "firstName": "Hsin-pai",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37089398049,
+                "preferredName": "Bing Li",
+                "firstName": "Bing",
+                "lastName": "Li"
+            },
+            {
+                "id": 38466944200,
+                "preferredName": "Wei Wen",
+                "firstName": "Wei",
+                "lastName": "Wen"
+            },
+            {
+                "id": 37086922798,
+                "preferredName": "Siyuan Ma",
+                "firstName": "Siyuan",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37407153400,
+                "preferredName": "Hai Li",
+                "firstName": "Hai",
+                "lastName": "Li"
+            },
+            {
+                "id": 37281023800,
+                "preferredName": "Yiran Chen",
+                "firstName": "Yiran",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771605",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771605",
+        "articleTitle": "On Automatic Generation of Training Images for Machine Learning in Automotive Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "225",
+        "endPage": "228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "On Automatic Generation of Training Images for Machine Learning in Automotive Applications",
+        "authors": [
+            {
+                "id": 37575859300,
+                "preferredName": "Tong-Yu Hsieh",
+                "firstName": "Tong-Yu",
+                "lastName": "Hsieh"
+            },
+            {
+                "id": 37086920492,
+                "preferredName": "Yuan-Cheng Lin",
+                "firstName": "Yuan-Cheng",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086920556,
+                "preferredName": "Hsin-Yung Shen",
+                "firstName": "Hsin-Yung",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771540",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771540",
+        "articleTitle": "Improved Hybrid Memory Cube for Weight-Sharing Deep Convolutional Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "122",
+        "endPage": "126",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Improved Hybrid Memory Cube for Weight-Sharing Deep Convolutional Neural Networks",
+        "authors": [
+            {
+                "id": 37280788700,
+                "preferredName": "Hao Zhang",
+                "firstName": "Hao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086880964,
+                "preferredName": "Jiongrui He",
+                "firstName": "Jiongrui",
+                "lastName": "He"
+            },
+            {
+                "id": 37400893500,
+                "preferredName": "Seok-Bum Ko",
+                "firstName": "Seok-Bum",
+                "lastName": "Ko"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771607",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771607",
+        "articleTitle": "SMURFF: a High-Performance Framework for Matrix Factorization",
+        "volume": null,
+        "issue": null,
+        "startPage": "304",
+        "endPage": "308",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "SMURFF: a High-Performance Framework for Matrix Factorization",
+        "authors": [
+            {
+                "id": 37266903400,
+                "preferredName": "Tom Vander Aa",
+                "firstName": "Tom",
+                "lastName": "Vander Aa"
+            },
+            {
+                "id": 38489414800,
+                "preferredName": "Imen Chakroun",
+                "firstName": "Imen",
+                "lastName": "Chakroun"
+            },
+            {
+                "id": 37937167600,
+                "preferredName": "Thomas J. Ashby",
+                "firstName": "Thomas J.",
+                "lastName": "Ashby"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771611",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771611",
+        "articleTitle": "AMSNet: Analog Memristive System Architecture for Mean-Pooling with Dropout Convolutional Neural Network",
+        "volume": null,
+        "issue": null,
+        "startPage": "272",
+        "endPage": "273",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "AMSNet: Analog Memristive System Architecture for Mean-Pooling with Dropout Convolutional Neural Network",
+        "authors": [
+            {
+                "id": 37085902161,
+                "preferredName": "Olga Krestinskaya",
+                "firstName": "Olga",
+                "lastName": "Krestinskaya"
+            },
+            {
+                "id": 37086467734,
+                "preferredName": "Adilya Bakambekova",
+                "firstName": "Adilya",
+                "lastName": "Bakambekova"
+            },
+            {
+                "id": 37391662800,
+                "preferredName": "Alex Pappachen James",
+                "firstName": "Alex Pappachen",
+                "lastName": "James"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771542",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771542",
+        "articleTitle": "Improved Convolutional Neutral Network Based Model for Small Visual Object Detection in Autonomous Driving",
+        "volume": null,
+        "issue": null,
+        "startPage": "179",
+        "endPage": "183",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Improved Convolutional Neutral Network Based Model for Small Visual Object Detection in Autonomous Driving",
+        "authors": [
+            {
+                "id": 37086463108,
+                "preferredName": "Shijin Song",
+                "firstName": "Shijin",
+                "lastName": "Song"
+            },
+            {
+                "id": 37310652700,
+                "preferredName": "Yongxin Zhu",
+                "firstName": "Yongxin",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37086052338,
+                "preferredName": "Junjie Hou",
+                "firstName": "Junjie",
+                "lastName": "Hou"
+            },
+            {
+                "id": 37086461758,
+                "preferredName": "Yu Zheng",
+                "firstName": "Yu",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 38003563800,
+                "preferredName": "Tian Huang",
+                "firstName": "Tian",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086921474,
+                "preferredName": "Sen Du",
+                "firstName": "Sen",
+                "lastName": "Du"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771584",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771584",
+        "articleTitle": "An Enhanced MUSIC DoA Scanning Scheme for Array Radar Sensing in Autonomous Movers",
+        "volume": null,
+        "issue": null,
+        "startPage": "152",
+        "endPage": "153",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "An Enhanced MUSIC DoA Scanning Scheme for Array Radar Sensing in Autonomous Movers",
+        "authors": [
+            {
+                "id": 37086919445,
+                "preferredName": "Kuang-Ying Chang",
+                "firstName": "Kuang-Ying",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37086266888,
+                "preferredName": "Kuan-Ting Chen",
+                "firstName": "Kuan-Ting",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086916909,
+                "preferredName": "Wei-Hsuan Ma",
+                "firstName": "Wei-Hsuan",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37333724200,
+                "preferredName": "Yin-Tsung Hwang",
+                "firstName": "Yin-Tsung",
+                "lastName": "Hwang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771480",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771480",
+        "articleTitle": "Optimizations of Scatter Network for Sparse CNN Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "256",
+        "endPage": "257",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Optimizations of Scatter Network for Sparse CNN Accelerators",
+        "authors": [
+            {
+                "id": 37086692636,
+                "preferredName": "Sunwoo Kim",
+                "firstName": "Sunwoo",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086922723,
+                "preferredName": "Chungman Lee",
+                "firstName": "Chungman",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086922256,
+                "preferredName": "Haesung Park",
+                "firstName": "Haesung",
+                "lastName": "Park"
+            },
+            {
+                "id": 37086918422,
+                "preferredName": "Jooho Wang",
+                "firstName": "Jooho",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085691338,
+                "preferredName": "Sungkyung Park",
+                "firstName": "Sungkyung",
+                "lastName": "Park"
+            },
+            {
+                "id": 37086921810,
+                "preferredName": "Chester Sungchung Park",
+                "firstName": "Chester Sungchung",
+                "lastName": "Park"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771596",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771596",
+        "articleTitle": "Intelligent Policy Selection for GPU Warp Scheduler",
+        "volume": null,
+        "issue": null,
+        "startPage": "302",
+        "endPage": "303",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Intelligent Policy Selection for GPU Warp Scheduler",
+        "authors": [
+            {
+                "id": 37281715500,
+                "preferredName": "Lih-Yih Chiou",
+                "firstName": "Lih-Yih",
+                "lastName": "Chiou"
+            },
+            {
+                "id": 37086917341,
+                "preferredName": "Tsung-Han Yang",
+                "firstName": "Tsung-Han",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086919656,
+                "preferredName": "Jian-Tang Syu",
+                "firstName": "Jian-Tang",
+                "lastName": "Syu"
+            },
+            {
+                "id": 37086886113,
+                "preferredName": "Che-Pin Chang",
+                "firstName": "Che-Pin",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37086586164,
+                "preferredName": "Yeong-Jar Chang",
+                "firstName": "Yeong-Jar",
+                "lastName": "Chang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771601",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771601",
+        "articleTitle": "Context-Preserving Filter Reorganization for VDSR-Based Super-resolution",
+        "volume": null,
+        "issue": null,
+        "startPage": "107",
+        "endPage": "111",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Context-Preserving Filter Reorganization for VDSR-Based Super-resolution",
+        "authors": [
+            {
+                "id": 37085623114,
+                "preferredName": "Donghyeon Lee",
+                "firstName": "Donghyeon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37935563800,
+                "preferredName": "Sangheon Lee",
+                "firstName": "Sangheon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086922173,
+                "preferredName": "Ho Seong Lee",
+                "firstName": "Ho Seong",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37280120400,
+                "preferredName": "Hyuk-Jae Lee",
+                "firstName": "Hyuk-Jae",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086918026,
+                "preferredName": "Kyujoong Lee",
+                "firstName": "Kyujoong",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771573",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771573",
+        "articleTitle": "Auto Generation of High-Performance Fixed-Point Multiplier for Artificial Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Auto Generation of High-Performance Fixed-Point Multiplier for Artificial Neural Networks",
+        "authors": [
+            {
+                "id": 37086205745,
+                "preferredName": "Yang Zhao",
+                "firstName": "Yang",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37086299335,
+                "preferredName": "Zhongxia Shang",
+                "firstName": "Zhongxia",
+                "lastName": "Shang"
+            },
+            {
+                "id": 37085343628,
+                "preferredName": "Yong Lian",
+                "firstName": "Yong",
+                "lastName": "Lian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771473",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771473",
+        "articleTitle": "Performance Trade-offs in Weight Quantization for Memory-Efficient Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "246",
+        "endPage": "250",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Performance Trade-offs in Weight Quantization for Memory-Efficient Inference",
+        "authors": [
+            {
+                "id": 37085797608,
+                "preferredName": "Pablo M. Tostado",
+                "firstName": "Pablo M.",
+                "lastName": "Tostado"
+            },
+            {
+                "id": 37269134100,
+                "preferredName": "Bruno U. Pedroni",
+                "firstName": "Bruno U.",
+                "lastName": "Pedroni"
+            },
+            {
+                "id": 37270866000,
+                "preferredName": "Gert Cauwenberghs",
+                "firstName": "Gert",
+                "lastName": "Cauwenberghs"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771507",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771507",
+        "articleTitle": "A Pruned-CELP Speech Codec Using Denoising Autoencoder with Spectral Compensation for Quality and Intelligibility Enhancement",
+        "volume": null,
+        "issue": null,
+        "startPage": "150",
+        "endPage": "151",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "A Pruned-CELP Speech Codec Using Denoising Autoencoder with Spectral Compensation for Quality and Intelligibility Enhancement",
+        "authors": [
+            {
+                "id": 37086920011,
+                "preferredName": "Yu-Ting Lo",
+                "firstName": "Yu-Ting",
+                "lastName": "Lo"
+            },
+            {
+                "id": 38548742800,
+                "preferredName": "Syu-Siang Wang",
+                "firstName": "Syu-Siang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37311610300,
+                "preferredName": "Yu Tsao",
+                "firstName": "Yu",
+                "lastName": "Tsao"
+            },
+            {
+                "id": 37085517614,
+                "preferredName": "Sheng-Yu Peng",
+                "firstName": "Sheng-Yu",
+                "lastName": "Peng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771619",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771619",
+        "articleTitle": "Heterogeneous Activation Function Extraction for Training and Optimization of SNN Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "244",
+        "endPage": "245",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Heterogeneous Activation Function Extraction for Training and Optimization of SNN Systems",
+        "authors": [
+            {
+                "id": 37427625900,
+                "preferredName": "Amir Zjajo",
+                "firstName": "Amir",
+                "lastName": "Zjajo"
+            },
+            {
+                "id": 37713457800,
+                "preferredName": "Sumeet Kumar",
+                "firstName": "Sumeet",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37393976600,
+                "preferredName": "Rene van Leuken",
+                "firstName": "Rene",
+                "lastName": "van Leuken"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771625",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771625",
+        "articleTitle": "Autopiler: An AI Based Framework for Program Autotuning and Options Recommendation",
+        "volume": null,
+        "issue": null,
+        "startPage": "209",
+        "endPage": "213",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Autopiler: An AI Based Framework for Program Autotuning and Options Recommendation",
+        "authors": [
+            {
+                "id": 37086917012,
+                "preferredName": "Kang-Lin Wang",
+                "firstName": "Kang-Lin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086919029,
+                "preferredName": "Chi-Bang Kuan",
+                "firstName": "Chi-Bang",
+                "lastName": "Kuan"
+            },
+            {
+                "id": 37086922156,
+                "preferredName": "Jiann-Fuh Liaw",
+                "firstName": "Jiann-Fuh",
+                "lastName": "Liaw"
+            },
+            {
+                "id": 37086921232,
+                "preferredName": "Wei-Liang Kuo",
+                "firstName": "Wei-Liang",
+                "lastName": "Kuo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771595",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771595",
+        "articleTitle": "AIP: Saving the DRAM Access Energy of CNNs Using Approximate Inner Products",
+        "volume": null,
+        "issue": null,
+        "startPage": "311",
+        "endPage": "315",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "AIP: Saving the DRAM Access Energy of CNNs Using Approximate Inner Products",
+        "authors": [
+            {
+                "id": 37086401743,
+                "preferredName": "Cheng-Hsuan Cheng",
+                "firstName": "Cheng-Hsuan",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37086262728,
+                "preferredName": "Ren-Shuo Liu",
+                "firstName": "Ren-Shuo",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771629",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771629",
+        "articleTitle": "Configurable Texture Unit for Convolutional Neural Networks on Graphics Processing Units",
+        "volume": null,
+        "issue": null,
+        "startPage": "234",
+        "endPage": "238",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Configurable Texture Unit for Convolutional Neural Networks on Graphics Processing Units",
+        "authors": [
+            {
+                "id": 37086918434,
+                "preferredName": "Yi-Hsiang Chen",
+                "firstName": "Yi-Hsiang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37279813300,
+                "preferredName": "Shao-Yi Chien",
+                "firstName": "Shao-Yi",
+                "lastName": "Chien"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771602",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771602",
+        "articleTitle": "Implementation of STDP Learning for Non-volatile Memory-based Spiking Neural Network using Comparator Metastability",
+        "volume": null,
+        "issue": null,
+        "startPage": "239",
+        "endPage": "243",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Implementation of STDP Learning for Non-volatile Memory-based Spiking Neural Network using Comparator Metastability",
+        "authors": [
+            {
+                "id": 37085732337,
+                "preferredName": "Sang-Gyun Gi",
+                "firstName": "Sang-Gyun",
+                "lastName": "Gi"
+            },
+            {
+                "id": 37085735175,
+                "preferredName": "Injune Yeo",
+                "firstName": "Injune",
+                "lastName": "Yeo"
+            },
+            {
+                "id": 38240871700,
+                "preferredName": "Byung-geun Lee",
+                "firstName": "Byung-geun",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771606",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771606",
+        "articleTitle": "Special Session: 2018 Low-Power Image Recognition Challenge and Beyond",
+        "volume": null,
+        "issue": null,
+        "startPage": "154",
+        "endPage": "157",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Special Session: 2018 Low-Power Image Recognition Challenge and Beyond",
+        "authors": [
+            {
+                "id": 37086858612,
+                "preferredName": "Matthew Ardi",
+                "firstName": "Matthew",
+                "lastName": "Ardi"
+            },
+            {
+                "id": 37088632697,
+                "preferredName": "Alexander C Berg",
+                "firstName": "Alexander C",
+                "lastName": "Berg"
+            },
+            {
+                "id": 37086581992,
+                "preferredName": "Bo Chen",
+                "firstName": "Bo",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37281030100,
+                "preferredName": "Yen-Kuang Chen",
+                "firstName": "Yen-Kuang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37281023800,
+                "preferredName": "Yiran Chen",
+                "firstName": "Yiran",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085799160,
+                "preferredName": "Donghyun Kang",
+                "firstName": "Donghyun",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37086859902,
+                "preferredName": "Junhyeok Lee",
+                "firstName": "Junhyeok",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38185733300,
+                "preferredName": "Seungjae Lee",
+                "firstName": "Seungjae",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37089935280,
+                "preferredName": "Yang Lu",
+                "firstName": "Yang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37089938844,
+                "preferredName": "Yung-Hsiang Lu",
+                "firstName": "Yung-Hsiang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37086806433,
+                "preferredName": "Fei Sun",
+                "firstName": "Fei",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771576",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771576",
+        "articleTitle": "A CMOS-based Resistive Crossbar Array with Pulsed Neural Network for Deep Learning Accelerator",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "37",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "A CMOS-based Resistive Crossbar Array with Pulsed Neural Network for Deep Learning Accelerator",
+        "authors": [
+            {
+                "id": 37085735175,
+                "preferredName": "Injune Yeo",
+                "firstName": "Injune",
+                "lastName": "Yeo"
+            },
+            {
+                "id": 37085732337,
+                "preferredName": "Sang-gyun Gi",
+                "firstName": "Sang-gyun",
+                "lastName": "Gi"
+            },
+            {
+                "id": 37086919924,
+                "preferredName": "Jung-gyun Kim",
+                "firstName": "Jung-gyun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38240871700,
+                "preferredName": "Byung-geun Lee",
+                "firstName": "Byung-geun",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771621",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771621",
+        "articleTitle": "Edge and Fog Computing Enabled AI for IoT-An Overview",
+        "volume": null,
+        "issue": null,
+        "startPage": "51",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Edge and Fog Computing Enabled AI for IoT-An Overview",
+        "authors": [
+            {
+                "id": 37590307500,
+                "preferredName": "Zhuo Zou",
+                "firstName": "Zhuo",
+                "lastName": "Zou"
+            },
+            {
+                "id": 37086243692,
+                "preferredName": "Yi Jin",
+                "firstName": "Yi",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37085427057,
+                "preferredName": "Paavo Nevalainen",
+                "firstName": "Paavo",
+                "lastName": "Nevalainen"
+            },
+            {
+                "id": 37085696843,
+                "preferredName": "Yuxiang Huan",
+                "firstName": "Yuxiang",
+                "lastName": "Huan"
+            },
+            {
+                "id": 37085438371,
+                "preferredName": "Jukka Heikkonen",
+                "firstName": "Jukka",
+                "lastName": "Heikkonen"
+            },
+            {
+                "id": 37298877900,
+                "preferredName": "Tomi Westerlund",
+                "firstName": "Tomi",
+                "lastName": "Westerlund"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771622",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771622",
+        "articleTitle": "Hyperdimensional Computing-based Multimodality Emotion Recognition with Physiological Signals",
+        "volume": null,
+        "issue": null,
+        "startPage": "137",
+        "endPage": "141",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Hyperdimensional Computing-based Multimodality Emotion Recognition with Physiological Signals",
+        "authors": [
+            {
+                "id": 37533722700,
+                "preferredName": "En-Jui Chang",
+                "firstName": "En-Jui",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37071093800,
+                "preferredName": "Abbas Rahimi",
+                "firstName": "Abbas",
+                "lastName": "Rahimi"
+            },
+            {
+                "id": 37274443600,
+                "preferredName": "Luca Benini",
+                "firstName": "Luca",
+                "lastName": "Benini"
+            },
+            {
+                "id": 37271932500,
+                "preferredName": "An-Yeu Andy Wu",
+                "firstName": "An-Yeu Andy",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771510",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771510",
+        "articleTitle": "ONNC: A Compilation Framework Connecting ONNX to Proprietary Deep Learning Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "214",
+        "endPage": "218",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "ONNC: A Compilation Framework Connecting ONNX to Proprietary Deep Learning Accelerators",
+        "authors": [
+            {
+                "id": 37086866070,
+                "preferredName": "Wei-Fen Lin",
+                "firstName": "Wei-Fen",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086919217,
+                "preferredName": "Der-Yu Tsai",
+                "firstName": "Der-Yu",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 37086922305,
+                "preferredName": "Luba Tang",
+                "firstName": "Luba",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37086866384,
+                "preferredName": "Cheng-Tao Hsieh",
+                "firstName": "Cheng-Tao",
+                "lastName": "Hsieh"
+            },
+            {
+                "id": 37086861385,
+                "preferredName": "Cheng-Yi Chou",
+                "firstName": "Cheng-Yi",
+                "lastName": "Chou"
+            },
+            {
+                "id": 37086922978,
+                "preferredName": "Ping-Hao Chang",
+                "firstName": "Ping-Hao",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37086918405,
+                "preferredName": "Luis Hsu",
+                "firstName": "Luis",
+                "lastName": "Hsu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771527",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771527",
+        "articleTitle": "Online Anomaly Detection in HPC Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "229",
+        "endPage": "233",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Online Anomaly Detection in HPC Systems",
+        "authors": [
+            {
+                "id": 37085517969,
+                "preferredName": "Andrea Borghesi",
+                "firstName": "Andrea",
+                "lastName": "Borghesi"
+            },
+            {
+                "id": 37076876700,
+                "preferredName": "Antonio Libri",
+                "firstName": "Antonio",
+                "lastName": "Libri"
+            },
+            {
+                "id": 37274443600,
+                "preferredName": "Luca Benini",
+                "firstName": "Luca",
+                "lastName": "Benini"
+            },
+            {
+                "id": 37883004300,
+                "preferredName": "Andrea Bartolini",
+                "firstName": "Andrea",
+                "lastName": "Bartolini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771535",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771535",
+        "articleTitle": "Automatic HCC Detection Using Convolutional Network with Multi-Magnification Input Images",
+        "volume": null,
+        "issue": null,
+        "startPage": "194",
+        "endPage": "198",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Automatic HCC Detection Using Convolutional Network with Multi-Magnification Input Images",
+        "authors": [
+            {
+                "id": 37086921580,
+                "preferredName": "Wei-Che Huang",
+                "firstName": "Wei-Che",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37287692900,
+                "preferredName": "Pau-Choo Chung",
+                "firstName": "Pau-Choo",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37085587349,
+                "preferredName": "Hung-Wen Tsai",
+                "firstName": "Hung-Wen",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 37086919278,
+                "preferredName": "Nan-Haw Chow",
+                "firstName": "Nan-Haw",
+                "lastName": "Chow"
+            },
+            {
+                "id": 37265256500,
+                "preferredName": "Ying-Zong Juang",
+                "firstName": "Ying-Zong",
+                "lastName": "Juang"
+            },
+            {
+                "id": 37349073700,
+                "preferredName": "Hann-Huei Tsai",
+                "firstName": "Hann-Huei",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 37086922481,
+                "preferredName": "Shih-Hsuan Lin",
+                "firstName": "Shih-Hsuan",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086917380,
+                "preferredName": "Cheng-Hsiung Wang",
+                "firstName": "Cheng-Hsiung",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771528",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771528",
+        "articleTitle": "Reconfigurable Edge via Analytics Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "117",
+        "endPage": "121",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Reconfigurable Edge via Analytics Architecture",
+        "authors": [
+            {
+                "id": 37086918677,
+                "preferredName": "Shih-Yu Chen",
+                "firstName": "Shih-Yu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37281488300,
+                "preferredName": "Gwo Giun Chris Lee",
+                "firstName": "Gwo Giun Chris",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37085848736,
+                "preferredName": "Tai-Ping Wang",
+                "firstName": "Tai-Ping",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086921357,
+                "preferredName": "Chin-Wei Huang",
+                "firstName": "Chin-Wei",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086923114,
+                "preferredName": "Jia-Hong Chen",
+                "firstName": "Jia-Hong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086917234,
+                "preferredName": "Chang-Ling Tsai",
+                "firstName": "Chang-Ling",
+                "lastName": "Tsai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771564",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771564",
+        "articleTitle": "AICAS 2019 Message from the Honorary Chair and General Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "vii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "AICAS 2019 Message from the Honorary Chair and General Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771618",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771618",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "xiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771499",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771499",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "316",
+        "endPage": "318",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771466",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771466",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8766332",
+        "doi": "10.1109/AICAS.2019.8771608",
+        "publicationYear": "2019",
+        "publicationDate": "18-20 March 2019",
+        "articleNumber": "8771608",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE International Conference on Artificial Intelligence Circuits and Systems (AICAS)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    }
+]

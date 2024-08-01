@@ -1,0 +1,404 @@
+[
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00006",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029456",
+        "articleTitle": "Analysis of Validating and Verifying OpenACC Compilers 3.0 and Above",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Analysis of Validating and Verifying OpenACC Compilers 3.0 and Above",
+        "authors": [
+            {
+                "id": 37089709505,
+                "preferredName": "Aaron Jarmusch",
+                "firstName": "Aaron",
+                "lastName": "Jarmusch"
+            },
+            {
+                "id": 37089714319,
+                "preferredName": "Aaron Liu",
+                "firstName": "Aaron",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37089712198,
+                "preferredName": "Christian Munley",
+                "firstName": "Christian",
+                "lastName": "Munley"
+            },
+            {
+                "id": 37089707967,
+                "preferredName": "Daniel Horta",
+                "firstName": "Daniel",
+                "lastName": "Horta"
+            },
+            {
+                "id": 37089714160,
+                "preferredName": "Vaidhyanathan Ravichandran",
+                "firstName": "Vaidhyanathan",
+                "lastName": "Ravichandran"
+            },
+            {
+                "id": 37086182352,
+                "preferredName": "Joel Denny",
+                "firstName": "Joel",
+                "lastName": "Denny"
+            },
+            {
+                "id": 37089716187,
+                "preferredName": "Kyle Friedline",
+                "firstName": "Kyle",
+                "lastName": "Friedline"
+            },
+            {
+                "id": 37892610900,
+                "preferredName": "Sunita Chandrasekaran",
+                "firstName": "Sunita",
+                "lastName": "Chandrasekaran"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00008",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029468",
+        "articleTitle": "Extending MAGMA Portability with OneAPI",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Extending MAGMA Portability with OneAPI",
+        "authors": [
+            {
+                "id": 37089715507,
+                "preferredName": "Anna Fortenberry",
+                "firstName": "Anna",
+                "lastName": "Fortenberry"
+            },
+            {
+                "id": 37401700800,
+                "preferredName": "Stanimire Tomov",
+                "firstName": "Stanimire",
+                "lastName": "Tomov"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00009",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029526",
+        "articleTitle": "KokkACC: Enhancing Kokkos with OpenACC",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "42",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "KokkACC: Enhancing Kokkos with OpenACC",
+        "authors": [
+            {
+                "id": 38273496100,
+                "preferredName": "Pedro Valero-Lara",
+                "firstName": "Pedro",
+                "lastName": "Valero-Lara"
+            },
+            {
+                "id": 38552184200,
+                "preferredName": "Seyong Lee",
+                "firstName": "Seyong",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37087719442,
+                "preferredName": "Marc Gonzalez-Tallada",
+                "firstName": "Marc",
+                "lastName": "Gonzalez-Tallada"
+            },
+            {
+                "id": 37086182352,
+                "preferredName": "Joel Denny",
+                "firstName": "Joel",
+                "lastName": "Denny"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey S. Vetter",
+                "firstName": "Jeffrey S.",
+                "lastName": "Vetter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00010",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029551",
+        "articleTitle": "SPEL: Software tool for Porting E3SM Land Model with OpenACC in a Function Unit Test Framework",
+        "volume": null,
+        "issue": null,
+        "startPage": "43",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "SPEL: Software tool for Porting E3SM Land Model with OpenACC in a Function Unit Test Framework",
+        "authors": [
+            {
+                "id": 37089711239,
+                "preferredName": "Peter Schwartz",
+                "firstName": "Peter",
+                "lastName": "Schwartz"
+            },
+            {
+                "id": 37598466400,
+                "preferredName": "Dali Wang",
+                "firstName": "Dali",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089714149,
+                "preferredName": "Fengming Yuan",
+                "firstName": "Fengming",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37085529366,
+                "preferredName": "Peter Thornton",
+                "firstName": "Peter",
+                "lastName": "Thornton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00007",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029694",
+        "articleTitle": "OmpSs-2 and OpenACC Interoperation",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "OmpSs-2 and OpenACC Interoperation",
+        "authors": [
+            {
+                "id": 37089713639,
+                "preferredName": "Orestis Korakitis",
+                "firstName": "Orestis",
+                "lastName": "Korakitis"
+            },
+            {
+                "id": 37085802162,
+                "preferredName": "Simon Garcia de Gonzalo",
+                "firstName": "Simon Garcia",
+                "lastName": "de Gonzalo"
+            },
+            {
+                "id": 37089709413,
+                "preferredName": "Nicolas Guidotti",
+                "firstName": "Nicolas",
+                "lastName": "Guidotti"
+            },
+            {
+                "id": 37085838626,
+                "preferredName": "Jo\u00e3o Barreto",
+                "firstName": "Jo\u00e3o",
+                "lastName": "Barreto"
+            },
+            {
+                "id": 37089709901,
+                "preferredName": "Jos\u00e9 Monteiro",
+                "firstName": "Jos\u00e9",
+                "lastName": "Monteiro"
+            },
+            {
+                "id": 37085345973,
+                "preferredName": "Antonio J. Pe\u00f1a",
+                "firstName": "Antonio J.",
+                "lastName": "Pe\u00f1a"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00011",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029768",
+        "articleTitle": "GPU-Accelerated Sparse Matrix Vector Product based on Element-by-Element Method for Unstructured FEM using OpenACC",
+        "volume": null,
+        "issue": null,
+        "startPage": "52",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "GPU-Accelerated Sparse Matrix Vector Product based on Element-by-Element Method for Unstructured FEM using OpenACC",
+        "authors": [
+            {
+                "id": 37089717824,
+                "preferredName": "Ryota Kusakabe",
+                "firstName": "Ryota",
+                "lastName": "Kusakabe"
+            },
+            {
+                "id": 37086088859,
+                "preferredName": "Kohei Fujita",
+                "firstName": "Kohei",
+                "lastName": "Fujita"
+            },
+            {
+                "id": 37086093399,
+                "preferredName": "Tsuyoshi Ichimura",
+                "firstName": "Tsuyoshi",
+                "lastName": "Ichimura"
+            },
+            {
+                "id": 37086093196,
+                "preferredName": "Muneo Hori",
+                "firstName": "Muneo",
+                "lastName": "Hori"
+            },
+            {
+                "id": 37088279596,
+                "preferredName": "Maddegedara Lalith",
+                "firstName": "Maddegedara",
+                "lastName": "Lalith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00001",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029481",
+        "articleTitle": "Title Page i",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Title Page i",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00004",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029766",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00005",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029678",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "7",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00002",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029480",
+        "articleTitle": "Copyright Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Copyright Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00012",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029490",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "63",
+        "endPage": "63",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10029346",
+        "doi": "10.1109/WACCPD56842.2022.00003",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10029524",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]

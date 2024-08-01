@@ -1,0 +1,442 @@
+[
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.012",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831560",
+        "articleTitle": "An Overview of Performance Portability in the Uintah Runtime System through the Use of Kokkos",
+        "volume": null,
+        "issue": null,
+        "startPage": "44",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "An Overview of Performance Portability in the Uintah Runtime System through the Use of Kokkos",
+        "authors": [
+            {
+                "id": 38017748000,
+                "preferredName": "Daniel Sunderland",
+                "firstName": "Daniel",
+                "lastName": "Sunderland"
+            },
+            {
+                "id": 37086069520,
+                "preferredName": "Brad Peterson",
+                "firstName": "Brad",
+                "lastName": "Peterson"
+            },
+            {
+                "id": 37851219500,
+                "preferredName": "John Schmidt",
+                "firstName": "John",
+                "lastName": "Schmidt"
+            },
+            {
+                "id": 37085874173,
+                "preferredName": "Alan Humphrey",
+                "firstName": "Alan",
+                "lastName": "Humphrey"
+            },
+            {
+                "id": 37070371800,
+                "preferredName": "Jeremy Thornock",
+                "firstName": "Jeremy",
+                "lastName": "Thornock"
+            },
+            {
+                "id": 37393012200,
+                "preferredName": "Martin Berzins",
+                "firstName": "Martin",
+                "lastName": "Berzins"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.011",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831559",
+        "articleTitle": "Runtime Coordinated Heterogeneous Tasks in Charm++",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "43",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "Runtime Coordinated Heterogeneous Tasks in Charm++",
+        "authors": [
+            {
+                "id": 37085414357,
+                "preferredName": "Michael P. Robson",
+                "firstName": "Michael P.",
+                "lastName": "Robson"
+            },
+            {
+                "id": 37085481430,
+                "preferredName": "Ronak Buch",
+                "firstName": "Ronak",
+                "lastName": "Buch"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant V. Kale",
+                "firstName": "Laxmikant V.",
+                "lastName": "Kale"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.005",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831553",
+        "articleTitle": "Keynote",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "Keynote",
+        "authors": [
+            {
+                "id": 127466846791779,
+                "preferredName": "Thomas Sterling",
+                "firstName": "Thomas",
+                "lastName": "Sterling"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.009",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831557",
+        "articleTitle": "Metaprogramming-Enabled Parallel Execution of Apparently Sequential C++ Code",
+        "volume": null,
+        "issue": null,
+        "startPage": "24",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "Metaprogramming-Enabled Parallel Execution of Apparently Sequential C++ Code",
+        "authors": [
+            {
+                "id": 37085841576,
+                "preferredName": "David S. Hollman",
+                "firstName": "David S.",
+                "lastName": "Hollman"
+            },
+            {
+                "id": 37551867600,
+                "preferredName": "Janine C. Bennett",
+                "firstName": "Janine C.",
+                "lastName": "Bennett"
+            },
+            {
+                "id": 38014896200,
+                "preferredName": "Hemanth Kolla",
+                "firstName": "Hemanth",
+                "lastName": "Kolla"
+            },
+            {
+                "id": 37858181700,
+                "preferredName": "Jonathan Lifflander",
+                "firstName": "Jonathan",
+                "lastName": "Lifflander"
+            },
+            {
+                "id": 37085481998,
+                "preferredName": "Nicole Slattengren",
+                "firstName": "Nicole",
+                "lastName": "Slattengren"
+            },
+            {
+                "id": 37085395858,
+                "preferredName": "Jeremiah Wilke",
+                "firstName": "Jeremiah",
+                "lastName": "Wilke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.010",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831558",
+        "articleTitle": "SWE-X10: Simulating Shallow Water Waves with Lazy Activation of Patches Using Actorx10",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "SWE-X10: Simulating Shallow Water Waves with Lazy Activation of Patches Using Actorx10",
+        "authors": [
+            {
+                "id": 37086144005,
+                "preferredName": "Alexander P\u00f6ppl",
+                "firstName": "Alexander",
+                "lastName": "P\u00f6ppl"
+            },
+            {
+                "id": 37994497900,
+                "preferredName": "Michael Bader",
+                "firstName": "Michael",
+                "lastName": "Bader"
+            },
+            {
+                "id": 37078406700,
+                "preferredName": "Tobias Schwarzer",
+                "firstName": "Tobias",
+                "lastName": "Schwarzer"
+            },
+            {
+                "id": 37355962600,
+                "preferredName": "Michael Gla\u00df",
+                "firstName": "Michael",
+                "lastName": "Gla\u00df"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.007",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831555",
+        "articleTitle": "PGAS Communication Runtime for Extreme Large Data Computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "PGAS Communication Runtime for Extreme Large Data Computation",
+        "authors": [
+            {
+                "id": 37086103106,
+                "preferredName": "Ryo Matsumiya",
+                "firstName": "Ryo",
+                "lastName": "Matsumiya"
+            },
+            {
+                "id": 37277040100,
+                "preferredName": "Toshio Endo",
+                "firstName": "Toshio",
+                "lastName": "Endo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.006",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831554",
+        "articleTitle": "In-Staging Data Placement for Asynchronous Coupling of Task-Based Scientific Workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "In-Staging Data Placement for Asynchronous Coupling of Task-Based Scientific Workflows",
+        "authors": [
+            {
+                "id": 37085343088,
+                "preferredName": "Qian Sun",
+                "firstName": "Qian",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37085547860,
+                "preferredName": "Melissa Romanus",
+                "firstName": "Melissa",
+                "lastName": "Romanus"
+            },
+            {
+                "id": 38551723200,
+                "preferredName": "Tong Jin",
+                "firstName": "Tong",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37401024100,
+                "preferredName": "Hongfeng Yu",
+                "firstName": "Hongfeng",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37564112000,
+                "preferredName": "Peer-Timo Bremer",
+                "firstName": "Peer-Timo",
+                "lastName": "Bremer"
+            },
+            {
+                "id": 37086120775,
+                "preferredName": "Steve Petruzza",
+                "firstName": "Steve",
+                "lastName": "Petruzza"
+            },
+            {
+                "id": 37267815000,
+                "preferredName": "Scott Klasky",
+                "firstName": "Scott",
+                "lastName": "Klasky"
+            },
+            {
+                "id": 37269279100,
+                "preferredName": "Manish Parashar",
+                "firstName": "Manish",
+                "lastName": "Parashar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.008",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831556",
+        "articleTitle": "A Scalable Task Parallelism Approach for LU Decomposition with Multicore CPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "23",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "A Scalable Task Parallelism Approach for LU Decomposition with Multicore CPUs",
+        "authors": [
+            {
+                "id": 37086035377,
+                "preferredName": "Verinder S. Rana",
+                "firstName": "Verinder S.",
+                "lastName": "Rana"
+            },
+            {
+                "id": 37086519321,
+                "preferredName": "Meifeng Lin",
+                "firstName": "Meifeng",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.004",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831552",
+        "articleTitle": "Message from the Program Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "Message from the Program Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.002",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831550",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "ii",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.003",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831551",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.001",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831549",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7829651",
+        "doi": "10.1109/ESPM2.2016.013",
+        "publicationYear": "2016",
+        "publicationDate": "18-18 Nov. 2016",
+        "articleNumber": "7831561",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Second International Workshop on Extreme Scale Programming Models and Middlewar (ESPM2)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    }
+]

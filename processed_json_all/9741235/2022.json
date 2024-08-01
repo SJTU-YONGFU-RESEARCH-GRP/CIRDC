@@ -1,0 +1,1517 @@
+[
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741258",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741258",
+        "articleTitle": "CompilerGym: Robust, Performant Compiler Optimization Environments for AI Research",
+        "volume": null,
+        "issue": null,
+        "startPage": "92",
+        "endPage": "105",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CompilerGym: Robust, Performant Compiler Optimization Environments for AI Research",
+        "authors": [
+            {
+                "id": 37086186898,
+                "preferredName": "Chris Cummins",
+                "firstName": "Chris",
+                "lastName": "Cummins"
+            },
+            {
+                "id": 37088731201,
+                "preferredName": "Bram Wasti",
+                "firstName": "Bram",
+                "lastName": "Wasti"
+            },
+            {
+                "id": 37089444483,
+                "preferredName": "Jiadong Guo",
+                "firstName": "Jiadong",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37089346870,
+                "preferredName": "Brandon Cui",
+                "firstName": "Brandon",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37297741000,
+                "preferredName": "Jason Ansel",
+                "firstName": "Jason",
+                "lastName": "Ansel"
+            },
+            {
+                "id": 37089346043,
+                "preferredName": "Sahir Gomez",
+                "firstName": "Sahir",
+                "lastName": "Gomez"
+            },
+            {
+                "id": 37089348500,
+                "preferredName": "Somya Jain",
+                "firstName": "Somya",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37089347760,
+                "preferredName": "Jia Liu",
+                "firstName": "Jia",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37424291200,
+                "preferredName": "Olivier Teytaud",
+                "firstName": "Olivier",
+                "lastName": "Teytaud"
+            },
+            {
+                "id": 37089346547,
+                "preferredName": "Benoit Steiner",
+                "firstName": "Benoit",
+                "lastName": "Steiner"
+            },
+            {
+                "id": 37089347102,
+                "preferredName": "Yuandong Tian",
+                "firstName": "Yuandong",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37643265100,
+                "preferredName": "Hugh Leather",
+                "firstName": "Hugh",
+                "lastName": "Leather"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741270",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741270",
+        "articleTitle": "Automatic Horizontal Fusion for GPU Kernels",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Automatic Horizontal Fusion for GPU Kernels",
+        "authors": [
+            {
+                "id": 37089346505,
+                "preferredName": "Ao Li",
+                "firstName": "Ao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086549434,
+                "preferredName": "Bojian Zheng",
+                "firstName": "Bojian",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37085379570,
+                "preferredName": "Gennady Pekhimenko",
+                "firstName": "Gennady",
+                "lastName": "Pekhimenko"
+            },
+            {
+                "id": 37088530797,
+                "preferredName": "Fan Long",
+                "firstName": "Fan",
+                "lastName": "Long"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741290",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741290",
+        "articleTitle": "Efficient Execution of OpenMP on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "52",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Efficient Execution of OpenMP on GPUs",
+        "authors": [
+            {
+                "id": 37089345349,
+                "preferredName": "Joseph Huber",
+                "firstName": "Joseph",
+                "lastName": "Huber"
+            },
+            {
+                "id": 37089345576,
+                "preferredName": "Melanie Cornelius",
+                "firstName": "Melanie",
+                "lastName": "Cornelius"
+            },
+            {
+                "id": 37993120700,
+                "preferredName": "Giorgis Georgakoudis",
+                "firstName": "Giorgis",
+                "lastName": "Georgakoudis"
+            },
+            {
+                "id": 37089349292,
+                "preferredName": "Shilei Tian",
+                "firstName": "Shilei",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37087028863,
+                "preferredName": "Jose M Monsalve Diaz",
+                "firstName": "Jose M Monsalve",
+                "lastName": "Diaz"
+            },
+            {
+                "id": 37089345279,
+                "preferredName": "Kuter Dinel",
+                "firstName": "Kuter",
+                "lastName": "Dinel"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            },
+            {
+                "id": 37085525769,
+                "preferredName": "Johannes Doerfert",
+                "firstName": "Johannes",
+                "lastName": "Doerfert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741256",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741256",
+        "articleTitle": "Loop Rolling for Code Size Reduction",
+        "volume": null,
+        "issue": null,
+        "startPage": "217",
+        "endPage": "229",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Loop Rolling for Code Size Reduction",
+        "authors": [
+            {
+                "id": 37086025512,
+                "preferredName": "Rodrigo C. O. Rocha",
+                "firstName": "Rodrigo C. O.",
+                "lastName": "Rocha"
+            },
+            {
+                "id": 37572691800,
+                "preferredName": "Pavlos Petoumenos",
+                "firstName": "Pavlos",
+                "lastName": "Petoumenos"
+            },
+            {
+                "id": 37593805500,
+                "preferredName": "Bj\u00f6rn Franke",
+                "firstName": "Bj\u00f6rn",
+                "lastName": "Franke"
+            },
+            {
+                "id": 37857757500,
+                "preferredName": "Pramod Bhatotia",
+                "firstName": "Pramod",
+                "lastName": "Bhatotia"
+            },
+            {
+                "id": 37353527100,
+                "preferredName": "Michael O\u2019Boyle",
+                "firstName": "Michael",
+                "lastName": "O\u2019Boyle"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741265",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741265",
+        "articleTitle": "HECATE: Performance-Aware Scale Optimization for Homomorphic Encryption Compiler",
+        "volume": null,
+        "issue": null,
+        "startPage": "193",
+        "endPage": "204",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "HECATE: Performance-Aware Scale Optimization for Homomorphic Encryption Compiler",
+        "authors": [
+            {
+                "id": 37086127931,
+                "preferredName": "Yongwoo Lee",
+                "firstName": "Yongwoo",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086202190,
+                "preferredName": "Seonyeong Heo",
+                "firstName": "Seonyeong",
+                "lastName": "Heo"
+            },
+            {
+                "id": 37089347934,
+                "preferredName": "Seonyoung Cheon",
+                "firstName": "Seonyoung",
+                "lastName": "Cheon"
+            },
+            {
+                "id": 37088813137,
+                "preferredName": "Shinnung Jeong",
+                "firstName": "Shinnung",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 37086324920,
+                "preferredName": "Changsu Kim",
+                "firstName": "Changsu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088540261,
+                "preferredName": "Eunkyung Kim",
+                "firstName": "Eunkyung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086101417,
+                "preferredName": "Dongyoon Lee",
+                "firstName": "Dongyoon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086206636,
+                "preferredName": "Hanjun Kim",
+                "firstName": "Hanjun",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741277",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741277",
+        "articleTitle": "SPNC: An Open-Source MLIR-Based Compiler for Fast Sum-Product Network Inference on CPUs and GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "SPNC: An Open-Source MLIR-Based Compiler for Fast Sum-Product Network Inference on CPUs and GPUs",
+        "authors": [
+            {
+                "id": 37086155875,
+                "preferredName": "Lukas Sommer",
+                "firstName": "Lukas",
+                "lastName": "Sommer"
+            },
+            {
+                "id": 37546824200,
+                "preferredName": "Cristian Axenie",
+                "firstName": "Cristian",
+                "lastName": "Axenie"
+            },
+            {
+                "id": 37274057500,
+                "preferredName": "Andreas Koch",
+                "firstName": "Andreas",
+                "lastName": "Koch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741260",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741260",
+        "articleTitle": "Optimizing GPU Deep Learning Operators with Polyhedral Scheduling Constraint Injection",
+        "volume": null,
+        "issue": null,
+        "startPage": "313",
+        "endPage": "324",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Optimizing GPU Deep Learning Operators with Polyhedral Scheduling Constraint Injection",
+        "authors": [
+            {
+                "id": 37282536500,
+                "preferredName": "Cedric Bastoul",
+                "firstName": "Cedric",
+                "lastName": "Bastoul"
+            },
+            {
+                "id": 37089655260,
+                "preferredName": "Zhen Zhang",
+                "firstName": "Zhen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086273411,
+                "preferredName": "Harenome Razanajato",
+                "firstName": "Harenome",
+                "lastName": "Razanajato"
+            },
+            {
+                "id": 37086044087,
+                "preferredName": "Nelson Lossing",
+                "firstName": "Nelson",
+                "lastName": "Lossing"
+            },
+            {
+                "id": 37089347471,
+                "preferredName": "Adilla Susungi",
+                "firstName": "Adilla",
+                "lastName": "Susungi"
+            },
+            {
+                "id": 37089346984,
+                "preferredName": "Javier de Juan",
+                "firstName": "Javier",
+                "lastName": "de Juan"
+            },
+            {
+                "id": 37089348457,
+                "preferredName": "Etienne Filhol",
+                "firstName": "Etienne",
+                "lastName": "Filhol"
+            },
+            {
+                "id": 37089347187,
+                "preferredName": "Baptiste Jarry",
+                "firstName": "Baptiste",
+                "lastName": "Jarry"
+            },
+            {
+                "id": 37089347022,
+                "preferredName": "Gianpietro Consolaro",
+                "firstName": "Gianpietro",
+                "lastName": "Consolaro"
+            },
+            {
+                "id": 37089345759,
+                "preferredName": "Renwei Zhang",
+                "firstName": "Renwei",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741272",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741272",
+        "articleTitle": "Solving PBQP-Based Register Allocation using Deep Reinforcement Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Solving PBQP-Based Register Allocation using Deep Reinforcement Learning",
+        "authors": [
+            {
+                "id": 37086934258,
+                "preferredName": "Minsu Kim",
+                "firstName": "Minsu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37089347257,
+                "preferredName": "Jeong-Keun Park",
+                "firstName": "Jeong-Keun",
+                "lastName": "Park"
+            },
+            {
+                "id": 37331026800,
+                "preferredName": "Soo-Mook Moon",
+                "firstName": "Soo-Mook",
+                "lastName": "Moon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741274",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741274",
+        "articleTitle": "Recovering Container Class Types in C++ Binaries",
+        "volume": null,
+        "issue": null,
+        "startPage": "131",
+        "endPage": "143",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Recovering Container Class Types in C++ Binaries",
+        "authors": [
+            {
+                "id": 37089348155,
+                "preferredName": "Xudong Wang",
+                "firstName": "Xudong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086949724,
+                "preferredName": "Xuezheng Xu",
+                "firstName": "Xuezheng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 38238742200,
+                "preferredName": "Qingan Li",
+                "firstName": "Qingan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085540442,
+                "preferredName": "Mengting Yuan",
+                "firstName": "Mengting",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37402346100,
+                "preferredName": "Jingling Xue",
+                "firstName": "Jingling",
+                "lastName": "Xue"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741276",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741276",
+        "articleTitle": "NOELLE Offers Empowering LLVM Extensions",
+        "volume": null,
+        "issue": null,
+        "startPage": "179",
+        "endPage": "192",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "NOELLE Offers Empowering LLVM Extensions",
+        "authors": [
+            {
+                "id": 37089347302,
+                "preferredName": "Angelo Matni",
+                "firstName": "Angelo",
+                "lastName": "Matni"
+            },
+            {
+                "id": 37086234591,
+                "preferredName": "Enrico Armenio Deiana",
+                "firstName": "Enrico Armenio",
+                "lastName": "Deiana"
+            },
+            {
+                "id": 37089346432,
+                "preferredName": "Yian Su",
+                "firstName": "Yian",
+                "lastName": "Su"
+            },
+            {
+                "id": 37089346729,
+                "preferredName": "Lukas Gross",
+                "firstName": "Lukas",
+                "lastName": "Gross"
+            },
+            {
+                "id": 37088770383,
+                "preferredName": "Souradip Ghosh",
+                "firstName": "Souradip",
+                "lastName": "Ghosh"
+            },
+            {
+                "id": 37086198315,
+                "preferredName": "Sotiris Apostolakis",
+                "firstName": "Sotiris",
+                "lastName": "Apostolakis"
+            },
+            {
+                "id": 37089345639,
+                "preferredName": "Ziyang Xu",
+                "firstName": "Ziyang",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37089345685,
+                "preferredName": "Zujun Tan",
+                "firstName": "Zujun",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37089346852,
+                "preferredName": "Ishita Chaturvedi",
+                "firstName": "Ishita",
+                "lastName": "Chaturvedi"
+            },
+            {
+                "id": 37088450357,
+                "preferredName": "Brian Homerding",
+                "firstName": "Brian",
+                "lastName": "Homerding"
+            },
+            {
+                "id": 37089345423,
+                "preferredName": "Tommy McMichen",
+                "firstName": "Tommy",
+                "lastName": "McMichen"
+            },
+            {
+                "id": 37265266800,
+                "preferredName": "David I. August",
+                "firstName": "David I.",
+                "lastName": "August"
+            },
+            {
+                "id": 37594368300,
+                "preferredName": "Simone Campanoni",
+                "firstName": "Simone",
+                "lastName": "Campanoni"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741284",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741284",
+        "articleTitle": "A Compiler Framework for Optimizing Dynamic Parallelism on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "A Compiler Framework for Optimizing Dynamic Parallelism on GPUs",
+        "authors": [
+            {
+                "id": 37088589148,
+                "preferredName": "Mhd Ghaith Olabi",
+                "firstName": "Mhd Ghaith",
+                "lastName": "Olabi"
+            },
+            {
+                "id": 37088550636,
+                "preferredName": "Juan G\u00f3mez Luna",
+                "firstName": "Juan G\u00f3mez",
+                "lastName": "Luna"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37282333800,
+                "preferredName": "Wen-Mei Hwu",
+                "firstName": "Wen-Mei",
+                "lastName": "Hwu"
+            },
+            {
+                "id": 37085390441,
+                "preferredName": "Izzat El Hajj",
+                "firstName": "Izzat El",
+                "lastName": "Hajj"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741263",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741263",
+        "articleTitle": "SRTuner: Effective Compiler Optimization Customization by Exposing Synergistic Relations",
+        "volume": null,
+        "issue": null,
+        "startPage": "118",
+        "endPage": "130",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "SRTuner: Effective Compiler Optimization Customization by Exposing Synergistic Relations",
+        "authors": [
+            {
+                "id": 37089349144,
+                "preferredName": "Sunghyun Park",
+                "firstName": "Sunghyun",
+                "lastName": "Park"
+            },
+            {
+                "id": 37087083475,
+                "preferredName": "Salar Latifi",
+                "firstName": "Salar",
+                "lastName": "Latifi"
+            },
+            {
+                "id": 37086362627,
+                "preferredName": "Yongjun Park",
+                "firstName": "Yongjun",
+                "lastName": "Park"
+            },
+            {
+                "id": 37088847758,
+                "preferredName": "Armand Behroozi",
+                "firstName": "Armand",
+                "lastName": "Behroozi"
+            },
+            {
+                "id": 37089345420,
+                "preferredName": "Byungsoo Jeon",
+                "firstName": "Byungsoo",
+                "lastName": "Jeon"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "Scott Mahlke",
+                "firstName": "Scott",
+                "lastName": "Mahlke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741267",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741267",
+        "articleTitle": "Sound, Precise, and Fast Abstract Interpretation with Tristate Numbers",
+        "volume": null,
+        "issue": null,
+        "startPage": "254",
+        "endPage": "265",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Sound, Precise, and Fast Abstract Interpretation with Tristate Numbers",
+        "authors": [
+            {
+                "id": 37089348190,
+                "preferredName": "Harishankar Vishwanathan",
+                "firstName": "Harishankar",
+                "lastName": "Vishwanathan"
+            },
+            {
+                "id": 37089348386,
+                "preferredName": "Matan Shachnai",
+                "firstName": "Matan",
+                "lastName": "Shachnai"
+            },
+            {
+                "id": 37086658851,
+                "preferredName": "Srinivas Narayana",
+                "firstName": "Srinivas",
+                "lastName": "Narayana"
+            },
+            {
+                "id": 38268962400,
+                "preferredName": "Santosh Nagarakatte",
+                "firstName": "Santosh",
+                "lastName": "Nagarakatte"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741273",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741273",
+        "articleTitle": "Automatic Generation of Debug Headers through BlackBox Equivalence Checking",
+        "volume": null,
+        "issue": null,
+        "startPage": "144",
+        "endPage": "154",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Automatic Generation of Debug Headers through BlackBox Equivalence Checking",
+        "authors": [
+            {
+                "id": 37089348189,
+                "preferredName": "Vaibhav Kiran Kurhe",
+                "firstName": "Vaibhav Kiran",
+                "lastName": "Kurhe"
+            },
+            {
+                "id": 37089348753,
+                "preferredName": "Pratik Karia",
+                "firstName": "Pratik",
+                "lastName": "Karia"
+            },
+            {
+                "id": 37088345884,
+                "preferredName": "Shubhani Gupta",
+                "firstName": "Shubhani",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37089348651,
+                "preferredName": "Abhishek Rose",
+                "firstName": "Abhishek",
+                "lastName": "Rose"
+            },
+            {
+                "id": 37089346575,
+                "preferredName": "Sorav Bansal",
+                "firstName": "Sorav",
+                "lastName": "Bansal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741275",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741275",
+        "articleTitle": "Aggregate Update Problem for Multi-clocked Dataflow Languages",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "91",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Aggregate Update Problem for Multi-clocked Dataflow Languages",
+        "authors": [
+            {
+                "id": 37089348877,
+                "preferredName": "Hannes Kallwies",
+                "firstName": "Hannes",
+                "lastName": "Kallwies"
+            },
+            {
+                "id": 37589454600,
+                "preferredName": "Martin Leucker",
+                "firstName": "Martin",
+                "lastName": "Leucker"
+            },
+            {
+                "id": 37085365301,
+                "preferredName": "Torben Scheffel",
+                "firstName": "Torben",
+                "lastName": "Scheffel"
+            },
+            {
+                "id": 37085359389,
+                "preferredName": "Malte Schmitz",
+                "firstName": "Malte",
+                "lastName": "Schmitz"
+            },
+            {
+                "id": 37085508493,
+                "preferredName": "Daniel Thoma",
+                "firstName": "Daniel",
+                "lastName": "Thoma"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741285",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741285",
+        "articleTitle": "DARM: Control-Flow Melding for SIMT Thread Divergence Reduction",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "DARM: Control-Flow Melding for SIMT Thread Divergence Reduction",
+        "authors": [
+            {
+                "id": 37085696770,
+                "preferredName": "Charitha Saumya",
+                "firstName": "Charitha",
+                "lastName": "Saumya"
+            },
+            {
+                "id": 37085815457,
+                "preferredName": "Kirshanthan Sundararajah",
+                "firstName": "Kirshanthan",
+                "lastName": "Sundararajah"
+            },
+            {
+                "id": 37075917300,
+                "preferredName": "Milind Kulkarni",
+                "firstName": "Milind",
+                "lastName": "Kulkarni"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741289",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741289",
+        "articleTitle": "PALMED: Throughput Characterization for Superscalar Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "106",
+        "endPage": "117",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "PALMED: Throughput Characterization for Superscalar Architectures",
+        "authors": [
+            {
+                "id": 37089345283,
+                "preferredName": "Nicolas Derumigny",
+                "firstName": "Nicolas",
+                "lastName": "Derumigny"
+            },
+            {
+                "id": 37089347087,
+                "preferredName": "Th\u00e9ophile Bastian",
+                "firstName": "Th\u00e9ophile",
+                "lastName": "Bastian"
+            },
+            {
+                "id": 37089346806,
+                "preferredName": "Fabian Gruber",
+                "firstName": "Fabian",
+                "lastName": "Gruber"
+            },
+            {
+                "id": 37089348701,
+                "preferredName": "Guillaume Iooss",
+                "firstName": "Guillaume",
+                "lastName": "Iooss"
+            },
+            {
+                "id": 37544769000,
+                "preferredName": "Christophe Guillon",
+                "firstName": "Christophe",
+                "lastName": "Guillon"
+            },
+            {
+                "id": 37297752800,
+                "preferredName": "Louis-No\u00ebl Pouchet",
+                "firstName": "Louis-No\u00ebl",
+                "lastName": "Pouchet"
+            },
+            {
+                "id": 37293726200,
+                "preferredName": "Fabrice Rastello",
+                "firstName": "Fabrice",
+                "lastName": "Rastello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741262",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741262",
+        "articleTitle": "Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation",
+        "volume": null,
+        "issue": null,
+        "startPage": "278",
+        "endPage": "289",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Enabling Near Real-Time NLU-Driven Natural Language Programming through Dynamic Grammar Graph-Based Translation",
+        "authors": [
+            {
+                "id": 37089347835,
+                "preferredName": "Zifan Nan",
+                "firstName": "Zifan",
+                "lastName": "Nan"
+            },
+            {
+                "id": 37085517964,
+                "preferredName": "Xipeng Shen",
+                "firstName": "Xipeng",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37085866506,
+                "preferredName": "Hui Guan",
+                "firstName": "Hui",
+                "lastName": "Guan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741278",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741278",
+        "articleTitle": "Distill: Domain-Specific Compilation for Cognitive Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "301",
+        "endPage": "312",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Distill: Domain-Specific Compilation for Cognitive Models",
+        "authors": [
+            {
+                "id": 37085777554,
+                "preferredName": "J\u00e1n Vesel\u00fd",
+                "firstName": "J\u00e1n",
+                "lastName": "Vesel\u00fd"
+            },
+            {
+                "id": 37085871126,
+                "preferredName": "Raghavendra Pradyumna Pothukuchi",
+                "firstName": "Raghavendra Pradyumna",
+                "lastName": "Pothukuchi"
+            },
+            {
+                "id": 37089348373,
+                "preferredName": "Ketaki Joshi",
+                "firstName": "Ketaki",
+                "lastName": "Joshi"
+            },
+            {
+                "id": 37089349178,
+                "preferredName": "Samyak Gupta",
+                "firstName": "Samyak",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37086113061,
+                "preferredName": "Jonathan D. Cohen",
+                "firstName": "Jonathan D.",
+                "lastName": "Cohen"
+            },
+            {
+                "id": 38070367000,
+                "preferredName": "Abhishek Bhattacharjee",
+                "firstName": "Abhishek",
+                "lastName": "Bhattacharjee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741282",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741282",
+        "articleTitle": "Unified Compilation for Lossless Compression and Sparse Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "205",
+        "endPage": "216",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Unified Compilation for Lossless Compression and Sparse Computing",
+        "authors": [
+            {
+                "id": 37089347607,
+                "preferredName": "Daniel Donenfeld",
+                "firstName": "Daniel",
+                "lastName": "Donenfeld"
+            },
+            {
+                "id": 37086238240,
+                "preferredName": "Stephen Chou",
+                "firstName": "Stephen",
+                "lastName": "Chou"
+            },
+            {
+                "id": 37273317200,
+                "preferredName": "Saman Amarasinghe",
+                "firstName": "Saman",
+                "lastName": "Amarasinghe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741286",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741286",
+        "articleTitle": "A Compiler for Sound Floating-Point Computations using Affine Arithmetic",
+        "volume": null,
+        "issue": null,
+        "startPage": "66",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "A Compiler for Sound Floating-Point Computations using Affine Arithmetic",
+        "authors": [
+            {
+                "id": 37088868237,
+                "preferredName": "Joao Rivera",
+                "firstName": "Joao",
+                "lastName": "Rivera"
+            },
+            {
+                "id": 37330879000,
+                "preferredName": "Franz Franchetti",
+                "firstName": "Franz",
+                "lastName": "Franchetti"
+            },
+            {
+                "id": 37284075500,
+                "preferredName": "Markus P\u00fcschel",
+                "firstName": "Markus",
+                "lastName": "P\u00fcschel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741261",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741261",
+        "articleTitle": "M3V: Multi-modal Multi-view Context Embedding for Repair Operator Prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "266",
+        "endPage": "277",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "M3V: Multi-modal Multi-view Context Embedding for Repair Operator Prediction",
+        "authors": [
+            {
+                "id": 37086949724,
+                "preferredName": "Xuezheng Xu",
+                "firstName": "Xuezheng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37089348155,
+                "preferredName": "Xudong Wang",
+                "firstName": "Xudong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37402346100,
+                "preferredName": "Jingling Xue",
+                "firstName": "Jingling",
+                "lastName": "Xue"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741259",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741259",
+        "articleTitle": "Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting",
+        "volume": null,
+        "issue": null,
+        "startPage": "155",
+        "endPage": "167",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Gadgets Splicing: Dynamic Binary Transformation for Precise Rewriting",
+        "authors": [
+            {
+                "id": 37089347923,
+                "preferredName": "Linan Tian",
+                "firstName": "Linan",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37089345997,
+                "preferredName": "Yangyang Shi",
+                "firstName": "Yangyang",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37086424289,
+                "preferredName": "Liwei Chen",
+                "firstName": "Liwei",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089345721,
+                "preferredName": "Yanqi Yang",
+                "firstName": "Yanqi",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37413304200,
+                "preferredName": "Gang Shi",
+                "firstName": "Gang",
+                "lastName": "Shi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741269",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741269",
+        "articleTitle": "F3M: Fast Focused Function Merging",
+        "volume": null,
+        "issue": null,
+        "startPage": "242",
+        "endPage": "253",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "F3M: Fast Focused Function Merging",
+        "authors": [
+            {
+                "id": 37089348177,
+                "preferredName": "Sean Stirling",
+                "firstName": "Sean",
+                "lastName": "Stirling"
+            },
+            {
+                "id": 37089345746,
+                "preferredName": "Rocha Rodrigo C. O.",
+                "firstName": "Rocha",
+                "lastName": "Rodrigo C. O."
+            },
+            {
+                "id": 37267298100,
+                "preferredName": "Kim Hazelwood",
+                "firstName": "Kim",
+                "lastName": "Hazelwood"
+            },
+            {
+                "id": 37643265100,
+                "preferredName": "Hugh Leather",
+                "firstName": "Hugh",
+                "lastName": "Leather"
+            },
+            {
+                "id": 37353527100,
+                "preferredName": "Michael O\u2019Boyle",
+                "firstName": "Michael",
+                "lastName": "O\u2019Boyle"
+            },
+            {
+                "id": 37572691800,
+                "preferredName": "Pavlos Petoumenos",
+                "firstName": "Pavlos",
+                "lastName": "Petoumenos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741281",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741281",
+        "articleTitle": "Comprehensive Accelerator-Dataflow Co-design Optimization for Convolutional Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "325",
+        "endPage": "335",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Comprehensive Accelerator-Dataflow Co-design Optimization for Convolutional Neural Networks",
+        "authors": [
+            {
+                "id": 37086494682,
+                "preferredName": "Miheer Vaidya",
+                "firstName": "Miheer",
+                "lastName": "Vaidya"
+            },
+            {
+                "id": 37086245661,
+                "preferredName": "Aravind Sukumaran-Rajam",
+                "firstName": "Aravind",
+                "lastName": "Sukumaran-Rajam"
+            },
+            {
+                "id": 37264946400,
+                "preferredName": "Atanas Rountev",
+                "firstName": "Atanas",
+                "lastName": "Rountev"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741280",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741280",
+        "articleTitle": "GraphIt to CUDA Compiler in 2021 LOC: A Case for High-Performance DSL Implementation via Staging with BuilDSL",
+        "volume": null,
+        "issue": null,
+        "startPage": "53",
+        "endPage": "65",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "GraphIt to CUDA Compiler in 2021 LOC: A Case for High-Performance DSL Implementation via Staging with BuilDSL",
+        "authors": [
+            {
+                "id": 37086181710,
+                "preferredName": "Ajay Brahmakshatriya",
+                "firstName": "Ajay",
+                "lastName": "Brahmakshatriya"
+            },
+            {
+                "id": 37273317200,
+                "preferredName": "Saman Amarasinghe",
+                "firstName": "Saman",
+                "lastName": "Amarasinghe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741279",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741279",
+        "articleTitle": "Lambda the Ultimate SSA: Optimizing Functional Programs in SSA",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Lambda the Ultimate SSA: Optimizing Functional Programs in SSA",
+        "authors": [
+            {
+                "id": 37089345288,
+                "preferredName": "Siddharth Bhat",
+                "firstName": "Siddharth",
+                "lastName": "Bhat"
+            },
+            {
+                "id": 37398882000,
+                "preferredName": "Tobias Grosser",
+                "firstName": "Tobias",
+                "lastName": "Grosser"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741264",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741264",
+        "articleTitle": "Message from the General Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Message from the General Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741268",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741268",
+        "articleTitle": "Committees of CGO 2022",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "vii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Committees of CGO 2022",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741271",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741271",
+        "articleTitle": "Welcome from the Program Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Welcome from the Program Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741283",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741283",
+        "articleTitle": "CGO 2022 Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "x",
+        "endPage": "x",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CGO 2022 Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741287",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741287",
+        "articleTitle": "Report from the Artifact Evaluation Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "viii",
+        "endPage": "ix",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Report from the Artifact Evaluation Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741266",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741266",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741288",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741288",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "336",
+        "endPage": "336",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9741235",
+        "doi": "10.1109/CGO53902.2022.9741257",
+        "publicationYear": "2022",
+        "publicationDate": "2-6 April 2022",
+        "articleNumber": "9741257",
+        "articleTitle": "Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "xi",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Contents",
+        "authors": []
+    }
+]

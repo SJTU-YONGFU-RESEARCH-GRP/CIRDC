@@ -1,0 +1,1595 @@
+[
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661193",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661193",
+        "articleTitle": "Rethinking Compilation in a Heterogeneous World (Keynote)",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Rethinking Compilation in a Heterogeneous World (Keynote)",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661170",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661170",
+        "articleTitle": "Code Generation from Formal Models for Automatic RTOS Portability",
+        "volume": null,
+        "issue": null,
+        "startPage": "271",
+        "endPage": "272",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Code Generation from Formal Models for Automatic RTOS Portability",
+        "authors": [
+            {
+                "id": 37086609719,
+                "preferredName": "Renata Martins Gomes",
+                "firstName": "Renata Martins",
+                "lastName": "Gomes"
+            },
+            {
+                "id": 37847003300,
+                "preferredName": "Marcel Baunach",
+                "firstName": "Marcel",
+                "lastName": "Baunach"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661172",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661172",
+        "articleTitle": "Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation",
+        "volume": null,
+        "issue": null,
+        "startPage": "285",
+        "endPage": "286",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Translating CUDA to OpenCL for Hardware Generation using Neural Machine Translation",
+        "authors": [
+            {
+                "id": 37086700088,
+                "preferredName": "Yonghae Kim",
+                "firstName": "Yonghae",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37280376200,
+                "preferredName": "Hyesoon Kim",
+                "firstName": "Hyesoon",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661188",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661188",
+        "articleTitle": "Kernel Fusion/Decomposition for Automatic GPU-Offloading",
+        "volume": null,
+        "issue": null,
+        "startPage": "283",
+        "endPage": "284",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Kernel Fusion/Decomposition for Automatic GPU-Offloading",
+        "authors": [
+            {
+                "id": 37086699307,
+                "preferredName": "Alok Mishra",
+                "firstName": "Alok",
+                "lastName": "Mishra"
+            },
+            {
+                "id": 37085646208,
+                "preferredName": "Martin Kong",
+                "firstName": "Martin",
+                "lastName": "Kong"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661168",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661168",
+        "articleTitle": "Accelerating GPU Computing at Runtime with Binary Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "276",
+        "endPage": "277",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Accelerating GPU Computing at Runtime with Binary Optimization",
+        "authors": [
+            {
+                "id": 37086480240,
+                "preferredName": "Guangli Li",
+                "firstName": "Guangli",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089261548,
+                "preferredName": "Lei Liu",
+                "firstName": "Lei",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37632787100,
+                "preferredName": "Xiaobing Feng",
+                "firstName": "Xiaobing",
+                "lastName": "Feng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661199",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661199",
+        "articleTitle": "Multi-target Compiler for the Deployment of Machine Learning Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "280",
+        "endPage": "281",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Multi-target Compiler for the Deployment of Machine Learning Models",
+        "authors": [
+            {
+                "id": 37086699986,
+                "preferredName": "Oscar Castro-Lopez",
+                "firstName": "Oscar",
+                "lastName": "Castro-Lopez"
+            },
+            {
+                "id": 37085956328,
+                "preferredName": "Ines F. Vega-Lopez",
+                "firstName": "Ines F.",
+                "lastName": "Vega-Lopez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661190",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661190",
+        "articleTitle": "Understanding RDMA Behavior in NUMA Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "273",
+        "endPage": "274",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Understanding RDMA Behavior in NUMA Systems",
+        "authors": [
+            {
+                "id": 37086699475,
+                "preferredName": "Jacob Nelson",
+                "firstName": "Jacob",
+                "lastName": "Nelson"
+            },
+            {
+                "id": 37392564400,
+                "preferredName": "Roberto Palmieri",
+                "firstName": "Roberto",
+                "lastName": "Palmieri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661181",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661181",
+        "articleTitle": "Optimizing RNA-RNA Interaction Computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "269",
+        "endPage": "270",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Optimizing RNA-RNA Interaction Computations",
+        "authors": [
+            {
+                "id": 37086699073,
+                "preferredName": "Swetha Varadarajan",
+                "firstName": "Swetha",
+                "lastName": "Varadarajan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661195",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661195",
+        "articleTitle": "Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "275",
+        "endPage": "275",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Translating Traditional SIMD Instructions to Vector Length Agnostic Architectures",
+        "authors": [
+            {
+                "id": 37085504881,
+                "preferredName": "Sheng-Yu Fu",
+                "firstName": "Sheng-Yu",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37272583700,
+                "preferredName": "Wei-Chung Hsu",
+                "firstName": "Wei-Chung",
+                "lastName": "Hsu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661165",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661165",
+        "articleTitle": "Extending LLVM for Lightweight SPMD Vectorization: Using SIMD and Vector Instructions Easily from Any Language",
+        "volume": null,
+        "issue": null,
+        "startPage": "278",
+        "endPage": "279",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Extending LLVM for Lightweight SPMD Vectorization: Using SIMD and Vector Instructions Easily from Any Language",
+        "authors": [
+            {
+                "id": 37086698991,
+                "preferredName": "Robin Kruppe",
+                "firstName": "Robin",
+                "lastName": "Kruppe"
+            },
+            {
+                "id": 37072956500,
+                "preferredName": "Julian Oppermann",
+                "firstName": "Julian",
+                "lastName": "Oppermann"
+            },
+            {
+                "id": 37086155875,
+                "preferredName": "Lukas Sommer",
+                "firstName": "Lukas",
+                "lastName": "Sommer"
+            },
+            {
+                "id": 37274057500,
+                "preferredName": "Andreas Koch",
+                "firstName": "Andreas",
+                "lastName": "Koch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661167",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661167",
+        "articleTitle": "Automatic Parallelization of Irregular x86-64 Loops",
+        "volume": null,
+        "issue": null,
+        "startPage": "266",
+        "endPage": "266",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Automatic Parallelization of Irregular x86-64 Loops",
+        "authors": [
+            {
+                "id": 37088239685,
+                "preferredName": "Brandon Neth",
+                "firstName": "Brandon",
+                "lastName": "Neth"
+            },
+            {
+                "id": 37669575100,
+                "preferredName": "Michelle Mills Strout",
+                "firstName": "Michelle Mills",
+                "lastName": "Strout"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661169",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661169",
+        "articleTitle": "A Tool for Performance Analysis of GPU-Accelerated Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "282",
+        "endPage": "282",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "A Tool for Performance Analysis of GPU-Accelerated Applications",
+        "authors": [
+            {
+                "id": 37088282042,
+                "preferredName": "Keren Zhou",
+                "firstName": "Keren",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 38276457400,
+                "preferredName": "John Mellor-Crummey",
+                "firstName": "John",
+                "lastName": "Mellor-Crummey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661183",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661183",
+        "articleTitle": "A Shared BTB Design for Multicore Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "267",
+        "endPage": "268",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "A Shared BTB Design for Multicore Systems",
+        "authors": [
+            {
+                "id": 37085708097,
+                "preferredName": "Moumita Das",
+                "firstName": "Moumita",
+                "lastName": "Das"
+            },
+            {
+                "id": 37332946000,
+                "preferredName": "Ansuman Banerjee",
+                "firstName": "Ansuman",
+                "lastName": "Banerjee"
+            },
+            {
+                "id": 37543301500,
+                "preferredName": "Bhaskar Sardar",
+                "firstName": "Bhaskar",
+                "lastName": "Sardar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661197",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661197",
+        "articleTitle": "Tiramisu: A Polyhedral Compiler for Expressing Fast and Portable Code",
+        "volume": null,
+        "issue": null,
+        "startPage": "193",
+        "endPage": "205",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Tiramisu: A Polyhedral Compiler for Expressing Fast and Portable Code",
+        "authors": [
+            {
+                "id": 37658251300,
+                "preferredName": "Riyadh Baghdadi",
+                "firstName": "Riyadh",
+                "lastName": "Baghdadi"
+            },
+            {
+                "id": 37089610818,
+                "preferredName": "Jessica Ray",
+                "firstName": "Jessica",
+                "lastName": "Ray"
+            },
+            {
+                "id": 37086701533,
+                "preferredName": "Malek Ben Romdhane",
+                "firstName": "Malek Ben",
+                "lastName": "Romdhane"
+            },
+            {
+                "id": 37086101389,
+                "preferredName": "Emanuele Del Sozzo",
+                "firstName": "Emanuele Del",
+                "lastName": "Sozzo"
+            },
+            {
+                "id": 37086701476,
+                "preferredName": "Abdurrahman Akkas",
+                "firstName": "Abdurrahman",
+                "lastName": "Akkas"
+            },
+            {
+                "id": 37086199930,
+                "preferredName": "Yunming Zhang",
+                "firstName": "Yunming",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086144424,
+                "preferredName": "Patricia Suriana",
+                "firstName": "Patricia",
+                "lastName": "Suriana"
+            },
+            {
+                "id": 37318889000,
+                "preferredName": "Shoaib Kamil",
+                "firstName": "Shoaib",
+                "lastName": "Kamil"
+            },
+            {
+                "id": 37273317200,
+                "preferredName": "Saman Amarasinghe",
+                "firstName": "Saman",
+                "lastName": "Amarasinghe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661201",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661201",
+        "articleTitle": "BOLT: A Practical Binary Optimizer for Data Centers and Beyond",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "BOLT: A Practical Binary Optimizer for Data Centers and Beyond",
+        "authors": [
+            {
+                "id": 37086699743,
+                "preferredName": "Maksim Panchenko",
+                "firstName": "Maksim",
+                "lastName": "Panchenko"
+            },
+            {
+                "id": 38528828600,
+                "preferredName": "Rafael Auler",
+                "firstName": "Rafael",
+                "lastName": "Auler"
+            },
+            {
+                "id": 37086699362,
+                "preferredName": "Bill Nell",
+                "firstName": "Bill",
+                "lastName": "Nell"
+            },
+            {
+                "id": 37426216200,
+                "preferredName": "Guilherme Ottoni",
+                "firstName": "Guilherme",
+                "lastName": "Ottoni"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661185",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661185",
+        "articleTitle": "Tensor Algebra Compilation with Workspaces",
+        "volume": null,
+        "issue": null,
+        "startPage": "180",
+        "endPage": "192",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Tensor Algebra Compilation with Workspaces",
+        "authors": [
+            {
+                "id": 37887695200,
+                "preferredName": "Fredrik Kjolstad",
+                "firstName": "Fredrik",
+                "lastName": "Kjolstad"
+            },
+            {
+                "id": 37089957248,
+                "preferredName": "Willow Ahrens",
+                "firstName": "Willow",
+                "lastName": "Ahrens"
+            },
+            {
+                "id": 37318889000,
+                "preferredName": "Shoaib Kamil",
+                "firstName": "Shoaib",
+                "lastName": "Kamil"
+            },
+            {
+                "id": 37273317200,
+                "preferredName": "Saman Amarasinghe",
+                "firstName": "Saman",
+                "lastName": "Amarasinghe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661182",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661182",
+        "articleTitle": "A Code Generator for High-Performance Tensor Contractions on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "85",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "A Code Generator for High-Performance Tensor Contractions on GPUs",
+        "authors": [
+            {
+                "id": 37089654605,
+                "preferredName": "Jinsung Kim",
+                "firstName": "Jinsung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086245661,
+                "preferredName": "Aravind Sukumaran-Rajam",
+                "firstName": "Aravind",
+                "lastName": "Sukumaran-Rajam"
+            },
+            {
+                "id": 37086328732,
+                "preferredName": "Vineeth Thumma",
+                "firstName": "Vineeth",
+                "lastName": "Thumma"
+            },
+            {
+                "id": 37283825700,
+                "preferredName": "Sriram Krishnamoorthy",
+                "firstName": "Sriram",
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "id": 38495274600,
+                "preferredName": "Ajay Panyala",
+                "firstName": "Ajay",
+                "lastName": "Panyala"
+            },
+            {
+                "id": 37297752800,
+                "preferredName": "Louis-No\u00ebl Pouchet",
+                "firstName": "Louis-No\u00ebl",
+                "lastName": "Pouchet"
+            },
+            {
+                "id": 37264946400,
+                "preferredName": "Atanas Rountev",
+                "firstName": "Atanas",
+                "lastName": "Rountev"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661174",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661174",
+        "articleTitle": "Function Merging by Sequence Alignment",
+        "volume": null,
+        "issue": null,
+        "startPage": "149",
+        "endPage": "163",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Function Merging by Sequence Alignment",
+        "authors": [
+            {
+                "id": 37086025512,
+                "preferredName": "Rodrigo C. O. Rocha",
+                "firstName": "Rodrigo C. O.",
+                "lastName": "Rocha"
+            },
+            {
+                "id": 37572691800,
+                "preferredName": "Pavlos Petoumenos",
+                "firstName": "Pavlos",
+                "lastName": "Petoumenos"
+            },
+            {
+                "id": 37085482719,
+                "preferredName": "Zheng Wang",
+                "firstName": "Zheng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37342560400,
+                "preferredName": "Murray Cole",
+                "firstName": "Murray",
+                "lastName": "Cole"
+            },
+            {
+                "id": 37643265100,
+                "preferredName": "Hugh Leather",
+                "firstName": "Hugh",
+                "lastName": "Leather"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661176",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661176",
+        "articleTitle": "From Loop Fusion to Kernel Fusion: A Domain-Specific Approach to Locality Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "242",
+        "endPage": "253",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "From Loop Fusion to Kernel Fusion: A Domain-Specific Approach to Locality Optimization",
+        "authors": [
+            {
+                "id": 37086700565,
+                "preferredName": "Bo Qiao",
+                "firstName": "Bo",
+                "lastName": "Qiao"
+            },
+            {
+                "id": 37085499302,
+                "preferredName": "Oliver Reiche",
+                "firstName": "Oliver",
+                "lastName": "Reiche"
+            },
+            {
+                "id": 37266978900,
+                "preferredName": "Frank Hannig",
+                "firstName": "Frank",
+                "lastName": "Hannig"
+            },
+            {
+                "id": 37276355800,
+                "preferredName": "J\u00efrgen Teich",
+                "firstName": "J\u00efrgen",
+                "lastName": "Teich"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661187",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661187",
+        "articleTitle": "Automatic Generation of Warp-Level Primitives and Atomic Instructions for Fast and Portable Parallel Reduction on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Automatic Generation of Warp-Level Primitives and Atomic Instructions for Fast and Portable Parallel Reduction on GPUs",
+        "authors": [
+            {
+                "id": 37086700650,
+                "preferredName": "Simon Garcia De Gonzalo",
+                "firstName": "Simon Garcia De",
+                "lastName": "Gonzalo"
+            },
+            {
+                "id": 37085842937,
+                "preferredName": "Sitao Huang",
+                "firstName": "Sitao",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37075039500,
+                "preferredName": "Juan G\u00f3mez-Luna",
+                "firstName": "Juan",
+                "lastName": "G\u00f3mez-Luna"
+            },
+            {
+                "id": 37391813200,
+                "preferredName": "Simon Hammond",
+                "firstName": "Simon",
+                "lastName": "Hammond"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37282333800,
+                "preferredName": "Wen-mei Hwu",
+                "firstName": "Wen-mei",
+                "lastName": "Hwu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661189",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661189",
+        "articleTitle": "IGC: The Open Source Intel Graphics Compiler",
+        "volume": null,
+        "issue": null,
+        "startPage": "254",
+        "endPage": "265",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "IGC: The Open Source Intel Graphics Compiler",
+        "authors": [
+            {
+                "id": 37086700218,
+                "preferredName": "Anupama Chandrasekhar",
+                "firstName": "Anupama",
+                "lastName": "Chandrasekhar"
+            },
+            {
+                "id": 37088744105,
+                "preferredName": "Gang Chen",
+                "firstName": "Gang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088732871,
+                "preferredName": "Po-Yu Chen",
+                "firstName": "Po-Yu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086698573,
+                "preferredName": "Wei-Yu Chen",
+                "firstName": "Wei-Yu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088744435,
+                "preferredName": "Junjie Gu",
+                "firstName": "Junjie",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37683374700,
+                "preferredName": "Peng Guo",
+                "firstName": "Peng",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37088732744,
+                "preferredName": "Shruthi Hebbur Prasanna Kumar",
+                "firstName": "Shruthi Hebbur Prasanna",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37550999900,
+                "preferredName": "Guei-Yuan Lueh",
+                "firstName": "Guei-Yuan",
+                "lastName": "Lueh"
+            },
+            {
+                "id": 37088727970,
+                "preferredName": "Pankaj Mistry",
+                "firstName": "Pankaj",
+                "lastName": "Mistry"
+            },
+            {
+                "id": 37088729344,
+                "preferredName": "Wei Pan",
+                "firstName": "Wei",
+                "lastName": "Pan"
+            },
+            {
+                "id": 37088741890,
+                "preferredName": "Thomas Raoux",
+                "firstName": "Thomas",
+                "lastName": "Raoux"
+            },
+            {
+                "id": 38113974400,
+                "preferredName": "Konrad Trifunovic",
+                "firstName": "Konrad",
+                "lastName": "Trifunovic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661202",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661202",
+        "articleTitle": "Smokestack: Thwarting DOP Attacks with Runtime Stack Layout Randomization",
+        "volume": null,
+        "issue": null,
+        "startPage": "26",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Smokestack: Thwarting DOP Attacks with Runtime Stack Layout Randomization",
+        "authors": [
+            {
+                "id": 37086101572,
+                "preferredName": "Misiker Tadesse Aga",
+                "firstName": "Misiker Tadesse",
+                "lastName": "Aga"
+            },
+            {
+                "id": 37267010600,
+                "preferredName": "Todd Austin",
+                "firstName": "Todd",
+                "lastName": "Austin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661192",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661192",
+        "articleTitle": "Super-Node SLP: Optimized Vectorization for Code Sequences Containing Operators and Their Inverse Elements",
+        "volume": null,
+        "issue": null,
+        "startPage": "206",
+        "endPage": "216",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Super-Node SLP: Optimized Vectorization for Code Sequences Containing Operators and Their Inverse Elements",
+        "authors": [
+            {
+                "id": 37658622300,
+                "preferredName": "Vasileios Porpodas",
+                "firstName": "Vasileios",
+                "lastName": "Porpodas"
+            },
+            {
+                "id": 37086025512,
+                "preferredName": "Rodrigo C. O. Rocha",
+                "firstName": "Rodrigo C. O.",
+                "lastName": "Rocha"
+            },
+            {
+                "id": 37086703561,
+                "preferredName": "Evgueni Brevnov",
+                "firstName": "Evgueni",
+                "lastName": "Brevnov"
+            },
+            {
+                "id": 37421525000,
+                "preferredName": "Lu\u00eds F. W. G\u00f3es",
+                "firstName": "Lu\u00eds F. W.",
+                "lastName": "G\u00f3es"
+            },
+            {
+                "id": 37350565900,
+                "preferredName": "Timothy Mattson",
+                "firstName": "Timothy",
+                "lastName": "Mattson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661180",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661180",
+        "articleTitle": "Automatic Equivalence Checking for Assembly Implementations of Cryptography Libraries",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "49",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Automatic Equivalence Checking for Assembly Implementations of Cryptography Libraries",
+        "authors": [
+            {
+                "id": 37086697982,
+                "preferredName": "Jay P. Lim",
+                "firstName": "Jay P.",
+                "lastName": "Lim"
+            },
+            {
+                "id": 38268962400,
+                "preferredName": "Santosh Nagarakatte",
+                "firstName": "Santosh",
+                "lastName": "Nagarakatte"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661171",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661171",
+        "articleTitle": "An Optimization-Driven Incremental Inline Substitution Algorithm for Just-in-Time Compilers",
+        "volume": null,
+        "issue": null,
+        "startPage": "164",
+        "endPage": "179",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "An Optimization-Driven Incremental Inline Substitution Algorithm for Just-in-Time Compilers",
+        "authors": [
+            {
+                "id": 38109387200,
+                "preferredName": "Aleksandar Prokopec",
+                "firstName": "Aleksandar",
+                "lastName": "Prokopec"
+            },
+            {
+                "id": 37086699654,
+                "preferredName": "Gilles Duboscq",
+                "firstName": "Gilles",
+                "lastName": "Duboscq"
+            },
+            {
+                "id": 37086699414,
+                "preferredName": "David Leopoldseder",
+                "firstName": "David",
+                "lastName": "Leopoldseder"
+            },
+            {
+                "id": 37086700713,
+                "preferredName": "Thomas W\u00efrthinger",
+                "firstName": "Thomas",
+                "lastName": "W\u00efrthinger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661196",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661196",
+        "articleTitle": "Janus: Statically-Driven and Profile-Guided Automatic Dynamic Binary Parallelisation",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "25",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Janus: Statically-Driven and Profile-Guided Automatic Dynamic Binary Parallelisation",
+        "authors": [
+            {
+                "id": 37086703159,
+                "preferredName": "Ruoyu Zhou",
+                "firstName": "Ruoyu",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37399109800,
+                "preferredName": "Timothy M. Jones",
+                "firstName": "Timothy M.",
+                "lastName": "Jones"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661203",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661203",
+        "articleTitle": "Locus: A System and a Language for Program Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "217",
+        "endPage": "228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Locus: A System and a Language for Program Optimization",
+        "authors": [
+            {
+                "id": 37086701083,
+                "preferredName": "S. F. X. Thiago Teixeira",
+                "firstName": "S. F. X.",
+                "lastName": "Thiago Teixeira"
+            },
+            {
+                "id": 37620822800,
+                "preferredName": "Corinne Ancourt",
+                "firstName": "Corinne",
+                "lastName": "Ancourt"
+            },
+            {
+                "id": 37282646500,
+                "preferredName": "David Padua",
+                "firstName": "David",
+                "lastName": "Padua"
+            },
+            {
+                "id": 37284797700,
+                "preferredName": "William Gropp",
+                "firstName": "William",
+                "lastName": "Gropp"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661173",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661173",
+        "articleTitle": "Reasoning about the Node.js Event Loop using Async Graphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "61",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Reasoning about the Node.js Event Loop using Async Graphs",
+        "authors": [
+            {
+                "id": 38491745000,
+                "preferredName": "Haiyang Sun",
+                "firstName": "Haiyang",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37704004600,
+                "preferredName": "Daniele Bonetta",
+                "firstName": "Daniele",
+                "lastName": "Bonetta"
+            },
+            {
+                "id": 37086702625,
+                "preferredName": "Filippo Schiavio",
+                "firstName": "Filippo",
+                "lastName": "Schiavio"
+            },
+            {
+                "id": 37316123900,
+                "preferredName": "Walter Binder",
+                "firstName": "Walter",
+                "lastName": "Binder"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661186",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661186",
+        "articleTitle": "Decoding CUDA Binary",
+        "volume": null,
+        "issue": null,
+        "startPage": "229",
+        "endPage": "241",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Decoding CUDA Binary",
+        "authors": [
+            {
+                "id": 37086700828,
+                "preferredName": "Ari B. Hayes",
+                "firstName": "Ari B.",
+                "lastName": "Hayes"
+            },
+            {
+                "id": 37086701238,
+                "preferredName": "Fei Hua",
+                "firstName": "Fei",
+                "lastName": "Hua"
+            },
+            {
+                "id": 37086699178,
+                "preferredName": "Jin Huang",
+                "firstName": "Jin",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37089776479,
+                "preferredName": "Yanhao Chen",
+                "firstName": "Yanhao",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37574361000,
+                "preferredName": "Eddy Z. Zhang",
+                "firstName": "Eddy Z.",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661178",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661178",
+        "articleTitle": "Generation of In-Bounds Inputs for Arrays in Memory-Unsafe Languages",
+        "volume": null,
+        "issue": null,
+        "startPage": "136",
+        "endPage": "148",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Generation of In-Bounds Inputs for Arrays in Memory-Unsafe Languages",
+        "authors": [
+            {
+                "id": 37086700823,
+                "preferredName": "Marcus Rodrigues",
+                "firstName": "Marcus",
+                "lastName": "Rodrigues"
+            },
+            {
+                "id": 37086699567,
+                "preferredName": "Breno Guimar\u00e3es",
+                "firstName": "Breno",
+                "lastName": "Guimar\u00e3es"
+            },
+            {
+                "id": 38199735700,
+                "preferredName": "Fernando Magno Quint\u00e3o Pereira",
+                "firstName": "Fernando Magno Quint\u00e3o",
+                "lastName": "Pereira"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661198",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661198",
+        "articleTitle": "CSOD: Context-Sensitive Overflow Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "50",
+        "endPage": "60",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CSOD: Context-Sensitive Overflow Detection",
+        "authors": [
+            {
+                "id": 37086215688,
+                "preferredName": "Hongyu Liu",
+                "firstName": "Hongyu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086227800,
+                "preferredName": "Sam Silvestro",
+                "firstName": "Sam",
+                "lastName": "Silvestro"
+            },
+            {
+                "id": 37311498400,
+                "preferredName": "Xiaoyin Wang",
+                "firstName": "Xiaoyin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085373152,
+                "preferredName": "Lide Duan",
+                "firstName": "Lide",
+                "lastName": "Duan"
+            },
+            {
+                "id": 37085482694,
+                "preferredName": "Tongping Liu",
+                "firstName": "Tongping",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661166",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661166",
+        "articleTitle": "Transforming Query Sequences for High-Throughput B+ Tree Processing on Many-Core Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "108",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Transforming Query Sequences for High-Throughput B+ Tree Processing on Many-Core Processors",
+        "authors": [
+            {
+                "id": 37086700985,
+                "preferredName": "Ruiqin Tian",
+                "firstName": "Ruiqin",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37086703404,
+                "preferredName": "Junqiao Qiu",
+                "firstName": "Junqiao",
+                "lastName": "Qiu"
+            },
+            {
+                "id": 38239778200,
+                "preferredName": "Zhijia Zhao",
+                "firstName": "Zhijia",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085667961,
+                "preferredName": "Xu Liu",
+                "firstName": "Xu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086260562,
+                "preferredName": "Bin Ren",
+                "firstName": "Bin",
+                "lastName": "Ren"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661177",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661177",
+        "articleTitle": "White-Box Program Tuning",
+        "volume": null,
+        "issue": null,
+        "startPage": "122",
+        "endPage": "135",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "White-Box Program Tuning",
+        "authors": [
+            {
+                "id": 37086254800,
+                "preferredName": "Wen-Chuan Lee",
+                "firstName": "Wen-Chuan",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086250853,
+                "preferredName": "Yingqi Liu",
+                "firstName": "Yingqi",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086701887,
+                "preferredName": "Peng Liu",
+                "firstName": "Peng",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086185149,
+                "preferredName": "Shiqing Ma",
+                "firstName": "Shiqing",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37086698856,
+                "preferredName": "Hongjun Choi",
+                "firstName": "Hongjun",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37279346200,
+                "preferredName": "Xiangyu Zhang",
+                "firstName": "Xiangyu",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37272679200,
+                "preferredName": "Rajiv Gupta",
+                "firstName": "Rajiv",
+                "lastName": "Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661179",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661179",
+        "articleTitle": "Quantifying and Reducing Execution Variance in STM via Model Driven Commit Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "109",
+        "endPage": "121",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Quantifying and Reducing Execution Variance in STM via Model Driven Commit Optimization",
+        "authors": [
+            {
+                "id": 37086092510,
+                "preferredName": "Girish Mururu",
+                "firstName": "Girish",
+                "lastName": "Mururu"
+            },
+            {
+                "id": 37332023800,
+                "preferredName": "Ada Gavrilovska",
+                "firstName": "Ada",
+                "lastName": "Gavrilovska"
+            },
+            {
+                "id": 37267758000,
+                "preferredName": "Santosh Pande",
+                "firstName": "Santosh",
+                "lastName": "Pande"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661162",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661162",
+        "articleTitle": "CGO 2019 ACM Student Research Competition",
+        "volume": null,
+        "issue": null,
+        "startPage": "xii",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CGO 2019 ACM Student Research Competition",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661200",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661200",
+        "articleTitle": "CGO 2019 Message from the General Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CGO 2019 Message from the General Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661194",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661194",
+        "articleTitle": "CGO 2019 Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "xi",
+        "endPage": "xi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CGO 2019 Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661161",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661161",
+        "articleTitle": "CGO 2019 Message from the Program Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CGO 2019 Message from the Program Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661191",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661191",
+        "articleTitle": "CGO 2019 Report from the Artifact Evaluation Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "x",
+        "endPage": "x",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CGO 2019 Report from the Artifact Evaluation Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661175",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661175",
+        "articleTitle": "CGO 2019 Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "vi",
+        "endPage": "ix",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CGO 2019 Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661164",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661164",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661184",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661184",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiii",
+        "endPage": "xv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8653576",
+        "doi": "10.1109/CGO.2019.8661163",
+        "publicationYear": "2019",
+        "publicationDate": "16-20 Feb. 2019",
+        "articleNumber": "8661163",
+        "articleTitle": "CGO 2019 Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "287",
+        "endPage": "287",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM International Symposium on Code Generation and Optimization (CGO)",
+        "highlightedTitle": "CGO 2019 Author Index",
+        "authors": []
+    }
+]

@@ -1,0 +1,3909 @@
+[
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296665",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296665",
+        "articleTitle": "Interprocessor collective communication library (InterCom)",
+        "volume": null,
+        "issue": null,
+        "startPage": "357",
+        "endPage": "364",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Interprocessor collective communication library (InterCom)",
+        "authors": [
+            {
+                "id": 37089139652,
+                "preferredName": "M. Barnett",
+                "firstName": "M.",
+                "lastName": "Barnett"
+            },
+            {
+                "id": 37355072700,
+                "preferredName": "L. Shuler",
+                "firstName": "L.",
+                "lastName": "Shuler"
+            },
+            {
+                "id": 37331519800,
+                "preferredName": "R. van de Geijn",
+                "firstName": "R.",
+                "lastName": "van de Geijn"
+            },
+            {
+                "id": 38560159800,
+                "preferredName": "S. Gupta",
+                "firstName": "S.",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37382901800,
+                "preferredName": "D.G. Payne",
+                "firstName": "D.G.",
+                "lastName": "Payne"
+            },
+            {
+                "id": 37368143300,
+                "preferredName": "J. Watts",
+                "firstName": "J.",
+                "lastName": "Watts"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296629",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296629",
+        "articleTitle": "PIOUS: a scalable parallel I/O system for distributed computing environments",
+        "volume": null,
+        "issue": null,
+        "startPage": "71",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "PIOUS: a scalable parallel I/O system for distributed computing environments",
+        "authors": [
+            {
+                "id": 37378015700,
+                "preferredName": "S.A. Moyer",
+                "firstName": "S.A.",
+                "lastName": "Moyer"
+            },
+            {
+                "id": 37281858500,
+                "preferredName": "V.S. Sunderam",
+                "firstName": "V.S.",
+                "lastName": "Sunderam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296657",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296657",
+        "articleTitle": "A compilation system that integrates High Performance Fortran and Fortran M",
+        "volume": null,
+        "issue": null,
+        "startPage": "293",
+        "endPage": "300",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A compilation system that integrates High Performance Fortran and Fortran M",
+        "authors": [
+            {
+                "id": 37276599200,
+                "preferredName": "I. Foster",
+                "firstName": "I.",
+                "lastName": "Foster"
+            },
+            {
+                "id": 37087144599,
+                "preferredName": "Ming Xu",
+                "firstName": null,
+                "lastName": "Ming Xu"
+            },
+            {
+                "id": 37088271794,
+                "preferredName": "B. Avalani",
+                "firstName": "B.",
+                "lastName": "Avalani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296672",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296672",
+        "articleTitle": "Complete exchange in 2D meshes",
+        "volume": null,
+        "issue": null,
+        "startPage": "406",
+        "endPage": "413",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Complete exchange in 2D meshes",
+        "authors": [
+            {
+                "id": 37390177800,
+                "preferredName": "N.S. Sundar",
+                "firstName": "N.S.",
+                "lastName": "Sundar"
+            },
+            {
+                "id": 37295666300,
+                "preferredName": "D.N. Jayasimha",
+                "firstName": "D.N.",
+                "lastName": "Jayasimha"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "D.K. Panda",
+                "firstName": "D.K.",
+                "lastName": "Panda"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296622",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296622",
+        "articleTitle": "Parallel tridiagonalization through two-step band reduction",
+        "volume": null,
+        "issue": null,
+        "startPage": "23",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel tridiagonalization through two-step band reduction",
+        "authors": [
+            {
+                "id": 37330529700,
+                "preferredName": "C. Bischof",
+                "firstName": "C.",
+                "lastName": "Bischof"
+            },
+            {
+                "id": 37087144330,
+                "preferredName": "Xiaobai Sun",
+                "firstName": null,
+                "lastName": "Xiaobai Sun"
+            },
+            {
+                "id": 37087145684,
+                "preferredName": "B. Lang",
+                "firstName": "B.",
+                "lastName": "Lang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296717",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296717",
+        "articleTitle": "SDBS: a task duplication based optimal scheduling algorithm",
+        "volume": null,
+        "issue": null,
+        "startPage": "756",
+        "endPage": "763",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "SDBS: a task duplication based optimal scheduling algorithm",
+        "authors": [
+            {
+                "id": 37301583200,
+                "preferredName": "S. Darbha",
+                "firstName": "S.",
+                "lastName": "Darbha"
+            },
+            {
+                "id": 37279996800,
+                "preferredName": "D.P. Agrawal",
+                "firstName": "D.P.",
+                "lastName": "Agrawal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296707",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296707",
+        "articleTitle": "An empirical study of static load balancing algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "682",
+        "endPage": "685",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "An empirical study of static load balancing algorithms",
+        "authors": [
+            {
+                "id": 37381705200,
+                "preferredName": "R. Leland",
+                "firstName": "R.",
+                "lastName": "Leland"
+            },
+            {
+                "id": 37283479700,
+                "preferredName": "B. Hendrickson",
+                "firstName": "B.",
+                "lastName": "Hendrickson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296681",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296681",
+        "articleTitle": "Parallel algorithms for the adaptive refinement and partitioning of unstructured meshes",
+        "volume": null,
+        "issue": null,
+        "startPage": "478",
+        "endPage": "485",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel algorithms for the adaptive refinement and partitioning of unstructured meshes",
+        "authors": [
+            {
+                "id": 37383889100,
+                "preferredName": "M.T. Jones",
+                "firstName": "M.T.",
+                "lastName": "Jones"
+            },
+            {
+                "id": 37283786700,
+                "preferredName": "P.E. Plassmann",
+                "firstName": "P.E.",
+                "lastName": "Plassmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296719",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296719",
+        "articleTitle": "Work-load balancing in highly parallel depth-first search",
+        "volume": null,
+        "issue": null,
+        "startPage": "773",
+        "endPage": "780",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Work-load balancing in highly parallel depth-first search",
+        "authors": [
+            {
+                "id": 37390254100,
+                "preferredName": "A. Reinefeld",
+                "firstName": "A.",
+                "lastName": "Reinefeld"
+            },
+            {
+                "id": 37385827100,
+                "preferredName": "V. Schnecke",
+                "firstName": "V.",
+                "lastName": "Schnecke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296642",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296642",
+        "articleTitle": "The Paragon implementation of the NX message passing interface",
+        "volume": null,
+        "issue": null,
+        "startPage": "184",
+        "endPage": "190",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "The Paragon implementation of the NX message passing interface",
+        "authors": [
+            {
+                "id": 37087966265,
+                "preferredName": "P. Pierce",
+                "firstName": "P.",
+                "lastName": "Pierce"
+            },
+            {
+                "id": 37281655100,
+                "preferredName": "G. Regnier",
+                "firstName": "G.",
+                "lastName": "Regnier"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296673",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296673",
+        "articleTitle": "Decentralized remapping of data parallel computations with the generalized dimension exchange method",
+        "volume": null,
+        "issue": null,
+        "startPage": "414",
+        "endPage": "421",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Decentralized remapping of data parallel computations with the generalized dimension exchange method",
+        "authors": [
+            {
+                "id": 37087144510,
+                "preferredName": "Cheng-Zhong Xu",
+                "firstName": null,
+                "lastName": "Cheng-Zhong Xu"
+            },
+            {
+                "id": 37276193200,
+                "preferredName": "F.C.M. Lau",
+                "firstName": "F.C.M.",
+                "lastName": "Lau"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296635",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296635",
+        "articleTitle": "An efficient parallel algorithm for the 3-D FFT NAS parallel benchmark",
+        "volume": null,
+        "issue": null,
+        "startPage": "129",
+        "endPage": "133",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "An efficient parallel algorithm for the 3-D FFT NAS parallel benchmark",
+        "authors": [
+            {
+                "id": 37298641700,
+                "preferredName": "R.C. Agarwal",
+                "firstName": "R.C.",
+                "lastName": "Agarwal"
+            },
+            {
+                "id": 37282746100,
+                "preferredName": "F.G. Gustavson",
+                "firstName": "F.G.",
+                "lastName": "Gustavson"
+            },
+            {
+                "id": 37087897970,
+                "preferredName": "M. Zubair",
+                "firstName": "M.",
+                "lastName": "Zubair"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296675",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296675",
+        "articleTitle": "Space-time transformation of while-loops using speculative execution",
+        "volume": null,
+        "issue": null,
+        "startPage": "429",
+        "endPage": "436",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Space-time transformation of while-loops using speculative execution",
+        "authors": [
+            {
+                "id": 37371600200,
+                "preferredName": "J.-F. Collard",
+                "firstName": "J.-F.",
+                "lastName": "Collard"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296689",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296689",
+        "articleTitle": "Matrix-vector multiplication and conjugate gradient algorithms on distributed memory computers",
+        "volume": null,
+        "issue": null,
+        "startPage": "542",
+        "endPage": "550",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Matrix-vector multiplication and conjugate gradient algorithms on distributed memory computers",
+        "authors": [
+            {
+                "id": 37383152700,
+                "preferredName": "J.G. Lewis",
+                "firstName": "J.G.",
+                "lastName": "Lewis"
+            },
+            {
+                "id": 37382901800,
+                "preferredName": "D.G. Payne",
+                "firstName": "D.G.",
+                "lastName": "Payne"
+            },
+            {
+                "id": 37331519800,
+                "preferredName": "R.A. van de Geijn",
+                "firstName": "R.A.",
+                "lastName": "van de Geijn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296651",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296651",
+        "articleTitle": "Load balancing of parallel volume rendering with scattered decomposition",
+        "volume": null,
+        "issue": null,
+        "startPage": "252",
+        "endPage": "258",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Load balancing of parallel volume rendering with scattered decomposition",
+        "authors": [
+            {
+                "id": 37087165227,
+                "preferredName": "R.J. Karia",
+                "firstName": "R.J.",
+                "lastName": "Karia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296710",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296710",
+        "articleTitle": "mdb: a semantic race detection tool for PVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "702",
+        "endPage": "709",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "mdb: a semantic race detection tool for PVM",
+        "authors": [
+            {
+                "id": 38274769200,
+                "preferredName": "S.K. Damodaran-Kamal",
+                "firstName": "S.K.",
+                "lastName": "Damodaran-Kamal"
+            },
+            {
+                "id": 37295661700,
+                "preferredName": "J.M. Francioni",
+                "firstName": "J.M.",
+                "lastName": "Francioni"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296674",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296674",
+        "articleTitle": "Complete exchange and broadcast algorithms for meshes",
+        "volume": null,
+        "issue": null,
+        "startPage": "422",
+        "endPage": "428",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Complete exchange and broadcast algorithms for meshes",
+        "authors": [
+            {
+                "id": 37371757000,
+                "preferredName": "S. Takkella",
+                "firstName": "S.",
+                "lastName": "Takkella"
+            },
+            {
+                "id": 37335508300,
+                "preferredName": "S. Seidel",
+                "firstName": "S.",
+                "lastName": "Seidel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296714",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296714",
+        "articleTitle": "Parallel multipoint variable-complexity approximations for multidisciplinary optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "734",
+        "endPage": "740",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel multipoint variable-complexity approximations for multidisciplinary optimization",
+        "authors": [
+            {
+                "id": 37087967234,
+                "preferredName": "S.L. Burgee",
+                "firstName": "S.L.",
+                "lastName": "Burgee"
+            },
+            {
+                "id": 37273212300,
+                "preferredName": "L.T. Watson",
+                "firstName": "L.T.",
+                "lastName": "Watson"
+            },
+            {
+                "id": 37087963731,
+                "preferredName": "A.A. Giunta",
+                "firstName": "A.A.",
+                "lastName": "Giunta"
+            },
+            {
+                "id": 37369986100,
+                "preferredName": "B. Grossman",
+                "firstName": "B.",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 37297721700,
+                "preferredName": "R.T. Haftka",
+                "firstName": "R.T.",
+                "lastName": "Haftka"
+            },
+            {
+                "id": 37369561300,
+                "preferredName": "W.H. Mason",
+                "firstName": "W.H.",
+                "lastName": "Mason"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296703",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296703",
+        "articleTitle": "Performance evaluation of fault-tolerant routing on star networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "650",
+        "endPage": "657",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Performance evaluation of fault-tolerant routing on star networks",
+        "authors": [
+            {
+                "id": 37087965667,
+                "preferredName": "Chungti Liang",
+                "firstName": null,
+                "lastName": "Chungti Liang"
+            },
+            {
+                "id": 37347148800,
+                "preferredName": "S. Bhattacharya",
+                "firstName": "S.",
+                "lastName": "Bhattacharya"
+            },
+            {
+                "id": 37346541200,
+                "preferredName": "J. Tan",
+                "firstName": "J.",
+                "lastName": "Tan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296627",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296627",
+        "articleTitle": "Scalable Unix tools on parallel processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "56",
+        "endPage": "62",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Scalable Unix tools on parallel processors",
+        "authors": [
+            {
+                "id": 37284797700,
+                "preferredName": "W. Gropp",
+                "firstName": "W.",
+                "lastName": "Gropp"
+            },
+            {
+                "id": 37357223200,
+                "preferredName": "E. Lusk",
+                "firstName": "E.",
+                "lastName": "Lusk"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296637",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296637",
+        "articleTitle": "A host interface architecture for HIPPI",
+        "volume": null,
+        "issue": null,
+        "startPage": "142",
+        "endPage": "149",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A host interface architecture for HIPPI",
+        "authors": [
+            {
+                "id": 37089063572,
+                "preferredName": "V. Kumar",
+                "firstName": "V.",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296727",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296727",
+        "articleTitle": "Creating views for debugging parallel programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "833",
+        "endPage": "840",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Creating views for debugging parallel programs",
+        "authors": [
+            {
+                "id": 37089136770,
+                "preferredName": "J. May",
+                "firstName": "J.",
+                "lastName": "May"
+            },
+            {
+                "id": 37281790600,
+                "preferredName": "F. Berman",
+                "firstName": "F.",
+                "lastName": "Berman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296724",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296724",
+        "articleTitle": "PCG: a software package for the iterative solution of linear systems on scalar, vector and parallel computers",
+        "volume": null,
+        "issue": null,
+        "startPage": "811",
+        "endPage": "816",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "PCG: a software package for the iterative solution of linear systems on scalar, vector and parallel computers",
+        "authors": [
+            {
+                "id": 38468494400,
+                "preferredName": "W. Joubert",
+                "firstName": "W.",
+                "lastName": "Joubert"
+            },
+            {
+                "id": 37375946000,
+                "preferredName": "G.F. Carey",
+                "firstName": "G.F.",
+                "lastName": "Carey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296726",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296726",
+        "articleTitle": "A scalable debugger for massively parallel message-passing programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "825",
+        "endPage": "832",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A scalable debugger for massively parallel message-passing programs",
+        "authors": [
+            {
+                "id": 37390177500,
+                "preferredName": "S. Sistare",
+                "firstName": "S.",
+                "lastName": "Sistare"
+            },
+            {
+                "id": 37379860900,
+                "preferredName": "D. Allen",
+                "firstName": "D.",
+                "lastName": "Allen"
+            },
+            {
+                "id": 37377564400,
+                "preferredName": "R. Bowker",
+                "firstName": "R.",
+                "lastName": "Bowker"
+            },
+            {
+                "id": 37390177000,
+                "preferredName": "K. Jourdenais",
+                "firstName": "K.",
+                "lastName": "Jourdenais"
+            },
+            {
+                "id": 37386379300,
+                "preferredName": "J. Simons",
+                "firstName": "J.",
+                "lastName": "Simons"
+            },
+            {
+                "id": 37390177200,
+                "preferredName": "R. Title",
+                "firstName": "R.",
+                "lastName": "Title"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296669",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296669",
+        "articleTitle": "Medium-range weather forecast on parallel systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "388",
+        "endPage": "391",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Medium-range weather forecast on parallel systems",
+        "authors": [
+            {
+                "id": 37086965534,
+                "preferredName": "U. Gartel",
+                "firstName": "U.",
+                "lastName": "Gartel"
+            },
+            {
+                "id": 37348659500,
+                "preferredName": "W. Joppich",
+                "firstName": "W.",
+                "lastName": "Joppich"
+            },
+            {
+                "id": 37390228400,
+                "preferredName": "A. Schuller",
+                "firstName": "A.",
+                "lastName": "Schuller"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296650",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296650",
+        "articleTitle": "A distributed memory algorithm for volume rendering",
+        "volume": null,
+        "issue": null,
+        "startPage": "247",
+        "endPage": "251",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A distributed memory algorithm for volume rendering",
+        "authors": [
+            {
+                "id": 37379866400,
+                "preferredName": "R. Tiwari",
+                "firstName": "R.",
+                "lastName": "Tiwari"
+            },
+            {
+                "id": 38349314000,
+                "preferredName": "T.L. Huntsberger",
+                "firstName": "T.L.",
+                "lastName": "Huntsberger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296652",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296652",
+        "articleTitle": "Hypercube algorithm for image component labeling",
+        "volume": null,
+        "issue": null,
+        "startPage": "259",
+        "endPage": "262",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Hypercube algorithm for image component labeling",
+        "authors": [
+            {
+                "id": 37384156000,
+                "preferredName": "Y. Cheng",
+                "firstName": "Y.",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37380635700,
+                "preferredName": "J.R. Jensen",
+                "firstName": "J.R.",
+                "lastName": "Jensen"
+            },
+            {
+                "id": 38349314000,
+                "preferredName": "T.L. Huntsberger",
+                "firstName": "T.L.",
+                "lastName": "Huntsberger"
+            },
+            {
+                "id": 37347608400,
+                "preferredName": "B.A. Huntsberger",
+                "firstName": "B.A.",
+                "lastName": "Huntsberger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296654",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296654",
+        "articleTitle": "Parallel architectures with flexible topology",
+        "volume": null,
+        "issue": null,
+        "startPage": "271",
+        "endPage": "276",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel architectures with flexible topology",
+        "authors": [
+            {
+                "id": 37272310200,
+                "preferredName": "A. Ledeczi",
+                "firstName": "A.",
+                "lastName": "Ledeczi"
+            },
+            {
+                "id": 37089136897,
+                "preferredName": "B. Abbott",
+                "firstName": "B.",
+                "lastName": "Abbott"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296621",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296621",
+        "articleTitle": "The scalability of decoupled multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "The scalability of decoupled multiprocessors",
+        "authors": [
+            {
+                "id": 37400080800,
+                "preferredName": "T.J. Harris",
+                "firstName": "T.J.",
+                "lastName": "Harris"
+            },
+            {
+                "id": 37372482500,
+                "preferredName": "N.P. Topham",
+                "firstName": "N.P.",
+                "lastName": "Topham"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296660",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296660",
+        "articleTitle": "Memory-adaptive parallel sparse Cholesky factorization",
+        "volume": null,
+        "issue": null,
+        "startPage": "317",
+        "endPage": "323",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Memory-adaptive parallel sparse Cholesky factorization",
+        "authors": [
+            {
+                "id": 37295412000,
+                "preferredName": "K. Eswar",
+                "firstName": "K.",
+                "lastName": "Eswar"
+            },
+            {
+                "id": 37087275552,
+                "preferredName": "Chua-Huang Huang",
+                "firstName": null,
+                "lastName": "Chua-Huang Huang"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296664",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296664",
+        "articleTitle": "PORTAL: a communication library for visualization of distributed, asynchronous data",
+        "volume": null,
+        "issue": null,
+        "startPage": "350",
+        "endPage": "356",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "PORTAL: a communication library for visualization of distributed, asynchronous data",
+        "authors": [
+            {
+                "id": 37390206400,
+                "preferredName": "J.S. Rowlan",
+                "firstName": "J.S.",
+                "lastName": "Rowlan"
+            },
+            {
+                "id": 37085501066,
+                "preferredName": "B.T. Wightman",
+                "firstName": "B.T.",
+                "lastName": "Wightman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296722",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296722",
+        "articleTitle": "On the application of parallel genetic algorithms in X-ray crystallography",
+        "volume": null,
+        "issue": null,
+        "startPage": "796",
+        "endPage": "802",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "On the application of parallel genetic algorithms in X-ray crystallography",
+        "authors": [
+            {
+                "id": 38183502800,
+                "preferredName": "C.-S. Chang",
+                "firstName": "C.-S.",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37347604400,
+                "preferredName": "G. DeTitta",
+                "firstName": "G.",
+                "lastName": "DeTitta"
+            },
+            {
+                "id": 37348011000,
+                "preferredName": "R. Miller",
+                "firstName": "R.",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37386805500,
+                "preferredName": "C. Weeks",
+                "firstName": "C.",
+                "lastName": "Weeks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296696",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296696",
+        "articleTitle": "Preconditioned iterative 3-D finite-difference migration or modeling on MPP system",
+        "volume": null,
+        "issue": null,
+        "startPage": "601",
+        "endPage": "606",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Preconditioned iterative 3-D finite-difference migration or modeling on MPP system",
+        "authors": [
+            {
+                "id": 37087436911,
+                "preferredName": "J. Kao",
+                "firstName": "J.",
+                "lastName": "Kao"
+            },
+            {
+                "id": 37087591153,
+                "preferredName": "Guangye Li",
+                "firstName": null,
+                "lastName": "Guangye Li"
+            },
+            {
+                "id": 37087438388,
+                "preferredName": "Chao Wu Yang",
+                "firstName": null,
+                "lastName": "Chao Wu Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296701",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296701",
+        "articleTitle": "Glenda: an environment for easy parallel programming",
+        "volume": null,
+        "issue": null,
+        "startPage": "637",
+        "endPage": "641",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Glenda: an environment for easy parallel programming",
+        "authors": [
+            {
+                "id": 37390181300,
+                "preferredName": "B.R. Seyfarth",
+                "firstName": "B.R.",
+                "lastName": "Seyfarth"
+            },
+            {
+                "id": 37390179900,
+                "preferredName": "J.L. Bickham",
+                "firstName": "J.L.",
+                "lastName": "Bickham"
+            },
+            {
+                "id": 37380029400,
+                "preferredName": "M.R. Fernandez",
+                "firstName": "M.R.",
+                "lastName": "Fernandez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296634",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296634",
+        "articleTitle": "Performance of NAS parallel application-benchmarks on IBM SP1",
+        "volume": null,
+        "issue": null,
+        "startPage": "121",
+        "endPage": "128",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Performance of NAS parallel application-benchmarks on IBM SP1",
+        "authors": [
+            {
+                "id": 37295648300,
+                "preferredName": "V.K. Naik",
+                "firstName": "V.K.",
+                "lastName": "Naik"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296711",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296711",
+        "articleTitle": "Quantum modeling of lanthanide complexes on parallel supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "710",
+        "endPage": "717",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Quantum modeling of lanthanide complexes on parallel supercomputers",
+        "authors": [
+            {
+                "id": 37087964870,
+                "preferredName": "T.R. Cundari",
+                "firstName": "T.R.",
+                "lastName": "Cundari"
+            },
+            {
+                "id": 37087967348,
+                "preferredName": "L.A. Strohecker",
+                "firstName": "L.A.",
+                "lastName": "Strohecker"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296715",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296715",
+        "articleTitle": "Parallel windowed block recursive least squares",
+        "volume": null,
+        "issue": null,
+        "startPage": "741",
+        "endPage": "748",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel windowed block recursive least squares",
+        "authors": [
+            {
+                "id": 37087450149,
+                "preferredName": "S.J. Olszanskyj",
+                "firstName": "S.J.",
+                "lastName": "Olszanskyj"
+            },
+            {
+                "id": 37281846800,
+                "preferredName": "A.W. Bojanczyk",
+                "firstName": "A.W.",
+                "lastName": "Bojanczyk"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296683",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296683",
+        "articleTitle": "Dynamic load balancing with an improved with an improved spectral bisection algorithm",
+        "volume": null,
+        "issue": null,
+        "startPage": "494",
+        "endPage": "500",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Dynamic load balancing with an improved with an improved spectral bisection algorithm",
+        "authors": [
+            {
+                "id": 37390183100,
+                "preferredName": "R. Van Driessche",
+                "firstName": "R.",
+                "lastName": "Van Driessche"
+            },
+            {
+                "id": 37353771300,
+                "preferredName": "D. Roose",
+                "firstName": "D.",
+                "lastName": "Roose"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296646",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296646",
+        "articleTitle": "The performance of a highly unstructured parallel algorithm on the KSR1",
+        "volume": null,
+        "issue": null,
+        "startPage": "215",
+        "endPage": "220",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "The performance of a highly unstructured parallel algorithm on the KSR1",
+        "authors": [
+            {
+                "id": 37390215000,
+                "preferredName": "T. Nurkkala",
+                "firstName": "T.",
+                "lastName": "Nurkkala"
+            },
+            {
+                "id": 37350946600,
+                "preferredName": "V. Kumar",
+                "firstName": "V.",
+                "lastName": "Kumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296699",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296699",
+        "articleTitle": "ADEAS: a distributed environment for acoustic simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "623",
+        "endPage": "628",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "ADEAS: a distributed environment for acoustic simulation",
+        "authors": [
+            {
+                "id": 37390224100,
+                "preferredName": "V.V. Arni",
+                "firstName": "V.V.",
+                "lastName": "Arni"
+            },
+            {
+                "id": 38349314000,
+                "preferredName": "T.L. Huntsberger",
+                "firstName": "T.L.",
+                "lastName": "Huntsberger"
+            },
+            {
+                "id": 37347608400,
+                "preferredName": "B.A. Huntsberger",
+                "firstName": "B.A.",
+                "lastName": "Huntsberger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296670",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296670",
+        "articleTitle": "Distributed algorithm for two-dimensional global climate modeling",
+        "volume": null,
+        "issue": null,
+        "startPage": "392",
+        "endPage": "396",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Distributed algorithm for two-dimensional global climate modeling",
+        "authors": [
+            {
+                "id": 38349314000,
+                "preferredName": "T.L. Huntsberger",
+                "firstName": "T.L.",
+                "lastName": "Huntsberger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296716",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296716",
+        "articleTitle": "A parallel algorithm for large-scale linear programs with a special structure",
+        "volume": null,
+        "issue": null,
+        "startPage": "749",
+        "endPage": "755",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A parallel algorithm for large-scale linear programs with a special structure",
+        "authors": [
+            {
+                "id": 37087968047,
+                "preferredName": "Seyoung Oh",
+                "firstName": null,
+                "lastName": "Seyoung Oh"
+            },
+            {
+                "id": 37087571069,
+                "preferredName": "S.Y. Shin",
+                "firstName": "S.Y.",
+                "lastName": "Shin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296720",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296720",
+        "articleTitle": "Large numerical linear algebra in 1994: the continuing influence of parallel computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "781",
+        "endPage": "787",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Large numerical linear algebra in 1994: the continuing influence of parallel computing",
+        "authors": [
+            {
+                "id": 37389961600,
+                "preferredName": "A. Edelman",
+                "firstName": "A.",
+                "lastName": "Edelman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296620",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296620",
+        "articleTitle": "A comparison of distributed and shared memory scalable architectures. 1. KSR shared memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A comparison of distributed and shared memory scalable architectures. 1. KSR shared memory",
+        "authors": [
+            {
+                "id": 38256277400,
+                "preferredName": "B. Bagheri",
+                "firstName": "B.",
+                "lastName": "Bagheri"
+            },
+            {
+                "id": 38258863100,
+                "preferredName": "A. Ilin",
+                "firstName": "A.",
+                "lastName": "Ilin"
+            },
+            {
+                "id": 37087796894,
+                "preferredName": "L. Ridgeway Scott",
+                "firstName": "L.",
+                "lastName": "Ridgeway Scott"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296656",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296656",
+        "articleTitle": "Predicting the performance of scientific applications on distributed memory multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "285",
+        "endPage": "292",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Predicting the performance of scientific applications on distributed memory multiprocessors",
+        "authors": [
+            {
+                "id": 37270009900,
+                "preferredName": "D. Abramson",
+                "firstName": "D.",
+                "lastName": "Abramson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296623",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296623",
+        "articleTitle": "A parallel unsymmetric eigensolver",
+        "volume": null,
+        "issue": null,
+        "startPage": "28",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A parallel unsymmetric eigensolver",
+        "authors": [
+            {
+                "id": 37383500200,
+                "preferredName": "G. Henry",
+                "firstName": "G.",
+                "lastName": "Henry"
+            },
+            {
+                "id": 37331519800,
+                "preferredName": "R. van de Geijn",
+                "firstName": "R.",
+                "lastName": "van de Geijn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296700",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296700",
+        "articleTitle": "DME: a distributed matrix environment",
+        "volume": null,
+        "issue": null,
+        "startPage": "629",
+        "endPage": "636",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "DME: a distributed matrix environment",
+        "authors": [
+            {
+                "id": 38560159800,
+                "preferredName": "S. Gupta",
+                "firstName": "S.",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37390229300,
+                "preferredName": "E. Rothberg",
+                "firstName": "E.",
+                "lastName": "Rothberg"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296680",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296680",
+        "articleTitle": "Parallel semi-Lagrangian advection on the sphere using PVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "470",
+        "endPage": "477",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel semi-Lagrangian advection on the sphere using PVM",
+        "authors": [
+            {
+                "id": 37389676200,
+                "preferredName": "J. Cote",
+                "firstName": "J.",
+                "lastName": "Cote"
+            },
+            {
+                "id": 37381599100,
+                "preferredName": "S.J. Thomas",
+                "firstName": "S.J.",
+                "lastName": "Thomas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296728",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296728",
+        "articleTitle": "Dynamic program instrumentation for scalable performance tools",
+        "volume": null,
+        "issue": null,
+        "startPage": "841",
+        "endPage": "850",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Dynamic program instrumentation for scalable performance tools",
+        "authors": [
+            {
+                "id": 37275915900,
+                "preferredName": "J.K. Hollingsworth",
+                "firstName": "J.K.",
+                "lastName": "Hollingsworth"
+            },
+            {
+                "id": 37273219400,
+                "preferredName": "B.P. Miller",
+                "firstName": "B.P.",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37087966487,
+                "preferredName": "J. Cargille",
+                "firstName": "J.",
+                "lastName": "Cargille"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296638",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296638",
+        "articleTitle": "The SP1 high-performance switch",
+        "volume": null,
+        "issue": null,
+        "startPage": "150",
+        "endPage": "157",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "The SP1 high-performance switch",
+        "authors": [
+            {
+                "id": 37271668400,
+                "preferredName": "C.B. Stunkel",
+                "firstName": "C.B.",
+                "lastName": "Stunkel"
+            },
+            {
+                "id": 37338265200,
+                "preferredName": "D.G. Shea",
+                "firstName": "D.G.",
+                "lastName": "Shea"
+            },
+            {
+                "id": 37087271583,
+                "preferredName": "D.G. Grice",
+                "firstName": "D.G.",
+                "lastName": "Grice"
+            },
+            {
+                "id": 37295852100,
+                "preferredName": "P.H. Hochschild",
+                "firstName": "P.H.",
+                "lastName": "Hochschild"
+            },
+            {
+                "id": 37379370600,
+                "preferredName": "M. Tsao",
+                "firstName": "M.",
+                "lastName": "Tsao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296682",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296682",
+        "articleTitle": "Static mapping by dual recursive bipartitioning of process architecture graphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "486",
+        "endPage": "493",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Static mapping by dual recursive bipartitioning of process architecture graphs",
+        "authors": [
+            {
+                "id": 37087984925,
+                "preferredName": "F. Pellegrini",
+                "firstName": "F.",
+                "lastName": "Pellegrini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296659",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296659",
+        "articleTitle": "Runtime array redistribution in HPF programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "309",
+        "endPage": "316",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Runtime array redistribution in HPF programs",
+        "authors": [
+            {
+                "id": 37284796600,
+                "preferredName": "R. Thakur",
+                "firstName": "R.",
+                "lastName": "Thakur"
+            },
+            {
+                "id": 37285106100,
+                "preferredName": "A. Choudhary",
+                "firstName": "A.",
+                "lastName": "Choudhary"
+            },
+            {
+                "id": 37268873900,
+                "preferredName": "G. Fox",
+                "firstName": "G.",
+                "lastName": "Fox"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296628",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296628",
+        "articleTitle": "Design and implementation of the Vesta parallel file system",
+        "volume": null,
+        "issue": null,
+        "startPage": "63",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Design and implementation of the Vesta parallel file system",
+        "authors": [
+            {
+                "id": 37388502100,
+                "preferredName": "P.F. Corbett",
+                "firstName": "P.F.",
+                "lastName": "Corbett"
+            },
+            {
+                "id": 37274192400,
+                "preferredName": "D.G. Feitelson",
+                "firstName": "D.G.",
+                "lastName": "Feitelson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296647",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296647",
+        "articleTitle": "Profiling the communication workload of an iPSC/860",
+        "volume": null,
+        "issue": null,
+        "startPage": "221",
+        "endPage": "228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Profiling the communication workload of an iPSC/860",
+        "authors": [
+            {
+                "id": 37333292300,
+                "preferredName": "B. VanVoorst",
+                "firstName": "B.",
+                "lastName": "VanVoorst"
+            },
+            {
+                "id": 37335508300,
+                "preferredName": "S. Seidel",
+                "firstName": "S.",
+                "lastName": "Seidel"
+            },
+            {
+                "id": 37353719200,
+                "preferredName": "E. Barszcz",
+                "firstName": "E.",
+                "lastName": "Barszcz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296641",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296641",
+        "articleTitle": "Adaptive runtime support for direct simulation Monte Carlo methods on distributed memory architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "176",
+        "endPage": "183",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Adaptive runtime support for direct simulation Monte Carlo methods on distributed memory architectures",
+        "authors": [
+            {
+                "id": 37087949643,
+                "preferredName": "B. Moon",
+                "firstName": "B.",
+                "lastName": "Moon"
+            },
+            {
+                "id": 37275776100,
+                "preferredName": "J. Saltz",
+                "firstName": "J.",
+                "lastName": "Saltz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296632",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296632",
+        "articleTitle": "Parallelizing molecular dynamics using spatial decomposition",
+        "volume": null,
+        "issue": null,
+        "startPage": "95",
+        "endPage": "102",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallelizing molecular dynamics using spatial decomposition",
+        "authors": [
+            {
+                "id": 38256606700,
+                "preferredName": "T.W. Clark",
+                "firstName": "T.W.",
+                "lastName": "Clark"
+            },
+            {
+                "id": 37294837100,
+                "preferredName": "R. von Hanxleden",
+                "firstName": "R.",
+                "lastName": "von Hanxleden"
+            },
+            {
+                "id": 38111808700,
+                "preferredName": "J.A. McCammon",
+                "firstName": "J.A.",
+                "lastName": "McCammon"
+            },
+            {
+                "id": 38258471200,
+                "preferredName": "L.R. Scott",
+                "firstName": "L.R.",
+                "lastName": "Scott"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296705",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296705",
+        "articleTitle": "Randomized load balancing for tree-structured computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "666",
+        "endPage": "673",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Randomized load balancing for tree-structured computation",
+        "authors": [
+            {
+                "id": 37087967672,
+                "preferredName": "S. Chakrabarti",
+                "firstName": "S.",
+                "lastName": "Chakrabarti"
+            },
+            {
+                "id": 37302183300,
+                "preferredName": "A. Ranade",
+                "firstName": "A.",
+                "lastName": "Ranade"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "K. Yelick",
+                "firstName": "K.",
+                "lastName": "Yelick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296625",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296625",
+        "articleTitle": "What users need in parallel tool support: survey results and analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "What users need in parallel tool support: survey results and analysis",
+        "authors": [
+            {
+                "id": 37332437700,
+                "preferredName": "C.M. Pancake",
+                "firstName": "C.M.",
+                "lastName": "Pancake"
+            },
+            {
+                "id": 37270451800,
+                "preferredName": "C. Cook",
+                "firstName": "C.",
+                "lastName": "Cook"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296685",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296685",
+        "articleTitle": "A robust parallel programming model for dynamic non-uniform scientific computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "509",
+        "endPage": "517",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A robust parallel programming model for dynamic non-uniform scientific computations",
+        "authors": [
+            {
+                "id": 37301542600,
+                "preferredName": "S.R. Kohn",
+                "firstName": "S.R.",
+                "lastName": "Kohn"
+            },
+            {
+                "id": 37283882400,
+                "preferredName": "S.B. Baden",
+                "firstName": "S.B.",
+                "lastName": "Baden"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296645",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296645",
+        "articleTitle": "Parallel Spectral Transform Shallow Water Model: a runtime-tunable parallel benchmark code",
+        "volume": null,
+        "issue": null,
+        "startPage": "207",
+        "endPage": "214",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel Spectral Transform Shallow Water Model: a runtime-tunable parallel benchmark code",
+        "authors": [
+            {
+                "id": 37271686700,
+                "preferredName": "P.H. Worley",
+                "firstName": "P.H.",
+                "lastName": "Worley"
+            },
+            {
+                "id": 37276599200,
+                "preferredName": "I.T. Foster",
+                "firstName": "I.T.",
+                "lastName": "Foster"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296644",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296644",
+        "articleTitle": "An extended dominating node approach to collective communication in all-port wormhole-routed 2D meshes",
+        "volume": null,
+        "issue": null,
+        "startPage": "199",
+        "endPage": "206",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "An extended dominating node approach to collective communication in all-port wormhole-routed 2D meshes",
+        "authors": [
+            {
+                "id": 37087554858,
+                "preferredName": "Yih-Jia Tsai",
+                "firstName": null,
+                "lastName": "Yih-Jia Tsai"
+            },
+            {
+                "id": 37268891900,
+                "preferredName": "P.K. McKinley",
+                "firstName": "P.K.",
+                "lastName": "McKinley"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296631",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296631",
+        "articleTitle": "Scalable implementations of multipole-accelerated algorithms for molecular dynamics",
+        "volume": null,
+        "issue": null,
+        "startPage": "87",
+        "endPage": "94",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Scalable implementations of multipole-accelerated algorithms for molecular dynamics",
+        "authors": [
+            {
+                "id": 37352320400,
+                "preferredName": "J.A. Board",
+                "firstName": "J.A.",
+                "lastName": "Board"
+            },
+            {
+                "id": 37087294591,
+                "preferredName": "Z.S. Hakura",
+                "firstName": "Z.S.",
+                "lastName": "Hakura"
+            },
+            {
+                "id": 37087294519,
+                "preferredName": "W.D. Elliott",
+                "firstName": "W.D.",
+                "lastName": "Elliott"
+            },
+            {
+                "id": 37087295149,
+                "preferredName": "D.C. Gray",
+                "firstName": "D.C.",
+                "lastName": "Gray"
+            },
+            {
+                "id": 37390145000,
+                "preferredName": "W.J. Blanke",
+                "firstName": "W.J.",
+                "lastName": "Blanke"
+            },
+            {
+                "id": 37355359100,
+                "preferredName": "J.F. Leathrum",
+                "firstName": "J.F.",
+                "lastName": "Leathrum"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296626",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296626",
+        "articleTitle": "A user-level process package for PVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A user-level process package for PVM",
+        "authors": [
+            {
+                "id": 37283359000,
+                "preferredName": "R. Konuru",
+                "firstName": "R.",
+                "lastName": "Konuru"
+            },
+            {
+                "id": 37374827900,
+                "preferredName": "J. Casas",
+                "firstName": "J.",
+                "lastName": "Casas"
+            },
+            {
+                "id": 37390444700,
+                "preferredName": "R. Prouty",
+                "firstName": "R.",
+                "lastName": "Prouty"
+            },
+            {
+                "id": 37369522100,
+                "preferredName": "S. Otto",
+                "firstName": "S.",
+                "lastName": "Otto"
+            },
+            {
+                "id": 37274154900,
+                "preferredName": "J. Walpole",
+                "firstName": "J.",
+                "lastName": "Walpole"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296686",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296686",
+        "articleTitle": "Compilation of scientific programs into multithreaded and message driven computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "518",
+        "endPage": "525",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Compilation of scientific programs into multithreaded and message driven computation",
+        "authors": [
+            {
+                "id": 37386853400,
+                "preferredName": "J. Holm",
+                "firstName": "J.",
+                "lastName": "Holm"
+            },
+            {
+                "id": 37390182000,
+                "preferredName": "A. Lain",
+                "firstName": "A.",
+                "lastName": "Lain"
+            },
+            {
+                "id": 37272513800,
+                "preferredName": "P. Banerjee",
+                "firstName": "P.",
+                "lastName": "Banerjee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296663",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296663",
+        "articleTitle": "Scalable performance visualization for data-parallel programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "342",
+        "endPage": "349",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Scalable performance visualization for data-parallel programs",
+        "authors": [
+            {
+                "id": 37373557000,
+                "preferredName": "S.T. Hackstadt",
+                "firstName": "S.T.",
+                "lastName": "Hackstadt"
+            },
+            {
+                "id": 37281865600,
+                "preferredName": "A.D. Malony",
+                "firstName": "A.D.",
+                "lastName": "Malony"
+            },
+            {
+                "id": 37346445700,
+                "preferredName": "B. Mohr",
+                "firstName": "B.",
+                "lastName": "Mohr"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296709",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296709",
+        "articleTitle": "Checkpointing SPMD applications on transputer networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "694",
+        "endPage": "701",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Checkpointing SPMD applications on transputer networks",
+        "authors": [
+            {
+                "id": 37086968733,
+                "preferredName": "M. Moura Silva",
+                "firstName": "M.",
+                "lastName": "Moura Silva"
+            },
+            {
+                "id": 38254106700,
+                "preferredName": "B. Veer",
+                "firstName": "B.",
+                "lastName": "Veer"
+            },
+            {
+                "id": 37086966212,
+                "preferredName": "J. Gabriel Silva",
+                "firstName": "J.",
+                "lastName": "Gabriel Silva"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296662",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296662",
+        "articleTitle": "Performance of a fully parallel sparse solver",
+        "volume": null,
+        "issue": null,
+        "startPage": "334",
+        "endPage": "341",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Performance of a fully parallel sparse solver",
+        "authors": [
+            {
+                "id": 37353708500,
+                "preferredName": "M.T. Heath",
+                "firstName": "M.T.",
+                "lastName": "Heath"
+            },
+            {
+                "id": 37088326304,
+                "preferredName": "P. Raghaven",
+                "firstName": "P.",
+                "lastName": "Raghaven"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296706",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296706",
+        "articleTitle": "Load-balancing algorithms for climate models",
+        "volume": null,
+        "issue": null,
+        "startPage": "674",
+        "endPage": "681",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Load-balancing algorithms for climate models",
+        "authors": [
+            {
+                "id": 37276599200,
+                "preferredName": "I.T. Foster",
+                "firstName": "I.T.",
+                "lastName": "Foster"
+            },
+            {
+                "id": 37283874000,
+                "preferredName": "B.R. Toonen",
+                "firstName": "B.R.",
+                "lastName": "Toonen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296678",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296678",
+        "articleTitle": "Parallel computation of 3D wavelets",
+        "volume": null,
+        "issue": null,
+        "startPage": "454",
+        "endPage": "461",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel computation of 3D wavelets",
+        "authors": [
+            {
+                "id": 37087983380,
+                "preferredName": "L.R.C. Suzuki",
+                "firstName": "L.R.C.",
+                "lastName": "Suzuki"
+            },
+            {
+                "id": 37089130700,
+                "preferredName": "J.R. Reid",
+                "firstName": "J.R.",
+                "lastName": "Reid"
+            },
+            {
+                "id": 37387866800,
+                "preferredName": "T.J. Burns",
+                "firstName": "T.J.",
+                "lastName": "Burns"
+            },
+            {
+                "id": 37276017100,
+                "preferredName": "G.B. Lamont",
+                "firstName": "G.B.",
+                "lastName": "Lamont"
+            },
+            {
+                "id": 37358280800,
+                "preferredName": "S.K. Rogers",
+                "firstName": "S.K.",
+                "lastName": "Rogers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296639",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296639",
+        "articleTitle": "Efficient runtime support for parallelizing block structured applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "158",
+        "endPage": "167",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Efficient runtime support for parallelizing block structured applications",
+        "authors": [
+            {
+                "id": 37382855500,
+                "preferredName": "G. Agrawal",
+                "firstName": "G.",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37276990000,
+                "preferredName": "A. Sussman",
+                "firstName": "A.",
+                "lastName": "Sussman"
+            },
+            {
+                "id": 37275776100,
+                "preferredName": "J. Saltz",
+                "firstName": "J.",
+                "lastName": "Saltz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296661",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296661",
+        "articleTitle": "Performance of panel and block approaches to sparse Cholesky factorization on the iPSC/860 and Paragon multicomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "324",
+        "endPage": "333",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Performance of panel and block approaches to sparse Cholesky factorization on the iPSC/860 and Paragon multicomputers",
+        "authors": [
+            {
+                "id": 37390229300,
+                "preferredName": "E. Rothberg",
+                "firstName": "E.",
+                "lastName": "Rothberg"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296667",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296667",
+        "articleTitle": "Compiler assisted fault detection for distributed-memory systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "373",
+        "endPage": "380",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Compiler assisted fault detection for distributed-memory systems",
+        "authors": [
+            {
+                "id": 37301944700,
+                "preferredName": "C. Gong",
+                "firstName": "C.",
+                "lastName": "Gong"
+            },
+            {
+                "id": 37273234900,
+                "preferredName": "R. Melhem",
+                "firstName": "R.",
+                "lastName": "Melhem"
+            },
+            {
+                "id": 37272679200,
+                "preferredName": "R. Gupta",
+                "firstName": "R.",
+                "lastName": "Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296708",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296708",
+        "articleTitle": "Performance results of ickp-a consistent checkpointer on the iPSC/860",
+        "volume": null,
+        "issue": null,
+        "startPage": "686",
+        "endPage": "693",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Performance results of ickp-a consistent checkpointer on the iPSC/860",
+        "authors": [
+            {
+                "id": 37275340500,
+                "preferredName": "J.S. Plank",
+                "firstName": "J.S.",
+                "lastName": "Plank"
+            },
+            {
+                "id": 37087178742,
+                "preferredName": "Kai Li",
+                "firstName": null,
+                "lastName": "Kai Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296676",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296676",
+        "articleTitle": "Using the P/sup 3/T to guide the parallelization and optimization effort under the Vienna Fortran compilation system",
+        "volume": null,
+        "issue": null,
+        "startPage": "437",
+        "endPage": "444",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Using the P/sup 3/T to guide the parallelization and optimization effort under the Vienna Fortran compilation system",
+        "authors": [
+            {
+                "id": 37299753200,
+                "preferredName": "T. Fahringer",
+                "firstName": "T.",
+                "lastName": "Fahringer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296712",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296712",
+        "articleTitle": "Parallelizing a global atmospheric chemical tracer model",
+        "volume": null,
+        "issue": null,
+        "startPage": "718",
+        "endPage": "725",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallelizing a global atmospheric chemical tracer model",
+        "authors": [
+            {
+                "id": 37281843900,
+                "preferredName": "J. Demmel",
+                "firstName": "J.",
+                "lastName": "Demmel"
+            },
+            {
+                "id": 37349170900,
+                "preferredName": "S. Smith",
+                "firstName": "S.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296690",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296690",
+        "articleTitle": "Distributed array data management on NUMA multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "551",
+        "endPage": "559",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Distributed array data management on NUMA multiprocessors",
+        "authors": [
+            {
+                "id": 37295493100,
+                "preferredName": "T.S. Abdelrahman",
+                "firstName": "T.S.",
+                "lastName": "Abdelrahman"
+            },
+            {
+                "id": 37087985707,
+                "preferredName": "T.N. Wong",
+                "firstName": "T.N.",
+                "lastName": "Wong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296688",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296688",
+        "articleTitle": "PB-BLAS: a set of Parallel Block Basic Linear Algebra Subprograms",
+        "volume": null,
+        "issue": null,
+        "startPage": "534",
+        "endPage": "541",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "PB-BLAS: a set of Parallel Block Basic Linear Algebra Subprograms",
+        "authors": [
+            {
+                "id": 37087221735,
+                "preferredName": "Jaeyoung Choi",
+                "firstName": null,
+                "lastName": "Jaeyoung Choi"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "J.J. Dongarra",
+                "firstName": "J.J.",
+                "lastName": "Dongarra"
+            },
+            {
+                "id": 37269598100,
+                "preferredName": "D.W. Walker",
+                "firstName": "D.W.",
+                "lastName": "Walker"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296630",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296630",
+        "articleTitle": "A scalable high-performance I/O system",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "86",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A scalable high-performance I/O system",
+        "authors": [
+            {
+                "id": 37386903000,
+                "preferredName": "M. Henderson",
+                "firstName": "M.",
+                "lastName": "Henderson"
+            },
+            {
+                "id": 37355460100,
+                "preferredName": "B. Nickless",
+                "firstName": "B.",
+                "lastName": "Nickless"
+            },
+            {
+                "id": 37268119100,
+                "preferredName": "R. Stevens",
+                "firstName": "R.",
+                "lastName": "Stevens"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296698",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296698",
+        "articleTitle": "Efficiency and scalability of two parallel QR factorization algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "615",
+        "endPage": "622",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Efficiency and scalability of two parallel QR factorization algorithms",
+        "authors": [
+            {
+                "id": 37281911900,
+                "preferredName": "J. Malard",
+                "firstName": "J.",
+                "lastName": "Malard"
+            },
+            {
+                "id": 37390193300,
+                "preferredName": "C.C. Paige",
+                "firstName": "C.C.",
+                "lastName": "Paige"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296721",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296721",
+        "articleTitle": "Scalable execution control of grid-based scientific applications on parallel systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "788",
+        "endPage": "795",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Scalable execution control of grid-based scientific applications on parallel systems",
+        "authors": [
+            {
+                "id": 37390183500,
+                "preferredName": "U. Geuder",
+                "firstName": "U.",
+                "lastName": "Geuder"
+            },
+            {
+                "id": 37390178700,
+                "preferredName": "M. Hardtner",
+                "firstName": "M.",
+                "lastName": "Hardtner"
+            },
+            {
+                "id": 37390177700,
+                "preferredName": "B. Worner",
+                "firstName": "B.",
+                "lastName": "Worner"
+            },
+            {
+                "id": 37376866600,
+                "preferredName": "R. Zink",
+                "firstName": "R.",
+                "lastName": "Zink"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296648",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296648",
+        "articleTitle": "Cluster-C/sup */: understanding the performance limits",
+        "volume": null,
+        "issue": null,
+        "startPage": "229",
+        "endPage": "238",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Cluster-C/sup */: understanding the performance limits",
+        "authors": [
+            {
+                "id": 37369545600,
+                "preferredName": "C.J. Turner",
+                "firstName": "C.J.",
+                "lastName": "Turner"
+            },
+            {
+                "id": 37353266400,
+                "preferredName": "D. Mosberger",
+                "firstName": "D.",
+                "lastName": "Mosberger"
+            },
+            {
+                "id": 37267981700,
+                "preferredName": "L.L. Peterson",
+                "firstName": "L.L.",
+                "lastName": "Peterson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296702",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296702",
+        "articleTitle": "On the design of optimal adaptive routers for direct networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "642",
+        "endPage": "649",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "On the design of optimal adaptive routers for direct networks",
+        "authors": [
+            {
+                "id": 37354015200,
+                "preferredName": "A. Lagman",
+                "firstName": "A.",
+                "lastName": "Lagman"
+            },
+            {
+                "id": 37268700700,
+                "preferredName": "W.A. Najjar",
+                "firstName": "W.A.",
+                "lastName": "Najjar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296677",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296677",
+        "articleTitle": "Context optimization for SIMD execution",
+        "volume": null,
+        "issue": null,
+        "startPage": "445",
+        "endPage": "453",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Context optimization for SIMD execution",
+        "authors": [
+            {
+                "id": 37284699900,
+                "preferredName": "K. Kennedy",
+                "firstName": "K.",
+                "lastName": "Kennedy"
+            },
+            {
+                "id": 37379621900,
+                "preferredName": "G. Roth",
+                "firstName": "G.",
+                "lastName": "Roth"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296658",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296658",
+        "articleTitle": "High Performance Fortran interface to the parallel C++",
+        "volume": null,
+        "issue": null,
+        "startPage": "301",
+        "endPage": "308",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "High Performance Fortran interface to the parallel C++",
+        "authors": [
+            {
+                "id": 37384131600,
+                "preferredName": "S.X. Yang",
+                "firstName": "S.X.",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37267851600,
+                "preferredName": "D. Gannon",
+                "firstName": "D.",
+                "lastName": "Gannon"
+            },
+            {
+                "id": 38520085100,
+                "preferredName": "S. Srinivas",
+                "firstName": "S.",
+                "lastName": "Srinivas"
+            },
+            {
+                "id": 37349763700,
+                "preferredName": "F. Bodin",
+                "firstName": "F.",
+                "lastName": "Bodin"
+            },
+            {
+                "id": 37087163972,
+                "preferredName": "P. Bode",
+                "firstName": "P.",
+                "lastName": "Bode"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296718",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296718",
+        "articleTitle": "Performance evaluation of load balancing algorithms for parallel single-phase iterative PDE solvers",
+        "volume": null,
+        "issue": null,
+        "startPage": "764",
+        "endPage": "772",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Performance evaluation of load balancing algorithms for parallel single-phase iterative PDE solvers",
+        "authors": [
+            {
+                "id": 37269239800,
+                "preferredName": "N. Chrisochoides",
+                "firstName": "N.",
+                "lastName": "Chrisochoides"
+            },
+            {
+                "id": 37089044395,
+                "preferredName": "N. Mansour",
+                "firstName": "N.",
+                "lastName": "Mansour"
+            },
+            {
+                "id": 37268873900,
+                "preferredName": "G. Fox",
+                "firstName": "G.",
+                "lastName": "Fox"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296649",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296649",
+        "articleTitle": "Cluster identification on a distributed memory multiprocessor",
+        "volume": null,
+        "issue": null,
+        "startPage": "239",
+        "endPage": "246",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Cluster identification on a distributed memory multiprocessor",
+        "authors": [
+            {
+                "id": 37341508800,
+                "preferredName": "S.J. Fink",
+                "firstName": "S.J.",
+                "lastName": "Fink"
+            },
+            {
+                "id": 37283882400,
+                "preferredName": "S.B. Baden",
+                "firstName": "S.B.",
+                "lastName": "Baden"
+            },
+            {
+                "id": 37089403465,
+                "preferredName": "K. Jansen",
+                "firstName": "K.",
+                "lastName": "Jansen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296653",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296653",
+        "articleTitle": "Terminal I/O for massively parallel systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "263",
+        "endPage": "270",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Terminal I/O for massively parallel systems",
+        "authors": [
+            {
+                "id": 37274192400,
+                "preferredName": "D.G. Feitelson",
+                "firstName": "D.G.",
+                "lastName": "Feitelson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296655",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296655",
+        "articleTitle": "Monitoring the performance of multidisciplinary applications on the iPSC/860",
+        "volume": null,
+        "issue": null,
+        "startPage": "277",
+        "endPage": "284",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Monitoring the performance of multidisciplinary applications on the iPSC/860",
+        "authors": [
+            {
+                "id": 37351639900,
+                "preferredName": "J.C. Yan",
+                "firstName": "J.C.",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37087163905,
+                "preferredName": "A. Schmidt",
+                "firstName": "A.",
+                "lastName": "Schmidt"
+            },
+            {
+                "id": 37353980400,
+                "preferredName": "S. Sarukkai",
+                "firstName": "S.",
+                "lastName": "Sarukkai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296694",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296694",
+        "articleTitle": "Concord: re-thinking the division of labor in a distributed shared memory system",
+        "volume": null,
+        "issue": null,
+        "startPage": "585",
+        "endPage": "592",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Concord: re-thinking the division of labor in a distributed shared memory system",
+        "authors": [
+            {
+                "id": 37087740193,
+                "preferredName": "J.W. Lee",
+                "firstName": "J.W.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296624",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296624",
+        "articleTitle": "Parallel performance of a symmetric eigensolver based on the invariant subspace decomposition approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Parallel performance of a symmetric eigensolver based on the invariant subspace decomposition approach",
+        "authors": [
+            {
+                "id": 37330529700,
+                "preferredName": "C. Bischof",
+                "firstName": "C.",
+                "lastName": "Bischof"
+            },
+            {
+                "id": 38276052800,
+                "preferredName": "S. Huss-Lederman",
+                "firstName": "S.",
+                "lastName": "Huss-Lederman"
+            },
+            {
+                "id": 37087144330,
+                "preferredName": "Xiaobai Sun",
+                "firstName": null,
+                "lastName": "Xiaobai Sun"
+            },
+            {
+                "id": 38274093200,
+                "preferredName": "A. Tsao",
+                "firstName": "A.",
+                "lastName": "Tsao"
+            },
+            {
+                "id": 38277140000,
+                "preferredName": "T. Turnbull",
+                "firstName": "T.",
+                "lastName": "Turnbull"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296636",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296636",
+        "articleTitle": "The architecture and programming of the ISI Embeddable Variant Multicomputer",
+        "volume": null,
+        "issue": null,
+        "startPage": "134",
+        "endPage": "141",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "The architecture and programming of the ISI Embeddable Variant Multicomputer",
+        "authors": [
+            {
+                "id": 37328671500,
+                "preferredName": "W.C. Athas",
+                "firstName": "W.C.",
+                "lastName": "Athas"
+            },
+            {
+                "id": 37372952000,
+                "preferredName": "J.G. Koller",
+                "firstName": "J.G.",
+                "lastName": "Koller"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296713",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296713",
+        "articleTitle": "New techniques for parallel simulation of high-temperature superconductors",
+        "volume": null,
+        "issue": null,
+        "startPage": "726",
+        "endPage": "733",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "New techniques for parallel simulation of high-temperature superconductors",
+        "authors": [
+            {
+                "id": 37087967257,
+                "preferredName": "L. Freitag",
+                "firstName": "L.",
+                "lastName": "Freitag"
+            },
+            {
+                "id": 37383889100,
+                "preferredName": "M. Jones",
+                "firstName": "M.",
+                "lastName": "Jones"
+            },
+            {
+                "id": 37283786700,
+                "preferredName": "P. Plassmann",
+                "firstName": "P.",
+                "lastName": "Plassmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296723",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296723",
+        "articleTitle": "A reordering and mapping algorithm for parallel sparse Cholesky factorization",
+        "volume": null,
+        "issue": null,
+        "startPage": "803",
+        "endPage": "810",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A reordering and mapping algorithm for parallel sparse Cholesky factorization",
+        "authors": [
+            {
+                "id": 37380694900,
+                "preferredName": "B. Kumar",
+                "firstName": "B.",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37295412000,
+                "preferredName": "K. Eswar",
+                "firstName": "K.",
+                "lastName": "Eswar"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            },
+            {
+                "id": 37293546300,
+                "preferredName": "C.-H. Huang",
+                "firstName": "C.-H.",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296691",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296691",
+        "articleTitle": "Comparison of shared memory and distributed memory parallelisation strategies for grid-based weather forecast models",
+        "volume": null,
+        "issue": null,
+        "startPage": "560",
+        "endPage": "567",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Comparison of shared memory and distributed memory parallelisation strategies for grid-based weather forecast models",
+        "authors": [
+            {
+                "id": 37089145993,
+                "preferredName": "C.F. Baillie",
+                "firstName": "C.F.",
+                "lastName": "Baillie"
+            },
+            {
+                "id": 37380176500,
+                "preferredName": "G. Carr",
+                "firstName": "G.",
+                "lastName": "Carr"
+            },
+            {
+                "id": 37356495500,
+                "preferredName": "L. Hart",
+                "firstName": "L.",
+                "lastName": "Hart"
+            },
+            {
+                "id": 37089082930,
+                "preferredName": "T. Henderson",
+                "firstName": "T.",
+                "lastName": "Henderson"
+            },
+            {
+                "id": 38560078000,
+                "preferredName": "B. Rodriguez",
+                "firstName": "B.",
+                "lastName": "Rodriguez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296725",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296725",
+        "articleTitle": "Scalable data parallel object recognition using geometric hashing on CM-5",
+        "volume": null,
+        "issue": null,
+        "startPage": "817",
+        "endPage": "824",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Scalable data parallel object recognition using geometric hashing on CM-5",
+        "authors": [
+            {
+                "id": 37273497500,
+                "preferredName": "V.K. Prasanna",
+                "firstName": "V.K.",
+                "lastName": "Prasanna"
+            },
+            {
+                "id": 37087145843,
+                "preferredName": "Cho-Li Wang",
+                "firstName": null,
+                "lastName": "Cho-Li Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296693",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296693",
+        "articleTitle": "A universal approach for task scheduling for distributed memory multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "577",
+        "endPage": "584",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A universal approach for task scheduling for distributed memory multiprocessors",
+        "authors": [
+            {
+                "id": 37274791100,
+                "preferredName": "K. Ghose",
+                "firstName": "K.",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 37295880900,
+                "preferredName": "N. Mehdiratta",
+                "firstName": "N.",
+                "lastName": "Mehdiratta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296695",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296695",
+        "articleTitle": "Limited resource scheduling in multifrontal algorithms for sparse linear systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "593",
+        "endPage": "600",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Limited resource scheduling in multifrontal algorithms for sparse linear systems",
+        "authors": [
+            {
+                "id": 37390248600,
+                "preferredName": "R. Pozo",
+                "firstName": "R.",
+                "lastName": "Pozo"
+            },
+            {
+                "id": 37349170900,
+                "preferredName": "S.L. Smith",
+                "firstName": "S.L.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296619",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296619",
+        "articleTitle": "An efficient single copy cache coherence protocol for multiprocessors with multistage interconnection networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "An efficient single copy cache coherence protocol for multiprocessors with multistage interconnection networks",
+        "authors": [
+            {
+                "id": 37390401800,
+                "preferredName": "R.A. Omran",
+                "firstName": "R.A.",
+                "lastName": "Omran"
+            },
+            {
+                "id": 37326902800,
+                "preferredName": "M.A. Aboelaze",
+                "firstName": "M.A.",
+                "lastName": "Aboelaze"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296633",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296633",
+        "articleTitle": "First principles simulation of materials properties",
+        "volume": null,
+        "issue": null,
+        "startPage": "103",
+        "endPage": "110",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "First principles simulation of materials properties",
+        "authors": [
+            {
+                "id": 37317565200,
+                "preferredName": "W.A. Shelton",
+                "firstName": "W.A.",
+                "lastName": "Shelton"
+            },
+            {
+                "id": 37315540200,
+                "preferredName": "G.M. Stocks",
+                "firstName": "G.M.",
+                "lastName": "Stocks"
+            },
+            {
+                "id": 37087143593,
+                "preferredName": "F.J. Pinski",
+                "firstName": "F.J.",
+                "lastName": "Pinski"
+            },
+            {
+                "id": 37087145067,
+                "preferredName": "R.G. Jordan",
+                "firstName": "R.G.",
+                "lastName": "Jordan"
+            },
+            {
+                "id": 37087144465,
+                "preferredName": "Y. Liu",
+                "firstName": "Y.",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37087143104,
+                "preferredName": "L. Qui",
+                "firstName": "L.",
+                "lastName": "Qui"
+            },
+            {
+                "id": 37087144779,
+                "preferredName": "J.B. Staunton",
+                "firstName": "J.B.",
+                "lastName": "Staunton"
+            },
+            {
+                "id": 37087146905,
+                "preferredName": "D.D. Johnson",
+                "firstName": "D.D.",
+                "lastName": "Johnson"
+            },
+            {
+                "id": 37319768300,
+                "preferredName": "B. Ginatempo",
+                "firstName": "B.",
+                "lastName": "Ginatempo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296704",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296704",
+        "articleTitle": "Unstructured grids on SIMD Torus machines",
+        "volume": null,
+        "issue": null,
+        "startPage": "658",
+        "endPage": "665",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Unstructured grids on SIMD Torus machines",
+        "authors": [
+            {
+                "id": 37087963528,
+                "preferredName": "P.E. Bjorstad",
+                "firstName": "P.E.",
+                "lastName": "Bjorstad"
+            },
+            {
+                "id": 37089045321,
+                "preferredName": "R. Schreiber",
+                "firstName": "R.",
+                "lastName": "Schreiber"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296643",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296643",
+        "articleTitle": "Message-ordering for wormhole-routed multiport systems with link contention and routing adaptivity",
+        "volume": null,
+        "issue": null,
+        "startPage": "191",
+        "endPage": "198",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Message-ordering for wormhole-routed multiport systems with link contention and routing adaptivity",
+        "authors": [
+            {
+                "id": 37275239100,
+                "preferredName": "D.K. Panda",
+                "firstName": "D.K.",
+                "lastName": "Panda"
+            },
+            {
+                "id": 38270999200,
+                "preferredName": "V.A. Dixit-Radiya",
+                "firstName": "V.A.",
+                "lastName": "Dixit-Radiya"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296684",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296684",
+        "articleTitle": "CPAR-language extensions to C for irregular and adaptive parallel computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "501",
+        "endPage": "508",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "CPAR-language extensions to C for irregular and adaptive parallel computations",
+        "authors": [
+            {
+                "id": 37087363464,
+                "preferredName": "Dong-Yuan Chen",
+                "firstName": null,
+                "lastName": "Dong-Yuan Chen"
+            },
+            {
+                "id": 37087986097,
+                "preferredName": "M.C. Chen",
+                "firstName": "M.C.",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296671",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296671",
+        "articleTitle": "High-performance climate system modeling using a domain and task decomposition message-passing approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "397",
+        "endPage": "405",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "High-performance climate system modeling using a domain and task decomposition message-passing approach",
+        "authors": [
+            {
+                "id": 37390132300,
+                "preferredName": "J.J. Ambrosiano",
+                "firstName": "J.J.",
+                "lastName": "Ambrosiano"
+            },
+            {
+                "id": 37088779097,
+                "preferredName": "J. Bolstad",
+                "firstName": "J.",
+                "lastName": "Bolstad"
+            },
+            {
+                "id": 37088784472,
+                "preferredName": "A.J. Bourgeois",
+                "firstName": "A.J.",
+                "lastName": "Bourgeois"
+            },
+            {
+                "id": 37383018000,
+                "preferredName": "J.C. Brown",
+                "firstName": "J.C.",
+                "lastName": "Brown"
+            },
+            {
+                "id": 38553355800,
+                "preferredName": "B. Chan",
+                "firstName": "B.",
+                "lastName": "Chan"
+            },
+            {
+                "id": 37088777691,
+                "preferredName": "W.P. Hannevik",
+                "firstName": "W.P.",
+                "lastName": "Hannevik"
+            },
+            {
+                "id": 37390122600,
+                "preferredName": "P.G. Eltgroth",
+                "firstName": "P.G.",
+                "lastName": "Eltgroth"
+            },
+            {
+                "id": 37088777680,
+                "preferredName": "B. Grant",
+                "firstName": "B.",
+                "lastName": "Grant"
+            },
+            {
+                "id": 37088774537,
+                "preferredName": "C. Matarazzo",
+                "firstName": "C.",
+                "lastName": "Matarazzo"
+            },
+            {
+                "id": 37347630400,
+                "preferredName": "A.A. Mirin",
+                "firstName": "A.A.",
+                "lastName": "Mirin"
+            },
+            {
+                "id": 37088788748,
+                "preferredName": "D.E. Shumaker",
+                "firstName": "D.E.",
+                "lastName": "Shumaker"
+            },
+            {
+                "id": 37390131500,
+                "preferredName": "M.F. Wehner",
+                "firstName": "M.F.",
+                "lastName": "Wehner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296640",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296640",
+        "articleTitle": "Adhara: runtime support for dynamic space-based applications on distributed memory MIMD multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "168",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Adhara: runtime support for dynamic space-based applications on distributed memory MIMD multiprocessors",
+        "authors": [
+            {
+                "id": 37389901600,
+                "preferredName": "I. Ashok",
+                "firstName": "I.",
+                "lastName": "Ashok"
+            },
+            {
+                "id": 37350249400,
+                "preferredName": "J. Zahorjan",
+                "firstName": "J.",
+                "lastName": "Zahorjan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296679",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296679",
+        "articleTitle": "Computing the pipelined phase-rotation FFT",
+        "volume": null,
+        "issue": null,
+        "startPage": "462",
+        "endPage": "469",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Computing the pipelined phase-rotation FFT",
+        "authors": [
+            {
+                "id": 37390184800,
+                "preferredName": "D.R. O'Hallaron",
+                "firstName": "D.R.",
+                "lastName": "O'Hallaron"
+            },
+            {
+                "id": 37390184300,
+                "preferredName": "P.J. Lieu",
+                "firstName": "P.J.",
+                "lastName": "Lieu"
+            },
+            {
+                "id": 37390515800,
+                "preferredName": "L.P. Withers",
+                "firstName": "L.P.",
+                "lastName": "Withers"
+            },
+            {
+                "id": 37390178600,
+                "preferredName": "J.E. Whelchel",
+                "firstName": "J.E.",
+                "lastName": "Whelchel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296687",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296687",
+        "articleTitle": "Implementation and performance of scalable scientific library subroutines on Fujitsu's VPP500 parallel-vector supercomputer",
+        "volume": null,
+        "issue": null,
+        "startPage": "526",
+        "endPage": "533",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Implementation and performance of scalable scientific library subroutines on Fujitsu's VPP500 parallel-vector supercomputer",
+        "authors": [
+            {
+                "id": 37295667900,
+                "preferredName": "R. Brent",
+                "firstName": "R.",
+                "lastName": "Brent"
+            },
+            {
+                "id": 37088778709,
+                "preferredName": "A. Cleary",
+                "firstName": "A.",
+                "lastName": "Cleary"
+            },
+            {
+                "id": 37353009000,
+                "preferredName": "M. Hegland",
+                "firstName": "M.",
+                "lastName": "Hegland"
+            },
+            {
+                "id": 37390138400,
+                "preferredName": "J. Jenkinson",
+                "firstName": "J.",
+                "lastName": "Jenkinson"
+            },
+            {
+                "id": 37390138300,
+                "preferredName": "Z. Leyk",
+                "firstName": "Z.",
+                "lastName": "Leyk"
+            },
+            {
+                "id": 37088780833,
+                "preferredName": "M. Osborne",
+                "firstName": "M.",
+                "lastName": "Osborne"
+            },
+            {
+                "id": 37088786731,
+                "preferredName": "P. Price",
+                "firstName": "P.",
+                "lastName": "Price"
+            },
+            {
+                "id": 37380808800,
+                "preferredName": "S. Roberts",
+                "firstName": "S.",
+                "lastName": "Roberts"
+            },
+            {
+                "id": 37088788143,
+                "preferredName": "D. Singleton",
+                "firstName": "D.",
+                "lastName": "Singleton"
+            },
+            {
+                "id": 37378594600,
+                "preferredName": "M. Nakanishi",
+                "firstName": "M.",
+                "lastName": "Nakanishi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296697",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296697",
+        "articleTitle": "Distributed sparse Gaussian elimination and orthogonal factorization",
+        "volume": null,
+        "issue": null,
+        "startPage": "607",
+        "endPage": "614",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Distributed sparse Gaussian elimination and orthogonal factorization",
+        "authors": [
+            {
+                "id": 37088088827,
+                "preferredName": "P. Raghavan",
+                "firstName": "P.",
+                "lastName": "Raghavan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296666",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296666",
+        "articleTitle": "Affinity: a concurrent programming environment",
+        "volume": null,
+        "issue": null,
+        "startPage": "365",
+        "endPage": "372",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Affinity: a concurrent programming environment",
+        "authors": [
+            {
+                "id": 37282078400,
+                "preferredName": "C.S. Steele",
+                "firstName": "C.S.",
+                "lastName": "Steele"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296668",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296668",
+        "articleTitle": "A generalized expression optimization hook for C++ on a high-performance architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "381",
+        "endPage": "387",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "A generalized expression optimization hook for C++ on a high-performance architectures",
+        "authors": [
+            {
+                "id": 37088202862,
+                "preferredName": "D.J. Edelsohn",
+                "firstName": "D.J.",
+                "lastName": "Edelsohn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "969",
+        "doi": "10.1109/SHPCC.1994.296614",
+        "publicationYear": "1994",
+        "publicationDate": "23-25 May 1994",
+        "articleNumber": "296614",
+        "articleTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "volume": null,
+        "issue": null,
+        "startPage": "0_1",
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "highlightedTitle": "Proceedings of IEEE Scalable High Performance Computing Conference",
+        "authors": []
+    }
+]

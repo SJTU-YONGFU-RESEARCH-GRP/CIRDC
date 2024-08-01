@@ -1,0 +1,923 @@
+[
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5650274",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5650274",
+        "articleTitle": "A characterization of the Rodinia benchmark suite with comparison to contemporary CMP workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "A characterization of the Rodinia benchmark suite with comparison to contemporary CMP workloads",
+        "authors": [
+            {
+                "id": 37586051700,
+                "preferredName": "Shuai Che",
+                "firstName": "Shuai",
+                "lastName": "Che"
+            },
+            {
+                "id": 37394033800,
+                "preferredName": "Jeremy W. Sheaffer",
+                "firstName": "Jeremy W.",
+                "lastName": "Sheaffer"
+            },
+            {
+                "id": 37570053900,
+                "preferredName": "Michael Boyer",
+                "firstName": "Michael",
+                "lastName": "Boyer"
+            },
+            {
+                "id": 37594654400,
+                "preferredName": "Lukasz G. Szafaryn",
+                "firstName": "Lukasz G.",
+                "lastName": "Szafaryn"
+            },
+            {
+                "id": 37087155309,
+                "preferredName": "Liang Wang",
+                "firstName": null,
+                "lastName": "Liang Wang"
+            },
+            {
+                "id": 37273724700,
+                "preferredName": "Kevin Skadron",
+                "firstName": "Kevin",
+                "lastName": "Skadron"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5649549",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5649549",
+        "articleTitle": "Exploring GPGPU workloads: Characterization methodology, analysis and microarchitecture evaluation implications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Exploring GPGPU workloads: Characterization methodology, analysis and microarchitecture evaluation implications",
+        "authors": [
+            {
+                "id": 37587480700,
+                "preferredName": "Nilanjan Goswami",
+                "firstName": "Nilanjan",
+                "lastName": "Goswami"
+            },
+            {
+                "id": 37592039900,
+                "preferredName": "Ramkumar Shankar",
+                "firstName": "Ramkumar",
+                "lastName": "Shankar"
+            },
+            {
+                "id": 37588920800,
+                "preferredName": "Madhura Joshi",
+                "firstName": "Madhura",
+                "lastName": "Joshi"
+            },
+            {
+                "id": 37539272900,
+                "preferredName": "Tao Li",
+                "firstName": "Tao",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5649519",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5649519",
+        "articleTitle": "Fidelity and scaling of the PARSEC benchmark inputs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Fidelity and scaling of the PARSEC benchmark inputs",
+        "authors": [
+            {
+                "id": 37592437100,
+                "preferredName": "Christian Bienia",
+                "firstName": "Christian",
+                "lastName": "Bienia"
+            },
+            {
+                "id": 37277619300,
+                "preferredName": "Kai Li",
+                "firstName": "Kai",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5649419",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5649419",
+        "articleTitle": "A limit study of JavaScript parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "A limit study of JavaScript parallelism",
+        "authors": [
+            {
+                "id": 37589855000,
+                "preferredName": "Emily Fortuna",
+                "firstName": "Emily",
+                "lastName": "Fortuna"
+            },
+            {
+                "id": 37089043233,
+                "preferredName": "Owen Anderson",
+                "firstName": "Owen",
+                "lastName": "Anderson"
+            },
+            {
+                "id": 37297956900,
+                "preferredName": "Luis Ceze",
+                "firstName": "Luis",
+                "lastName": "Ceze"
+            },
+            {
+                "id": 37337753900,
+                "preferredName": "Susan Eggers",
+                "firstName": "Susan",
+                "lastName": "Eggers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5648812",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5648812",
+        "articleTitle": "Eigenbench: A simple exploration tool for orthogonal TM characteristics",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Eigenbench: A simple exploration tool for orthogonal TM characteristics",
+        "authors": [
+            {
+                "id": 37087592874,
+                "preferredName": "Sungpack Hong",
+                "firstName": null,
+                "lastName": "Sungpack Hong"
+            },
+            {
+                "id": 37590899400,
+                "preferredName": "Tayo Oguntebi",
+                "firstName": "Tayo",
+                "lastName": "Oguntebi"
+            },
+            {
+                "id": 37297969700,
+                "preferredName": "Jared Casper",
+                "firstName": "Jared",
+                "lastName": "Casper"
+            },
+            {
+                "id": 37596838600,
+                "preferredName": "Nathan Bronson",
+                "firstName": "Nathan",
+                "lastName": "Bronson"
+            },
+            {
+                "id": 37282352700,
+                "preferredName": "Christos Kozyrakis",
+                "firstName": "Christos",
+                "lastName": "Kozyrakis"
+            },
+            {
+                "id": 37282353900,
+                "preferredName": "Kunle Olukotun",
+                "firstName": "Kunle",
+                "lastName": "Olukotun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5650208",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5650208",
+        "articleTitle": "Benchmark synthesis for architecture and compiler exploration",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Benchmark synthesis for architecture and compiler exploration",
+        "authors": [
+            {
+                "id": 37593308700,
+                "preferredName": "Luk Van Ertvelde",
+                "firstName": "Luk",
+                "lastName": "Van Ertvelde"
+            },
+            {
+                "id": 37266694200,
+                "preferredName": "Lieven Eeckhout",
+                "firstName": "Lieven",
+                "lastName": "Eeckhout"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5650369",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5650369",
+        "articleTitle": "Characterizing datasets for data deduplication in backup applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Characterizing datasets for data deduplication in backup applications",
+        "authors": [
+            {
+                "id": 37599367400,
+                "preferredName": "Nohhyun Park",
+                "firstName": "Nohhyun",
+                "lastName": "Park"
+            },
+            {
+                "id": 37276950200,
+                "preferredName": "David J. Lilja",
+                "firstName": "David J.",
+                "lastName": "Lilja"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5650280",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5650280",
+        "articleTitle": "Performance variations of two open-source cloud platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Performance variations of two open-source cloud platforms",
+        "authors": [
+            {
+                "id": 37588944000,
+                "preferredName": "Yohei Ueda",
+                "firstName": "Yohei",
+                "lastName": "Ueda"
+            },
+            {
+                "id": 37266760500,
+                "preferredName": "Toshio Nakatani",
+                "firstName": "Toshio",
+                "lastName": "Nakatani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5650339",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5650339",
+        "articleTitle": "Runtime workload behavior prediction using statistical metric modeling with application to dynamic power management",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Runtime workload behavior prediction using statistical metric modeling with application to dynamic power management",
+        "authors": [
+            {
+                "id": 37283930200,
+                "preferredName": "Ruhi Sarikaya",
+                "firstName": "Ruhi",
+                "lastName": "Sarikaya"
+            },
+            {
+                "id": 37564776200,
+                "preferredName": "Canturk Isci",
+                "firstName": "Canturk",
+                "lastName": "Isci"
+            },
+            {
+                "id": 37267009200,
+                "preferredName": "Alper Buyuktosunoglu",
+                "firstName": "Alper",
+                "lastName": "Buyuktosunoglu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5649499",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5649499",
+        "articleTitle": "Improving virtualization performance and scalability with advanced hardware accelerations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Improving virtualization performance and scalability with advanced hardware accelerations",
+        "authors": [
+            {
+                "id": 37087645017,
+                "preferredName": "Yaozu Dong",
+                "firstName": null,
+                "lastName": "Yaozu Dong"
+            },
+            {
+                "id": 37087169611,
+                "preferredName": "Xudong Zheng",
+                "firstName": null,
+                "lastName": "Xudong Zheng"
+            },
+            {
+                "id": 37087636239,
+                "preferredName": "Xiantao Zhang",
+                "firstName": null,
+                "lastName": "Xiantao Zhang"
+            },
+            {
+                "id": 37087336401,
+                "preferredName": "Jinquan Dai",
+                "firstName": null,
+                "lastName": "Jinquan Dai"
+            },
+            {
+                "id": 37087160201,
+                "preferredName": "Jianhui Li",
+                "firstName": null,
+                "lastName": "Jianhui Li"
+            },
+            {
+                "id": 37088044229,
+                "preferredName": "Xin Li",
+                "firstName": null,
+                "lastName": "Xin Li"
+            },
+            {
+                "id": 37087289408,
+                "preferredName": "Gang Zhai",
+                "firstName": null,
+                "lastName": "Gang Zhai"
+            },
+            {
+                "id": 37087280619,
+                "preferredName": "Haibing Guan",
+                "firstName": null,
+                "lastName": "Haibing Guan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5649408",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5649408",
+        "articleTitle": "Characterization of workload and resource consumption for an online travel and booking site",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Characterization of workload and resource consumption for an online travel and booking site",
+        "authors": [
+            {
+                "id": 37590195100,
+                "preferredName": "Nicolas Poggi",
+                "firstName": "Nicolas",
+                "lastName": "Poggi"
+            },
+            {
+                "id": 37281792900,
+                "preferredName": "David Carrera",
+                "firstName": "David",
+                "lastName": "Carrera"
+            },
+            {
+                "id": 37393251100,
+                "preferredName": "Ricard Gavald\u00e0",
+                "firstName": "Ricard",
+                "lastName": "Gavald\u00e0"
+            },
+            {
+                "id": 37270777700,
+                "preferredName": "Jordi Torres",
+                "firstName": "Jordi",
+                "lastName": "Torres"
+            },
+            {
+                "id": 37283770000,
+                "preferredName": "Eduard Ayguad\u00e9",
+                "firstName": "Eduard",
+                "lastName": "Ayguad\u00e9"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5650174",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5650174",
+        "articleTitle": "Performance of multi-process and multi-thread processing on multi-core SMT processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Performance of multi-process and multi-thread processing on multi-core SMT processors",
+        "authors": [
+            {
+                "id": 37292993100,
+                "preferredName": "Hiroshi Inoue",
+                "firstName": "Hiroshi",
+                "lastName": "Inoue"
+            },
+            {
+                "id": 37266760500,
+                "preferredName": "Toshio Nakatani",
+                "firstName": "Toshio",
+                "lastName": "Nakatani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5649169",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5649169",
+        "articleTitle": "Toward a more accurate understanding of the limits of the TLS execution paradigm",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Toward a more accurate understanding of the limits of the TLS execution paradigm",
+        "authors": [
+            {
+                "id": 37393013400,
+                "preferredName": "Nikolas Ioannou",
+                "firstName": "Nikolas",
+                "lastName": "Ioannou"
+            },
+            {
+                "id": 37085662036,
+                "preferredName": "Jeremy Singer",
+                "firstName": "Jeremy",
+                "lastName": "Singer"
+            },
+            {
+                "id": 37393163000,
+                "preferredName": "Salman Khan",
+                "firstName": "Salman",
+                "lastName": "Khan"
+            },
+            {
+                "id": 37267087900,
+                "preferredName": "Polychronis Xekalakis",
+                "firstName": "Polychronis",
+                "lastName": "Xekalakis"
+            },
+            {
+                "id": 37871303700,
+                "preferredName": "Paraskevas Yiapanis",
+                "firstName": "Paraskevas",
+                "lastName": "Yiapanis"
+            },
+            {
+                "id": 37085657499,
+                "preferredName": "Adam Pocock",
+                "firstName": "Adam",
+                "lastName": "Pocock"
+            },
+            {
+                "id": 37383362900,
+                "preferredName": "Gavin Brown",
+                "firstName": "Gavin",
+                "lastName": "Brown"
+            },
+            {
+                "id": 37392848800,
+                "preferredName": "Mikel Luj\u00e1n",
+                "firstName": "Mikel",
+                "lastName": "Luj\u00e1n"
+            },
+            {
+                "id": 37343949800,
+                "preferredName": "Ian Watson",
+                "firstName": "Ian",
+                "lastName": "Watson"
+            },
+            {
+                "id": 37282576700,
+                "preferredName": "Marcelo Cintra",
+                "firstName": "Marcelo",
+                "lastName": "Cintra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5648852",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5648852",
+        "articleTitle": "Performance characterization and acceleration of Optical Character Recognition on handheld platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Performance characterization and acceleration of Optical Character Recognition on handheld platforms",
+        "authors": [
+            {
+                "id": 37400610000,
+                "preferredName": "Sadagopan Srinivasan",
+                "firstName": "Sadagopan",
+                "lastName": "Srinivasan"
+            },
+            {
+                "id": 37085977348,
+                "preferredName": "Li Zhao",
+                "firstName": null,
+                "lastName": "Li Zhao"
+            },
+            {
+                "id": 37087295048,
+                "preferredName": "Lin Sun",
+                "firstName": null,
+                "lastName": "Lin Sun"
+            },
+            {
+                "id": 37087761887,
+                "preferredName": "Zhen Fang",
+                "firstName": null,
+                "lastName": "Zhen Fang"
+            },
+            {
+                "id": 37085948760,
+                "preferredName": "Peng Li",
+                "firstName": null,
+                "lastName": "Peng Li"
+            },
+            {
+                "id": 37087148245,
+                "preferredName": "Tao Wang",
+                "firstName": null,
+                "lastName": "Tao Wang"
+            },
+            {
+                "id": 37065928100,
+                "preferredName": "Ravishankar Iyer",
+                "firstName": "Ravishankar",
+                "lastName": "Iyer"
+            },
+            {
+                "id": 37272510400,
+                "preferredName": "Ramesh Illikkal",
+                "firstName": "Ramesh",
+                "lastName": "Illikkal"
+            },
+            {
+                "id": 37087251097,
+                "preferredName": "Dong Liu",
+                "firstName": null,
+                "lastName": "Dong Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5650333",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5650333",
+        "articleTitle": "Exploiting approximate value locality for data synchronization on multi-core processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Exploiting approximate value locality for data synchronization on multi-core processors",
+        "authors": [
+            {
+                "id": 37594545900,
+                "preferredName": "Jaswanth Sreeram",
+                "firstName": "Jaswanth",
+                "lastName": "Sreeram"
+            },
+            {
+                "id": 37267758000,
+                "preferredName": "Santosh Pande",
+                "firstName": "Santosh",
+                "lastName": "Pande"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5648828",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5648828",
+        "articleTitle": "Data handling inefficiencies between CUDA, 3D rendering, and system memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Data handling inefficiencies between CUDA, 3D rendering, and system memory",
+        "authors": [
+            {
+                "id": 37088318755,
+                "preferredName": "Brian Gordon",
+                "firstName": "Brian",
+                "lastName": "Gordon"
+            },
+            {
+                "id": 37590920700,
+                "preferredName": "Sohum Sohoni",
+                "firstName": "Sohum",
+                "lastName": "Sohoni"
+            },
+            {
+                "id": 37299489700,
+                "preferredName": "Damon Chandler",
+                "firstName": "Damon",
+                "lastName": "Chandler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5654398",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5654398",
+        "articleTitle": "Tackling the challenges of server consolidation on multi-core systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Tackling the challenges of server consolidation on multi-core systems",
+        "authors": [
+            {
+                "id": 37087591268,
+                "preferredName": "Hui Lv",
+                "firstName": null,
+                "lastName": "Hui Lv"
+            },
+            {
+                "id": 37087169611,
+                "preferredName": "Xudong Zheng",
+                "firstName": null,
+                "lastName": "Xudong Zheng"
+            },
+            {
+                "id": 37087166368,
+                "preferredName": "Zhiteng Huang",
+                "firstName": null,
+                "lastName": "Zhiteng Huang"
+            },
+            {
+                "id": 37087734759,
+                "preferredName": "Jiangang Duan",
+                "firstName": null,
+                "lastName": "Jiangang Duan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5654431",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5654431",
+        "articleTitle": "Real Java applications in software transactional memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Real Java applications in software transactional memory",
+        "authors": [
+            {
+                "id": 37593414300,
+                "preferredName": "Takuya Nakaike",
+                "firstName": "Takuya",
+                "lastName": "Nakaike"
+            },
+            {
+                "id": 37428242700,
+                "preferredName": "Rei Odaira",
+                "firstName": "Rei",
+                "lastName": "Odaira"
+            },
+            {
+                "id": 37266760500,
+                "preferredName": "Toshio Nakatani",
+                "firstName": "Toshio",
+                "lastName": "Nakatani"
+            },
+            {
+                "id": 37344295100,
+                "preferredName": "Maged M. Michael",
+                "firstName": "Maged M.",
+                "lastName": "Michael"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5650317",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5650317",
+        "articleTitle": "Analyzing and scaling parallelism for network routing protocols",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Analyzing and scaling parallelism for network routing protocols",
+        "authors": [
+            {
+                "id": 37293986100,
+                "preferredName": "Abhishek Dhanotia",
+                "firstName": "Abhishek",
+                "lastName": "Dhanotia"
+            },
+            {
+                "id": 37591197500,
+                "preferredName": "Sabina Grover",
+                "firstName": "Sabina",
+                "lastName": "Grover"
+            },
+            {
+                "id": 37375076600,
+                "preferredName": "Greg Byrd",
+                "firstName": "Greg",
+                "lastName": "Byrd"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5649529",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5649529",
+        "articleTitle": "Analysis on semantic transactional memory footprint for hardware transactional memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Analysis on semantic transactional memory footprint for hardware transactional memory",
+        "authors": [
+            {
+                "id": 37557437000,
+                "preferredName": "Jaewoong Chung",
+                "firstName": "Jaewoong",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37282567400,
+                "preferredName": "Dhruva R. Chakrabarti",
+                "firstName": "Dhruva R.",
+                "lastName": "Chakrabarti"
+            },
+            {
+                "id": 37087748033,
+                "preferredName": "Chi Cao Minh",
+                "firstName": "Chi",
+                "lastName": "Cao Minh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5644749",
+        "doi": "10.1109/IISWC.2010.5648864",
+        "publicationYear": "2010",
+        "publicationDate": "2-4 Dec. 2010",
+        "articleNumber": "5648864",
+        "articleTitle": "Parallelization and characterization of GARCH option pricing on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "IEEE International Symposium on Workload Characterization (IISWC'10)",
+        "highlightedTitle": "Parallelization and characterization of GARCH option pricing on GPUs",
+        "authors": [
+            {
+                "id": 37088256080,
+                "preferredName": "Ren-Shuo Liu",
+                "firstName": null,
+                "lastName": "Ren-Shuo Liu"
+            },
+            {
+                "id": 37088256866,
+                "preferredName": "Yun-Cheng Tsai",
+                "firstName": null,
+                "lastName": "Yun-Cheng Tsai"
+            },
+            {
+                "id": 37087219131,
+                "preferredName": "Chia-Lin Yang",
+                "firstName": null,
+                "lastName": "Chia-Lin Yang"
+            }
+        ]
+    }
+]

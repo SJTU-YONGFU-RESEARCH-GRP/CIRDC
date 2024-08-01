@@ -1,0 +1,5356 @@
+[
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00077",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460515",
+        "articleTitle": "From Parallelization to Customization \u2013 Challenges and Opportunities",
+        "volume": null,
+        "issue": null,
+        "startPage": "682",
+        "endPage": "682",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "From Parallelization to Customization \u2013 Challenges and Opportunities",
+        "authors": [
+            {
+                "id": 37088901631,
+                "preferredName": "Jason Cong",
+                "firstName": "Jason",
+                "lastName": "Cong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00076",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460506",
+        "articleTitle": "Is Asymptotic Cost Analysis Useful in Developing Practical Parallel Algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "681",
+        "endPage": "681",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Is Asymptotic Cost Analysis Useful in Developing Practical Parallel Algorithms",
+        "authors": [
+            {
+                "id": 37378460400,
+                "preferredName": "Guy Blelloch",
+                "firstName": "Guy",
+                "lastName": "Blelloch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00001",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9458990",
+        "articleTitle": "A Tale of Two C\u2019s: Convergence and Composability",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "A Tale of Two C\u2019s: Convergence and Composability",
+        "authors": [
+            {
+                "id": 37277124600,
+                "preferredName": "\u0130lkay Altinta\u015f",
+                "firstName": "\u0130lkay",
+                "lastName": "Altinta\u015f"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00102",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460542",
+        "articleTitle": "QoS-Aware and Resource Efficient Microservice Deployment in Cloud-Edge Continuum",
+        "volume": null,
+        "issue": null,
+        "startPage": "932",
+        "endPage": "941",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "QoS-Aware and Resource Efficient Microservice Deployment in Cloud-Edge Continuum",
+        "authors": [
+            {
+                "id": 37088901666,
+                "preferredName": "Kaihua Fu",
+                "firstName": "Kaihua",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37089092603,
+                "preferredName": "Wei Zhang",
+                "firstName": "Wei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086610806,
+                "preferredName": "Quan Chen",
+                "firstName": "Quan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37648157100,
+                "preferredName": "Deze Zeng",
+                "firstName": "Deze",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37292540400,
+                "preferredName": "Xin Peng",
+                "firstName": "Xin",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37085366110,
+                "preferredName": "Wenli Zheng",
+                "firstName": "Wenli",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37274181400,
+                "preferredName": "Minyi Guo",
+                "firstName": "Minyi",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00016",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460505",
+        "articleTitle": "TileSpMV: A Tiled Algorithm for Sparse Matrix-Vector Multiplication on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "68",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "TileSpMV: A Tiled Algorithm for Sparse Matrix-Vector Multiplication on GPUs",
+        "authors": [
+            {
+                "id": 37088900597,
+                "preferredName": "Yuyao Niu",
+                "firstName": "Yuyao",
+                "lastName": "Niu"
+            },
+            {
+                "id": 37088900875,
+                "preferredName": "Zhengyang Lu",
+                "firstName": "Zhengyang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37088904108,
+                "preferredName": "Meichen Dong",
+                "firstName": "Meichen",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37061747900,
+                "preferredName": "Zhou Jin",
+                "firstName": "Zhou",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37086778966,
+                "preferredName": "Weifeng Liu",
+                "firstName": "Weifeng",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37552741100,
+                "preferredName": "Guangming Tan",
+                "firstName": "Guangming",
+                "lastName": "Tan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00075",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460523",
+        "articleTitle": "Detecting Malicious Model Updates from Federated Learning on Conditional Variational Autoencoder",
+        "volume": null,
+        "issue": null,
+        "startPage": "671",
+        "endPage": "680",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Detecting Malicious Model Updates from Federated Learning on Conditional Variational Autoencoder",
+        "authors": [
+            {
+                "id": 37088471814,
+                "preferredName": "Zhipin Gu",
+                "firstName": "Zhipin",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37406564200,
+                "preferredName": "Yuexiang Yang",
+                "firstName": "Yuexiang",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00090",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460549",
+        "articleTitle": "Deep Reinforcement Agent for Scheduling in HPC",
+        "volume": null,
+        "issue": null,
+        "startPage": "807",
+        "endPage": "816",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Deep Reinforcement Agent for Scheduling in HPC",
+        "authors": [
+            {
+                "id": 37086079728,
+                "preferredName": "Yuping Fan",
+                "firstName": "Yuping",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37314459500,
+                "preferredName": "Zhiling Lan",
+                "firstName": "Zhiling",
+                "lastName": "Lan"
+            },
+            {
+                "id": 38547164600,
+                "preferredName": "Taylor Childers",
+                "firstName": "Taylor",
+                "lastName": "Childers"
+            },
+            {
+                "id": 37085553337,
+                "preferredName": "Paul Rich",
+                "firstName": "Paul",
+                "lastName": "Rich"
+            },
+            {
+                "id": 37282947000,
+                "preferredName": "William Allcock",
+                "firstName": "William",
+                "lastName": "Allcock"
+            },
+            {
+                "id": 37267817200,
+                "preferredName": "Michael E. Papka",
+                "firstName": "Michael E.",
+                "lastName": "Papka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00089",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460554",
+        "articleTitle": "AlphaR: Learning-Powered Resource Management for Irregular, Dynamic Microservice Graph",
+        "volume": null,
+        "issue": null,
+        "startPage": "797",
+        "endPage": "806",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "AlphaR: Learning-Powered Resource Management for Irregular, Dynamic Microservice Graph",
+        "authors": [
+            {
+                "id": 37085843537,
+                "preferredName": "Xiaofeng Hou",
+                "firstName": "Xiaofeng",
+                "lastName": "Hou"
+            },
+            {
+                "id": 38065111100,
+                "preferredName": "Chao Li",
+                "firstName": "Chao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089412160,
+                "preferredName": "Jiacheng Liu",
+                "firstName": "Jiacheng",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086960618,
+                "preferredName": "Lu Zhang",
+                "firstName": "Lu",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37411271000,
+                "preferredName": "Shaolei Ren",
+                "firstName": "Shaolei",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37085526104,
+                "preferredName": "Jingwen Leng",
+                "firstName": "Jingwen",
+                "lastName": "Leng"
+            },
+            {
+                "id": 37086610806,
+                "preferredName": "Quan Chen",
+                "firstName": "Quan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37274181400,
+                "preferredName": "Minyi Guo",
+                "firstName": "Minyi",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00109",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460551",
+        "articleTitle": "Automatic Graph Partitioning for Very Large-scale Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1004",
+        "endPage": "1013",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Automatic Graph Partitioning for Very Large-scale Deep Learning",
+        "authors": [
+            {
+                "id": 37537217400,
+                "preferredName": "Masahiro Tanaka",
+                "firstName": "Masahiro",
+                "lastName": "Tanaka"
+            },
+            {
+                "id": 37284826400,
+                "preferredName": "Kenjiro Taura",
+                "firstName": "Kenjiro",
+                "lastName": "Taura"
+            },
+            {
+                "id": 37295800500,
+                "preferredName": "Toshihiro Hanawa",
+                "firstName": "Toshihiro",
+                "lastName": "Hanawa"
+            },
+            {
+                "id": 37601908800,
+                "preferredName": "Kentaro Torisawa",
+                "firstName": "Kentaro",
+                "lastName": "Torisawa"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00037",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460470",
+        "articleTitle": "Demystifying GPU Reliability: Comparing and Combining Beam Experiments, Fault Simulation, and Profiling",
+        "volume": null,
+        "issue": null,
+        "startPage": "289",
+        "endPage": "298",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Demystifying GPU Reliability: Comparing and Combining Beam Experiments, Fault Simulation, and Profiling",
+        "authors": [
+            {
+                "id": 37086432722,
+                "preferredName": "Fernando Fernandes dos Santos",
+                "firstName": "Fernando Fernandes dos",
+                "lastName": "Santos"
+            },
+            {
+                "id": 38192250000,
+                "preferredName": "Siva Kumar Sastry Hari",
+                "firstName": "Siva Kumar Sastry",
+                "lastName": "Hari"
+            },
+            {
+                "id": 37088445081,
+                "preferredName": "Pedro Martins Basso",
+                "firstName": "Pedro Martins",
+                "lastName": "Basso"
+            },
+            {
+                "id": 37274825200,
+                "preferredName": "Luigi Carro",
+                "firstName": "Luigi",
+                "lastName": "Carro"
+            },
+            {
+                "id": 38515515000,
+                "preferredName": "Paolo Rech",
+                "firstName": "Paolo",
+                "lastName": "Rech"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00023",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460482",
+        "articleTitle": "Demystifying GPU UVM Cost with Deep Runtime and Workload Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "141",
+        "endPage": "150",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Demystifying GPU UVM Cost with Deep Runtime and Workload Analysis",
+        "authors": [
+            {
+                "id": 37086021432,
+                "preferredName": "Tyler Allen",
+                "firstName": "Tyler",
+                "lastName": "Allen"
+            },
+            {
+                "id": 37281837400,
+                "preferredName": "Rong Ge",
+                "firstName": "Rong",
+                "lastName": "Ge"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00114",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460517",
+        "articleTitle": "Matrix Engines for High Performance Computing: A Paragon of Performance or Grasping at Straws?",
+        "volume": null,
+        "issue": null,
+        "startPage": "1056",
+        "endPage": "1065",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Matrix Engines for High Performance Computing: A Paragon of Performance or Grasping at Straws?",
+        "authors": [
+            {
+                "id": 37901989700,
+                "preferredName": "Jens Domke",
+                "firstName": "Jens",
+                "lastName": "Domke"
+            },
+            {
+                "id": 37088903724,
+                "preferredName": "Emil Vatai",
+                "firstName": "Emil",
+                "lastName": "Vatai"
+            },
+            {
+                "id": 38468578100,
+                "preferredName": "Aleksandr Drozd",
+                "firstName": "Aleksandr",
+                "lastName": "Drozd"
+            },
+            {
+                "id": 37088901436,
+                "preferredName": "Peng ChenT",
+                "firstName": "Peng",
+                "lastName": "ChenT"
+            },
+            {
+                "id": 37086092078,
+                "preferredName": "Yosuke Oyama",
+                "firstName": "Yosuke",
+                "lastName": "Oyama"
+            },
+            {
+                "id": 37088441374,
+                "preferredName": "Lingqi Zhang",
+                "firstName": "Lingqi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086515933,
+                "preferredName": "Shweta Salaria",
+                "firstName": "Shweta",
+                "lastName": "Salaria"
+            },
+            {
+                "id": 38469105300,
+                "preferredName": "Daichi Mukunoki",
+                "firstName": "Daichi",
+                "lastName": "Mukunoki"
+            },
+            {
+                "id": 37085472309,
+                "preferredName": "Artur Podobas",
+                "firstName": "Artur",
+                "lastName": "Podobas"
+            },
+            {
+                "id": 37088899374,
+                "preferredName": "Mohamed WahibT",
+                "firstName": "Mohamed",
+                "lastName": "WahibT"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00053",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460453",
+        "articleTitle": "Designing High-Performance MPI Libraries with On-the-fly Compression for Modern GPU Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "444",
+        "endPage": "453",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Designing High-Performance MPI Libraries with On-the-fly Compression for Modern GPU Clusters",
+        "authors": [
+            {
+                "id": 37088546339,
+                "preferredName": "Q. Zhou",
+                "firstName": "Q.",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37085675418,
+                "preferredName": "C. Chu",
+                "firstName": "C.",
+                "lastName": "Chu"
+            },
+            {
+                "id": 37088900714,
+                "preferredName": "N. S. Kumar",
+                "firstName": "N. S.",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37086516251,
+                "preferredName": "P. Kousha",
+                "firstName": "P.",
+                "lastName": "Kousha"
+            },
+            {
+                "id": 37086958027,
+                "preferredName": "S. M. Ghazimirsaeed",
+                "firstName": "S. M.",
+                "lastName": "Ghazimirsaeed"
+            },
+            {
+                "id": 37393051700,
+                "preferredName": "H. Subramoni",
+                "firstName": "H.",
+                "lastName": "Subramoni"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "D. K. Panda",
+                "firstName": "D. K.",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00097",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460511",
+        "articleTitle": "Revisiting Huffman Coding: Toward Extreme Performance on Modern GPU Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "881",
+        "endPage": "891",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Revisiting Huffman Coding: Toward Extreme Performance on Modern GPU Architectures",
+        "authors": [
+            {
+                "id": 37088810775,
+                "preferredName": "Jiannan Tian",
+                "firstName": "Jiannan",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37088899356,
+                "preferredName": "Cody Rivera",
+                "firstName": "Cody",
+                "lastName": "Rivera"
+            },
+            {
+                "id": 37681686900,
+                "preferredName": "Sheng Di",
+                "firstName": "Sheng",
+                "lastName": "Di"
+            },
+            {
+                "id": 37085677362,
+                "preferredName": "Jieyang Chen",
+                "firstName": "Jieyang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085659880,
+                "preferredName": "Xin Liang",
+                "firstName": "Xin",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37086033499,
+                "preferredName": "Dingwen Tao",
+                "firstName": "Dingwen",
+                "lastName": "Tao"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00115",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460547",
+        "articleTitle": "Performance Analysis of Scientific Computing Workloads on General Purpose TEEs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1066",
+        "endPage": "1076",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Performance Analysis of Scientific Computing Workloads on General Purpose TEEs",
+        "authors": [
+            {
+                "id": 37086204587,
+                "preferredName": "Ayaz Akram",
+                "firstName": "Ayaz",
+                "lastName": "Akram"
+            },
+            {
+                "id": 37085375873,
+                "preferredName": "Anna Giannakou",
+                "firstName": "Anna",
+                "lastName": "Giannakou"
+            },
+            {
+                "id": 37273557300,
+                "preferredName": "Venkatesh Akella",
+                "firstName": "Venkatesh",
+                "lastName": "Akella"
+            },
+            {
+                "id": 37086617026,
+                "preferredName": "Jason Lowe-Power",
+                "firstName": "Jason",
+                "lastName": "Lowe-Power"
+            },
+            {
+                "id": 37297208100,
+                "preferredName": "Sean Peisert",
+                "firstName": "Sean",
+                "lastName": "Peisert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00072",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460555",
+        "articleTitle": "Scalable Epidemiological Workflows to Support COVID-19 Planning and Response",
+        "volume": null,
+        "issue": null,
+        "startPage": "639",
+        "endPage": "650",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Scalable Epidemiological Workflows to Support COVID-19 Planning and Response",
+        "authors": [
+            {
+                "id": 37086494093,
+                "preferredName": "Dustin Machi",
+                "firstName": "Dustin",
+                "lastName": "Machi"
+            },
+            {
+                "id": 37088572890,
+                "preferredName": "Parantapa Bhattacharya",
+                "firstName": "Parantapa",
+                "lastName": "Bhattacharya"
+            },
+            {
+                "id": 38475918700,
+                "preferredName": "Stefan Hoops",
+                "firstName": "Stefan",
+                "lastName": "Hoops"
+            },
+            {
+                "id": 37600079300,
+                "preferredName": "Jiangzhuo Chen",
+                "firstName": "Jiangzhuo",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37449124900,
+                "preferredName": "Henning Mortveit",
+                "firstName": "Henning",
+                "lastName": "Mortveit"
+            },
+            {
+                "id": 37860166800,
+                "preferredName": "Srinivasan Venkatramanan",
+                "firstName": "Srinivasan",
+                "lastName": "Venkatramanan"
+            },
+            {
+                "id": 37390947500,
+                "preferredName": "Bryan Lewis",
+                "firstName": "Bryan",
+                "lastName": "Lewis"
+            },
+            {
+                "id": 37085716103,
+                "preferredName": "Mandy Wilson",
+                "firstName": "Mandy",
+                "lastName": "Wilson"
+            },
+            {
+                "id": 37088901035,
+                "preferredName": "Arindam Fadikar",
+                "firstName": "Arindam",
+                "lastName": "Fadikar"
+            },
+            {
+                "id": 37086618725,
+                "preferredName": "Tom Maiden",
+                "firstName": "Tom",
+                "lastName": "Maiden"
+            },
+            {
+                "id": 37272555400,
+                "preferredName": "Christopher L. Barrett",
+                "firstName": "Christopher L.",
+                "lastName": "Barrett"
+            },
+            {
+                "id": 37265046100,
+                "preferredName": "Madhav V. Marathe",
+                "firstName": "Madhav V.",
+                "lastName": "Marathe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00074",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460535",
+        "articleTitle": "Optimal Task Assignment for Heterogeneous Federated Learning Devices",
+        "volume": null,
+        "issue": null,
+        "startPage": "661",
+        "endPage": "670",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Optimal Task Assignment for Heterogeneous Federated Learning Devices",
+        "authors": [
+            {
+                "id": 37545846500,
+                "preferredName": "La\u00e9rcio Lima Pilla",
+                "firstName": "La\u00e9rcio",
+                "lastName": "Lima Pilla"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00043",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460495",
+        "articleTitle": "Cori: Dancing to the Right Beat of Periodic Data Movements over Hybrid Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "350",
+        "endPage": "359",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Cori: Dancing to the Right Beat of Periodic Data Movements over Hybrid Memory Systems",
+        "authors": [
+            {
+                "id": 37086300345,
+                "preferredName": "Thaleia Dimitra Doudali",
+                "firstName": "Thaleia Dimitra",
+                "lastName": "Doudali"
+            },
+            {
+                "id": 37088902317,
+                "preferredName": "Daniel Zahka",
+                "firstName": "Daniel",
+                "lastName": "Zahka"
+            },
+            {
+                "id": 37332023800,
+                "preferredName": "Ada Gavrilovska",
+                "firstName": "Ada",
+                "lastName": "Gavrilovska"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00034",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460486",
+        "articleTitle": "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "256",
+        "endPage": "266",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "FusedMM: A Unified SDDMM-SpMM Kernel for Graph Embedding and Graph Neural Networks",
+        "authors": [
+            {
+                "id": 37088396932,
+                "preferredName": "Md. Khaledur Rahman",
+                "firstName": "Md. Khaledur",
+                "lastName": "Rahman"
+            },
+            {
+                "id": 37075672900,
+                "preferredName": "Majedul Haque Sujon",
+                "firstName": "Majedul Haque",
+                "lastName": "Sujon"
+            },
+            {
+                "id": 38468726300,
+                "preferredName": "Ariful Azad",
+                "firstName": "Ariful",
+                "lastName": "Azad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00103",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460521",
+        "articleTitle": "Byzantine Dispersion on Graphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "942",
+        "endPage": "951",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Byzantine Dispersion on Graphs",
+        "authors": [
+            {
+                "id": 37086428838,
+                "preferredName": "Anisur Rahaman Molla",
+                "firstName": "Anisur Rahaman",
+                "lastName": "Molla"
+            },
+            {
+                "id": 37088900009,
+                "preferredName": "Kaushik Mondal",
+                "firstName": "Kaushik",
+                "lastName": "Mondal"
+            },
+            {
+                "id": 37088901253,
+                "preferredName": "William K. Moses",
+                "firstName": "William K.",
+                "lastName": "Moses"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00108",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460556",
+        "articleTitle": "An In-Depth Analysis of Distributed Training of Deep Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "994",
+        "endPage": "1003",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "An In-Depth Analysis of Distributed Training of Deep Neural Networks",
+        "authors": [
+            {
+                "id": 37088904020,
+                "preferredName": "Yunyong Ko",
+                "firstName": "Yunyong",
+                "lastName": "Ko"
+            },
+            {
+                "id": 37088901761,
+                "preferredName": "Kibong Choi",
+                "firstName": "Kibong",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37086495360,
+                "preferredName": "Jiwon Seo",
+                "firstName": "Jiwon",
+                "lastName": "Seo"
+            },
+            {
+                "id": 37598027100,
+                "preferredName": "Sang-Wook Kim",
+                "firstName": "Sang-Wook",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00048",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460489",
+        "articleTitle": "zMesh: Exploring Application Characteristics to Improve Lossy Compression Ratio for Adaptive Mesh Refinement",
+        "volume": null,
+        "issue": null,
+        "startPage": "402",
+        "endPage": "411",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "zMesh: Exploring Application Characteristics to Improve Lossy Compression Ratio for Adaptive Mesh Refinement",
+        "authors": [
+            {
+                "id": 37086435367,
+                "preferredName": "Huizhang Luo",
+                "firstName": "Huizhang",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37088904474,
+                "preferredName": "Junqi Wang",
+                "firstName": "Junqi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37403280600,
+                "preferredName": "Qing Liu",
+                "firstName": "Qing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085677362,
+                "preferredName": "Jieyang Chen",
+                "firstName": "Jieyang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37267815000,
+                "preferredName": "Scott Klasky",
+                "firstName": "Scott",
+                "lastName": "Klasky"
+            },
+            {
+                "id": 37282674800,
+                "preferredName": "Norbert Podhorszki",
+                "firstName": "Norbert",
+                "lastName": "Podhorszki"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00116",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460528",
+        "articleTitle": "High-Performance Spectral Element Methods on Field-Programmable Gate Arrays : Implementation, Evaluation, and Future Projection",
+        "volume": null,
+        "issue": null,
+        "startPage": "1077",
+        "endPage": "1086",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "High-Performance Spectral Element Methods on Field-Programmable Gate Arrays : Implementation, Evaluation, and Future Projection",
+        "authors": [
+            {
+                "id": 37088901130,
+                "preferredName": "Martin Karp",
+                "firstName": "Martin",
+                "lastName": "Karp"
+            },
+            {
+                "id": 37085472309,
+                "preferredName": "Artur Podobas",
+                "firstName": "Artur",
+                "lastName": "Podobas"
+            },
+            {
+                "id": 38233762000,
+                "preferredName": "Niclas Jansson",
+                "firstName": "Niclas",
+                "lastName": "Jansson"
+            },
+            {
+                "id": 38468580200,
+                "preferredName": "Tobias Kenter",
+                "firstName": "Tobias",
+                "lastName": "Kenter"
+            },
+            {
+                "id": 37542909400,
+                "preferredName": "Christian Plessl",
+                "firstName": "Christian",
+                "lastName": "Plessl"
+            },
+            {
+                "id": 38232248200,
+                "preferredName": "Philipp Schlatter",
+                "firstName": "Philipp",
+                "lastName": "Schlatter"
+            },
+            {
+                "id": 37085639175,
+                "preferredName": "Stefano Markidis",
+                "firstName": "Stefano",
+                "lastName": "Markidis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00087",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460513",
+        "articleTitle": "Decentralized Low-Latency Task Scheduling for Ad-Hoc Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "776",
+        "endPage": "785",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Decentralized Low-Latency Task Scheduling for Ad-Hoc Computing",
+        "authors": [
+            {
+                "id": 37085848362,
+                "preferredName": "Janick Edinger",
+                "firstName": "Janick",
+                "lastName": "Edinger"
+            },
+            {
+                "id": 37086043634,
+                "preferredName": "Martin Breitbach",
+                "firstName": "Martin",
+                "lastName": "Breitbach"
+            },
+            {
+                "id": 37088904470,
+                "preferredName": "Niklas Gabrisch",
+                "firstName": "Niklas",
+                "lastName": "Gabrisch"
+            },
+            {
+                "id": 37061343400,
+                "preferredName": "Dominik Sch\u00e4fer",
+                "firstName": "Dominik",
+                "lastName": "Sch\u00e4fer"
+            },
+            {
+                "id": 37270620000,
+                "preferredName": "Christian Becker",
+                "firstName": "Christian",
+                "lastName": "Becker"
+            },
+            {
+                "id": 38577595200,
+                "preferredName": "Amr Rizk",
+                "firstName": "Amr",
+                "lastName": "Rizk"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00085",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460548",
+        "articleTitle": "Astra: Autonomous Serverless Analytics with Cost-Efficiency and QoS-Awareness",
+        "volume": null,
+        "issue": null,
+        "startPage": "756",
+        "endPage": "765",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Astra: Autonomous Serverless Analytics with Cost-Efficiency and QoS-Awareness",
+        "authors": [
+            {
+                "id": 37088902730,
+                "preferredName": "Jananie Jarachanthan",
+                "firstName": "Jananie",
+                "lastName": "Jarachanthan"
+            },
+            {
+                "id": 37085818730,
+                "preferredName": "Li Chen",
+                "firstName": "Li",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085359563,
+                "preferredName": "Fei Xu",
+                "firstName": "Fei",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37280001600,
+                "preferredName": "Bo Li",
+                "firstName": "Bo",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00095",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460526",
+        "articleTitle": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "859",
+        "endPage": "868",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Accelerating Multigrid-based Hierarchical Scientific Data Refactoring on GPUs",
+        "authors": [
+            {
+                "id": 37085677362,
+                "preferredName": "Jieyang Chen",
+                "firstName": "Jieyang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085421701,
+                "preferredName": "Lipeng Wan",
+                "firstName": "Lipeng",
+                "lastName": "Wan"
+            },
+            {
+                "id": 37085659880,
+                "preferredName": "Xin Liang",
+                "firstName": "Xin",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37088722517,
+                "preferredName": "Ben Whitney",
+                "firstName": "Ben",
+                "lastName": "Whitney"
+            },
+            {
+                "id": 37403280600,
+                "preferredName": "Qing Liu",
+                "firstName": "Qing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37394779900,
+                "preferredName": "David Pugmire",
+                "firstName": "David",
+                "lastName": "Pugmire"
+            },
+            {
+                "id": 37088724577,
+                "preferredName": "Nicholas Thompson",
+                "firstName": "Nicholas",
+                "lastName": "Thompson"
+            },
+            {
+                "id": 37085861032,
+                "preferredName": "Jong Youl Choi",
+                "firstName": "Jong Youl",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37272868500,
+                "preferredName": "Matthew Wolf",
+                "firstName": "Matthew",
+                "lastName": "Wolf"
+            },
+            {
+                "id": 37564568900,
+                "preferredName": "Todd Munson",
+                "firstName": "Todd",
+                "lastName": "Munson"
+            },
+            {
+                "id": 37276599200,
+                "preferredName": "Ian Foster",
+                "firstName": "Ian",
+                "lastName": "Foster"
+            },
+            {
+                "id": 37267815000,
+                "preferredName": "Scott Klasky",
+                "firstName": "Scott",
+                "lastName": "Klasky"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00054",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460481",
+        "articleTitle": "xBGAS: A Global Address Space Extension on RISC-V for High Performance Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "454",
+        "endPage": "463",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "xBGAS: A Global Address Space Extension on RISC-V for High Performance Computing",
+        "authors": [
+            {
+                "id": 37086059349,
+                "preferredName": "Xi Wang",
+                "firstName": "Xi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 38581369400,
+                "preferredName": "John D. Leidel",
+                "firstName": "John D.",
+                "lastName": "Leidel"
+            },
+            {
+                "id": 37088526237,
+                "preferredName": "Brody Williams",
+                "firstName": "Brody",
+                "lastName": "Williams"
+            },
+            {
+                "id": 37086530569,
+                "preferredName": "Alan Ehret",
+                "firstName": "Alan",
+                "lastName": "Ehret"
+            },
+            {
+                "id": 37086436401,
+                "preferredName": "Miguel Mark",
+                "firstName": "Miguel",
+                "lastName": "Mark"
+            },
+            {
+                "id": 37318978700,
+                "preferredName": "Michel A. Kinsy",
+                "firstName": "Michel A.",
+                "lastName": "Kinsy"
+            },
+            {
+                "id": 37293324200,
+                "preferredName": "Yong Chen",
+                "firstName": "Yong",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00018",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460450",
+        "articleTitle": "Communication-Avoiding and Memory-Constrained Sparse Matrix-Matrix Multiplication at Extreme Scale",
+        "volume": null,
+        "issue": null,
+        "startPage": "90",
+        "endPage": "100",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Communication-Avoiding and Memory-Constrained Sparse Matrix-Matrix Multiplication at Extreme Scale",
+        "authors": [
+            {
+                "id": 37088442130,
+                "preferredName": "Md Taufique Hussain",
+                "firstName": "Md Taufique",
+                "lastName": "Hussain"
+            },
+            {
+                "id": 37086163150,
+                "preferredName": "Oguz Selvitopi",
+                "firstName": "Oguz",
+                "lastName": "Selvitopi"
+            },
+            {
+                "id": 37064569200,
+                "preferredName": "Aydin Bulu\u00e7",
+                "firstName": "Aydin",
+                "lastName": "Bulu\u00e7"
+            },
+            {
+                "id": 38468726300,
+                "preferredName": "Ariful Azad",
+                "firstName": "Ariful",
+                "lastName": "Azad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00113",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460541",
+        "articleTitle": "SRNoC: A Statically-Scheduled Circuit-Switched Superconducting Race Logic NoC",
+        "volume": null,
+        "issue": null,
+        "startPage": "1046",
+        "endPage": "1055",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "SRNoC: A Statically-Scheduled Circuit-Switched Superconducting Race Logic NoC",
+        "authors": [
+            {
+                "id": 37540629500,
+                "preferredName": "George Michelogiannakis",
+                "firstName": "George",
+                "lastName": "Michelogiannakis"
+            },
+            {
+                "id": 37088899689,
+                "preferredName": "Darren Lyles",
+                "firstName": "Darren",
+                "lastName": "Lyles"
+            },
+            {
+                "id": 37086348470,
+                "preferredName": "Patricia Gonzalez-Guerrero",
+                "firstName": "Patricia",
+                "lastName": "Gonzalez-Guerrero"
+            },
+            {
+                "id": 37088902581,
+                "preferredName": "Meriam Bautista",
+                "firstName": "Meriam",
+                "lastName": "Bautista"
+            },
+            {
+                "id": 37274089900,
+                "preferredName": "Dilip Vasudevan",
+                "firstName": "Dilip",
+                "lastName": "Vasudevan"
+            },
+            {
+                "id": 37089049338,
+                "preferredName": "Anastasiia Butko",
+                "firstName": "Anastasiia",
+                "lastName": "Butko"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00086",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460516",
+        "articleTitle": "Max-Stretch Minimization on an Edge-Cloud Platform",
+        "volume": null,
+        "issue": null,
+        "startPage": "766",
+        "endPage": "775",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Max-Stretch Minimization on an Edge-Cloud Platform",
+        "authors": [
+            {
+                "id": 37408200000,
+                "preferredName": "Anne Benoit",
+                "firstName": "Anne",
+                "lastName": "Benoit"
+            },
+            {
+                "id": 37086434358,
+                "preferredName": "Redouane Elghazi",
+                "firstName": "Redouane",
+                "lastName": "Elghazi"
+            },
+            {
+                "id": 37283850600,
+                "preferredName": "Yves Robert",
+                "firstName": "Yves",
+                "lastName": "Robert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00071",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460532",
+        "articleTitle": "SUPER: SUb-Graph Parallelism for TransformERs",
+        "volume": null,
+        "issue": null,
+        "startPage": "629",
+        "endPage": "638",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "SUPER: SUb-Graph Parallelism for TransformERs",
+        "authors": [
+            {
+                "id": 37087084894,
+                "preferredName": "Arpan Jain",
+                "firstName": "Arpan",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37086077258,
+                "preferredName": "Tim Moon",
+                "firstName": "Tim",
+                "lastName": "Moon"
+            },
+            {
+                "id": 37393209600,
+                "preferredName": "Tom Benson",
+                "firstName": "Tom",
+                "lastName": "Benson"
+            },
+            {
+                "id": 37393051700,
+                "preferredName": "Hari Subramoni",
+                "firstName": "Hari",
+                "lastName": "Subramoni"
+            },
+            {
+                "id": 37089655902,
+                "preferredName": "Sam Ad\u00e9 Jacobs",
+                "firstName": "Sam Ad\u00e9",
+                "lastName": "Jacobs"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K Panda",
+                "firstName": "Dhabaleswar K",
+                "lastName": "Panda"
+            },
+            {
+                "id": 37832313800,
+                "preferredName": "Brian Van Essen",
+                "firstName": "Brian Van",
+                "lastName": "Essen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00060",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460463",
+        "articleTitle": "Parallel String Graph Construction and Transitive Reduction for De Novo Genome Assembly",
+        "volume": null,
+        "issue": null,
+        "startPage": "517",
+        "endPage": "526",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Parallel String Graph Construction and Transitive Reduction for De Novo Genome Assembly",
+        "authors": [
+            {
+                "id": 37085845991,
+                "preferredName": "Giulia Guidi",
+                "firstName": "Giulia",
+                "lastName": "Guidi"
+            },
+            {
+                "id": 37086163150,
+                "preferredName": "Oguz Selvitopi",
+                "firstName": "Oguz",
+                "lastName": "Selvitopi"
+            },
+            {
+                "id": 37088441063,
+                "preferredName": "Marquita Ellis",
+                "firstName": "Marquita",
+                "lastName": "Ellis"
+            },
+            {
+                "id": 37281795400,
+                "preferredName": "Leonid Oliker",
+                "firstName": "Leonid",
+                "lastName": "Oliker"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "Katherine Yelick",
+                "firstName": "Katherine",
+                "lastName": "Yelick"
+            },
+            {
+                "id": 37064569200,
+                "preferredName": "Ayd\u0131n Bulu\u00e7",
+                "firstName": "Ayd\u0131n",
+                "lastName": "Bulu\u00e7"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00110",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460546",
+        "articleTitle": "Extending Sparse Tensor Accelerators to Support Multiple Compression Formats",
+        "volume": null,
+        "issue": null,
+        "startPage": "1014",
+        "endPage": "1024",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Extending Sparse Tensor Accelerators to Support Multiple Compression Formats",
+        "authors": [
+            {
+                "id": 37087205804,
+                "preferredName": "Eric Qin",
+                "firstName": "Eric",
+                "lastName": "Qin"
+            },
+            {
+                "id": 37088551128,
+                "preferredName": "Geonhwa Jeong",
+                "firstName": "Geonhwa",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 37088903425,
+                "preferredName": "William Won",
+                "firstName": "William",
+                "lastName": "Won"
+            },
+            {
+                "id": 37088550417,
+                "preferredName": "Sheng-Chun Kao",
+                "firstName": "Sheng-Chun",
+                "lastName": "Kao"
+            },
+            {
+                "id": 37086026009,
+                "preferredName": "Hyoukjun Kwon",
+                "firstName": "Hyoukjun",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 37289180600,
+                "preferredName": "Sudarshan Srinivasan",
+                "firstName": "Sudarshan",
+                "lastName": "Srinivasan"
+            },
+            {
+                "id": 37086095078,
+                "preferredName": "Dipankar Das",
+                "firstName": "Dipankar",
+                "lastName": "Das"
+            },
+            {
+                "id": 37086286250,
+                "preferredName": "Gordon E. Moon",
+                "firstName": "Gordon E.",
+                "lastName": "Moon"
+            },
+            {
+                "id": 38468736700,
+                "preferredName": "Sivasankaran Rajamanickam",
+                "firstName": "Sivasankaran",
+                "lastName": "Rajamanickam"
+            },
+            {
+                "id": 37540652000,
+                "preferredName": "Tushar Krishna",
+                "firstName": "Tushar",
+                "lastName": "Krishna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00020",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460491",
+        "articleTitle": "DAG-based Scheduling with Resource Sharing for Multi-task Applications in a Polyglot GPU Runtime",
+        "volume": null,
+        "issue": null,
+        "startPage": "111",
+        "endPage": "120",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "DAG-based Scheduling with Resource Sharing for Multi-task Applications in a Polyglot GPU Runtime",
+        "authors": [
+            {
+                "id": 37086111170,
+                "preferredName": "Alberto Parravicini",
+                "firstName": "Alberto",
+                "lastName": "Parravicini"
+            },
+            {
+                "id": 37088901509,
+                "preferredName": "Arnaud Delamare",
+                "firstName": "Arnaud",
+                "lastName": "Delamare"
+            },
+            {
+                "id": 37086505973,
+                "preferredName": "Marco Arnaboldi",
+                "firstName": "Marco",
+                "lastName": "Arnaboldi"
+            },
+            {
+                "id": 37300243700,
+                "preferredName": "Marco D. Santambrogio",
+                "firstName": "Marco D.",
+                "lastName": "Santambrogio"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00017",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460493",
+        "articleTitle": "Leveraging PaRSEC Runtime Support to Tackle Challenging 3D Data-Sparse Matrix Problems",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "89",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Leveraging PaRSEC Runtime Support to Tackle Challenging 3D Data-Sparse Matrix Problems",
+        "authors": [
+            {
+                "id": 37087414283,
+                "preferredName": "Qinglei Cao",
+                "firstName": "Qinglei",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37086183013,
+                "preferredName": "Yu Pei",
+                "firstName": "Yu",
+                "lastName": "Pei"
+            },
+            {
+                "id": 37085766773,
+                "preferredName": "Kadir Akbudak",
+                "firstName": "Kadir",
+                "lastName": "Akbudak"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            },
+            {
+                "id": 37392859400,
+                "preferredName": "Hatem Ltaief",
+                "firstName": "Hatem",
+                "lastName": "Ltaief"
+            },
+            {
+                "id": 37085353204,
+                "preferredName": "David Keyes",
+                "firstName": "David",
+                "lastName": "Keyes"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00028",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460500",
+        "articleTitle": "High-Level Synthesis of Parallel Specifications Coupling Static and Dynamic Controllers",
+        "volume": null,
+        "issue": null,
+        "startPage": "192",
+        "endPage": "202",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "High-Level Synthesis of Parallel Specifications Coupling Static and Dynamic Controllers",
+        "authors": [
+            {
+                "id": 37706000100,
+                "preferredName": "Vito Giovanni Castellana",
+                "firstName": "Vito Giovanni",
+                "lastName": "Castellana"
+            },
+            {
+                "id": 37391915300,
+                "preferredName": "Antonino Tumeo",
+                "firstName": "Antonino",
+                "lastName": "Tumeo"
+            },
+            {
+                "id": 37298982800,
+                "preferredName": "Fabrizio Ferrandi",
+                "firstName": "Fabrizio",
+                "lastName": "Ferrandi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00064",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460466",
+        "articleTitle": "Interpreting Write Performance of Supercomputer I/O Systems with Regression Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "557",
+        "endPage": "566",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Interpreting Write Performance of Supercomputer I/O Systems with Regression Models",
+        "authors": [
+            {
+                "id": 37086956648,
+                "preferredName": "Bing Xie",
+                "firstName": "Bing",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37087235920,
+                "preferredName": "Zilong Tan",
+                "firstName": "Zilong",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37422604200,
+                "preferredName": "Philip Carns",
+                "firstName": "Philip",
+                "lastName": "Carns"
+            },
+            {
+                "id": 37276553300,
+                "preferredName": "Jeff Chase",
+                "firstName": "Jeff",
+                "lastName": "Chase"
+            },
+            {
+                "id": 37720198900,
+                "preferredName": "Kevin Harms",
+                "firstName": "Kevin",
+                "lastName": "Harms"
+            },
+            {
+                "id": 37393849700,
+                "preferredName": "Jay Lofstead",
+                "firstName": "Jay",
+                "lastName": "Lofstead"
+            },
+            {
+                "id": 37279798800,
+                "preferredName": "Sarp Oral",
+                "firstName": "Sarp",
+                "lastName": "Oral"
+            },
+            {
+                "id": 37299720900,
+                "preferredName": "Sudharshan S. Vazhkudai",
+                "firstName": "Sudharshan S.",
+                "lastName": "Vazhkudai"
+            },
+            {
+                "id": 37713911900,
+                "preferredName": "Feiyi Wang",
+                "firstName": "Feiyi",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00024",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460468",
+        "articleTitle": "DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "151",
+        "endPage": "161",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "DUET: A Compiler-Runtime Subgraph Scheduling Approach for Tensor Programs on a Coupled CPU-GPU Architecture",
+        "authors": [
+            {
+                "id": 37088846752,
+                "preferredName": "Minjia Zhang",
+                "firstName": "Minjia",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088901861,
+                "preferredName": "Zehua Hu",
+                "firstName": "Zehua",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37086598148,
+                "preferredName": "Mingqin Li",
+                "firstName": "Mingqin",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00035",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460484",
+        "articleTitle": "Systemic Assessment of Node Failures in HPC Production Platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "267",
+        "endPage": "276",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Systemic Assessment of Node Failures in HPC Production Platforms",
+        "authors": [
+            {
+                "id": 37086148331,
+                "preferredName": "Anwesha Das",
+                "firstName": "Anwesha",
+                "lastName": "Das"
+            },
+            {
+                "id": 37268072900,
+                "preferredName": "Frank Mueller",
+                "firstName": "Frank",
+                "lastName": "Mueller"
+            },
+            {
+                "id": 37294809800,
+                "preferredName": "Barry Rountree",
+                "firstName": "Barry",
+                "lastName": "Rountree"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00062",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460455",
+        "articleTitle": "Distributed-memory multi-GPU block-sparse tensor contraction for electronic structure",
+        "volume": null,
+        "issue": null,
+        "startPage": "537",
+        "endPage": "546",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Distributed-memory multi-GPU block-sparse tensor contraction for electronic structure",
+        "authors": [
+            {
+                "id": 37296692100,
+                "preferredName": "Thomas Herault",
+                "firstName": "Thomas",
+                "lastName": "Herault"
+            },
+            {
+                "id": 37283850600,
+                "preferredName": "Yves Robert",
+                "firstName": "Yves",
+                "lastName": "Robert"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            },
+            {
+                "id": 38182214300,
+                "preferredName": "Robert J. Harrison",
+                "firstName": "Robert J.",
+                "lastName": "Harrison"
+            },
+            {
+                "id": 37088901870,
+                "preferredName": "Cannada A. Lewis",
+                "firstName": "Cannada A.",
+                "lastName": "Lewis"
+            },
+            {
+                "id": 37086798854,
+                "preferredName": "Edward F. Valeev",
+                "firstName": "Edward F.",
+                "lastName": "Valeev"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack J. Dongarra",
+                "firstName": "Jack J.",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00088",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460530",
+        "articleTitle": "Lightweight Function Monitors for Fine-Grained Management in Large Scale Python Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "786",
+        "endPage": "796",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Lightweight Function Monitors for Fine-Grained Management in Large Scale Python Applications",
+        "authors": [
+            {
+                "id": 37085776358,
+                "preferredName": "Tim Shaffer",
+                "firstName": "Tim",
+                "lastName": "Shaffer"
+            },
+            {
+                "id": 37085726988,
+                "preferredName": "Zhuozhao Li",
+                "firstName": "Zhuozhao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37323952500,
+                "preferredName": "Ben Tovar",
+                "firstName": "Ben",
+                "lastName": "Tovar"
+            },
+            {
+                "id": 37086033592,
+                "preferredName": "Yadu Babuji",
+                "firstName": "Yadu",
+                "lastName": "Babuji"
+            },
+            {
+                "id": 37088899412,
+                "preferredName": "TJ Dasso",
+                "firstName": "TJ",
+                "lastName": "Dasso"
+            },
+            {
+                "id": 37088902733,
+                "preferredName": "Zoe Surma",
+                "firstName": "Zoe",
+                "lastName": "Surma"
+            },
+            {
+                "id": 38341857300,
+                "preferredName": "Kyle Chard",
+                "firstName": "Kyle",
+                "lastName": "Chard"
+            },
+            {
+                "id": 37276599200,
+                "preferredName": "Ian Foster",
+                "firstName": "Ian",
+                "lastName": "Foster"
+            },
+            {
+                "id": 37299761800,
+                "preferredName": "Douglas Thain",
+                "firstName": "Douglas",
+                "lastName": "Thain"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00065",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460503",
+        "articleTitle": "Finer-LRU: A Scalable Page Management Scheme for HPC Manycore Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "567",
+        "endPage": "576",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Finer-LRU: A Scalable Page Management Scheme for HPC Manycore Architectures",
+        "authors": [
+            {
+                "id": 37088442599,
+                "preferredName": "Jiwoo Bang",
+                "firstName": "Jiwoo",
+                "lastName": "Bang"
+            },
+            {
+                "id": 37088441517,
+                "preferredName": "Chungyong Kim",
+                "firstName": "Chungyong",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086189942,
+                "preferredName": "Sunggon Kim",
+                "firstName": "Sunggon",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38493350300,
+                "preferredName": "Qichen Chen",
+                "firstName": "Qichen",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088505891,
+                "preferredName": "Cheongjun Lee",
+                "firstName": "Cheongjun",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088504590,
+                "preferredName": "Eun-Kyu Byun",
+                "firstName": "Eun-Kyu",
+                "lastName": "Byun"
+            },
+            {
+                "id": 37086066394,
+                "preferredName": "Jaehwan Lee",
+                "firstName": "Jaehwan",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37592385300,
+                "preferredName": "Hyeonsang Eom",
+                "firstName": "Hyeonsang",
+                "lastName": "Eom"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00100",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460552",
+        "articleTitle": "AuTraScale: An Automated and Transfer Learning Solution for Streaming System Auto-Scaling",
+        "volume": null,
+        "issue": null,
+        "startPage": "912",
+        "endPage": "921",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "AuTraScale: An Automated and Transfer Learning Solution for Streaming System Auto-Scaling",
+        "authors": [
+            {
+                "id": 37088901072,
+                "preferredName": "Liang Zhang",
+                "firstName": "Liang",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085366110,
+                "preferredName": "Wenli Zheng",
+                "firstName": "Wenli",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 38065111100,
+                "preferredName": "Chao Li",
+                "firstName": "Chao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37307267200,
+                "preferredName": "Yao Shen",
+                "firstName": "Yao",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37274181400,
+                "preferredName": "Minyi Guo",
+                "firstName": "Minyi",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00111",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460527",
+        "articleTitle": "Pase: Parallelization Strategies for Efficient DNN Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "1025",
+        "endPage": "1034",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Pase: Parallelization Strategies for Efficient DNN Training",
+        "authors": [
+            {
+                "id": 37086646678,
+                "preferredName": "Venmugil Elango",
+                "firstName": "Venmugil",
+                "lastName": "Elango"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00019",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460472",
+        "articleTitle": "Characterizing Small-Scale Matrix Multiplications on ARMv8-based Many-Core Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "101",
+        "endPage": "110",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Characterizing Small-Scale Matrix Multiplications on ARMv8-based Many-Core Architectures",
+        "authors": [
+            {
+                "id": 37088904145,
+                "preferredName": "Weiling Yang",
+                "firstName": "Weiling",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37085712185,
+                "preferredName": "Jianbin Fang",
+                "firstName": "Jianbin",
+                "lastName": "Fang"
+            },
+            {
+                "id": 37394156400,
+                "preferredName": "Dezun Dong",
+                "firstName": "Dezun",
+                "lastName": "Dong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00059",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460474",
+        "articleTitle": "Accelerating non-power-of-2 size Fourier transforms with GPU Tensor Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "507",
+        "endPage": "516",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Accelerating non-power-of-2 size Fourier transforms with GPU Tensor Cores",
+        "authors": [
+            {
+                "id": 37086690910,
+                "preferredName": "Louis Pisha",
+                "firstName": "Louis",
+                "lastName": "Pisha"
+            },
+            {
+                "id": 38228336900,
+                "preferredName": "\u0141ukasz Ligowski",
+                "firstName": "\u0141ukasz",
+                "lastName": "Ligowski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00098",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460514",
+        "articleTitle": "Rack-Scaling: An efficient rack-based redistribution method to accelerate the scaling of cloud disk arrays",
+        "volume": null,
+        "issue": null,
+        "startPage": "892",
+        "endPage": "901",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Rack-Scaling: An efficient rack-based redistribution method to accelerate the scaling of cloud disk arrays",
+        "authors": [
+            {
+                "id": 37088900065,
+                "preferredName": "Zhehan Lin",
+                "firstName": "Zhehan",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37088902716,
+                "preferredName": "Hanchen Guo",
+                "firstName": "Hanchen",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37085559050,
+                "preferredName": "Chentao Wu",
+                "firstName": "Chentao",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37279846500,
+                "preferredName": "Jie Li",
+                "firstName": "Jie",
+                "lastName": "Li"
+            },
+            {
+                "id": 37269674900,
+                "preferredName": "Guangtao Xue",
+                "firstName": "Guangtao",
+                "lastName": "Xue"
+            },
+            {
+                "id": 37274181400,
+                "preferredName": "Minyi Guo",
+                "firstName": "Minyi",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00051",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460457",
+        "articleTitle": "Consistent Lock-free Parallel Stochastic Gradient Descent for Fast and Stable Convergence",
+        "volume": null,
+        "issue": null,
+        "startPage": "423",
+        "endPage": "432",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Consistent Lock-free Parallel Stochastic Gradient Descent for Fast and Stable Convergence",
+        "authors": [
+            {
+                "id": 37087108386,
+                "preferredName": "Karl B\u00e4ckstr\u00f6m",
+                "firstName": "Karl",
+                "lastName": "B\u00e4ckstr\u00f6m"
+            },
+            {
+                "id": 37085515916,
+                "preferredName": "Ivan Walulya",
+                "firstName": "Ivan",
+                "lastName": "Walulya"
+            },
+            {
+                "id": 37349749900,
+                "preferredName": "Marina Papatriantafilou",
+                "firstName": "Marina",
+                "lastName": "Papatriantafilou"
+            },
+            {
+                "id": 37295439000,
+                "preferredName": "Philippas Tsigas",
+                "firstName": "Philippas",
+                "lastName": "Tsigas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00046",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460465",
+        "articleTitle": "CBNet: Minimizing Adjustments in Concurrent Demand-Aware Tree Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "382",
+        "endPage": "391",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "CBNet: Minimizing Adjustments in Concurrent Demand-Aware Tree Networks",
+        "authors": [
+            {
+                "id": 37086858199,
+                "preferredName": "Otavio Augusto de Oliveira Souza",
+                "firstName": "Otavio Augusto de Oliveira",
+                "lastName": "Souza"
+            },
+            {
+                "id": 37318388500,
+                "preferredName": "Olga Goussevskaia",
+                "firstName": "Olga",
+                "lastName": "Goussevskaia"
+            },
+            {
+                "id": 37291038900,
+                "preferredName": "Stefan Schmid",
+                "firstName": "Stefan",
+                "lastName": "Schmid"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00042",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460477",
+        "articleTitle": "Performance Evaluation of Adaptive Routing on Dragonfly-based Production Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "340",
+        "endPage": "349",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Performance Evaluation of Adaptive Routing on Dragonfly-based Production Systems",
+        "authors": [
+            {
+                "id": 37086419252,
+                "preferredName": "Sudheer Chunduri",
+                "firstName": "Sudheer",
+                "lastName": "Chunduri"
+            },
+            {
+                "id": 37720198900,
+                "preferredName": "Kevin Harms",
+                "firstName": "Kevin",
+                "lastName": "Harms"
+            },
+            {
+                "id": 37887313600,
+                "preferredName": "Taylor Groves",
+                "firstName": "Taylor",
+                "lastName": "Groves"
+            },
+            {
+                "id": 37088727011,
+                "preferredName": "Peter Mendygral",
+                "firstName": "Peter",
+                "lastName": "Mendygral"
+            },
+            {
+                "id": 37088902289,
+                "preferredName": "Justs Zarins",
+                "firstName": "Justs",
+                "lastName": "Zarins"
+            },
+            {
+                "id": 37088545133,
+                "preferredName": "Mich\u00e8le Weiland",
+                "firstName": "Mich\u00e8le",
+                "lastName": "Weiland"
+            },
+            {
+                "id": 37088450574,
+                "preferredName": "Yasaman Ghadar",
+                "firstName": "Yasaman",
+                "lastName": "Ghadar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00010",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460454",
+        "articleTitle": "Correlation-wise Smoothing: Lightweight Knowledge Extraction for HPC Monitoring Data",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Correlation-wise Smoothing: Lightweight Knowledge Extraction for HPC Monitoring Data",
+        "authors": [
+            {
+                "id": 37088899457,
+                "preferredName": "Alessio Netti",
+                "firstName": "Alessio",
+                "lastName": "Netti"
+            },
+            {
+                "id": 37591064700,
+                "preferredName": "Daniele Tafani",
+                "firstName": "Daniele",
+                "lastName": "Tafani"
+            },
+            {
+                "id": 37086031643,
+                "preferredName": "Michael Ott",
+                "firstName": "Michael",
+                "lastName": "Ott"
+            },
+            {
+                "id": 37290317700,
+                "preferredName": "Martin Schulz",
+                "firstName": "Martin",
+                "lastName": "Schulz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00052",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460502",
+        "articleTitle": "Redesigning Peridigm on SIMT Accelerators for High-performance Peridynamics Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "433",
+        "endPage": "443",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Redesigning Peridigm on SIMT Accelerators for High-performance Peridynamics Simulations",
+        "authors": [
+            {
+                "id": 37087031252,
+                "preferredName": "Xinyuan Li",
+                "firstName": "Xinyuan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088899942,
+                "preferredName": "Huang Ye",
+                "firstName": "Huang",
+                "lastName": "Ye"
+            },
+            {
+                "id": 38026660700,
+                "preferredName": "Jian Zhang",
+                "firstName": "Jian",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00049",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460504",
+        "articleTitle": "Efficient parallel CP decomposition with pairwise perturbation and multi-sweep dimension tree",
+        "volume": null,
+        "issue": null,
+        "startPage": "412",
+        "endPage": "421",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Efficient parallel CP decomposition with pairwise perturbation and multi-sweep dimension tree",
+        "authors": [
+            {
+                "id": 37088900028,
+                "preferredName": "Linjian Ma",
+                "firstName": "Linjian",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37392745800,
+                "preferredName": "Edgar Solomonik",
+                "firstName": "Edgar",
+                "lastName": "Solomonik"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00104",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460539",
+        "articleTitle": "Byzantine Agreement with Unknown Participants and Failures",
+        "volume": null,
+        "issue": null,
+        "startPage": "952",
+        "endPage": "961",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Byzantine Agreement with Unknown Participants and Failures",
+        "authors": [
+            {
+                "id": 37086961254,
+                "preferredName": "Pankaj Khanchandani",
+                "firstName": "Pankaj",
+                "lastName": "Khanchandani"
+            },
+            {
+                "id": 37271677900,
+                "preferredName": "Roger Wattenhofer",
+                "firstName": "Roger",
+                "lastName": "Wattenhofer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00073",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460512",
+        "articleTitle": "Facilitating Data Discovery for Large-scale Science Facilities using Knowledge Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "651",
+        "endPage": "660",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Facilitating Data Discovery for Large-scale Science Facilities using Knowledge Networks",
+        "authors": [
+            {
+                "id": 37085513515,
+                "preferredName": "Yubo Qin",
+                "firstName": "Yubo",
+                "lastName": "Qin"
+            },
+            {
+                "id": 37299801100,
+                "preferredName": "Ivan Rodero",
+                "firstName": "Ivan",
+                "lastName": "Rodero"
+            },
+            {
+                "id": 37269279100,
+                "preferredName": "Manish Parashar",
+                "firstName": "Manish",
+                "lastName": "Parashar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00068",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460520",
+        "articleTitle": "EAGLE: Expedited Device Placement with Automatic Grouping for Large Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "599",
+        "endPage": "608",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "EAGLE: Expedited Device Placement with Automatic Grouping for Large Models",
+        "authors": [
+            {
+                "id": 37088903987,
+                "preferredName": "Hao Lan",
+                "firstName": "Hao",
+                "lastName": "Lan"
+            },
+            {
+                "id": 37085818730,
+                "preferredName": "Li Chen",
+                "firstName": "Li",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37280003300,
+                "preferredName": "Baochun Li",
+                "firstName": "Baochun",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00070",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460557",
+        "articleTitle": "DSXplore: Optimizing Convolutional Neural Networks via Sliding-Channel Convolutions",
+        "volume": null,
+        "issue": null,
+        "startPage": "619",
+        "endPage": "628",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "DSXplore: Optimizing Convolutional Neural Networks via Sliding-Channel Convolutions",
+        "authors": [
+            {
+                "id": 37088904516,
+                "preferredName": "Yuke Wang",
+                "firstName": "Yuke",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086859715,
+                "preferredName": "Boyuan Feng",
+                "firstName": "Boyuan",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37086859727,
+                "preferredName": "Yufei Ding",
+                "firstName": "Yufei",
+                "lastName": "Ding"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00056",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460492",
+        "articleTitle": "Spray: Sparse Reductions of Arrays in OPENMP",
+        "volume": null,
+        "issue": null,
+        "startPage": "475",
+        "endPage": "484",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Spray: Sparse Reductions of Arrays in OPENMP",
+        "authors": [
+            {
+                "id": 37086922146,
+                "preferredName": "Jan H\u00fcckelheim",
+                "firstName": "Jan",
+                "lastName": "H\u00fcckelheim"
+            },
+            {
+                "id": 37085525769,
+                "preferredName": "Johannes Doerfert",
+                "firstName": "Johannes",
+                "lastName": "Doerfert"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00063",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460496",
+        "articleTitle": "Adaptive Spatially Aware I/O for Multiresolution Particle Data Layouts",
+        "volume": null,
+        "issue": null,
+        "startPage": "547",
+        "endPage": "556",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Adaptive Spatially Aware I/O for Multiresolution Particle Data Layouts",
+        "authors": [
+            {
+                "id": 37085735276,
+                "preferredName": "Will Usher",
+                "firstName": "Will",
+                "lastName": "Usher"
+            },
+            {
+                "id": 37088901240,
+                "preferredName": "Xuan Huang",
+                "firstName": "Xuan",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37086120775,
+                "preferredName": "Steve Petruzza",
+                "firstName": "Steve",
+                "lastName": "Petruzza"
+            },
+            {
+                "id": 37595710100,
+                "preferredName": "Sidharth Kumar",
+                "firstName": "Sidharth",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37088900593,
+                "preferredName": "Stuart R. Slattery",
+                "firstName": "Stuart R.",
+                "lastName": "Slattery"
+            },
+            {
+                "id": 37088903778,
+                "preferredName": "Sam T. Reeve",
+                "firstName": "Sam T.",
+                "lastName": "Reeve"
+            },
+            {
+                "id": 37086546801,
+                "preferredName": "Feng Wang",
+                "firstName": "Feng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37276931400,
+                "preferredName": "Chris R. Johnson",
+                "firstName": "Chris R.",
+                "lastName": "Johnson"
+            },
+            {
+                "id": 37284312600,
+                "preferredName": "Valerio Pascucci",
+                "firstName": "Valerio",
+                "lastName": "Pascucci"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00038",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460459",
+        "articleTitle": "Improving checkpointing intervals by considering individual job failure probabilities",
+        "volume": null,
+        "issue": null,
+        "startPage": "299",
+        "endPage": "309",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Improving checkpointing intervals by considering individual job failure probabilities",
+        "authors": [
+            {
+                "id": 37086957440,
+                "preferredName": "Alvaro Frank",
+                "firstName": "Alvaro",
+                "lastName": "Frank"
+            },
+            {
+                "id": 37088899554,
+                "preferredName": "Manuel Baumgartner",
+                "firstName": "Manuel",
+                "lastName": "Baumgartner"
+            },
+            {
+                "id": 37085810435,
+                "preferredName": "Reza Salkhordeh",
+                "firstName": "Reza",
+                "lastName": "Salkhordeh"
+            },
+            {
+                "id": 37299903000,
+                "preferredName": "Andr\u00e9 Brinkmann",
+                "firstName": "Andr\u00e9",
+                "lastName": "Brinkmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00040",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460501",
+        "articleTitle": "Introducing Application Awareness Into a Unified Power Management Stack",
+        "volume": null,
+        "issue": null,
+        "startPage": "320",
+        "endPage": "329",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Introducing Application Awareness Into a Unified Power Management Stack",
+        "authors": [
+            {
+                "id": 37088904360,
+                "preferredName": "Daniel C. Wilson",
+                "firstName": "Daniel C.",
+                "lastName": "Wilson"
+            },
+            {
+                "id": 37086428160,
+                "preferredName": "Siddhartha Jana",
+                "firstName": "Siddhartha",
+                "lastName": "Jana"
+            },
+            {
+                "id": 37903895700,
+                "preferredName": "Aniruddha Marathe",
+                "firstName": "Aniruddha",
+                "lastName": "Marathe"
+            },
+            {
+                "id": 37088753384,
+                "preferredName": "Stephanie Brink",
+                "firstName": "Stephanie",
+                "lastName": "Brink"
+            },
+            {
+                "id": 37088904537,
+                "preferredName": "Christopher M. Cantalupo",
+                "firstName": "Christopher M.",
+                "lastName": "Cantalupo"
+            },
+            {
+                "id": 37085519700,
+                "preferredName": "Diana R. Guttman",
+                "firstName": "Diana R.",
+                "lastName": "Guttman"
+            },
+            {
+                "id": 37088902532,
+                "preferredName": "Brad Geltz",
+                "firstName": "Brad",
+                "lastName": "Geltz"
+            },
+            {
+                "id": 37088899490,
+                "preferredName": "Lowren H. Lawson",
+                "firstName": "Lowren H.",
+                "lastName": "Lawson"
+            },
+            {
+                "id": 37088899548,
+                "preferredName": "Asma H. Al-rawi",
+                "firstName": "Asma H.",
+                "lastName": "Al-rawi"
+            },
+            {
+                "id": 37088899556,
+                "preferredName": "Ali Mohammad",
+                "firstName": "Ali",
+                "lastName": "Mohammad"
+            },
+            {
+                "id": 37540803100,
+                "preferredName": "Fuat Keceli",
+                "firstName": "Fuat",
+                "lastName": "Keceli"
+            },
+            {
+                "id": 37088900943,
+                "preferredName": "Federico Ardanaz",
+                "firstName": "Federico",
+                "lastName": "Ardanaz"
+            },
+            {
+                "id": 37402350800,
+                "preferredName": "Jonathan M. Eastep",
+                "firstName": "Jonathan M.",
+                "lastName": "Eastep"
+            },
+            {
+                "id": 37392540500,
+                "preferredName": "Ayse K. Coskun",
+                "firstName": "Ayse K.",
+                "lastName": "Coskun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00013",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460467",
+        "articleTitle": "SYMBIOSYS: A Methodology for Performance Analysis of Composable HPC Data Services",
+        "volume": null,
+        "issue": null,
+        "startPage": "35",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "SYMBIOSYS: A Methodology for Performance Analysis of Composable HPC Data Services",
+        "authors": [
+            {
+                "id": 37086336151,
+                "preferredName": "Srinivasan Ramesh",
+                "firstName": "Srinivasan",
+                "lastName": "Ramesh"
+            },
+            {
+                "id": 37281865600,
+                "preferredName": "Allen D. Malony",
+                "firstName": "Allen D.",
+                "lastName": "Malony"
+            },
+            {
+                "id": 37422604200,
+                "preferredName": "Philip Carns",
+                "firstName": "Philip",
+                "lastName": "Carns"
+            },
+            {
+                "id": 37284984100,
+                "preferredName": "Robert B. Ross",
+                "firstName": "Robert B.",
+                "lastName": "Ross"
+            },
+            {
+                "id": 37392722500,
+                "preferredName": "Matthieu Dorier",
+                "firstName": "Matthieu",
+                "lastName": "Dorier"
+            },
+            {
+                "id": 37699655300,
+                "preferredName": "Jerome Soumagne",
+                "firstName": "Jerome",
+                "lastName": "Soumagne"
+            },
+            {
+                "id": 37669591300,
+                "preferredName": "Shane Snyder",
+                "firstName": "Shane",
+                "lastName": "Snyder"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00047",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460469",
+        "articleTitle": "Scaling Sparse Matrix Multiplication on CPU-GPU Nodes",
+        "volume": null,
+        "issue": null,
+        "startPage": "392",
+        "endPage": "401",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Scaling Sparse Matrix Multiplication on CPU-GPU Nodes",
+        "authors": [
+            {
+                "id": 37086452050,
+                "preferredName": "Yang Xia",
+                "firstName": "Yang",
+                "lastName": "Xia"
+            },
+            {
+                "id": 37085854368,
+                "preferredName": "Peng Jiang",
+                "firstName": "Peng",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37276602400,
+                "preferredName": "Gagan Agrawal",
+                "firstName": "Gagan",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37320073300,
+                "preferredName": "Rajiv Ramnath",
+                "firstName": "Rajiv",
+                "lastName": "Ramnath"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00030",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460473",
+        "articleTitle": "Performance-Portable Graph Coarsening for Efficient Multilevel Graph Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "213",
+        "endPage": "222",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Performance-Portable Graph Coarsening for Efficient Multilevel Graph Analysis",
+        "authors": [
+            {
+                "id": 37088899595,
+                "preferredName": "Michael S. Gilbert",
+                "firstName": "Michael S.",
+                "lastName": "Gilbert"
+            },
+            {
+                "id": 37086165360,
+                "preferredName": "Seher Acer",
+                "firstName": "Seher",
+                "lastName": "Acer"
+            },
+            {
+                "id": 37666935100,
+                "preferredName": "Erik G. Boman",
+                "firstName": "Erik G.",
+                "lastName": "Boman"
+            },
+            {
+                "id": 37268662700,
+                "preferredName": "Kamesh Madduri",
+                "firstName": "Kamesh",
+                "lastName": "Madduri"
+            },
+            {
+                "id": 38468736700,
+                "preferredName": "Sivasankaran Rajamanickam",
+                "firstName": "Sivasankaran",
+                "lastName": "Rajamanickam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00105",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460509",
+        "articleTitle": "QPR: Quantizing PageRank with Coherent Shared Memory Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "962",
+        "endPage": "972",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "QPR: Quantizing PageRank with Coherent Shared Memory Accelerators",
+        "authors": [
+            {
+                "id": 37087274527,
+                "preferredName": "Abdullah T. Mughrabi",
+                "firstName": "Abdullah T.",
+                "lastName": "Mughrabi"
+            },
+            {
+                "id": 37088836525,
+                "preferredName": "Mohannad Ibrahim",
+                "firstName": "Mohannad",
+                "lastName": "Ibrahim"
+            },
+            {
+                "id": 37375076600,
+                "preferredName": "Gregory T. Byrd",
+                "firstName": "Gregory T.",
+                "lastName": "Byrd"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00025",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460458",
+        "articleTitle": "CAGC: A Content-aware Garbage Collection Scheme for Ultra-Low Latency Flash-based SSDs",
+        "volume": null,
+        "issue": null,
+        "startPage": "162",
+        "endPage": "171",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "CAGC: A Content-aware Garbage Collection Scheme for Ultra-Low Latency Flash-based SSDs",
+        "authors": [
+            {
+                "id": 37407116200,
+                "preferredName": "Suzhen Wu",
+                "firstName": "Suzhen",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37086853155,
+                "preferredName": "Chunfeng Du",
+                "firstName": "Chunfeng",
+                "lastName": "Du"
+            },
+            {
+                "id": 37086816353,
+                "preferredName": "Haijun Li",
+                "firstName": "Haijun",
+                "lastName": "Li"
+            },
+            {
+                "id": 37272625400,
+                "preferredName": "Hong Jiang",
+                "firstName": "Hong",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 38666647500,
+                "preferredName": "Zhirong Shen",
+                "firstName": "Zhirong",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37408712700,
+                "preferredName": "Bo Mao",
+                "firstName": "Bo",
+                "lastName": "Mao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00015",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460497",
+        "articleTitle": "Optimizing Memory-Compute Colocation for Irregular Applications on a Migratory Thread Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "58",
+        "endPage": "67",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Optimizing Memory-Compute Colocation for Irregular Applications on a Migratory Thread Architecture",
+        "authors": [
+            {
+                "id": 37086087342,
+                "preferredName": "Thomas B. Rolinger",
+                "firstName": "Thomas B.",
+                "lastName": "Rolinger"
+            },
+            {
+                "id": 38227744000,
+                "preferredName": "Christopher D. Krieger",
+                "firstName": "Christopher D.",
+                "lastName": "Krieger"
+            },
+            {
+                "id": 37276990000,
+                "preferredName": "Alan Sussman",
+                "firstName": "Alan",
+                "lastName": "Sussman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00045",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460464",
+        "articleTitle": "Efficient Algorithms for Encrypted All-gather Operation",
+        "volume": null,
+        "issue": null,
+        "startPage": "372",
+        "endPage": "381",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Efficient Algorithms for Encrypted All-gather Operation",
+        "authors": [
+            {
+                "id": 37086082920,
+                "preferredName": "Mehran Sadeghi Lahijani",
+                "firstName": "Mehran Sadeghi",
+                "lastName": "Lahijani"
+            },
+            {
+                "id": 37863713600,
+                "preferredName": "Abu Naser",
+                "firstName": "Abu",
+                "lastName": "Naser"
+            },
+            {
+                "id": 37087085603,
+                "preferredName": "Cong Wu",
+                "firstName": "Cong",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37085371845,
+                "preferredName": "Mohsen Gavahi",
+                "firstName": "Mohsen",
+                "lastName": "Gavahi"
+            },
+            {
+                "id": 37087082829,
+                "preferredName": "Viet Tung Hoang",
+                "firstName": "Viet Tung",
+                "lastName": "Hoang"
+            },
+            {
+                "id": 37086595746,
+                "preferredName": "Zhi Wang",
+                "firstName": "Zhi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37291220700,
+                "preferredName": "Xin Yuan",
+                "firstName": "Xin",
+                "lastName": "Yuan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00093",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460537",
+        "articleTitle": "Scaling Out a Combinatorial Algorithm for Discovering Carcinogenic Gene Combinations to Thousands of GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "837",
+        "endPage": "846",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Scaling Out a Combinatorial Algorithm for Discovering Carcinogenic Gene Combinations to Thousands of GPUs",
+        "authors": [
+            {
+                "id": 37086277990,
+                "preferredName": "Sajal Dash",
+                "firstName": "Sajal",
+                "lastName": "Dash"
+            },
+            {
+                "id": 37088902888,
+                "preferredName": "Qais Al-Hajri",
+                "firstName": "Qais",
+                "lastName": "Al-Hajri"
+            },
+            {
+                "id": 37280036100,
+                "preferredName": "Wu-chun Feng",
+                "firstName": "Wu-chun",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37298051800,
+                "preferredName": "Harold R Garner",
+                "firstName": "Harold R",
+                "lastName": "Garner"
+            },
+            {
+                "id": 37088899591,
+                "preferredName": "Ramu Anandakrishnan",
+                "firstName": "Ramu",
+                "lastName": "Anandakrishnan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00117",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460543",
+        "articleTitle": "High-Level FPGA Accelerator Design for Structured-Mesh-Based Explicit Numerical Solvers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1087",
+        "endPage": "1096",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "High-Level FPGA Accelerator Design for Structured-Mesh-Based Explicit Numerical Solvers",
+        "authors": [
+            {
+                "id": 37088903621,
+                "preferredName": "Kamalavasan Kamalakkannan",
+                "firstName": "Kamalavasan",
+                "lastName": "Kamalakkannan"
+            },
+            {
+                "id": 37299731300,
+                "preferredName": "Gihan R. Mudalige",
+                "firstName": "Gihan R.",
+                "lastName": "Mudalige"
+            },
+            {
+                "id": 38490996400,
+                "preferredName": "Istv\u00e1n Z. Reguly",
+                "firstName": "Istv\u00e1n Z.",
+                "lastName": "Reguly"
+            },
+            {
+                "id": 38555679800,
+                "preferredName": "Suhaib A. Fahmy",
+                "firstName": "Suhaib A.",
+                "lastName": "Fahmy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00092",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460510",
+        "articleTitle": "Argus: Efficient Job Scheduling in RDMA-assisted Big Data Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "827",
+        "endPage": "836",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Argus: Efficient Job Scheduling in RDMA-assisted Big Data Processing",
+        "authors": [
+            {
+                "id": 37086385624,
+                "preferredName": "Sijie Wu",
+                "firstName": "Sijie",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37281183200,
+                "preferredName": "Hanhua Chen",
+                "firstName": "Hanhua",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086530807,
+                "preferredName": "Yonghui Wang",
+                "firstName": "Yonghui",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37276607900,
+                "preferredName": "Hai Jin",
+                "firstName": "Hai",
+                "lastName": "Jin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00112",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460545",
+        "articleTitle": "Efficient Video Captioning on Heterogeneous System Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "1035",
+        "endPage": "1045",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Efficient Video Captioning on Heterogeneous System Architectures",
+        "authors": [
+            {
+                "id": 37088900986,
+                "preferredName": "Horng-Ruey Huang",
+                "firstName": "Horng-Ruey",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37958014600,
+                "preferredName": "Ding-Yong Hong",
+                "firstName": "Ding-Yong",
+                "lastName": "Hong"
+            },
+            {
+                "id": 37291829600,
+                "preferredName": "Jan-Jan Wu",
+                "firstName": "Jan-Jan",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37290197100,
+                "preferredName": "Pangfeng Liu",
+                "firstName": "Pangfeng",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37272583700,
+                "preferredName": "Wei-Chung Hsu",
+                "firstName": "Wei-Chung",
+                "lastName": "Hsu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00061",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460480",
+        "articleTitle": "Distributed-Memory k-mer Counting on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "527",
+        "endPage": "536",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Distributed-Memory k-mer Counting on GPUs",
+        "authors": [
+            {
+                "id": 37086424026,
+                "preferredName": "Israt Nisa",
+                "firstName": "Israt",
+                "lastName": "Nisa"
+            },
+            {
+                "id": 37089937456,
+                "preferredName": "Prashant Pandey",
+                "firstName": "Prashant",
+                "lastName": "Pandey"
+            },
+            {
+                "id": 37088441063,
+                "preferredName": "Marquita Ellis",
+                "firstName": "Marquita",
+                "lastName": "Ellis"
+            },
+            {
+                "id": 37281795400,
+                "preferredName": "Leonid Oliker",
+                "firstName": "Leonid",
+                "lastName": "Oliker"
+            },
+            {
+                "id": 37064569200,
+                "preferredName": "Ayd\u0131n Bulu\u00e7",
+                "firstName": "Ayd\u0131n",
+                "lastName": "Bulu\u00e7"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "Katherine Yelick",
+                "firstName": "Katherine",
+                "lastName": "Yelick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00021",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460478",
+        "articleTitle": "CTXBack: Enabling Low Latency GPU Context Switching via Context Flashback",
+        "volume": null,
+        "issue": null,
+        "startPage": "121",
+        "endPage": "130",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "CTXBack: Enabling Low Latency GPU Context Switching via Context Flashback",
+        "authors": [
+            {
+                "id": 37088900539,
+                "preferredName": "Zhuoran Ji",
+                "firstName": "Zhuoran",
+                "lastName": "Ji"
+            },
+            {
+                "id": 37280017800,
+                "preferredName": "Cho-Li Wang",
+                "firstName": "Cho-Li",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00012",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460451",
+        "articleTitle": "Noise-Resilient Empirical Performance Modeling with Deep Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "23",
+        "endPage": "34",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Noise-Resilient Empirical Performance Modeling with Deep Neural Networks",
+        "authors": [
+            {
+                "id": 37088441534,
+                "preferredName": "Marcus Ritter",
+                "firstName": "Marcus",
+                "lastName": "Ritter"
+            },
+            {
+                "id": 37088901989,
+                "preferredName": "Alexander Gei\u00df",
+                "firstName": "Alexander",
+                "lastName": "Gei\u00df"
+            },
+            {
+                "id": 37088903183,
+                "preferredName": "Johannes Wehrstein",
+                "firstName": "Johannes",
+                "lastName": "Wehrstein"
+            },
+            {
+                "id": 37086104415,
+                "preferredName": "Alexandru Calotoiu",
+                "firstName": "Alexandru",
+                "lastName": "Calotoiu"
+            },
+            {
+                "id": 37086021146,
+                "preferredName": "Thorsten Reimann",
+                "firstName": "Thorsten",
+                "lastName": "Reimann"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            },
+            {
+                "id": 37281845900,
+                "preferredName": "Felix Wolf",
+                "firstName": "Felix",
+                "lastName": "Wolf"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00022",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460488",
+        "articleTitle": "Transparent I/O-Aware GPU Virtualization for Efficient Resource Consolidation",
+        "volume": null,
+        "issue": null,
+        "startPage": "131",
+        "endPage": "140",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Transparent I/O-Aware GPU Virtualization for Efficient Resource Consolidation",
+        "authors": [
+            {
+                "id": 38242009000,
+                "preferredName": "Nelson Mimura Gonzalez",
+                "firstName": "Nelson Mimura",
+                "lastName": "Gonzalez"
+            },
+            {
+                "id": 37088899693,
+                "preferredName": "Tonia Elengikal",
+                "firstName": "Tonia",
+                "lastName": "Elengikal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00099",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460536",
+        "articleTitle": "Optimizing Performance for Open-Channel SSDs in Cloud Storage System",
+        "volume": null,
+        "issue": null,
+        "startPage": "902",
+        "endPage": "911",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Optimizing Performance for Open-Channel SSDs in Cloud Storage System",
+        "authors": [
+            {
+                "id": 37088902304,
+                "preferredName": "Xiaoyi Zhang",
+                "firstName": "Xiaoyi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088903372,
+                "preferredName": "Feng Zhu",
+                "firstName": "Feng",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37088901871,
+                "preferredName": "Shu Li",
+                "firstName": "Shu",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088901684,
+                "preferredName": "Kun Wang",
+                "firstName": "Kun",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088902282,
+                "preferredName": "Wei Xu",
+                "firstName": "Wei",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37088902917,
+                "preferredName": "Dengcai Xu",
+                "firstName": "Dengcai",
+                "lastName": "Xu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00011",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460471",
+        "articleTitle": "Dancing in the Dark: Profiling for Tiered Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Dancing in the Dark: Profiling for Tiered Memory",
+        "authors": [
+            {
+                "id": 37088902649,
+                "preferredName": "Jinyoung Choi",
+                "firstName": "Jinyoung",
+                "lastName": "Choi"
+            },
+            {
+                "id": 38252617100,
+                "preferredName": "Sergey Blagodurov",
+                "firstName": "Sergey",
+                "lastName": "Blagodurov"
+            },
+            {
+                "id": 37067924400,
+                "preferredName": "Hung-Wei Tseng",
+                "firstName": "Hung-Wei",
+                "lastName": "Tseng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00082",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460538",
+        "articleTitle": "Rank Position Forecasting in Car Racing",
+        "volume": null,
+        "issue": null,
+        "startPage": "724",
+        "endPage": "733",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Rank Position Forecasting in Car Racing",
+        "authors": [
+            {
+                "id": 37086081821,
+                "preferredName": "Bo Peng",
+                "firstName": "Bo",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37086963172,
+                "preferredName": "Jiayu Li",
+                "firstName": "Jiayu",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086858714,
+                "preferredName": "Selahattin Akkas",
+                "firstName": "Selahattin",
+                "lastName": "Akkas"
+            },
+            {
+                "id": 37086255389,
+                "preferredName": "Takuya Araki",
+                "firstName": "Takuya",
+                "lastName": "Araki"
+            },
+            {
+                "id": 37088904543,
+                "preferredName": "Ohno Yoshiyuki",
+                "firstName": "Ohno",
+                "lastName": "Yoshiyuki"
+            },
+            {
+                "id": 37591427400,
+                "preferredName": "Judy Qiu",
+                "firstName": "Judy",
+                "lastName": "Qiu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00083",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460507",
+        "articleTitle": "Towards Practical Cloud Offloading for Low-cost Ground Vehicle Workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "734",
+        "endPage": "745",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Towards Practical Cloud Offloading for Low-cost Ground Vehicle Workloads",
+        "authors": [
+            {
+                "id": 37086253437,
+                "preferredName": "Yuan Xu",
+                "firstName": "Yuan",
+                "lastName": "Xu"
+            },
+            {
+                "id": 38560530600,
+                "preferredName": "Tianwei Zhang",
+                "firstName": "Tianwei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088904426,
+                "preferredName": "Jimin Han",
+                "firstName": "Jimin",
+                "lastName": "Han"
+            },
+            {
+                "id": 37089443063,
+                "preferredName": "Sa Wang",
+                "firstName": "Sa",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37399184900,
+                "preferredName": "Yungang Bao",
+                "firstName": "Yungang",
+                "lastName": "Bao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00026",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460479",
+        "articleTitle": "NVMe-CR: A Scalable Ephemeral Storage Runtime for Checkpoint/Restart with NVMe-over-Fabrics",
+        "volume": null,
+        "issue": null,
+        "startPage": "172",
+        "endPage": "181",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "NVMe-CR: A Scalable Ephemeral Storage Runtime for Checkpoint/Restart with NVMe-over-Fabrics",
+        "authors": [
+            {
+                "id": 37085430206,
+                "preferredName": "Shashank Gugnani",
+                "firstName": "Shashank",
+                "lastName": "Gugnani"
+            },
+            {
+                "id": 37088765295,
+                "preferredName": "Tianxi Li",
+                "firstName": "Tianxi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37070173200,
+                "preferredName": "Xiaoyi Lu",
+                "firstName": "Xiaoyi",
+                "lastName": "Lu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00078",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460519",
+        "articleTitle": "High Performance Streaming Tensor Decomposition",
+        "volume": null,
+        "issue": null,
+        "startPage": "683",
+        "endPage": "692",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "High Performance Streaming Tensor Decomposition",
+        "authors": [
+            {
+                "id": 37088900450,
+                "preferredName": "Yongseok Soh",
+                "firstName": "Yongseok",
+                "lastName": "Soh"
+            },
+            {
+                "id": 37072431900,
+                "preferredName": "Patrick Flick",
+                "firstName": "Patrick",
+                "lastName": "Flick"
+            },
+            {
+                "id": 37085385549,
+                "preferredName": "Xing Liu",
+                "firstName": "Xing",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085354595,
+                "preferredName": "Shaden Smith",
+                "firstName": "Shaden",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37396803500,
+                "preferredName": "Fabio Checconi",
+                "firstName": "Fabio",
+                "lastName": "Checconi"
+            },
+            {
+                "id": 37271662700,
+                "preferredName": "Fabrizio Petrini",
+                "firstName": "Fabrizio",
+                "lastName": "Petrini"
+            },
+            {
+                "id": 38468602800,
+                "preferredName": "Jee Choi",
+                "firstName": "Jee",
+                "lastName": "Choi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00066",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460487",
+        "articleTitle": "Arbitration Policies for On-Demand User-Level I/O Forwarding on HPC Platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "577",
+        "endPage": "586",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Arbitration Policies for On-Demand User-Level I/O Forwarding on HPC Platforms",
+        "authors": [
+            {
+                "id": 37085494555,
+                "preferredName": "Jean Luca Bez",
+                "firstName": "Jean Luca",
+                "lastName": "Bez"
+            },
+            {
+                "id": 38241974400,
+                "preferredName": "Alberto Miranda",
+                "firstName": "Alberto",
+                "lastName": "Miranda"
+            },
+            {
+                "id": 37299625800,
+                "preferredName": "Ramon Nou",
+                "firstName": "Ramon",
+                "lastName": "Nou"
+            },
+            {
+                "id": 37591198100,
+                "preferredName": "Francieli Zanon Boito",
+                "firstName": "Francieli Zanon",
+                "lastName": "Boito"
+            },
+            {
+                "id": 37283859700,
+                "preferredName": "Toni Cortes",
+                "firstName": "Toni",
+                "lastName": "Cortes"
+            },
+            {
+                "id": 37266686600,
+                "preferredName": "Philippe Navaux",
+                "firstName": "Philippe",
+                "lastName": "Navaux"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00107",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460525",
+        "articleTitle": "Multiplicative Weights Algorithms for Parallel Automated Software Repair",
+        "volume": null,
+        "issue": null,
+        "startPage": "984",
+        "endPage": "993",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Multiplicative Weights Algorithms for Parallel Automated Software Repair",
+        "authors": [
+            {
+                "id": 37088900945,
+                "preferredName": "Joseph Renzullo",
+                "firstName": "Joseph",
+                "lastName": "Renzullo"
+            },
+            {
+                "id": 37312553000,
+                "preferredName": "Westley Weimer",
+                "firstName": "Westley",
+                "lastName": "Weimer"
+            },
+            {
+                "id": 37288742600,
+                "preferredName": "Stephanie Forrest",
+                "firstName": "Stephanie",
+                "lastName": "Forrest"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00067",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460531",
+        "articleTitle": "A Hybrid Scheduling Scheme for Parallel Loops",
+        "volume": null,
+        "issue": null,
+        "startPage": "587",
+        "endPage": "598",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "A Hybrid Scheduling Scheme for Parallel Loops",
+        "authors": [
+            {
+                "id": 37088899901,
+                "preferredName": "Aaron Handleman",
+                "firstName": "Aaron",
+                "lastName": "Handleman"
+            },
+            {
+                "id": 37088904435,
+                "preferredName": "Arthur G. Rattew",
+                "firstName": "Arthur G.",
+                "lastName": "Rattew"
+            },
+            {
+                "id": 37086548271,
+                "preferredName": "I-Ting Angelina Lee",
+                "firstName": "I-Ting Angelina",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37087108085,
+                "preferredName": "Tao B. Schardl",
+                "firstName": "Tao B.",
+                "lastName": "Schardl"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00036",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460462",
+        "articleTitle": "Combining XOR and Partner Checkpointing for Resilient Multilevel Checkpoint/Restart",
+        "volume": null,
+        "issue": null,
+        "startPage": "277",
+        "endPage": "288",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Combining XOR and Partner Checkpointing for Resilient Multilevel Checkpoint/Restart",
+        "authors": [
+            {
+                "id": 37088903477,
+                "preferredName": "Masoud Gholami",
+                "firstName": "Masoud",
+                "lastName": "Gholami"
+            },
+            {
+                "id": 37284776900,
+                "preferredName": "Florian Schintke",
+                "firstName": "Florian",
+                "lastName": "Schintke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00106",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460533",
+        "articleTitle": "Distributed Training of Embeddings using Graph Analytics",
+        "volume": null,
+        "issue": null,
+        "startPage": "973",
+        "endPage": "983",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Distributed Training of Embeddings using Graph Analytics",
+        "authors": [
+            {
+                "id": 37086436065,
+                "preferredName": "Gurbinder Gill",
+                "firstName": "Gurbinder",
+                "lastName": "Gill"
+            },
+            {
+                "id": 37075610300,
+                "preferredName": "Roshan Dathathri",
+                "firstName": "Roshan",
+                "lastName": "Dathathri"
+            },
+            {
+                "id": 37085821444,
+                "preferredName": "Saeed Maleki",
+                "firstName": "Saeed",
+                "lastName": "Maleki"
+            },
+            {
+                "id": 37314365900,
+                "preferredName": "Madan Musuvathi",
+                "firstName": "Madan",
+                "lastName": "Musuvathi"
+            },
+            {
+                "id": 37545468400,
+                "preferredName": "Todd Mytkowicz",
+                "firstName": "Todd",
+                "lastName": "Mytkowicz"
+            },
+            {
+                "id": 38467770800,
+                "preferredName": "Olli Saarikivi",
+                "firstName": "Olli",
+                "lastName": "Saarikivi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00094",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460508",
+        "articleTitle": "A Multi-GPU Design for Large Size Cryo-EM 3D Reconstruction",
+        "volume": null,
+        "issue": null,
+        "startPage": "847",
+        "endPage": "858",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "A Multi-GPU Design for Large Size Cryo-EM 3D Reconstruction",
+        "authors": [
+            {
+                "id": 37088835383,
+                "preferredName": "Zihao Wang",
+                "firstName": "Zihao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37863307500,
+                "preferredName": "Xiaohua Wan",
+                "firstName": "Xiaohua",
+                "lastName": "Wan"
+            },
+            {
+                "id": 37289197400,
+                "preferredName": "Zhiyong Liu",
+                "firstName": "Zhiyong",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088903287,
+                "preferredName": "Qianshuo Fan",
+                "firstName": "Qianshuo",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37292697800,
+                "preferredName": "Fa Zhang",
+                "firstName": "Fa",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37552741100,
+                "preferredName": "Guangming Tan",
+                "firstName": "Guangming",
+                "lastName": "Tan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00080",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460553",
+        "articleTitle": "Speculative Parallel Reverse Cuthill-McKee Reordering on Multi- and Many-core Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "703",
+        "endPage": "713",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Speculative Parallel Reverse Cuthill-McKee Reordering on Multi- and Many-core Architectures",
+        "authors": [
+            {
+                "id": 37086799758,
+                "preferredName": "Daniel Mlakar",
+                "firstName": "Daniel",
+                "lastName": "Mlakar"
+            },
+            {
+                "id": 37277330900,
+                "preferredName": "Martin Winter",
+                "firstName": "Martin",
+                "lastName": "Winter"
+            },
+            {
+                "id": 37088899790,
+                "preferredName": "Mathias Parger",
+                "firstName": "Mathias",
+                "lastName": "Parger"
+            },
+            {
+                "id": 38017759700,
+                "preferredName": "Markus Steinberger",
+                "firstName": "Markus",
+                "lastName": "Steinberger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00084",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460522",
+        "articleTitle": "Towards Internet-Scale Convolutional Root-Cause Analysis with DIAGNET",
+        "volume": null,
+        "issue": null,
+        "startPage": "746",
+        "endPage": "755",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Towards Internet-Scale Convolutional Root-Cause Analysis with DIAGNET",
+        "authors": [
+            {
+                "id": 37088555012,
+                "preferredName": "Lo\u00efck Bonniot",
+                "firstName": "Lo\u00efck",
+                "lastName": "Bonniot"
+            },
+            {
+                "id": 37088553910,
+                "preferredName": "Christoph Neumann",
+                "firstName": "Christoph",
+                "lastName": "Neumann"
+            },
+            {
+                "id": 37273124700,
+                "preferredName": "Fran\u00e7ois Ta\u00efani",
+                "firstName": "Fran\u00e7ois",
+                "lastName": "Ta\u00efani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00069",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460524",
+        "articleTitle": "BiPS: Hotness-aware Bi-tier Parameter Synchronization for Recommendation Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "609",
+        "endPage": "618",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "BiPS: Hotness-aware Bi-tier Parameter Synchronization for Recommendation Models",
+        "authors": [
+            {
+                "id": 37088901739,
+                "preferredName": "Qiming Zheng",
+                "firstName": "Qiming",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37086610806,
+                "preferredName": "Quan Chen",
+                "firstName": "Quan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088904486,
+                "preferredName": "Kaihao Bai",
+                "firstName": "Kaihao",
+                "lastName": "Bai"
+            },
+            {
+                "id": 37086820314,
+                "preferredName": "Huifeng Guo",
+                "firstName": "Huifeng",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37088904185,
+                "preferredName": "Yong Gao",
+                "firstName": "Yong",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37085745722,
+                "preferredName": "Xiuqiang He",
+                "firstName": "Xiuqiang",
+                "lastName": "He"
+            },
+            {
+                "id": 37274181400,
+                "preferredName": "Minyi Guo",
+                "firstName": "Minyi",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00033",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460461",
+        "articleTitle": "MultiLogVC: Efficient Out-of-Core Graph Processing Framework for Flash Storage",
+        "volume": null,
+        "issue": null,
+        "startPage": "245",
+        "endPage": "255",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "MultiLogVC: Efficient Out-of-Core Graph Processing Framework for Flash Storage",
+        "authors": [
+            {
+                "id": 37892051900,
+                "preferredName": "Kiran Kumar Matam",
+                "firstName": "Kiran Kumar",
+                "lastName": "Matam"
+            },
+            {
+                "id": 37088900155,
+                "preferredName": "Hanieh Hashemi",
+                "firstName": "Hanieh",
+                "lastName": "Hashemi"
+            },
+            {
+                "id": 37298092100,
+                "preferredName": "Murali Annavaram",
+                "firstName": "Murali",
+                "lastName": "Annavaram"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00096",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460534",
+        "articleTitle": "Extremely Fast and Energy Efficient One-way Wave Equation Migration on GPU-based heterogeneous architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "869",
+        "endPage": "880",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Extremely Fast and Energy Efficient One-way Wave Equation Migration on GPU-based heterogeneous architecture",
+        "authors": [
+            {
+                "id": 37088902821,
+                "preferredName": "Long Qu",
+                "firstName": "Long",
+                "lastName": "Qu"
+            },
+            {
+                "id": 37088903489,
+                "preferredName": "Loris Lucido",
+                "firstName": "Loris",
+                "lastName": "Lucido"
+            },
+            {
+                "id": 37088904412,
+                "preferredName": "Marie Bonnasse-Gahot",
+                "firstName": "Marie",
+                "lastName": "Bonnasse-Gahot"
+            },
+            {
+                "id": 37572295700,
+                "preferredName": "Pascal Vezolle",
+                "firstName": "Pascal",
+                "lastName": "Vezolle"
+            },
+            {
+                "id": 37088901049,
+                "preferredName": "Diego Klahr",
+                "firstName": "Diego",
+                "lastName": "Klahr"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00055",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460498",
+        "articleTitle": "ARBALEST: Dynamic Detection of Data Mapping Issues in Heterogeneous OpenMP Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "464",
+        "endPage": "474",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "ARBALEST: Dynamic Detection of Data Mapping Issues in Heterogeneous OpenMP Applications",
+        "authors": [
+            {
+                "id": 37086166306,
+                "preferredName": "Lechen Yu",
+                "firstName": "Lechen",
+                "lastName": "Yu"
+            },
+            {
+                "id": 38468891600,
+                "preferredName": "Joachim Protze",
+                "firstName": "Joachim",
+                "lastName": "Protze"
+            },
+            {
+                "id": 37266105100,
+                "preferredName": "Oscar Hernandez",
+                "firstName": "Oscar",
+                "lastName": "Hernandez"
+            },
+            {
+                "id": 37389286300,
+                "preferredName": "Vivek Sarkar",
+                "firstName": "Vivek",
+                "lastName": "Sarkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00044",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460452",
+        "articleTitle": "Nowa: A Wait-Free Continuation-Stealing Concurrency Platform",
+        "volume": null,
+        "issue": null,
+        "startPage": "360",
+        "endPage": "371",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Nowa: A Wait-Free Continuation-Stealing Concurrency Platform",
+        "authors": [
+            {
+                "id": 37088448461,
+                "preferredName": "Florian Schmaus",
+                "firstName": "Florian",
+                "lastName": "Schmaus"
+            },
+            {
+                "id": 37088901655,
+                "preferredName": "Nicolas Pfeiffer",
+                "firstName": "Nicolas",
+                "lastName": "Pfeiffer"
+            },
+            {
+                "id": 37085674366,
+                "preferredName": "Timo H\u00f6nig",
+                "firstName": "Timo",
+                "lastName": "H\u00f6nig"
+            },
+            {
+                "id": 37297573700,
+                "preferredName": "J\u00f6rg Nolte",
+                "firstName": "J\u00f6rg",
+                "lastName": "Nolte"
+            },
+            {
+                "id": 38273129600,
+                "preferredName": "Wolfgang Schr\u00f6der-Preikschat",
+                "firstName": "Wolfgang",
+                "lastName": "Schr\u00f6der-Preikschat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00027",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460456",
+        "articleTitle": "Virtual-Link: A Scalable Multi-Producer Multi-Consumer Message Queue Architecture for Cross-Core Communication",
+        "volume": null,
+        "issue": null,
+        "startPage": "182",
+        "endPage": "191",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Virtual-Link: A Scalable Multi-Producer Multi-Consumer Message Queue Architecture for Cross-Core Communication",
+        "authors": [
+            {
+                "id": 37086550793,
+                "preferredName": "Qinzhe Wu",
+                "firstName": "Qinzhe",
+                "lastName": "Wu"
+            },
+            {
+                "id": 38236571100,
+                "preferredName": "Jonathan Beard",
+                "firstName": "Jonathan",
+                "lastName": "Beard"
+            },
+            {
+                "id": 37088829635,
+                "preferredName": "Ashen Ekanayake",
+                "firstName": "Ashen",
+                "lastName": "Ekanayake"
+            },
+            {
+                "id": 37282173200,
+                "preferredName": "Andreas Gerstlauer",
+                "firstName": "Andreas",
+                "lastName": "Gerstlauer"
+            },
+            {
+                "id": 37266694600,
+                "preferredName": "Lizy K. John",
+                "firstName": "Lizy K.",
+                "lastName": "John"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00031",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460460",
+        "articleTitle": "Efficient Distributed Algorithms in the k-machine model via PRAM Simulations",
+        "volume": null,
+        "issue": null,
+        "startPage": "223",
+        "endPage": "232",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Efficient Distributed Algorithms in the k-machine model via PRAM Simulations",
+        "authors": [
+            {
+                "id": 37085382178,
+                "preferredName": "John Augustine",
+                "firstName": "John",
+                "lastName": "Augustine"
+            },
+            {
+                "id": 37321974500,
+                "preferredName": "Kishore Kothapalli",
+                "firstName": "Kishore",
+                "lastName": "Kothapalli"
+            },
+            {
+                "id": 37320781900,
+                "preferredName": "Gopal Pandurangan",
+                "firstName": "Gopal",
+                "lastName": "Pandurangan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00101",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460529",
+        "articleTitle": "SNOW Revisited: Understanding When Ideal READ Transactions Are Possible",
+        "volume": null,
+        "issue": null,
+        "startPage": "922",
+        "endPage": "931",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "SNOW Revisited: Understanding When Ideal READ Transactions Are Possible",
+        "authors": [
+            {
+                "id": 37273293400,
+                "preferredName": "Kishori M. Konwar",
+                "firstName": "Kishori M.",
+                "lastName": "Konwar"
+            },
+            {
+                "id": 37720079700,
+                "preferredName": "Wyatt Lloyd",
+                "firstName": "Wyatt",
+                "lastName": "Lloyd"
+            },
+            {
+                "id": 37088902994,
+                "preferredName": "Haonan Lu",
+                "firstName": "Haonan",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37273262700,
+                "preferredName": "Nancy Lynch",
+                "firstName": "Nancy",
+                "lastName": "Lynch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00057",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460499",
+        "articleTitle": "Code Generation for Room Acoustics Simulations with Complex Boundary Conditions",
+        "volume": null,
+        "issue": null,
+        "startPage": "485",
+        "endPage": "496",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Code Generation for Room Acoustics Simulations with Complex Boundary Conditions",
+        "authors": [
+            {
+                "id": 37088901393,
+                "preferredName": "Larisa Stoltzfus",
+                "firstName": "Larisa",
+                "lastName": "Stoltzfus"
+            },
+            {
+                "id": 37072370500,
+                "preferredName": "Brian Hamilton",
+                "firstName": "Brian",
+                "lastName": "Hamilton"
+            },
+            {
+                "id": 37888372700,
+                "preferredName": "Michel Steuwer",
+                "firstName": "Michel",
+                "lastName": "Steuwer"
+            },
+            {
+                "id": 37088899495,
+                "preferredName": "Lu Li",
+                "firstName": "Lu",
+                "lastName": "Li"
+            },
+            {
+                "id": 37400506500,
+                "preferredName": "Christophe Dubach",
+                "firstName": "Christophe",
+                "lastName": "Dubach"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00039",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460476",
+        "articleTitle": "Covirt: Lightweight Fault Isolation and Resource Protection for Co-Kernels",
+        "volume": null,
+        "issue": null,
+        "startPage": "310",
+        "endPage": "319",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Covirt: Lightweight Fault Isolation and Resource Protection for Co-Kernels",
+        "authors": [
+            {
+                "id": 37088901038,
+                "preferredName": "Nicholas Gordon",
+                "firstName": "Nicholas",
+                "lastName": "Gordon"
+            },
+            {
+                "id": 37411339600,
+                "preferredName": "John R. Lange",
+                "firstName": "John R.",
+                "lastName": "Lange"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00079",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460518",
+        "articleTitle": "Plex: Scaling Parallel Lexing with Backtrack-Free Prescanning",
+        "volume": null,
+        "issue": null,
+        "startPage": "693",
+        "endPage": "702",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Plex: Scaling Parallel Lexing with Backtrack-Free Prescanning",
+        "authors": [
+            {
+                "id": 37088899519,
+                "preferredName": "Le Li",
+                "firstName": "Le",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088647004,
+                "preferredName": "Shigeyuki Sato",
+                "firstName": "Shigeyuki",
+                "lastName": "Sato"
+            },
+            {
+                "id": 37088899817,
+                "preferredName": "Qiheng Liu",
+                "firstName": "Qiheng",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37284826400,
+                "preferredName": "Kenjiro Taura",
+                "firstName": "Kenjiro",
+                "lastName": "Taura"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00032",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460490",
+        "articleTitle": "Euler Meets GPU: Practical Graph Algorithms with Theoretical Guarantees",
+        "volume": null,
+        "issue": null,
+        "startPage": "233",
+        "endPage": "244",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Euler Meets GPU: Practical Graph Algorithms with Theoretical Guarantees",
+        "authors": [
+            {
+                "id": 37085866555,
+                "preferredName": "Adam Polak",
+                "firstName": "Adam",
+                "lastName": "Polak"
+            },
+            {
+                "id": 37088903302,
+                "preferredName": "Adrian Siwiec",
+                "firstName": "Adrian",
+                "lastName": "Siwiec"
+            },
+            {
+                "id": 37088903483,
+                "preferredName": "Micha\u0142 Stobierski",
+                "firstName": "Micha\u0142",
+                "lastName": "Stobierski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00041",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460449",
+        "articleTitle": "PALM: Progress- and Locality-Aware Adaptive Task Migration for Efficient Thread Packing",
+        "volume": null,
+        "issue": null,
+        "startPage": "330",
+        "endPage": "339",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "PALM: Progress- and Locality-Aware Adaptive Task Migration for Efficient Thread Packing",
+        "authors": [
+            {
+                "id": 37085443394,
+                "preferredName": "Jinsu Park",
+                "firstName": "Jinsu",
+                "lastName": "Park"
+            },
+            {
+                "id": 37086417513,
+                "preferredName": "Seongbeom Park",
+                "firstName": "Seongbeom",
+                "lastName": "Park"
+            },
+            {
+                "id": 37085877972,
+                "preferredName": "Myeonggyun Han",
+                "firstName": "Myeonggyun",
+                "lastName": "Han"
+            },
+            {
+                "id": 37085439220,
+                "preferredName": "Woongki Baek",
+                "firstName": "Woongki",
+                "lastName": "Baek"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00029",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460494",
+        "articleTitle": "RVMA: Remote Virtual Memory Access",
+        "volume": null,
+        "issue": null,
+        "startPage": "203",
+        "endPage": "212",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "RVMA: Remote Virtual Memory Access",
+        "authors": [
+            {
+                "id": 37085363711,
+                "preferredName": "Ryan E. Grant",
+                "firstName": "Ryan E.",
+                "lastName": "Grant"
+            },
+            {
+                "id": 37392789000,
+                "preferredName": "Michael J. Levenhagen",
+                "firstName": "Michael J.",
+                "lastName": "Levenhagen"
+            },
+            {
+                "id": 38493007400,
+                "preferredName": "Matthew G.F. Dosanjh",
+                "firstName": "Matthew G.F.",
+                "lastName": "Dosanjh"
+            },
+            {
+                "id": 37299777500,
+                "preferredName": "Patrick M. Widener",
+                "firstName": "Patrick M.",
+                "lastName": "Widener"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00091",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460540",
+        "articleTitle": "F-Write: Fast RDMA-supported Writes in Erasure-coded In-memory Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "817",
+        "endPage": "826",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "F-Write: Fast RDMA-supported Writes in Erasure-coded In-memory Clusters",
+        "authors": [
+            {
+                "id": 37088479306,
+                "preferredName": "Bin Xu",
+                "firstName": "Bin",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37600872600,
+                "preferredName": "Jianzhong Huang",
+                "firstName": "Jianzhong",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37397318100,
+                "preferredName": "Qiang Cao",
+                "firstName": "Qiang",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37285874000,
+                "preferredName": "Xiao Qin",
+                "firstName": "Xiao",
+                "lastName": "Qin"
+            },
+            {
+                "id": 37085404744,
+                "preferredName": "Ping Xie",
+                "firstName": "Ping",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00081",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460544",
+        "articleTitle": "Jigsaw: A Slice-and-Dice Approach to Non-uniform FFT Acceleration for MRI Image Reconstruction",
+        "volume": null,
+        "issue": null,
+        "startPage": "714",
+        "endPage": "723",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Jigsaw: A Slice-and-Dice Approach to Non-uniform FFT Acceleration for MRI Image Reconstruction",
+        "authors": [
+            {
+                "id": 37086952658,
+                "preferredName": "Brendan L. West",
+                "firstName": "Brendan L.",
+                "lastName": "West"
+            },
+            {
+                "id": 37276033500,
+                "preferredName": "Jeffrey A. Fessler",
+                "firstName": "Jeffrey A.",
+                "lastName": "Fessler"
+            },
+            {
+                "id": 37395315400,
+                "preferredName": "Thomas F. Wenisch",
+                "firstName": "Thomas F.",
+                "lastName": "Wenisch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00014",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460475",
+        "articleTitle": "Accelerating Distributed-Memory Autotuning via Statistical Analysis of Execution Paths",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Accelerating Distributed-Memory Autotuning via Statistical Analysis of Execution Paths",
+        "authors": [
+            {
+                "id": 37086960786,
+                "preferredName": "Edward Hutter",
+                "firstName": "Edward",
+                "lastName": "Hutter"
+            },
+            {
+                "id": 37392745800,
+                "preferredName": "Edgar Solomonik",
+                "firstName": "Edgar",
+                "lastName": "Solomonik"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00058",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460483",
+        "articleTitle": "Temporal blocking of finite-difference stencil operators with sparse \u201coff-the-grid\u201d sources",
+        "volume": null,
+        "issue": null,
+        "startPage": "497",
+        "endPage": "506",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Temporal blocking of finite-difference stencil operators with sparse \u201coff-the-grid\u201d sources",
+        "authors": [
+            {
+                "id": 37088900106,
+                "preferredName": "George Bisbas",
+                "firstName": "George",
+                "lastName": "Bisbas"
+            },
+            {
+                "id": 37086085551,
+                "preferredName": "Fabio Luporini",
+                "firstName": "Fabio",
+                "lastName": "Luporini"
+            },
+            {
+                "id": 37086087332,
+                "preferredName": "Mathias Louboutin",
+                "firstName": "Mathias",
+                "lastName": "Louboutin"
+            },
+            {
+                "id": 37088902046,
+                "preferredName": "Rhodri Nelson",
+                "firstName": "Rhodri",
+                "lastName": "Nelson"
+            },
+            {
+                "id": 37086091527,
+                "preferredName": "Gerard J. Gorman",
+                "firstName": "Gerard J.",
+                "lastName": "Gorman"
+            },
+            {
+                "id": 37300638200,
+                "preferredName": "Paul H.J. Kelly",
+                "firstName": "Paul H.J.",
+                "lastName": "Kelly"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00050",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460485",
+        "articleTitle": "12 Ways to Fool the Masses with Irreproducible Results",
+        "volume": null,
+        "issue": null,
+        "startPage": "422",
+        "endPage": "422",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "12 Ways to Fool the Masses with Irreproducible Results",
+        "authors": [
+            {
+                "id": 37087193654,
+                "preferredName": "Lorena Barba",
+                "firstName": "Lorena",
+                "lastName": "Barba"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00005",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9459045",
+        "articleTitle": "Message from the 2021 General Co-Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "20",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Message from the 2021 General Co-Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00009",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460393",
+        "articleTitle": "A Tale of Two C\u2019s: Convergence and Composability",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "A Tale of Two C\u2019s: Convergence and Composability",
+        "authors": [
+            {
+                "id": 37277124600,
+                "preferredName": "\u0130lkay Altinta\u015f",
+                "firstName": "\u0130lkay",
+                "lastName": "Altinta\u015f"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00008",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9459065",
+        "articleTitle": "IPDPS 2021 Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "IPDPS 2021 Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00006",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9459064",
+        "articleTitle": "Message from the 2021 Program Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Message from the 2021 Program Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00007",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9458963",
+        "articleTitle": "IPDPS 2021 Technical Program",
+        "volume": null,
+        "issue": null,
+        "startPage": "23",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "IPDPS 2021 Technical Program",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00003",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9459057",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00004",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9458981",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "19",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00002",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9459043",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9458946",
+        "doi": "10.1109/IPDPS49936.2021.00118",
+        "publicationYear": "2021",
+        "publicationDate": "17-21 May 2021",
+        "articleNumber": "9460550",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1097",
+        "endPage": "1103",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

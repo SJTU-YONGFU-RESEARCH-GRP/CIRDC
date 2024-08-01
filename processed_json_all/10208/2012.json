@@ -1,0 +1,846 @@
+[
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.2",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6172197",
+        "articleTitle": "Enabling Efficient and Scalable Hybrid Memories Using Fine-Granularity DRAM Cache Management",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "61",
+        "endPage": "64",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Enabling Efficient and Scalable Hybrid Memories Using Fine-Granularity DRAM Cache Management",
+        "authors": [
+            {
+                "id": 37838557700,
+                "preferredName": "Justin Meza",
+                "firstName": "Justin",
+                "lastName": "Meza"
+            },
+            {
+                "id": 38067096300,
+                "preferredName": "Jichuan Chang",
+                "firstName": "Jichuan",
+                "lastName": "Chang"
+            },
+            {
+                "id": 38527933000,
+                "preferredName": "HanBin Yoon",
+                "firstName": "HanBin",
+                "lastName": "Yoon"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37282355200,
+                "preferredName": "Parthasarathy Ranganathan",
+                "firstName": "Parthasarathy",
+                "lastName": "Ranganathan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.32",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6092408",
+        "articleTitle": "DRAM Scheduling Policy for GPGPU Architectures Based on a Potential Function",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "33",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "DRAM Scheduling Policy for GPGPU Architectures Based on a Potential Function",
+        "authors": [
+            {
+                "id": 37660339700,
+                "preferredName": "Nagesh B. Lakshminarayana",
+                "firstName": "Nagesh B.",
+                "lastName": "Lakshminarayana"
+            },
+            {
+                "id": 38008722600,
+                "preferredName": "Jaekyu Lee",
+                "firstName": "Jaekyu",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37280376200,
+                "preferredName": "Hyesoon Kim",
+                "firstName": "Hyesoon",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37075956400,
+                "preferredName": "Jinwoo Shin",
+                "firstName": "Jinwoo",
+                "lastName": "Shin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.3",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6175876",
+        "articleTitle": "MultiAmdahl: How Should I Divide My Heterogenous Chip?",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "65",
+        "endPage": "68",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "MultiAmdahl: How Should I Divide My Heterogenous Chip?",
+        "authors": [
+            {
+                "id": 38526311700,
+                "preferredName": "Tsahee Zidenberg",
+                "firstName": "Tsahee",
+                "lastName": "Zidenberg"
+            },
+            {
+                "id": 37272285700,
+                "preferredName": "Isaac Keslassy",
+                "firstName": "Isaac",
+                "lastName": "Keslassy"
+            },
+            {
+                "id": 37354492100,
+                "preferredName": "Uri Weiser",
+                "firstName": "Uri",
+                "lastName": "Weiser"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.36",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6104030",
+        "articleTitle": "Mitigating the Effects of Process Variation in Ultra-low Voltage Chip Multiprocessors using Dual Supply Voltages and Half-Speed Units",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "45",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Mitigating the Effects of Process Variation in Ultra-low Voltage Chip Multiprocessors using Dual Supply Voltages and Half-Speed Units",
+        "authors": [
+            {
+                "id": 37594074000,
+                "preferredName": "Timothy N. Miller",
+                "firstName": "Timothy N.",
+                "lastName": "Miller"
+            },
+            {
+                "id": 38001415200,
+                "preferredName": "Renji Thomas",
+                "firstName": "Renji",
+                "lastName": "Thomas"
+            },
+            {
+                "id": 37555988600,
+                "preferredName": "Radu Teodorescu",
+                "firstName": "Radu",
+                "lastName": "Teodorescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.33",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6095481",
+        "articleTitle": "B-Fetch: Branch Prediction Directed Prefetching for In-Order Processors",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "41",
+        "endPage": "44",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "B-Fetch: Branch Prediction Directed Prefetching for In-Order Processors",
+        "authors": [
+            {
+                "id": 38526316800,
+                "preferredName": "Reena Panda",
+                "firstName": "Reena",
+                "lastName": "Panda"
+            },
+            {
+                "id": 37087499496,
+                "preferredName": "Paul V. Gratz",
+                "firstName": "Paul",
+                "lastName": "V. Gratz"
+            },
+            {
+                "id": 38485695000,
+                "preferredName": "Daniel A. Jim\u00e9nez",
+                "firstName": "Daniel A.",
+                "lastName": "Jim\u00e9nez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.26",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6086519",
+        "articleTitle": "An Overview of Static Pipelining",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "17",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "An Overview of Static Pipelining",
+        "authors": [
+            {
+                "id": 37703674600,
+                "preferredName": "Ian Finlayson",
+                "firstName": "Ian",
+                "lastName": "Finlayson"
+            },
+            {
+                "id": 37268073400,
+                "preferredName": "Gang-Ryung Uh",
+                "firstName": "Gang-Ryung",
+                "lastName": "Uh"
+            },
+            {
+                "id": 37268070500,
+                "preferredName": "David B. Whalley",
+                "firstName": "David B.",
+                "lastName": "Whalley"
+            },
+            {
+                "id": 37371721200,
+                "preferredName": "Gary Tyson",
+                "firstName": "Gary",
+                "lastName": "Tyson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.22",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6018100",
+        "articleTitle": "A Case for Hybrid Discrete-Continuous Architectures",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "1",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "A Case for Hybrid Discrete-Continuous Architectures",
+        "authors": [
+            {
+                "id": 37314065100,
+                "preferredName": "Simha Sethumadhavan",
+                "firstName": "Simha",
+                "lastName": "Sethumadhavan"
+            },
+            {
+                "id": 38247248300,
+                "preferredName": "Ryan Roberts",
+                "firstName": "Ryan",
+                "lastName": "Roberts"
+            },
+            {
+                "id": 37270896700,
+                "preferredName": "Yannis Tsividis",
+                "firstName": "Yannis",
+                "lastName": "Tsividis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.34",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6095482",
+        "articleTitle": "Instruction Shuffle: Achieving MIMD-like Performance on SIMD Architectures",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "37",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Instruction Shuffle: Achieving MIMD-like Performance on SIMD Architectures",
+        "authors": [
+            {
+                "id": 37900877700,
+                "preferredName": "Yaohua Wang",
+                "firstName": "Yaohua",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37403389300,
+                "preferredName": "Shuming Chen",
+                "firstName": "Shuming",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37960744400,
+                "preferredName": "Kai Zhang",
+                "firstName": "Kai",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37847767900,
+                "preferredName": "Jianghua Wan",
+                "firstName": "Jianghua",
+                "lastName": "Wan"
+            },
+            {
+                "id": 37403964500,
+                "preferredName": "Xiaowen Chen",
+                "firstName": "Xiaowen",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37900584400,
+                "preferredName": "Hu Chen",
+                "firstName": "Hu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 38527628400,
+                "preferredName": "Haibo Wang",
+                "firstName": "Haibo",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.1",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6133251",
+        "articleTitle": "The Need for Power Debugging in the Multi-Core Environment",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "57",
+        "endPage": "60",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "The Need for Power Debugging in the Multi-Core Environment",
+        "authors": [
+            {
+                "id": 38240846300,
+                "preferredName": "Jie Chen",
+                "firstName": "Jie",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37298056800,
+                "preferredName": "Guru Venkataramani",
+                "firstName": "Guru",
+                "lastName": "Venkataramani"
+            },
+            {
+                "id": 37297069500,
+                "preferredName": "Gabriel Parmer",
+                "firstName": "Gabriel",
+                "lastName": "Parmer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.27",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6086520",
+        "articleTitle": "Including Variability in Large-Scale Cluster Power Models",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "29",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Including Variability in Large-Scale Cluster Power Models",
+        "authors": [
+            {
+                "id": 37534847100,
+                "preferredName": "John D. Davis",
+                "firstName": "John D.",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37541889700,
+                "preferredName": "Suzanne Rivoire",
+                "firstName": "Suzanne",
+                "lastName": "Rivoire"
+            },
+            {
+                "id": 37389008400,
+                "preferredName": "Moises Goldszmidt",
+                "firstName": "Moises",
+                "lastName": "Goldszmidt"
+            },
+            {
+                "id": 37870627200,
+                "preferredName": "Ehsan K. Ardestani",
+                "firstName": "Ehsan K.",
+                "lastName": "Ardestani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.35",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6104029",
+        "articleTitle": "Leveraging Sharing in Second Level Translation-Lookaside Buffers for Chip Multiprocessors",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "49",
+        "endPage": "52",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Leveraging Sharing in Second Level Translation-Lookaside Buffers for Chip Multiprocessors",
+        "authors": [
+            {
+                "id": 38240266300,
+                "preferredName": "Yang Li",
+                "firstName": "Yang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37273234900,
+                "preferredName": "Rami Melhem",
+                "firstName": "Rami",
+                "lastName": "Melhem"
+            },
+            {
+                "id": 37087913275,
+                "preferredName": "Alex K. Jones",
+                "firstName": "Alex",
+                "lastName": "K. Jones"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.24",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6051398",
+        "articleTitle": "A High-Level Power Model for MPSoC on FPGA",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "13",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "A High-Level Power Model for MPSoC on FPGA",
+        "authors": [
+            {
+                "id": 37888408200,
+                "preferredName": "Roberta Piscitelli",
+                "firstName": "Roberta",
+                "lastName": "Piscitelli"
+            },
+            {
+                "id": 37295394500,
+                "preferredName": "Andy Pimentel",
+                "firstName": "Andy",
+                "lastName": "Pimentel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.23",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6042844",
+        "articleTitle": "A HW/SW Co-designed Programmable Functional Unit",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "9",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "A HW/SW Co-designed Programmable Functional Unit",
+        "authors": [
+            {
+                "id": 37720971300,
+                "preferredName": "abhishek deb",
+                "firstName": "abhishek",
+                "lastName": "deb"
+            },
+            {
+                "id": 37297698900,
+                "preferredName": "Josep M. Codina",
+                "firstName": "Josep M.",
+                "lastName": "Codina"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "Antonio Gonzalez",
+                "firstName": "Antonio",
+                "lastName": "Gonzalez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.37",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6109202",
+        "articleTitle": "Decoupling Datacenter Storage Studies from Access to Large-Scale Applications",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "53",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Decoupling Datacenter Storage Studies from Access to Large-Scale Applications",
+        "authors": [
+            {
+                "id": 37705169700,
+                "preferredName": "Christina Delimitrou",
+                "firstName": "Christina",
+                "lastName": "Delimitrou"
+            },
+            {
+                "id": 37528825800,
+                "preferredName": "Sriram Sankar",
+                "firstName": "Sriram",
+                "lastName": "Sankar"
+            },
+            {
+                "id": 37378385800,
+                "preferredName": "Kushagra Vaid",
+                "firstName": "Kushagra",
+                "lastName": "Vaid"
+            },
+            {
+                "id": 37282352700,
+                "preferredName": "Christos Kozyrakis",
+                "firstName": "Christos",
+                "lastName": "Kozyrakis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.21",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6018094",
+        "articleTitle": "Atomic Streaming: A Framework of On-Chip Data Supply System for Task-Parallel MPSoCs",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "5",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Atomic Streaming: A Framework of On-Chip Data Supply System for Task-Parallel MPSoCs",
+        "authors": [
+            {
+                "id": 37535552100,
+                "preferredName": "Ji Kong",
+                "firstName": "Ji",
+                "lastName": "Kong"
+            },
+            {
+                "id": 37402099000,
+                "preferredName": "Peilin Liu",
+                "firstName": "Peilin",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38248133200,
+                "preferredName": "Yu Zhang",
+                "firstName": "Yu",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2011.25",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6086518",
+        "articleTitle": "Cache Impacts of Datatype Acceleration",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "21",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Cache Impacts of Datatype Acceleration",
+        "authors": [
+            {
+                "id": 38247591000,
+                "preferredName": "Lisa Wu",
+                "firstName": "Lisa",
+                "lastName": "Wu"
+            },
+            {
+                "id": 38247747700,
+                "preferredName": "Martha Kim",
+                "firstName": "Martha",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37292689900,
+                "preferredName": "Stephen Edwards",
+                "firstName": "Stephen",
+                "lastName": "Edwards"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.17",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6216394",
+        "articleTitle": "IEEE Computer Society [Back cover]",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "c4",
+        "endPage": "c4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "IEEE Computer Society [Back cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.15",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6216387",
+        "articleTitle": "[Cover2]",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "c2",
+        "endPage": "c2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Cover2]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.13",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6216391",
+        "articleTitle": "Advertisement - Conference Publishing Services (CPS)",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "28",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "Advertisement - Conference Publishing Services (CPS)",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.16",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6216393",
+        "articleTitle": "[Cover3]",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "c3",
+        "endPage": "c3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Cover3]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.14",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6216386",
+        "articleTitle": "[Front cover and table of contents]",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Front cover and table of contents]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.36",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6376057",
+        "articleTitle": "[Front inside cover]",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "c2",
+        "endPage": "c2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Front inside cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.38",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6376059",
+        "articleTitle": "[Back cover]",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "c4",
+        "endPage": "c4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Back cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.19",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6216389",
+        "articleTitle": "There now is a quick and easy way to find out about our collection of Transactions [Advertisement]",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "26",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "There now is a quick and easy way to find out about our collection of Transactions [Advertisement]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.37",
+        "publicationYear": "2012",
+        "publicationDate": "July-Dec. 2012",
+        "articleNumber": "6376058",
+        "articleTitle": "[Back inside cover]",
+        "volume": "11",
+        "issue": "2",
+        "startPage": "c3",
+        "endPage": "c3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "[Back inside cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.12",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6216388",
+        "articleTitle": "2011 Reviewers List",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "25",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "2011 Reviewers List",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10208",
+        "doi": "10.1109/L-CA.2012.11",
+        "publicationYear": "2012",
+        "publicationDate": "Jan.-June 2012",
+        "articleNumber": "6216392",
+        "articleTitle": "2011 Annual Index",
+        "volume": "11",
+        "issue": "1",
+        "startPage": "3 pp",
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Journals",
+        "articleContentType": "Journals",
+        "publicationTitle": "IEEE Computer Architecture Letters",
+        "highlightedTitle": "2011 Annual Index",
+        "authors": []
+    }
+]

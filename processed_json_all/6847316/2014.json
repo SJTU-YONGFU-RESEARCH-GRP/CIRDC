@@ -1,0 +1,2280 @@
+[
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853195",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853195",
+        "articleTitle": "A reconfigurable fabric for accelerating large-scale datacenter services",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A reconfigurable fabric for accelerating large-scale datacenter services",
+        "authors": [
+            {
+                "id": 37662421500,
+                "preferredName": "Andrew Putnam",
+                "firstName": "Andrew",
+                "lastName": "Putnam"
+            },
+            {
+                "id": 37397927800,
+                "preferredName": "Adrian M. Caulfield",
+                "firstName": "Adrian M.",
+                "lastName": "Caulfield"
+            },
+            {
+                "id": 38261204300,
+                "preferredName": "Eric S. Chung",
+                "firstName": "Eric S.",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37369427000,
+                "preferredName": "Derek Chiou",
+                "firstName": "Derek",
+                "lastName": "Chiou"
+            },
+            {
+                "id": 37298045400,
+                "preferredName": "Kypros Constantinides",
+                "firstName": "Kypros",
+                "lastName": "Constantinides"
+            },
+            {
+                "id": 38266789300,
+                "preferredName": "John Demme",
+                "firstName": "John",
+                "lastName": "Demme"
+            },
+            {
+                "id": 37267164000,
+                "preferredName": "Hadi Esmaeilzadeh",
+                "firstName": "Hadi",
+                "lastName": "Esmaeilzadeh"
+            },
+            {
+                "id": 37071963500,
+                "preferredName": "Jeremy Fowers",
+                "firstName": "Jeremy",
+                "lastName": "Fowers"
+            },
+            {
+                "id": 37085675658,
+                "preferredName": "Gopi Prashanth Gopal",
+                "firstName": "Gopi Prashanth",
+                "lastName": "Gopal"
+            },
+            {
+                "id": 37085664583,
+                "preferredName": "Jan Gray",
+                "firstName": "Jan",
+                "lastName": "Gray"
+            },
+            {
+                "id": 37397600100,
+                "preferredName": "Michael Haselman",
+                "firstName": "Michael",
+                "lastName": "Haselman"
+            },
+            {
+                "id": 37265522000,
+                "preferredName": "Scott Hauck",
+                "firstName": "Scott",
+                "lastName": "Hauck"
+            },
+            {
+                "id": 37085658755,
+                "preferredName": "Stephen Heil",
+                "firstName": "Stephen",
+                "lastName": "Heil"
+            },
+            {
+                "id": 37297967100,
+                "preferredName": "Amir Hormati",
+                "firstName": "Amir",
+                "lastName": "Hormati"
+            },
+            {
+                "id": 37293477800,
+                "preferredName": "Joo-Young Kim",
+                "firstName": "Joo-Young",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085660231,
+                "preferredName": "Sitaram Lanka",
+                "firstName": "Sitaram",
+                "lastName": "Lanka"
+            },
+            {
+                "id": 37295760500,
+                "preferredName": "James Larus",
+                "firstName": "James",
+                "lastName": "Larus"
+            },
+            {
+                "id": 37085676096,
+                "preferredName": "Eric Peterson",
+                "firstName": "Eric",
+                "lastName": "Peterson"
+            },
+            {
+                "id": 37085675438,
+                "preferredName": "Simon Pope",
+                "firstName": "Simon",
+                "lastName": "Pope"
+            },
+            {
+                "id": 37383607500,
+                "preferredName": "Aaron Smith",
+                "firstName": "Aaron",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37543647900,
+                "preferredName": "Jason Thong",
+                "firstName": "Jason",
+                "lastName": "Thong"
+            },
+            {
+                "id": 37085663233,
+                "preferredName": "Phillip Yi Xiao",
+                "firstName": "Phillip Yi",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37282750500,
+                "preferredName": "Doug Burger",
+                "firstName": "Doug",
+                "lastName": "Burger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853210",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853210",
+        "articleTitle": "Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors",
+        "volume": null,
+        "issue": null,
+        "startPage": "361",
+        "endPage": "372",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Flipping bits in memory without accessing them: An experimental study of DRAM disturbance errors",
+        "authors": [
+            {
+                "id": 38264075800,
+                "preferredName": "Yoongu Kim",
+                "firstName": "Yoongu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086685772,
+                "preferredName": "Ross Daly",
+                "firstName": "Ross",
+                "lastName": "Daly"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie Kim",
+                "firstName": "Jeremie",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38075797600,
+                "preferredName": "Chris Fallin",
+                "firstName": "Chris",
+                "lastName": "Fallin"
+            },
+            {
+                "id": 37086685041,
+                "preferredName": "Ji Hye Lee",
+                "firstName": "Ji Hye",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38263905800,
+                "preferredName": "Donghyuk Lee",
+                "firstName": "Donghyuk",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37392830600,
+                "preferredName": "Chris Wilkerson",
+                "firstName": "Chris",
+                "lastName": "Wilkerson"
+            },
+            {
+                "id": 37280013100,
+                "preferredName": "Konrad Lai",
+                "firstName": "Konrad",
+                "lastName": "Lai"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853222",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853222",
+        "articleTitle": "Memory persistency",
+        "volume": null,
+        "issue": null,
+        "startPage": "265",
+        "endPage": "276",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Memory persistency",
+        "authors": [
+            {
+                "id": 37085648920,
+                "preferredName": "Steven Pelley",
+                "firstName": "Steven",
+                "lastName": "Pelley"
+            },
+            {
+                "id": 37351313500,
+                "preferredName": "Peter M. Chen",
+                "firstName": "Peter M.",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37395315400,
+                "preferredName": "Thomas F. Wenisch",
+                "firstName": "Thomas F.",
+                "lastName": "Wenisch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853237",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853237",
+        "articleTitle": "Towards energy proportionality for large-scale latency-critical workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "301",
+        "endPage": "312",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Towards energy proportionality for large-scale latency-critical workloads",
+        "authors": [
+            {
+                "id": 37399959800,
+                "preferredName": "David Lo",
+                "firstName": "David",
+                "lastName": "Lo"
+            },
+            {
+                "id": 37085757798,
+                "preferredName": "Liqun Cheng",
+                "firstName": "Liqun",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37085755756,
+                "preferredName": "Rama Govindaraju",
+                "firstName": "Rama",
+                "lastName": "Govindaraju"
+            },
+            {
+                "id": 37432447300,
+                "preferredName": "Luiz Andr\u00e9 Barroso",
+                "firstName": "Luiz Andr\u00e9",
+                "lastName": "Barroso"
+            },
+            {
+                "id": 37282352700,
+                "preferredName": "Christos Kozyrakis",
+                "firstName": "Christos",
+                "lastName": "Kozyrakis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853201",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853201",
+        "articleTitle": "The CHERI capability model: Revisiting RISC in an age of risk",
+        "volume": null,
+        "issue": null,
+        "startPage": "457",
+        "endPage": "468",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "The CHERI capability model: Revisiting RISC in an age of risk",
+        "authors": [
+            {
+                "id": 37078418900,
+                "preferredName": "Jonathan Woodruff",
+                "firstName": "Jonathan",
+                "lastName": "Woodruff"
+            },
+            {
+                "id": 38599422600,
+                "preferredName": "Robert N. M. Watson",
+                "firstName": "Robert N. M.",
+                "lastName": "Watson"
+            },
+            {
+                "id": 38054233700,
+                "preferredName": "David Chisnall",
+                "firstName": "David",
+                "lastName": "Chisnall"
+            },
+            {
+                "id": 37276662100,
+                "preferredName": "Simon W. Moore",
+                "firstName": "Simon W.",
+                "lastName": "Moore"
+            },
+            {
+                "id": 37897102800,
+                "preferredName": "Jonathan Anderson",
+                "firstName": "Jonathan",
+                "lastName": "Anderson"
+            },
+            {
+                "id": 37085409750,
+                "preferredName": "Brooks Davis",
+                "firstName": "Brooks",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37973790300,
+                "preferredName": "Ben Laurie",
+                "firstName": "Ben",
+                "lastName": "Laurie"
+            },
+            {
+                "id": 37320625200,
+                "preferredName": "Peter G. Neumann",
+                "firstName": "Peter G.",
+                "lastName": "Neumann"
+            },
+            {
+                "id": 37085423380,
+                "preferredName": "Robert Norton",
+                "firstName": "Robert",
+                "lastName": "Norton"
+            },
+            {
+                "id": 37436226000,
+                "preferredName": "Michael Roe",
+                "firstName": "Michael",
+                "lastName": "Roe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853208",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853208",
+        "articleTitle": "Enabling preemptive multiprogramming on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "193",
+        "endPage": "204",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Enabling preemptive multiprogramming on GPUs",
+        "authors": [
+            {
+                "id": 37086755304,
+                "preferredName": "Ivan Tanasic",
+                "firstName": "Ivan",
+                "lastName": "Tanasic"
+            },
+            {
+                "id": 37540403500,
+                "preferredName": "Isaac Gelado",
+                "firstName": "Isaac",
+                "lastName": "Gelado"
+            },
+            {
+                "id": 38274918000,
+                "preferredName": "Javier Cabezas",
+                "firstName": "Javier",
+                "lastName": "Cabezas"
+            },
+            {
+                "id": 37275843200,
+                "preferredName": "Alex Ramirez",
+                "firstName": "Alex",
+                "lastName": "Ramirez"
+            },
+            {
+                "id": 37444137400,
+                "preferredName": "Nacho Navarro",
+                "firstName": "Nacho",
+                "lastName": "Navarro"
+            },
+            {
+                "id": 37265842600,
+                "preferredName": "Mateo Valero",
+                "firstName": "Mateo",
+                "lastName": "Valero"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853213",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853213",
+        "articleTitle": "General-purpose code acceleration with limited-precision analog computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "505",
+        "endPage": "516",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "General-purpose code acceleration with limited-precision analog computation",
+        "authors": [
+            {
+                "id": 38480713000,
+                "preferredName": "Ren\u00e9e St. Amant",
+                "firstName": "Ren\u00e9e St.",
+                "lastName": "Amant"
+            },
+            {
+                "id": 37541728900,
+                "preferredName": "Amir Yazdanbakhsh",
+                "firstName": "Amir",
+                "lastName": "Yazdanbakhsh"
+            },
+            {
+                "id": 37085569167,
+                "preferredName": "Jongse Park",
+                "firstName": "Jongse",
+                "lastName": "Park"
+            },
+            {
+                "id": 37085572876,
+                "preferredName": "Bradley Thwaites",
+                "firstName": "Bradley",
+                "lastName": "Thwaites"
+            },
+            {
+                "id": 37267164000,
+                "preferredName": "Hadi Esmaeilzadeh",
+                "firstName": "Hadi",
+                "lastName": "Esmaeilzadeh"
+            },
+            {
+                "id": 37295059600,
+                "preferredName": "Arjang Hassibi",
+                "firstName": "Arjang",
+                "lastName": "Hassibi"
+            },
+            {
+                "id": 37297956900,
+                "preferredName": "Luis Ceze",
+                "firstName": "Luis",
+                "lastName": "Ceze"
+            },
+            {
+                "id": 37282750500,
+                "preferredName": "Doug Burger",
+                "firstName": "Doug",
+                "lastName": "Burger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853196",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853196",
+        "articleTitle": "Aladdin: A pre-RTL, power-performance accelerator simulator enabling large design space exploration of customized architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "97",
+        "endPage": "108",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Aladdin: A pre-RTL, power-performance accelerator simulator enabling large design space exploration of customized architectures",
+        "authors": [
+            {
+                "id": 37070947100,
+                "preferredName": "Yakun Sophia Shao",
+                "firstName": "Yakun Sophia",
+                "lastName": "Shao"
+            },
+            {
+                "id": 37076157700,
+                "preferredName": "Brandon Reagen",
+                "firstName": "Brandon",
+                "lastName": "Reagen"
+            },
+            {
+                "id": 37281335300,
+                "preferredName": "Gu-Yeon Wei",
+                "firstName": "Gu-Yeon",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37279380700,
+                "preferredName": "David Brooks",
+                "firstName": "David",
+                "lastName": "Brooks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853227",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853227",
+        "articleTitle": "Real-world design and evaluation of compiler-managed GPU redundant multithreading",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Real-world design and evaluation of compiler-managed GPU redundant multithreading",
+        "authors": [
+            {
+                "id": 37085709500,
+                "preferredName": "Jack Wadden",
+                "firstName": "Jack",
+                "lastName": "Wadden"
+            },
+            {
+                "id": 37085435240,
+                "preferredName": "Alexander Lyashevsky",
+                "firstName": "Alexander",
+                "lastName": "Lyashevsky"
+            },
+            {
+                "id": 37282414100,
+                "preferredName": "Sudhanva Gurumurthi",
+                "firstName": "Sudhanva",
+                "lastName": "Gurumurthi"
+            },
+            {
+                "id": 37428556000,
+                "preferredName": "Vilas Sridharan",
+                "firstName": "Vilas",
+                "lastName": "Sridharan"
+            },
+            {
+                "id": 37273724700,
+                "preferredName": "Kevin Skadron",
+                "firstName": "Kevin",
+                "lastName": "Skadron"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853218",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853218",
+        "articleTitle": "Harnessing ISA diversity: Design of a heterogeneous-ISA chip multiprocessor",
+        "volume": null,
+        "issue": null,
+        "startPage": "121",
+        "endPage": "132",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Harnessing ISA diversity: Design of a heterogeneous-ISA chip multiprocessor",
+        "authors": [
+            {
+                "id": 37086358629,
+                "preferredName": "Ashish Venkat",
+                "firstName": "Ashish",
+                "lastName": "Venkat"
+            },
+            {
+                "id": 37282355800,
+                "preferredName": "Dean M. Tullsen",
+                "firstName": "Dean M.",
+                "lastName": "Tullsen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853199",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853199",
+        "articleTitle": "Architecture implications of pads as a scarce resource",
+        "volume": null,
+        "issue": null,
+        "startPage": "373",
+        "endPage": "384",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Architecture implications of pads as a scarce resource",
+        "authors": [
+            {
+                "id": 38529261700,
+                "preferredName": "Runjie Zhang",
+                "firstName": "Runjie",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085411819,
+                "preferredName": "Ke Wang",
+                "firstName": "Ke",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37410787800,
+                "preferredName": "Brett H. Meyer",
+                "firstName": "Brett H.",
+                "lastName": "Meyer"
+            },
+            {
+                "id": 37272355600,
+                "preferredName": "Mircea R. Stan",
+                "firstName": "Mircea R.",
+                "lastName": "Stan"
+            },
+            {
+                "id": 37273724700,
+                "preferredName": "Kevin Skadron",
+                "firstName": "Kevin",
+                "lastName": "Skadron"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853204",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853204",
+        "articleTitle": "The Dirty-Block Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "157",
+        "endPage": "168",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "The Dirty-Block Index",
+        "authors": [
+            {
+                "id": 38267348700,
+                "preferredName": "Vivek Seshadri",
+                "firstName": "Vivek",
+                "lastName": "Seshadri"
+            },
+            {
+                "id": 37089046558,
+                "preferredName": "Abhishek Bhowmick",
+                "firstName": "Abhishek",
+                "lastName": "Bhowmick"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37282940400,
+                "preferredName": "Phillip B. Gibbons",
+                "firstName": "Phillip B.",
+                "lastName": "Gibbons"
+            },
+            {
+                "id": 38185080900,
+                "preferredName": "Michael A. Kozuch",
+                "firstName": "Michael A.",
+                "lastName": "Kozuch"
+            },
+            {
+                "id": 37282940800,
+                "preferredName": "Todd C. Mowry",
+                "firstName": "Todd C.",
+                "lastName": "Mowry"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853207",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853207",
+        "articleTitle": "Eliminating redundant fragment shader executions on a mobile GPU via hardware memoization",
+        "volume": null,
+        "issue": null,
+        "startPage": "529",
+        "endPage": "540",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Eliminating redundant fragment shader executions on a mobile GPU via hardware memoization",
+        "authors": [
+            {
+                "id": 38261033900,
+                "preferredName": "Jose-Maria Arnau",
+                "firstName": "Jose-Maria",
+                "lastName": "Arnau"
+            },
+            {
+                "id": 37274195900,
+                "preferredName": "Joan-Manuel Parcerisa",
+                "firstName": "Joan-Manuel",
+                "lastName": "Parcerisa"
+            },
+            {
+                "id": 37267087900,
+                "preferredName": "Polychronis Xekalakis",
+                "firstName": "Polychronis",
+                "lastName": "Xekalakis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853232",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853232",
+        "articleTitle": "SCORPIO: A 36-core research chip demonstrating snoopy coherence on a scalable mesh NoC with in-network ordering",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SCORPIO: A 36-core research chip demonstrating snoopy coherence on a scalable mesh NoC with in-network ordering",
+        "authors": [
+            {
+                "id": 38466677300,
+                "preferredName": "Bhavya K. Daya",
+                "firstName": "Bhavya K.",
+                "lastName": "Daya"
+            },
+            {
+                "id": 37539294500,
+                "preferredName": "Chia-Hsin Owen Chen",
+                "firstName": "Chia-Hsin Owen",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085815011,
+                "preferredName": "Suvinay Subramanian",
+                "firstName": "Suvinay",
+                "lastName": "Subramanian"
+            },
+            {
+                "id": 37061127700,
+                "preferredName": "Woo-Cheol Kwon",
+                "firstName": "Woo-Cheol",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 38240842100,
+                "preferredName": "Sunghyun Park",
+                "firstName": "Sunghyun",
+                "lastName": "Park"
+            },
+            {
+                "id": 37540652000,
+                "preferredName": "Tushar Krishna",
+                "firstName": "Tushar",
+                "lastName": "Krishna"
+            },
+            {
+                "id": 37089129155,
+                "preferredName": "Jim Holt",
+                "firstName": "Jim",
+                "lastName": "Holt"
+            },
+            {
+                "id": 37269179400,
+                "preferredName": "Anantha P. Chandrakasan",
+                "firstName": "Anantha P.",
+                "lastName": "Chandrakasan"
+            },
+            {
+                "id": 37274794400,
+                "preferredName": "Li-Shiuan Peh",
+                "firstName": "Li-Shiuan",
+                "lastName": "Peh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853212",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853212",
+        "articleTitle": "GangES: Gang error simulation for hardware resiliency evaluation",
+        "volume": null,
+        "issue": null,
+        "startPage": "61",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "GangES: Gang error simulation for hardware resiliency evaluation",
+        "authors": [
+            {
+                "id": 38192250000,
+                "preferredName": "Siva Kumar Sastry Hari",
+                "firstName": "Siva Kumar Sastry",
+                "lastName": "Hari"
+            },
+            {
+                "id": 37085903493,
+                "preferredName": "Radha Venkatagiri",
+                "firstName": "Radha",
+                "lastName": "Venkatagiri"
+            },
+            {
+                "id": 37275579100,
+                "preferredName": "Sarita V. Adve",
+                "firstName": "Sarita V.",
+                "lastName": "Adve"
+            },
+            {
+                "id": 37265548200,
+                "preferredName": "Helia Naeimi",
+                "firstName": "Helia",
+                "lastName": "Naeimi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853224",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853224",
+        "articleTitle": "Optimizing virtual machine consolidation performance on NUMA server architecture for cloud workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "325",
+        "endPage": "336",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Optimizing virtual machine consolidation performance on NUMA server architecture for cloud workloads",
+        "authors": [
+            {
+                "id": 37085367888,
+                "preferredName": "Ming Liu",
+                "firstName": "Ming",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37539272900,
+                "preferredName": "Tao Li",
+                "firstName": "Tao",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853226",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853226",
+        "articleTitle": "Race Logic: A hardware acceleration for dynamic programming algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "517",
+        "endPage": "528",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Race Logic: A hardware acceleration for dynamic programming algorithms",
+        "authors": [
+            {
+                "id": 38529297900,
+                "preferredName": "Advait Madhavan",
+                "firstName": "Advait",
+                "lastName": "Madhavan"
+            },
+            {
+                "id": 37283546900,
+                "preferredName": "Timothy Sherwood",
+                "firstName": "Timothy",
+                "lastName": "Sherwood"
+            },
+            {
+                "id": 37295154200,
+                "preferredName": "Dmitri Strukov",
+                "firstName": "Dmitri",
+                "lastName": "Strukov"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853239",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853239",
+        "articleTitle": "WebCore: Architectural support for mobile Web browsing",
+        "volume": null,
+        "issue": null,
+        "startPage": "541",
+        "endPage": "552",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "WebCore: Architectural support for mobile Web browsing",
+        "authors": [
+            {
+                "id": 37086433612,
+                "preferredName": "Yuhao Zhu",
+                "firstName": "Yuhao",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37293801200,
+                "preferredName": "Vijay Janapa Reddi",
+                "firstName": "Vijay Janapa",
+                "lastName": "Reddi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853238",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853238",
+        "articleTitle": "Unifying on-chip and inter-node switching within the Anton 2 network",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Unifying on-chip and inter-node switching within the Anton 2 network",
+        "authors": [
+            {
+                "id": 37331426900,
+                "preferredName": "Brian Towles",
+                "firstName": "Brian",
+                "lastName": "Towles"
+            },
+            {
+                "id": 37585891900,
+                "preferredName": "J.P. Grossman",
+                "firstName": "J.P.",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 37298399500,
+                "preferredName": "Brian Greskamp",
+                "firstName": "Brian",
+                "lastName": "Greskamp"
+            },
+            {
+                "id": 37400628000,
+                "preferredName": "David E. Shaw",
+                "firstName": "David E.",
+                "lastName": "Shaw"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853217",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853217",
+        "articleTitle": "Half-DRAM: A high-bandwidth and low-power DRAM architecture from the rethinking of fine-grained activation",
+        "volume": null,
+        "issue": null,
+        "startPage": "349",
+        "endPage": "360",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Half-DRAM: A high-bandwidth and low-power DRAM architecture from the rethinking of fine-grained activation",
+        "authors": [
+            {
+                "id": 37089732829,
+                "preferredName": "Tao Zhang",
+                "firstName": "Tao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086671875,
+                "preferredName": "Ke Chen",
+                "firstName": "Ke",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37536480900,
+                "preferredName": "Cong Xu",
+                "firstName": "Cong",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37404006100,
+                "preferredName": "Guangyu Sun",
+                "firstName": "Guangyu",
+                "lastName": "Sun"
+            },
+            {
+                "id": 38541263100,
+                "preferredName": "Tao Wang",
+                "firstName": "Tao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853194",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853194",
+        "articleTitle": "A low power and reliable charge pump design for Phase Change Memories",
+        "volume": null,
+        "issue": null,
+        "startPage": "397",
+        "endPage": "408",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A low power and reliable charge pump design for Phase Change Memories",
+        "authors": [
+            {
+                "id": 37709668700,
+                "preferredName": "Lei Jiang",
+                "firstName": "Lei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37404433400,
+                "preferredName": "Bo Zhao",
+                "firstName": "Bo",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37280196900,
+                "preferredName": "Jun Yang",
+                "firstName": "Jun",
+                "lastName": "Yang"
+            },
+            {
+                "id": 38183309800,
+                "preferredName": "Youtao Zhang",
+                "firstName": "Youtao",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853236",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853236",
+        "articleTitle": "SynFull: Synthetic traffic models capturing cache coherent behaviour",
+        "volume": null,
+        "issue": null,
+        "startPage": "109",
+        "endPage": "120",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SynFull: Synthetic traffic models capturing cache coherent behaviour",
+        "authors": [
+            {
+                "id": 37085495494,
+                "preferredName": "Mario Badr",
+                "firstName": "Mario",
+                "lastName": "Badr"
+            },
+            {
+                "id": 37391632600,
+                "preferredName": "Natalie Enright Jerger",
+                "firstName": "Natalie Enright",
+                "lastName": "Jerger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853209",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853209",
+        "articleTitle": "Fine-grain task aggregation and coordination on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "181",
+        "endPage": "192",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Fine-grain task aggregation and coordination on GPUs",
+        "authors": [
+            {
+                "id": 37085592103,
+                "preferredName": "Marc S. Orr",
+                "firstName": "Marc S.",
+                "lastName": "Orr"
+            },
+            {
+                "id": 37564441800,
+                "preferredName": "Bradford M. Beckmann",
+                "firstName": "Bradford M.",
+                "lastName": "Beckmann"
+            },
+            {
+                "id": 37282365500,
+                "preferredName": "Steven K. Reinhardt",
+                "firstName": "Steven K.",
+                "lastName": "Reinhardt"
+            },
+            {
+                "id": 37266188300,
+                "preferredName": "David A. Wood",
+                "firstName": "David A.",
+                "lastName": "Wood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853228",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853228",
+        "articleTitle": "Reducing access latency of MLC PCMs through line striping",
+        "volume": null,
+        "issue": null,
+        "startPage": "277",
+        "endPage": "288",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Reducing access latency of MLC PCMs through line striping",
+        "authors": [
+            {
+                "id": 37086307130,
+                "preferredName": "Morteza Hoseinzadeh",
+                "firstName": "Morteza",
+                "lastName": "Hoseinzadeh"
+            },
+            {
+                "id": 37400275000,
+                "preferredName": "Mohammad Arjomand",
+                "firstName": "Mohammad",
+                "lastName": "Arjomand"
+            },
+            {
+                "id": 38270047600,
+                "preferredName": "Hamid Sarbazi-Azad",
+                "firstName": "Hamid",
+                "lastName": "Sarbazi-Azad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853234",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853234",
+        "articleTitle": "Single-graph multiple flows: Energy efficient design alternative for GPGPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "205",
+        "endPage": "216",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Single-graph multiple flows: Energy efficient design alternative for GPGPUs",
+        "authors": [
+            {
+                "id": 37086128632,
+                "preferredName": "Dani Voitsechov",
+                "firstName": "Dani",
+                "lastName": "Voitsechov"
+            },
+            {
+                "id": 37295074800,
+                "preferredName": "Yoav Etsion",
+                "firstName": "Yoav",
+                "lastName": "Etsion"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853231",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853231",
+        "articleTitle": "SC2: A statistical compression cache scheme",
+        "volume": null,
+        "issue": null,
+        "startPage": "145",
+        "endPage": "156",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SC2: A statistical compression cache scheme",
+        "authors": [
+            {
+                "id": 37085529169,
+                "preferredName": "Angelos Arelakis",
+                "firstName": "Angelos",
+                "lastName": "Arelakis"
+            },
+            {
+                "id": 37297953700,
+                "preferredName": "Per Stenstrom",
+                "firstName": "Per",
+                "lastName": "Stenstrom"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853233",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853233",
+        "articleTitle": "STAG: Spintronic-Tape Architecture for GPGPU cache hierarchies",
+        "volume": null,
+        "issue": null,
+        "startPage": "253",
+        "endPage": "264",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "STAG: Spintronic-Tape Architecture for GPGPU cache hierarchies",
+        "authors": [
+            {
+                "id": 37722193100,
+                "preferredName": "Rangharajan Venkatesan",
+                "firstName": "Rangharajan",
+                "lastName": "Venkatesan"
+            },
+            {
+                "id": 37071457000,
+                "preferredName": "Shankar Ganesh Ramasubramanian",
+                "firstName": "Shankar Ganesh",
+                "lastName": "Ramasubramanian"
+            },
+            {
+                "id": 38466410600,
+                "preferredName": "Swagath Venkataramani",
+                "firstName": "Swagath",
+                "lastName": "Venkataramani"
+            },
+            {
+                "id": 37274519700,
+                "preferredName": "Kaushik Roy",
+                "firstName": "Kaushik",
+                "lastName": "Roy"
+            },
+            {
+                "id": 37275475300,
+                "preferredName": "Anand Raghunathan",
+                "firstName": "Anand",
+                "lastName": "Raghunathan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853214",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853214",
+        "articleTitle": "Going vertical in memory management: Handling multiplicity by multi-policy",
+        "volume": null,
+        "issue": null,
+        "startPage": "169",
+        "endPage": "180",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Going vertical in memory management: Handling multiplicity by multi-policy",
+        "authors": [
+            {
+                "id": 37089393574,
+                "preferredName": "Lei Liu",
+                "firstName": "Lei",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38240266300,
+                "preferredName": "Yong Li",
+                "firstName": "Yong",
+                "lastName": "Li"
+            },
+            {
+                "id": 37903999100,
+                "preferredName": "Zehan Cui",
+                "firstName": "Zehan",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37399184900,
+                "preferredName": "Yungang Bao",
+                "firstName": "Yungang",
+                "lastName": "Bao"
+            },
+            {
+                "id": 37407023400,
+                "preferredName": "Mingyu Chen",
+                "firstName": "Mingyu",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37692826400,
+                "preferredName": "Chengyong Wu",
+                "firstName": "Chengyong",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853230",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853230",
+        "articleTitle": "Row-buffer decoupling: A case for low-latency DRAM microarchitecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "337",
+        "endPage": "348",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Row-buffer decoupling: A case for low-latency DRAM microarchitecture",
+        "authors": [
+            {
+                "id": 37085354504,
+                "preferredName": "O. Seongil",
+                "firstName": "O.",
+                "lastName": "Seongil"
+            },
+            {
+                "id": 37085360811,
+                "preferredName": "Young Hoon Son",
+                "firstName": "Young Hoon",
+                "lastName": "Son"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37673865600,
+                "preferredName": "Jung Ho Ahn",
+                "firstName": "Jung Ho",
+                "lastName": "Ahn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853216",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853216",
+        "articleTitle": "HIOS: A host interface I/O scheduler for Solid State Disks",
+        "volume": null,
+        "issue": null,
+        "startPage": "289",
+        "endPage": "300",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "HIOS: A host interface I/O scheduler for Solid State Disks",
+        "authors": [
+            {
+                "id": 37085684877,
+                "preferredName": "Myoungsoo Jung",
+                "firstName": "Myoungsoo",
+                "lastName": "Jung"
+            },
+            {
+                "id": 37086234138,
+                "preferredName": "Wonil Choi",
+                "firstName": "Wonil",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37599903400,
+                "preferredName": "Shekhar Srikantaiah",
+                "firstName": "Shekhar",
+                "lastName": "Srikantaiah"
+            },
+            {
+                "id": 38244280800,
+                "preferredName": "Joonhyuk Yoo",
+                "firstName": "Joonhyuk",
+                "lastName": "Yoo"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut T. Kandemir",
+                "firstName": "Mahmut T.",
+                "lastName": "Kandemir"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853219",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853219",
+        "articleTitle": "Improving the energy efficiency of Big Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "493",
+        "endPage": "504",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Improving the energy efficiency of Big Cores",
+        "authors": [
+            {
+                "id": 38469004900,
+                "preferredName": "Kenneth Czechowski",
+                "firstName": "Kenneth",
+                "lastName": "Czechowski"
+            },
+            {
+                "id": 37390972100,
+                "preferredName": "Victor W. Lee",
+                "firstName": "Victor W.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37273922600,
+                "preferredName": "Ed Grochowski",
+                "firstName": "Ed",
+                "lastName": "Grochowski"
+            },
+            {
+                "id": 37273932800,
+                "preferredName": "Ronny Ronen",
+                "firstName": "Ronny",
+                "lastName": "Ronen"
+            },
+            {
+                "id": 37085775627,
+                "preferredName": "Ronak Singhal",
+                "firstName": "Ronak",
+                "lastName": "Singhal"
+            },
+            {
+                "id": 37281842800,
+                "preferredName": "Richard Vuduc",
+                "firstName": "Richard",
+                "lastName": "Vuduc"
+            },
+            {
+                "id": 37356156800,
+                "preferredName": "Pradeep Dubey",
+                "firstName": "Pradeep",
+                "lastName": "Dubey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853200",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853200",
+        "articleTitle": "Avoiding core's DUE & SDC via acoustic wave detectors and tailored error containment and recovery",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Avoiding core's DUE & SDC via acoustic wave detectors and tailored error containment and recovery",
+        "authors": [
+            {
+                "id": 38259708000,
+                "preferredName": "Gaurang Upasani",
+                "firstName": "Gaurang",
+                "lastName": "Upasani"
+            },
+            {
+                "id": 37331641200,
+                "preferredName": "Xavier Vera",
+                "firstName": "Xavier",
+                "lastName": "Vera"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "Antonio Gonz\u00e1lez",
+                "firstName": "Antonio",
+                "lastName": "Gonz\u00e1lez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853197",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853197",
+        "articleTitle": "An examination of the architecture and system-level tradeoffs of employing steep slope devices in 3D CMPs",
+        "volume": null,
+        "issue": null,
+        "startPage": "241",
+        "endPage": "252",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "An examination of the architecture and system-level tradeoffs of employing steep slope devices in 3D CMPs",
+        "authors": [
+            {
+                "id": 37967014100,
+                "preferredName": "Karthik Swaminathan",
+                "firstName": "Karthik",
+                "lastName": "Swaminathan"
+            },
+            {
+                "id": 37350370400,
+                "preferredName": "Huichu Liu",
+                "firstName": "Huichu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37420427300,
+                "preferredName": "Jack Sampson",
+                "firstName": "Jack",
+                "lastName": "Sampson"
+            },
+            {
+                "id": 37273383200,
+                "preferredName": "Vijaykrishnan Narayanan",
+                "firstName": "Vijaykrishnan",
+                "lastName": "Narayanan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853235",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853235",
+        "articleTitle": "SleepScale: Runtime joint speed scaling and sleep states management for power efficient data centers",
+        "volume": null,
+        "issue": null,
+        "startPage": "313",
+        "endPage": "324",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SleepScale: Runtime joint speed scaling and sleep states management for power efficient data centers",
+        "authors": [
+            {
+                "id": 38066046700,
+                "preferredName": "Yanpei Liu",
+                "firstName": "Yanpei",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37265283000,
+                "preferredName": "Stark C. Draper",
+                "firstName": "Stark C.",
+                "lastName": "Draper"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853198",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853198",
+        "articleTitle": "ArchRanker: A ranking approach to design space exploration",
+        "volume": null,
+        "issue": null,
+        "startPage": "85",
+        "endPage": "96",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ArchRanker: A ranking approach to design space exploration",
+        "authors": [
+            {
+                "id": 37402474000,
+                "preferredName": "Tianshi Chen",
+                "firstName": "Tianshi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37306644400,
+                "preferredName": "Qi Guo",
+                "firstName": "Qi",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37402030500,
+                "preferredName": "Ke Tang",
+                "firstName": "Ke",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37282483400,
+                "preferredName": "Olivier Temam",
+                "firstName": "Olivier",
+                "lastName": "Temam"
+            },
+            {
+                "id": 37273450300,
+                "preferredName": "Zhiwei Xu",
+                "firstName": "Zhiwei",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37335606000,
+                "preferredName": "Zhi-Hua Zhou",
+                "firstName": "Zhi-Hua",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37293328300,
+                "preferredName": "Yunji Chen",
+                "firstName": "Yunji",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853202",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853202",
+        "articleTitle": "CODOMs: Protecting software with Code-centric memory Domains",
+        "volume": null,
+        "issue": null,
+        "startPage": "469",
+        "endPage": "480",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "CODOMs: Protecting software with Code-centric memory Domains",
+        "authors": [
+            {
+                "id": 38241468300,
+                "preferredName": "Llu\u00eds Vilanova",
+                "firstName": "Llu\u00eds",
+                "lastName": "Vilanova"
+            },
+            {
+                "id": 38277676100,
+                "preferredName": "Muli Ben-Yehuda",
+                "firstName": "Muli",
+                "lastName": "Ben-Yehuda"
+            },
+            {
+                "id": 37444137400,
+                "preferredName": "Nacho Navarro",
+                "firstName": "Nacho",
+                "lastName": "Navarro"
+            },
+            {
+                "id": 37295074800,
+                "preferredName": "Yoav Etsion",
+                "firstName": "Yoav",
+                "lastName": "Etsion"
+            },
+            {
+                "id": 37265842600,
+                "preferredName": "Mateo Valero",
+                "firstName": "Mateo",
+                "lastName": "Valero"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853206",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853206",
+        "articleTitle": "Efficient digital neurons for large scale cortical architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "229",
+        "endPage": "240",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Efficient digital neurons for large scale cortical architectures",
+        "authors": [
+            {
+                "id": 37277158600,
+                "preferredName": "James E. Smith",
+                "firstName": "James E.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853220",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853220",
+        "articleTitle": "Increasing off-chip bandwidth in multi-core processors with switchable pins",
+        "volume": null,
+        "issue": null,
+        "startPage": "385",
+        "endPage": "396",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Increasing off-chip bandwidth in multi-core processors with switchable pins",
+        "authors": [
+            {
+                "id": 37061020400,
+                "preferredName": "Shaoming Chen",
+                "firstName": "Shaoming",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37896817300,
+                "preferredName": "Yue Hu",
+                "firstName": "Yue",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37899197600,
+                "preferredName": "Ying Zhang",
+                "firstName": "Ying",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37287417400,
+                "preferredName": "Lu Peng",
+                "firstName": "Lu",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37086204956,
+                "preferredName": "Jesse Ardonne",
+                "firstName": "Jesse",
+                "lastName": "Ardonne"
+            },
+            {
+                "id": 37086199042,
+                "preferredName": "Samuel Irving",
+                "firstName": "Samuel",
+                "lastName": "Irving"
+            },
+            {
+                "id": 37278954100,
+                "preferredName": "Ashok Srivastava",
+                "firstName": "Ashok",
+                "lastName": "Srivastava"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853205",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853205",
+        "articleTitle": "EOLE: Paving the way for an effective implementation of value prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "481",
+        "endPage": "492",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "EOLE: Paving the way for an effective implementation of value prediction",
+        "authors": [
+            {
+                "id": 37085466768,
+                "preferredName": "Arthur Perais",
+                "firstName": "Arthur",
+                "lastName": "Perais"
+            },
+            {
+                "id": 37265543200,
+                "preferredName": "Andr\u00e9 Seznec",
+                "firstName": "Andr\u00e9",
+                "lastName": "Seznec"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853215",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853215",
+        "articleTitle": "HELIX-RC: An architecture-compiler co-design for automatic parallelization of irregular programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "217",
+        "endPage": "228",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "HELIX-RC: An architecture-compiler co-design for automatic parallelization of irregular programs",
+        "authors": [
+            {
+                "id": 37594368300,
+                "preferredName": "Simone Campanoni",
+                "firstName": "Simone",
+                "lastName": "Campanoni"
+            },
+            {
+                "id": 37671357000,
+                "preferredName": "Kevin Brownell",
+                "firstName": "Kevin",
+                "lastName": "Brownell"
+            },
+            {
+                "id": 37594367300,
+                "preferredName": "Svilen Kanev",
+                "firstName": "Svilen",
+                "lastName": "Kanev"
+            },
+            {
+                "id": 37399109800,
+                "preferredName": "Timothy M. Jones",
+                "firstName": "Timothy M.",
+                "lastName": "Jones"
+            },
+            {
+                "id": 37281335300,
+                "preferredName": "Gu-Yeon Wei",
+                "firstName": "Gu-Yeon",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37279380700,
+                "preferredName": "David Brooks",
+                "firstName": "David",
+                "lastName": "Brooks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853229",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853229",
+        "articleTitle": "Replay debugging: Leveraging record and replay for program debugging",
+        "volume": null,
+        "issue": null,
+        "startPage": "455",
+        "endPage": "456",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Replay debugging: Leveraging record and replay for program debugging",
+        "authors": [
+            {
+                "id": 37294502700,
+                "preferredName": "Nima Honarmand",
+                "firstName": "Nima",
+                "lastName": "Honarmand"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853223",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853223",
+        "articleTitle": "OmniOrder: Directory-based conflict serialization of transactions",
+        "volume": null,
+        "issue": null,
+        "startPage": "421",
+        "endPage": "432",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "OmniOrder: Directory-based conflict serialization of transactions",
+        "authors": [
+            {
+                "id": 37060932700,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 38234988200,
+                "preferredName": "Benjamin Sahelices",
+                "firstName": "Benjamin",
+                "lastName": "Sahelices"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853221",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853221",
+        "articleTitle": "MemGuard: A low cost and energy efficient design to support and enhance memory system reliability",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "60",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "MemGuard: A low cost and energy efficient design to support and enhance memory system reliability",
+        "authors": [
+            {
+                "id": 38240285100,
+                "preferredName": "Long Chen",
+                "firstName": "Long",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37279632200,
+                "preferredName": "Zhao Zhang",
+                "firstName": "Zhao",
+                "lastName": "Zhang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853211",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853211",
+        "articleTitle": "Fractal++: Closing the performance gap between fractal and conventional coherence",
+        "volume": null,
+        "issue": null,
+        "startPage": "409",
+        "endPage": "420",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Fractal++: Closing the performance gap between fractal and conventional coherence",
+        "authors": [
+            {
+                "id": 37086718488,
+                "preferredName": "Gwendolyn Voskuilen",
+                "firstName": "Gwendolyn",
+                "lastName": "Voskuilen"
+            },
+            {
+                "id": 37282389000,
+                "preferredName": "T. N. Vijaykumar",
+                "firstName": "T. N.",
+                "lastName": "Vijaykumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853203",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853203",
+        "articleTitle": "Navigating the cache hierarchy with a single lookup",
+        "volume": null,
+        "issue": null,
+        "startPage": "133",
+        "endPage": "144",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Navigating the cache hierarchy with a single lookup",
+        "authors": [
+            {
+                "id": 38233580000,
+                "preferredName": "Andreas Sembrant",
+                "firstName": "Andreas",
+                "lastName": "Sembrant"
+            },
+            {
+                "id": 37281897200,
+                "preferredName": "Erik Hagersten",
+                "firstName": "Erik",
+                "lastName": "Hagersten"
+            },
+            {
+                "id": 38276932600,
+                "preferredName": "David Black-Schaffer",
+                "firstName": "David",
+                "lastName": "Black-Schaffer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853225",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853225",
+        "articleTitle": "Pacifier: Record and replay for relaxed-consistency multiprocessors with distributed directory protocol",
+        "volume": null,
+        "issue": null,
+        "startPage": "433",
+        "endPage": "444",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Pacifier: Record and replay for relaxed-consistency multiprocessors with distributed directory protocol",
+        "authors": [
+            {
+                "id": 37060932700,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 38234988200,
+                "preferredName": "Benjamin Sahelices",
+                "firstName": "Benjamin",
+                "lastName": "Sahelices"
+            },
+            {
+                "id": 37289498500,
+                "preferredName": "Depei Qian",
+                "firstName": "Depei",
+                "lastName": "Qian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853191",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853191",
+        "articleTitle": "ISCA 2014 organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "xii",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ISCA 2014 organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853189",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853189",
+        "articleTitle": "ISCA 2014 program committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiii",
+        "endPage": "xiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ISCA 2014 program committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853193",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853193",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "vii",
+        "endPage": "xi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853190",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853190",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853188",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853188",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "553",
+        "endPage": "554",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6847316",
+        "doi": "10.1109/ISCA.2014.6853192",
+        "publicationYear": "2014",
+        "publicationDate": "14-18 June 2014",
+        "articleNumber": "6853192",
+        "articleTitle": "ISCA 2014 external reviewers",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiv",
+        "endPage": "xv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 ACM/IEEE 41st International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ISCA 2014 external reviewers",
+        "authors": []
+    }
+]

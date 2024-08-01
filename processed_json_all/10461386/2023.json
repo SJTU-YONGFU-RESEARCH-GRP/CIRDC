@@ -1,0 +1,1169 @@
+[
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00032",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461486",
+        "articleTitle": "Vectorized Nonlinear Functions with the RISC-V Vector Extension",
+        "volume": null,
+        "issue": null,
+        "startPage": "127",
+        "endPage": "130",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Vectorized Nonlinear Functions with the RISC-V Vector Extension",
+        "authors": [
+            {
+                "id": 912428006368184,
+                "preferredName": "Eric Bavier",
+                "firstName": "Eric",
+                "lastName": "Bavier"
+            },
+            {
+                "id": 893032396419515,
+                "preferredName": "Nicholas Knight",
+                "firstName": "Nicholas",
+                "lastName": "Knight"
+            },
+            {
+                "id": 37086441871,
+                "preferredName": "Hugues de Lassus Saint-Geni\u00e8s",
+                "firstName": "Hugues",
+                "lastName": "de Lassus Saint-Geni\u00e8s"
+            },
+            {
+                "id": 37306189000,
+                "preferredName": "Eric Love",
+                "firstName": "Eric",
+                "lastName": "Love"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00022",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461475",
+        "articleTitle": "Making Interval Arithmetic Robust to Overflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "44",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Making Interval Arithmetic Robust to Overflow",
+        "authors": [
+            {
+                "id": 37089153006,
+                "preferredName": "Oliver Flatt",
+                "firstName": "Oliver",
+                "lastName": "Flatt"
+            },
+            {
+                "id": 37087231877,
+                "preferredName": "Pavel Panchekha",
+                "firstName": "Pavel",
+                "lastName": "Panchekha"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00035",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461477",
+        "articleTitle": "AI-based Timing Error Modelling: A Case Study on a Pipelined Floating-point Core",
+        "volume": null,
+        "issue": null,
+        "startPage": "110",
+        "endPage": "110",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "AI-based Timing Error Modelling: A Case Study on a Pipelined Floating-point Core",
+        "authors": [
+            {
+                "id": 37089644272,
+                "preferredName": "Styliani Tompazi",
+                "firstName": "Styliani",
+                "lastName": "Tompazi"
+            },
+            {
+                "id": 37545574600,
+                "preferredName": "Georgios Karakonstantis",
+                "firstName": "Georgios",
+                "lastName": "Karakonstantis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00036",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461483",
+        "articleTitle": "Error in ulps of the multiplication or division by a correctly-rounded function or constant in binary floating-point arithmetic",
+        "volume": null,
+        "issue": null,
+        "startPage": "88",
+        "endPage": "88",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Error in ulps of the multiplication or division by a correctly-rounded function or constant in binary floating-point arithmetic",
+        "authors": [
+            {
+                "id": 37283934400,
+                "preferredName": "Nicolas Brisebarre",
+                "firstName": "Nicolas",
+                "lastName": "Brisebarre"
+            },
+            {
+                "id": 566745150506900,
+                "preferredName": "Jean-Michel Muller",
+                "firstName": "Jean-Michel",
+                "lastName": "Muller"
+            },
+            {
+                "id": 37087039515,
+                "preferredName": "Joris Picot",
+                "firstName": "Joris",
+                "lastName": "Picot"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00015",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461485",
+        "articleTitle": "Enhanced Floating-Point Multiply-Add with Full Denormal Support",
+        "volume": null,
+        "issue": null,
+        "startPage": "143",
+        "endPage": "150",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Enhanced Floating-Point Multiply-Add with Full Denormal Support",
+        "authors": [
+            {
+                "id": 38488746600,
+                "preferredName": "Jongwook Sohn",
+                "firstName": "Jongwook",
+                "lastName": "Sohn"
+            },
+            {
+                "id": 37089641658,
+                "preferredName": "David K. Dean",
+                "firstName": "David K.",
+                "lastName": "Dean"
+            },
+            {
+                "id": 37089641726,
+                "preferredName": "Eric Quintana",
+                "firstName": "Eric",
+                "lastName": "Quintana"
+            },
+            {
+                "id": 37089641134,
+                "preferredName": "Wing Shek Wong",
+                "firstName": "Wing Shek",
+                "lastName": "Wong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00037",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461454",
+        "articleTitle": "A multiplier-Free RNS-Based CNN accelerator exploiting bit-Level sparsity",
+        "volume": null,
+        "issue": null,
+        "startPage": "101",
+        "endPage": "101",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "A multiplier-Free RNS-Based CNN accelerator exploiting bit-Level sparsity",
+        "authors": [
+            {
+                "id": 37088901531,
+                "preferredName": "Vasilis Sakellariou",
+                "firstName": "Vasilis",
+                "lastName": "Sakellariou"
+            },
+            {
+                "id": 514206985554878,
+                "preferredName": "Vassilis Paliouras",
+                "firstName": "Vassilis",
+                "lastName": "Paliouras"
+            },
+            {
+                "id": 37330512400,
+                "preferredName": "Ioannis Kouretas",
+                "firstName": "Ioannis",
+                "lastName": "Kouretas"
+            },
+            {
+                "id": 37391220900,
+                "preferredName": "Hani Saleh",
+                "firstName": "Hani",
+                "lastName": "Saleh"
+            },
+            {
+                "id": 38241396900,
+                "preferredName": "Thanos Stouraitis",
+                "firstName": "Thanos",
+                "lastName": "Stouraitis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00017",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461458",
+        "articleTitle": "Extracting low-precision floating-point adders from embedded hard FP DSP Blocks on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "139",
+        "endPage": "142",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Extracting low-precision floating-point adders from embedded hard FP DSP Blocks on FPGAs",
+        "authors": [
+            {
+                "id": 37545456300,
+                "preferredName": "Bogdan Pasca",
+                "firstName": "Bogdan",
+                "lastName": "Pasca"
+            },
+            {
+                "id": 37348413000,
+                "preferredName": "Martin Langhammer",
+                "firstName": "Martin",
+                "lastName": "Langhammer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00030",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461466",
+        "articleTitle": "Using Hierarchical Approach to Speed-up RNS Base Extensions in Homomorphic Encryption Context",
+        "volume": null,
+        "issue": null,
+        "startPage": "84",
+        "endPage": "87",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Using Hierarchical Approach to Speed-up RNS Base Extensions in Homomorphic Encryption Context",
+        "authors": [
+            {
+                "id": 638703903973077,
+                "preferredName": "Morgane Vollmer",
+                "firstName": "Morgane",
+                "lastName": "Vollmer"
+            },
+            {
+                "id": 37085823225,
+                "preferredName": "Karim Bigou",
+                "firstName": "Karim",
+                "lastName": "Bigou"
+            },
+            {
+                "id": 726117197620133,
+                "preferredName": "Arnaud Tisserand",
+                "firstName": "Arnaud",
+                "lastName": "Tisserand"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00027",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461480",
+        "articleTitle": "Testing the Sharpness of Known Error Bounds on the Fast Fourier Transform",
+        "volume": null,
+        "issue": null,
+        "startPage": "89",
+        "endPage": "92",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Testing the Sharpness of Known Error Bounds on the Fast Fourier Transform",
+        "authors": [
+            {
+                "id": 37283934400,
+                "preferredName": "Nicolas Brisebarre",
+                "firstName": "Nicolas",
+                "lastName": "Brisebarre"
+            },
+            {
+                "id": 37276750900,
+                "preferredName": "Jean-Michel Muller",
+                "firstName": "Jean-Michel",
+                "lastName": "Muller"
+            },
+            {
+                "id": 37087039515,
+                "preferredName": "Joris Picot",
+                "firstName": "Joris",
+                "lastName": "Picot"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00026",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461478",
+        "articleTitle": "Slimmer Formal Proofs for Mathematical Libraries",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Slimmer Formal Proofs for Mathematical Libraries",
+        "authors": [
+            {
+                "id": 837848506818495,
+                "preferredName": "Paul Geneau de Lamarli\u00e8re",
+                "firstName": "Paul Geneau",
+                "lastName": "de Lamarli\u00e8re"
+            },
+            {
+                "id": 37419431400,
+                "preferredName": "Guillaume Melquiond",
+                "firstName": "Guillaume",
+                "lastName": "Melquiond"
+            },
+            {
+                "id": 387490164632277,
+                "preferredName": "Florian Faissole",
+                "firstName": "Florian",
+                "lastName": "Faissole"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00012",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461484",
+        "articleTitle": "Chromatic Analysis of Numerical Programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "97",
+        "endPage": "100",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Chromatic Analysis of Numerical Programs",
+        "authors": [
+            {
+                "id": 37659363800,
+                "preferredName": "David Defour",
+                "firstName": "David",
+                "lastName": "Defour"
+            },
+            {
+                "id": 37088830043,
+                "preferredName": "Franck Vedrine",
+                "firstName": "Franck",
+                "lastName": "Vedrine"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00018",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461461",
+        "articleTitle": "Formal Verification of Floating-Point Division",
+        "volume": null,
+        "issue": null,
+        "startPage": "93",
+        "endPage": "96",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Formal Verification of Floating-Point Division",
+        "authors": [
+            {
+                "id": 37397699500,
+                "preferredName": "Ashish Kapoor",
+                "firstName": "Ashish",
+                "lastName": "Kapoor"
+            },
+            {
+                "id": 395444334814441,
+                "preferredName": "Warren Ferguson",
+                "firstName": "Warren",
+                "lastName": "Ferguson"
+            },
+            {
+                "id": 37430458100,
+                "preferredName": "Himanshu Jain",
+                "firstName": "Himanshu",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37087818695,
+                "preferredName": "Sudipta Kundu",
+                "firstName": "Sudipta",
+                "lastName": "Kundu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00016",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461456",
+        "articleTitle": "Exact Fused Dot Product Add Operators",
+        "volume": null,
+        "issue": null,
+        "startPage": "151",
+        "endPage": "158",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Exact Fused Dot Product Add Operators",
+        "authors": [
+            {
+                "id": 37089642742,
+                "preferredName": "Or\u00e9gane Desrentes",
+                "firstName": "Or\u00e9gane",
+                "lastName": "Desrentes"
+            },
+            {
+                "id": 37418535200,
+                "preferredName": "Beno\u00eet Dupont de Dinechin",
+                "firstName": "Beno\u00eet Dupont",
+                "lastName": "de Dinechin"
+            },
+            {
+                "id": 37347508700,
+                "preferredName": "Florent de Dinechin",
+                "firstName": "Florent",
+                "lastName": "de Dinechin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00013",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461476",
+        "articleTitle": "Dual-Purpose Hardware Algorithms and Architectures \u2013 Part 1: Floating-Point Division",
+        "volume": null,
+        "issue": null,
+        "startPage": "24",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Dual-Purpose Hardware Algorithms and Architectures \u2013 Part 1: Floating-Point Division",
+        "authors": [
+            {
+                "id": 37086836751,
+                "preferredName": "Jihee Seo",
+                "firstName": "Jihee",
+                "lastName": "Seo"
+            },
+            {
+                "id": 37085500936,
+                "preferredName": "Dae Hyun Kim",
+                "firstName": "Dae Hyun",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00011",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461465",
+        "articleTitle": "An Efficient Barrett Reduction Algorithm for Gaussian Integer Moduli",
+        "volume": null,
+        "issue": null,
+        "startPage": "76",
+        "endPage": "83",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "An Efficient Barrett Reduction Algorithm for Gaussian Integer Moduli",
+        "authors": [
+            {
+                "id": 37087122172,
+                "preferredName": "Malek Safieh",
+                "firstName": "Malek",
+                "lastName": "Safieh"
+            },
+            {
+                "id": 696469064372090,
+                "preferredName": "Andreas Furch",
+                "firstName": "Andreas",
+                "lastName": "Furch"
+            },
+            {
+                "id": 37544421600,
+                "preferredName": "Fabrizio De Santis",
+                "firstName": "Fabrizio",
+                "lastName": "De Santis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00031",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461481",
+        "articleTitle": "Using loop transformations for precision tuning in iterative programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "159",
+        "endPage": "166",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Using loop transformations for precision tuning in iterative programs",
+        "authors": [
+            {
+                "id": 247403992529249,
+                "preferredName": "Youssef Fakhreddine",
+                "firstName": "Youssef",
+                "lastName": "Fakhreddine"
+            },
+            {
+                "id": 37392294300,
+                "preferredName": "Guillaume Revy",
+                "firstName": "Guillaume",
+                "lastName": "Revy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00028",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461479",
+        "articleTitle": "Towards a correctly-rounded and fast power function in binary64 arithmetic",
+        "volume": null,
+        "issue": null,
+        "startPage": "111",
+        "endPage": "118",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Towards a correctly-rounded and fast power function in binary64 arithmetic",
+        "authors": [
+            {
+                "id": 739398543250318,
+                "preferredName": "Tom Hubrecht",
+                "firstName": "Tom",
+                "lastName": "Hubrecht"
+            },
+            {
+                "id": 37392293500,
+                "preferredName": "Claude-Pierre Jeannerod",
+                "firstName": "Claude-Pierre",
+                "lastName": "Jeannerod"
+            },
+            {
+                "id": 37409471600,
+                "preferredName": "Paul Zimmermann",
+                "firstName": "Paul",
+                "lastName": "Zimmermann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00014",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461487",
+        "articleTitle": "Dual-Purpose Hardware Algorithms and Architectures \u2013 Part 2: Integer Division",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Dual-Purpose Hardware Algorithms and Architectures \u2013 Part 2: Integer Division",
+        "authors": [
+            {
+                "id": 37086836751,
+                "preferredName": "Jihee Seo",
+                "firstName": "Jihee",
+                "lastName": "Seo"
+            },
+            {
+                "id": 37085500936,
+                "preferredName": "Dae Hyun Kim",
+                "firstName": "Dae",
+                "lastName": "Hyun Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00019",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461460",
+        "articleTitle": "Improved Montgomery Multiplication",
+        "volume": null,
+        "issue": null,
+        "startPage": "60",
+        "endPage": "67",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Improved Montgomery Multiplication",
+        "authors": [
+            {
+                "id": 37086366849,
+                "preferredName": "Trenton J. Grale",
+                "firstName": "Trenton J.",
+                "lastName": "Grale"
+            },
+            {
+                "id": 37273356600,
+                "preferredName": "Earl E. Swartzlander",
+                "firstName": "Earl E.",
+                "lastName": "Swartzlander"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00029",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461470",
+        "articleTitle": "Towards Machine-Efficient Rational L\u221e-Approximations of Mathematical Functions",
+        "volume": null,
+        "issue": null,
+        "startPage": "119",
+        "endPage": "126",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Towards Machine-Efficient Rational L\u221e-Approximations of Mathematical Functions",
+        "authors": [
+            {
+                "id": 37283934400,
+                "preferredName": "Nicolas Brisebarre",
+                "firstName": "Nicolas",
+                "lastName": "Brisebarre"
+            },
+            {
+                "id": 37086364481,
+                "preferredName": "Silviu-Ioan Filip",
+                "firstName": "Silviu-Ioan",
+                "lastName": "Filip"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00034",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461468",
+        "articleTitle": "Efficient Additions and Montgomery Reductions of Large Integers for SIMD",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "59",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Efficient Additions and Montgomery Reductions of Large Integers for SIMD",
+        "authors": [
+            {
+                "id": 37089708538,
+                "preferredName": "Pengchang Ren",
+                "firstName": "Pengchang",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37667532400,
+                "preferredName": "Reiji Suda",
+                "firstName": "Reiji",
+                "lastName": "Suda"
+            },
+            {
+                "id": 38468333900,
+                "preferredName": "Vorapong Suppakitpaisarn",
+                "firstName": "Vorapong",
+                "lastName": "Suppakitpaisarn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00024",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461472",
+        "articleTitle": "Newton-Raphson Integer Division for Area-Constrained Microcontrollers",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Newton-Raphson Integer Division for Area-Constrained Microcontrollers",
+        "authors": [
+            {
+                "id": 494823942347096,
+                "preferredName": "Nima Badizadegan",
+                "firstName": "Nima",
+                "lastName": "Badizadegan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00020",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461474",
+        "articleTitle": "Improving Residue-Level Sparsity in RNS-based Neural Network Hardware Accelerators via Regularization",
+        "volume": null,
+        "issue": null,
+        "startPage": "102",
+        "endPage": "109",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Improving Residue-Level Sparsity in RNS-based Neural Network Hardware Accelerators via Regularization",
+        "authors": [
+            {
+                "id": 37086596928,
+                "preferredName": "E. Kavvousanos",
+                "firstName": "E.",
+                "lastName": "Kavvousanos"
+            },
+            {
+                "id": 396846301900437,
+                "preferredName": "V. Sakellariou",
+                "firstName": "V.",
+                "lastName": "Sakellariou"
+            },
+            {
+                "id": 37330512400,
+                "preferredName": "I. Kouretas",
+                "firstName": "I.",
+                "lastName": "Kouretas"
+            },
+            {
+                "id": 37271413400,
+                "preferredName": "V. Paliouras",
+                "firstName": "V.",
+                "lastName": "Paliouras"
+            },
+            {
+                "id": 645301947189627,
+                "preferredName": "T. Stouraitis",
+                "firstName": "T.",
+                "lastName": "Stouraitis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00010",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461482",
+        "articleTitle": "A parallel compensated Horner scheme for SIMD architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "131",
+        "endPage": "138",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "A parallel compensated Horner scheme for SIMD architecture",
+        "authors": [
+            {
+                "id": 37662463300,
+                "preferredName": "Stef Graillat",
+                "firstName": "Stef",
+                "lastName": "Graillat"
+            },
+            {
+                "id": 442737547641441,
+                "preferredName": "Youness Ibrahimy",
+                "firstName": "Youness",
+                "lastName": "Ibrahimy"
+            },
+            {
+                "id": 37086456468,
+                "preferredName": "Clothilde Jeangoudoux",
+                "firstName": "Clothilde",
+                "lastName": "Jeangoudoux"
+            },
+            {
+                "id": 37870257600,
+                "preferredName": "Christoph Lauter",
+                "firstName": "Christoph",
+                "lastName": "Lauter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00021",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461453",
+        "articleTitle": "LAProof: A Library of Formal Proofs of Accuracy and Correctness for Linear Algebra Programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "36",
+        "endPage": "43",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "LAProof: A Library of Formal Proofs of Accuracy and Correctness for Linear Algebra Programs",
+        "authors": [
+            {
+                "id": 288370249967631,
+                "preferredName": "Ariel E. Kellison",
+                "firstName": "Ariel E.",
+                "lastName": "Kellison"
+            },
+            {
+                "id": 210510515203641,
+                "preferredName": "Andrew W. Appel",
+                "firstName": "Andrew W.",
+                "lastName": "Appel"
+            },
+            {
+                "id": 37089708429,
+                "preferredName": "Mohit Tekriwal",
+                "firstName": "Mohit",
+                "lastName": "Tekriwal"
+            },
+            {
+                "id": 37428111400,
+                "preferredName": "David Bindel",
+                "firstName": "David",
+                "lastName": "Bindel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00023",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461455",
+        "articleTitle": "Modulo-(2q \u2212 3) Multiplication with Fully Modular Partial Product Generation and Reduction",
+        "volume": null,
+        "issue": null,
+        "startPage": "68",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Modulo-(2q \u2212 3) Multiplication with Fully Modular Partial Product Generation and Reduction",
+        "authors": [
+            {
+                "id": 37295844900,
+                "preferredName": "Ghassem Jaberipur",
+                "firstName": "Ghassem",
+                "lastName": "Jaberipur"
+            },
+            {
+                "id": 37394246800,
+                "preferredName": "Saeid Gorgin",
+                "firstName": "Saeid",
+                "lastName": "Gorgin"
+            },
+            {
+                "id": 692665103111039,
+                "preferredName": "Navid Ahamadian",
+                "firstName": "Navid",
+                "lastName": "Ahamadian"
+            },
+            {
+                "id": 38185799100,
+                "preferredName": "Jeong-A Lee",
+                "firstName": "Jeong-A",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00025",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461463",
+        "articleTitle": "Scalable architecture of constant division on FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "16",
+        "endPage": "23",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Scalable architecture of constant division on FPGA",
+        "authors": [
+            {
+                "id": 37087050846,
+                "preferredName": "Danila Gorodecky",
+                "firstName": "Danila",
+                "lastName": "Gorodecky"
+            },
+            {
+                "id": 37090069697,
+                "preferredName": "Leonel Sousa",
+                "firstName": "Leonel",
+                "lastName": "Sousa"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00002",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461469",
+        "articleTitle": "Title Page iii",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Title Page iii",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00009",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461473",
+        "articleTitle": "Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "16",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00001",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461459",
+        "articleTitle": "Title Page i",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Title Page i",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00005",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461467",
+        "articleTitle": "Message from the Conference Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Message from the Conference Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00008",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461471",
+        "articleTitle": "Steering Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Steering Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00006",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461452",
+        "articleTitle": "Conference Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Conference Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00003",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461464",
+        "articleTitle": "Copyright Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Copyright Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00033",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461451",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "167",
+        "endPage": "167",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00007",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461457",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10461386",
+        "doi": "10.1109/ARITH58626.2023.00004",
+        "publicationYear": "2023",
+        "publicationDate": "4-6 Sept. 2023",
+        "articleNumber": "10461462",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 IEEE 30th Symposium on Computer Arithmetic (ARITH)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]

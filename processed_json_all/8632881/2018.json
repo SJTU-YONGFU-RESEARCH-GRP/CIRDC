@@ -1,0 +1,508 @@
+[
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00009",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638482",
+        "articleTitle": "Asynchronous Execution of Python Code on Task-Based Runtime Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Asynchronous Execution of Python Code on Task-Based Runtime Systems",
+        "authors": [
+            {
+                "id": 37086637683,
+                "preferredName": "R. Tohid",
+                "firstName": "R.",
+                "lastName": "Tohid"
+            },
+            {
+                "id": 37086427589,
+                "preferredName": "Bibek Wagle",
+                "firstName": "Bibek",
+                "lastName": "Wagle"
+            },
+            {
+                "id": 37086563479,
+                "preferredName": "Shahrzad Shirzad",
+                "firstName": "Shahrzad",
+                "lastName": "Shirzad"
+            },
+            {
+                "id": 37086638244,
+                "preferredName": "Patrick Diehl",
+                "firstName": "Patrick",
+                "lastName": "Diehl"
+            },
+            {
+                "id": 37085622737,
+                "preferredName": "Adrian Serio",
+                "firstName": "Adrian",
+                "lastName": "Serio"
+            },
+            {
+                "id": 37087588603,
+                "preferredName": "Alireza Kheirkhahan",
+                "firstName": "Alireza",
+                "lastName": "Kheirkhahan"
+            },
+            {
+                "id": 37086640863,
+                "preferredName": "Parsa Amini",
+                "firstName": "Parsa",
+                "lastName": "Amini"
+            },
+            {
+                "id": 37086638338,
+                "preferredName": "Katy Williams",
+                "firstName": "Katy",
+                "lastName": "Williams"
+            },
+            {
+                "id": 38490580100,
+                "preferredName": "Kate Isaacs",
+                "firstName": "Kate",
+                "lastName": "Isaacs"
+            },
+            {
+                "id": 37564901500,
+                "preferredName": "Kevin Huck",
+                "firstName": "Kevin",
+                "lastName": "Huck"
+            },
+            {
+                "id": 38001792700,
+                "preferredName": "Steven Brandt",
+                "firstName": "Steven",
+                "lastName": "Brandt"
+            },
+            {
+                "id": 37315412900,
+                "preferredName": "Hartmut Kaiser",
+                "firstName": "Hartmut",
+                "lastName": "Kaiser"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00012",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638481",
+        "articleTitle": "Analysis of Explicit vs. Implicit Tasking in OpenMP Using Kripke",
+        "volume": null,
+        "issue": null,
+        "startPage": "62",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Analysis of Explicit vs. Implicit Tasking in OpenMP Using Kripke",
+        "authors": [
+            {
+                "id": 37086637539,
+                "preferredName": "Charles Jin",
+                "firstName": "Charles",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37394262300,
+                "preferredName": "Muthu Baskaran",
+                "firstName": "Muthu",
+                "lastName": "Baskaran"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00006",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638479",
+        "articleTitle": "Integration of CUDA Processing within the C++ Library for Parallelism and Concurrency (HPX)",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Integration of CUDA Processing within the C++ Library for Parallelism and Concurrency (HPX)",
+        "authors": [
+            {
+                "id": 37086638244,
+                "preferredName": "Patrick Diehl",
+                "firstName": "Patrick",
+                "lastName": "Diehl"
+            },
+            {
+                "id": 37086122952,
+                "preferredName": "Madhavan Seshadri",
+                "firstName": "Madhavan",
+                "lastName": "Seshadri"
+            },
+            {
+                "id": 37948290400,
+                "preferredName": "Thomas Heller",
+                "firstName": "Thomas",
+                "lastName": "Heller"
+            },
+            {
+                "id": 37315412900,
+                "preferredName": "Hartmut Kaiser",
+                "firstName": "Hartmut",
+                "lastName": "Kaiser"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00008",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638483",
+        "articleTitle": "Automatic Generation of High-Order Finite-Difference Code with Temporal Blocking for Extreme-Scale Many-Core Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "29",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Automatic Generation of High-Order Finite-Difference Code with Temporal Blocking for Extreme-Scale Many-Core Systems",
+        "authors": [
+            {
+                "id": 37086637690,
+                "preferredName": "Hideyuki Tanaka",
+                "firstName": "Hideyuki",
+                "lastName": "Tanaka"
+            },
+            {
+                "id": 37086637883,
+                "preferredName": "Youhei Ishihara",
+                "firstName": "Youhei",
+                "lastName": "Ishihara"
+            },
+            {
+                "id": 37086157145,
+                "preferredName": "Ryo Sakamoto",
+                "firstName": "Ryo",
+                "lastName": "Sakamoto"
+            },
+            {
+                "id": 37086640780,
+                "preferredName": "Takashi Nakamura",
+                "firstName": "Takashi",
+                "lastName": "Nakamura"
+            },
+            {
+                "id": 37086637469,
+                "preferredName": "Yasuyuki Kimura",
+                "firstName": "Yasuyuki",
+                "lastName": "Kimura"
+            },
+            {
+                "id": 37604363200,
+                "preferredName": "Keigo Nitadori",
+                "firstName": "Keigo",
+                "lastName": "Nitadori"
+            },
+            {
+                "id": 37086639977,
+                "preferredName": "Miyuki Tsubouchi",
+                "firstName": "Miyuki",
+                "lastName": "Tsubouchi"
+            },
+            {
+                "id": 37086150923,
+                "preferredName": "Jun Makino",
+                "firstName": "Jun",
+                "lastName": "Makino"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00011",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638480",
+        "articleTitle": "Portable and Reusable Deep Learning Infrastructure with Containers to Accelerate Cancer Studies",
+        "volume": null,
+        "issue": null,
+        "startPage": "54",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Portable and Reusable Deep Learning Infrastructure with Containers to Accelerate Cancer Studies",
+        "authors": [
+            {
+                "id": 37394053900,
+                "preferredName": "George F. Zaki",
+                "firstName": "George F.",
+                "lastName": "Zaki"
+            },
+            {
+                "id": 37070064800,
+                "preferredName": "Justin M. Wozniak",
+                "firstName": "Justin M.",
+                "lastName": "Wozniak"
+            },
+            {
+                "id": 38095297300,
+                "preferredName": "Jonathan Ozik",
+                "firstName": "Jonathan",
+                "lastName": "Ozik"
+            },
+            {
+                "id": 38550420200,
+                "preferredName": "Nicholson Collier",
+                "firstName": "Nicholson",
+                "lastName": "Collier"
+            },
+            {
+                "id": 37086617905,
+                "preferredName": "Thomas Brettin",
+                "firstName": "Thomas",
+                "lastName": "Brettin"
+            },
+            {
+                "id": 37268119100,
+                "preferredName": "Rick Stevens",
+                "firstName": "Rick",
+                "lastName": "Stevens"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00010",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638486",
+        "articleTitle": "A Unified Runtime for PGAS and Event-Driven Programming",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "53",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "A Unified Runtime for PGAS and Event-Driven Programming",
+        "authors": [
+            {
+                "id": 37086637514,
+                "preferredName": "Sri Raj Paul",
+                "firstName": "Sri Raj",
+                "lastName": "Paul"
+            },
+            {
+                "id": 37086638339,
+                "preferredName": "Kun Chen",
+                "firstName": "Kun",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085639188,
+                "preferredName": "Akihiro Hayashi",
+                "firstName": "Akihiro",
+                "lastName": "Hayashi"
+            },
+            {
+                "id": 37072316300,
+                "preferredName": "Max Grossman",
+                "firstName": "Max",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 37389286300,
+                "preferredName": "Vivek Sarkar",
+                "firstName": "Vivek",
+                "lastName": "Sarkar"
+            },
+            {
+                "id": 37086640154,
+                "preferredName": "Jason DeVinney",
+                "firstName": "Jason",
+                "lastName": "DeVinney"
+            },
+            {
+                "id": 37086639124,
+                "preferredName": "Bill Carlson",
+                "firstName": "Bill",
+                "lastName": "Carlson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00004",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638485",
+        "articleTitle": "Distributed Memory Futures for Compile-Time, Deterministic-by-Default Concurrency in Distributed C++ Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Distributed Memory Futures for Compile-Time, Deterministic-by-Default Concurrency in Distributed C++ Applications",
+        "authors": [
+            {
+                "id": 37085395858,
+                "preferredName": "Jeremiah J. Wilke",
+                "firstName": "Jeremiah J.",
+                "lastName": "Wilke"
+            },
+            {
+                "id": 37085841576,
+                "preferredName": "David S. Hollman",
+                "firstName": "David S.",
+                "lastName": "Hollman"
+            },
+            {
+                "id": 37087588399,
+                "preferredName": "Cannada Lewis",
+                "firstName": "Cannada",
+                "lastName": "Lewis"
+            },
+            {
+                "id": 37085456667,
+                "preferredName": "Aram Markosyan",
+                "firstName": "Aram",
+                "lastName": "Markosyan"
+            },
+            {
+                "id": 37086640384,
+                "preferredName": "Nicolas Morals",
+                "firstName": "Nicolas",
+                "lastName": "Morals"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00005",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638484",
+        "articleTitle": "Design of Data Management for Multi SPMD Workflow Programming Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Design of Data Management for Multi SPMD Workflow Programming Model",
+        "authors": [
+            {
+                "id": 37086043420,
+                "preferredName": "Thomas Dufaud",
+                "firstName": "Thomas",
+                "lastName": "Dufaud"
+            },
+            {
+                "id": 37086007137,
+                "preferredName": "Miwako Tsuji",
+                "firstName": "Miwako",
+                "lastName": "Tsuji"
+            },
+            {
+                "id": 37276051500,
+                "preferredName": "Mitsuhisa Sato",
+                "firstName": "Mitsuhisa",
+                "lastName": "Sato"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00013",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638475",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "71",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00001",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638476",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00002",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638478",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8632881",
+        "doi": "10.1109/ESPM2.2018.00003",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8638477",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 4th International Workshop on Extreme Scale Programming Models and Middleware (ESPM2)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

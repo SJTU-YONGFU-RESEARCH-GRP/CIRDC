@@ -1,0 +1,2970 @@
+[
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00042",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296311",
+        "articleTitle": "MetaML: Automating Customizable Cross-Stage Design-Flow for Deep Learning Acceleration",
+        "volume": null,
+        "issue": null,
+        "startPage": "248",
+        "endPage": "252",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "MetaML: Automating Customizable Cross-Stage Design-Flow for Deep Learning Acceleration",
+        "authors": [
+            {
+                "id": 37317961300,
+                "preferredName": "Zhiqiang Que",
+                "firstName": "Zhiqiang",
+                "lastName": "Que"
+            },
+            {
+                "id": 37086315386,
+                "preferredName": "Shuo Liu",
+                "firstName": "Shuo",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37090069797,
+                "preferredName": "Markus Rognlien",
+                "firstName": "Markus",
+                "lastName": "Rognlien"
+            },
+            {
+                "id": 37072209800,
+                "preferredName": "Ce Guo",
+                "firstName": "Ce",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37391875700,
+                "preferredName": "Jose G. F. Coutinho",
+                "firstName": "Jose G. F.",
+                "lastName": "Coutinho"
+            },
+            {
+                "id": 37272281200,
+                "preferredName": "Wayne Luk",
+                "firstName": "Wayne",
+                "lastName": "Luk"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00068",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296383",
+        "articleTitle": "Demonstrating NADA: A Workflow for Distributed CNN Training on FPGA Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "363",
+        "endPage": "363",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Demonstrating NADA: A Workflow for Distributed CNN Training on FPGA Clusters",
+        "authors": [
+            {
+                "id": 37088532215,
+                "preferredName": "Justin Knapheide",
+                "firstName": "Justin",
+                "lastName": "Knapheide"
+            },
+            {
+                "id": 37088565122,
+                "preferredName": "Philipp Kreowsky",
+                "firstName": "Philipp",
+                "lastName": "Kreowsky"
+            },
+            {
+                "id": 37275620200,
+                "preferredName": "Benno Stabernack",
+                "firstName": "Benno",
+                "lastName": "Stabernack"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00065",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296287",
+        "articleTitle": "Performance Estimation and Prototyping of Reconfigurable Near-Memory Computing Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "357",
+        "endPage": "358",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Performance Estimation and Prototyping of Reconfigurable Near-Memory Computing Systems",
+        "authors": [
+            {
+                "id": 37086638812,
+                "preferredName": "Veronia Iskandar",
+                "firstName": "Veronia",
+                "lastName": "Iskandar"
+            },
+            {
+                "id": 37089906596,
+                "preferredName": "Mohamed A. Abd El Ghany",
+                "firstName": "Mohamed A. Abd",
+                "lastName": "El Ghany"
+            },
+            {
+                "id": 38490135200,
+                "preferredName": "Diana Goehringer",
+                "firstName": "Diana",
+                "lastName": "Goehringer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00067",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296295",
+        "articleTitle": "Towards Coarse-Grained Reconfigurable Approximate Computing with CGRAgen",
+        "volume": null,
+        "issue": null,
+        "startPage": "361",
+        "endPage": "362",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Towards Coarse-Grained Reconfigurable Approximate Computing with CGRAgen",
+        "authors": [
+            {
+                "id": 37089030469,
+                "preferredName": "Hans Jakob Damsgaard",
+                "firstName": "Hans Jakob",
+                "lastName": "Damsgaard"
+            },
+            {
+                "id": 37085533218,
+                "preferredName": "Aleksandr Ometov",
+                "firstName": "Aleksandr",
+                "lastName": "Ometov"
+            },
+            {
+                "id": 37274976400,
+                "preferredName": "Jari Nurmi",
+                "firstName": "Jari",
+                "lastName": "Nurmi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00070",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296224",
+        "articleTitle": "FABulous Demo: Open Source FPGA on Sky130",
+        "volume": null,
+        "issue": null,
+        "startPage": "365",
+        "endPage": "365",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "FABulous Demo: Open Source FPGA on Sky130",
+        "authors": [
+            {
+                "id": 37089723927,
+                "preferredName": "Myrtle Shah",
+                "firstName": "Myrtle",
+                "lastName": "Shah"
+            },
+            {
+                "id": 37090070828,
+                "preferredName": "Jakob Ternes",
+                "firstName": "Jakob",
+                "lastName": "Ternes"
+            },
+            {
+                "id": 38268904500,
+                "preferredName": "Dirk Koch",
+                "firstName": "Dirk",
+                "lastName": "Koch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00063",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296452",
+        "articleTitle": "A Scalable and Cross-Technology Quantum Control Processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "353",
+        "endPage": "354",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "A Scalable and Cross-Technology Quantum Control Processor",
+        "authors": [
+            {
+                "id": 37089596348,
+                "preferredName": "Xiaorang Guo",
+                "firstName": "Xiaorang",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37290317700,
+                "preferredName": "Martin Schulz",
+                "firstName": "Martin",
+                "lastName": "Schulz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00064",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296248",
+        "articleTitle": "Bayesian Optimization for Efficient Heterogeneous MPSoC Based DNN Accelerator Runtime Tuning",
+        "volume": null,
+        "issue": null,
+        "startPage": "355",
+        "endPage": "356",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Bayesian Optimization for Efficient Heterogeneous MPSoC Based DNN Accelerator Runtime Tuning",
+        "authors": [
+            {
+                "id": 37089561823,
+                "preferredName": "Xuqi Zhu",
+                "firstName": "Xuqi",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37089558581,
+                "preferredName": "Cong Gao",
+                "firstName": "Cong",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37086522162,
+                "preferredName": "Sangeet Saha",
+                "firstName": "Sangeet",
+                "lastName": "Saha"
+            },
+            {
+                "id": 37085512150,
+                "preferredName": "Xiaojun Zhai",
+                "firstName": "Xiaojun",
+                "lastName": "Zhai"
+            },
+            {
+                "id": 38272117700,
+                "preferredName": "Klaus D McDonald-Maier",
+                "firstName": "Klaus D",
+                "lastName": "McDonald-Maier"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00061",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296293",
+        "articleTitle": "Accelerating the ATDCA Algorithm for Endmember Extraction from Hyperspectral Imagery with Intel oneAPI for FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "349",
+        "endPage": "350",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Accelerating the ATDCA Algorithm for Endmember Extraction from Hyperspectral Imagery with Intel oneAPI for FPGAs",
+        "authors": [
+            {
+                "id": 37089457256,
+                "preferredName": "Rub\u00e9n Macias",
+                "firstName": "Rub\u00e9n",
+                "lastName": "Macias"
+            },
+            {
+                "id": 38235772200,
+                "preferredName": "Sergio Bernab\u00e9",
+                "firstName": "Sergio",
+                "lastName": "Bernab\u00e9"
+            },
+            {
+                "id": 37650261700,
+                "preferredName": "Carlos Gonz\u00e1lez",
+                "firstName": "Carlos",
+                "lastName": "Gonz\u00e1lez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00060",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296187",
+        "articleTitle": "Challenges Using FPGA Clusters for Distributed CNN Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "347",
+        "endPage": "348",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Challenges Using FPGA Clusters for Distributed CNN Training",
+        "authors": [
+            {
+                "id": 37088565122,
+                "preferredName": "Philipp Kreowsky",
+                "firstName": "Philipp",
+                "lastName": "Kreowsky"
+            },
+            {
+                "id": 37088532215,
+                "preferredName": "Justin Knapheide",
+                "firstName": "Justin",
+                "lastName": "Knapheide"
+            },
+            {
+                "id": 37275620200,
+                "preferredName": "Benno Stabernack",
+                "firstName": "Benno",
+                "lastName": "Stabernack"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00069",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296191",
+        "articleTitle": "HashCache: High-Performance State Tracking for Resilient FPGA-Based Packet Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "364",
+        "endPage": "364",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "HashCache: High-Performance State Tracking for Resilient FPGA-Based Packet Processing",
+        "authors": [
+            {
+                "id": 37090070380,
+                "preferredName": "Michael Offel",
+                "firstName": "Michael",
+                "lastName": "Offel"
+            },
+            {
+                "id": 37086214619,
+                "preferredName": "Andreas Ley",
+                "firstName": "Andreas",
+                "lastName": "Ley"
+            },
+            {
+                "id": 37085438707,
+                "preferredName": "Sven Hager",
+                "firstName": "Sven",
+                "lastName": "Hager"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00066",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296441",
+        "articleTitle": "Hardware-Aware AutoML for Exploration of Custom FPGA Accelerators for RadioML",
+        "volume": null,
+        "issue": null,
+        "startPage": "359",
+        "endPage": "360",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Hardware-Aware AutoML for Exploration of Custom FPGA Accelerators for RadioML",
+        "authors": [
+            {
+                "id": 37088522485,
+                "preferredName": "Felix Jentzsch",
+                "firstName": "Felix",
+                "lastName": "Jentzsch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00051",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296447",
+        "articleTitle": "Building Low-Latency Order Books with Hybrid Binary-Linear Search Data Structures on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "299",
+        "endPage": "304",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Building Low-Latency Order Books with Hybrid Binary-Linear Search Data Structures on FPGAs",
+        "authors": [
+            {
+                "id": 37090070550,
+                "preferredName": "Vaibhav Kashera",
+                "firstName": "Vaibhav",
+                "lastName": "Kashera"
+            },
+            {
+                "id": 37090068776,
+                "preferredName": "Siddhant Jain",
+                "firstName": "Siddhant",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37090071582,
+                "preferredName": "Abhishek Banerjee",
+                "firstName": "Abhishek",
+                "lastName": "Banerjee"
+            },
+            {
+                "id": 37400323600,
+                "preferredName": "Suresh Purini",
+                "firstName": "Suresh",
+                "lastName": "Purini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00048",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296349",
+        "articleTitle": "LTrans-OPU: A Low-Latency FPGA-Based Overlay Processor for Transformer Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "283",
+        "endPage": "287",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "LTrans-OPU: A Low-Latency FPGA-Based Overlay Processor for Transformer Networks",
+        "authors": [
+            {
+                "id": 37089907621,
+                "preferredName": "Yueyin Bai",
+                "firstName": "Yueyin",
+                "lastName": "Bai"
+            },
+            {
+                "id": 38239621700,
+                "preferredName": "Hao Zhou",
+                "firstName": "Hao",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37089903538,
+                "preferredName": "Keqing Zhao",
+                "firstName": "Keqing",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37090070386,
+                "preferredName": "Manting Zhang",
+                "firstName": "Manting",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37090051586,
+                "preferredName": "Jianli Chen",
+                "firstName": "Jianli",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37090052279,
+                "preferredName": "Jun Yu",
+                "firstName": "Jun",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37535218300,
+                "preferredName": "Kun Wang",
+                "firstName": "Kun",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00055",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296290",
+        "articleTitle": "DIF-LUT: A Simple Yet Scalable Approximation for Non-Linear Activation Function on FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "322",
+        "endPage": "326",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "DIF-LUT: A Simple Yet Scalable Approximation for Non-Linear Activation Function on FPGA",
+        "authors": [
+            {
+                "id": 37089503165,
+                "preferredName": "Yang Liu",
+                "firstName": "Yang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37090071161,
+                "preferredName": "Xiaoming He",
+                "firstName": "Xiaoming",
+                "lastName": "He"
+            },
+            {
+                "id": 37090052279,
+                "preferredName": "Jun Yu",
+                "firstName": "Jun",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37535218300,
+                "preferredName": "Kun Wang",
+                "firstName": "Kun",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00054",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296249",
+        "articleTitle": "FPGA Accelerating Multi-Source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-Coupled Receptors",
+        "volume": null,
+        "issue": null,
+        "startPage": "317",
+        "endPage": "321",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "FPGA Accelerating Multi-Source Transfer Learning with GAT for Bioactivities of Ligands Targeting Orphan G Protein-Coupled Receptors",
+        "authors": [
+            {
+                "id": 37089414070,
+                "preferredName": "Ruiqi Chen",
+                "firstName": "Ruiqi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089905861,
+                "preferredName": "Haoyang Zhang",
+                "firstName": "Haoyang",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37090052279,
+                "preferredName": "Jun Yu",
+                "firstName": "Jun",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37535218300,
+                "preferredName": "Kun Wang",
+                "firstName": "Kun",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00059",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296324",
+        "articleTitle": "Exploring FPGA Acceleration for Distributed Serverless Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "345",
+        "endPage": "346",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Exploring FPGA Acceleration for Distributed Serverless Computing",
+        "authors": [
+            {
+                "id": 37090071496,
+                "preferredName": "Ziyi Yang",
+                "firstName": "Ziyi",
+                "lastName": "Yang"
+            },
+            {
+                "id": 38555679800,
+                "preferredName": "Suhaib A. Fahmy",
+                "firstName": "Suhaib A.",
+                "lastName": "Fahmy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00062",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296255",
+        "articleTitle": "Building a Reusable and Extensible Automatic Compiler Infrastructure for Reconfigurable Devices",
+        "volume": null,
+        "issue": null,
+        "startPage": "351",
+        "endPage": "352",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Building a Reusable and Extensible Automatic Compiler Infrastructure for Reconfigurable Devices",
+        "authors": [
+            {
+                "id": 37090069739,
+                "preferredName": "Zhenya Zang",
+                "firstName": "Zhenya",
+                "lastName": "Zang"
+            },
+            {
+                "id": 37397635000,
+                "preferredName": "Uwe Dolinsky",
+                "firstName": "Uwe",
+                "lastName": "Dolinsky"
+            },
+            {
+                "id": 37090068966,
+                "preferredName": "Pietro Ghiglio",
+                "firstName": "Pietro",
+                "lastName": "Ghiglio"
+            },
+            {
+                "id": 37086368820,
+                "preferredName": "Stefano Cherubin",
+                "firstName": "Stefano",
+                "lastName": "Cherubin"
+            },
+            {
+                "id": 38490529300,
+                "preferredName": "Mehdi Goli",
+                "firstName": "Mehdi",
+                "lastName": "Goli"
+            },
+            {
+                "id": 37086508724,
+                "preferredName": "Shufan Yang",
+                "firstName": "Shufan",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00050",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296330",
+        "articleTitle": "Low Latency Edge Classification GNN for Particle Trajectory Tracking on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "294",
+        "endPage": "298",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Low Latency Edge Classification GNN for Particle Trajectory Tracking on FPGAs",
+        "authors": [
+            {
+                "id": 37090071755,
+                "preferredName": "Shi-Yu Huang",
+                "firstName": "Shi-Yu",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37090069239,
+                "preferredName": "Yun-Chen Yang",
+                "firstName": "Yun-Chen",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37090070119,
+                "preferredName": "Yu-Ru Su",
+                "firstName": "Yu-Ru",
+                "lastName": "Su"
+            },
+            {
+                "id": 37090069136,
+                "preferredName": "Bo-Cheng Lai",
+                "firstName": "Bo-Cheng",
+                "lastName": "Lai"
+            },
+            {
+                "id": 37085782704,
+                "preferredName": "Javier Duarte",
+                "firstName": "Javier",
+                "lastName": "Duarte"
+            },
+            {
+                "id": 37265522000,
+                "preferredName": "Scott Hauck",
+                "firstName": "Scott",
+                "lastName": "Hauck"
+            },
+            {
+                "id": 37090071578,
+                "preferredName": "Shih-Chieh Hsu",
+                "firstName": "Shih-Chieh",
+                "lastName": "Hsu"
+            },
+            {
+                "id": 37090070416,
+                "preferredName": "Jin-Xuan Hu",
+                "firstName": "Jin-Xuan",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37399070800,
+                "preferredName": "Mark S. Neubauer",
+                "firstName": "Mark S.",
+                "lastName": "Neubauer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00071",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296232",
+        "articleTitle": "FPL Demo: A Learning-Based Motion Artefact Detector for Heterogeneous Platforms",
+        "volume": null,
+        "issue": null,
+        "startPage": "366",
+        "endPage": "366",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "FPL Demo: A Learning-Based Motion Artefact Detector for Heterogeneous Platforms",
+        "authors": [
+            {
+                "id": 37090071286,
+                "preferredName": "Yunyi Zhao",
+                "firstName": "Yunyi",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37090068830,
+                "preferredName": "Yunjia Xia",
+                "firstName": "Yunjia",
+                "lastName": "Xia"
+            },
+            {
+                "id": 37090069347,
+                "preferredName": "Rui Loureiro",
+                "firstName": "Rui",
+                "lastName": "Loureiro"
+            },
+            {
+                "id": 37090069693,
+                "preferredName": "Hubin Zhao",
+                "firstName": "Hubin",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37397635000,
+                "preferredName": "Uwe Dolinsky",
+                "firstName": "Uwe",
+                "lastName": "Dolinsky"
+            },
+            {
+                "id": 37090069819,
+                "preferredName": "Shufan Yang",
+                "firstName": "Shufan",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00039",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296283",
+        "articleTitle": "Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "228",
+        "endPage": "234",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Graph-OPU: A Highly Integrated FPGA-Based Overlay Processor for Graph Neural Networks",
+        "authors": [
+            {
+                "id": 37089414070,
+                "preferredName": "Ruiqi Chen",
+                "firstName": "Ruiqi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089905861,
+                "preferredName": "Haoyang Zhang",
+                "firstName": "Haoyang",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37090069203,
+                "preferredName": "Shun Li",
+                "firstName": "Shun",
+                "lastName": "Li"
+            },
+            {
+                "id": 37090069876,
+                "preferredName": "Enhao Tang",
+                "firstName": "Enhao",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37090052279,
+                "preferredName": "Jun Yu",
+                "firstName": "Jun",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37535218300,
+                "preferredName": "Kun Wang",
+                "firstName": "Kun",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00013",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296276",
+        "articleTitle": "HyperGRAF: Hyperdimensional Graph-Based Reasoning Acceleration on FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "HyperGRAF: Hyperdimensional Graph-Based Reasoning Acceleration on FPGA",
+        "authors": [
+            {
+                "id": 37089414754,
+                "preferredName": "Hanning Chen",
+                "firstName": "Hanning",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37090070214,
+                "preferredName": "Ali Zakeri",
+                "firstName": "Ali",
+                "lastName": "Zakeri"
+            },
+            {
+                "id": 37088542841,
+                "preferredName": "Fei Wen",
+                "firstName": "Fei",
+                "lastName": "Wen"
+            },
+            {
+                "id": 37089598534,
+                "preferredName": "Hamza Errahmouni Barkam",
+                "firstName": "Hamza Errahmouni",
+                "lastName": "Barkam"
+            },
+            {
+                "id": 37074212000,
+                "preferredName": "Mohsen Imani",
+                "firstName": "Mohsen",
+                "lastName": "Imani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00037",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296367",
+        "articleTitle": "GNNBuilder: An Automated Framework for Generic Graph Neural Network Accelerator Generation, Simulation, and Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "212",
+        "endPage": "218",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "GNNBuilder: An Automated Framework for Generic Graph Neural Network Accelerator Generation, Simulation, and Optimization",
+        "authors": [
+            {
+                "id": 37089773273,
+                "preferredName": "Stefan Abi-Karam",
+                "firstName": "Stefan",
+                "lastName": "Abi-Karam"
+            },
+            {
+                "id": 38666749600,
+                "preferredName": "Cong Hao",
+                "firstName": "Cong",
+                "lastName": "Hao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00009",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296124",
+        "articleTitle": "Compiler Discovered Dynamic Scheduling of Irregular Code in High-Level Synthesis",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Compiler Discovered Dynamic Scheduling of Irregular Code in High-Level Synthesis",
+        "authors": [
+            {
+                "id": 37089725864,
+                "preferredName": "Robert Szafarczyk",
+                "firstName": "Robert",
+                "lastName": "Szafarczyk"
+            },
+            {
+                "id": 37688298100,
+                "preferredName": "Syed Waqar Nabi",
+                "firstName": "Syed Waqar",
+                "lastName": "Nabi"
+            },
+            {
+                "id": 37430017300,
+                "preferredName": "Wim Vanderbauwhede",
+                "firstName": "Wim",
+                "lastName": "Vanderbauwhede"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00057",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296381",
+        "articleTitle": "Stress-Resiliency of AI Implementations on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "333",
+        "endPage": "338",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Stress-Resiliency of AI Implementations on FPGAs",
+        "authors": [
+            {
+                "id": 37086865477,
+                "preferredName": "Jonas Krautter",
+                "firstName": "Jonas",
+                "lastName": "Krautter"
+            },
+            {
+                "id": 37088350203,
+                "preferredName": "Paul R. Genssler",
+                "firstName": "Paul R.",
+                "lastName": "Genssler"
+            },
+            {
+                "id": 37089741520,
+                "preferredName": "Gloria Sepanta",
+                "firstName": "Gloria",
+                "lastName": "Sepanta"
+            },
+            {
+                "id": 37845811200,
+                "preferredName": "Hussam Amrouch",
+                "firstName": "Hussam",
+                "lastName": "Amrouch"
+            },
+            {
+                "id": 37273925100,
+                "preferredName": "Mehdi Tahoori",
+                "firstName": "Mehdi",
+                "lastName": "Tahoori"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00034",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296352",
+        "articleTitle": "SPEAR-JSON: Selective Parsing of JSON to Enable Accelerated Stream Processing on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "189",
+        "endPage": "196",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "SPEAR-JSON: Selective Parsing of JSON to Enable Accelerated Stream Processing on FPGAs",
+        "authors": [
+            {
+                "id": 37088898712,
+                "preferredName": "Tobias Hahn",
+                "firstName": "Tobias",
+                "lastName": "Hahn"
+            },
+            {
+                "id": 37669339300,
+                "preferredName": "Stefan Wildermann",
+                "firstName": "Stefan",
+                "lastName": "Wildermann"
+            },
+            {
+                "id": 37276355800,
+                "preferredName": "J\u00fcrgen Teich",
+                "firstName": "J\u00fcrgen",
+                "lastName": "Teich"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00046",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296389",
+        "articleTitle": "FLAIRS: FPGA-Accelerated Inference-Resistant & Secure Federated Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "271",
+        "endPage": "276",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "FLAIRS: FPGA-Accelerated Inference-Resistant & Secure Federated Learning",
+        "authors": [
+            {
+                "id": 37089862938,
+                "preferredName": "Huimin Li",
+                "firstName": "Huimin",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088909008,
+                "preferredName": "Phillip Rieger",
+                "firstName": "Phillip",
+                "lastName": "Rieger"
+            },
+            {
+                "id": 37085466919,
+                "preferredName": "Shaza Zeitouni",
+                "firstName": "Shaza",
+                "lastName": "Zeitouni"
+            },
+            {
+                "id": 37706928300,
+                "preferredName": "Stjepan Picek",
+                "firstName": "Stjepan",
+                "lastName": "Picek"
+            },
+            {
+                "id": 37297197600,
+                "preferredName": "Ahmad-Reza Sadeghi",
+                "firstName": "Ahmad-Reza",
+                "lastName": "Sadeghi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00021",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296193",
+        "articleTitle": "Co-ViSu: a Video Super-Resolution Accelerator Exploiting Codec Information Reuse",
+        "volume": null,
+        "issue": null,
+        "startPage": "93",
+        "endPage": "100",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Co-ViSu: a Video Super-Resolution Accelerator Exploiting Codec Information Reuse",
+        "authors": [
+            {
+                "id": 37090070046,
+                "preferredName": "Haishuang Fan",
+                "firstName": "Haishuang",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37086370536,
+                "preferredName": "Jingya Wu",
+                "firstName": "Jingya",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37086058627,
+                "preferredName": "Wenyan Lu",
+                "firstName": "Wenyan",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37280862300,
+                "preferredName": "Xiaowei Li",
+                "firstName": "Xiaowei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37532486900,
+                "preferredName": "Guihai Yan",
+                "firstName": "Guihai",
+                "lastName": "Yan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00045",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296237",
+        "articleTitle": "A Whole New World: How to Architect Beyond-FPGA Reconfigurable Acceleration Devices?",
+        "volume": null,
+        "issue": null,
+        "startPage": "265",
+        "endPage": "270",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "A Whole New World: How to Architect Beyond-FPGA Reconfigurable Acceleration Devices?",
+        "authors": [
+            {
+                "id": 37086276190,
+                "preferredName": "Andrew Boutros",
+                "firstName": "Andrew",
+                "lastName": "Boutros"
+            },
+            {
+                "id": 37090069119,
+                "preferredName": "Stephen More",
+                "firstName": "Stephen",
+                "lastName": "More"
+            },
+            {
+                "id": 37283817300,
+                "preferredName": "Vaughn Betz",
+                "firstName": "Vaughn",
+                "lastName": "Betz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00016",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296214",
+        "articleTitle": "Titan 2.0: Enabling Open-Source CAD Evaluation with a Modern Architecture Capture",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "64",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Titan 2.0: Enabling Open-Source CAD Evaluation with a Modern Architecture Capture",
+        "authors": [
+            {
+                "id": 37090069363,
+                "preferredName": "Kimia Talaei Khoozani",
+                "firstName": "Kimia Talaei",
+                "lastName": "Khoozani"
+            },
+            {
+                "id": 37090069527,
+                "preferredName": "Arash Ahmadian Dehkordi",
+                "firstName": "Arash Ahmadian",
+                "lastName": "Dehkordi"
+            },
+            {
+                "id": 37283817300,
+                "preferredName": "Vaughn Betz",
+                "firstName": "Vaughn",
+                "lastName": "Betz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00038",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296434",
+        "articleTitle": "Exploiting On-Chip Heterogeneity of Versal Architecture for GNN Inference Acceleration",
+        "volume": null,
+        "issue": null,
+        "startPage": "219",
+        "endPage": "227",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Exploiting On-Chip Heterogeneity of Versal Architecture for GNN Inference Acceleration",
+        "authors": [
+            {
+                "id": 37090069194,
+                "preferredName": "Paul Chen",
+                "firstName": "Paul",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37090070045,
+                "preferredName": "Pavan Manjunath",
+                "firstName": "Pavan",
+                "lastName": "Manjunath"
+            },
+            {
+                "id": 37086056443,
+                "preferredName": "Sasindu Wijeratne",
+                "firstName": "Sasindu",
+                "lastName": "Wijeratne"
+            },
+            {
+                "id": 37088420417,
+                "preferredName": "Bingyi Zhang",
+                "firstName": "Bingyi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37273497500,
+                "preferredName": "Viktor Prasanna",
+                "firstName": "Viktor",
+                "lastName": "Prasanna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00022",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296403",
+        "articleTitle": "FSSD: FPGA-Based Emulator for SSDs",
+        "volume": null,
+        "issue": null,
+        "startPage": "101",
+        "endPage": "108",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "FSSD: FPGA-Based Emulator for SSDs",
+        "authors": [
+            {
+                "id": 37090070564,
+                "preferredName": "Luyang Yu",
+                "firstName": "Luyang",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37090068871,
+                "preferredName": "Yizhen Lu",
+                "firstName": "Yizhen",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37090068971,
+                "preferredName": "Meghna Mandava",
+                "firstName": "Meghna",
+                "lastName": "Mandava"
+            },
+            {
+                "id": 37086128841,
+                "preferredName": "Edward Richter",
+                "firstName": "Edward",
+                "lastName": "Richter"
+            },
+            {
+                "id": 37086534805,
+                "preferredName": "Vikram Sharma Mailthody",
+                "firstName": "Vikram Sharma",
+                "lastName": "Mailthody"
+            },
+            {
+                "id": 37086507001,
+                "preferredName": "Seung Won Min",
+                "firstName": "Seung Won",
+                "lastName": "Min"
+            },
+            {
+                "id": 37090069200,
+                "preferredName": "Wen-mei Hwu",
+                "firstName": "Wen-mei",
+                "lastName": "Hwu"
+            },
+            {
+                "id": 37274186500,
+                "preferredName": "Deming Chen",
+                "firstName": "Deming",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00049",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296303",
+        "articleTitle": "PASS: Exploiting Post-Activation Sparsity in Streaming Architectures for CNN Acceleration",
+        "volume": null,
+        "issue": null,
+        "startPage": "288",
+        "endPage": "293",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "PASS: Exploiting Post-Activation Sparsity in Streaming Architectures for CNN Acceleration",
+        "authors": [
+            {
+                "id": 37087413993,
+                "preferredName": "Alexander Montgomerie-Corcoran",
+                "firstName": "Alexander",
+                "lastName": "Montgomerie-Corcoran"
+            },
+            {
+                "id": 37089159915,
+                "preferredName": "Zhewen Yu",
+                "firstName": "Zhewen",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37088877257,
+                "preferredName": "Jianyi Cheng",
+                "firstName": "Jianyi",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37299183200,
+                "preferredName": "Christos-Savvas Bouganis",
+                "firstName": "Christos-Savvas",
+                "lastName": "Bouganis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00041",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296242",
+        "articleTitle": "Calabash: Accelerating Attention Using a Systolic Array Chain on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "242",
+        "endPage": "247",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Calabash: Accelerating Attention Using a Systolic Array Chain on FPGAs",
+        "authors": [
+            {
+                "id": 37088927362,
+                "preferredName": "Zizhang Luo",
+                "firstName": "Zizhang",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37086053484,
+                "preferredName": "Liqiang Lu",
+                "firstName": "Liqiang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37090071722,
+                "preferredName": "Yicheng Jin",
+                "firstName": "Yicheng",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37088418133,
+                "preferredName": "Liancheng Jia",
+                "firstName": "Liancheng",
+                "lastName": "Jia"
+            },
+            {
+                "id": 38003339700,
+                "preferredName": "Yun Liang",
+                "firstName": "Yun",
+                "lastName": "Liang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00023",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296458",
+        "articleTitle": "FPGA Processor In Memory Architectures (PIMs): Overlay or Overhaul ?",
+        "volume": null,
+        "issue": null,
+        "startPage": "109",
+        "endPage": "115",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "FPGA Processor In Memory Architectures (PIMs): Overlay or Overhaul ?",
+        "authors": [
+            {
+                "id": 37088351372,
+                "preferredName": "MD Arafat Kabir",
+                "firstName": "MD Arafat",
+                "lastName": "Kabir"
+            },
+            {
+                "id": 37089414320,
+                "preferredName": "Ehsan Kabir",
+                "firstName": "Ehsan",
+                "lastName": "Kabir"
+            },
+            {
+                "id": 37089902399,
+                "preferredName": "Joshua Hollis",
+                "firstName": "Joshua",
+                "lastName": "Hollis"
+            },
+            {
+                "id": 37090069446,
+                "preferredName": "Eli Levy-Mackay",
+                "firstName": "Eli",
+                "lastName": "Levy-Mackay"
+            },
+            {
+                "id": 37087882569,
+                "preferredName": "Atiyehsadat Panahi",
+                "firstName": "Atiyehsadat",
+                "lastName": "Panahi"
+            },
+            {
+                "id": 37300239900,
+                "preferredName": "Jason Bakos",
+                "firstName": "Jason",
+                "lastName": "Bakos"
+            },
+            {
+                "id": 37554049400,
+                "preferredName": "Miaoqing Huang",
+                "firstName": "Miaoqing",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37283032400,
+                "preferredName": "David Andrews",
+                "firstName": "David",
+                "lastName": "Andrews"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00027",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296462",
+        "articleTitle": "Multiple Constant Multiplication: From Target Constants to Optimized Pipelined Adder Graphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "137",
+        "endPage": "143",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Multiple Constant Multiplication: From Target Constants to Optimized Pipelined Adder Graphs",
+        "authors": [
+            {
+                "id": 37089445139,
+                "preferredName": "Garcia R\u00e9mi",
+                "firstName": "Garcia",
+                "lastName": "R\u00e9mi"
+            },
+            {
+                "id": 37090069933,
+                "preferredName": "Volkova Anastasia",
+                "firstName": "Volkova",
+                "lastName": "Anastasia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00040",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296211",
+        "articleTitle": "Exploring Highly Quantised Neural Networks for Intrusion Detection in Automotive CAN",
+        "volume": null,
+        "issue": null,
+        "startPage": "235",
+        "endPage": "241",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Exploring Highly Quantised Neural Networks for Intrusion Detection in Automotive CAN",
+        "authors": [
+            {
+                "id": 37089568330,
+                "preferredName": "Shashwat Khandelwal",
+                "firstName": "Shashwat",
+                "lastName": "Khandelwal"
+            },
+            {
+                "id": 38552943500,
+                "preferredName": "Shanker Shreejith",
+                "firstName": "Shanker",
+                "lastName": "Shreejith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00025",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296431",
+        "articleTitle": "Efficient Resource Scheduling for Runtime Reconfigurable Systems on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "123",
+        "endPage": "129",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Efficient Resource Scheduling for Runtime Reconfigurable Systems on FPGAs",
+        "authors": [
+            {
+                "id": 37085868696,
+                "preferredName": "Shaden Alismail",
+                "firstName": "Shaden",
+                "lastName": "Alismail"
+            },
+            {
+                "id": 38268904500,
+                "preferredName": "Dirk Koch",
+                "firstName": "Dirk",
+                "lastName": "Koch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00020",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296395",
+        "articleTitle": "fpgaHART: A Toolflow for Throughput-Oriented Acceleration of 3D CNNs for HAR onto FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "86",
+        "endPage": "92",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "fpgaHART: A Toolflow for Throughput-Oriented Acceleration of 3D CNNs for HAR onto FPGAs",
+        "authors": [
+            {
+                "id": 37087027509,
+                "preferredName": "Petros Toupas",
+                "firstName": "Petros",
+                "lastName": "Toupas"
+            },
+            {
+                "id": 37299183200,
+                "preferredName": "Christos-Savvas Bouganis",
+                "firstName": "Christos-Savvas",
+                "lastName": "Bouganis"
+            },
+            {
+                "id": 37269764300,
+                "preferredName": "Dimitrios Tzovaras",
+                "firstName": "Dimitrios",
+                "lastName": "Tzovaras"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00044",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296323",
+        "articleTitle": "Remote Identification of Neural Network FPGA Accelerators by Power Fingerprints",
+        "volume": null,
+        "issue": null,
+        "startPage": "259",
+        "endPage": "264",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Remote Identification of Neural Network FPGA Accelerators by Power Fingerprints",
+        "authors": [
+            {
+                "id": 37088912798,
+                "preferredName": "Vincent Meyers",
+                "firstName": "Vincent",
+                "lastName": "Meyers"
+            },
+            {
+                "id": 37086555246,
+                "preferredName": "Michael Hefenbrock",
+                "firstName": "Michael",
+                "lastName": "Hefenbrock"
+            },
+            {
+                "id": 37085436860,
+                "preferredName": "Dennis Gnad",
+                "firstName": "Dennis",
+                "lastName": "Gnad"
+            },
+            {
+                "id": 37273925100,
+                "preferredName": "Mehdi Tahoori",
+                "firstName": "Mehdi",
+                "lastName": "Tahoori"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00032",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296429",
+        "articleTitle": "FPGA Acceleration of Rotation in Homomorphic Encryption Using Dynamic Data Layout",
+        "volume": null,
+        "issue": null,
+        "startPage": "174",
+        "endPage": "181",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "FPGA Acceleration of Rotation in Homomorphic Encryption Using Dynamic Data Layout",
+        "authors": [
+            {
+                "id": 37088592635,
+                "preferredName": "Yang Yang",
+                "firstName": "Yang",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37090071700,
+                "preferredName": "Weihang Long",
+                "firstName": "Weihang",
+                "lastName": "Long"
+            },
+            {
+                "id": 37085991386,
+                "preferredName": "Rajgopal Kannan",
+                "firstName": "Rajgopal",
+                "lastName": "Kannan"
+            },
+            {
+                "id": 37273497500,
+                "preferredName": "Viktor K. Prasanna",
+                "firstName": "Viktor K.",
+                "lastName": "Prasanna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00036",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296400",
+        "articleTitle": "Mixed-TD: Efficient Neural Network Accelerator with Layer-Specific Tensor Decomposition",
+        "volume": null,
+        "issue": null,
+        "startPage": "204",
+        "endPage": "211",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Mixed-TD: Efficient Neural Network Accelerator with Layer-Specific Tensor Decomposition",
+        "authors": [
+            {
+                "id": 37089159915,
+                "preferredName": "Zhewen Yu",
+                "firstName": "Zhewen",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37299183200,
+                "preferredName": "Christos-Savvas Bouganis",
+                "firstName": "Christos-Savvas",
+                "lastName": "Bouganis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00053",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296262",
+        "articleTitle": "Improving the Reliability of FPGA CRO PUFs",
+        "volume": null,
+        "issue": null,
+        "startPage": "311",
+        "endPage": "316",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Improving the Reliability of FPGA CRO PUFs",
+        "authors": [
+            {
+                "id": 37088529471,
+                "preferredName": "Hayden Cook",
+                "firstName": "Hayden",
+                "lastName": "Cook"
+            },
+            {
+                "id": 37089478107,
+                "preferredName": "Zephram Tripp",
+                "firstName": "Zephram",
+                "lastName": "Tripp"
+            },
+            {
+                "id": 37283898200,
+                "preferredName": "Brad Hutchings",
+                "firstName": "Brad",
+                "lastName": "Hutchings"
+            },
+            {
+                "id": 38232625800,
+                "preferredName": "Jeffrey Goeders",
+                "firstName": "Jeffrey",
+                "lastName": "Goeders"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00058",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296329",
+        "articleTitle": "A Novel Strategy for Flexible Placement and Routing of AVS Sensors on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "339",
+        "endPage": "344",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "A Novel Strategy for Flexible Placement and Routing of AVS Sensors on FPGAs",
+        "authors": [
+            {
+                "id": 38196246000,
+                "preferredName": "Christoph Niemann",
+                "firstName": "Christoph",
+                "lastName": "Niemann"
+            },
+            {
+                "id": 37085545277,
+                "preferredName": "Michael Rethfeldt",
+                "firstName": "Michael",
+                "lastName": "Rethfeldt"
+            },
+            {
+                "id": 37271844800,
+                "preferredName": "Dirk Timmermann",
+                "firstName": "Dirk",
+                "lastName": "Timmermann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00018",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296368",
+        "articleTitle": "VPR-Gym: A Platform for Exploring AI Techniques in FPGA Placement Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "72",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "VPR-Gym: A Platform for Exploring AI Techniques in FPGA Placement Optimization",
+        "authors": [
+            {
+                "id": 37090069463,
+                "preferredName": "Ruichen Chen",
+                "firstName": "Ruichen",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37090071696,
+                "preferredName": "Shengyao Lu",
+                "firstName": "Shengyao",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37086602359,
+                "preferredName": "Mohamed A. Elgammal",
+                "firstName": "Mohamed A.",
+                "lastName": "Elgammal"
+            },
+            {
+                "id": 37090068988,
+                "preferredName": "Peter Chun",
+                "firstName": "Peter",
+                "lastName": "Chun"
+            },
+            {
+                "id": 37283817300,
+                "preferredName": "Vaughn Betz",
+                "firstName": "Vaughn",
+                "lastName": "Betz"
+            },
+            {
+                "id": 37090070161,
+                "preferredName": "Di Niu",
+                "firstName": "Di",
+                "lastName": "Niu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00015",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296372",
+        "articleTitle": "Token Packing for Transformers with Variable-Length Inputs",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Token Packing for Transformers with Variable-Length Inputs",
+        "authors": [
+            {
+                "id": 37087224526,
+                "preferredName": "Tiandong Zhao",
+                "firstName": "Tiandong",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37090069471,
+                "preferredName": "Siyuan Miao",
+                "firstName": "Siyuan",
+                "lastName": "Miao"
+            },
+            {
+                "id": 37090071689,
+                "preferredName": "Shaoqiang Lu",
+                "firstName": "Shaoqiang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37090055539,
+                "preferredName": "Jialin Cao",
+                "firstName": "Jialin",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37090070247,
+                "preferredName": "Jun Qiu",
+                "firstName": "Jun",
+                "lastName": "Qiu"
+            },
+            {
+                "id": 37086460652,
+                "preferredName": "Xiao Shi",
+                "firstName": "Xiao",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37089950544,
+                "preferredName": "Kun Wang",
+                "firstName": "Kun",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37090069601,
+                "preferredName": "Lei He",
+                "firstName": "Lei",
+                "lastName": "He"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00026",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296439",
+        "articleTitle": "Tear Down The Wall: Unified and Efficient Intra-and Inter-Cluster Routing for FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "130",
+        "endPage": "136",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Tear Down The Wall: Unified and Efficient Intra-and Inter-Cluster Routing for FPGAs",
+        "authors": [
+            {
+                "id": 37087099894,
+                "preferredName": "Amin Mohaghegh",
+                "firstName": "Amin",
+                "lastName": "Mohaghegh"
+            },
+            {
+                "id": 37283817300,
+                "preferredName": "Vaughn Betz",
+                "firstName": "Vaughn",
+                "lastName": "Betz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00052",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296406",
+        "articleTitle": "GRAMM: Fast CGRA Application Mapping Based on A Heuristic for Finding Graph Minors",
+        "volume": null,
+        "issue": null,
+        "startPage": "305",
+        "endPage": "310",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "GRAMM: Fast CGRA Application Mapping Based on A Heuristic for Finding Graph Minors",
+        "authors": [
+            {
+                "id": 37089740509,
+                "preferredName": "Guanglei Zhou",
+                "firstName": "Guanglei",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 38548040900,
+                "preferredName": "Mirjana Stojilovi\u0107",
+                "firstName": "Mirjana",
+                "lastName": "Stojilovi\u0107"
+            },
+            {
+                "id": 37277797500,
+                "preferredName": "Jason H. Anderson",
+                "firstName": "Jason H.",
+                "lastName": "Anderson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00033",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296229",
+        "articleTitle": "FPGA-Accelerated Causal Discovery with Conditional Independence Test Prioritization",
+        "volume": null,
+        "issue": null,
+        "startPage": "182",
+        "endPage": "188",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "FPGA-Accelerated Causal Discovery with Conditional Independence Test Prioritization",
+        "authors": [
+            {
+                "id": 37072209800,
+                "preferredName": "Ce Guo",
+                "firstName": "Ce",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37090070769,
+                "preferredName": "Diego Cupello",
+                "firstName": "Diego",
+                "lastName": "Cupello"
+            },
+            {
+                "id": 37272281200,
+                "preferredName": "Wayne Luk",
+                "firstName": "Wayne",
+                "lastName": "Luk"
+            },
+            {
+                "id": 38263210200,
+                "preferredName": "Joshua Levine",
+                "firstName": "Joshua",
+                "lastName": "Levine"
+            },
+            {
+                "id": 37086442605,
+                "preferredName": "Alexander Warren",
+                "firstName": "Alexander",
+                "lastName": "Warren"
+            },
+            {
+                "id": 37090029322,
+                "preferredName": "Peter Brookes",
+                "firstName": "Peter",
+                "lastName": "Brookes"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00028",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296408",
+        "articleTitle": "Optimization Techniques for Hestenes-Jacobi SVD on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "144",
+        "endPage": "150",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Optimization Techniques for Hestenes-Jacobi SVD on FPGAs",
+        "authors": [
+            {
+                "id": 37090071468,
+                "preferredName": "Lukas Stasytis",
+                "firstName": "Lukas",
+                "lastName": "Stasytis"
+            },
+            {
+                "id": 38232397600,
+                "preferredName": "Zsolt Istv\u00e1n",
+                "firstName": "Zsolt",
+                "lastName": "Istv\u00e1n"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00056",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296233",
+        "articleTitle": "Accelerating LSTM-Based High-Rate Dynamic System Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "327",
+        "endPage": "332",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Accelerating LSTM-Based High-Rate Dynamic System Models",
+        "authors": [
+            {
+                "id": 37089414320,
+                "preferredName": "Ehsan Kabir",
+                "firstName": "Ehsan",
+                "lastName": "Kabir"
+            },
+            {
+                "id": 37090070019,
+                "preferredName": "Daniel Coble",
+                "firstName": "Daniel",
+                "lastName": "Coble"
+            },
+            {
+                "id": 37090071028,
+                "preferredName": "Joud N. Satme",
+                "firstName": "Joud N.",
+                "lastName": "Satme"
+            },
+            {
+                "id": 37086051784,
+                "preferredName": "Austin R.J. Downey",
+                "firstName": "Austin R.J.",
+                "lastName": "Downey"
+            },
+            {
+                "id": 37300239900,
+                "preferredName": "Jason D. Bakos",
+                "firstName": "Jason D.",
+                "lastName": "Bakos"
+            },
+            {
+                "id": 37283032400,
+                "preferredName": "David Andrews",
+                "firstName": "David",
+                "lastName": "Andrews"
+            },
+            {
+                "id": 37554049400,
+                "preferredName": "Miaoqing Huang",
+                "firstName": "Miaoqing",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00035",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296239",
+        "articleTitle": "A Novel Hardware Accelerator of NeRF Based on Xilinx UltraScale and UltraScale+ FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "197",
+        "endPage": "203",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "A Novel Hardware Accelerator of NeRF Based on Xilinx UltraScale and UltraScale+ FPGA",
+        "authors": [
+            {
+                "id": 37089583988,
+                "preferredName": "Baoze Zhao",
+                "firstName": "Baoze",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37086628282,
+                "preferredName": "Wenjin Huang",
+                "firstName": "Wenjin",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37597450600,
+                "preferredName": "Yihua Huang",
+                "firstName": "Yihua",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00014",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296422",
+        "articleTitle": "An Efficient Sparse LSTM Accelerator on Embedded FPGAs with Bandwidth-Oriented Pruning",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "An Efficient Sparse LSTM Accelerator on Embedded FPGAs with Bandwidth-Oriented Pruning",
+        "authors": [
+            {
+                "id": 37088889907,
+                "preferredName": "Shiqing Li",
+                "firstName": "Shiqing",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088763213,
+                "preferredName": "Shien Zhu",
+                "firstName": "Shien",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37088592454,
+                "preferredName": "Xiangzhong Luo",
+                "firstName": "Xiangzhong",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37085660323,
+                "preferredName": "Tao Luo",
+                "firstName": "Tao",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37538047700,
+                "preferredName": "Weichen Liu",
+                "firstName": "Weichen",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00011",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296314",
+        "articleTitle": "An Open-Source Framework for Efficient Numerically-Tailored Computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "An Open-Source Framework for Efficient Numerically-Tailored Computations",
+        "authors": [
+            {
+                "id": 37089414555,
+                "preferredName": "Louis Ledoux",
+                "firstName": "Louis",
+                "lastName": "Ledoux"
+            },
+            {
+                "id": 37884459100,
+                "preferredName": "Marc Casas",
+                "firstName": "Marc",
+                "lastName": "Casas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00010",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296353",
+        "articleTitle": "Fortran High-Level Synthesis: Reducing the Barriers to Accelerating HPC Codes on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Fortran High-Level Synthesis: Reducing the Barriers to Accelerating HPC Codes on FPGAs",
+        "authors": [
+            {
+                "id": 37090071106,
+                "preferredName": "Gabriel Rodriguez-Canal",
+                "firstName": "Gabriel",
+                "lastName": "Rodriguez-Canal"
+            },
+            {
+                "id": 37086147601,
+                "preferredName": "Nick Brown",
+                "firstName": "Nick",
+                "lastName": "Brown"
+            },
+            {
+                "id": 37089214774,
+                "preferredName": "Tim Dykes",
+                "firstName": "Tim",
+                "lastName": "Dykes"
+            },
+            {
+                "id": 37090070051,
+                "preferredName": "Jess Jones",
+                "firstName": "Jess",
+                "lastName": "Jones"
+            },
+            {
+                "id": 37090071536,
+                "preferredName": "Utz-Uwe Haus",
+                "firstName": "Utz-Uwe",
+                "lastName": "Haus"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00012",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296316",
+        "articleTitle": "HPTA: A High Performance Transformer Accelerator Based on FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "HPTA: A High Performance Transformer Accelerator Based on FPGA",
+        "authors": [
+            {
+                "id": 37090070039,
+                "preferredName": "Yuntao Han",
+                "firstName": "Yuntao",
+                "lastName": "Han"
+            },
+            {
+                "id": 37290889900,
+                "preferredName": "Qiang Liu",
+                "firstName": "Qiang",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00019",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296247",
+        "articleTitle": "Automated Masking of FPGA-Mapped Designs",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "85",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Automated Masking of FPGA-Mapped Designs",
+        "authors": [
+            {
+                "id": 37090069015,
+                "preferredName": "Nicolai Muller",
+                "firstName": "Nicolai",
+                "lastName": "Muller"
+            },
+            {
+                "id": 37089159212,
+                "preferredName": "Sergej Meschkov",
+                "firstName": "Sergej",
+                "lastName": "Meschkov"
+            },
+            {
+                "id": 37085436860,
+                "preferredName": "Dennis R.E. Gnad",
+                "firstName": "Dennis R.E.",
+                "lastName": "Gnad"
+            },
+            {
+                "id": 37273925100,
+                "preferredName": "Mehdi B. Tahoori",
+                "firstName": "Mehdi B.",
+                "lastName": "Tahoori"
+            },
+            {
+                "id": 37397075200,
+                "preferredName": "Amir Moradi",
+                "firstName": "Amir",
+                "lastName": "Moradi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00029",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296357",
+        "articleTitle": "Accelerating SpMV on FPGAs Through Block-Row Compress: A Task-Based Approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "151",
+        "endPage": "158",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Accelerating SpMV on FPGAs Through Block-Row Compress: A Task-Based Approach",
+        "authors": [
+            {
+                "id": 37089902682,
+                "preferredName": "Jos\u00e9 Oliver",
+                "firstName": "Jos\u00e9",
+                "lastName": "Oliver"
+            },
+            {
+                "id": 38330157400,
+                "preferredName": "Carlos \u00c1lvarez",
+                "firstName": "Carlos",
+                "lastName": "\u00c1lvarez"
+            },
+            {
+                "id": 37891086300,
+                "preferredName": "Teresa Cervero",
+                "firstName": "Teresa",
+                "lastName": "Cervero"
+            },
+            {
+                "id": 37283895600,
+                "preferredName": "Xavier Martorell",
+                "firstName": "Xavier",
+                "lastName": "Martorell"
+            },
+            {
+                "id": 37088914704,
+                "preferredName": "John D. Davis",
+                "firstName": "John D.",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37283770000,
+                "preferredName": "Eduard Ayguad\u00e9",
+                "firstName": "Eduard",
+                "lastName": "Ayguad\u00e9"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00043",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296253",
+        "articleTitle": "Partitioning Large-Scale, Multi-FPGA Applications for the Data Center",
+        "volume": null,
+        "issue": null,
+        "startPage": "253",
+        "endPage": "258",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Partitioning Large-Scale, Multi-FPGA Applications for the Data Center",
+        "authors": [
+            {
+                "id": 37088442580,
+                "preferredName": "Mohammadmahdi Mazraeli",
+                "firstName": "Mohammadmahdi",
+                "lastName": "Mazraeli"
+            },
+            {
+                "id": 37090070352,
+                "preferredName": "Yu Gao",
+                "firstName": "Yu",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37266119000,
+                "preferredName": "Paul Chow",
+                "firstName": "Paul",
+                "lastName": "Chow"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00031",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296292",
+        "articleTitle": "DiAD \u2013 Distributed Acceleration for Datacenter FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "166",
+        "endPage": "173",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "DiAD \u2013 Distributed Acceleration for Datacenter FPGAs",
+        "authors": [
+            {
+                "id": 37086004340,
+                "preferredName": "Joshua Lant",
+                "firstName": "Joshua",
+                "lastName": "Lant"
+            },
+            {
+                "id": 37090069077,
+                "preferredName": "Emmanouil Skordalakis",
+                "firstName": "Emmanouil",
+                "lastName": "Skordalakis"
+            },
+            {
+                "id": 37090069505,
+                "preferredName": "Kyriakos Paraskevas",
+                "firstName": "Kyriakos",
+                "lastName": "Paraskevas"
+            },
+            {
+                "id": 37316307600,
+                "preferredName": "William B. Toms",
+                "firstName": "William B.",
+                "lastName": "Toms"
+            },
+            {
+                "id": 37392848800,
+                "preferredName": "Mikel Luj\u00e1n",
+                "firstName": "Mikel",
+                "lastName": "Luj\u00e1n"
+            },
+            {
+                "id": 37294176500,
+                "preferredName": "John Goodacre",
+                "firstName": "John",
+                "lastName": "Goodacre"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00047",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296220",
+        "articleTitle": "eGPU: A 750 MHz Class Soft GPGPU for FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "277",
+        "endPage": "282",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "eGPU: A 750 MHz Class Soft GPGPU for FPGA",
+        "authors": [
+            {
+                "id": 37348413000,
+                "preferredName": "Martin Langhammer",
+                "firstName": "Martin",
+                "lastName": "Langhammer"
+            },
+            {
+                "id": 37265574000,
+                "preferredName": "George A. Constantinides",
+                "firstName": "George A.",
+                "lastName": "Constantinides"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00024",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296226",
+        "articleTitle": "Pipeline Balancing for Integrated Mapping in High Performance Spatial Programmable Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "116",
+        "endPage": "122",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Pipeline Balancing for Integrated Mapping in High Performance Spatial Programmable Architecture",
+        "authors": [
+            {
+                "id": 37090068849,
+                "preferredName": "Pengyu Liu",
+                "firstName": "Pengyu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37090070150,
+                "preferredName": "Zihan Zhang",
+                "firstName": "Zihan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088914332,
+                "preferredName": "Chen Yin",
+                "firstName": "Chen",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37090070570,
+                "preferredName": "Liyan Chen",
+                "firstName": "Liyan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37279089400,
+                "preferredName": "Jianfei Jiang",
+                "firstName": "Jianfei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37090070127,
+                "preferredName": "Qin Wang",
+                "firstName": "Qin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37287023100,
+                "preferredName": "Zhigang Mao",
+                "firstName": "Zhigang",
+                "lastName": "Mao"
+            },
+            {
+                "id": 37322547400,
+                "preferredName": "Naifeng Jing",
+                "firstName": "Naifeng",
+                "lastName": "Jing"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00030",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296407",
+        "articleTitle": "MSDF-SGD: Most-Significant Digit-First Stochastic Gradient Descent for Arbitrary-Precision Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "159",
+        "endPage": "165",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "MSDF-SGD: Most-Significant Digit-First Stochastic Gradient Descent for Arbitrary-Precision Training",
+        "authors": [
+            {
+                "id": 37088945336,
+                "preferredName": "Changjun Song",
+                "firstName": "Changjun",
+                "lastName": "Song"
+            },
+            {
+                "id": 37090069443,
+                "preferredName": "Yongming Tang",
+                "firstName": "Yongming",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37089990304,
+                "preferredName": "Jiyuan Liu",
+                "firstName": "Jiyuan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37089160641,
+                "preferredName": "Sige Bian",
+                "firstName": "Sige",
+                "lastName": "Bian"
+            },
+            {
+                "id": 37090070761,
+                "preferredName": "Danni Deng",
+                "firstName": "Danni",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37085344138,
+                "preferredName": "He Li",
+                "firstName": "He",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00017",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296411",
+        "articleTitle": "SPADES: A Productive Design Flow for Versal Programmable Logic",
+        "volume": null,
+        "issue": null,
+        "startPage": "65",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "SPADES: A Productive Design Flow for Versal Programmable Logic",
+        "authors": [
+            {
+                "id": 37090071789,
+                "preferredName": "Tan Nguyen",
+                "firstName": "Tan",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37090071852,
+                "preferredName": "Zachary Blair",
+                "firstName": "Zachary",
+                "lastName": "Blair"
+            },
+            {
+                "id": 37271629400,
+                "preferredName": "Stephen Neuendorffer",
+                "firstName": "Stephen",
+                "lastName": "Neuendorffer"
+            },
+            {
+                "id": 37294181800,
+                "preferredName": "John Wawrzynek",
+                "firstName": "John",
+                "lastName": "Wawrzynek"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00008",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296342",
+        "articleTitle": "Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "xxiv",
+        "endPage": "xxiv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00001",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296321",
+        "articleTitle": "Title Page i",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Title Page i",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00002",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296325",
+        "articleTitle": "Title Page iii",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Title Page iii",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00005",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296243",
+        "articleTitle": "Preface",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiii",
+        "endPage": "xiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Preface",
+        "authors": [
+            {
+                "id": 37265768300,
+                "preferredName": "Ioannis Sourdis",
+                "firstName": "Ioannis",
+                "lastName": "Sourdis"
+            },
+            {
+                "id": 37272474100,
+                "preferredName": "Nele Mentens",
+                "firstName": "Nele",
+                "lastName": "Mentens"
+            },
+            {
+                "id": 37090069697,
+                "preferredName": "Leonel Sousa",
+                "firstName": "Leonel",
+                "lastName": "Sousa"
+            },
+            {
+                "id": 37267116100,
+                "preferredName": "Pedro Trancoso",
+                "firstName": "Pedro",
+                "lastName": "Trancoso"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00007",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296450",
+        "articleTitle": "Keynotes",
+        "volume": null,
+        "issue": null,
+        "startPage": "xix",
+        "endPage": "xxiii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Keynotes",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00003",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296386",
+        "articleTitle": "Copyright Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Copyright Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00006",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296432",
+        "articleTitle": "Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "xiv",
+        "endPage": "xviii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00004",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296363",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10296174",
+        "doi": "10.1109/FPL60245.2023.00072",
+        "publicationYear": "2023",
+        "publicationDate": "4-8 Sept. 2023",
+        "articleNumber": "10296301",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "367",
+        "endPage": "370",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2023 33rd International Conference on Field-Programmable Logic and Applications (FPL)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

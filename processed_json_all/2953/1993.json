@@ -1,0 +1,1191 @@
+[
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365579",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365579",
+        "articleTitle": "Scalable, extensible, and portable numerical libraries",
+        "volume": null,
+        "issue": null,
+        "startPage": "87",
+        "endPage": "93",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Scalable, extensible, and portable numerical libraries",
+        "authors": [
+            {
+                "id": 37284797700,
+                "preferredName": "W. Gropp",
+                "firstName": "W.",
+                "lastName": "Gropp"
+            },
+            {
+                "id": 37650878100,
+                "preferredName": "B. Smith",
+                "firstName": "B.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365571",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365571",
+        "articleTitle": "The MPI communication library: its design and a portable implementation",
+        "volume": null,
+        "issue": null,
+        "startPage": "160",
+        "endPage": "165",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "The MPI communication library: its design and a portable implementation",
+        "authors": [
+            {
+                "id": 37284797700,
+                "preferredName": "W. Gropp",
+                "firstName": "W.",
+                "lastName": "Gropp"
+            },
+            {
+                "id": 37357223200,
+                "preferredName": "E. Lusk",
+                "firstName": "E.",
+                "lastName": "Lusk"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365587",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365587",
+        "articleTitle": "Out of core, out of mind: practical parallel I/O",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Out of core, out of mind: practical parallel I/O",
+        "authors": [
+            {
+                "id": 37347176900,
+                "preferredName": "D.E. Womble",
+                "firstName": "D.E.",
+                "lastName": "Womble"
+            },
+            {
+                "id": 37664882200,
+                "preferredName": "D.S. Greenberg",
+                "firstName": "D.S.",
+                "lastName": "Greenberg"
+            },
+            {
+                "id": 37296322500,
+                "preferredName": "R.E. Riesen",
+                "firstName": "R.E.",
+                "lastName": "Riesen"
+            },
+            {
+                "id": 37350563300,
+                "preferredName": "S.R. Wheat",
+                "firstName": "S.R.",
+                "lastName": "Wheat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365570",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365570",
+        "articleTitle": "Writing libraries in MPI",
+        "volume": null,
+        "issue": null,
+        "startPage": "166",
+        "endPage": "173",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Writing libraries in MPI",
+        "authors": [
+            {
+                "id": 37347707700,
+                "preferredName": "A. Skjellum",
+                "firstName": "A.",
+                "lastName": "Skjellum"
+            },
+            {
+                "id": 37661826600,
+                "preferredName": "N.E. Doss",
+                "firstName": "N.E.",
+                "lastName": "Doss"
+            },
+            {
+                "id": 37321036600,
+                "preferredName": "P.V. Bangalore",
+                "firstName": "P.V.",
+                "lastName": "Bangalore"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365573",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365573",
+        "articleTitle": "Comparison of scalable parallel matrix multiplication libraries",
+        "volume": null,
+        "issue": null,
+        "startPage": "142",
+        "endPage": "149",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Comparison of scalable parallel matrix multiplication libraries",
+        "authors": [
+            {
+                "id": 38276052800,
+                "preferredName": "S. Huss-Lederman",
+                "firstName": "S.",
+                "lastName": "Huss-Lederman"
+            },
+            {
+                "id": 37661399000,
+                "preferredName": "E.M. Jacobson",
+                "firstName": "E.M.",
+                "lastName": "Jacobson"
+            },
+            {
+                "id": 38274093200,
+                "preferredName": "A. Tsao",
+                "firstName": "A.",
+                "lastName": "Tsao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365560",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365560",
+        "articleTitle": "Parallel differential-algebraic equation solvers for power system transient stability analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "240",
+        "endPage": "244",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Parallel differential-algebraic equation solvers for power system transient stability analysis",
+        "authors": [
+            {
+                "id": 37087624706,
+                "preferredName": "K. Anupindi",
+                "firstName": "K.",
+                "lastName": "Anupindi"
+            },
+            {
+                "id": 37347707700,
+                "preferredName": "A. Skjellum",
+                "firstName": "A.",
+                "lastName": "Skjellum"
+            },
+            {
+                "id": 37281800100,
+                "preferredName": "P. Coddington",
+                "firstName": "P.",
+                "lastName": "Coddington"
+            },
+            {
+                "id": 37268873900,
+                "preferredName": "G. Fox",
+                "firstName": "G.",
+                "lastName": "Fox"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365574",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365574",
+        "articleTitle": "Dense and iterative concurrent linear algebra in the Multicomputers Toolbox",
+        "volume": null,
+        "issue": null,
+        "startPage": "132",
+        "endPage": "141",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Dense and iterative concurrent linear algebra in the Multicomputers Toolbox",
+        "authors": [
+            {
+                "id": 37321036600,
+                "preferredName": "P.V. Bangalore",
+                "firstName": "P.V.",
+                "lastName": "Bangalore"
+            },
+            {
+                "id": 37347707700,
+                "preferredName": "A. Skjellum",
+                "firstName": "A.",
+                "lastName": "Skjellum"
+            },
+            {
+                "id": 37653290700,
+                "preferredName": "C. Baldwin",
+                "firstName": "C.",
+                "lastName": "Baldwin"
+            },
+            {
+                "id": 37383382200,
+                "preferredName": "S.G. Smith",
+                "firstName": "S.G.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365568",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365568",
+        "articleTitle": "Defining and measuring scalability",
+        "volume": null,
+        "issue": null,
+        "startPage": "183",
+        "endPage": "186",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Defining and measuring scalability",
+        "authors": [
+            {
+                "id": 37390089700,
+                "preferredName": "E.A. Luke",
+                "firstName": "E.A.",
+                "lastName": "Luke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365559",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365559",
+        "articleTitle": "Parallel matrix transpose algorithms on distributed memory concurrent computers",
+        "volume": null,
+        "issue": null,
+        "startPage": "245",
+        "endPage": "252",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Parallel matrix transpose algorithms on distributed memory concurrent computers",
+        "authors": [
+            {
+                "id": 37087221735,
+                "preferredName": "Jaeyoung Choi",
+                "firstName": null,
+                "lastName": "Jaeyoung Choi"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "J.J. Dongarra",
+                "firstName": "J.J.",
+                "lastName": "Dongarra"
+            },
+            {
+                "id": 37269598100,
+                "preferredName": "D.W. Walker",
+                "firstName": "D.W.",
+                "lastName": "Walker"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365565",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365565",
+        "articleTitle": "Concurrent DASSL: a second-generation DAE solver library",
+        "volume": null,
+        "issue": null,
+        "startPage": "204",
+        "endPage": "210",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Concurrent DASSL: a second-generation DAE solver library",
+        "authors": [
+            {
+                "id": 37064492800,
+                "preferredName": "A. Leung",
+                "firstName": "A.",
+                "lastName": "Leung"
+            },
+            {
+                "id": 37347707700,
+                "preferredName": "A. Skjellum",
+                "firstName": "A.",
+                "lastName": "Skjellum"
+            },
+            {
+                "id": 37268873900,
+                "preferredName": "G. Fox",
+                "firstName": "G.",
+                "lastName": "Fox"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365563",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365563",
+        "articleTitle": "ScaLAPACK++: an object oriented linear algebra library for scalable systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "216",
+        "endPage": "223",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "ScaLAPACK++: an object oriented linear algebra library for scalable systems",
+        "authors": [
+            {
+                "id": 37270009400,
+                "preferredName": "J.J. Dongarra",
+                "firstName": "J.J.",
+                "lastName": "Dongarra"
+            },
+            {
+                "id": 37390248600,
+                "preferredName": "R. Pozo",
+                "firstName": "R.",
+                "lastName": "Pozo"
+            },
+            {
+                "id": 37269598100,
+                "preferredName": "D.W. Walker",
+                "firstName": "D.W.",
+                "lastName": "Walker"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365562",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365562",
+        "articleTitle": "Scalable libraries for graph partitioning",
+        "volume": null,
+        "issue": null,
+        "startPage": "224",
+        "endPage": "231",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Scalable libraries for graph partitioning",
+        "authors": [
+            {
+                "id": 37087629596,
+                "preferredName": "R. Bhargava",
+                "firstName": "R.",
+                "lastName": "Bhargava"
+            },
+            {
+                "id": 37268873900,
+                "preferredName": "G. Fox",
+                "firstName": "G.",
+                "lastName": "Fox"
+            },
+            {
+                "id": 37087397383,
+                "preferredName": "Chao-Wei Ou",
+                "firstName": null,
+                "lastName": "Chao-Wei Ou"
+            },
+            {
+                "id": 37283782300,
+                "preferredName": "S. Ranka",
+                "firstName": "S.",
+                "lastName": "Ranka"
+            },
+            {
+                "id": 37085430257,
+                "preferredName": "V. Singh",
+                "firstName": "V.",
+                "lastName": "Singh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365564",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365564",
+        "articleTitle": "Solving nonsymmetric eigenproblems on distributed memory concurrent computers",
+        "volume": null,
+        "issue": null,
+        "startPage": "211",
+        "endPage": "215",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Solving nonsymmetric eigenproblems on distributed memory concurrent computers",
+        "authors": [
+            {
+                "id": 37449054000,
+                "preferredName": "A.P. Petitet",
+                "firstName": "A.P.",
+                "lastName": "Petitet"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365577",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365577",
+        "articleTitle": "Scalable performance analysis: the Pablo performance analysis environment",
+        "volume": null,
+        "issue": null,
+        "startPage": "104",
+        "endPage": "113",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Scalable performance analysis: the Pablo performance analysis environment",
+        "authors": [
+            {
+                "id": 37283944900,
+                "preferredName": "D.A. Reed",
+                "firstName": "D.A.",
+                "lastName": "Reed"
+            },
+            {
+                "id": 37281769800,
+                "preferredName": "P.C. Roth",
+                "firstName": "P.C.",
+                "lastName": "Roth"
+            },
+            {
+                "id": 37348741700,
+                "preferredName": "R.A. Aydt",
+                "firstName": "R.A.",
+                "lastName": "Aydt"
+            },
+            {
+                "id": 37087491105,
+                "preferredName": "K.A. Shields",
+                "firstName": "K.A.",
+                "lastName": "Shields"
+            },
+            {
+                "id": 37087490499,
+                "preferredName": "L.F. Tavera",
+                "firstName": "L.F.",
+                "lastName": "Tavera"
+            },
+            {
+                "id": 37087490808,
+                "preferredName": "R.J. Noe",
+                "firstName": "R.J.",
+                "lastName": "Noe"
+            },
+            {
+                "id": 37087489872,
+                "preferredName": "B.W. Schwartz",
+                "firstName": "B.W.",
+                "lastName": "Schwartz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365566",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365566",
+        "articleTitle": "Parallel block-diagonal-bordered sparse linear solvers for electrical power system applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "195",
+        "endPage": "203",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Parallel block-diagonal-bordered sparse linear solvers for electrical power system applications",
+        "authors": [
+            {
+                "id": 37658538300,
+                "preferredName": "D.P. Koester",
+                "firstName": "D.P.",
+                "lastName": "Koester"
+            },
+            {
+                "id": 37283782300,
+                "preferredName": "S. Ranka",
+                "firstName": "S.",
+                "lastName": "Ranka"
+            },
+            {
+                "id": 37268873900,
+                "preferredName": "G.C. Fox",
+                "firstName": "G.C.",
+                "lastName": "Fox"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365578",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365578",
+        "articleTitle": "The Multicomputer Toolbox: current and future directions",
+        "volume": null,
+        "issue": null,
+        "startPage": "94",
+        "endPage": "103",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "The Multicomputer Toolbox: current and future directions",
+        "authors": [
+            {
+                "id": 37347707700,
+                "preferredName": "A. Skjellum",
+                "firstName": "A.",
+                "lastName": "Skjellum"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365580",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365580",
+        "articleTitle": "Run-time recognition of task parallelism within the P++ parallel array class library",
+        "volume": null,
+        "issue": null,
+        "startPage": "77",
+        "endPage": "86",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Run-time recognition of task parallelism within the P++ parallel array class library",
+        "authors": [
+            {
+                "id": 37087829849,
+                "preferredName": "R. Parsons",
+                "firstName": "R.",
+                "lastName": "Parsons"
+            },
+            {
+                "id": 37326536200,
+                "preferredName": "D. Quinlan",
+                "firstName": "D.",
+                "lastName": "Quinlan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365583",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365583",
+        "articleTitle": "Applying the CHAOS/PARTI library to irregular problems in computational chemistry and computational aerodynamics",
+        "volume": null,
+        "issue": null,
+        "startPage": "45",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Applying the CHAOS/PARTI library to irregular problems in computational chemistry and computational aerodynamics",
+        "authors": [
+            {
+                "id": 37382677100,
+                "preferredName": "R. Das",
+                "firstName": "R.",
+                "lastName": "Das"
+            },
+            {
+                "id": 37087219965,
+                "preferredName": "Yuan-Shin Hwang",
+                "firstName": null,
+                "lastName": "Yuan-Shin Hwang"
+            },
+            {
+                "id": 37278726800,
+                "preferredName": "M. Uysal",
+                "firstName": "M.",
+                "lastName": "Uysal"
+            },
+            {
+                "id": 37275776100,
+                "preferredName": "J. Saltz",
+                "firstName": "J.",
+                "lastName": "Saltz"
+            },
+            {
+                "id": 37276990000,
+                "preferredName": "A. Sussman",
+                "firstName": "A.",
+                "lastName": "Sussman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365586",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365586",
+        "articleTitle": "Modeling groundwater flow on MPPs",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Modeling groundwater flow on MPPs",
+        "authors": [
+            {
+                "id": 37659779200,
+                "preferredName": "S.F. Ashby",
+                "firstName": "S.F.",
+                "lastName": "Ashby"
+            },
+            {
+                "id": 37390564000,
+                "preferredName": "R.D. Falgout",
+                "firstName": "R.D.",
+                "lastName": "Falgout"
+            },
+            {
+                "id": 37383382200,
+                "preferredName": "S.G. Smith",
+                "firstName": "S.G.",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37658538500,
+                "preferredName": "A.F.B. Tompson",
+                "firstName": "A.F.B.",
+                "lastName": "Tompson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365567",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365567",
+        "articleTitle": "A library-based program development environment for parallel image processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "187",
+        "endPage": "194",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "A library-based program development environment for parallel image processing",
+        "authors": [
+            {
+                "id": 37347831700,
+                "preferredName": "L.H. Jamieson",
+                "firstName": "L.H.",
+                "lastName": "Jamieson"
+            },
+            {
+                "id": 37266348300,
+                "preferredName": "E.J. Delp",
+                "firstName": "E.J.",
+                "lastName": "Delp"
+            },
+            {
+                "id": 37345962600,
+                "preferredName": "J.N. Patel",
+                "firstName": "J.N.",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37087825638,
+                "preferredName": "Chao-Chun Wang",
+                "firstName": null,
+                "lastName": "Chao-Chun Wang"
+            },
+            {
+                "id": 37273553800,
+                "preferredName": "A.A. Khokhar",
+                "firstName": "A.A.",
+                "lastName": "Khokhar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365572",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365572",
+        "articleTitle": "High-level message-passing constructs for Zipcode 1.0: design and implementation",
+        "volume": null,
+        "issue": null,
+        "startPage": "150",
+        "endPage": "159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "High-level message-passing constructs for Zipcode 1.0: design and implementation",
+        "authors": [
+            {
+                "id": 37383382200,
+                "preferredName": "S.G. Smith",
+                "firstName": "S.G.",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37390564000,
+                "preferredName": "R.D. Falgout",
+                "firstName": "R.D.",
+                "lastName": "Falgout"
+            },
+            {
+                "id": 37347482800,
+                "preferredName": "C.H. Still",
+                "firstName": "C.H.",
+                "lastName": "Still"
+            },
+            {
+                "id": 37347707700,
+                "preferredName": "A. Skjellum",
+                "firstName": "A.",
+                "lastName": "Skjellum"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365576",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365576",
+        "articleTitle": "Distributed solution of sparse symmetric positive definite systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "114",
+        "endPage": "122",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Distributed solution of sparse symmetric positive definite systems",
+        "authors": [
+            {
+                "id": 37353708500,
+                "preferredName": "M.T. Heath",
+                "firstName": "M.T.",
+                "lastName": "Heath"
+            },
+            {
+                "id": 37088088827,
+                "preferredName": "P. Raghavan",
+                "firstName": "P.",
+                "lastName": "Raghavan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365582",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365582",
+        "articleTitle": "CMSSL: a scalable scientific software library",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "66",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "CMSSL: a scalable scientific software library",
+        "authors": [
+            {
+                "id": 37284703900,
+                "preferredName": "S.L. Johnsson",
+                "firstName": "S.L.",
+                "lastName": "Johnsson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365575",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365575",
+        "articleTitle": "The PRISM project: infrastructure and algorithms for parallel eigensolvers",
+        "volume": null,
+        "issue": null,
+        "startPage": "123",
+        "endPage": "131",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "The PRISM project: infrastructure and algorithms for parallel eigensolvers",
+        "authors": [
+            {
+                "id": 37330529700,
+                "preferredName": "C. Bischof",
+                "firstName": "C.",
+                "lastName": "Bischof"
+            },
+            {
+                "id": 38276052800,
+                "preferredName": "S. Huss-Lederman",
+                "firstName": "S.",
+                "lastName": "Huss-Lederman"
+            },
+            {
+                "id": 37087144330,
+                "preferredName": "Xiaobai Sun",
+                "firstName": null,
+                "lastName": "Xiaobai Sun"
+            },
+            {
+                "id": 38274093200,
+                "preferredName": "A. Tsao",
+                "firstName": "A.",
+                "lastName": "Tsao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365561",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365561",
+        "articleTitle": "Enhancing applications performance on Intel Paragon through dynamic memory allocation",
+        "volume": null,
+        "issue": null,
+        "startPage": "232",
+        "endPage": "239",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Enhancing applications performance on Intel Paragon through dynamic memory allocation",
+        "authors": [
+            {
+                "id": 37344182600,
+                "preferredName": "S. Saini",
+                "firstName": "S.",
+                "lastName": "Saini"
+            },
+            {
+                "id": 38185326200,
+                "preferredName": "H. Simon",
+                "firstName": "H.",
+                "lastName": "Simon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365585",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365585",
+        "articleTitle": "A concurrent, multigroup, discrete ordinates model of neutron transport",
+        "volume": null,
+        "issue": null,
+        "startPage": "26",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "A concurrent, multigroup, discrete ordinates model of neutron transport",
+        "authors": [
+            {
+                "id": 37297251100,
+                "preferredName": "M.R. Dorr",
+                "firstName": "M.R.",
+                "lastName": "Dorr"
+            },
+            {
+                "id": 37347482800,
+                "preferredName": "C.H. Still",
+                "firstName": "C.H.",
+                "lastName": "Still"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365558",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365558",
+        "articleTitle": "The integrated library approach to parallel computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "253",
+        "endPage": "260",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "The integrated library approach to parallel computing",
+        "authors": [
+            {
+                "id": 37658254500,
+                "preferredName": "A.D. Knies",
+                "firstName": "A.D.",
+                "lastName": "Knies"
+            },
+            {
+                "id": 37356341700,
+                "preferredName": "G.B. Adams",
+                "firstName": "G.B.",
+                "lastName": "Adams"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365584",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365584",
+        "articleTitle": "An alternative to data mapping for parallel PDE solvers: parallel grid generation",
+        "volume": null,
+        "issue": null,
+        "startPage": "36",
+        "endPage": "44",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "An alternative to data mapping for parallel PDE solvers: parallel grid generation",
+        "authors": [
+            {
+                "id": 37269239800,
+                "preferredName": "N.P. Chrisochoides",
+                "firstName": "N.P.",
+                "lastName": "Chrisochoides"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365588",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365588",
+        "articleTitle": "NHPDCC: The National High Performance Distributed Computing Consortium",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "NHPDCC: The National High Performance Distributed Computing Consortium",
+        "authors": [
+            {
+                "id": 37658260700,
+                "preferredName": "W.R. Briley",
+                "firstName": "W.R.",
+                "lastName": "Briley"
+            },
+            {
+                "id": 37386282700,
+                "preferredName": "D.S. Reese",
+                "firstName": "D.S.",
+                "lastName": "Reese"
+            },
+            {
+                "id": 37347707700,
+                "preferredName": "A. Skjellum",
+                "firstName": "A.",
+                "lastName": "Skjellum"
+            },
+            {
+                "id": 37658261500,
+                "preferredName": "L.H. Turcotte",
+                "firstName": "L.H.",
+                "lastName": "Turcotte"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365569",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365569",
+        "articleTitle": "Using DASPK on the TMC CM5. Experiences with two programming models",
+        "volume": null,
+        "issue": null,
+        "startPage": "174",
+        "endPage": "182",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Using DASPK on the TMC CM5. Experiences with two programming models",
+        "authors": [
+            {
+                "id": 37652492400,
+                "preferredName": "R.S. Maier",
+                "firstName": "R.S.",
+                "lastName": "Maier"
+            },
+            {
+                "id": 37283897600,
+                "preferredName": "L.R. Petzold",
+                "firstName": "L.R.",
+                "lastName": "Petzold"
+            },
+            {
+                "id": 37655121800,
+                "preferredName": "W. Rath",
+                "firstName": "W.",
+                "lastName": "Rath"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365581",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365581",
+        "articleTitle": "Scalable libraries for Fortran 90D/High Performance Fortran",
+        "volume": null,
+        "issue": null,
+        "startPage": "67",
+        "endPage": "76",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Scalable libraries for Fortran 90D/High Performance Fortran",
+        "authors": [
+            {
+                "id": 37377648700,
+                "preferredName": "Z. Bozkus",
+                "firstName": "Z.",
+                "lastName": "Bozkus"
+            },
+            {
+                "id": 37285106100,
+                "preferredName": "A. Choudhary",
+                "firstName": "A.",
+                "lastName": "Choudhary"
+            },
+            {
+                "id": 37268873900,
+                "preferredName": "G. Fox",
+                "firstName": "G.",
+                "lastName": "Fox"
+            },
+            {
+                "id": 37276810100,
+                "preferredName": "T. Haupt",
+                "firstName": "T.",
+                "lastName": "Haupt"
+            },
+            {
+                "id": 37283782300,
+                "preferredName": "S. Ranka",
+                "firstName": "S.",
+                "lastName": "Ranka"
+            },
+            {
+                "id": 37284796600,
+                "preferredName": "R. Thakur",
+                "firstName": "R.",
+                "lastName": "Thakur"
+            },
+            {
+                "id": 37087658136,
+                "preferredName": "Jhy-Chun Wang",
+                "firstName": null,
+                "lastName": "Jhy-Chun Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "2953",
+        "doi": "10.1109/SPLC.1993.365589",
+        "publicationYear": "1993",
+        "publicationDate": "6-8 Oct. 1993",
+        "articleNumber": "365589",
+        "articleTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "volume": null,
+        "issue": null,
+        "startPage": "0_1",
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "highlightedTitle": "Proceedings of Scalable Parallel Libraries Conference",
+        "authors": []
+    }
+]

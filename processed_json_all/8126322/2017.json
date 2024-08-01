@@ -1,0 +1,2870 @@
+[
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080246",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192463",
+        "articleTitle": "In-datacenter performance analysis of a tensor processing unit",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "In-datacenter performance analysis of a tensor processing unit",
+        "authors": [
+            {
+                "id": 37273884000,
+                "preferredName": "Norman P. Jouppi",
+                "firstName": "Norman P.",
+                "lastName": "Jouppi"
+            },
+            {
+                "id": 37088526561,
+                "preferredName": "Cliff Young",
+                "firstName": "Cliff",
+                "lastName": "Young"
+            },
+            {
+                "id": 37086378613,
+                "preferredName": "Nishant Patil",
+                "firstName": "Nishant",
+                "lastName": "Patil"
+            },
+            {
+                "id": 37274686300,
+                "preferredName": "David Patterson",
+                "firstName": "David",
+                "lastName": "Patterson"
+            },
+            {
+                "id": 37085447993,
+                "preferredName": "Gaurav Agrawal",
+                "firstName": "Gaurav",
+                "lastName": "Agrawal"
+            },
+            {
+                "id": 37088728649,
+                "preferredName": "Raminder Bajwa",
+                "firstName": "Raminder",
+                "lastName": "Bajwa"
+            },
+            {
+                "id": 37088724095,
+                "preferredName": "Sarah Bates",
+                "firstName": "Sarah",
+                "lastName": "Bates"
+            },
+            {
+                "id": 37088738570,
+                "preferredName": "Suresh Bhatia",
+                "firstName": "Suresh",
+                "lastName": "Bhatia"
+            },
+            {
+                "id": 37088736498,
+                "preferredName": "Nan Boden",
+                "firstName": "Nan",
+                "lastName": "Boden"
+            },
+            {
+                "id": 37088728647,
+                "preferredName": "Al Borchers",
+                "firstName": "Al",
+                "lastName": "Borchers"
+            },
+            {
+                "id": 37088731063,
+                "preferredName": "Rick Boyle",
+                "firstName": "Rick",
+                "lastName": "Boyle"
+            },
+            {
+                "id": 37088740767,
+                "preferredName": "Pierre-luc Cantin",
+                "firstName": "Pierre-luc",
+                "lastName": "Cantin"
+            },
+            {
+                "id": 37088739627,
+                "preferredName": "Clifford Chao",
+                "firstName": "Clifford",
+                "lastName": "Chao"
+            },
+            {
+                "id": 37088730741,
+                "preferredName": "Chris Clark",
+                "firstName": "Chris",
+                "lastName": "Clark"
+            },
+            {
+                "id": 37088729399,
+                "preferredName": "Jeremy Coriell",
+                "firstName": "Jeremy",
+                "lastName": "Coriell"
+            },
+            {
+                "id": 37088734061,
+                "preferredName": "Mike Daley",
+                "firstName": "Mike",
+                "lastName": "Daley"
+            },
+            {
+                "id": 37088729838,
+                "preferredName": "Matt Dau",
+                "firstName": "Matt",
+                "lastName": "Dau"
+            },
+            {
+                "id": 37077539500,
+                "preferredName": "Jeffrey Dean",
+                "firstName": "Jeffrey",
+                "lastName": "Dean"
+            },
+            {
+                "id": 37088730911,
+                "preferredName": "Ben Gelb",
+                "firstName": "Ben",
+                "lastName": "Gelb"
+            },
+            {
+                "id": 37088732829,
+                "preferredName": "Tara Vazir Ghaemmaghami",
+                "firstName": "Tara Vazir",
+                "lastName": "Ghaemmaghami"
+            },
+            {
+                "id": 37088726152,
+                "preferredName": "Rajendra Gottipati",
+                "firstName": "Rajendra",
+                "lastName": "Gottipati"
+            },
+            {
+                "id": 37088745368,
+                "preferredName": "William Gulland",
+                "firstName": "William",
+                "lastName": "Gulland"
+            },
+            {
+                "id": 37060940200,
+                "preferredName": "Robert Hagmann",
+                "firstName": "Robert",
+                "lastName": "Hagmann"
+            },
+            {
+                "id": 37088367066,
+                "preferredName": "C. Richard Ho",
+                "firstName": "C. Richard",
+                "lastName": "Ho"
+            },
+            {
+                "id": 37088746845,
+                "preferredName": "Doug Hogberg",
+                "firstName": "Doug",
+                "lastName": "Hogberg"
+            },
+            {
+                "id": 37088731366,
+                "preferredName": "John Hu",
+                "firstName": "John",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37282561600,
+                "preferredName": "Robert Hundt",
+                "firstName": "Robert",
+                "lastName": "Hundt"
+            },
+            {
+                "id": 37088744918,
+                "preferredName": "Dan Hurt",
+                "firstName": "Dan",
+                "lastName": "Hurt"
+            },
+            {
+                "id": 37704613400,
+                "preferredName": "Julian Ibarz",
+                "firstName": "Julian",
+                "lastName": "Ibarz"
+            },
+            {
+                "id": 37088728152,
+                "preferredName": "Aaron Jaffey",
+                "firstName": "Aaron",
+                "lastName": "Jaffey"
+            },
+            {
+                "id": 37088730742,
+                "preferredName": "Alek Jaworski",
+                "firstName": "Alek",
+                "lastName": "Jaworski"
+            },
+            {
+                "id": 37088732264,
+                "preferredName": "Alexander Kaplan",
+                "firstName": "Alexander",
+                "lastName": "Kaplan"
+            },
+            {
+                "id": 37088727758,
+                "preferredName": "Harshit Khaitan",
+                "firstName": "Harshit",
+                "lastName": "Khaitan"
+            },
+            {
+                "id": 37072553100,
+                "preferredName": "Daniel Killebrew",
+                "firstName": "Daniel",
+                "lastName": "Killebrew"
+            },
+            {
+                "id": 37088728054,
+                "preferredName": "Andy Koch",
+                "firstName": "Andy",
+                "lastName": "Koch"
+            },
+            {
+                "id": 37088728588,
+                "preferredName": "Naveen Kumar",
+                "firstName": "Naveen",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37088725869,
+                "preferredName": "Steve Lacy",
+                "firstName": "Steve",
+                "lastName": "Lacy"
+            },
+            {
+                "id": 37373735900,
+                "preferredName": "James Laudon",
+                "firstName": "James",
+                "lastName": "Laudon"
+            },
+            {
+                "id": 37088738301,
+                "preferredName": "James Law",
+                "firstName": "James",
+                "lastName": "Law"
+            },
+            {
+                "id": 38078648600,
+                "preferredName": "Diemthu Le",
+                "firstName": "Diemthu",
+                "lastName": "Le"
+            },
+            {
+                "id": 37088045801,
+                "preferredName": "Chris Leary",
+                "firstName": "Chris",
+                "lastName": "Leary"
+            },
+            {
+                "id": 37437170000,
+                "preferredName": "Zhuyuan Liu",
+                "firstName": "Zhuyuan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088723144,
+                "preferredName": "Kyle Lucke",
+                "firstName": "Kyle",
+                "lastName": "Lucke"
+            },
+            {
+                "id": 37088738814,
+                "preferredName": "Alan Lundin",
+                "firstName": "Alan",
+                "lastName": "Lundin"
+            },
+            {
+                "id": 37088734770,
+                "preferredName": "Gordon MacKean",
+                "firstName": "Gordon",
+                "lastName": "MacKean"
+            },
+            {
+                "id": 37901282900,
+                "preferredName": "Adriana Maggiore",
+                "firstName": "Adriana",
+                "lastName": "Maggiore"
+            },
+            {
+                "id": 37088737080,
+                "preferredName": "Maire Mahony",
+                "firstName": "Maire",
+                "lastName": "Mahony"
+            },
+            {
+                "id": 37088736565,
+                "preferredName": "Kieran Miller",
+                "firstName": "Kieran",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37088740343,
+                "preferredName": "Rahul Nagarajan",
+                "firstName": "Rahul",
+                "lastName": "Nagarajan"
+            },
+            {
+                "id": 37088738941,
+                "preferredName": "Ravi Narayanaswami",
+                "firstName": "Ravi",
+                "lastName": "Narayanaswami"
+            },
+            {
+                "id": 37088742384,
+                "preferredName": "Ray Ni",
+                "firstName": "Ray",
+                "lastName": "Ni"
+            },
+            {
+                "id": 37088743387,
+                "preferredName": "Kathy Nix",
+                "firstName": "Kathy",
+                "lastName": "Nix"
+            },
+            {
+                "id": 37088242620,
+                "preferredName": "Thomas Norrie",
+                "firstName": "Thomas",
+                "lastName": "Norrie"
+            },
+            {
+                "id": 37088735521,
+                "preferredName": "Mark Omernick",
+                "firstName": "Mark",
+                "lastName": "Omernick"
+            },
+            {
+                "id": 37088740120,
+                "preferredName": "Narayana Penukonda",
+                "firstName": "Narayana",
+                "lastName": "Penukonda"
+            },
+            {
+                "id": 37088734563,
+                "preferredName": "Andy Phelps",
+                "firstName": "Andy",
+                "lastName": "Phelps"
+            },
+            {
+                "id": 37088484477,
+                "preferredName": "Jonathan Ross",
+                "firstName": "Jonathan",
+                "lastName": "Ross"
+            },
+            {
+                "id": 37088741087,
+                "preferredName": "Matt Ross",
+                "firstName": "Matt",
+                "lastName": "Ross"
+            },
+            {
+                "id": 37088735410,
+                "preferredName": "Amir Salek",
+                "firstName": "Amir",
+                "lastName": "Salek"
+            },
+            {
+                "id": 37689763400,
+                "preferredName": "Emad Samadiani",
+                "firstName": "Emad",
+                "lastName": "Samadiani"
+            },
+            {
+                "id": 37088726810,
+                "preferredName": "Chris Severn",
+                "firstName": "Chris",
+                "lastName": "Severn"
+            },
+            {
+                "id": 37294271100,
+                "preferredName": "Gregory Sizikov",
+                "firstName": "Gregory",
+                "lastName": "Sizikov"
+            },
+            {
+                "id": 37088734816,
+                "preferredName": "Matthew Snelham",
+                "firstName": "Matthew",
+                "lastName": "Snelham"
+            },
+            {
+                "id": 37088723655,
+                "preferredName": "Jed Souter",
+                "firstName": "Jed",
+                "lastName": "Souter"
+            },
+            {
+                "id": 37088736892,
+                "preferredName": "Dan Steinberg",
+                "firstName": "Dan",
+                "lastName": "Steinberg"
+            },
+            {
+                "id": 37088736683,
+                "preferredName": "Andy Swing",
+                "firstName": "Andy",
+                "lastName": "Swing"
+            },
+            {
+                "id": 37088741545,
+                "preferredName": "Mercedes Tan",
+                "firstName": "Mercedes",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37271670300,
+                "preferredName": "Gregory Thorson",
+                "firstName": "Gregory",
+                "lastName": "Thorson"
+            },
+            {
+                "id": 37088729413,
+                "preferredName": "Bo Tian",
+                "firstName": "Bo",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37088242851,
+                "preferredName": "Horia Toma",
+                "firstName": "Horia",
+                "lastName": "Toma"
+            },
+            {
+                "id": 37088726196,
+                "preferredName": "Erick Tuttle",
+                "firstName": "Erick",
+                "lastName": "Tuttle"
+            },
+            {
+                "id": 37086570082,
+                "preferredName": "Vijay Vasudevan",
+                "firstName": "Vijay",
+                "lastName": "Vasudevan"
+            },
+            {
+                "id": 37088732445,
+                "preferredName": "Richard Walter",
+                "firstName": "Richard",
+                "lastName": "Walter"
+            },
+            {
+                "id": 37088727150,
+                "preferredName": "Walter Wang",
+                "firstName": "Walter",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088744567,
+                "preferredName": "Eric Wilcox",
+                "firstName": "Eric",
+                "lastName": "Wilcox"
+            },
+            {
+                "id": 38243849300,
+                "preferredName": "Doe Hyun Yoon",
+                "firstName": "Doe Hyun",
+                "lastName": "Yoon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080254",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192478",
+        "articleTitle": "SCNN: An accelerator for compressed-sparse convolutional neural networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SCNN: An accelerator for compressed-sparse convolutional neural networks",
+        "authors": [
+            {
+                "id": 37282413400,
+                "preferredName": "Angshuman Parashar",
+                "firstName": "Angshuman",
+                "lastName": "Parashar"
+            },
+            {
+                "id": 38265603700,
+                "preferredName": "Minsoo Rhu",
+                "firstName": "Minsoo",
+                "lastName": "Rhu"
+            },
+            {
+                "id": 37086279115,
+                "preferredName": "Anurag Mukkara",
+                "firstName": "Anurag",
+                "lastName": "Mukkara"
+            },
+            {
+                "id": 37085629376,
+                "preferredName": "Antonio Puglielli",
+                "firstName": "Antonio",
+                "lastName": "Puglielli"
+            },
+            {
+                "id": 37722193100,
+                "preferredName": "Rangharajan Venkatesan",
+                "firstName": "Rangharajan",
+                "lastName": "Venkatesan"
+            },
+            {
+                "id": 37282484400,
+                "preferredName": "Brucek Khailany",
+                "firstName": "Brucek",
+                "lastName": "Khailany"
+            },
+            {
+                "id": 37266272500,
+                "preferredName": "Joel Emer",
+                "firstName": "Joel",
+                "lastName": "Emer"
+            },
+            {
+                "id": 37282751600,
+                "preferredName": "Stephen W. Keckler",
+                "firstName": "Stephen W.",
+                "lastName": "Keckler"
+            },
+            {
+                "id": 37282485100,
+                "preferredName": "William J. Dally",
+                "firstName": "William J.",
+                "lastName": "Dally"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080221",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192499",
+        "articleTitle": "Maximizing CNN accelerator efficiency through resource partitioning",
+        "volume": null,
+        "issue": null,
+        "startPage": "535",
+        "endPage": "547",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Maximizing CNN accelerator efficiency through resource partitioning",
+        "authors": [
+            {
+                "id": 37085772767,
+                "preferredName": "Yongming Shen",
+                "firstName": "Yongming",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37395316000,
+                "preferredName": "Michael Ferdman",
+                "firstName": "Michael",
+                "lastName": "Ferdman"
+            },
+            {
+                "id": 37403753800,
+                "preferredName": "Peter Milder",
+                "firstName": "Peter",
+                "lastName": "Milder"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080256",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192487",
+        "articleTitle": "Plasticine: A reconfigurable architecture for parallel patterns",
+        "volume": null,
+        "issue": null,
+        "startPage": "389",
+        "endPage": "402",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Plasticine: A reconfigurable architecture for parallel patterns",
+        "authors": [
+            {
+                "id": 38234980400,
+                "preferredName": "Raghu Prabhakar",
+                "firstName": "Raghu",
+                "lastName": "Prabhakar"
+            },
+            {
+                "id": 37085852303,
+                "preferredName": "Yaqi Zhang",
+                "firstName": "Yaqi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 38469311900,
+                "preferredName": "David Koeplinger",
+                "firstName": "David",
+                "lastName": "Koeplinger"
+            },
+            {
+                "id": 37086300958,
+                "preferredName": "Matt Feldman",
+                "firstName": "Matt",
+                "lastName": "Feldman"
+            },
+            {
+                "id": 37086299388,
+                "preferredName": "Tian Zhao",
+                "firstName": "Tian",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085360534,
+                "preferredName": "Stefan Hadjis",
+                "firstName": "Stefan",
+                "lastName": "Hadjis"
+            },
+            {
+                "id": 37299270000,
+                "preferredName": "Ardavan Pedram",
+                "firstName": "Ardavan",
+                "lastName": "Pedram"
+            },
+            {
+                "id": 37282352700,
+                "preferredName": "Christos Kozyrakis",
+                "firstName": "Christos",
+                "lastName": "Kozyrakis"
+            },
+            {
+                "id": 37282353900,
+                "preferredName": "Kunle Olukotun",
+                "firstName": "Kunle",
+                "lastName": "Olukotun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080231",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192482",
+        "articleTitle": "MCM-GPU: Multi-chip-module GPUs for continued performance scalability",
+        "volume": null,
+        "issue": null,
+        "startPage": "320",
+        "endPage": "332",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "MCM-GPU: Multi-chip-module GPUs for continued performance scalability",
+        "authors": [
+            {
+                "id": 38503020500,
+                "preferredName": "Akhil Arunkumar",
+                "firstName": "Akhil",
+                "lastName": "Arunkumar"
+            },
+            {
+                "id": 37640432400,
+                "preferredName": "Evgeny Bolotin",
+                "firstName": "Evgeny",
+                "lastName": "Bolotin"
+            },
+            {
+                "id": 37086308270,
+                "preferredName": "Benjamin Cho",
+                "firstName": "Benjamin",
+                "lastName": "Cho"
+            },
+            {
+                "id": 37075504800,
+                "preferredName": "Ugljesa Milic",
+                "firstName": "Ugljesa",
+                "lastName": "Milic"
+            },
+            {
+                "id": 37085648603,
+                "preferredName": "Eiman Ebrahimi",
+                "firstName": "Eiman",
+                "lastName": "Ebrahimi"
+            },
+            {
+                "id": 37408471700,
+                "preferredName": "Oreste Villa",
+                "firstName": "Oreste",
+                "lastName": "Villa"
+            },
+            {
+                "id": 37298078500,
+                "preferredName": "Aamer Jaleel",
+                "firstName": "Aamer",
+                "lastName": "Jaleel"
+            },
+            {
+                "id": 37085392155,
+                "preferredName": "Carole-Jean Wu",
+                "firstName": "Carole-Jean",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37085439910,
+                "preferredName": "David Nellans",
+                "firstName": "David",
+                "lastName": "Nellans"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080215",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192500",
+        "articleTitle": "Scalpel: Customizing DNN pruning to the underlying hardware parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "548",
+        "endPage": "560",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Scalpel: Customizing DNN pruning to the underlying hardware parallelism",
+        "authors": [
+            {
+                "id": 37086264968,
+                "preferredName": "Jiecao Yu",
+                "firstName": "Jiecao",
+                "lastName": "Yu"
+            },
+            {
+                "id": 38580762400,
+                "preferredName": "Andrew Lukefahr",
+                "firstName": "Andrew",
+                "lastName": "Lukefahr"
+            },
+            {
+                "id": 37086270596,
+                "preferredName": "David Palframan",
+                "firstName": "David",
+                "lastName": "Palframan"
+            },
+            {
+                "id": 37428258500,
+                "preferredName": "Ganesh Dasika",
+                "firstName": "Ganesh",
+                "lastName": "Dasika"
+            },
+            {
+                "id": 37534767200,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "Scott Mahlke",
+                "firstName": "Scott",
+                "lastName": "Mahlke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080255",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192490",
+        "articleTitle": "Stream-dataflow acceleration",
+        "volume": null,
+        "issue": null,
+        "startPage": "416",
+        "endPage": "429",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Stream-dataflow acceleration",
+        "authors": [
+            {
+                "id": 38234971600,
+                "preferredName": "Tony Nowatzki",
+                "firstName": "Tony",
+                "lastName": "Nowatzki"
+            },
+            {
+                "id": 37085442266,
+                "preferredName": "Vinay Gangadhar",
+                "firstName": "Vinay",
+                "lastName": "Gangadhar"
+            },
+            {
+                "id": 37086139242,
+                "preferredName": "Newsha Ardalani",
+                "firstName": "Newsha",
+                "lastName": "Ardalani"
+            },
+            {
+                "id": 37398408100,
+                "preferredName": "Karthikeyan Sankaralingam",
+                "firstName": "Karthikeyan",
+                "lastName": "Sankaralingam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080223",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192483",
+        "articleTitle": "EDDIE: EM-based detection of deviations in program execution",
+        "volume": null,
+        "issue": null,
+        "startPage": "333",
+        "endPage": "346",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "EDDIE: EM-based detection of deviations in program execution",
+        "authors": [
+            {
+                "id": 37844184100,
+                "preferredName": "Alireza Nazari",
+                "firstName": "Alireza",
+                "lastName": "Nazari"
+            },
+            {
+                "id": 37061816600,
+                "preferredName": "Nader Sehatbakhsh",
+                "firstName": "Nader",
+                "lastName": "Sehatbakhsh"
+            },
+            {
+                "id": 37085867306,
+                "preferredName": "Monjur Alam",
+                "firstName": "Monjur",
+                "lastName": "Alam"
+            },
+            {
+                "id": 37295808800,
+                "preferredName": "Alenka Zajic",
+                "firstName": "Alenka",
+                "lastName": "Zajic"
+            },
+            {
+                "id": 37298065900,
+                "preferredName": "Milos Prvulovic",
+                "firstName": "Milos",
+                "lastName": "Prvulovic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080222",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192484",
+        "articleTitle": "Secure hierarchy-aware cache replacement policy (SHARP): Defending against cache-based side channel attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "347",
+        "endPage": "360",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Secure hierarchy-aware cache replacement policy (SHARP): Defending against cache-based side channel attacks",
+        "authors": [
+            {
+                "id": 37086046296,
+                "preferredName": "Mengjia Yan",
+                "firstName": "Mengjia",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37085819974,
+                "preferredName": "Bhargava Gopireddy",
+                "firstName": "Bhargava",
+                "lastName": "Gopireddy"
+            },
+            {
+                "id": 37086310222,
+                "preferredName": "Thomas Shull",
+                "firstName": "Thomas",
+                "lastName": "Shull"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080230",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192464",
+        "articleTitle": "ObfusMem: A low-overhead access obfuscation for trusted memories",
+        "volume": null,
+        "issue": null,
+        "startPage": "107",
+        "endPage": "119",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ObfusMem: A low-overhead access obfuscation for trusted memories",
+        "authors": [
+            {
+                "id": 37085592951,
+                "preferredName": "Amro Awad",
+                "firstName": "Amro",
+                "lastName": "Awad"
+            },
+            {
+                "id": 37071845600,
+                "preferredName": "Yipeng Wang",
+                "firstName": "Yipeng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37442283700,
+                "preferredName": "Deborah Shands",
+                "firstName": "Deborah",
+                "lastName": "Shands"
+            },
+            {
+                "id": 37282584700,
+                "preferredName": "Yan Solihin",
+                "firstName": "Yan",
+                "lastName": "Solihin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080238",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192474",
+        "articleTitle": "Clank: Architectural support for intermittent computation",
+        "volume": null,
+        "issue": null,
+        "startPage": "228",
+        "endPage": "240",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Clank: Architectural support for intermittent computation",
+        "authors": [
+            {
+                "id": 37543938400,
+                "preferredName": "Matthew Hicks",
+                "firstName": "Matthew",
+                "lastName": "Hicks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080233",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192508",
+        "articleTitle": "The mondrian data engine",
+        "volume": null,
+        "issue": null,
+        "startPage": "639",
+        "endPage": "651",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "The mondrian data engine",
+        "authors": [
+            {
+                "id": 37085769590,
+                "preferredName": "Mario Drumond",
+                "firstName": "Mario",
+                "lastName": "Drumond"
+            },
+            {
+                "id": 37085728823,
+                "preferredName": "Alexandros Daglis",
+                "firstName": "Alexandros",
+                "lastName": "Daglis"
+            },
+            {
+                "id": 37085877798,
+                "preferredName": "Nooshin Mirzadeh",
+                "firstName": "Nooshin",
+                "lastName": "Mirzadeh"
+            },
+            {
+                "id": 37086155045,
+                "preferredName": "Dmitrii Ustiugov",
+                "firstName": "Dmitrii",
+                "lastName": "Ustiugov"
+            },
+            {
+                "id": 38263206700,
+                "preferredName": "Javier Picorel",
+                "firstName": "Javier",
+                "lastName": "Picorel"
+            },
+            {
+                "id": 37364501300,
+                "preferredName": "Babak Falsafi",
+                "firstName": "Babak",
+                "lastName": "Falsafi"
+            },
+            {
+                "id": 37669789100,
+                "preferredName": "Boris Grot",
+                "firstName": "Boris",
+                "lastName": "Grot"
+            },
+            {
+                "id": 37265760300,
+                "preferredName": "Dionisios Pnevmatikatos",
+                "firstName": "Dionisios",
+                "lastName": "Pnevmatikatos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080232",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192516",
+        "articleTitle": "InvisiMem: Smart memory defenses for memory bus side channel",
+        "volume": null,
+        "issue": null,
+        "startPage": "94",
+        "endPage": "106",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "InvisiMem: Smart memory defenses for memory bus side channel",
+        "authors": [
+            {
+                "id": 37085990765,
+                "preferredName": "Shaizeen Aga",
+                "firstName": "Shaizeen",
+                "lastName": "Aga"
+            },
+            {
+                "id": 37424199700,
+                "preferredName": "Satish Narayanasamy",
+                "firstName": "Satish",
+                "lastName": "Narayanasamy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080229",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192495",
+        "articleTitle": "Language-level persistency",
+        "volume": null,
+        "issue": null,
+        "startPage": "481",
+        "endPage": "493",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Language-level persistency",
+        "authors": [
+            {
+                "id": 37085993674,
+                "preferredName": "Aasheesh Kolli",
+                "firstName": "Aasheesh",
+                "lastName": "Kolli"
+            },
+            {
+                "id": 37086041289,
+                "preferredName": "Vaibhav Gogte",
+                "firstName": "Vaibhav",
+                "lastName": "Gogte"
+            },
+            {
+                "id": 37089657028,
+                "preferredName": "Ali Saidi",
+                "firstName": "Ali",
+                "lastName": "Saidi"
+            },
+            {
+                "id": 37540973100,
+                "preferredName": "Stephan Diestelhorst",
+                "firstName": "Stephan",
+                "lastName": "Diestelhorst"
+            },
+            {
+                "id": 37351313500,
+                "preferredName": "Peter M. Chen",
+                "firstName": "Peter M.",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37424199700,
+                "preferredName": "Satish Narayanasamy",
+                "firstName": "Satish",
+                "lastName": "Narayanasamy"
+            },
+            {
+                "id": 37395315400,
+                "preferredName": "Thomas F. Wenisch",
+                "firstName": "Thomas F.",
+                "lastName": "Wenisch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080217",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192492",
+        "articleTitle": "Hybrid TLB coalescing: Improving TLB translation coverage under diverse fragmented memory allocations",
+        "volume": null,
+        "issue": null,
+        "startPage": "444",
+        "endPage": "456",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Hybrid TLB coalescing: Improving TLB translation coverage under diverse fragmented memory allocations",
+        "authors": [
+            {
+                "id": 37085470339,
+                "preferredName": "Chang Hyun Park",
+                "firstName": "Chang Hyun",
+                "lastName": "Park"
+            },
+            {
+                "id": 37085793871,
+                "preferredName": "Taekyung Heo",
+                "firstName": "Taekyung",
+                "lastName": "Heo"
+            },
+            {
+                "id": 37086280019,
+                "preferredName": "Jungi Jeong",
+                "firstName": "Jungi",
+                "lastName": "Jeong"
+            },
+            {
+                "id": 38182003000,
+                "preferredName": "Jaehyuk Huh",
+                "firstName": "Jaehyuk",
+                "lastName": "Huh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080208",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192515",
+        "articleTitle": "Regaining lost cycles with HotCalls: A fast interface for SGX secure enclaves",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "93",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Regaining lost cycles with HotCalls: A fast interface for SGX secure enclaves",
+        "authors": [
+            {
+                "id": 37086122516,
+                "preferredName": "Ofir Weisse",
+                "firstName": "Ofir",
+                "lastName": "Weisse"
+            },
+            {
+                "id": 37267142300,
+                "preferredName": "Valeria Bertacco",
+                "firstName": "Valeria",
+                "lastName": "Bertacco"
+            },
+            {
+                "id": 37267010600,
+                "preferredName": "Todd Austin",
+                "firstName": "Todd",
+                "lastName": "Austin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080225",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192475",
+        "articleTitle": "MeRLiN: Exploiting dynamic instruction behavior for fast and accurate microarchitecture level reliability assessment",
+        "volume": null,
+        "issue": null,
+        "startPage": "241",
+        "endPage": "254",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "MeRLiN: Exploiting dynamic instruction behavior for fast and accurate microarchitecture level reliability assessment",
+        "authors": [
+            {
+                "id": 37074173000,
+                "preferredName": "Manolis Kaliorakis",
+                "firstName": "Manolis",
+                "lastName": "Kaliorakis"
+            },
+            {
+                "id": 37276979600,
+                "preferredName": "Dimitris Gizopoulos",
+                "firstName": "Dimitris",
+                "lastName": "Gizopoulos"
+            },
+            {
+                "id": 37391750000,
+                "preferredName": "Ramon Canal",
+                "firstName": "Ramon",
+                "lastName": "Canal"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "Antonio Gonzalez",
+                "firstName": "Antonio",
+                "lastName": "Gonzalez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080240",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192470",
+        "articleTitle": "Hiding the long latency of persist barriers using speculative execution",
+        "volume": null,
+        "issue": null,
+        "startPage": "175",
+        "endPage": "186",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Hiding the long latency of persist barriers using speculative execution",
+        "authors": [
+            {
+                "id": 37086270966,
+                "preferredName": "Seunghee Shin",
+                "firstName": "Seunghee",
+                "lastName": "Shin"
+            },
+            {
+                "id": 37409802200,
+                "preferredName": "James Tuck",
+                "firstName": "James",
+                "lastName": "Tuck"
+            },
+            {
+                "id": 37282584700,
+                "preferredName": "Yan Solihin",
+                "firstName": "Yan",
+                "lastName": "Solihin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080247",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192489",
+        "articleTitle": "Bespoke processors for applications with ultra-low area and power constraints",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "54",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Bespoke processors for applications with ultra-low area and power constraints",
+        "authors": [
+            {
+                "id": 37085703170,
+                "preferredName": "Hari Cherupalli",
+                "firstName": "Hari",
+                "lastName": "Cherupalli"
+            },
+            {
+                "id": 38667878300,
+                "preferredName": "Henry Duwe",
+                "firstName": "Henry",
+                "lastName": "Duwe"
+            },
+            {
+                "id": 37086049874,
+                "preferredName": "Weidong Ye",
+                "firstName": "Weidong",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37709981500,
+                "preferredName": "Rakesh Kumar",
+                "firstName": "Rakesh",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37391767500,
+                "preferredName": "John Sartori",
+                "firstName": "John",
+                "lastName": "Sartori"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080244",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192466",
+        "articleTitle": "SCALEDEEP: A scalable compute architecture for learning and evaluating deep networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "SCALEDEEP: A scalable compute architecture for learning and evaluating deep networks",
+        "authors": [
+            {
+                "id": 38466410600,
+                "preferredName": "Swagath Venkataramani",
+                "firstName": "Swagath",
+                "lastName": "Venkataramani"
+            },
+            {
+                "id": 37085411667,
+                "preferredName": "Ashish Ranjan",
+                "firstName": "Ashish",
+                "lastName": "Ranjan"
+            },
+            {
+                "id": 37088730411,
+                "preferredName": "Subarno Banerjee",
+                "firstName": "Subarno",
+                "lastName": "Banerjee"
+            },
+            {
+                "id": 37086095078,
+                "preferredName": "Dipankar Das",
+                "firstName": "Dipankar",
+                "lastName": "Das"
+            },
+            {
+                "id": 37086316782,
+                "preferredName": "Sasikanth Avancha",
+                "firstName": "Sasikanth",
+                "lastName": "Avancha"
+            },
+            {
+                "id": 37417282800,
+                "preferredName": "Ashok Jagannathan",
+                "firstName": "Ashok",
+                "lastName": "Jagannathan"
+            },
+            {
+                "id": 37389862900,
+                "preferredName": "Ajaya Durg",
+                "firstName": "Ajaya",
+                "lastName": "Durg"
+            },
+            {
+                "id": 37085793704,
+                "preferredName": "Dheemanth Nagaraj",
+                "firstName": "Dheemanth",
+                "lastName": "Nagaraj"
+            },
+            {
+                "id": 38468682900,
+                "preferredName": "Bharat Kaul",
+                "firstName": "Bharat",
+                "lastName": "Kaul"
+            },
+            {
+                "id": 37356156800,
+                "preferredName": "Pradeep Dubey",
+                "firstName": "Pradeep",
+                "lastName": "Dubey"
+            },
+            {
+                "id": 37275475300,
+                "preferredName": "Anand Raghunathan",
+                "firstName": "Anand",
+                "lastName": "Raghunathan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080203",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192477",
+        "articleTitle": "Quality of service support for fine-grained sharing on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "269",
+        "endPage": "281",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Quality of service support for fine-grained sharing on GPUs",
+        "authors": [
+            {
+                "id": 37085776349,
+                "preferredName": "Zhenning Wang",
+                "firstName": "Zhenning",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37280196900,
+                "preferredName": "Jun Yang",
+                "firstName": "Jun",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37273234900,
+                "preferredName": "Rami Melhem",
+                "firstName": "Rami",
+                "lastName": "Melhem"
+            },
+            {
+                "id": 37266684800,
+                "preferredName": "Bruce Childers",
+                "firstName": "Bruce",
+                "lastName": "Childers"
+            },
+            {
+                "id": 38183309800,
+                "preferredName": "Youtao Zhang",
+                "firstName": "Youtao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37274181400,
+                "preferredName": "Minyi Guo",
+                "firstName": "Minyi",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080241",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192510",
+        "articleTitle": "APPROX-NoC: A data approximation framework for Network-on-Chip architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "666",
+        "endPage": "677",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "APPROX-NoC: A data approximation framework for Network-on-Chip architectures",
+        "authors": [
+            {
+                "id": 38253403300,
+                "preferredName": "Rahul Boyapati",
+                "firstName": "Rahul",
+                "lastName": "Boyapati"
+            },
+            {
+                "id": 37086043929,
+                "preferredName": "Jiayi Huang",
+                "firstName": "Jiayi",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085418087,
+                "preferredName": "Pritam Majumder",
+                "firstName": "Pritam",
+                "lastName": "Majumder"
+            },
+            {
+                "id": 38186137500,
+                "preferredName": "Ki Hwan Yum",
+                "firstName": "Ki Hwan",
+                "lastName": "Yum"
+            },
+            {
+                "id": 38188695900,
+                "preferredName": "Eun Jung Kim",
+                "firstName": "Eun Jung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080245",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192498",
+        "articleTitle": "HeteroOS \u2014 OS design for heterogeneous memory management in datacenter",
+        "volume": null,
+        "issue": null,
+        "startPage": "521",
+        "endPage": "534",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "HeteroOS \u2014 OS design for heterogeneous memory management in datacenter",
+        "authors": [
+            {
+                "id": 37720189600,
+                "preferredName": "Sudarsun Kannan",
+                "firstName": "Sudarsun",
+                "lastName": "Kannan"
+            },
+            {
+                "id": 37332023800,
+                "preferredName": "Ada Gavrilovska",
+                "firstName": "Ada",
+                "lastName": "Gavrilovska"
+            },
+            {
+                "id": 38273460800,
+                "preferredName": "Vishal Gupta",
+                "firstName": "Vishal",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37268091800,
+                "preferredName": "Karsten Schwan",
+                "firstName": "Karsten",
+                "lastName": "Schwan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080210",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192494",
+        "articleTitle": "Rethinking TLB designs in virtualized environments: A very large part-of-memory TLB",
+        "volume": null,
+        "issue": null,
+        "startPage": "469",
+        "endPage": "480",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Rethinking TLB designs in virtualized environments: A very large part-of-memory TLB",
+        "authors": [
+            {
+                "id": 37085473274,
+                "preferredName": "Jee Ho Ryoo",
+                "firstName": "Jee Ho",
+                "lastName": "Ryoo"
+            },
+            {
+                "id": 38233084500,
+                "preferredName": "Nagendra Gulur",
+                "firstName": "Nagendra",
+                "lastName": "Gulur"
+            },
+            {
+                "id": 37085691333,
+                "preferredName": "Shuang Song",
+                "firstName": "Shuang",
+                "lastName": "Song"
+            },
+            {
+                "id": 37266694600,
+                "preferredName": "Lizy K. John",
+                "firstName": "Lizy K.",
+                "lastName": "John"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080224",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192467",
+        "articleTitle": "PowerChief: Intelligent power allocation for multi-stage applications to improve responsiveness on power constrained CMP",
+        "volume": null,
+        "issue": null,
+        "startPage": "133",
+        "endPage": "146",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "PowerChief: Intelligent power allocation for multi-stage applications to improve responsiveness on power constrained CMP",
+        "authors": [
+            {
+                "id": 38239064700,
+                "preferredName": "Hailong Yang",
+                "firstName": "Hailong",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086610806,
+                "preferredName": "Quan Chen",
+                "firstName": "Quan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086287087,
+                "preferredName": "Moeiz Riaz",
+                "firstName": "Moeiz",
+                "lastName": "Riaz"
+            },
+            {
+                "id": 37303834600,
+                "preferredName": "Zhongzhi Luan",
+                "firstName": "Zhongzhi",
+                "lastName": "Luan"
+            },
+            {
+                "id": 37085392912,
+                "preferredName": "Lingjia Tang",
+                "firstName": "Lingjia",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37297735100,
+                "preferredName": "Jason Mars",
+                "firstName": "Jason",
+                "lastName": "Mars"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080248",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192502",
+        "articleTitle": "Understanding and optimizing asynchronous low-precision stochastic gradient descent",
+        "volume": null,
+        "issue": null,
+        "startPage": "561",
+        "endPage": "574",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Understanding and optimizing asynchronous low-precision stochastic gradient descent",
+        "authors": [
+            {
+                "id": 37085864047,
+                "preferredName": "Christopher De Sa",
+                "firstName": "Christopher",
+                "lastName": "De Sa"
+            },
+            {
+                "id": 37086300958,
+                "preferredName": "Matthew Feldman",
+                "firstName": "Matthew",
+                "lastName": "Feldman"
+            },
+            {
+                "id": 37085647844,
+                "preferredName": "Christopher R\u00e9",
+                "firstName": "Christopher",
+                "lastName": "R\u00e9"
+            },
+            {
+                "id": 37282353900,
+                "preferredName": "Kunle Olukotun",
+                "firstName": "Kunle",
+                "lastName": "Olukotun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080214",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192509",
+        "articleTitle": "Jenga: Software-defined cache hierarchies",
+        "volume": null,
+        "issue": null,
+        "startPage": "652",
+        "endPage": "665",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Jenga: Software-defined cache hierarchies",
+        "authors": [
+            {
+                "id": 37085401871,
+                "preferredName": "Po-An Tsai",
+                "firstName": "Po-An",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 37394328100,
+                "preferredName": "Nathan Beckmann",
+                "firstName": "Nathan",
+                "lastName": "Beckmann"
+            },
+            {
+                "id": 37531401100,
+                "preferredName": "Daniel Sanchez",
+                "firstName": "Daniel",
+                "lastName": "Sanchez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080206",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192469",
+        "articleTitle": "Chasing Away RAts: Semantics and evaluation for relaxed atomics on heterogeneous systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "161",
+        "endPage": "174",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Chasing Away RAts: Semantics and evaluation for relaxed atomics on heterogeneous systems",
+        "authors": [
+            {
+                "id": 37085667828,
+                "preferredName": "Matthew D. Sinclair",
+                "firstName": "Matthew D.",
+                "lastName": "Sinclair"
+            },
+            {
+                "id": 37085668013,
+                "preferredName": "Johnathan Alsop",
+                "firstName": "Johnathan",
+                "lastName": "Alsop"
+            },
+            {
+                "id": 37275579100,
+                "preferredName": "Sarita V. Adve",
+                "firstName": "Sarita V.",
+                "lastName": "Adve"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080211",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192491",
+        "articleTitle": "Hardware translation coherence for virtualized systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "430",
+        "endPage": "443",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Hardware translation coherence for virtualized systems",
+        "authors": [
+            {
+                "id": 37086303876,
+                "preferredName": "Zi Yan",
+                "firstName": "Zi",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37085777554,
+                "preferredName": "J\u00e1n Vesel\u00fd",
+                "firstName": "J\u00e1n",
+                "lastName": "Vesel\u00fd"
+            },
+            {
+                "id": 37085779521,
+                "preferredName": "Guilherme Cox",
+                "firstName": "Guilherme",
+                "lastName": "Cox"
+            },
+            {
+                "id": 38070367000,
+                "preferredName": "Abhishek Bhattacharjee",
+                "firstName": "Abhishek",
+                "lastName": "Bhattacharjee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080209",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192493",
+        "articleTitle": "Do-it-yourself virtual memory translation",
+        "volume": null,
+        "issue": null,
+        "startPage": "457",
+        "endPage": "468",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Do-it-yourself virtual memory translation",
+        "authors": [
+            {
+                "id": 37086294746,
+                "preferredName": "Hanna Alam",
+                "firstName": "Hanna",
+                "lastName": "Alam"
+            },
+            {
+                "id": 37086294160,
+                "preferredName": "Tianhao Zhang",
+                "firstName": "Tianhao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37318863100,
+                "preferredName": "Mattan Erez",
+                "firstName": "Mattan",
+                "lastName": "Erez"
+            },
+            {
+                "id": 37295074800,
+                "preferredName": "Yoav Etsion",
+                "firstName": "Yoav",
+                "lastName": "Etsion"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080253",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192514",
+        "articleTitle": "EbDa: A new theory on design and verification of deadlock-free interconnection networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "703",
+        "endPage": "715",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "EbDa: A new theory on design and verification of deadlock-free interconnection networks",
+        "authors": [
+            {
+                "id": 37398164600,
+                "preferredName": "Masoumeh Ebrahimi",
+                "firstName": "Masoumeh",
+                "lastName": "Ebrahimi"
+            },
+            {
+                "id": 37298922900,
+                "preferredName": "Masoud Daneshtalab",
+                "firstName": "Masoud",
+                "lastName": "Daneshtalab"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080252",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192488",
+        "articleTitle": "A programmable hardware accelerator for simulating dynamical systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "403",
+        "endPage": "415",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A programmable hardware accelerator for simulating dynamical systems",
+        "authors": [
+            {
+                "id": 37085349274,
+                "preferredName": "Jaeha Kung",
+                "firstName": "Jaeha",
+                "lastName": "Kung"
+            },
+            {
+                "id": 37085888591,
+                "preferredName": "Yun Long",
+                "firstName": "Yun",
+                "lastName": "Long"
+            },
+            {
+                "id": 37085342980,
+                "preferredName": "Duckhwan Kim",
+                "firstName": "Duckhwan",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37278557500,
+                "preferredName": "Saibal Mukhopadhyay",
+                "firstName": "Saibal",
+                "lastName": "Mukhopadhyay"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080207",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192505",
+        "articleTitle": "Parallel automata processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "600",
+        "endPage": "612",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Parallel automata processor",
+        "authors": [
+            {
+                "id": 37089038956,
+                "preferredName": "Arun Subramaniyan",
+                "firstName": "Arun",
+                "lastName": "Subramaniyan"
+            },
+            {
+                "id": 37088486405,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080218",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192504",
+        "articleTitle": "Fractal: An execution model for fine-grain nested speculative parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "587",
+        "endPage": "599",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Fractal: An execution model for fine-grain nested speculative parallelism",
+        "authors": [
+            {
+                "id": 37085815011,
+                "preferredName": "Suvinay Subramanian",
+                "firstName": "Suvinay",
+                "lastName": "Subramanian"
+            },
+            {
+                "id": 37085812897,
+                "preferredName": "Mark C. Jeffrey",
+                "firstName": "Mark C.",
+                "lastName": "Jeffrey"
+            },
+            {
+                "id": 37085382216,
+                "preferredName": "Maleen Abeydeera",
+                "firstName": "Maleen",
+                "lastName": "Abeydeera"
+            },
+            {
+                "id": 37086317913,
+                "preferredName": "Hyun Ryong Lee",
+                "firstName": "Hyun Ryong",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088926212,
+                "preferredName": "Victor A. Ying",
+                "firstName": "Victor A.",
+                "lastName": "Ying"
+            },
+            {
+                "id": 37266272500,
+                "preferredName": "Joel Emer",
+                "firstName": "Joel",
+                "lastName": "Emer"
+            },
+            {
+                "id": 37531401100,
+                "preferredName": "Daniel Sanchez",
+                "firstName": "Daniel",
+                "lastName": "Sanchez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080249",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192513",
+        "articleTitle": "Footprint: Regulating routing adaptiveness in Networks-on-Chip",
+        "volume": null,
+        "issue": null,
+        "startPage": "691",
+        "endPage": "702",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Footprint: Regulating routing adaptiveness in Networks-on-Chip",
+        "authors": [
+            {
+                "id": 37392492900,
+                "preferredName": "Binzhang Fu",
+                "firstName": "Binzhang",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37311384600,
+                "preferredName": "John Kim",
+                "firstName": "John",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080220",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192471",
+        "articleTitle": "Non-speculative load-load reordering in TSO",
+        "volume": null,
+        "issue": null,
+        "startPage": "187",
+        "endPage": "200",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Non-speculative load-load reordering in TSO",
+        "authors": [
+            {
+                "id": 37408952800,
+                "preferredName": "Alberto Ros",
+                "firstName": "Alberto",
+                "lastName": "Ros"
+            },
+            {
+                "id": 37071086200,
+                "preferredName": "Trevor E. Carlson",
+                "firstName": "Trevor E.",
+                "lastName": "Carlson"
+            },
+            {
+                "id": 37590048700,
+                "preferredName": "Mehdi Alipour",
+                "firstName": "Mehdi",
+                "lastName": "Alipour"
+            },
+            {
+                "id": 37267088500,
+                "preferredName": "Stefanos Kaxiras",
+                "firstName": "Stefanos",
+                "lastName": "Kaxiras"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080239",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192481",
+        "articleTitle": "Access pattern-aware cache management for improving data utilization in GPU",
+        "volume": null,
+        "issue": null,
+        "startPage": "307",
+        "endPage": "319",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Access pattern-aware cache management for improving data utilization in GPU",
+        "authors": [
+            {
+                "id": 37085673970,
+                "preferredName": "Gunjae Koo",
+                "firstName": "Gunjae",
+                "lastName": "Koo"
+            },
+            {
+                "id": 37085853789,
+                "preferredName": "Yunho Oh",
+                "firstName": "Yunho",
+                "lastName": "Oh"
+            },
+            {
+                "id": 37410026400,
+                "preferredName": "Won Woo Ro",
+                "firstName": "Won Woo",
+                "lastName": "Ro"
+            },
+            {
+                "id": 37298092100,
+                "preferredName": "Murali Annavaram",
+                "firstName": "Murali",
+                "lastName": "Annavaram"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080236",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192506",
+        "articleTitle": "Viyojit: Decoupling battery and DRAM capacities for battery-backed DRAM",
+        "volume": null,
+        "issue": null,
+        "startPage": "613",
+        "endPage": "626",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Viyojit: Decoupling battery and DRAM capacities for battery-backed DRAM",
+        "authors": [
+            {
+                "id": 37086288745,
+                "preferredName": "Rajat Kateja",
+                "firstName": "Rajat",
+                "lastName": "Kateja"
+            },
+            {
+                "id": 37073240300,
+                "preferredName": "Anirudh Badam",
+                "firstName": "Anirudh",
+                "lastName": "Badam"
+            },
+            {
+                "id": 37404041200,
+                "preferredName": "Sriram Govindan",
+                "firstName": "Sriram",
+                "lastName": "Govindan"
+            },
+            {
+                "id": 37581298900,
+                "preferredName": "Bikash Sharma",
+                "firstName": "Bikash",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 37275583000,
+                "preferredName": "Greg Ganger",
+                "firstName": "Greg",
+                "lastName": "Ganger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080227",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192501",
+        "articleTitle": "A programmable Galois Field processor for the Internet of Things",
+        "volume": null,
+        "issue": null,
+        "startPage": "55",
+        "endPage": "68",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "A programmable Galois Field processor for the Internet of Things",
+        "authors": [
+            {
+                "id": 37085811429,
+                "preferredName": "Yajing Chen",
+                "firstName": "Yajing",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085638222,
+                "preferredName": "Shengshuo Lu",
+                "firstName": "Shengshuo",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37086322940,
+                "preferredName": "Cheng Fu",
+                "firstName": "Cheng",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37276099100,
+                "preferredName": "David Blaauw",
+                "firstName": "David",
+                "lastName": "Blaauw"
+            },
+            {
+                "id": 37545653700,
+                "preferredName": "Ronald Dreslinski",
+                "firstName": "Ronald",
+                "lastName": "Dreslinski"
+            },
+            {
+                "id": 37267150400,
+                "preferredName": "Trevor Mudge",
+                "firstName": "Trevor",
+                "lastName": "Mudge"
+            },
+            {
+                "id": 37085665370,
+                "preferredName": "Hun-Seok Kim",
+                "firstName": "Hun-Seok",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080250",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192465",
+        "articleTitle": "ThermoGater: Thermally-aware on-chip voltage regulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "120",
+        "endPage": "132",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ThermoGater: Thermally-aware on-chip voltage regulation",
+        "authors": [
+            {
+                "id": 37086018019,
+                "preferredName": "S. Karen Khatamifard",
+                "firstName": "S. Karen",
+                "lastName": "Khatamifard"
+            },
+            {
+                "id": 37086021959,
+                "preferredName": "Longfei Wang",
+                "firstName": "Longfei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085363514,
+                "preferredName": "Weize Yu",
+                "firstName": "Weize",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37543079700,
+                "preferredName": "Sel\u00e7uk K\u00f6se",
+                "firstName": "Sel\u00e7uk",
+                "lastName": "K\u00f6se"
+            },
+            {
+                "id": 37402942500,
+                "preferredName": "Ulya R. Karpuzcu",
+                "firstName": "Ulya R.",
+                "lastName": "Karpuzcu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080228",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192503",
+        "articleTitle": "Aggressive pipelining of irregular applications on reconfigurable hardware",
+        "volume": null,
+        "issue": null,
+        "startPage": "575",
+        "endPage": "586",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Aggressive pipelining of irregular applications on reconfigurable hardware",
+        "authors": [
+            {
+                "id": 37085521815,
+                "preferredName": "Zhaoshi Li",
+                "firstName": "Zhaoshi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37280777600,
+                "preferredName": "Leibo Liu",
+                "firstName": "Leibo",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37406208900,
+                "preferredName": "Yangdong Deng",
+                "firstName": "Yangdong",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37400289900,
+                "preferredName": "Shouyi Yin",
+                "firstName": "Shouyi",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37086293219,
+                "preferredName": "Yao Wang",
+                "firstName": "Yao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37404117300,
+                "preferredName": "Shaojun Wei",
+                "firstName": "Shaojun",
+                "lastName": "Wei"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080219",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192512",
+        "articleTitle": "XPro: A cross-end processing architecture for data analytics in wearables",
+        "volume": null,
+        "issue": null,
+        "startPage": "69",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "XPro: A cross-end processing architecture for data analytics in wearables",
+        "authors": [
+            {
+                "id": 37085367063,
+                "preferredName": "Aosen Wang",
+                "firstName": "Aosen",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37085429544,
+                "preferredName": "Lizhong Chen",
+                "firstName": "Lizhong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37597167400,
+                "preferredName": "Wenyao Xu",
+                "firstName": "Wenyao",
+                "lastName": "Xu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080251",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192511",
+        "articleTitle": "There and back again: Optimizing the interconnect in networks of memory cubes",
+        "volume": null,
+        "issue": null,
+        "startPage": "678",
+        "endPage": "690",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "There and back again: Optimizing the interconnect in networks of memory cubes",
+        "authors": [
+            {
+                "id": 37601273500,
+                "preferredName": "Matthew Poremba",
+                "firstName": "Matthew",
+                "lastName": "Poremba"
+            },
+            {
+                "id": 37085874035,
+                "preferredName": "Itir Akgun",
+                "firstName": "Itir",
+                "lastName": "Akgun"
+            },
+            {
+                "id": 37086275363,
+                "preferredName": "Jieming Yin",
+                "firstName": "Jieming",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37075893900,
+                "preferredName": "Onur Kayiran",
+                "firstName": "Onur",
+                "lastName": "Kayiran"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080234",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192497",
+        "articleTitle": "Architectural support for server-side PHP processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "507",
+        "endPage": "520",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Architectural support for server-side PHP processing",
+        "authors": [
+            {
+                "id": 38255842000,
+                "preferredName": "Dibakar Gope",
+                "firstName": "Dibakar",
+                "lastName": "Gope"
+            },
+            {
+                "id": 37086207914,
+                "preferredName": "David J. Schlais",
+                "firstName": "David J.",
+                "lastName": "Schlais"
+            },
+            {
+                "id": 37282368800,
+                "preferredName": "Mikko H. Lipasti",
+                "firstName": "Mikko H.",
+                "lastName": "Lipasti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080242",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192476",
+        "articleTitle": "The reach profiler (REAPER): Enabling the mitigation of DRAM retention failures via profiling at aggressive conditions",
+        "volume": null,
+        "issue": null,
+        "startPage": "255",
+        "endPage": "268",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "The reach profiler (REAPER): Enabling the mitigation of DRAM retention failures via profiling at aggressive conditions",
+        "authors": [
+            {
+                "id": 37086188901,
+                "preferredName": "Minesh Patel",
+                "firstName": "Minesh",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080235",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192472",
+        "articleTitle": "MTraceCheck: Validating non-deterministic behavior of memory consistency models in post-silicon validation",
+        "volume": null,
+        "issue": null,
+        "startPage": "201",
+        "endPage": "213",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "MTraceCheck: Validating non-deterministic behavior of memory consistency models in post-silicon validation",
+        "authors": [
+            {
+                "id": 37085844093,
+                "preferredName": "Doowon Lee",
+                "firstName": "Doowon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37267142300,
+                "preferredName": "Valeria Bertacco",
+                "firstName": "Valeria",
+                "lastName": "Bertacco"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080237",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192496",
+        "articleTitle": "ShortCut: Architectural support for fast object access in scripting languages",
+        "volume": null,
+        "issue": null,
+        "startPage": "494",
+        "endPage": "506",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "ShortCut: Architectural support for fast object access in scripting languages",
+        "authors": [
+            {
+                "id": 37086334557,
+                "preferredName": "Jiho Choi",
+                "firstName": "Jiho",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37086310222,
+                "preferredName": "Thomas Shull",
+                "firstName": "Thomas",
+                "lastName": "Shull"
+            },
+            {
+                "id": 37326519600,
+                "preferredName": "Maria J. Garzaran",
+                "firstName": "Maria J.",
+                "lastName": "Garzaran"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080243",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192507",
+        "articleTitle": "DICE: Compressing DRAM caches for bandwidth and capacity",
+        "volume": null,
+        "issue": null,
+        "startPage": "627",
+        "endPage": "638",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "DICE: Compressing DRAM caches for bandwidth and capacity",
+        "authors": [
+            {
+                "id": 37086293156,
+                "preferredName": "Vinson Young",
+                "firstName": "Vinson",
+                "lastName": "Young"
+            },
+            {
+                "id": 37061113300,
+                "preferredName": "Prashant J. Nair",
+                "firstName": "Prashant J.",
+                "lastName": "Nair"
+            },
+            {
+                "id": 37301807700,
+                "preferredName": "Moinuddin K. Qureshi",
+                "firstName": "Moinuddin K.",
+                "lastName": "Qureshi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080204",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192479",
+        "articleTitle": "Accelerating GPU hardware transactional memory with snapshot isolation",
+        "volume": null,
+        "issue": null,
+        "startPage": "282",
+        "endPage": "294",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Accelerating GPU hardware transactional memory with snapshot isolation",
+        "authors": [
+            {
+                "id": 37085520817,
+                "preferredName": "Sui Chen",
+                "firstName": "Sui",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37287417400,
+                "preferredName": "Lu Peng",
+                "firstName": "Lu",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37086199042,
+                "preferredName": "Samuel Irving",
+                "firstName": "Samuel",
+                "lastName": "Irving"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080216",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192486",
+        "articleTitle": "LogCA: A high-level performance model for hardware accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "375",
+        "endPage": "388",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "LogCA: A high-level performance model for hardware accelerators",
+        "authors": [
+            {
+                "id": 37085758966,
+                "preferredName": "Muhammad Shoaib Bin Altaf",
+                "firstName": "Muhammad Shoaib Bin",
+                "lastName": "Altaf"
+            },
+            {
+                "id": 37266188300,
+                "preferredName": "David A. Wood",
+                "firstName": "David A.",
+                "lastName": "Wood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080213",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192473",
+        "articleTitle": "Redundant memory array architecture for efficient selective protection",
+        "volume": null,
+        "issue": null,
+        "startPage": "214",
+        "endPage": "227",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Redundant memory array architecture for efficient selective protection",
+        "authors": [
+            {
+                "id": 37086287022,
+                "preferredName": "Ruohuang Zheng",
+                "firstName": "Ruohuang",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 38278085000,
+                "preferredName": "Michael C. Huang",
+                "firstName": "Michael C.",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080212",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192468",
+        "articleTitle": "CHARSTAR: Clock hierarchy aware resource scaling in tiled architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "147",
+        "endPage": "160",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "CHARSTAR: Clock hierarchy aware resource scaling in tiled architectures",
+        "authors": [
+            {
+                "id": 37086040882,
+                "preferredName": "Gokul Subramanian Ravi",
+                "firstName": "Gokul Subramanian",
+                "lastName": "Ravi"
+            },
+            {
+                "id": 37282368800,
+                "preferredName": "Mikko H. Lipasti",
+                "firstName": "Mikko H.",
+                "lastName": "Lipasti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080205",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192480",
+        "articleTitle": "Decoupled affine computation for SIMT GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "295",
+        "endPage": "306",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Decoupled affine computation for SIMT GPUs",
+        "authors": [
+            {
+                "id": 37086285779,
+                "preferredName": "Kai Wang",
+                "firstName": "Kai",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37278409300,
+                "preferredName": "Calvin Lin",
+                "firstName": "Calvin",
+                "lastName": "Lin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8126322",
+        "doi": "10.1145/3079856.3080226",
+        "publicationYear": "2017",
+        "publicationDate": "24-28 June 2017",
+        "articleNumber": "8192485",
+        "articleTitle": "Lemonade from lemons: Harnessing device wearout to create limited-use security architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "361",
+        "endPage": "374",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA)",
+        "highlightedTitle": "Lemonade from lemons: Harnessing device wearout to create limited-use security architectures",
+        "authors": [
+            {
+                "id": 37086320079,
+                "preferredName": "Zhaoxia Deng",
+                "firstName": "Zhaoxia",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37086317192,
+                "preferredName": "Ariel Feldman",
+                "firstName": "Ariel",
+                "lastName": "Feldman"
+            },
+            {
+                "id": 37377846200,
+                "preferredName": "Stuart A. Kurtz",
+                "firstName": "Stuart A.",
+                "lastName": "Kurtz"
+            },
+            {
+                "id": 37283023200,
+                "preferredName": "Frederic T. Chong",
+                "firstName": "Frederic T.",
+                "lastName": "Chong"
+            }
+        ]
+    }
+]

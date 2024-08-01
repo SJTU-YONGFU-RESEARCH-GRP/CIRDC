@@ -1,0 +1,3193 @@
+[
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214359",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214359",
+        "articleTitle": "Benchmarking GPUs to tune dense linear algebra",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Benchmarking GPUs to tune dense linear algebra",
+        "authors": [
+            {
+                "id": 37690342900,
+                "preferredName": "Vasily Volkov",
+                "firstName": "Vasily",
+                "lastName": "Volkov"
+            },
+            {
+                "id": 37281843900,
+                "preferredName": "James W. Demmel",
+                "firstName": "James W.",
+                "lastName": "Demmel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5217932",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5217932",
+        "articleTitle": "The cost of doing science on the cloud: The Montage example",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "The cost of doing science on the cloud: The Montage example",
+        "authors": [
+            {
+                "id": 37276642300,
+                "preferredName": "Ewa Deelman",
+                "firstName": "Ewa",
+                "lastName": "Deelman"
+            },
+            {
+                "id": 37278593000,
+                "preferredName": "Gurmeet Singh",
+                "firstName": "Gurmeet",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37267793400,
+                "preferredName": "Miron Livny",
+                "firstName": "Miron",
+                "lastName": "Livny"
+            },
+            {
+                "id": 38557649600,
+                "preferredName": "Bruce Berriman",
+                "firstName": "Bruce",
+                "lastName": "Berriman"
+            },
+            {
+                "id": 38556460800,
+                "preferredName": "John Good",
+                "firstName": "John",
+                "lastName": "Good"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222004",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222004",
+        "articleTitle": "Stencil computation optimization and auto-tuning on state-of-the-art multicore architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Stencil computation optimization and auto-tuning on state-of-the-art multicore architectures",
+        "authors": [
+            {
+                "id": 37890677800,
+                "preferredName": "Kaushik Datta",
+                "firstName": "Kaushik",
+                "lastName": "Datta"
+            },
+            {
+                "id": 37393388100,
+                "preferredName": "Mark Murphy",
+                "firstName": "Mark",
+                "lastName": "Murphy"
+            },
+            {
+                "id": 37690342900,
+                "preferredName": "Vasily Volkov",
+                "firstName": "Vasily",
+                "lastName": "Volkov"
+            },
+            {
+                "id": 37401658600,
+                "preferredName": "Samuel Williams",
+                "firstName": "Samuel",
+                "lastName": "Williams"
+            },
+            {
+                "id": 37069349700,
+                "preferredName": "Jonathan Carter",
+                "firstName": "Jonathan",
+                "lastName": "Carter"
+            },
+            {
+                "id": 37281795400,
+                "preferredName": "Leonid Oliker",
+                "firstName": "Leonid",
+                "lastName": "Oliker"
+            },
+            {
+                "id": 37274686300,
+                "preferredName": "David Patterson",
+                "firstName": "David",
+                "lastName": "Patterson"
+            },
+            {
+                "id": 37281789600,
+                "preferredName": "John Shalf",
+                "firstName": "John",
+                "lastName": "Shalf"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "Katherine Yelick",
+                "firstName": "Katherine",
+                "lastName": "Yelick"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222625",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222625",
+        "articleTitle": "Server-storage virtualization: Integration and load balancing in data centers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Server-storage virtualization: Integration and load balancing in data centers",
+        "authors": [
+            {
+                "id": 37419541900,
+                "preferredName": "Aameek Singh",
+                "firstName": "Aameek",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37332881900,
+                "preferredName": "Madhukar Korupolu",
+                "firstName": "Madhukar",
+                "lastName": "Korupolu"
+            },
+            {
+                "id": 37900999800,
+                "preferredName": "Dushmanta Mohapatra",
+                "firstName": "Dushmanta",
+                "lastName": "Mohapatra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222634",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222634",
+        "articleTitle": "Proactive process-level live migration in HPC environments",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Proactive process-level live migration in HPC environments",
+        "authors": [
+            {
+                "id": 37676601300,
+                "preferredName": "Chao Wang",
+                "firstName": "Chao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37268072900,
+                "preferredName": "Frank Mueller",
+                "firstName": "Frank",
+                "lastName": "Mueller"
+            },
+            {
+                "id": 37296621200,
+                "preferredName": "Christian Engelmann",
+                "firstName": "Christian",
+                "lastName": "Engelmann"
+            },
+            {
+                "id": 37302106700,
+                "preferredName": "Stephen L. Scott",
+                "firstName": "Stephen L.",
+                "lastName": "Scott"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214892",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214892",
+        "articleTitle": "EpiSimdemics: An efficient algorithm for simulating the spread of infectious disease over large realistic social networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "EpiSimdemics: An efficient algorithm for simulating the spread of infectious disease over large realistic social networks",
+        "authors": [
+            {
+                "id": 37272555400,
+                "preferredName": "Christopher L. Barrett",
+                "firstName": "Christopher L.",
+                "lastName": "Barrett"
+            },
+            {
+                "id": 37403603900,
+                "preferredName": "Keith R. Bisset",
+                "firstName": "Keith R.",
+                "lastName": "Bisset"
+            },
+            {
+                "id": 38330353700,
+                "preferredName": "Stephen G. Eubank",
+                "firstName": "Stephen G.",
+                "lastName": "Eubank"
+            },
+            {
+                "id": 37087286908,
+                "preferredName": "Xizhou Feng",
+                "firstName": null,
+                "lastName": "Xizhou Feng"
+            },
+            {
+                "id": 37265046100,
+                "preferredName": "Madhav V. Marathe",
+                "firstName": "Madhav V.",
+                "lastName": "Marathe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213922",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213922",
+        "articleTitle": "High performance discrete Fourier transforms on graphics processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "High performance discrete Fourier transforms on graphics processors",
+        "authors": [
+            {
+                "id": 37546564900,
+                "preferredName": "Naga K. Govindaraju",
+                "firstName": "Naga K.",
+                "lastName": "Govindaraju"
+            },
+            {
+                "id": 38559383300,
+                "preferredName": "Brandon Lloyd",
+                "firstName": "Brandon",
+                "lastName": "Lloyd"
+            },
+            {
+                "id": 38332976100,
+                "preferredName": "Yuri Dotsenko",
+                "firstName": "Yuri",
+                "lastName": "Dotsenko"
+            },
+            {
+                "id": 37345302100,
+                "preferredName": "Burton Smith",
+                "firstName": "Burton",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37891252900,
+                "preferredName": "John Manferdelli",
+                "firstName": "John",
+                "lastName": "Manferdelli"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5219920",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5219920",
+        "articleTitle": "Characterizing application sensitivity to OS interference using kernel-level noise injection",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Characterizing application sensitivity to OS interference using kernel-level noise injection",
+        "authors": [
+            {
+                "id": 37410000000,
+                "preferredName": "Kurt B. Ferreira",
+                "firstName": "Kurt B.",
+                "lastName": "Ferreira"
+            },
+            {
+                "id": 37297401200,
+                "preferredName": "Patrick Bridges",
+                "firstName": "Patrick",
+                "lastName": "Bridges"
+            },
+            {
+                "id": 37281825400,
+                "preferredName": "Ron Brightwell",
+                "firstName": "Ron",
+                "lastName": "Brightwell"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5217926",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5217926",
+        "articleTitle": "Entering the petaflop era: The architecture and performance of Roadrunner",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Entering the petaflop era: The architecture and performance of Roadrunner",
+        "authors": [
+            {
+                "id": 37266443100,
+                "preferredName": "Kevin J. Barker",
+                "firstName": "Kevin J.",
+                "lastName": "Barker"
+            },
+            {
+                "id": 37282656500,
+                "preferredName": "Kei Davis",
+                "firstName": "Kei",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37326542600,
+                "preferredName": "Adolfy Hoisie",
+                "firstName": "Adolfy",
+                "lastName": "Hoisie"
+            },
+            {
+                "id": 37281755800,
+                "preferredName": "Darren J. Kerbyson",
+                "firstName": "Darren J.",
+                "lastName": "Kerbyson"
+            },
+            {
+                "id": 37401205100,
+                "preferredName": "Mike Lang",
+                "firstName": "Mike",
+                "lastName": "Lang"
+            },
+            {
+                "id": 37281858700,
+                "preferredName": "Scott Pakin",
+                "firstName": "Scott",
+                "lastName": "Pakin"
+            },
+            {
+                "id": 37282656900,
+                "preferredName": "Jose C. Sancho",
+                "firstName": "Jose C.",
+                "lastName": "Sancho"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213604",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213604",
+        "articleTitle": "Parallel I/O prefetching using MPI file caching and I/O signatures",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Parallel I/O prefetching using MPI file caching and I/O signatures",
+        "authors": [
+            {
+                "id": 37085862825,
+                "preferredName": "Surendra Byna",
+                "firstName": "Surendra",
+                "lastName": "Byna"
+            },
+            {
+                "id": 37293324200,
+                "preferredName": "Yong Chen",
+                "firstName": "Yong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37276409100,
+                "preferredName": "Xian-He Sun",
+                "firstName": "Xian-He",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37284796600,
+                "preferredName": "Rajeev Thakur",
+                "firstName": "Rajeev",
+                "lastName": "Thakur"
+            },
+            {
+                "id": 37284797700,
+                "preferredName": "William Gropp",
+                "firstName": "William",
+                "lastName": "Gropp"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214716",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214716",
+        "articleTitle": "Adapting a message-driven parallel application to GPU-accelerated clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Adapting a message-driven parallel application to GPU-accelerated clusters",
+        "authors": [
+            {
+                "id": 37350056200,
+                "preferredName": "James C. Phillips",
+                "firstName": "James C.",
+                "lastName": "Phillips"
+            },
+            {
+                "id": 37393879000,
+                "preferredName": "John E. Stone",
+                "firstName": "John E.",
+                "lastName": "Stone"
+            },
+            {
+                "id": 37294258300,
+                "preferredName": "Klaus Schulten",
+                "firstName": "Klaus",
+                "lastName": "Schulten"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222721",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222721",
+        "articleTitle": "Characterizing and predicting the I/O performance of HPC applications using a parameterized synthetic benchmark",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Characterizing and predicting the I/O performance of HPC applications using a parameterized synthetic benchmark",
+        "authors": [
+            {
+                "id": 37271738100,
+                "preferredName": "Hongzhang Shan",
+                "firstName": "Hongzhang",
+                "lastName": "Shan"
+            },
+            {
+                "id": 37891907000,
+                "preferredName": "Katie Antypas",
+                "firstName": "Katie",
+                "lastName": "Antypas"
+            },
+            {
+                "id": 37281789600,
+                "preferredName": "John Shalf",
+                "firstName": "John",
+                "lastName": "Shalf"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5219768",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5219768",
+        "articleTitle": "Toward loosely coupled programming on petascale systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Toward loosely coupled programming on petascale systems",
+        "authors": [
+            {
+                "id": 37268610600,
+                "preferredName": "Ioan Raicu",
+                "firstName": "Ioan",
+                "lastName": "Raicu"
+            },
+            {
+                "id": 37087285570,
+                "preferredName": "Zhao Zhang",
+                "firstName": null,
+                "lastName": "Zhao Zhang"
+            },
+            {
+                "id": 37276233800,
+                "preferredName": "Mike Wilde",
+                "firstName": "Mike",
+                "lastName": "Wilde"
+            },
+            {
+                "id": 37276599200,
+                "preferredName": "Ian Foster",
+                "firstName": "Ian",
+                "lastName": "Foster"
+            },
+            {
+                "id": 37296343200,
+                "preferredName": "Pete Beckman",
+                "firstName": "Pete",
+                "lastName": "Beckman"
+            },
+            {
+                "id": 37286689900,
+                "preferredName": "Kamil Iskra",
+                "firstName": "Kamil",
+                "lastName": "Iskra"
+            },
+            {
+                "id": 37276248200,
+                "preferredName": "Ben Clifford",
+                "firstName": "Ben",
+                "lastName": "Clifford"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222722",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222722",
+        "articleTitle": "Dynamically adapting file domain partitioning methods for collective I/O based on underlying parallel file system locking protocols",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Dynamically adapting file domain partitioning methods for collective I/O based on underlying parallel file system locking protocols",
+        "authors": [
+            {
+                "id": 37273521500,
+                "preferredName": "Wei-keng Liao",
+                "firstName": "Wei-keng",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37285106100,
+                "preferredName": "Alok Choudhary",
+                "firstName": "Alok",
+                "lastName": "Choudhary"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213210",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213210",
+        "articleTitle": "Bandwidth intensive 3-D FFT kernel for GPUs using CUDA",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Bandwidth intensive 3-D FFT kernel for GPUs using CUDA",
+        "authors": [
+            {
+                "id": 37088242101,
+                "preferredName": "Akira Nukada",
+                "firstName": null,
+                "lastName": "Akira Nukada"
+            },
+            {
+                "id": 37088243990,
+                "preferredName": "Yasuhiko Ogata",
+                "firstName": "Yasuhiko",
+                "lastName": "Ogata"
+            },
+            {
+                "id": 37277040100,
+                "preferredName": "Toshio Endo",
+                "firstName": "Toshio",
+                "lastName": "Endo"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213927",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213927",
+        "articleTitle": "An adaptive cut-off for task parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "An adaptive cut-off for task parallelism",
+        "authors": [
+            {
+                "id": 37274953900,
+                "preferredName": "Alejandro Duran",
+                "firstName": "Alejandro",
+                "lastName": "Duran"
+            },
+            {
+                "id": 37282721200,
+                "preferredName": "Julita Corbalan",
+                "firstName": "Julita",
+                "lastName": "Corbalan"
+            },
+            {
+                "id": 37283770000,
+                "preferredName": "Eduard Ayguade",
+                "firstName": "Eduard",
+                "lastName": "Ayguade"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214248",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214248",
+        "articleTitle": "Scalable adaptive mantle convection simulation on petascale supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Scalable adaptive mantle convection simulation on petascale supercomputers",
+        "authors": [
+            {
+                "id": 37591147900,
+                "preferredName": "Carsten Burstedde",
+                "firstName": "Carsten",
+                "lastName": "Burstedde"
+            },
+            {
+                "id": 37374500900,
+                "preferredName": "Omar Ghattas",
+                "firstName": "Omar",
+                "lastName": "Ghattas"
+            },
+            {
+                "id": 37591147700,
+                "preferredName": "Michael Gurnis",
+                "firstName": "Michael",
+                "lastName": "Gurnis"
+            },
+            {
+                "id": 37591146300,
+                "preferredName": "Georg Stadler",
+                "firstName": "Georg",
+                "lastName": "Stadler"
+            },
+            {
+                "id": 37088332045,
+                "preferredName": "Eh Tan",
+                "firstName": null,
+                "lastName": "Eh Tan"
+            },
+            {
+                "id": 37553303000,
+                "preferredName": "Tiankai Tu",
+                "firstName": "Tiankai",
+                "lastName": "Tu"
+            },
+            {
+                "id": 37592339400,
+                "preferredName": "Lucas C. Wilcox",
+                "firstName": "Lucas C.",
+                "lastName": "Wilcox"
+            },
+            {
+                "id": 37088331031,
+                "preferredName": "Shijie Zhong",
+                "firstName": "Shijie",
+                "lastName": "Zhong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214725",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214725",
+        "articleTitle": "Early evaluation of IBM BlueGene/P",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Early evaluation of IBM BlueGene/P",
+        "authors": [
+            {
+                "id": 37285489600,
+                "preferredName": "S. Alam",
+                "firstName": "S.",
+                "lastName": "Alam"
+            },
+            {
+                "id": 38539277900,
+                "preferredName": "R. Barrett",
+                "firstName": "R.",
+                "lastName": "Barrett"
+            },
+            {
+                "id": 37088679752,
+                "preferredName": "M. Bast",
+                "firstName": "M.",
+                "lastName": "Bast"
+            },
+            {
+                "id": 37679993300,
+                "preferredName": "M.R. Fahey",
+                "firstName": "M.R.",
+                "lastName": "Fahey"
+            },
+            {
+                "id": 37572356800,
+                "preferredName": "J. Kuehn",
+                "firstName": "J.",
+                "lastName": "Kuehn"
+            },
+            {
+                "id": 37408277300,
+                "preferredName": "C. McCurdy",
+                "firstName": "C.",
+                "lastName": "McCurdy"
+            },
+            {
+                "id": 37085474529,
+                "preferredName": "J. Rogers",
+                "firstName": "J.",
+                "lastName": "Rogers"
+            },
+            {
+                "id": 37281769800,
+                "preferredName": "P. Roth",
+                "firstName": "P.",
+                "lastName": "Roth"
+            },
+            {
+                "id": 37669032300,
+                "preferredName": "R. Sankaran",
+                "firstName": "R.",
+                "lastName": "Sankaran"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "J.S. Vetter",
+                "firstName": "J.S.",
+                "lastName": "Vetter"
+            },
+            {
+                "id": 37271686700,
+                "preferredName": "P. Worley",
+                "firstName": "P.",
+                "lastName": "Worley"
+            },
+            {
+                "id": 37405649800,
+                "preferredName": "W. Yu",
+                "firstName": "W.",
+                "lastName": "Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214358",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214358",
+        "articleTitle": "Scaling parallel I/O performance through I/O delegate and caching system",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Scaling parallel I/O performance through I/O delegate and caching system",
+        "authors": [
+            {
+                "id": 37678510000,
+                "preferredName": "Arifa Nisar",
+                "firstName": "Arifa",
+                "lastName": "Nisar"
+            },
+            {
+                "id": 37273521500,
+                "preferredName": "Wei-keng Liao",
+                "firstName": "Wei-keng",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37285106100,
+                "preferredName": "Alok Choudhary",
+                "firstName": "Alok",
+                "lastName": "Choudhary"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222734",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222734",
+        "articleTitle": "0.374 Pflop/s trillion-particle kinetic modeling of laser plasma interaction on roadrunner",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "0.374 Pflop/s trillion-particle kinetic modeling of laser plasma interaction on roadrunner",
+        "authors": [
+            {
+                "id": 37273911100,
+                "preferredName": "K. J. Bowers",
+                "firstName": "K. J.",
+                "lastName": "Bowers"
+            },
+            {
+                "id": 37889071500,
+                "preferredName": "B. J. Albright",
+                "firstName": "B. J.",
+                "lastName": "Albright"
+            },
+            {
+                "id": 37564946500,
+                "preferredName": "B. Bergen",
+                "firstName": "B.",
+                "lastName": "Bergen"
+            },
+            {
+                "id": 37274087900,
+                "preferredName": "L. Yin",
+                "firstName": "L.",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37266443100,
+                "preferredName": "K. J. Barker",
+                "firstName": "K. J.",
+                "lastName": "Barker"
+            },
+            {
+                "id": 37281755800,
+                "preferredName": "D. J. Kerbyson",
+                "firstName": "D. J.",
+                "lastName": "Kerbyson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5215726",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5215726",
+        "articleTitle": "Nimrod/K: Towards massively parallel dynamic Grid workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Nimrod/K: Towards massively parallel dynamic Grid workflows",
+        "authors": [
+            {
+                "id": 37270009900,
+                "preferredName": "David Abramson",
+                "firstName": "David",
+                "lastName": "Abramson"
+            },
+            {
+                "id": 37393743900,
+                "preferredName": "Colin Enticott",
+                "firstName": "Colin",
+                "lastName": "Enticott"
+            },
+            {
+                "id": 37888837400,
+                "preferredName": "Ilkay Altinas",
+                "firstName": "Ilkay",
+                "lastName": "Altinas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213939",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213939",
+        "articleTitle": "BitDew: A programmable environment for large-scale data management and distribution",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "BitDew: A programmable environment for large-scale data management and distribution",
+        "authors": [
+            {
+                "id": 37299774000,
+                "preferredName": "Gilles Fedak",
+                "firstName": "Gilles",
+                "lastName": "Fedak"
+            },
+            {
+                "id": 37087665191,
+                "preferredName": "Haiwu He",
+                "firstName": null,
+                "lastName": "Haiwu He"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213940",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213940",
+        "articleTitle": "Efficient management of data center resources for Massively Multiplayer Online Games",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Efficient management of data center resources for Massively Multiplayer Online Games",
+        "authors": [
+            {
+                "id": 37393535700,
+                "preferredName": "Vlad Nae",
+                "firstName": "Vlad",
+                "lastName": "Nae"
+            },
+            {
+                "id": 37299711200,
+                "preferredName": "Alexandru Iosup",
+                "firstName": "Alexandru",
+                "lastName": "Iosup"
+            },
+            {
+                "id": 37400064600,
+                "preferredName": "Stefan Podlipnig",
+                "firstName": "Stefan",
+                "lastName": "Podlipnig"
+            },
+            {
+                "id": 37299754000,
+                "preferredName": "Radu Prodan",
+                "firstName": "Radu",
+                "lastName": "Prodan"
+            },
+            {
+                "id": 37299717900,
+                "preferredName": "Dick Epema",
+                "firstName": "Dick",
+                "lastName": "Epema"
+            },
+            {
+                "id": 37299753200,
+                "preferredName": "Thomas Fahringer",
+                "firstName": "Thomas",
+                "lastName": "Fahringer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213921",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213921",
+        "articleTitle": "Programming the Intel 80-core network-on-a-chip Terascale Processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Programming the Intel 80-core network-on-a-chip Terascale Processor",
+        "authors": [
+            {
+                "id": 37350565900,
+                "preferredName": "Timothy G. Mattson",
+                "firstName": "Timothy G.",
+                "lastName": "Mattson"
+            },
+            {
+                "id": 37283773900,
+                "preferredName": "Rob Van der Wijngaart",
+                "firstName": "Rob",
+                "lastName": "Van der Wijngaart"
+            },
+            {
+                "id": 37281804000,
+                "preferredName": "Michael Frumkin",
+                "firstName": "Michael",
+                "lastName": "Frumkin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5216918",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5216918",
+        "articleTitle": "A novel migration-based NUCA design for Chip Multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "A novel migration-based NUCA design for Chip Multiprocessors",
+        "authors": [
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Kandemir",
+                "firstName": "Mahmut",
+                "lastName": "Kandemir"
+            },
+            {
+                "id": 37274933100,
+                "preferredName": "Feihui Li",
+                "firstName": "Feihui",
+                "lastName": "Li"
+            },
+            {
+                "id": 37274590200,
+                "preferredName": "Mary Jane Irwin",
+                "firstName": "Mary Jane",
+                "lastName": "Irwin"
+            },
+            {
+                "id": 37308804500,
+                "preferredName": "Seung Woo Son",
+                "firstName": "Seung Woo",
+                "lastName": "Son"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5215501",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5215501",
+        "articleTitle": "High-frequency simulations of global seismic wave propagation using SPECFEM3D_GLOBE on 62K processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "High-frequency simulations of global seismic wave propagation using SPECFEM3D_GLOBE on 62K processors",
+        "authors": [
+            {
+                "id": 37393242500,
+                "preferredName": "Laura Carrington",
+                "firstName": "Laura",
+                "lastName": "Carrington"
+            },
+            {
+                "id": 37269791800,
+                "preferredName": "Dimitri Komatitsch",
+                "firstName": "Dimitri",
+                "lastName": "Komatitsch"
+            },
+            {
+                "id": 37085391340,
+                "preferredName": "Michael Laurenzano",
+                "firstName": "Michael",
+                "lastName": "Laurenzano"
+            },
+            {
+                "id": 37393240000,
+                "preferredName": "Mustafa M. Tikir",
+                "firstName": "Mustafa M.",
+                "lastName": "Tikir"
+            },
+            {
+                "id": 37888457700,
+                "preferredName": "David Michea",
+                "firstName": "David",
+                "lastName": "Michea"
+            },
+            {
+                "id": 37087735730,
+                "preferredName": "Nicolas Le Goff",
+                "firstName": "Nicolas",
+                "lastName": "Le Goff"
+            },
+            {
+                "id": 37281816700,
+                "preferredName": "Allan Snavely",
+                "firstName": "Allan",
+                "lastName": "Snavely"
+            },
+            {
+                "id": 37269789300,
+                "preferredName": "Jeroen Tromp",
+                "firstName": "Jeroen",
+                "lastName": "Tromp"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5218881",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5218881",
+        "articleTitle": "SMARTMAP: Operating system support for efficient data sharing among processes on a multi-core processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "SMARTMAP: Operating system support for efficient data sharing among processes on a multi-core processor",
+        "authors": [
+            {
+                "id": 37281825400,
+                "preferredName": "Ron Brightwell",
+                "firstName": "Ron",
+                "lastName": "Brightwell"
+            },
+            {
+                "id": 37297345500,
+                "preferredName": "Kevin Pedretti",
+                "firstName": "Kevin",
+                "lastName": "Pedretti"
+            },
+            {
+                "id": 37287230100,
+                "preferredName": "Trammell Hudson",
+                "firstName": "Trammell",
+                "lastName": "Hudson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5217785",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5217785",
+        "articleTitle": "A dynamic scheduler for balancing HPC applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "A dynamic scheduler for balancing HPC applications",
+        "authors": [
+            {
+                "id": 37888483800,
+                "preferredName": "Carlos Boneti",
+                "firstName": "Carlos",
+                "lastName": "Boneti"
+            },
+            {
+                "id": 37424256600,
+                "preferredName": "Roberto Gioiosa",
+                "firstName": "Roberto",
+                "lastName": "Gioiosa"
+            },
+            {
+                "id": 37265870500,
+                "preferredName": "Francisco J. Cazorla",
+                "firstName": "Francisco J.",
+                "lastName": "Cazorla"
+            },
+            {
+                "id": 37265842600,
+                "preferredName": "Mateo Valero",
+                "firstName": "Mateo",
+                "lastName": "Valero"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5220090",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5220090",
+        "articleTitle": "Accelerating configuration interaction calculations for nuclear structure",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Accelerating configuration interaction calculations for nuclear structure",
+        "authors": [
+            {
+                "id": 37893092500,
+                "preferredName": "Philip Sternberg",
+                "firstName": "Philip",
+                "lastName": "Sternberg"
+            },
+            {
+                "id": 37894780600,
+                "preferredName": "Esmond G. Ng",
+                "firstName": "Esmond G.",
+                "lastName": "Ng"
+            },
+            {
+                "id": 37558171700,
+                "preferredName": "Chao Yang",
+                "firstName": "Chao",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37888384000,
+                "preferredName": "Pieter Maris",
+                "firstName": "Pieter",
+                "lastName": "Maris"
+            },
+            {
+                "id": 37888384400,
+                "preferredName": "James P. Vary",
+                "firstName": "James P.",
+                "lastName": "Vary"
+            },
+            {
+                "id": 37283869300,
+                "preferredName": "Masha Sosonkina",
+                "firstName": "Masha",
+                "lastName": "Sosonkina"
+            },
+            {
+                "id": 37087652177,
+                "preferredName": "Hung Viet Le",
+                "firstName": null,
+                "lastName": "Hung Viet Le"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213292",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213292",
+        "articleTitle": "Using overlays for efficient data transfer over shared wide-area networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Using overlays for efficient data transfer over shared wide-area networks",
+        "authors": [
+            {
+                "id": 37087565413,
+                "preferredName": "Gaurav Khanna",
+                "firstName": "Gaurav",
+                "lastName": "Khanna"
+            },
+            {
+                "id": 37275773300,
+                "preferredName": "Umit Catalyurek",
+                "firstName": "Umit",
+                "lastName": "Catalyurek"
+            },
+            {
+                "id": 37275769100,
+                "preferredName": "Tahsin Kurc",
+                "firstName": "Tahsin",
+                "lastName": "Kurc"
+            },
+            {
+                "id": 37329374000,
+                "preferredName": "Rajkumar Kettimuthu",
+                "firstName": "Rajkumar",
+                "lastName": "Kettimuthu"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            },
+            {
+                "id": 37276599200,
+                "preferredName": "Ian Foster",
+                "firstName": "Ian",
+                "lastName": "Foster"
+            },
+            {
+                "id": 37275776100,
+                "preferredName": "Joel Saltz",
+                "firstName": "Joel",
+                "lastName": "Saltz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222643",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222643",
+        "articleTitle": "PAM: A novel performance/power aware meta-scheduler for multi-core systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "PAM: A novel performance/power aware meta-scheduler for multi-core systems",
+        "authors": [
+            {
+                "id": 37350633600,
+                "preferredName": "Mohammad Banikazemi",
+                "firstName": "Mohammad",
+                "lastName": "Banikazemi"
+            },
+            {
+                "id": 37393063200,
+                "preferredName": "Dan Poff",
+                "firstName": "Dan",
+                "lastName": "Poff"
+            },
+            {
+                "id": 37293729200,
+                "preferredName": "Bulent Abali",
+                "firstName": "Bulent",
+                "lastName": "Abali"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222553",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222553",
+        "articleTitle": "Scalable load-balance measurement for SPMD codes",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Scalable load-balance measurement for SPMD codes",
+        "authors": [
+            {
+                "id": 37892085700,
+                "preferredName": "Todd Gamblin",
+                "firstName": "Todd",
+                "lastName": "Gamblin"
+            },
+            {
+                "id": 37392805500,
+                "preferredName": "Bronis R. de Supinski",
+                "firstName": "Bronis R.",
+                "lastName": "de Supinski"
+            },
+            {
+                "id": 37290317700,
+                "preferredName": "Martin Schulz",
+                "firstName": "Martin",
+                "lastName": "Schulz"
+            },
+            {
+                "id": 37386321000,
+                "preferredName": "Rob Fowler",
+                "firstName": "Rob",
+                "lastName": "Fowler"
+            },
+            {
+                "id": 37283944900,
+                "preferredName": "Daniel A. Reed",
+                "firstName": "Daniel A.",
+                "lastName": "Reed"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5218558",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5218558",
+        "articleTitle": "Dendro: Parallel algorithms for multigrid and AMR methods on 2:1 balanced octrees",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Dendro: Parallel algorithms for multigrid and AMR methods on 2:1 balanced octrees",
+        "authors": [
+            {
+                "id": 38574208200,
+                "preferredName": "Rahul S. Sampath",
+                "firstName": "Rahul S.",
+                "lastName": "Sampath"
+            },
+            {
+                "id": 37669541800,
+                "preferredName": "Santi S. Adavani",
+                "firstName": "Santi S.",
+                "lastName": "Adavani"
+            },
+            {
+                "id": 37547932200,
+                "preferredName": "Hari Sundar",
+                "firstName": "Hari",
+                "lastName": "Sundar"
+            },
+            {
+                "id": 37392746400,
+                "preferredName": "Ilya Lashuk",
+                "firstName": "Ilya",
+                "lastName": "Lashuk"
+            },
+            {
+                "id": 37392746800,
+                "preferredName": "George Biros",
+                "firstName": "George",
+                "lastName": "Biros"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214436",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214436",
+        "articleTitle": "High performance multivariate visual data exploration for extremely large data",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "High performance multivariate visual data exploration for extremely large data",
+        "authors": [
+            {
+                "id": 38549423900,
+                "preferredName": "Oliver Rubel",
+                "firstName": "Oliver",
+                "lastName": "Rubel"
+            },
+            {
+                "id": 37589721200,
+                "preferredName": "Prabhat",
+                "firstName": null,
+                "lastName": "Prabhat"
+            },
+            {
+                "id": 37087384274,
+                "preferredName": "Kesheng Wu",
+                "firstName": null,
+                "lastName": "Kesheng Wu"
+            },
+            {
+                "id": 37411882800,
+                "preferredName": "Hank Childs",
+                "firstName": "Hank",
+                "lastName": "Childs"
+            },
+            {
+                "id": 37346846400,
+                "preferredName": "Jeremy Meredith",
+                "firstName": "Jeremy",
+                "lastName": "Meredith"
+            },
+            {
+                "id": 37274376500,
+                "preferredName": "Cameron G.R. Geddes",
+                "firstName": "Cameron G.R.",
+                "lastName": "Geddes"
+            },
+            {
+                "id": 38277601900,
+                "preferredName": "Estelle Cormier-Michel",
+                "firstName": "Estelle",
+                "lastName": "Cormier-Michel"
+            },
+            {
+                "id": 37410066100,
+                "preferredName": "Sean Ahern",
+                "firstName": "Sean",
+                "lastName": "Ahern"
+            },
+            {
+                "id": 37411444100,
+                "preferredName": "Gunther H. Weber",
+                "firstName": "Gunther H.",
+                "lastName": "Weber"
+            },
+            {
+                "id": 37574577200,
+                "preferredName": "Peter Messmer",
+                "firstName": "Peter",
+                "lastName": "Messmer"
+            },
+            {
+                "id": 37282578800,
+                "preferredName": "Hans Hagen",
+                "firstName": "Hans",
+                "lastName": "Hagen"
+            },
+            {
+                "id": 37282068700,
+                "preferredName": "Bernd Hamann",
+                "firstName": "Bernd",
+                "lastName": "Hamann"
+            },
+            {
+                "id": 37086182217,
+                "preferredName": "E. Wes Bethel",
+                "firstName": "E.",
+                "lastName": "Wes Bethel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5219060",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5219060",
+        "articleTitle": "Massively parallel volume rendering using 2\u20133 swap image compositing",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Massively parallel volume rendering using 2\u20133 swap image compositing",
+        "authors": [
+            {
+                "id": 37401024100,
+                "preferredName": "Hongfeng Yu",
+                "firstName": "Hongfeng",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37087220021,
+                "preferredName": "Chaoli Wang",
+                "firstName": null,
+                "lastName": "Chaoli Wang"
+            },
+            {
+                "id": 37275869400,
+                "preferredName": "Kwan-Liu Ma",
+                "firstName": "Kwan-Liu",
+                "lastName": "Ma"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222005",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222005",
+        "articleTitle": "Massively parallel genomic sequence search on the Blue Gene/P architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Massively parallel genomic sequence search on the Blue Gene/P architecture",
+        "authors": [
+            {
+                "id": 37405078100,
+                "preferredName": "Heshan Lin",
+                "firstName": "Heshan",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37297588700,
+                "preferredName": "Pavan Balaji",
+                "firstName": "Pavan",
+                "lastName": "Balaji"
+            },
+            {
+                "id": 37890476900,
+                "preferredName": "Ruth Poole",
+                "firstName": "Ruth",
+                "lastName": "Poole"
+            },
+            {
+                "id": 37698022100,
+                "preferredName": "Carlos Sosa",
+                "firstName": "Carlos",
+                "lastName": "Sosa"
+            },
+            {
+                "id": 37279527500,
+                "preferredName": "Xiaosong Ma",
+                "firstName": "Xiaosong",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37280036100,
+                "preferredName": "Wu-chun Feng",
+                "firstName": "Wu-chun",
+                "lastName": "Feng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214287",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214287",
+        "articleTitle": "Communication Avoiding Gaussian elimination",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Communication Avoiding Gaussian elimination",
+        "authors": [
+            {
+                "id": 37392815600,
+                "preferredName": "Laura Grigori",
+                "firstName": "Laura",
+                "lastName": "Grigori"
+            },
+            {
+                "id": 37281843900,
+                "preferredName": "James W. Demmel",
+                "firstName": "James W.",
+                "lastName": "Demmel"
+            },
+            {
+                "id": 37088270654,
+                "preferredName": "Hua Xiang",
+                "firstName": "Hua",
+                "lastName": "Xiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214715",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214715",
+        "articleTitle": "A scalable parallel framework for analyzing terascale molecular dynamics simulation trajectories",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "A scalable parallel framework for analyzing terascale molecular dynamics simulation trajectories",
+        "authors": [
+            {
+                "id": 37087717066,
+                "preferredName": "Tiankai Tu",
+                "firstName": null,
+                "lastName": "Tiankai Tu"
+            },
+            {
+                "id": 37087606334,
+                "preferredName": "Charles A. Rendleman",
+                "firstName": "Charles A.",
+                "lastName": "Rendleman"
+            },
+            {
+                "id": 37088679425,
+                "preferredName": "David W. Borhani",
+                "firstName": "David W.",
+                "lastName": "Borhani"
+            },
+            {
+                "id": 37599793000,
+                "preferredName": "Ron O. Dror",
+                "firstName": "Ron O.",
+                "lastName": "Dror"
+            },
+            {
+                "id": 37088680420,
+                "preferredName": "Justin Gullingsrud",
+                "firstName": "Justin",
+                "lastName": "Gullingsrud"
+            },
+            {
+                "id": 38243144300,
+                "preferredName": "Morten O. Jensen",
+                "firstName": "Morten O.",
+                "lastName": "Jensen"
+            },
+            {
+                "id": 37624866400,
+                "preferredName": "John L. Klepeis",
+                "firstName": "John L.",
+                "lastName": "Klepeis"
+            },
+            {
+                "id": 37891737800,
+                "preferredName": "Paul Maragakis",
+                "firstName": "Paul",
+                "lastName": "Maragakis"
+            },
+            {
+                "id": 37088679527,
+                "preferredName": "Patrick Miller",
+                "firstName": "Patrick",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37088679983,
+                "preferredName": "Kate A. Stafford",
+                "firstName": "Kate A.",
+                "lastName": "Stafford"
+            },
+            {
+                "id": 37400628000,
+                "preferredName": "David E. Shaw",
+                "firstName": "David E.",
+                "lastName": "Shaw"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214432",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214432",
+        "articleTitle": "A novel domain oriented approach for scientific Grid workflow composition",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "A novel domain oriented approach for scientific Grid workflow composition",
+        "authors": [
+            {
+                "id": 37553470300,
+                "preferredName": "Jun Qin",
+                "firstName": "Jun",
+                "lastName": "Qin"
+            },
+            {
+                "id": 37299753200,
+                "preferredName": "Thomas Fahringer",
+                "firstName": "Thomas",
+                "lastName": "Fahringer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5218557",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5218557",
+        "articleTitle": "Lessons learned at 208K: Towards debugging millions of cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Lessons learned at 208K: Towards debugging millions of cores",
+        "authors": [
+            {
+                "id": 37697637100,
+                "preferredName": "Gregory L. Lee",
+                "firstName": "Gregory L.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37534013900,
+                "preferredName": "Dong H. Ahn",
+                "firstName": "Dong H.",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37275986900,
+                "preferredName": "Dorian C. Arnold",
+                "firstName": "Dorian C.",
+                "lastName": "Arnold"
+            },
+            {
+                "id": 37392805500,
+                "preferredName": "Bronis R. de Supinski",
+                "firstName": "Bronis R.",
+                "lastName": "de Supinski"
+            },
+            {
+                "id": 37901041300,
+                "preferredName": "Matthew Legendre",
+                "firstName": "Matthew",
+                "lastName": "Legendre"
+            },
+            {
+                "id": 37273219400,
+                "preferredName": "Barton P. Miller",
+                "firstName": "Barton P.",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37290317700,
+                "preferredName": "Martin Schulz",
+                "firstName": "Martin",
+                "lastName": "Schulz"
+            },
+            {
+                "id": 37312581800,
+                "preferredName": "Ben Liblit",
+                "firstName": "Ben",
+                "lastName": "Liblit"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222565",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222565",
+        "articleTitle": "Scientific application-based performance comparison of SGI Altix 4700, IBM POWER5+, and SGI ICE 8200 supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Scientific application-based performance comparison of SGI Altix 4700, IBM POWER5+, and SGI ICE 8200 supercomputers",
+        "authors": [
+            {
+                "id": 37344182600,
+                "preferredName": "Subhash Saini",
+                "firstName": "Subhash",
+                "lastName": "Saini"
+            },
+            {
+                "id": 37689159600,
+                "preferredName": "Dale Talcott",
+                "firstName": "Dale",
+                "lastName": "Talcott"
+            },
+            {
+                "id": 37392779600,
+                "preferredName": "Dennis Jespersen",
+                "firstName": "Dennis",
+                "lastName": "Jespersen"
+            },
+            {
+                "id": 37392781400,
+                "preferredName": "Jahed Djomehri",
+                "firstName": "Jahed",
+                "lastName": "Djomehri"
+            },
+            {
+                "id": 37276607100,
+                "preferredName": "Haoqiang Jin",
+                "firstName": "Haoqiang",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37267863600,
+                "preferredName": "Rupak Biswas",
+                "firstName": "Rupak",
+                "lastName": "Biswas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213209",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213209",
+        "articleTitle": "Hiding I/O latency with pre-execution prefetching for parallel applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Hiding I/O latency with pre-execution prefetching for parallel applications",
+        "authors": [
+            {
+                "id": 37293324200,
+                "preferredName": "Yong Chen",
+                "firstName": "Yong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085862825,
+                "preferredName": "Surendra Byna",
+                "firstName": "Surendra",
+                "lastName": "Byna"
+            },
+            {
+                "id": 37276409100,
+                "preferredName": "Xian-He Sun",
+                "firstName": "Xian-He",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37284796600,
+                "preferredName": "Rajeev Thakur",
+                "firstName": "Rajeev",
+                "lastName": "Thakur"
+            },
+            {
+                "id": 37284797700,
+                "preferredName": "William Gropp",
+                "firstName": "William",
+                "lastName": "Gropp"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5219753",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5219753",
+        "articleTitle": "Analysis of application heartbeats: Learning structural and temporal features in time series data for identification of performance problems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Analysis of application heartbeats: Learning structural and temporal features in time series data for identification of performance problems",
+        "authors": [
+            {
+                "id": 37891970700,
+                "preferredName": "Emma S. Buneci",
+                "firstName": "Emma S.",
+                "lastName": "Buneci"
+            },
+            {
+                "id": 37283944900,
+                "preferredName": "Daniel A. Reed",
+                "firstName": "Daniel A.",
+                "lastName": "Reed"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214435",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214435",
+        "articleTitle": "Wide-area performance profiling of 10GigE and InfiniBand technologies",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Wide-area performance profiling of 10GigE and InfiniBand technologies",
+        "authors": [
+            {
+                "id": 37289656100,
+                "preferredName": "Nageswara S. V. Rao",
+                "firstName": "Nageswara S. V.",
+                "lastName": "Rao"
+            },
+            {
+                "id": 37405649800,
+                "preferredName": "Weikuan Yu",
+                "firstName": "Weikuan",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37298323300,
+                "preferredName": "William R. Wing",
+                "firstName": "William R.",
+                "lastName": "Wing"
+            },
+            {
+                "id": 37303054500,
+                "preferredName": "Stephen W. Poole",
+                "firstName": "Stephen W.",
+                "lastName": "Poole"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey S. Vetter",
+                "firstName": "Jeffrey S.",
+                "lastName": "Vetter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5222642",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5222642",
+        "articleTitle": "Capturing performance knowledge for automated analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Capturing performance knowledge for automated analysis",
+        "authors": [
+            {
+                "id": 37564901500,
+                "preferredName": "Kevin A. Huck",
+                "firstName": "Kevin A.",
+                "lastName": "Huck"
+            },
+            {
+                "id": 37266105100,
+                "preferredName": "Oscar Hernandez",
+                "firstName": "Oscar",
+                "lastName": "Hernandez"
+            },
+            {
+                "id": 37679743200,
+                "preferredName": "Van Bui",
+                "firstName": "Van",
+                "lastName": "Bui"
+            },
+            {
+                "id": 37892610900,
+                "preferredName": "Sunita Chandrasekaran",
+                "firstName": "Sunita",
+                "lastName": "Chandrasekaran"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            },
+            {
+                "id": 37281865600,
+                "preferredName": "Allen D. Malony",
+                "firstName": "Allen D.",
+                "lastName": "Malony"
+            },
+            {
+                "id": 37393980800,
+                "preferredName": "Lois Curfman McInnes",
+                "firstName": "Lois Curfman",
+                "lastName": "McInnes"
+            },
+            {
+                "id": 37425262500,
+                "preferredName": "Boyana Norris",
+                "firstName": "Boyana",
+                "lastName": "Norris"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5215913",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5215913",
+        "articleTitle": "Performance optimization of TCP/IP over 10 Gigabit Ethernet by precise instrumentation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Performance optimization of TCP/IP over 10 Gigabit Ethernet by precise instrumentation",
+        "authors": [
+            {
+                "id": 37891070900,
+                "preferredName": "Takeshi Yoshino",
+                "firstName": "Takeshi",
+                "lastName": "Yoshino"
+            },
+            {
+                "id": 37566698200,
+                "preferredName": "Yutaka Sugawara",
+                "firstName": "Yutaka",
+                "lastName": "Sugawara"
+            },
+            {
+                "id": 37886689700,
+                "preferredName": "Katsushi Inagami",
+                "firstName": "Katsushi",
+                "lastName": "Inagami"
+            },
+            {
+                "id": 37266649300,
+                "preferredName": "Junji Tamatsukuri",
+                "firstName": "Junji",
+                "lastName": "Tamatsukuri"
+            },
+            {
+                "id": 37268957500,
+                "preferredName": "Mary Inaba",
+                "firstName": "Mary",
+                "lastName": "Inaba"
+            },
+            {
+                "id": 37266647700,
+                "preferredName": "Kei Hiraki",
+                "firstName": "Kei",
+                "lastName": "Hiraki"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5217786",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5217786",
+        "articleTitle": "Feedback-controlled resource sharing for predictable eScience",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Feedback-controlled resource sharing for predictable eScience",
+        "authors": [
+            {
+                "id": 37311165400,
+                "preferredName": "Sang-Min Park",
+                "firstName": "Sang-Min",
+                "lastName": "Park"
+            },
+            {
+                "id": 37276435000,
+                "preferredName": "Marty Humphrey",
+                "firstName": "Marty",
+                "lastName": "Humphrey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214724",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214724",
+        "articleTitle": "Using server-to-server communication in parallel file systems to simplify consistency and improve performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Using server-to-server communication in parallel file systems to simplify consistency and improve performance",
+        "authors": [
+            {
+                "id": 37422604200,
+                "preferredName": "Philip H. Carns",
+                "firstName": "Philip H.",
+                "lastName": "Carns"
+            },
+            {
+                "id": 37590976400,
+                "preferredName": "Bradley W. Settlemyer",
+                "firstName": "Bradley W.",
+                "lastName": "Settlemyer"
+            },
+            {
+                "id": 37281839100,
+                "preferredName": "Walter B. Ligon",
+                "firstName": "Walter B.",
+                "lastName": "Ligon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5219748",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5219748",
+        "articleTitle": "Asymmetric interactions in symmetric multi-core systems: Analysis, enhancements and evaluation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Asymmetric interactions in symmetric multi-core systems: Analysis, enhancements and evaluation",
+        "authors": [
+            {
+                "id": 37573407100,
+                "preferredName": "T. Scogland",
+                "firstName": "T.",
+                "lastName": "Scogland"
+            },
+            {
+                "id": 37297588700,
+                "preferredName": "P. Balaji",
+                "firstName": "P.",
+                "lastName": "Balaji"
+            },
+            {
+                "id": 37280036100,
+                "preferredName": "W. Feng",
+                "firstName": "W.",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37873317900,
+                "preferredName": "G. Narayanaswamy",
+                "firstName": "G.",
+                "lastName": "Narayanaswamy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5220091",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5220091",
+        "articleTitle": "Performance prediction of large-scale parallell system and application using macro-level simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Performance prediction of large-scale parallell system and application using macro-level simulation",
+        "authors": [
+            {
+                "id": 37087691221,
+                "preferredName": "Ryutaro Susukita",
+                "firstName": null,
+                "lastName": "Ryutaro Susukita"
+            },
+            {
+                "id": 37087600117,
+                "preferredName": "Hisashige Ando",
+                "firstName": null,
+                "lastName": "Hisashige Ando"
+            },
+            {
+                "id": 37088628099,
+                "preferredName": "Mutsumi Aoyagi",
+                "firstName": null,
+                "lastName": "Mutsumi Aoyagi"
+            },
+            {
+                "id": 37088628272,
+                "preferredName": "Hiroaki Honda",
+                "firstName": null,
+                "lastName": "Hiroaki Honda"
+            },
+            {
+                "id": 37088628293,
+                "preferredName": "Yuichi Inadomi",
+                "firstName": null,
+                "lastName": "Yuichi Inadomi"
+            },
+            {
+                "id": 37087485392,
+                "preferredName": "Koji Inoue",
+                "firstName": null,
+                "lastName": "Koji Inoue"
+            },
+            {
+                "id": 37088628203,
+                "preferredName": "Shigeru Ishizuki",
+                "firstName": null,
+                "lastName": "Shigeru Ishizuki"
+            },
+            {
+                "id": 37088627908,
+                "preferredName": "Yasunori Kimura",
+                "firstName": null,
+                "lastName": "Yasunori Kimura"
+            },
+            {
+                "id": 37088627954,
+                "preferredName": "Hidemi Komatsu",
+                "firstName": null,
+                "lastName": "Hidemi Komatsu"
+            },
+            {
+                "id": 37088627948,
+                "preferredName": "Motoyoshi Kurokawa",
+                "firstName": null,
+                "lastName": "Motoyoshi Kurokawa"
+            },
+            {
+                "id": 37281018400,
+                "preferredName": "Kazuaki J. Murakami",
+                "firstName": "Kazuaki J.",
+                "lastName": "Murakami"
+            },
+            {
+                "id": 37088627896,
+                "preferredName": "Hidetomo Shibamura",
+                "firstName": null,
+                "lastName": "Hidetomo Shibamura"
+            },
+            {
+                "id": 37088628248,
+                "preferredName": "Shuji Yamamura",
+                "firstName": null,
+                "lastName": "Shuji Yamamura"
+            },
+            {
+                "id": 37087668896,
+                "preferredName": "Yunqing Yu",
+                "firstName": null,
+                "lastName": "Yunqing Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5219754",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5219754",
+        "articleTitle": "High-radix crossbar switches enabled by Proximity Communication",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "High-radix crossbar switches enabled by Proximity Communication",
+        "authors": [
+            {
+                "id": 37281745900,
+                "preferredName": "Hans Eberle",
+                "firstName": "Hans",
+                "lastName": "Eberle"
+            },
+            {
+                "id": 37711736100,
+                "preferredName": "Pedro J. Garcia",
+                "firstName": "Pedro J.",
+                "lastName": "Garcia"
+            },
+            {
+                "id": 37272659300,
+                "preferredName": "Jose Flich",
+                "firstName": "Jose",
+                "lastName": "Flich"
+            },
+            {
+                "id": 37274199100,
+                "preferredName": "Jose Duato",
+                "firstName": "Jose",
+                "lastName": "Duato"
+            },
+            {
+                "id": 37272195700,
+                "preferredName": "Robert Drost",
+                "firstName": "Robert",
+                "lastName": "Drost"
+            },
+            {
+                "id": 37281745300,
+                "preferredName": "Nils Gura",
+                "firstName": "Nils",
+                "lastName": "Gura"
+            },
+            {
+                "id": 37301582900,
+                "preferredName": "David Hopkins",
+                "firstName": "David",
+                "lastName": "Hopkins"
+            },
+            {
+                "id": 37295997600,
+                "preferredName": "Wladek Olesinski",
+                "firstName": "Wladek",
+                "lastName": "Olesinski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213293",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213293",
+        "articleTitle": "Positivity, posynomials and tile size selection",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Positivity, posynomials and tile size selection",
+        "authors": [
+            {
+                "id": 37689315600,
+                "preferredName": "Lakshminarayanan Renganarayana",
+                "firstName": "Lakshminarayanan",
+                "lastName": "Renganarayana"
+            },
+            {
+                "id": 37352391400,
+                "preferredName": "Sanjay Rajopadhye",
+                "firstName": "Sanjay",
+                "lastName": "Rajopadhye"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214713",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214713",
+        "articleTitle": "369 Tflop/s molecular dynamics simulations on the Roadrunner general-purpose heterogeneous supercomputer",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "369 Tflop/s molecular dynamics simulations on the Roadrunner general-purpose heterogeneous supercomputer",
+        "authors": [
+            {
+                "id": 37297036800,
+                "preferredName": "Sriram Swaminarayan",
+                "firstName": "Sriram",
+                "lastName": "Swaminarayan"
+            },
+            {
+                "id": 37087493272,
+                "preferredName": "Timothy C. Germann",
+                "firstName": "Timothy C.",
+                "lastName": "Germann"
+            },
+            {
+                "id": 37088246694,
+                "preferredName": "Kai Kadau",
+                "firstName": "Kai",
+                "lastName": "Kadau"
+            },
+            {
+                "id": 37698035600,
+                "preferredName": "Gordon C. Fossum",
+                "firstName": "Gordon C.",
+                "lastName": "Fossum"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5218327",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5218327",
+        "articleTitle": "Linearly scaling 3D fragment method for large-scale electronic structure calculations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Linearly scaling 3D fragment method for large-scale electronic structure calculations",
+        "authors": [
+            {
+                "id": 37311069900,
+                "preferredName": "Lin-Wang Wang",
+                "firstName": "Lin-Wang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37087182660,
+                "preferredName": "Byounghak Lee",
+                "firstName": null,
+                "lastName": "Byounghak Lee"
+            },
+            {
+                "id": 37087182948,
+                "preferredName": "Hongzhang Shan",
+                "firstName": null,
+                "lastName": "Hongzhang Shan"
+            },
+            {
+                "id": 37086149738,
+                "preferredName": "Zhengji Zhao",
+                "firstName": "Zhengji",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37561916000,
+                "preferredName": "Juan Meza",
+                "firstName": "Juan",
+                "lastName": "Meza"
+            },
+            {
+                "id": 37271736300,
+                "preferredName": "Erich Strohmaier",
+                "firstName": "Erich",
+                "lastName": "Strohmaier"
+            },
+            {
+                "id": 37343250600,
+                "preferredName": "David H. Bailey",
+                "firstName": "David H.",
+                "lastName": "Bailey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5219747",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5219747",
+        "articleTitle": "Efficient auction-based grid reservations using dynamic programming",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Efficient auction-based grid reservations using dynamic programming",
+        "authors": [
+            {
+                "id": 37063958300,
+                "preferredName": "Andrew Mutz",
+                "firstName": "Andrew",
+                "lastName": "Mutz"
+            },
+            {
+                "id": 37267273300,
+                "preferredName": "Rich Wolski",
+                "firstName": "Rich",
+                "lastName": "Wolski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5214891",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5214891",
+        "articleTitle": "An efficient parallel approach for identifying protein families in large-scale metagenomic data sets",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "An efficient parallel approach for identifying protein families in large-scale metagenomic data sets",
+        "authors": [
+            {
+                "id": 37896048200,
+                "preferredName": "Changjun Wu",
+                "firstName": "Changjun",
+                "lastName": "Wu"
+            },
+            {
+                "id": 38242841200,
+                "preferredName": "Ananth Kalyanaraman",
+                "firstName": "Ananth",
+                "lastName": "Kalyanaraman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5215657",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5215657",
+        "articleTitle": "Materialized community ground models for large-scale earthquake simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Materialized community ground models for large-scale earthquake simulation",
+        "authors": [
+            {
+                "id": 37690913700,
+                "preferredName": "Steven W. Schlosser",
+                "firstName": "Steven W.",
+                "lastName": "Schlosser"
+            },
+            {
+                "id": 38196182000,
+                "preferredName": "Michael P. Ryan",
+                "firstName": "Michael P.",
+                "lastName": "Ryan"
+            },
+            {
+                "id": 37844908300,
+                "preferredName": "Ricardo Taborda",
+                "firstName": "Ricardo",
+                "lastName": "Taborda"
+            },
+            {
+                "id": 37723378300,
+                "preferredName": "Julio Lopez",
+                "firstName": "Julio",
+                "lastName": "Lopez"
+            },
+            {
+                "id": 37390184800,
+                "preferredName": "David R. O'Hallaron",
+                "firstName": "David R.",
+                "lastName": "O'Hallaron"
+            },
+            {
+                "id": 37860370300,
+                "preferredName": "Jacobo Bielak",
+                "firstName": "Jacobo",
+                "lastName": "Bielak"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213771",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213771",
+        "articleTitle": "The role of MPI in development time: A case study",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "The role of MPI in development time: A case study",
+        "authors": [
+            {
+                "id": 37563301000,
+                "preferredName": "Lorin Hochstein",
+                "firstName": "Lorin",
+                "lastName": "Hochstein"
+            },
+            {
+                "id": 37294804500,
+                "preferredName": "Forrest Shull",
+                "firstName": "Forrest",
+                "lastName": "Shull"
+            },
+            {
+                "id": 37087584572,
+                "preferredName": "Lynn B. Reid",
+                "firstName": "Lynn B.",
+                "lastName": "Reid"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5218119",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5218119",
+        "articleTitle": "New algorithm to enable 400+ TFlop/s sustained performance in simulations of disorder effects in high-Tc superconductors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "New algorithm to enable 400+ TFlop/s sustained performance in simulations of disorder effects in high-Tc superconductors",
+        "authors": [
+            {
+                "id": 37890469600,
+                "preferredName": "G. Alvarez",
+                "firstName": "G.",
+                "lastName": "Alvarez"
+            },
+            {
+                "id": 37888801600,
+                "preferredName": "M. S. Summers",
+                "firstName": "M. S.",
+                "lastName": "Summers"
+            },
+            {
+                "id": 37886961300,
+                "preferredName": "D. E. Maxwell",
+                "firstName": "D. E.",
+                "lastName": "Maxwell"
+            },
+            {
+                "id": 37089044664,
+                "preferredName": "M. Eisenbach",
+                "firstName": "M.",
+                "lastName": "Eisenbach"
+            },
+            {
+                "id": 37346846400,
+                "preferredName": "J. S. Meredith",
+                "firstName": "J. S.",
+                "lastName": "Meredith"
+            },
+            {
+                "id": 37682598200,
+                "preferredName": "J. M. Larkin",
+                "firstName": "J. M.",
+                "lastName": "Larkin"
+            },
+            {
+                "id": 37088678330,
+                "preferredName": "J. Levesque",
+                "firstName": "J.",
+                "lastName": "Levesque"
+            },
+            {
+                "id": 37890817600,
+                "preferredName": "T. A. Maier",
+                "firstName": "T. A.",
+                "lastName": "Maier"
+            },
+            {
+                "id": 37529392300,
+                "preferredName": "P. R. C. Kent",
+                "firstName": "P. R. C.",
+                "lastName": "Kent"
+            },
+            {
+                "id": 37085615721,
+                "preferredName": "E. F. D'Azevedo",
+                "firstName": "E. F.",
+                "lastName": "D'Azevedo"
+            },
+            {
+                "id": 37266438300,
+                "preferredName": "T. C. Schulthess",
+                "firstName": "T. C.",
+                "lastName": "Schulthess"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5218880",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5218880",
+        "articleTitle": "Global Trees: A framework for linked data structures on distributed memory parallel systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Global Trees: A framework for linked data structures on distributed memory parallel systems",
+        "authors": [
+            {
+                "id": 37697637800,
+                "preferredName": "D. Brian Larkins",
+                "firstName": "D. Brian",
+                "lastName": "Larkins"
+            },
+            {
+                "id": 37701247600,
+                "preferredName": "James Dinan",
+                "firstName": "James",
+                "lastName": "Dinan"
+            },
+            {
+                "id": 37283825700,
+                "preferredName": "Sriram Krishnamoorthy",
+                "firstName": "Sriram",
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "id": 37269057900,
+                "preferredName": "Srinivasan Parthasarathy",
+                "firstName": "Srinivasan",
+                "lastName": "Parthasarathy"
+            },
+            {
+                "id": 37264946400,
+                "preferredName": "Atanas Rountev",
+                "firstName": "Atanas",
+                "lastName": "Rountev"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "P. Sadayappan",
+                "firstName": "P.",
+                "lastName": "Sadayappan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5218071",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5218071",
+        "articleTitle": "Applying double auctions for scheduling of workflows on the Grid",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Applying double auctions for scheduling of workflows on the Grid",
+        "authors": [
+            {
+                "id": 37548950300,
+                "preferredName": "Marek Wieczorek",
+                "firstName": "Marek",
+                "lastName": "Wieczorek"
+            },
+            {
+                "id": 37400064600,
+                "preferredName": "Stefan Podlipnig",
+                "firstName": "Stefan",
+                "lastName": "Podlipnig"
+            },
+            {
+                "id": 37299754000,
+                "preferredName": "Radu Prodan",
+                "firstName": "Radu",
+                "lastName": "Prodan"
+            },
+            {
+                "id": 37299753200,
+                "preferredName": "Thomas Fahringer",
+                "firstName": "Thomas",
+                "lastName": "Fahringer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5215912",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5215912",
+        "articleTitle": "A multi-level parallel simulation approach to electron transport in nano-scale transistors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "A multi-level parallel simulation approach to electron transport in nano-scale transistors",
+        "authors": [
+            {
+                "id": 37293931300,
+                "preferredName": "Mathieu Luisier",
+                "firstName": "Mathieu",
+                "lastName": "Luisier"
+            },
+            {
+                "id": 37270404800,
+                "preferredName": "Gerhard Klimeck",
+                "firstName": "Gerhard",
+                "lastName": "Klimeck"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5215354",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5215354",
+        "articleTitle": "Extending CC-NUMA systems to support write update optimizations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Extending CC-NUMA systems to support write update optimizations",
+        "authors": [
+            {
+                "id": 37292879200,
+                "preferredName": "Liqun Cheng",
+                "firstName": "Liqun",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37269438600,
+                "preferredName": "John B. Carter",
+                "firstName": "John B.",
+                "lastName": "Carter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5213128",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5213128",
+        "articleTitle": "Prefetch throttling and data pinning for improving performance of shared caches",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Prefetch throttling and data pinning for improving performance of shared caches",
+        "authors": [
+            {
+                "id": 37268001400,
+                "preferredName": "Ozcan Ozturk",
+                "firstName": "Ozcan",
+                "lastName": "Ozturk"
+            },
+            {
+                "id": 37087581161,
+                "preferredName": "Seung Woo Son",
+                "firstName": null,
+                "lastName": "Seung Woo Son"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Kandemir",
+                "firstName": "Mahmut",
+                "lastName": "Kandemir"
+            },
+            {
+                "id": 37294939000,
+                "preferredName": "Mustafa Karakoy",
+                "firstName": "Mustafa",
+                "lastName": "Karakoy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5206875",
+        "doi": "10.1109/SC.2008.5219769",
+        "publicationYear": "2008",
+        "publicationDate": "15-21 Nov. 2008",
+        "articleNumber": "5219769",
+        "articleTitle": "Parallel exact inference on the Cell Broadband Engine processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC '08: Proceedings of the 2008 ACM/IEEE Conference on Supercomputing",
+        "highlightedTitle": "Parallel exact inference on the Cell Broadband Engine processor",
+        "authors": [
+            {
+                "id": 37087352655,
+                "preferredName": "Yinglong Xia",
+                "firstName": null,
+                "lastName": "Yinglong Xia"
+            },
+            {
+                "id": 37273497500,
+                "preferredName": "Viktor K. Prasanna",
+                "firstName": "Viktor K.",
+                "lastName": "Prasanna"
+            }
+        ]
+    }
+]

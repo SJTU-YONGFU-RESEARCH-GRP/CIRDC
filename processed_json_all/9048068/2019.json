@@ -1,0 +1,356 @@
+[
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00011",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062721",
+        "articleTitle": "Pygion: Flexible, Scalable Task-Based Parallelism with Python",
+        "volume": null,
+        "issue": null,
+        "startPage": "58",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Pygion: Flexible, Scalable Task-Based Parallelism with Python",
+        "authors": [
+            {
+                "id": 38551619900,
+                "preferredName": "Elliott Slaughter",
+                "firstName": "Elliott",
+                "lastName": "Slaughter"
+            },
+            {
+                "id": 37371925700,
+                "preferredName": "Alex Aiken",
+                "firstName": "Alex",
+                "lastName": "Aiken"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00008",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062701",
+        "articleTitle": "Evaluation of Programming Models to Address Load Imbalance on Distributed Multi-Core CPUs: A Case Study with Block Low-Rank Factorization",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Evaluation of Programming Models to Address Load Imbalance on Distributed Multi-Core CPUs: A Case Study with Block Low-Rank Factorization",
+        "authors": [
+            {
+                "id": 37086183013,
+                "preferredName": "Yu Pei",
+                "firstName": "Yu",
+                "lastName": "Pei"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            },
+            {
+                "id": 38468975100,
+                "preferredName": "Ichitaro Yamazaki",
+                "firstName": "Ichitaro",
+                "lastName": "Yamazaki"
+            },
+            {
+                "id": 37085733822,
+                "preferredName": "Akihiro Ida",
+                "firstName": "Akihiro",
+                "lastName": "Ida"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00010",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062723",
+        "articleTitle": "Enabling Low-Overhead Communication in Multi-threaded OpenSHMEM Applications using Contexts",
+        "volume": null,
+        "issue": null,
+        "startPage": "47",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Enabling Low-Overhead Communication in Multi-threaded OpenSHMEM Applications using Contexts",
+        "authors": [
+            {
+                "id": 37088366801,
+                "preferredName": "Wenbin Lu",
+                "firstName": "Wenbin",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37088368720,
+                "preferredName": "Tony Curtis",
+                "firstName": "Tony",
+                "lastName": "Curtis"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00007",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062718",
+        "articleTitle": "A UPC++ Actor Library and Its Evaluation On a Shallow Water Proxy Application",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "A UPC++ Actor Library and Its Evaluation On a Shallow Water Proxy Application",
+        "authors": [
+            {
+                "id": 37086144005,
+                "preferredName": "Alexander P\u00f6ppl",
+                "firstName": "Alexander",
+                "lastName": "P\u00f6ppl"
+            },
+            {
+                "id": 37283882400,
+                "preferredName": "Scott Baden",
+                "firstName": "Scott",
+                "lastName": "Baden"
+            },
+            {
+                "id": 37994497900,
+                "preferredName": "Michael Bader",
+                "firstName": "Michael",
+                "lastName": "Bader"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00009",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062752",
+        "articleTitle": "Designing, Implementing, and Evaluating the Upcoming OpenSHMEM Teams API",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "46",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Designing, Implementing, and Evaluating the Upcoming OpenSHMEM Teams API",
+        "authors": [
+            {
+                "id": 37077539300,
+                "preferredName": "David Ozog",
+                "firstName": "David",
+                "lastName": "Ozog"
+            },
+            {
+                "id": 37088367406,
+                "preferredName": "MD. Wasi-ur- Rahman",
+                "firstName": "MD. Wasi-ur-",
+                "lastName": "Rahman"
+            },
+            {
+                "id": 37088368625,
+                "preferredName": "Gerard Taylor",
+                "firstName": "Gerard",
+                "lastName": "Taylor"
+            },
+            {
+                "id": 37701247600,
+                "preferredName": "James Dinan",
+                "firstName": "James",
+                "lastName": "Dinan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00006",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062726",
+        "articleTitle": "Exploring the Use of Novel Programming Models in Land Surface Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Exploring the Use of Novel Programming Models in Land Surface Models",
+        "authors": [
+            {
+                "id": 37088369023,
+                "preferredName": "Ethan T. Coon",
+                "firstName": "Ethan T.",
+                "lastName": "Coon"
+            },
+            {
+                "id": 37393979800,
+                "preferredName": "Wael R. Elwasif",
+                "firstName": "Wael R.",
+                "lastName": "Elwasif"
+            },
+            {
+                "id": 37088367267,
+                "preferredName": "Himanshu Pillai",
+                "firstName": "Himanshu",
+                "lastName": "Pillai"
+            },
+            {
+                "id": 37085529366,
+                "preferredName": "Peter E. Thornton",
+                "firstName": "Peter E.",
+                "lastName": "Thornton"
+            },
+            {
+                "id": 37088368325,
+                "preferredName": "Scott L. Painter",
+                "firstName": "Scott L.",
+                "lastName": "Painter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00005",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062748",
+        "articleTitle": "Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00004",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062705",
+        "articleTitle": "Message from the Workshop Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Message from the Workshop Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00012",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062751",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "73",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00001",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062724",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00002",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062725",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9048068",
+        "doi": "10.1109/PAW-ATM49560.2019.00003",
+        "publicationYear": "2019",
+        "publicationDate": "17-17 Nov. 2019",
+        "articleNumber": "9062768",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2019 IEEE/ACM Parallel Applications Workshop, Alternatives To MPI (PAW-ATM)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

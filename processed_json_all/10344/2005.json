@@ -1,0 +1,819 @@
+[
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.27",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541169",
+        "articleTitle": "Transforming embedded Java code into custom tags",
+        "volume": null,
+        "issue": null,
+        "startPage": "173",
+        "endPage": "182",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Transforming embedded Java code into custom tags",
+        "authors": [
+            {
+                "id": 37087749242,
+                "preferredName": "S. Xu",
+                "firstName": "S.",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37306109900,
+                "preferredName": "T. Dean",
+                "firstName": "T.",
+                "lastName": "Dean"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.14",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541159",
+        "articleTitle": "Fine-grained analysis of change couplings",
+        "volume": null,
+        "issue": null,
+        "startPage": "66",
+        "endPage": "74",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Fine-grained analysis of change couplings",
+        "authors": [
+            {
+                "id": 37550131400,
+                "preferredName": "B. Fluri",
+                "firstName": "B.",
+                "lastName": "Fluri"
+            },
+            {
+                "id": 37266441700,
+                "preferredName": "H.C. Gall",
+                "firstName": "H.C.",
+                "lastName": "Gall"
+            },
+            {
+                "id": 37265107400,
+                "preferredName": "M. Pinzger",
+                "firstName": "M.",
+                "lastName": "Pinzger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.8",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541156",
+        "articleTitle": "Dynamic slicing of Java bytecode programs",
+        "volume": null,
+        "issue": null,
+        "startPage": "35",
+        "endPage": "44",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Dynamic slicing of Java bytecode programs",
+        "authors": [
+            {
+                "id": 37293791800,
+                "preferredName": "A. Szegedi",
+                "firstName": "A.",
+                "lastName": "Szegedi"
+            },
+            {
+                "id": 37264905300,
+                "preferredName": "T. Gyimothy",
+                "firstName": "T.",
+                "lastName": "Gyimothy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.28",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541154",
+        "articleTitle": "Forward slices are smaller than backward slices",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Forward slices are smaller than backward slices",
+        "authors": [
+            {
+                "id": 37275658000,
+                "preferredName": "D. Binkley",
+                "firstName": "D.",
+                "lastName": "Binkley"
+            },
+            {
+                "id": 37275655700,
+                "preferredName": "M. Harman",
+                "firstName": "M.",
+                "lastName": "Harman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.2",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541155",
+        "articleTitle": "Abstract slicing: a new approach to program slicing based on abstract interpretation and model checking",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "34",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Abstract slicing: a new approach to program slicing based on abstract interpretation and model checking",
+        "authors": [
+            {
+                "id": 37087573726,
+                "preferredName": "Hyoung Seok Hong",
+                "firstName": null,
+                "lastName": "Hyoung Seok Hong"
+            },
+            {
+                "id": 37086986816,
+                "preferredName": "Insup Lee",
+                "firstName": null,
+                "lastName": "Insup Lee"
+            },
+            {
+                "id": 37265556900,
+                "preferredName": "O. Sokolsky",
+                "firstName": "O.",
+                "lastName": "Sokolsky"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.1",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541165",
+        "articleTitle": "A fast analysis for thread-local garbage collection with dynamic class loading",
+        "volume": null,
+        "issue": null,
+        "startPage": "129",
+        "endPage": "138",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "A fast analysis for thread-local garbage collection with dynamic class loading",
+        "authors": [
+            {
+                "id": 37086004309,
+                "preferredName": "R. Jones",
+                "firstName": "R.",
+                "lastName": "Jones"
+            },
+            {
+                "id": 37087222330,
+                "preferredName": "A.C. King",
+                "firstName": "A.C.",
+                "lastName": "King"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.19",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541168",
+        "articleTitle": "Object-oriented cohesion as a surrogate of software comprehension: an empirical study",
+        "volume": null,
+        "issue": null,
+        "startPage": "161",
+        "endPage": "169",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Object-oriented cohesion as a surrogate of software comprehension: an empirical study",
+        "authors": [
+            {
+                "id": 37323873300,
+                "preferredName": "S. Counsell",
+                "firstName": "S.",
+                "lastName": "Counsell"
+            },
+            {
+                "id": 37318237800,
+                "preferredName": "S. Swift",
+                "firstName": "S.",
+                "lastName": "Swift"
+            },
+            {
+                "id": 37304315400,
+                "preferredName": "A. Tucker",
+                "firstName": "A.",
+                "lastName": "Tucker"
+            },
+            {
+                "id": 37264963600,
+                "preferredName": "E. Mendes",
+                "firstName": "E.",
+                "lastName": "Mendes"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.9",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541158",
+        "articleTitle": "Extending dynamic aspect mining with static information",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "65",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Extending dynamic aspect mining with static information",
+        "authors": [
+            {
+                "id": 37282656400,
+                "preferredName": "S. Breu",
+                "firstName": "S.",
+                "lastName": "Breu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.15",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541161",
+        "articleTitle": "Implementation and verification of implicit-invocation systems using source transformation",
+        "volume": null,
+        "issue": null,
+        "startPage": "87",
+        "endPage": "96",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Implementation and verification of implicit-invocation systems using source transformation",
+        "authors": [
+            {
+                "id": 37087073210,
+                "preferredName": "Hongyu Zhang",
+                "firstName": null,
+                "lastName": "Hongyu Zhang"
+            },
+            {
+                "id": 37299780300,
+                "preferredName": "J.S. Bradbury",
+                "firstName": "J.S.",
+                "lastName": "Bradbury"
+            },
+            {
+                "id": 37299779500,
+                "preferredName": "J.R. Cordy",
+                "firstName": "J.R.",
+                "lastName": "Cordy"
+            },
+            {
+                "id": 37299778400,
+                "preferredName": "J. Dingel",
+                "firstName": "J.",
+                "lastName": "Dingel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.6",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541163",
+        "articleTitle": "Control flow graph reconstruction for assembly language programs with delayed instructions",
+        "volume": null,
+        "issue": null,
+        "startPage": "107",
+        "endPage": "116",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Control flow graph reconstruction for assembly language programs with delayed instructions",
+        "authors": [
+            {
+                "id": 37442259000,
+                "preferredName": "N. Bermudo",
+                "firstName": "N.",
+                "lastName": "Bermudo"
+            },
+            {
+                "id": 37273636600,
+                "preferredName": "A. Krall",
+                "firstName": "A.",
+                "lastName": "Krall"
+            },
+            {
+                "id": 38179900500,
+                "preferredName": "N. Horspool",
+                "firstName": "N.",
+                "lastName": "Horspool"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.20",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541166",
+        "articleTitle": "Pointer analysis for source-to-source transformations",
+        "volume": null,
+        "issue": null,
+        "startPage": "139",
+        "endPage": "148",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Pointer analysis for source-to-source transformations",
+        "authors": [
+            {
+                "id": 37554389300,
+                "preferredName": "M. Buss",
+                "firstName": "M.",
+                "lastName": "Buss"
+            },
+            {
+                "id": 37292689900,
+                "preferredName": "S.A. Edwards",
+                "firstName": "S.A.",
+                "lastName": "Edwards"
+            },
+            {
+                "id": 37355857500,
+                "preferredName": "Bin Yao",
+                "firstName": null,
+                "lastName": "Bin Yao"
+            },
+            {
+                "id": 38474355900,
+                "preferredName": "D. Waddington",
+                "firstName": "D.",
+                "lastName": "Waddington"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.4",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541160",
+        "articleTitle": "Concept assignment as a debugging technique for code generators",
+        "volume": null,
+        "issue": null,
+        "startPage": "75",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Concept assignment as a debugging technique for code generators",
+        "authors": [
+            {
+                "id": 37085662036,
+                "preferredName": "J. Singer",
+                "firstName": "J.",
+                "lastName": "Singer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.24",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541164",
+        "articleTitle": "Static analysis for computing escapability and mutability for Java components",
+        "volume": null,
+        "issue": null,
+        "startPage": "119",
+        "endPage": "128",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Static analysis for computing escapability and mutability for Java components",
+        "authors": [
+            {
+                "id": 37087750282,
+                "preferredName": "Aiwu Shi",
+                "firstName": null,
+                "lastName": "Aiwu Shi"
+            },
+            {
+                "id": 37561687600,
+                "preferredName": "G. Naumovich",
+                "firstName": "G.",
+                "lastName": "Naumovich"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.18",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541157",
+        "articleTitle": "Minimal slicing and the relationships between forms of slicing",
+        "volume": null,
+        "issue": null,
+        "startPage": "45",
+        "endPage": "54",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Minimal slicing and the relationships between forms of slicing",
+        "authors": [
+            {
+                "id": 37275658000,
+                "preferredName": "D. Binkley",
+                "firstName": "D.",
+                "lastName": "Binkley"
+            },
+            {
+                "id": 37282703700,
+                "preferredName": "S. Danicic",
+                "firstName": "S.",
+                "lastName": "Danicic"
+            },
+            {
+                "id": 37264905300,
+                "preferredName": "T. Gyimothy",
+                "firstName": "T.",
+                "lastName": "Gyimothy"
+            },
+            {
+                "id": 37275655700,
+                "preferredName": "M. Harman",
+                "firstName": "M.",
+                "lastName": "Harman"
+            },
+            {
+                "id": 37560781400,
+                "preferredName": "A. Kiss",
+                "firstName": "A.",
+                "lastName": "Kiss"
+            },
+            {
+                "id": 37282705600,
+                "preferredName": "B. Korel",
+                "firstName": "B.",
+                "lastName": "Korel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.16",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541167",
+        "articleTitle": "Measuring the impact of friends on the internal attributes of software systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "151",
+        "endPage": "160",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Measuring the impact of friends on the internal attributes of software systems",
+        "authors": [
+            {
+                "id": 37424493800,
+                "preferredName": "M. English",
+                "firstName": "M.",
+                "lastName": "English"
+            },
+            {
+                "id": 37305707700,
+                "preferredName": "J. Buckley",
+                "firstName": "J.",
+                "lastName": "Buckley"
+            },
+            {
+                "id": 37418890100,
+                "preferredName": "T. Cahill",
+                "firstName": "T.",
+                "lastName": "Cahill"
+            },
+            {
+                "id": 37087898450,
+                "preferredName": "K. Lynch",
+                "firstName": "K.",
+                "lastName": "Lynch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.23",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541162",
+        "articleTitle": "Specifying transformation sequences as computation on program fragments with an abstract attribute grammar",
+        "volume": null,
+        "issue": null,
+        "startPage": "97",
+        "endPage": "106",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Specifying transformation sequences as computation on program fragments with an abstract attribute grammar",
+        "authors": [
+            {
+                "id": 37326532300,
+                "preferredName": "M. Schordan",
+                "firstName": "M.",
+                "lastName": "Schordan"
+            },
+            {
+                "id": 37326536200,
+                "preferredName": "D. Quinlan",
+                "firstName": "D.",
+                "lastName": "Quinlan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.7",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541170",
+        "articleTitle": "Declassification: transforming Java programs to remove intermediate classes",
+        "volume": null,
+        "issue": null,
+        "startPage": "183",
+        "endPage": "192",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Declassification: transforming Java programs to remove intermediate classes",
+        "authors": [
+            {
+                "id": 37087778930,
+                "preferredName": "B. Power",
+                "firstName": "B.",
+                "lastName": "Power"
+            },
+            {
+                "id": 37560796000,
+                "preferredName": "G.W. Hamilton",
+                "firstName": "G.W.",
+                "lastName": "Hamilton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.25",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541171",
+        "articleTitle": "The performance penalty of XML for program intermediate representations",
+        "volume": null,
+        "issue": null,
+        "startPage": "193",
+        "endPage": "201",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "The performance penalty of XML for program intermediate representations",
+        "authors": [
+            {
+                "id": 37270980500,
+                "preferredName": "P. Anderson",
+                "firstName": "P.",
+                "lastName": "Anderson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.5",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541150",
+        "articleTitle": "Conference organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "ix",
+        "endPage": "ix",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Conference organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.21",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541151",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "x",
+        "endPage": "x",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.17",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541149",
+        "articleTitle": "Message from the Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "viii",
+        "endPage": "viii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Message from the Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.26",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541153",
+        "articleTitle": "Transformations for abstractions",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Transformations for abstractions",
+        "authors": [
+            {
+                "id": 37267573700,
+                "preferredName": "E. Visser",
+                "firstName": "E.",
+                "lastName": "Visser"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.12",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541148",
+        "articleTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation - Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "vii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation - Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.22",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541152",
+        "articleTitle": "list-reviewer",
+        "volume": null,
+        "issue": null,
+        "startPage": "xi",
+        "endPage": "xii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "list-reviewer",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.3",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541172",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "203",
+        "endPage": "203",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.11",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541145",
+        "articleTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation - Cover",
+        "volume": null,
+        "issue": null,
+        "startPage": "c1",
+        "endPage": "c1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation - Cover",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.10",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541147",
+        "articleTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation - Copyright",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation - Copyright",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10344",
+        "doi": "10.1109/SCAM.2005.13",
+        "publicationYear": "2005",
+        "publicationDate": "30 Sept.-1 Oct. 2005",
+        "articleNumber": "1541146",
+        "articleTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation",
+        "volume": null,
+        "issue": null,
+        "startPage": null,
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation (SCAM'05)",
+        "highlightedTitle": "Fifth IEEE International Workshop on Source Code Analysis and Manipulation",
+        "authors": []
+    }
+]

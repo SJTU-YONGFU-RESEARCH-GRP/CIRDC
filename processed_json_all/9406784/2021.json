@@ -1,0 +1,3923 @@
+[
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00018",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407232",
+        "articleTitle": "SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning",
+        "volume": null,
+        "issue": null,
+        "startPage": "97",
+        "endPage": "110",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning",
+        "authors": [
+            {
+                "id": 37088370113,
+                "preferredName": "Hanrui Wang",
+                "firstName": "Hanrui",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088373210,
+                "preferredName": "Zhekai Zhang",
+                "firstName": "Zhekai",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086460117,
+                "preferredName": "Song Han",
+                "firstName": "Song",
+                "lastName": "Han"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00070",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407104",
+        "articleTitle": "GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "775",
+        "endPage": "788",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks",
+        "authors": [
+            {
+                "id": 37086057178,
+                "preferredName": "Jiajun Li",
+                "firstName": "Jiajun",
+                "lastName": "Li"
+            },
+            {
+                "id": 37271795400,
+                "preferredName": "Ahmed Louri",
+                "firstName": "Ahmed",
+                "lastName": "Louri"
+            },
+            {
+                "id": 37086563615,
+                "preferredName": "Avinash Karanth",
+                "firstName": "Avinash",
+                "lastName": "Karanth"
+            },
+            {
+                "id": 38198798500,
+                "preferredName": "Razvan Bunescu",
+                "firstName": "Razvan",
+                "lastName": "Bunescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00016",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407116",
+        "articleTitle": "Heterogeneous Dataflow Accelerators for Multi-DNN Workloads",
+        "volume": null,
+        "issue": null,
+        "startPage": "71",
+        "endPage": "83",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Heterogeneous Dataflow Accelerators for Multi-DNN Workloads",
+        "authors": [
+            {
+                "id": 37086026009,
+                "preferredName": "Hyoukjun Kwon",
+                "firstName": "Hyoukjun",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 38005014600,
+                "preferredName": "Liangzhen Lai",
+                "firstName": "Liangzhen",
+                "lastName": "Lai"
+            },
+            {
+                "id": 37546240200,
+                "preferredName": "Michael Pellauer",
+                "firstName": "Michael",
+                "lastName": "Pellauer"
+            },
+            {
+                "id": 37540652000,
+                "preferredName": "Tushar Krishna",
+                "firstName": "Tushar",
+                "lastName": "Krishna"
+            },
+            {
+                "id": 37070897500,
+                "preferredName": "Yu-Hsin Chen",
+                "firstName": "Yu-Hsin",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37337598600,
+                "preferredName": "Vikas Chandra",
+                "firstName": "Vikas",
+                "lastName": "Chandra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00027",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407035",
+        "articleTitle": "Mix and Match: A Novel FPGA-Centric Deep Neural Network Quantization Framework",
+        "volume": null,
+        "issue": null,
+        "startPage": "208",
+        "endPage": "220",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Mix and Match: A Novel FPGA-Centric Deep Neural Network Quantization Framework",
+        "authors": [
+            {
+                "id": 37088847201,
+                "preferredName": "Sung-En Chang",
+                "firstName": "Sung-En",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37088847202,
+                "preferredName": "Yanyu Li",
+                "firstName": "Yanyu",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089891841,
+                "preferredName": "Mengshu Sun",
+                "firstName": "Mengshu",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37086278257,
+                "preferredName": "Runbin Shi",
+                "firstName": "Runbin",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37302177600,
+                "preferredName": "Hayden K.-H. So",
+                "firstName": "Hayden K.-H.",
+                "lastName": "So"
+            },
+            {
+                "id": 37086058165,
+                "preferredName": "Xuehai Qian",
+                "firstName": "Xuehai",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37966617700,
+                "preferredName": "Yanzhi Wang",
+                "firstName": "Yanzhi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 38237315300,
+                "preferredName": "Xue Lin",
+                "firstName": "Xue",
+                "lastName": "Lin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00028",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407181",
+        "articleTitle": "Revisiting HyperDimensional Learning for FPGA and Low-Power Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "221",
+        "endPage": "234",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Revisiting HyperDimensional Learning for FPGA and Low-Power Architectures",
+        "authors": [
+            {
+                "id": 37074212000,
+                "preferredName": "Mohsen Imani",
+                "firstName": "Mohsen",
+                "lastName": "Imani"
+            },
+            {
+                "id": 37088846452,
+                "preferredName": "Zhuowen Zou",
+                "firstName": "Zhuowen",
+                "lastName": "Zou"
+            },
+            {
+                "id": 37086993961,
+                "preferredName": "Samuel Bosch",
+                "firstName": "Samuel",
+                "lastName": "Bosch"
+            },
+            {
+                "id": 37088846003,
+                "preferredName": "Sanjay Anantha Rao",
+                "firstName": "Sanjay Anantha",
+                "lastName": "Rao"
+            },
+            {
+                "id": 37085994358,
+                "preferredName": "Sahand Salamat",
+                "firstName": "Sahand",
+                "lastName": "Salamat"
+            },
+            {
+                "id": 37086995573,
+                "preferredName": "Venkatesh Kumar",
+                "firstName": "Venkatesh",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37085640764,
+                "preferredName": "Yeseong Kim",
+                "firstName": "Yeseong",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37295875800,
+                "preferredName": "Tajana Rosing",
+                "firstName": "Tajana",
+                "lastName": "Rosing"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00080",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407100",
+        "articleTitle": "FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction",
+        "volume": null,
+        "issue": null,
+        "startPage": "908",
+        "endPage": "920",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction",
+        "authors": [
+            {
+                "id": 37085417275,
+                "preferredName": "Bahar Asgari",
+                "firstName": "Bahar",
+                "lastName": "Asgari"
+            },
+            {
+                "id": 37086023581,
+                "preferredName": "Ramyad Hadidi",
+                "firstName": "Ramyad",
+                "lastName": "Hadidi"
+            },
+            {
+                "id": 37086427788,
+                "preferredName": "Jiashen Cao",
+                "firstName": "Jiashen",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37086863097,
+                "preferredName": "Da Eun Shim",
+                "firstName": "Da Eun",
+                "lastName": "Shim"
+            },
+            {
+                "id": 37280563100,
+                "preferredName": "Sung-Kyu Lim",
+                "firstName": "Sung-Kyu",
+                "lastName": "Lim"
+            },
+            {
+                "id": 37280376200,
+                "preferredName": "Hyesoon Kim",
+                "firstName": "Hyesoon",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00013",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407118",
+        "articleTitle": "Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "26",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference",
+        "authors": [
+            {
+                "id": 37076157700,
+                "preferredName": "Brandon Reagen",
+                "firstName": "Brandon",
+                "lastName": "Reagen"
+            },
+            {
+                "id": 37073073900,
+                "preferredName": "Woo-Seok Choi",
+                "firstName": "Woo-Seok",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37088846684,
+                "preferredName": "Yeongil Ko",
+                "firstName": "Yeongil",
+                "lastName": "Ko"
+            },
+            {
+                "id": 37086129506,
+                "preferredName": "Vincent T. Lee",
+                "firstName": "Vincent T.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37280122100,
+                "preferredName": "Hsien-Hsin S. Lee",
+                "firstName": "Hsien-Hsin S.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37281335300,
+                "preferredName": "Gu-Yeon Wei",
+                "firstName": "Gu-Yeon",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37279380700,
+                "preferredName": "David Brooks",
+                "firstName": "David",
+                "lastName": "Brooks"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00055",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407163",
+        "articleTitle": "SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator",
+        "volume": null,
+        "issue": null,
+        "startPage": "570",
+        "endPage": "583",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator",
+        "authors": [
+            {
+                "id": 37086804122,
+                "preferredName": "Xinfeng Xie",
+                "firstName": "Xinfeng",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37088847699,
+                "preferredName": "Zheng Liang",
+                "firstName": "Zheng",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37085456503,
+                "preferredName": "Peng Gu",
+                "firstName": "Peng",
+                "lastName": "Gu"
+            },
+            {
+                "id": 37085350325,
+                "preferredName": "Abanti Basak",
+                "firstName": "Abanti",
+                "lastName": "Basak"
+            },
+            {
+                "id": 37086459754,
+                "preferredName": "Lei Deng",
+                "firstName": "Lei",
+                "lastName": "Deng"
+            },
+            {
+                "id": 37086500169,
+                "preferredName": "Ling Liang",
+                "firstName": "Ling",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37086337781,
+                "preferredName": "Xing Hu",
+                "firstName": "Xing",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00037",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407238",
+        "articleTitle": "BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows",
+        "volume": null,
+        "issue": null,
+        "startPage": "345",
+        "endPage": "358",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows",
+        "authors": [
+            {
+                "id": 37085617764,
+                "preferredName": "A. Giray Ya\u011flik\u00e7i",
+                "firstName": "A. Giray",
+                "lastName": "Ya\u011flik\u00e7i"
+            },
+            {
+                "id": 37086188901,
+                "preferredName": "Minesh Patel",
+                "firstName": "Minesh",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37086302234,
+                "preferredName": "Jeremie S. Kim",
+                "firstName": "Jeremie S.",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088482356,
+                "preferredName": "Roknoddin Azizi",
+                "firstName": "Roknoddin",
+                "lastName": "Azizi"
+            },
+            {
+                "id": 37088847688,
+                "preferredName": "Ataberk Olgun",
+                "firstName": "Ataberk",
+                "lastName": "Olgun"
+            },
+            {
+                "id": 37085772584,
+                "preferredName": "Lois Orosa",
+                "firstName": "Lois",
+                "lastName": "Orosa"
+            },
+            {
+                "id": 37085624531,
+                "preferredName": "Hasan Hassan",
+                "firstName": "Hasan",
+                "lastName": "Hassan"
+            },
+            {
+                "id": 38529266400,
+                "preferredName": "Jisung Park",
+                "firstName": "Jisung",
+                "lastName": "Park"
+            },
+            {
+                "id": 37088482663,
+                "preferredName": "Konstantinos Kanellopoulos",
+                "firstName": "Konstantinos",
+                "lastName": "Kanellopoulos"
+            },
+            {
+                "id": 37086408576,
+                "preferredName": "Taha Shahroodi",
+                "firstName": "Taha",
+                "lastName": "Shahroodi"
+            },
+            {
+                "id": 37085354352,
+                "preferredName": "Saugata Ghose",
+                "firstName": "Saugata",
+                "lastName": "Ghose"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00042",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407079",
+        "articleTitle": "Ultra-Elastic CGRAs for Irregular Loop Specialization",
+        "volume": null,
+        "issue": null,
+        "startPage": "412",
+        "endPage": "425",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Ultra-Elastic CGRAs for Irregular Loop Specialization",
+        "authors": [
+            {
+                "id": 37085452788,
+                "preferredName": "Christopher Torng",
+                "firstName": "Christopher",
+                "lastName": "Torng"
+            },
+            {
+                "id": 37087499282,
+                "preferredName": "Peitian Pan",
+                "firstName": "Peitian",
+                "lastName": "Pan"
+            },
+            {
+                "id": 37086493665,
+                "preferredName": "Yanghui Ou",
+                "firstName": "Yanghui",
+                "lastName": "Ou"
+            },
+            {
+                "id": 37088560685,
+                "preferredName": "Cheng Tan",
+                "firstName": "Cheng",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37704124200,
+                "preferredName": "Christopher Batten",
+                "firstName": "Christopher",
+                "lastName": "Batten"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00031",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407213",
+        "articleTitle": "SynCron: Efficient Synchronization Support for Near-Data-Processing Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "263",
+        "endPage": "276",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "SynCron: Efficient Synchronization Support for Near-Data-Processing Architectures",
+        "authors": [
+            {
+                "id": 37088593080,
+                "preferredName": "Christina Giannoula",
+                "firstName": "Christina",
+                "lastName": "Giannoula"
+            },
+            {
+                "id": 37085635801,
+                "preferredName": "Nandita Vijaykumar",
+                "firstName": "Nandita",
+                "lastName": "Vijaykumar"
+            },
+            {
+                "id": 37085693971,
+                "preferredName": "Nikela Papadopoulou",
+                "firstName": "Nikela",
+                "lastName": "Papadopoulou"
+            },
+            {
+                "id": 38236540200,
+                "preferredName": "Vasileios Karakostas",
+                "firstName": "Vasileios",
+                "lastName": "Karakostas"
+            },
+            {
+                "id": 37088539156,
+                "preferredName": "Ivan Fernandez",
+                "firstName": "Ivan",
+                "lastName": "Fernandez"
+            },
+            {
+                "id": 37075039500,
+                "preferredName": "Juan G\u00f3mez-Luna",
+                "firstName": "Juan",
+                "lastName": "G\u00f3mez-Luna"
+            },
+            {
+                "id": 37085772584,
+                "preferredName": "Lois Orosa",
+                "firstName": "Lois",
+                "lastName": "Orosa"
+            },
+            {
+                "id": 37283854700,
+                "preferredName": "Nectarios Koziris",
+                "firstName": "Nectarios",
+                "lastName": "Koziris"
+            },
+            {
+                "id": 37393237200,
+                "preferredName": "Georgios Goumas",
+                "firstName": "Georgios",
+                "lastName": "Goumas"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00061",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407222",
+        "articleTitle": "Prodigy: Improving the Memory Latency of Data-Indirect Irregular Workloads Using Hardware-Software Co-Design",
+        "volume": null,
+        "issue": null,
+        "startPage": "654",
+        "endPage": "667",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Prodigy: Improving the Memory Latency of Data-Indirect Irregular Workloads Using Hardware-Software Co-Design",
+        "authors": [
+            {
+                "id": 37085380525,
+                "preferredName": "Nishil Talati",
+                "firstName": "Nishil",
+                "lastName": "Talati"
+            },
+            {
+                "id": 37088847733,
+                "preferredName": "Kyle May",
+                "firstName": "Kyle",
+                "lastName": "May"
+            },
+            {
+                "id": 37088847758,
+                "preferredName": "Armand Behroozi",
+                "firstName": "Armand",
+                "lastName": "Behroozi"
+            },
+            {
+                "id": 37088847173,
+                "preferredName": "Yichen Yang",
+                "firstName": "Yichen",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086493343,
+                "preferredName": "Kuba Kaszyk",
+                "firstName": "Kuba",
+                "lastName": "Kaszyk"
+            },
+            {
+                "id": 37088847814,
+                "preferredName": "Christos Vasiladiotis",
+                "firstName": "Christos",
+                "lastName": "Vasiladiotis"
+            },
+            {
+                "id": 37088847124,
+                "preferredName": "Tarunesh Verma",
+                "firstName": "Tarunesh",
+                "lastName": "Verma"
+            },
+            {
+                "id": 37088848092,
+                "preferredName": "Lu Li",
+                "firstName": "Lu",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088847846,
+                "preferredName": "Brandon Nguyen",
+                "firstName": "Brandon",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37089734574,
+                "preferredName": "Jiawen Sun",
+                "firstName": "Jiawen",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37088846719,
+                "preferredName": "John Magnus Morton",
+                "firstName": "John Magnus",
+                "lastName": "Morton"
+            },
+            {
+                "id": 37088847232,
+                "preferredName": "Agreen Ahmadi",
+                "firstName": "Agreen",
+                "lastName": "Ahmadi"
+            },
+            {
+                "id": 37267010600,
+                "preferredName": "Todd Austin",
+                "firstName": "Todd",
+                "lastName": "Austin"
+            },
+            {
+                "id": 37353527100,
+                "preferredName": "Michael O\u2019Boyle",
+                "firstName": "Michael",
+                "lastName": "O\u2019Boyle"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "Scott Mahlke",
+                "firstName": "Scott",
+                "lastName": "Mahlke"
+            },
+            {
+                "id": 37267150400,
+                "preferredName": "Trevor Mudge",
+                "firstName": "Trevor",
+                "lastName": "Mudge"
+            },
+            {
+                "id": 37545653700,
+                "preferredName": "Ronald Dreslinski",
+                "firstName": "Ronald",
+                "lastName": "Dreslinski"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00066",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407201",
+        "articleTitle": "Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "723",
+        "endPage": "735",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore Architectures",
+        "authors": [
+            {
+                "id": 37086347220,
+                "preferredName": "Hao Zheng",
+                "firstName": "Hao",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37086837791,
+                "preferredName": "Ke Wang",
+                "firstName": "Ke",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37271795400,
+                "preferredName": "Ahmed Louri",
+                "firstName": "Ahmed",
+                "lastName": "Louri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00071",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407221",
+        "articleTitle": "Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing : Industry Track Paper",
+        "volume": null,
+        "issue": null,
+        "startPage": "789",
+        "endPage": "801",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing : Industry Track Paper",
+        "authors": [
+            {
+                "id": 37087047190,
+                "preferredName": "Heng Liao",
+                "firstName": "Heng",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37087047584,
+                "preferredName": "Jiajin Tu",
+                "firstName": "Jiajin",
+                "lastName": "Tu"
+            },
+            {
+                "id": 37087046252,
+                "preferredName": "Jing Xia",
+                "firstName": "Jing",
+                "lastName": "Xia"
+            },
+            {
+                "id": 37088847954,
+                "preferredName": "Hu Liu",
+                "firstName": "Hu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37087048957,
+                "preferredName": "Xiping Zhou",
+                "firstName": "Xiping",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37088846169,
+                "preferredName": "Honghui Yuan",
+                "firstName": "Honghui",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37088846395,
+                "preferredName": "Yuxing Hu",
+                "firstName": "Yuxing",
+                "lastName": "Hu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00072",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407135",
+        "articleTitle": "Understanding Training Efficiency of Deep Learning Recommendation Models at Scale",
+        "volume": null,
+        "issue": null,
+        "startPage": "802",
+        "endPage": "814",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Understanding Training Efficiency of Deep Learning Recommendation Models at Scale",
+        "authors": [
+            {
+                "id": 37085424843,
+                "preferredName": "Bilge Acun",
+                "firstName": "Bilge",
+                "lastName": "Acun"
+            },
+            {
+                "id": 37088845722,
+                "preferredName": "Matthew Murphy",
+                "firstName": "Matthew",
+                "lastName": "Murphy"
+            },
+            {
+                "id": 37086357504,
+                "preferredName": "Xiaodong Wang",
+                "firstName": "Xiaodong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088847213,
+                "preferredName": "Jade Nie",
+                "firstName": "Jade",
+                "lastName": "Nie"
+            },
+            {
+                "id": 37085392155,
+                "preferredName": "Carole-Jean Wu",
+                "firstName": "Carole-Jean",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37267298100,
+                "preferredName": "Kim Hazelwood",
+                "firstName": "Kim",
+                "lastName": "Hazelwood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00076",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407142",
+        "articleTitle": "Chasing Carbon: The Elusive Environmental Footprint of Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "854",
+        "endPage": "867",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Chasing Carbon: The Elusive Environmental Footprint of Computing",
+        "authors": [
+            {
+                "id": 37086460069,
+                "preferredName": "Udit Gupta",
+                "firstName": "Udit",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37085377786,
+                "preferredName": "Young Geun Kim",
+                "firstName": "Young Geun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088848176,
+                "preferredName": "Sylvia Lee",
+                "firstName": "Sylvia",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088846629,
+                "preferredName": "Jordan Tse",
+                "firstName": "Jordan",
+                "lastName": "Tse"
+            },
+            {
+                "id": 37280122100,
+                "preferredName": "Hsien-Hsin S. Lee",
+                "firstName": "Hsien-Hsin S.",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37281335300,
+                "preferredName": "Gu-Yeon Wei",
+                "firstName": "Gu-Yeon",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37279380700,
+                "preferredName": "David Brooks",
+                "firstName": "David",
+                "lastName": "Brooks"
+            },
+            {
+                "id": 37085392155,
+                "preferredName": "Carole-Jean Wu",
+                "firstName": "Carole-Jean",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00049",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407131",
+        "articleTitle": "Lazy Batching: An SLA-aware Batching System for Cloud Machine Learning Inference",
+        "volume": null,
+        "issue": null,
+        "startPage": "493",
+        "endPage": "506",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Lazy Batching: An SLA-aware Batching System for Cloud Machine Learning Inference",
+        "authors": [
+            {
+                "id": 37088373357,
+                "preferredName": "Yujeong Choi",
+                "firstName": "Yujeong",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37088847394,
+                "preferredName": "Yunseong Kim",
+                "firstName": "Yunseong",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38265603700,
+                "preferredName": "Minsoo Rhu",
+                "firstName": "Minsoo",
+                "lastName": "Rhu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00068",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407038",
+        "articleTitle": "BRIM: Bistable Resistively-Coupled Ising Machine",
+        "volume": null,
+        "issue": null,
+        "startPage": "749",
+        "endPage": "760",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "BRIM: Bistable Resistively-Coupled Ising Machine",
+        "authors": [
+            {
+                "id": 37086499902,
+                "preferredName": "Richard Afoakwa",
+                "firstName": "Richard",
+                "lastName": "Afoakwa"
+            },
+            {
+                "id": 37086499169,
+                "preferredName": "Yiqiao Zhang",
+                "firstName": "Yiqiao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37087859804,
+                "preferredName": "Uday Kumar Reddy Vengalam",
+                "firstName": "Uday Kumar Reddy",
+                "lastName": "Vengalam"
+            },
+            {
+                "id": 37270103900,
+                "preferredName": "Zeljko Ignjatovic",
+                "firstName": "Zeljko",
+                "lastName": "Ignjatovic"
+            },
+            {
+                "id": 38278085000,
+                "preferredName": "Michael Huang",
+                "firstName": "Michael",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00030",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407195",
+        "articleTitle": "GradPIM: A Practical Processing-in-DRAM Architecture for Gradient Descent",
+        "volume": null,
+        "issue": null,
+        "startPage": "249",
+        "endPage": "262",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "GradPIM: A Practical Processing-in-DRAM Architecture for Gradient Descent",
+        "authors": [
+            {
+                "id": 37086118008,
+                "preferredName": "Heesu Kim",
+                "firstName": "Heesu",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086612422,
+                "preferredName": "Hanmin Park",
+                "firstName": "Hanmin",
+                "lastName": "Park"
+            },
+            {
+                "id": 37085403692,
+                "preferredName": "Taehyun Kim",
+                "firstName": "Taehyun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088847154,
+                "preferredName": "Kwanheum Cho",
+                "firstName": "Kwanheum",
+                "lastName": "Cho"
+            },
+            {
+                "id": 37089269825,
+                "preferredName": "Eojin Lee",
+                "firstName": "Eojin",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38529308400,
+                "preferredName": "Soojung Ryu",
+                "firstName": "Soojung",
+                "lastName": "Ryu"
+            },
+            {
+                "id": 37280120400,
+                "preferredName": "Hyuk-Jae Lee",
+                "firstName": "Hyuk-Jae",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37277046400,
+                "preferredName": "Kiyoung Choi",
+                "firstName": "Kiyoung",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37086090382,
+                "preferredName": "Jinho Lee",
+                "firstName": "Jinho",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00033",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407137",
+        "articleTitle": "Designing a Cost-Effective Cache Replacement Policy using Machine Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "291",
+        "endPage": "303",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Designing a Cost-Effective Cache Replacement Policy using Machine Learning",
+        "authors": [
+            {
+                "id": 37088370785,
+                "preferredName": "Subhash Sethumurugan",
+                "firstName": "Subhash",
+                "lastName": "Sethumurugan"
+            },
+            {
+                "id": 37086275363,
+                "preferredName": "Jieming Yin",
+                "firstName": "Jieming",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37391767500,
+                "preferredName": "John Sartori",
+                "firstName": "John",
+                "lastName": "Sartori"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00024",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407180",
+        "articleTitle": "QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment",
+        "volume": null,
+        "issue": null,
+        "startPage": "167",
+        "endPage": "178",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment",
+        "authors": [
+            {
+                "id": 37089393574,
+                "preferredName": "Lei Liu",
+                "firstName": "Lei",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088847415,
+                "preferredName": "Xinglei Dou",
+                "firstName": "Xinglei",
+                "lastName": "Dou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00062",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407090",
+        "articleTitle": "P-OPT: Practical Optimal Cache Replacement for Graph Analytics",
+        "volume": null,
+        "issue": null,
+        "startPage": "668",
+        "endPage": "681",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "P-OPT: Practical Optimal Cache Replacement for Graph Analytics",
+        "authors": [
+            {
+                "id": 37086549497,
+                "preferredName": "Vignesh Balaji",
+                "firstName": "Vignesh",
+                "lastName": "Balaji"
+            },
+            {
+                "id": 38478156600,
+                "preferredName": "Neal Crago",
+                "firstName": "Neal",
+                "lastName": "Crago"
+            },
+            {
+                "id": 37298078500,
+                "preferredName": "Aamer Jaleel",
+                "firstName": "Aamer",
+                "lastName": "Jaleel"
+            },
+            {
+                "id": 37397839100,
+                "preferredName": "Brandon Lucia",
+                "firstName": "Brandon",
+                "lastName": "Lucia"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00056",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407236",
+        "articleTitle": "Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling",
+        "volume": null,
+        "issue": null,
+        "startPage": "584",
+        "endPage": "597",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling",
+        "authors": [
+            {
+                "id": 37085716636,
+                "preferredName": "Young H. Oh",
+                "firstName": "Young H.",
+                "lastName": "Oh"
+            },
+            {
+                "id": 37088373710,
+                "preferredName": "Seonghak Kim",
+                "firstName": "Seonghak",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088847048,
+                "preferredName": "Yunho Jin",
+                "firstName": "Yunho",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37088847676,
+                "preferredName": "Sam Son",
+                "firstName": "Sam",
+                "lastName": "Son"
+            },
+            {
+                "id": 37086295717,
+                "preferredName": "Jonghyun Bae",
+                "firstName": "Jonghyun",
+                "lastName": "Bae"
+            },
+            {
+                "id": 37088847860,
+                "preferredName": "Jongsung Lee",
+                "firstName": "Jongsung",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088371932,
+                "preferredName": "Yeonhong Park",
+                "firstName": "Yeonhong",
+                "lastName": "Park"
+            },
+            {
+                "id": 37088846843,
+                "preferredName": "Dong Uk Kim",
+                "firstName": "Dong Uk",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37060925300,
+                "preferredName": "Tae Jun Ham",
+                "firstName": "Tae Jun",
+                "lastName": "Ham"
+            },
+            {
+                "id": 38008729800,
+                "preferredName": "Jae W. Lee",
+                "firstName": "Jae W.",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00019",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407087",
+        "articleTitle": "BBB: Simplifying Persistent Programming using Battery-Backed Buffers",
+        "volume": null,
+        "issue": null,
+        "startPage": "111",
+        "endPage": "124",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "BBB: Simplifying Persistent Programming using Battery-Backed Buffers",
+        "authors": [
+            {
+                "id": 37085663468,
+                "preferredName": "Mohammad Alshboul",
+                "firstName": "Mohammad",
+                "lastName": "Alshboul"
+            },
+            {
+                "id": 37086360318,
+                "preferredName": "Prakash Ramrakhyani",
+                "firstName": "Prakash",
+                "lastName": "Ramrakhyani"
+            },
+            {
+                "id": 37086686588,
+                "preferredName": "William Wang",
+                "firstName": "William",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37409802200,
+                "preferredName": "James Tuck",
+                "firstName": "James",
+                "lastName": "Tuck"
+            },
+            {
+                "id": 37282584700,
+                "preferredName": "Yan Solihin",
+                "firstName": "Yan",
+                "lastName": "Solihin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00029",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407139",
+        "articleTitle": "Tensor Casting: Co-Designing Algorithm-Architecture for Personalized Recommendation Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "235",
+        "endPage": "248",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Tensor Casting: Co-Designing Algorithm-Architecture for Personalized Recommendation Training",
+        "authors": [
+            {
+                "id": 37086359643,
+                "preferredName": "Youngeun Kwon",
+                "firstName": "Youngeun",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 37086936594,
+                "preferredName": "Yunjae Lee",
+                "firstName": "Yunjae",
+                "lastName": "Lee"
+            },
+            {
+                "id": 38265603700,
+                "preferredName": "Minsoo Rhu",
+                "firstName": "Minsoo",
+                "lastName": "Rhu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00057",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407112",
+        "articleTitle": "Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "598",
+        "endPage": "611",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning",
+        "authors": [
+            {
+                "id": 37086801026,
+                "preferredName": "Jie Ren",
+                "firstName": "Jie",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37088847028,
+                "preferredName": "Jiaolin Luo",
+                "firstName": "Jiaolin",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37086177846,
+                "preferredName": "Kai Wu",
+                "firstName": "Kai",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088846752,
+                "preferredName": "Minjia Zhang",
+                "firstName": "Minjia",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089500700,
+                "preferredName": "Hyeran Jeon",
+                "firstName": "Hyeran",
+                "lastName": "Jeon"
+            },
+            {
+                "id": 37085696717,
+                "preferredName": "Dong Li",
+                "firstName": "Dong",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00039",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407071",
+        "articleTitle": "DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "371",
+        "endPage": "384",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing",
+        "authors": [
+            {
+                "id": 37085395521,
+                "preferredName": "Yu Zhang",
+                "firstName": "Yu",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37269559200,
+                "preferredName": "Xiaofei Liao",
+                "firstName": "Xiaofei",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37276607900,
+                "preferredName": "Hai Jin",
+                "firstName": "Hai",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37269852000,
+                "preferredName": "Ligang He",
+                "firstName": "Ligang",
+                "lastName": "He"
+            },
+            {
+                "id": 37532755800,
+                "preferredName": "Bingsheng He",
+                "firstName": "Bingsheng",
+                "lastName": "He"
+            },
+            {
+                "id": 37655834400,
+                "preferredName": "Haikun Liu",
+                "firstName": "Haikun",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37071168900,
+                "preferredName": "Lin Gu",
+                "firstName": "Lin",
+                "lastName": "Gu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00017",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407115",
+        "articleTitle": "SPAGHETTI: Streaming Accelerators for Highly Sparse GEMM on FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "84",
+        "endPage": "96",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "SPAGHETTI: Streaming Accelerators for Highly Sparse GEMM on FPGAs",
+        "authors": [
+            {
+                "id": 37086196482,
+                "preferredName": "Reza Hojabr",
+                "firstName": "Reza",
+                "lastName": "Hojabr"
+            },
+            {
+                "id": 37064354000,
+                "preferredName": "Ali Sedaghati",
+                "firstName": "Ali",
+                "lastName": "Sedaghati"
+            },
+            {
+                "id": 38366068100,
+                "preferredName": "Amirali Sharifian",
+                "firstName": "Amirali",
+                "lastName": "Sharifian"
+            },
+            {
+                "id": 37269422900,
+                "preferredName": "Ahmad Khonsari",
+                "firstName": "Ahmad",
+                "lastName": "Khonsari"
+            },
+            {
+                "id": 37424625400,
+                "preferredName": "Arrvindh Shriraman",
+                "firstName": "Arrvindh",
+                "lastName": "Shriraman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00077",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407154",
+        "articleTitle": "Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator",
+        "volume": null,
+        "issue": null,
+        "startPage": "868",
+        "endPage": "880",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator",
+        "authors": [
+            {
+                "id": 37408471700,
+                "preferredName": "Oreste Villa",
+                "firstName": "Oreste",
+                "lastName": "Villa"
+            },
+            {
+                "id": 38075850600,
+                "preferredName": "Daniel Lustig",
+                "firstName": "Daniel",
+                "lastName": "Lustig"
+            },
+            {
+                "id": 37086303876,
+                "preferredName": "Zi Yan",
+                "firstName": "Zi",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37640432400,
+                "preferredName": "Evgeny Bolotin",
+                "firstName": "Evgeny",
+                "lastName": "Bolotin"
+            },
+            {
+                "id": 37086360403,
+                "preferredName": "Yaosheng Fu",
+                "firstName": "Yaosheng",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37861758200,
+                "preferredName": "Niladrish Chatterjee",
+                "firstName": "Niladrish",
+                "lastName": "Chatterjee"
+            },
+            {
+                "id": 37086001222,
+                "preferredName": "Nan Jiang",
+                "firstName": "Nan",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37085439910,
+                "preferredName": "David Nellans",
+                "firstName": "David",
+                "lastName": "Nellans"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00060",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407107",
+        "articleTitle": "Stream Floating: Enabling Proactive and Decentralized Cache Optimizations",
+        "volume": null,
+        "issue": null,
+        "startPage": "640",
+        "endPage": "653",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Stream Floating: Enabling Proactive and Decentralized Cache Optimizations",
+        "authors": [
+            {
+                "id": 37088370204,
+                "preferredName": "Zhengrong Wang",
+                "firstName": "Zhengrong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37087236563,
+                "preferredName": "Jian Weng",
+                "firstName": "Jian",
+                "lastName": "Weng"
+            },
+            {
+                "id": 37086617026,
+                "preferredName": "Jason Lowe-Power",
+                "firstName": "Jason",
+                "lastName": "Lowe-Power"
+            },
+            {
+                "id": 37697767200,
+                "preferredName": "Jayesh Gaur",
+                "firstName": "Jayesh",
+                "lastName": "Gaur"
+            },
+            {
+                "id": 38234971600,
+                "preferredName": "Tony Nowatzki",
+                "firstName": "Tony",
+                "lastName": "Nowatzki"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00011",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407091",
+        "articleTitle": "Common Counters: Compressed Encryption Counters for Secure GPU Memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Common Counters: Compressed Encryption Counters for Secure GPU Memory",
+        "authors": [
+            {
+                "id": 37086329049,
+                "preferredName": "Seonjin Na",
+                "firstName": "Seonjin",
+                "lastName": "Na"
+            },
+            {
+                "id": 37088848200,
+                "preferredName": "Sunho Lee",
+                "firstName": "Sunho",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37088847392,
+                "preferredName": "Yeonjae Kim",
+                "firstName": "Yeonjae",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085569167,
+                "preferredName": "Jongse Park",
+                "firstName": "Jongse",
+                "lastName": "Park"
+            },
+            {
+                "id": 38182003000,
+                "preferredName": "Jaehyuk Huh",
+                "firstName": "Jaehyuk",
+                "lastName": "Huh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00074",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407103",
+        "articleTitle": "Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines Industry Track Paper",
+        "volume": null,
+        "issue": null,
+        "startPage": "827",
+        "endPage": "840",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines Industry Track Paper",
+        "authors": [
+            {
+                "id": 37086810031,
+                "preferredName": "Yiming Gan",
+                "firstName": "Yiming",
+                "lastName": "Gan"
+            },
+            {
+                "id": 37088847085,
+                "preferredName": "Yu Bo",
+                "firstName": "Yu",
+                "lastName": "Bo"
+            },
+            {
+                "id": 37088552010,
+                "preferredName": "Boyuan Tian",
+                "firstName": "Boyuan",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37088550630,
+                "preferredName": "Leimeng Xu",
+                "firstName": "Leimeng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37088549429,
+                "preferredName": "Wei Hu",
+                "firstName": "Wei",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37406041000,
+                "preferredName": "Shaoshan Liu",
+                "firstName": "Shaoshan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37290889900,
+                "preferredName": "Qiang Liu",
+                "firstName": "Qiang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38248039400,
+                "preferredName": "Yanjun Zhang",
+                "firstName": "Yanjun",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085384969,
+                "preferredName": "Jie Tang",
+                "firstName": "Jie",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37086433612,
+                "preferredName": "Yuhao Zhu",
+                "firstName": "Yuhao",
+                "lastName": "Zhu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00045",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407200",
+        "articleTitle": "Memristive Data Ranking",
+        "volume": null,
+        "issue": null,
+        "startPage": "440",
+        "endPage": "452",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Memristive Data Ranking",
+        "authors": [
+            {
+                "id": 37088847082,
+                "preferredName": "Ananth Krishna Prasad",
+                "firstName": "Ananth Krishna",
+                "lastName": "Prasad"
+            },
+            {
+                "id": 37086411482,
+                "preferredName": "Morteza Rezaalipour",
+                "firstName": "Morteza",
+                "lastName": "Rezaalipour"
+            },
+            {
+                "id": 37546631000,
+                "preferredName": "Masoud Dehyadegari",
+                "firstName": "Masoud",
+                "lastName": "Dehyadegari"
+            },
+            {
+                "id": 37294895000,
+                "preferredName": "Mahdi Nazm Bojnordi",
+                "firstName": "Mahdi Nazm",
+                "lastName": "Bojnordi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00063",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407176",
+        "articleTitle": "Pitstop: Enabling a Virtual Network Free Network-on-Chip",
+        "volume": null,
+        "issue": null,
+        "startPage": "682",
+        "endPage": "695",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Pitstop: Enabling a Virtual Network Free Network-on-Chip",
+        "authors": [
+            {
+                "id": 37085824666,
+                "preferredName": "Hossein Farrokhbakht",
+                "firstName": "Hossein",
+                "lastName": "Farrokhbakht"
+            },
+            {
+                "id": 37088846353,
+                "preferredName": "Henry Kao",
+                "firstName": "Henry",
+                "lastName": "Kao"
+            },
+            {
+                "id": 37088848095,
+                "preferredName": "Kamran Hasan",
+                "firstName": "Kamran",
+                "lastName": "Hasan"
+            },
+            {
+                "id": 37540639900,
+                "preferredName": "Paul V. Gratz",
+                "firstName": "Paul V.",
+                "lastName": "Gratz"
+            },
+            {
+                "id": 37540652000,
+                "preferredName": "Tushar Krishna",
+                "firstName": "Tushar",
+                "lastName": "Krishna"
+            },
+            {
+                "id": 37086343739,
+                "preferredName": "Joshua San Miguel",
+                "firstName": "Joshua",
+                "lastName": "San Miguel"
+            },
+            {
+                "id": 37391632600,
+                "preferredName": "Natalie Enright Jerger",
+                "firstName": "Natalie Enright",
+                "lastName": "Jerger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00047",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407080",
+        "articleTitle": "Analyzing and Leveraging Decoupled L1 Caches in GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "467",
+        "endPage": "478",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Analyzing and Leveraging Decoupled L1 Caches in GPUs",
+        "authors": [
+            {
+                "id": 37086021011,
+                "preferredName": "Mohamed Assem Ibrahim",
+                "firstName": "Mohamed Assem",
+                "lastName": "Ibrahim"
+            },
+            {
+                "id": 37075893900,
+                "preferredName": "Onur Kayiran",
+                "firstName": "Onur",
+                "lastName": "Kayiran"
+            },
+            {
+                "id": 37086026780,
+                "preferredName": "Yasuko Eckert",
+                "firstName": "Yasuko",
+                "lastName": "Eckert"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            },
+            {
+                "id": 38466848700,
+                "preferredName": "Adwait Jog",
+                "firstName": "Adwait",
+                "lastName": "Jog"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00069",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407108",
+        "articleTitle": "An Analog Preconditioner for Solving Linear Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "761",
+        "endPage": "774",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "An Analog Preconditioner for Solving Linear Systems",
+        "authors": [
+            {
+                "id": 37086355078,
+                "preferredName": "Ben Feinberg",
+                "firstName": "Ben",
+                "lastName": "Feinberg"
+            },
+            {
+                "id": 37088488103,
+                "preferredName": "Ryan Wong",
+                "firstName": "Ryan",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37085687118,
+                "preferredName": "T. Patrick Xiao",
+                "firstName": "T. Patrick",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37085529248,
+                "preferredName": "Christopher H. Bennett",
+                "firstName": "Christopher H.",
+                "lastName": "Bennett"
+            },
+            {
+                "id": 37088351750,
+                "preferredName": "Jacob N. Rohan",
+                "firstName": "Jacob N.",
+                "lastName": "Rohan"
+            },
+            {
+                "id": 37666935100,
+                "preferredName": "Erik G. Boman",
+                "firstName": "Erik G.",
+                "lastName": "Boman"
+            },
+            {
+                "id": 38314148100,
+                "preferredName": "Matthew J. Marinella",
+                "firstName": "Matthew J.",
+                "lastName": "Marinella"
+            },
+            {
+                "id": 37529388200,
+                "preferredName": "Sapan Agarwal",
+                "firstName": "Sapan",
+                "lastName": "Agarwal"
+            },
+            {
+                "id": 37397990300,
+                "preferredName": "Engin Ipek",
+                "firstName": "Engin",
+                "lastName": "Ipek"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00025",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407042",
+        "articleTitle": "Systematic Approaches for Precise and Approximate Quantum State Runtime Assertion",
+        "volume": null,
+        "issue": null,
+        "startPage": "179",
+        "endPage": "193",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Systematic Approaches for Precise and Approximate Quantum State Runtime Assertion",
+        "authors": [
+            {
+                "id": 37088642256,
+                "preferredName": "Ji Liu",
+                "firstName": "Ji",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37422204700,
+                "preferredName": "Huiyang Zhou",
+                "firstName": "Huiyang",
+                "lastName": "Zhou"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00059",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407125",
+        "articleTitle": "Improving GPU Multi-tenancy with Page Walk Stealing",
+        "volume": null,
+        "issue": null,
+        "startPage": "626",
+        "endPage": "639",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Improving GPU Multi-tenancy with Page Walk Stealing",
+        "authors": [
+            {
+                "id": 37088847965,
+                "preferredName": "B. Pratheek",
+                "firstName": "B.",
+                "lastName": "Pratheek"
+            },
+            {
+                "id": 37088847669,
+                "preferredName": "Neha Jawalkar",
+                "firstName": "Neha",
+                "lastName": "Jawalkar"
+            },
+            {
+                "id": 38260185000,
+                "preferredName": "Arkaprava Basu",
+                "firstName": "Arkaprava",
+                "lastName": "Basu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00023",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407237",
+        "articleTitle": "TILT: Achieving Higher Fidelity on a Trapped-Ion Linear-Tape Quantum Computing Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "153",
+        "endPage": "166",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "TILT: Achieving Higher Fidelity on a Trapped-Ion Linear-Tape Quantum Computing Architecture",
+        "authors": [
+            {
+                "id": 37088487941,
+                "preferredName": "Xin-Chuan Wu",
+                "firstName": "Xin-Chuan",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088487209,
+                "preferredName": "Dripto M. Debroy",
+                "firstName": "Dripto M.",
+                "lastName": "Debroy"
+            },
+            {
+                "id": 37086428398,
+                "preferredName": "Yongshan Ding",
+                "firstName": "Yongshan",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37087467189,
+                "preferredName": "Jonathan M. Baker",
+                "firstName": "Jonathan M.",
+                "lastName": "Baker"
+            },
+            {
+                "id": 38220750500,
+                "preferredName": "Yuri Alexeev",
+                "firstName": "Yuri",
+                "lastName": "Alexeev"
+            },
+            {
+                "id": 37086812749,
+                "preferredName": "Kenneth R. Brown",
+                "firstName": "Kenneth R.",
+                "lastName": "Brown"
+            },
+            {
+                "id": 37283023200,
+                "preferredName": "Frederic T. Chong",
+                "firstName": "Frederic T.",
+                "lastName": "Chong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00054",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407239",
+        "articleTitle": "CAPE: A Content-Addressable Processing Engine",
+        "volume": null,
+        "issue": null,
+        "startPage": "557",
+        "endPage": "569",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "CAPE: A Content-Addressable Processing Engine",
+        "authors": [
+            {
+                "id": 37088846645,
+                "preferredName": "Helena Caminal",
+                "firstName": "Helena",
+                "lastName": "Caminal"
+            },
+            {
+                "id": 37088846256,
+                "preferredName": "Kailin Yang",
+                "firstName": "Kailin",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37085903000,
+                "preferredName": "Srivatsa Srinivasa",
+                "firstName": "Srivatsa",
+                "lastName": "Srinivasa"
+            },
+            {
+                "id": 37086436652,
+                "preferredName": "Akshay Krishna Ramanathan",
+                "firstName": "Akshay Krishna",
+                "lastName": "Ramanathan"
+            },
+            {
+                "id": 37086369238,
+                "preferredName": "Khalid Al-Hawaj",
+                "firstName": "Khalid",
+                "lastName": "Al-Hawaj"
+            },
+            {
+                "id": 37088846257,
+                "preferredName": "Tianshu Wu",
+                "firstName": "Tianshu",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37273383200,
+                "preferredName": "Vijaykrishnan Narayanan",
+                "firstName": "Vijaykrishnan",
+                "lastName": "Narayanan"
+            },
+            {
+                "id": 37704124200,
+                "preferredName": "Christopher Batten",
+                "firstName": "Christopher",
+                "lastName": "Batten"
+            },
+            {
+                "id": 37421430100,
+                "preferredName": "Jos\u00e9 F. Mart\u00ednez",
+                "firstName": "Jos\u00e9 F.",
+                "lastName": "Mart\u00ednez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00038",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407203",
+        "articleTitle": "A Write-Friendly and Fast-Recovery Scheme for Security Metadata in Non-Volatile Memories",
+        "volume": null,
+        "issue": null,
+        "startPage": "359",
+        "endPage": "370",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "A Write-Friendly and Fast-Recovery Scheme for Security Metadata in Non-Volatile Memories",
+        "authors": [
+            {
+                "id": 37088845843,
+                "preferredName": "Jianming Huang",
+                "firstName": "Jianming",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37693212600,
+                "preferredName": "Yu Hua",
+                "firstName": "Yu",
+                "lastName": "Hua"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00050",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407144",
+        "articleTitle": "Dead Page and Dead Block Predictors: Cleaning TLBs and Caches Together",
+        "volume": null,
+        "issue": null,
+        "startPage": "507",
+        "endPage": "519",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Dead Page and Dead Block Predictors: Cleaning TLBs and Caches Together",
+        "authors": [
+            {
+                "id": 37088845821,
+                "preferredName": "Chandrashis Mazumdar",
+                "firstName": "Chandrashis",
+                "lastName": "Mazumdar"
+            },
+            {
+                "id": 37088847265,
+                "preferredName": "Prachatos Mitra",
+                "firstName": "Prachatos",
+                "lastName": "Mitra"
+            },
+            {
+                "id": 38260185000,
+                "preferredName": "Arkaprava Basu",
+                "firstName": "Arkaprava",
+                "lastName": "Basu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00079",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407121",
+        "articleTitle": "FuseKNA: Fused Kernel Convolution based Accelerator for Deep Neural Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "894",
+        "endPage": "907",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "FuseKNA: Fused Kernel Convolution based Accelerator for Deep Neural Networks",
+        "authors": [
+            {
+                "id": 37086490673,
+                "preferredName": "Jianxun Yang",
+                "firstName": "Jianxun",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37088661882,
+                "preferredName": "Zhao Zhang",
+                "firstName": "Zhao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088661795,
+                "preferredName": "Zhuangzhi Liu",
+                "firstName": "Zhuangzhi",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37075637900,
+                "preferredName": "Jing Zhou",
+                "firstName": "Jing",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37280777600,
+                "preferredName": "Leibo Liu",
+                "firstName": "Leibo",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37404117300,
+                "preferredName": "Shaojun Wei",
+                "firstName": "Shaojun",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37400289900,
+                "preferredName": "Shouyi Yin",
+                "firstName": "Shouyi",
+                "lastName": "Yin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00048",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407162",
+        "articleTitle": "Deadline-Aware Offloading for High-Throughput Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "479",
+        "endPage": "492",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Deadline-Aware Offloading for High-Throughput Accelerators",
+        "authors": [
+            {
+                "id": 38194567200,
+                "preferredName": "Tsung Tai Yeh",
+                "firstName": "Tsung Tai",
+                "lastName": "Yeh"
+            },
+            {
+                "id": 37085667828,
+                "preferredName": "Matthew D. Sinclair",
+                "firstName": "Matthew D.",
+                "lastName": "Sinclair"
+            },
+            {
+                "id": 37564441800,
+                "preferredName": "Bradford M. Beckmann",
+                "firstName": "Bradford M.",
+                "lastName": "Beckmann"
+            },
+            {
+                "id": 38232412000,
+                "preferredName": "Timothy G. Rogers",
+                "firstName": "Timothy G.",
+                "lastName": "Rogers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00014",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407076",
+        "articleTitle": "New Models for Understanding and Reasoning about Speculative Execution Attacks",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "53",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "New Models for Understanding and Reasoning about Speculative Execution Attacks",
+        "authors": [
+            {
+                "id": 37085990108,
+                "preferredName": "Zecheng He",
+                "firstName": "Zecheng",
+                "lastName": "He"
+            },
+            {
+                "id": 37087100536,
+                "preferredName": "Guangyuan Hu",
+                "firstName": "Guangyuan",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37276167100,
+                "preferredName": "Ruby Lee",
+                "firstName": "Ruby",
+                "lastName": "Lee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00043",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407188",
+        "articleTitle": "GSSA: A Resource Allocation Scheme Customized for 3D NAND SSDs",
+        "volume": null,
+        "issue": null,
+        "startPage": "426",
+        "endPage": "439",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "GSSA: A Resource Allocation Scheme Customized for 3D NAND SSDs",
+        "authors": [
+            {
+                "id": 37088847649,
+                "preferredName": "Chun-Yi Liu",
+                "firstName": "Chun-Yi",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088846431,
+                "preferredName": "Yunju Lee",
+                "firstName": "Yunju",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086234138,
+                "preferredName": "Wonil Choi",
+                "firstName": "Wonil",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37085684877,
+                "preferredName": "Myoungsoo Jung",
+                "firstName": "Myoungsoo",
+                "lastName": "Jung"
+            },
+            {
+                "id": 37275431900,
+                "preferredName": "Mahmut Taylan Kandemir",
+                "firstName": "Mahmut Taylan",
+                "lastName": "Kandemir"
+            },
+            {
+                "id": 37268589600,
+                "preferredName": "Chita Das",
+                "firstName": "Chita",
+                "lastName": "Das"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00034",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407196",
+        "articleTitle": "WiDir: A Wireless-Enabled Directory Cache Coherence Protocol",
+        "volume": null,
+        "issue": null,
+        "startPage": "304",
+        "endPage": "317",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "WiDir: A Wireless-Enabled Directory Cache Coherence Protocol",
+        "authors": [
+            {
+                "id": 37086498728,
+                "preferredName": "Antonio Franques",
+                "firstName": "Antonio",
+                "lastName": "Franques"
+            },
+            {
+                "id": 37085781164,
+                "preferredName": "Apostolos Kokolis",
+                "firstName": "Apostolos",
+                "lastName": "Kokolis"
+            },
+            {
+                "id": 38234753900,
+                "preferredName": "Sergi Abadal",
+                "firstName": "Sergi",
+                "lastName": "Abadal"
+            },
+            {
+                "id": 38093950000,
+                "preferredName": "Vimuth Fernando",
+                "firstName": "Vimuth",
+                "lastName": "Fernando"
+            },
+            {
+                "id": 38015065100,
+                "preferredName": "Sasa Misailovic",
+                "firstName": "Sasa",
+                "lastName": "Misailovic"
+            },
+            {
+                "id": 37282327600,
+                "preferredName": "Josep Torrellas",
+                "firstName": "Josep",
+                "lastName": "Torrellas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00052",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407105",
+        "articleTitle": "CARE: Coordinated Augmentation for Elastic Resilience on DRAM Errors in Data Centers",
+        "volume": null,
+        "issue": null,
+        "startPage": "533",
+        "endPage": "544",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "CARE: Coordinated Augmentation for Elastic Resilience on DRAM Errors in Data Centers",
+        "authors": [
+            {
+                "id": 37088372978,
+                "preferredName": "Jian Chen",
+                "firstName": "Jian",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37403105000,
+                "preferredName": "Xiaowei Jiang",
+                "firstName": "Xiaowei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37088372921,
+                "preferredName": "Ying Zhang",
+                "firstName": "Ying",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088847590,
+                "preferredName": "Liyin Liu",
+                "firstName": "Liyin",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37088846066,
+                "preferredName": "Huifeng Xu",
+                "firstName": "Huifeng",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37088374587,
+                "preferredName": "Qiang Liu",
+                "firstName": "Qiang",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00026",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407212",
+        "articleTitle": "Faster Schr\u00f6dinger-style simulation of quantum circuits",
+        "volume": null,
+        "issue": null,
+        "startPage": "194",
+        "endPage": "207",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Faster Schr\u00f6dinger-style simulation of quantum circuits",
+        "authors": [
+            {
+                "id": 37088525940,
+                "preferredName": "Aneeqa Fatima",
+                "firstName": "Aneeqa",
+                "lastName": "Fatima"
+            },
+            {
+                "id": 37267052900,
+                "preferredName": "Igor L. Markov",
+                "firstName": "Igor L.",
+                "lastName": "Markov"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00046",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407130",
+        "articleTitle": "DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "453",
+        "endPage": "466",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems",
+        "authors": [
+            {
+                "id": 37087012024,
+                "preferredName": "Vamsee Reddy Kommareddy",
+                "firstName": "Vamsee Reddy",
+                "lastName": "Kommareddy"
+            },
+            {
+                "id": 37682870900,
+                "preferredName": "Clayton Hughes",
+                "firstName": "Clayton",
+                "lastName": "Hughes"
+            },
+            {
+                "id": 37391813200,
+                "preferredName": "Simon David Hammond",
+                "firstName": "Simon David",
+                "lastName": "Hammond"
+            },
+            {
+                "id": 37085592951,
+                "preferredName": "Amro Awad",
+                "firstName": "Amro",
+                "lastName": "Awad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00065",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407075",
+        "articleTitle": "CHOPIN: Scalable Graphics Rendering in Multi-GPU Systems via Parallel Image Composition",
+        "volume": null,
+        "issue": null,
+        "startPage": "709",
+        "endPage": "722",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "CHOPIN: Scalable Graphics Rendering in Multi-GPU Systems via Parallel Image Composition",
+        "authors": [
+            {
+                "id": 37086151681,
+                "preferredName": "Xiaowei Ren",
+                "firstName": "Xiaowei",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37319012000,
+                "preferredName": "Mieszko Lis",
+                "firstName": "Mieszko",
+                "lastName": "Lis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00064",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407148",
+        "articleTitle": "BoomGate: Deadlock Avoidance in Non-Minimal Routing for High-Radix Networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "696",
+        "endPage": "708",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "BoomGate: Deadlock Avoidance in Non-Minimal Routing for High-Radix Networks",
+        "authors": [
+            {
+                "id": 37088846648,
+                "preferredName": "Gyuyoung Kwauk",
+                "firstName": "Gyuyoung",
+                "lastName": "Kwauk"
+            },
+            {
+                "id": 37088847655,
+                "preferredName": "Seungkwan Kang",
+                "firstName": "Seungkwan",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37086307636,
+                "preferredName": "Hans Kasan",
+                "firstName": "Hans",
+                "lastName": "Kasan"
+            },
+            {
+                "id": 37088847659,
+                "preferredName": "Hyojun Son",
+                "firstName": "Hyojun",
+                "lastName": "Son"
+            },
+            {
+                "id": 37311384600,
+                "preferredName": "John Kim",
+                "firstName": "John",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00012",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407129",
+        "articleTitle": "Streamline Ring ORAM Accesses through Spatial and Temporal Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "25",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Streamline Ring ORAM Accesses through Spatial and Temporal Optimization",
+        "authors": [
+            {
+                "id": 37088846669,
+                "preferredName": "Dingyuan Cao",
+                "firstName": "Dingyuan",
+                "lastName": "Cao"
+            },
+            {
+                "id": 38469092800,
+                "preferredName": "Mingzhe Zhang",
+                "firstName": "Mingzhe",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37070929200,
+                "preferredName": "Hang Lu",
+                "firstName": "Hang",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37399073700,
+                "preferredName": "Xiaochun Ye",
+                "firstName": "Xiaochun",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37285218800,
+                "preferredName": "Dongrui Fan",
+                "firstName": "Dongrui",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37087502190,
+                "preferredName": "Yuezhi Che",
+                "firstName": "Yuezhi",
+                "lastName": "Che"
+            },
+            {
+                "id": 37086357675,
+                "preferredName": "Rujia Wang",
+                "firstName": "Rujia",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00035",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407172",
+        "articleTitle": "Heat Behind the Meter: A Hidden Threat of Thermal Attacks in Edge Colocation Data Centers",
+        "volume": null,
+        "issue": null,
+        "startPage": "318",
+        "endPage": "331",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Heat Behind the Meter: A Hidden Threat of Thermal Attacks in Edge Colocation Data Centers",
+        "authors": [
+            {
+                "id": 37088587656,
+                "preferredName": "Zhihui Shao",
+                "firstName": "Zhihui",
+                "lastName": "Shao"
+            },
+            {
+                "id": 37074473400,
+                "preferredName": "Mohammad A. Islam",
+                "firstName": "Mohammad A.",
+                "lastName": "Islam"
+            },
+            {
+                "id": 37411271000,
+                "preferredName": "Shaolei Ren",
+                "firstName": "Shaolei",
+                "lastName": "Ren"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00021",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407141",
+        "articleTitle": "TSOPER: Efficient Coherence-Based Strict Persistency",
+        "volume": null,
+        "issue": null,
+        "startPage": "125",
+        "endPage": "138",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "TSOPER: Efficient Coherence-Based Strict Persistency",
+        "authors": [
+            {
+                "id": 37086175092,
+                "preferredName": "Per Ekemark",
+                "firstName": "Per",
+                "lastName": "Ekemark"
+            },
+            {
+                "id": 37088846444,
+                "preferredName": "Yuan Yao",
+                "firstName": "Yuan",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37408952800,
+                "preferredName": "Alberto Ros",
+                "firstName": "Alberto",
+                "lastName": "Ros"
+            },
+            {
+                "id": 37072547100,
+                "preferredName": "Konstantinos Sagonas",
+                "firstName": "Konstantinos",
+                "lastName": "Sagonas"
+            },
+            {
+                "id": 37267088500,
+                "preferredName": "Stefanos Kaxiras",
+                "firstName": "Stefanos",
+                "lastName": "Kaxiras"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00058",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407182",
+        "articleTitle": "CSCNN: Algorithm-hardware Co-design for CNN Accelerators using Centrosymmetric Filters",
+        "volume": null,
+        "issue": null,
+        "startPage": "612",
+        "endPage": "625",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "CSCNN: Algorithm-hardware Co-design for CNN Accelerators using Centrosymmetric Filters",
+        "authors": [
+            {
+                "id": 37086057178,
+                "preferredName": "Jiajun Li",
+                "firstName": "Jiajun",
+                "lastName": "Li"
+            },
+            {
+                "id": 37271795400,
+                "preferredName": "Ahmed Louri",
+                "firstName": "Ahmed",
+                "lastName": "Louri"
+            },
+            {
+                "id": 37086563615,
+                "preferredName": "Avinash Karanth",
+                "firstName": "Avinash",
+                "lastName": "Karanth"
+            },
+            {
+                "id": 38198798500,
+                "preferredName": "Razvan Bunescu",
+                "firstName": "Razvan",
+                "lastName": "Bunescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00015",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407145",
+        "articleTitle": "A Computational Stack for Cross-Domain Acceleration",
+        "volume": null,
+        "issue": null,
+        "startPage": "54",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "A Computational Stack for Cross-Domain Acceleration",
+        "authors": [
+            {
+                "id": 37088550893,
+                "preferredName": "Sean Kinzer",
+                "firstName": "Sean",
+                "lastName": "Kinzer"
+            },
+            {
+                "id": 37085771351,
+                "preferredName": "Joon Kyung Kim",
+                "firstName": "Joon Kyung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086468848,
+                "preferredName": "Soroush Ghodrati",
+                "firstName": "Soroush",
+                "lastName": "Ghodrati"
+            },
+            {
+                "id": 37088553541,
+                "preferredName": "Brahmendra Yatham",
+                "firstName": "Brahmendra",
+                "lastName": "Yatham"
+            },
+            {
+                "id": 37085640434,
+                "preferredName": "Alric Althoff",
+                "firstName": "Alric",
+                "lastName": "Althoff"
+            },
+            {
+                "id": 37085569665,
+                "preferredName": "Divya Mahajan",
+                "firstName": "Divya",
+                "lastName": "Mahajan"
+            },
+            {
+                "id": 37411481200,
+                "preferredName": "Sorin Lerner",
+                "firstName": "Sorin",
+                "lastName": "Lerner"
+            },
+            {
+                "id": 37267164000,
+                "preferredName": "Hadi Esmaeilzadeh",
+                "firstName": "Hadi",
+                "lastName": "Esmaeilzadeh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00075",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407039",
+        "articleTitle": "NeuroMeter: An Integrated Power, Area, and Timing Modeling Framework for Machine Learning Accelerators Industry Track Paper",
+        "volume": null,
+        "issue": null,
+        "startPage": "841",
+        "endPage": "853",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "NeuroMeter: An Integrated Power, Area, and Timing Modeling Framework for Machine Learning Accelerators Industry Track Paper",
+        "authors": [
+            {
+                "id": 37085483226,
+                "preferredName": "Tianqi Tang",
+                "firstName": "Tianqi",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37598555300,
+                "preferredName": "Sheng Li",
+                "firstName": "Sheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085397627,
+                "preferredName": "Lifeng Nai",
+                "firstName": "Lifeng",
+                "lastName": "Nai"
+            },
+            {
+                "id": 37273884000,
+                "preferredName": "Norm Jouppi",
+                "firstName": "Norm",
+                "lastName": "Jouppi"
+            },
+            {
+                "id": 37275778900,
+                "preferredName": "Yuan Xie",
+                "firstName": "Yuan",
+                "lastName": "Xie"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00032",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407149",
+        "articleTitle": "Zero Directory Eviction Victim: Unbounded Coherence Directory and Core Cache Isolation",
+        "volume": null,
+        "issue": null,
+        "startPage": "277",
+        "endPage": "290",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Zero Directory Eviction Victim: Unbounded Coherence Directory and Core Cache Isolation",
+        "authors": [
+            {
+                "id": 38487313600,
+                "preferredName": "Mainak Chaudhuri",
+                "firstName": "Mainak",
+                "lastName": "Chaudhuri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00041",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407120",
+        "articleTitle": "EXMA: A Genomics Accelerator for Exact-Matching",
+        "volume": null,
+        "issue": null,
+        "startPage": "399",
+        "endPage": "411",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "EXMA: A Genomics Accelerator for Exact-Matching",
+        "authors": [
+            {
+                "id": 37085809185,
+                "preferredName": "Lei Jiang",
+                "firstName": "Lei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37086294775,
+                "preferredName": "Farzaneh Zokaee",
+                "firstName": "Farzaneh",
+                "lastName": "Zokaee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00081",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407226",
+        "articleTitle": "VIA: A Smart Scratchpad for Vector Units with Application to Sparse Matrix Computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "921",
+        "endPage": "934",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "VIA: A Smart Scratchpad for Vector Units with Application to Sparse Matrix Computations",
+        "authors": [
+            {
+                "id": 37088497978,
+                "preferredName": "Julian Pavon",
+                "firstName": "Julian",
+                "lastName": "Pavon"
+            },
+            {
+                "id": 37088846449,
+                "preferredName": "Ivan Vargas Valdivieso",
+                "firstName": "Ivan Vargas",
+                "lastName": "Valdivieso"
+            },
+            {
+                "id": 37087084424,
+                "preferredName": "Adrian Barredo",
+                "firstName": "Adrian",
+                "lastName": "Barredo"
+            },
+            {
+                "id": 37088568901,
+                "preferredName": "Joan Marimon",
+                "firstName": "Joan",
+                "lastName": "Marimon"
+            },
+            {
+                "id": 37296755700,
+                "preferredName": "Miquel Moreto",
+                "firstName": "Miquel",
+                "lastName": "Moreto"
+            },
+            {
+                "id": 37299201600,
+                "preferredName": "Francesc Moll",
+                "firstName": "Francesc",
+                "lastName": "Moll"
+            },
+            {
+                "id": 37328602200,
+                "preferredName": "Osman Unsal",
+                "firstName": "Osman",
+                "lastName": "Unsal"
+            },
+            {
+                "id": 37265842600,
+                "preferredName": "Mateo Valero",
+                "firstName": "Mateo",
+                "lastName": "Valero"
+            },
+            {
+                "id": 37282406300,
+                "preferredName": "Adrian Cristal",
+                "firstName": "Adrian",
+                "lastName": "Cristal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00073",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407101",
+        "articleTitle": "LIBRA: Clearing the Cloud Through Dynamic Memory Bandwidth Management",
+        "volume": null,
+        "issue": null,
+        "startPage": "815",
+        "endPage": "826",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "LIBRA: Clearing the Cloud Through Dynamic Memory Bandwidth Management",
+        "authors": [
+            {
+                "id": 37088848017,
+                "preferredName": "Ying Zhang",
+                "firstName": "Ying",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37088848102,
+                "preferredName": "Jian Chen",
+                "firstName": "Jian",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37403105000,
+                "preferredName": "Xiaowei Jiang",
+                "firstName": "Xiaowei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37089547781,
+                "preferredName": "Qiang Liu",
+                "firstName": "Qiang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37282334200,
+                "preferredName": "Ian M. Steiner",
+                "firstName": "Ian M.",
+                "lastName": "Steiner"
+            },
+            {
+                "id": 37085441826,
+                "preferredName": "Andrew J. Herdrich",
+                "firstName": "Andrew J.",
+                "lastName": "Herdrich"
+            },
+            {
+                "id": 37088845929,
+                "preferredName": "Kevin Shu",
+                "firstName": "Kevin",
+                "lastName": "Shu"
+            },
+            {
+                "id": 37290165900,
+                "preferredName": "Ripan Das",
+                "firstName": "Ripan",
+                "lastName": "Das"
+            },
+            {
+                "id": 37088846760,
+                "preferredName": "Long Cui",
+                "firstName": "Long",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37088846763,
+                "preferredName": "Litrin Jiang",
+                "firstName": "Litrin",
+                "lastName": "Jiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00022",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407136",
+        "articleTitle": "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "139",
+        "endPage": "152",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems",
+        "authors": [
+            {
+                "id": 37088847442,
+                "preferredName": "Mazen Alwadi",
+                "firstName": "Mazen",
+                "lastName": "Alwadi"
+            },
+            {
+                "id": 37087012024,
+                "preferredName": "Vamsee Reddy Kommareddy",
+                "firstName": "Vamsee Reddy",
+                "lastName": "Kommareddy"
+            },
+            {
+                "id": 37682870900,
+                "preferredName": "Clayton Hughes",
+                "firstName": "Clayton",
+                "lastName": "Hughes"
+            },
+            {
+                "id": 37391813200,
+                "preferredName": "Simon David Hammond",
+                "firstName": "Simon David",
+                "lastName": "Hammond"
+            },
+            {
+                "id": 37085592951,
+                "preferredName": "Amro Awad",
+                "firstName": "Amro",
+                "lastName": "Awad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00053",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407243",
+        "articleTitle": "Automatic Microprocessor Performance Bug Detection",
+        "volume": null,
+        "issue": null,
+        "startPage": "545",
+        "endPage": "556",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Automatic Microprocessor Performance Bug Detection",
+        "authors": [
+            {
+                "id": 37086952839,
+                "preferredName": "Erick Carvajal Barboza",
+                "firstName": "Erick Carvajal",
+                "lastName": "Barboza"
+            },
+            {
+                "id": 37088845737,
+                "preferredName": "Sara Jacob",
+                "firstName": "Sara",
+                "lastName": "Jacob"
+            },
+            {
+                "id": 37449350200,
+                "preferredName": "Mahesh Ketkar",
+                "firstName": "Mahesh",
+                "lastName": "Ketkar"
+            },
+            {
+                "id": 37282143100,
+                "preferredName": "Michael Kishinevsky",
+                "firstName": "Michael",
+                "lastName": "Kishinevsky"
+            },
+            {
+                "id": 37540639900,
+                "preferredName": "Paul Gratz",
+                "firstName": "Paul",
+                "lastName": "Gratz"
+            },
+            {
+                "id": 37278204300,
+                "preferredName": "Jiang Hu",
+                "firstName": "Jiang",
+                "lastName": "Hu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00040",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407097",
+        "articleTitle": "QEI: Query Acceleration Can be Generic and Efficient in the Cloud",
+        "volume": null,
+        "issue": null,
+        "startPage": "385",
+        "endPage": "398",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "QEI: Query Acceleration Can be Generic and Efficient in the Cloud",
+        "authors": [
+            {
+                "id": 37086555163,
+                "preferredName": "Yifan Yuan",
+                "firstName": "Yifan",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37071845600,
+                "preferredName": "Yipeng Wang",
+                "firstName": "Yipeng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37964713800,
+                "preferredName": "Ren Wang",
+                "firstName": "Ren",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088846646,
+                "preferredName": "Rangeen Basu Roy Chowhury",
+                "firstName": "Rangeen Basu Roy",
+                "lastName": "Chowhury"
+            },
+            {
+                "id": 37358882300,
+                "preferredName": "Charlie Tai",
+                "firstName": "Charlie",
+                "lastName": "Tai"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00067",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407194",
+        "articleTitle": "Hardware-Based Address-Centric Acceleration of Key-Value Store",
+        "volume": null,
+        "issue": null,
+        "startPage": "736",
+        "endPage": "748",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Hardware-Based Address-Centric Acceleration of Key-Value Store",
+        "authors": [
+            {
+                "id": 37085385329,
+                "preferredName": "Chencheng Ye",
+                "firstName": "Chencheng",
+                "lastName": "Ye"
+            },
+            {
+                "id": 37089400873,
+                "preferredName": "Yuanchao Xu",
+                "firstName": "Yuanchao",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37085517964,
+                "preferredName": "Xipeng Shen",
+                "firstName": "Xipeng",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37269559200,
+                "preferredName": "Xiaofei Liao",
+                "firstName": "Xiaofei",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37276607900,
+                "preferredName": "Hai Jin",
+                "firstName": "Hai",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37282584700,
+                "preferredName": "Yan Solihin",
+                "firstName": "Yan",
+                "lastName": "Solihin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00036",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407157",
+        "articleTitle": "Trident: A Hybrid Correlation-Collision GPU Cache Timing Attack for AES Key Recovery",
+        "volume": null,
+        "issue": null,
+        "startPage": "332",
+        "endPage": "344",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Trident: A Hybrid Correlation-Collision GPU Cache Timing Attack for AES Key Recovery",
+        "authors": [
+            {
+                "id": 37088846342,
+                "preferredName": "Jaeguk Ahn",
+                "firstName": "Jaeguk",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37088846962,
+                "preferredName": "Cheolgyu Jin",
+                "firstName": "Cheolgyu",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37086584402,
+                "preferredName": "Jiho Kim",
+                "firstName": "Jiho",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38265603700,
+                "preferredName": "Minsoo Rhu",
+                "firstName": "Minsoo",
+                "lastName": "Rhu"
+            },
+            {
+                "id": 37404688200,
+                "preferredName": "Yunsi Fei",
+                "firstName": "Yunsi",
+                "lastName": "Fei"
+            },
+            {
+                "id": 37271686900,
+                "preferredName": "David Kaeli",
+                "firstName": "David",
+                "lastName": "Kaeli"
+            },
+            {
+                "id": 37311384600,
+                "preferredName": "John Kim",
+                "firstName": "John",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00051",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407209",
+        "articleTitle": "ParaDox: Eliminating Voltage Margins via Heterogeneous Fault Tolerance",
+        "volume": null,
+        "issue": null,
+        "startPage": "520",
+        "endPage": "532",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "ParaDox: Eliminating Voltage Margins via Heterogeneous Fault Tolerance",
+        "authors": [
+            {
+                "id": 37086122187,
+                "preferredName": "Sam Ainsworth",
+                "firstName": "Sam",
+                "lastName": "Ainsworth"
+            },
+            {
+                "id": 37088846474,
+                "preferredName": "Lionel Zoubritzky",
+                "firstName": "Lionel",
+                "lastName": "Zoubritzky"
+            },
+            {
+                "id": 37284245800,
+                "preferredName": "Alan Mycroft",
+                "firstName": "Alan",
+                "lastName": "Mycroft"
+            },
+            {
+                "id": 37399109800,
+                "preferredName": "Timothy M. Jones",
+                "firstName": "Timothy M.",
+                "lastName": "Jones"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00078",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407082",
+        "articleTitle": "Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures",
+        "volume": null,
+        "issue": null,
+        "startPage": "881",
+        "endPage": "893",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures",
+        "authors": [
+            {
+                "id": 37088769977,
+                "preferredName": "Rohan Basu Roy",
+                "firstName": "Rohan Basu",
+                "lastName": "Roy"
+            },
+            {
+                "id": 37086427329,
+                "preferredName": "Tirthak Patel",
+                "firstName": "Tirthak",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37329374000,
+                "preferredName": "Raj Kettimuthu",
+                "firstName": "Raj",
+                "lastName": "Kettimuthu"
+            },
+            {
+                "id": 37282947000,
+                "preferredName": "William Allcock",
+                "firstName": "William",
+                "lastName": "Allcock"
+            },
+            {
+                "id": 37085553337,
+                "preferredName": "Paul Rich",
+                "firstName": "Paul",
+                "lastName": "Rich"
+            },
+            {
+                "id": 37088846360,
+                "preferredName": "Adam Scovel",
+                "firstName": "Adam",
+                "lastName": "Scovel"
+            },
+            {
+                "id": 37393039700,
+                "preferredName": "Devesh Tiwari",
+                "firstName": "Devesh",
+                "lastName": "Tiwari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00010",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407128",
+        "articleTitle": "Industry Session Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Industry Session Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00007",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407174",
+        "articleTitle": "Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00009",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407069",
+        "articleTitle": "External Review Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "External Review Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00083",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407215",
+        "articleTitle": "Message from the Industry Track Program Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Message from the Industry Track Program Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00008",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407150",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "23",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00006",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407068",
+        "articleTitle": "Message from the Program Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Message from the Program Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00005",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407092",
+        "articleTitle": "Message from the General Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "16",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Message from the General Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00003",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407198",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00001",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407123",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00002",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407164",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00004",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407156",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9406784",
+        "doi": "10.1109/HPCA51647.2021.00082",
+        "publicationYear": "2021",
+        "publicationDate": "27 Feb.-3 March 2021",
+        "articleNumber": "9407159",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "935",
+        "endPage": "940",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

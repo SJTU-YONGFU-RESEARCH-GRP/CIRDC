@@ -1,0 +1,2715 @@
+[
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830808",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856626",
+        "articleTitle": "Enabling interposer-based disintegration of multi-core processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "546",
+        "endPage": "558",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Enabling interposer-based disintegration of multi-core processors",
+        "authors": [
+            {
+                "id": 37085570496,
+                "preferredName": "Ajaykumar Kannan",
+                "firstName": "Ajaykumar",
+                "lastName": "Kannan"
+            },
+            {
+                "id": 37391632600,
+                "preferredName": "Natalie Enright Jerger",
+                "firstName": "Natalie Enright",
+                "lastName": "Jerger"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830807",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856597",
+        "articleTitle": "IMP: Indirect memory prefetcher",
+        "volume": null,
+        "issue": null,
+        "startPage": "178",
+        "endPage": "190",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "IMP: Indirect memory prefetcher",
+        "authors": [
+            {
+                "id": 37085763982,
+                "preferredName": "Xiangyao Yu",
+                "firstName": "Xiangyao",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37282406900,
+                "preferredName": "Christopher J. Hughes",
+                "firstName": "Christopher J.",
+                "lastName": "Hughes"
+            },
+            {
+                "id": 37391797900,
+                "preferredName": "Nadathur Satish",
+                "firstName": "Nadathur",
+                "lastName": "Satish"
+            },
+            {
+                "id": 37283553100,
+                "preferredName": "Srinivas Devadas",
+                "firstName": "Srinivas",
+                "lastName": "Devadas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830803",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856588",
+        "articleTitle": "The application slowdown model: Quantifying and controlling the impact of inter-application interference at shared caches and main memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "62",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "The application slowdown model: Quantifying and controlling the impact of inter-application interference at shared caches and main memory",
+        "authors": [
+            {
+                "id": 38268318300,
+                "preferredName": "Lavanya Subramanian",
+                "firstName": "Lavanya",
+                "lastName": "Subramanian"
+            },
+            {
+                "id": 38267348700,
+                "preferredName": "Vivek Seshadri",
+                "firstName": "Vivek",
+                "lastName": "Seshadri"
+            },
+            {
+                "id": 37086148431,
+                "preferredName": "Arnab Ghosh",
+                "firstName": "Arnab",
+                "lastName": "Ghosh"
+            },
+            {
+                "id": 37085386385,
+                "preferredName": "Samira Khan",
+                "firstName": "Samira",
+                "lastName": "Khan"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830802",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856636",
+        "articleTitle": "ThyNVM: Enabling software-transparent crash consistency in persistent memory systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "672",
+        "endPage": "685",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "ThyNVM: Enabling software-transparent crash consistency in persistent memory systems",
+        "authors": [
+            {
+                "id": 37085823298,
+                "preferredName": "Jinglei Ren",
+                "firstName": "Jinglei",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37085443152,
+                "preferredName": "Jishen Zhao",
+                "firstName": "Jishen",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085386385,
+                "preferredName": "Samira Khan",
+                "firstName": "Samira",
+                "lastName": "Khan"
+            },
+            {
+                "id": 38184321500,
+                "preferredName": "Jongmoo Choi",
+                "firstName": "Jongmoo",
+                "lastName": "Choi"
+            },
+            {
+                "id": 37281230000,
+                "preferredName": "Yongwei Wu",
+                "firstName": "Yongwei",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37087992807,
+                "preferredName": "Onur Mutiu",
+                "firstName": "Onur",
+                "lastName": "Mutiu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830797",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856630",
+        "articleTitle": "Rubik: Fast analytical power management for latency-critical systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "598",
+        "endPage": "610",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Rubik: Fast analytical power management for latency-critical systems",
+        "authors": [
+            {
+                "id": 37402344100,
+                "preferredName": "Harshad Kasture",
+                "firstName": "Harshad",
+                "lastName": "Kasture"
+            },
+            {
+                "id": 37705436600,
+                "preferredName": "Davide B. Bartolini",
+                "firstName": "Davide B.",
+                "lastName": "Bartolini"
+            },
+            {
+                "id": 37394328100,
+                "preferredName": "Nathan Beckmann",
+                "firstName": "Nathan",
+                "lastName": "Beckmann"
+            },
+            {
+                "id": 37531401100,
+                "preferredName": "Daniel Sanchez",
+                "firstName": "Daniel",
+                "lastName": "Sanchez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830793",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856594",
+        "articleTitle": "Efficiently prefetching complex address patterns",
+        "volume": null,
+        "issue": null,
+        "startPage": "141",
+        "endPage": "152",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Efficiently prefetching complex address patterns",
+        "authors": [
+            {
+                "id": 38234931200,
+                "preferredName": "Manjunath Shevgoor",
+                "firstName": "Manjunath",
+                "lastName": "Shevgoor"
+            },
+            {
+                "id": 37087068898,
+                "preferredName": "Sahil Koladiya",
+                "firstName": "Sahil",
+                "lastName": "Koladiya"
+            },
+            {
+                "id": 37391836500,
+                "preferredName": "Rajeev Balasubramonian",
+                "firstName": "Rajeev",
+                "lastName": "Balasubramonian"
+            },
+            {
+                "id": 37392830600,
+                "preferredName": "Chris Wilkerson",
+                "firstName": "Chris",
+                "lastName": "Wilkerson"
+            },
+            {
+                "id": 37085716065,
+                "preferredName": "Seth H Pugsley",
+                "firstName": "Seth H",
+                "lastName": "Pugsley"
+            },
+            {
+                "id": 38484997500,
+                "preferredName": "Zeshan Chishti",
+                "firstName": "Zeshan",
+                "lastName": "Chishti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830820",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856604",
+        "articleTitle": "Gather-Scatter DRAM: In-DRAM address translation to improve the spatial locality of non-unit strided accesses",
+        "volume": null,
+        "issue": null,
+        "startPage": "267",
+        "endPage": "280",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Gather-Scatter DRAM: In-DRAM address translation to improve the spatial locality of non-unit strided accesses",
+        "authors": [
+            {
+                "id": 38267348700,
+                "preferredName": "Vivek Seshadri",
+                "firstName": "Vivek",
+                "lastName": "Seshadri"
+            },
+            {
+                "id": 37086004509,
+                "preferredName": "Thomas Mullins",
+                "firstName": "Thomas",
+                "lastName": "Mullins"
+            },
+            {
+                "id": 37086000685,
+                "preferredName": "Amirali Boroumand",
+                "firstName": "Amirali",
+                "lastName": "Boroumand"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37282940400,
+                "preferredName": "Phillip B Gibbons",
+                "firstName": "Phillip B",
+                "lastName": "Gibbons"
+            },
+            {
+                "id": 38185080900,
+                "preferredName": "Michael A. Kozuch",
+                "firstName": "Michael A.",
+                "lastName": "Kozuch"
+            },
+            {
+                "id": 37282940800,
+                "preferredName": "Todd C Mowry",
+                "firstName": "Todd C",
+                "lastName": "Mowry"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830790",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856587",
+        "articleTitle": "Doppelg\u00e4nger: A cache for approximate computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "50",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Doppelg\u00e4nger: A cache for approximate computing",
+        "authors": [
+            {
+                "id": 37085496882,
+                "preferredName": "Joshua San Miguel",
+                "firstName": "Joshua San",
+                "lastName": "Miguel"
+            },
+            {
+                "id": 37085517445,
+                "preferredName": "Jorge Albericio",
+                "firstName": "Jorge",
+                "lastName": "Albericio"
+            },
+            {
+                "id": 37267012000,
+                "preferredName": "Andreas Moshovos",
+                "firstName": "Andreas",
+                "lastName": "Moshovos"
+            },
+            {
+                "id": 37391632600,
+                "preferredName": "Natalie Enright Jerger",
+                "firstName": "Natalie Enright",
+                "lastName": "Jerger"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830811",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856606",
+        "articleTitle": "Safe limits on voltage reduction efficiency in GPUs: A direct measurement approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "294",
+        "endPage": "307",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Safe limits on voltage reduction efficiency in GPUs: A direct measurement approach",
+        "authors": [
+            {
+                "id": 37085526104,
+                "preferredName": "Jingwen Leng",
+                "firstName": "Jingwen",
+                "lastName": "Leng"
+            },
+            {
+                "id": 37267009200,
+                "preferredName": "Alper Buyuktosunoglu",
+                "firstName": "Alper",
+                "lastName": "Buyuktosunoglu"
+            },
+            {
+                "id": 38580367000,
+                "preferredName": "Ramon Bertran",
+                "firstName": "Ramon",
+                "lastName": "Bertran"
+            },
+            {
+                "id": 37279227100,
+                "preferredName": "Pradip Bose",
+                "firstName": "Pradip",
+                "lastName": "Bose"
+            },
+            {
+                "id": 37293801200,
+                "preferredName": "Vijay Janapa Reddi",
+                "firstName": "Vijay Janapa",
+                "lastName": "Reddi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830780",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856640",
+        "articleTitle": "Cross-architecture performance prediction (XAPP) using CPU code to predict GPU performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "725",
+        "endPage": "737",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Cross-architecture performance prediction (XAPP) using CPU code to predict GPU performance",
+        "authors": [
+            {
+                "id": 37086139242,
+                "preferredName": "Newsha Ardalani",
+                "firstName": "Newsha",
+                "lastName": "Ardalani"
+            },
+            {
+                "id": 37086141508,
+                "preferredName": "Clint Lestourgeon",
+                "firstName": "Clint",
+                "lastName": "Lestourgeon"
+            },
+            {
+                "id": 37398408100,
+                "preferredName": "Karthikeyan Sankaralingam",
+                "firstName": "Karthikeyan",
+                "lastName": "Sankaralingam"
+            },
+            {
+                "id": 37675113200,
+                "preferredName": "Xiaojin Zhu",
+                "firstName": "Xiaojin",
+                "lastName": "Zhu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830773",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856583",
+        "articleTitle": "Large pages and lightweight memory management in virtualized environments: Can you have it both ways?",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Large pages and lightweight memory management in virtualized environments: Can you have it both ways?",
+        "authors": [
+            {
+                "id": 37081258200,
+                "preferredName": "Binh Pham",
+                "firstName": "Binh",
+                "lastName": "Pham"
+            },
+            {
+                "id": 37085777554,
+                "preferredName": "J\u00e1n Vesel\u00fd",
+                "firstName": "J\u00e1n",
+                "lastName": "Vesel\u00fd"
+            },
+            {
+                "id": 37412690900,
+                "preferredName": "Gabriel H. Loh",
+                "firstName": "Gabriel H.",
+                "lastName": "Loh"
+            },
+            {
+                "id": 38070367000,
+                "preferredName": "Abhishek Bhattacharjee",
+                "firstName": "Abhishek",
+                "lastName": "Bhattacharjee"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830805",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856635",
+        "articleTitle": "Efficient persist barriers for multicores",
+        "volume": null,
+        "issue": null,
+        "startPage": "660",
+        "endPage": "671",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Efficient persist barriers for multicores",
+        "authors": [
+            {
+                "id": 37086081723,
+                "preferredName": "Arpit Joshi",
+                "firstName": "Arpit",
+                "lastName": "Joshi"
+            },
+            {
+                "id": 37085516340,
+                "preferredName": "Vijay Nagarajan",
+                "firstName": "Vijay",
+                "lastName": "Nagarajan"
+            },
+            {
+                "id": 37282576700,
+                "preferredName": "Marcelo Cintra",
+                "firstName": "Marcelo",
+                "lastName": "Cintra"
+            },
+            {
+                "id": 37394053100,
+                "preferredName": "Stratis Viglas",
+                "firstName": "Stratis",
+                "lastName": "Viglas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830784",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856616",
+        "articleTitle": "GPU Register File Virtualization",
+        "volume": null,
+        "issue": null,
+        "startPage": "420",
+        "endPage": "432",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "GPU Register File Virtualization",
+        "authors": [
+            {
+                "id": 37665541800,
+                "preferredName": "Hyeran Jeon",
+                "firstName": "Hyeran",
+                "lastName": "Jeon"
+            },
+            {
+                "id": 37086040882,
+                "preferredName": "Gokul Subramanian Ravi",
+                "firstName": "Gokul Subramanian",
+                "lastName": "Ravi"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37298092100,
+                "preferredName": "Murali Annavaram",
+                "firstName": "Murali",
+                "lastName": "Annavaram"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830810",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856621",
+        "articleTitle": "Neural acceleration for GPU throughput processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "482",
+        "endPage": "493",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Neural acceleration for GPU throughput processors",
+        "authors": [
+            {
+                "id": 37541728900,
+                "preferredName": "Amir Yazdanbakhsh",
+                "firstName": "Amir",
+                "lastName": "Yazdanbakhsh"
+            },
+            {
+                "id": 37085569167,
+                "preferredName": "Jongse Park",
+                "firstName": "Jongse",
+                "lastName": "Park"
+            },
+            {
+                "id": 37085778200,
+                "preferredName": "Hardik Sharma",
+                "firstName": "Hardik",
+                "lastName": "Sharma"
+            },
+            {
+                "id": 38265125000,
+                "preferredName": "Pejman Lotfi-Kamran",
+                "firstName": "Pejman",
+                "lastName": "Lotfi-Kamran"
+            },
+            {
+                "id": 37267164000,
+                "preferredName": "Hadi Esmaeilzadeh",
+                "firstName": "Hadi",
+                "lastName": "Esmaeilzadeh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830789",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856622",
+        "articleTitle": "Neuromorphic accelerators: A comparison between neuroscience and machine-learning approaches",
+        "volume": null,
+        "issue": null,
+        "startPage": "494",
+        "endPage": "507",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Neuromorphic accelerators: A comparison between neuroscience and machine-learning approaches",
+        "authors": [
+            {
+                "id": 37085367291,
+                "preferredName": "Zidong Du",
+                "firstName": "Zidong",
+                "lastName": "Du"
+            },
+            {
+                "id": 37088387232,
+                "preferredName": "Daniel D. Ben-Dayan Rubin",
+                "firstName": "Daniel D.",
+                "lastName": "Ben-Dayan Rubin"
+            },
+            {
+                "id": 37293328300,
+                "preferredName": "Yunji Chen",
+                "firstName": "Yunji",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087999738,
+                "preferredName": "Liqiang Hel",
+                "firstName": "Liqiang",
+                "lastName": "Hel"
+            },
+            {
+                "id": 37402474000,
+                "preferredName": "Tianshi Chen",
+                "firstName": "Tianshi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085758034,
+                "preferredName": "Lei Zhang",
+                "firstName": "Lei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37692826400,
+                "preferredName": "Chengyong Wu",
+                "firstName": "Chengyong",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37282483400,
+                "preferredName": "Olivier Temam",
+                "firstName": "Olivier",
+                "lastName": "Temam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830824",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856607",
+        "articleTitle": "Adaptive guardband scheduling to improve system-level efficiency of the POWER7+",
+        "volume": null,
+        "issue": null,
+        "startPage": "308",
+        "endPage": "321",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Adaptive guardband scheduling to improve system-level efficiency of the POWER7+",
+        "authors": [
+            {
+                "id": 37085567346,
+                "preferredName": "Yazhou Zu",
+                "firstName": "Yazhou",
+                "lastName": "Zu"
+            },
+            {
+                "id": 37265517300,
+                "preferredName": "Charles R. Lefurgy",
+                "firstName": "Charles R.",
+                "lastName": "Lefurgy"
+            },
+            {
+                "id": 37085526104,
+                "preferredName": "Jingwen Leng",
+                "firstName": "Jingwen",
+                "lastName": "Leng"
+            },
+            {
+                "id": 37085511117,
+                "preferredName": "Matthew Halpern",
+                "firstName": "Matthew",
+                "lastName": "Halpern"
+            },
+            {
+                "id": 37268315300,
+                "preferredName": "Michael S. Floyd",
+                "firstName": "Michael S.",
+                "lastName": "Floyd"
+            },
+            {
+                "id": 37293801200,
+                "preferredName": "Vijay Janapa Reddi",
+                "firstName": "Vijay Janapa",
+                "lastName": "Reddi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830809",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856625",
+        "articleTitle": "Fast support for unstructured data processing: The unified automata processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "533",
+        "endPage": "545",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Fast support for unstructured data processing: The unified automata processor",
+        "authors": [
+            {
+                "id": 37086116086,
+                "preferredName": "Yuanwei Fang",
+                "firstName": "Yuanwei",
+                "lastName": "Fang"
+            },
+            {
+                "id": 37086113887,
+                "preferredName": "Tung T. Hoang",
+                "firstName": "Tung T.",
+                "lastName": "Hoang"
+            },
+            {
+                "id": 37703614000,
+                "preferredName": "Michela Becchi",
+                "firstName": "Michela",
+                "lastName": "Becchi"
+            },
+            {
+                "id": 37275890600,
+                "preferredName": "Andrew A. Chien",
+                "firstName": "Andrew A.",
+                "lastName": "Chien"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830777",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856601",
+        "articleTitle": "A scalable architecture for ordered parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "228",
+        "endPage": "241",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "A scalable architecture for ordered parallelism",
+        "authors": [
+            {
+                "id": 37085812897,
+                "preferredName": "Mark C. Jeffrey",
+                "firstName": "Mark C.",
+                "lastName": "Jeffrey"
+            },
+            {
+                "id": 37085815011,
+                "preferredName": "Suvinay Subramanian",
+                "firstName": "Suvinay",
+                "lastName": "Subramanian"
+            },
+            {
+                "id": 37085811919,
+                "preferredName": "Cong Yan",
+                "firstName": "Cong",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37266272500,
+                "preferredName": "Joel Emer",
+                "firstName": "Joel",
+                "lastName": "Emer"
+            },
+            {
+                "id": 37531401100,
+                "preferredName": "Daniel Sanchez",
+                "firstName": "Daniel",
+                "lastName": "Sanchez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830787",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856591",
+        "articleTitle": "Fork Path: Improving efficiency of ORAM by removing redundant memory accesses",
+        "volume": null,
+        "issue": null,
+        "startPage": "102",
+        "endPage": "114",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Fork Path: Improving efficiency of ORAM by removing redundant memory accesses",
+        "authors": [
+            {
+                "id": 37085738545,
+                "preferredName": "Xian Zhang",
+                "firstName": "Xian",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37404006100,
+                "preferredName": "Guangyu Sun",
+                "firstName": "Guangyu",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37085395065,
+                "preferredName": "Chao Zhang",
+                "firstName": "Chao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085409962,
+                "preferredName": "Weiqi Zhang",
+                "firstName": "Weiqi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 38003339700,
+                "preferredName": "Yun Liang",
+                "firstName": "Yun",
+                "lastName": "Liang"
+            },
+            {
+                "id": 38541263100,
+                "preferredName": "Tao Wang",
+                "firstName": "Tao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37281023800,
+                "preferredName": "Yiran Chen",
+                "firstName": "Yiran",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37267449400,
+                "preferredName": "Jia Di",
+                "firstName": "Jia",
+                "lastName": "Di"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830821",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856634",
+        "articleTitle": "Efficient GPU synchronization without scopes: Saying no to complex consistency models",
+        "volume": null,
+        "issue": null,
+        "startPage": "647",
+        "endPage": "659",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Efficient GPU synchronization without scopes: Saying no to complex consistency models",
+        "authors": [
+            {
+                "id": 37085667828,
+                "preferredName": "Matthew D. Sinclair",
+                "firstName": "Matthew D.",
+                "lastName": "Sinclair"
+            },
+            {
+                "id": 37085668013,
+                "preferredName": "Johnathan Alsop",
+                "firstName": "Johnathan",
+                "lastName": "Alsop"
+            },
+            {
+                "id": 37275579100,
+                "preferredName": "Sarita V. Adve",
+                "firstName": "Sarita V.",
+                "lastName": "Adve"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830813",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856614",
+        "articleTitle": "Enabling coordinated register allocation and thread-level parallelism optimization for GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "395",
+        "endPage": "406",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Enabling coordinated register allocation and thread-level parallelism optimization for GPUs",
+        "authors": [
+            {
+                "id": 37085747561,
+                "preferredName": "Xiaolong Xie",
+                "firstName": "Xiaolong",
+                "lastName": "Xie"
+            },
+            {
+                "id": 38003339700,
+                "preferredName": "Yun Liang",
+                "firstName": "Yun",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37085775425,
+                "preferredName": "Xiuhong Li",
+                "firstName": "Xiuhong",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086091287,
+                "preferredName": "Yudong Wu",
+                "firstName": "Yudong",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37404006100,
+                "preferredName": "Guangyu Sun",
+                "firstName": "Guangyu",
+                "lastName": "Sun"
+            },
+            {
+                "id": 38541263100,
+                "preferredName": "Tao Wang",
+                "firstName": "Tao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37285218800,
+                "preferredName": "Dongrui Fan",
+                "firstName": "Dongrui",
+                "lastName": "Fan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830823",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856586",
+        "articleTitle": "HyComp: A hybrid cache compression method for selection of data-type-specific compression methods",
+        "volume": null,
+        "issue": null,
+        "startPage": "38",
+        "endPage": "49",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "HyComp: A hybrid cache compression method for selection of data-type-specific compression methods",
+        "authors": [
+            {
+                "id": 37085529169,
+                "preferredName": "Angelos Arelakis",
+                "firstName": "Angelos",
+                "lastName": "Arelakis"
+            },
+            {
+                "id": 37295638200,
+                "preferredName": "Fredrik Dahlgren",
+                "firstName": "Fredrik",
+                "lastName": "Dahlgren"
+            },
+            {
+                "id": 37297953700,
+                "preferredName": "Per Stenstrom",
+                "firstName": "Per",
+                "lastName": "Stenstrom"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830785",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856596",
+        "articleTitle": "Confluence: Unified instruction supply for scale-out servers",
+        "volume": null,
+        "issue": null,
+        "startPage": "166",
+        "endPage": "177",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Confluence: Unified instruction supply for scale-out servers",
+        "authors": [
+            {
+                "id": 37085587245,
+                "preferredName": "Cansu Kaynak",
+                "firstName": "Cansu",
+                "lastName": "Kaynak"
+            },
+            {
+                "id": 37669789100,
+                "preferredName": "Boris Grot",
+                "firstName": "Boris",
+                "lastName": "Grot"
+            },
+            {
+                "id": 37364501300,
+                "preferredName": "Babak Falsafi",
+                "firstName": "Babak",
+                "lastName": "Falsafi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830800",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856598",
+        "articleTitle": "DeSC: Decoupled supply-compute communication management for heterogeneous architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "191",
+        "endPage": "203",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DeSC: Decoupled supply-compute communication management for heterogeneous architectures",
+        "authors": [
+            {
+                "id": 37060925300,
+                "preferredName": "Tae Jun Ham",
+                "firstName": "Tae Jun",
+                "lastName": "Ham"
+            },
+            {
+                "id": 37391924100,
+                "preferredName": "Juan L. Arag\u00f3n",
+                "firstName": "Juan L.",
+                "lastName": "Arag\u00f3n"
+            },
+            {
+                "id": 37332404000,
+                "preferredName": "Margaret Martonosi",
+                "firstName": "Margaret",
+                "lastName": "Martonosi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830779",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856629",
+        "articleTitle": "TimeTrader: Exploiting latency tail to save datacenter energy for online search",
+        "volume": null,
+        "issue": null,
+        "startPage": "585",
+        "endPage": "597",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "TimeTrader: Exploiting latency tail to save datacenter energy for online search",
+        "authors": [
+            {
+                "id": 37086006903,
+                "preferredName": "Balajee Vamanan",
+                "firstName": "Balajee",
+                "lastName": "Vamanan"
+            },
+            {
+                "id": 37086009131,
+                "preferredName": "Hamza Bin Sohail",
+                "firstName": "Hamza Bin",
+                "lastName": "Sohail"
+            },
+            {
+                "id": 37940289400,
+                "preferredName": "Jahangir Hasan",
+                "firstName": "Jahangir",
+                "lastName": "Hasan"
+            },
+            {
+                "id": 37282389000,
+                "preferredName": "T. N. Vijaykumar",
+                "firstName": "T. N.",
+                "lastName": "Vijaykumar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830818",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856615",
+        "articleTitle": "Free launch: Optimizing GPU dynamic kernel launches through thread reuse",
+        "volume": null,
+        "issue": null,
+        "startPage": "407",
+        "endPage": "419",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Free launch: Optimizing GPU dynamic kernel launches through thread reuse",
+        "authors": [
+            {
+                "id": 37085506950,
+                "preferredName": "Guoyang Chen",
+                "firstName": "Guoyang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085517964,
+                "preferredName": "Xipeng Shen",
+                "firstName": "Xipeng",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830827",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856603",
+        "articleTitle": "Improving DRAM latency with dynamic asymmetric subarray",
+        "volume": null,
+        "issue": null,
+        "startPage": "255",
+        "endPage": "266",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Improving DRAM latency with dynamic asymmetric subarray",
+        "authors": [
+            {
+                "id": 38184308200,
+                "preferredName": "Shih-Lien Lu",
+                "firstName": "Shih-Lien",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37086089190,
+                "preferredName": "Ying-Chen Lin",
+                "firstName": "Ying-Chen",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37279097400,
+                "preferredName": "Chia-Lin Yang",
+                "firstName": "Chia-Lin",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830819",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856620",
+        "articleTitle": "Border control: Sandboxing accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "470",
+        "endPage": "481",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Border control: Sandboxing accelerators",
+        "authors": [
+            {
+                "id": 37085798846,
+                "preferredName": "Lena E. Olson",
+                "firstName": "Lena E.",
+                "lastName": "Olson"
+            },
+            {
+                "id": 37085591841,
+                "preferredName": "Jason Power",
+                "firstName": "Jason",
+                "lastName": "Power"
+            },
+            {
+                "id": 37279742700,
+                "preferredName": "Mark D. Hill",
+                "firstName": "Mark D.",
+                "lastName": "Hill"
+            },
+            {
+                "id": 37266188300,
+                "preferredName": "David A. Wood",
+                "firstName": "David A.",
+                "lastName": "Wood"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830826",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856605",
+        "articleTitle": "The CRISP performance model for dynamic voltage and frequency scaling in a GPGPU",
+        "volume": null,
+        "issue": null,
+        "startPage": "281",
+        "endPage": "293",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "The CRISP performance model for dynamic voltage and frequency scaling in a GPGPU",
+        "authors": [
+            {
+                "id": 37410186100,
+                "preferredName": "Rajib Nath",
+                "firstName": "Rajib",
+                "lastName": "Nath"
+            },
+            {
+                "id": 37282355800,
+                "preferredName": "Dean Tullsen",
+                "firstName": "Dean",
+                "lastName": "Tullsen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830830",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856617",
+        "articleTitle": "WarpPool: Sharing requests with inter-warp coalescing for throughput processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "433",
+        "endPage": "444",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "WarpPool: Sharing requests with inter-warp coalescing for throughput processors",
+        "authors": [
+            {
+                "id": 37086011705,
+                "preferredName": "John Kloosterman",
+                "firstName": "John",
+                "lastName": "Kloosterman"
+            },
+            {
+                "id": 37070834200,
+                "preferredName": "Jonathan Beaumont",
+                "firstName": "Jonathan",
+                "lastName": "Beaumont"
+            },
+            {
+                "id": 37086008023,
+                "preferredName": "Mick Wollman",
+                "firstName": "Mick",
+                "lastName": "Wollman"
+            },
+            {
+                "id": 38233232000,
+                "preferredName": "Ankit Sethia",
+                "firstName": "Ankit",
+                "lastName": "Sethia"
+            },
+            {
+                "id": 37545653700,
+                "preferredName": "Ron Dreslinski",
+                "firstName": "Ron",
+                "lastName": "Dreslinski"
+            },
+            {
+                "id": 37267150400,
+                "preferredName": "Trevor Mudge",
+                "firstName": "Trevor",
+                "lastName": "Mudge"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "Scott Mahlke",
+                "firstName": "Scott",
+                "lastName": "Mahlke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830814",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856593",
+        "articleTitle": "Authenticache: Harnessing cache ECC for system authentication",
+        "volume": null,
+        "issue": null,
+        "startPage": "128",
+        "endPage": "140",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Authenticache: Harnessing cache ECC for system authentication",
+        "authors": [
+            {
+                "id": 37085396971,
+                "preferredName": "Anys Bacha",
+                "firstName": "Anys",
+                "lastName": "Bacha"
+            },
+            {
+                "id": 37555988600,
+                "preferredName": "Radu Teodorescu",
+                "firstName": "Radu",
+                "lastName": "Teodorescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830832",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856637",
+        "articleTitle": "Coherence domain restriction on large scale systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "686",
+        "endPage": "698",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Coherence domain restriction on large scale systems",
+        "authors": [
+            {
+                "id": 37086360403,
+                "preferredName": "Yaosheng Fu",
+                "firstName": "Yaosheng",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37086094756,
+                "preferredName": "Tri M. Nguyen",
+                "firstName": "Tri M.",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37265471000,
+                "preferredName": "David Wentzlaff",
+                "firstName": "David",
+                "lastName": "Wentzlaff"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830792",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856643",
+        "articleTitle": "Microarchitectural implications of event-driven server-side web applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "762",
+        "endPage": "774",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Microarchitectural implications of event-driven server-side web applications",
+        "authors": [
+            {
+                "id": 37086433612,
+                "preferredName": "Yuhao Zhu",
+                "firstName": "Yuhao",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 38283078000,
+                "preferredName": "Daniel Richins",
+                "firstName": "Daniel",
+                "lastName": "Richins"
+            },
+            {
+                "id": 37085511117,
+                "preferredName": "Matthew Halpern",
+                "firstName": "Matthew",
+                "lastName": "Halpern"
+            },
+            {
+                "id": 37293801200,
+                "preferredName": "Vijay Janapa Reddi",
+                "firstName": "Vijay Janapa",
+                "lastName": "Reddi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830796",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856599",
+        "articleTitle": "Efficient warp execution in presence of divergence with collaborative context collection",
+        "volume": null,
+        "issue": null,
+        "startPage": "204",
+        "endPage": "215",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Efficient warp execution in presence of divergence with collaborative context collection",
+        "authors": [
+            {
+                "id": 37085643395,
+                "preferredName": "Farzad Khorasani",
+                "firstName": "Farzad",
+                "lastName": "Khorasani"
+            },
+            {
+                "id": 37272679200,
+                "preferredName": "Rajiv Gupta",
+                "firstName": "Rajiv",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37273460100,
+                "preferredName": "Laxmi N. Bhuyan",
+                "firstName": "Laxmi N.",
+                "lastName": "Bhuyan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830774",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856584",
+        "articleTitle": "Exploiting commutativity to reduce the cost of updates to shared data in cache-coherent systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "25",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Exploiting commutativity to reduce the cost of updates to shared data in cache-coherent systems",
+        "authors": [
+            {
+                "id": 37086076862,
+                "preferredName": "Guowei Zhang",
+                "firstName": "Guowei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086085224,
+                "preferredName": "Webb Horn",
+                "firstName": "Webb",
+                "lastName": "Horn"
+            },
+            {
+                "id": 37531401100,
+                "preferredName": "Daniel Sanchez",
+                "firstName": "Daniel",
+                "lastName": "Sanchez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830804",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856628",
+        "articleTitle": "Modeling the implications of DRAM failures and protection techniques on datacenter TCO",
+        "volume": null,
+        "issue": null,
+        "startPage": "572",
+        "endPage": "584",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Modeling the implications of DRAM failures and protection techniques on datacenter TCO",
+        "authors": [
+            {
+                "id": 37085772256,
+                "preferredName": "Panagiota Nikolaou",
+                "firstName": "Panagiota",
+                "lastName": "Nikolaou"
+            },
+            {
+                "id": 37332284800,
+                "preferredName": "Yiannakis Sazeides",
+                "firstName": "Yiannakis",
+                "lastName": "Sazeides"
+            },
+            {
+                "id": 37947153000,
+                "preferredName": "Lorena Ndreu",
+                "firstName": "Lorena",
+                "lastName": "Ndreu"
+            },
+            {
+                "id": 38125610400,
+                "preferredName": "Marios Kleanthous",
+                "firstName": "Marios",
+                "lastName": "Kleanthous"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830806",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856602",
+        "articleTitle": "More is less: Improving the energy efficiency of data movement via opportunistic use of sparse codes",
+        "volume": null,
+        "issue": null,
+        "startPage": "242",
+        "endPage": "254",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "More is less: Improving the energy efficiency of data movement via opportunistic use of sparse codes",
+        "authors": [
+            {
+                "id": 37085667486,
+                "preferredName": "Yanwei Song",
+                "firstName": "Yanwei",
+                "lastName": "Song"
+            },
+            {
+                "id": 37397990300,
+                "preferredName": "Engin Ipek",
+                "firstName": "Engin",
+                "lastName": "Ipek"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830795",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856590",
+        "articleTitle": "Avoiding information leakage in the memory controller with fixed service policies",
+        "volume": null,
+        "issue": null,
+        "startPage": "89",
+        "endPage": "101",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Avoiding information leakage in the memory controller with fixed service policies",
+        "authors": [
+            {
+                "id": 37587734900,
+                "preferredName": "Ali Shafiee",
+                "firstName": "Ali",
+                "lastName": "Shafiee"
+            },
+            {
+                "id": 37086110282,
+                "preferredName": "Akhila Gundu",
+                "firstName": "Akhila",
+                "lastName": "Gundu"
+            },
+            {
+                "id": 38234931200,
+                "preferredName": "Manjunath Shevgoor",
+                "firstName": "Manjunath",
+                "lastName": "Shevgoor"
+            },
+            {
+                "id": 37391836500,
+                "preferredName": "Rajeev Balasubramonian",
+                "firstName": "Rajeev",
+                "lastName": "Balasubramonian"
+            },
+            {
+                "id": 37410269700,
+                "preferredName": "Mohit Tiwari",
+                "firstName": "Mohit",
+                "lastName": "Tiwari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830815",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856609",
+        "articleTitle": "Long term parking (LTP): Criticality-aware resource allocation in OOO processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "334",
+        "endPage": "346",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Long term parking (LTP): Criticality-aware resource allocation in OOO processors",
+        "authors": [
+            {
+                "id": 38233580000,
+                "preferredName": "Andreas Sembrant",
+                "firstName": "Andreas",
+                "lastName": "Sembrant"
+            },
+            {
+                "id": 37071086200,
+                "preferredName": "Trevor Carlson",
+                "firstName": "Trevor",
+                "lastName": "Carlson"
+            },
+            {
+                "id": 37281897200,
+                "preferredName": "Erik Hagersten",
+                "firstName": "Erik",
+                "lastName": "Hagersten"
+            },
+            {
+                "id": 38353827900,
+                "preferredName": "David Black-Shaffer",
+                "firstName": "David",
+                "lastName": "Black-Shaffer"
+            },
+            {
+                "id": 37085466768,
+                "preferredName": "Arthur Perais",
+                "firstName": "Arthur",
+                "lastName": "Perais"
+            },
+            {
+                "id": 37265543200,
+                "preferredName": "Andr\u00e9 Seznec",
+                "firstName": "Andr\u00e9",
+                "lastName": "Seznec"
+            },
+            {
+                "id": 37426591200,
+                "preferredName": "Pierre Michaud",
+                "firstName": "Pierre",
+                "lastName": "Michaud"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830782",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856585",
+        "articleTitle": "CCICheck: Using \u03bchb graphs to verify the coherence-consistency interface",
+        "volume": null,
+        "issue": null,
+        "startPage": "26",
+        "endPage": "37",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "CCICheck: Using \u03bchb graphs to verify the coherence-consistency interface",
+        "authors": [
+            {
+                "id": 37086126105,
+                "preferredName": "Yatin A. Manerkar",
+                "firstName": "Yatin A.",
+                "lastName": "Manerkar"
+            },
+            {
+                "id": 38075850600,
+                "preferredName": "Daniel Lustig",
+                "firstName": "Daniel",
+                "lastName": "Lustig"
+            },
+            {
+                "id": 37546240200,
+                "preferredName": "Michael Pellauer",
+                "firstName": "Michael",
+                "lastName": "Pellauer"
+            },
+            {
+                "id": 37332404000,
+                "preferredName": "Margaret Martonosi",
+                "firstName": "Margaret",
+                "lastName": "Martonosi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830829",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856641",
+        "articleTitle": "A fast and accurate analytical technique to compute the AVF of sequential bits in a processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "738",
+        "endPage": "749",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "A fast and accurate analytical technique to compute the AVF of sequential bits in a processor",
+        "authors": [
+            {
+                "id": 37332360300,
+                "preferredName": "Steven Raasch",
+                "firstName": "Steven",
+                "lastName": "Raasch"
+            },
+            {
+                "id": 37396210000,
+                "preferredName": "Arijit Biswas",
+                "firstName": "Arijit",
+                "lastName": "Biswas"
+            },
+            {
+                "id": 37085992728,
+                "preferredName": "Jon Stephan",
+                "firstName": "Jon",
+                "lastName": "Stephan"
+            },
+            {
+                "id": 37298045300,
+                "preferredName": "Paul Racunas",
+                "firstName": "Paul",
+                "lastName": "Racunas"
+            },
+            {
+                "id": 37266272500,
+                "preferredName": "Joel Emer",
+                "firstName": "Joel",
+                "lastName": "Emer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830822",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856613",
+        "articleTitle": "SAWS: Synchronization aware GPGPU warp scheduling for multiple independent warp schedulers",
+        "volume": null,
+        "issue": null,
+        "startPage": "383",
+        "endPage": "394",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "SAWS: Synchronization aware GPGPU warp scheduling for multiple independent warp schedulers",
+        "authors": [
+            {
+                "id": 37085739339,
+                "preferredName": "Jiwei Liu",
+                "firstName": "Jiwei",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37280196900,
+                "preferredName": "Jun Yang",
+                "firstName": "Jun",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37273234900,
+                "preferredName": "Rami Melhem",
+                "firstName": "Rami",
+                "lastName": "Melhem"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830786",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856639",
+        "articleTitle": "Characterizing, modeling, and improving the QoE of mobile devices with low battery level",
+        "volume": null,
+        "issue": null,
+        "startPage": "713",
+        "endPage": "724",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Characterizing, modeling, and improving the QoE of mobile devices with low battery level",
+        "authors": [
+            {
+                "id": 37085576397,
+                "preferredName": "Kaige Yan",
+                "firstName": "Kaige",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37086561094,
+                "preferredName": "Xingyao Zhang",
+                "firstName": "Xingyao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085352290,
+                "preferredName": "Xin Fu",
+                "firstName": "Xin",
+                "lastName": "Fu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830791",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856608",
+        "articleTitle": "DynaMOS: Dynamic schedule migration for heterogeneous cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "322",
+        "endPage": "333",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DynaMOS: Dynamic schedule migration for heterogeneous cores",
+        "authors": [
+            {
+                "id": 38581075900,
+                "preferredName": "Shruti Padmanabha",
+                "firstName": "Shruti",
+                "lastName": "Padmanabha"
+            },
+            {
+                "id": 38580762400,
+                "preferredName": "Andrew Lukefahr",
+                "firstName": "Andrew",
+                "lastName": "Lukefahr"
+            },
+            {
+                "id": 37534767200,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            },
+            {
+                "id": 37265029800,
+                "preferredName": "Scott Mahlke",
+                "firstName": "Scott",
+                "lastName": "Mahlke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830831",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856610",
+        "articleTitle": "The inner most loop iteration counter: A new dimension in branch history",
+        "volume": null,
+        "issue": null,
+        "startPage": "347",
+        "endPage": "357",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "The inner most loop iteration counter: A new dimension in branch history",
+        "authors": [
+            {
+                "id": 37265543200,
+                "preferredName": "Andr\u00e9 Seznec",
+                "firstName": "Andr\u00e9",
+                "lastName": "Seznec"
+            },
+            {
+                "id": 37085496882,
+                "preferredName": "Joshua San Miguel",
+                "firstName": "Joshua San",
+                "lastName": "Miguel"
+            },
+            {
+                "id": 37085517445,
+                "preferredName": "Jorge Albericio",
+                "firstName": "Jorge",
+                "lastName": "Albericio"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830812",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856611",
+        "articleTitle": "Filtered runahead execution with a runahead buffer",
+        "volume": null,
+        "issue": null,
+        "startPage": "358",
+        "endPage": "369",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Filtered runahead execution with a runahead buffer",
+        "authors": [
+            {
+                "id": 38580737000,
+                "preferredName": "Milad Hashemi",
+                "firstName": "Milad",
+                "lastName": "Hashemi"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Yale N. Patt",
+                "firstName": "Yale N.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830798",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856619",
+        "articleTitle": "Execution time prediction for energy-efficient hardware accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "457",
+        "endPage": "469",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Execution time prediction for energy-efficient hardware accelerators",
+        "authors": [
+            {
+                "id": 37085549520,
+                "preferredName": "Tao Chen",
+                "firstName": "Tao",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085998464,
+                "preferredName": "Alexander Rucker",
+                "firstName": "Alexander",
+                "lastName": "Rucker"
+            },
+            {
+                "id": 37282761100,
+                "preferredName": "G. Edward Suh",
+                "firstName": "G. Edward",
+                "lastName": "Suh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830794",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856627",
+        "articleTitle": "DCS: A fast and scalable device-centric server architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "559",
+        "endPage": "571",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "DCS: A fast and scalable device-centric server architecture",
+        "authors": [
+            {
+                "id": 37085855757,
+                "preferredName": "Jaehyung Ahn",
+                "firstName": "Jaehyung",
+                "lastName": "Ahn"
+            },
+            {
+                "id": 37089855004,
+                "preferredName": "Dongup Kwon",
+                "firstName": "Dongup",
+                "lastName": "Kwon"
+            },
+            {
+                "id": 37085464907,
+                "preferredName": "Youngsok Kim",
+                "firstName": "Youngsok",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086013599,
+                "preferredName": "Mohammadamin Ajdari",
+                "firstName": "Mohammadamin",
+                "lastName": "Ajdari"
+            },
+            {
+                "id": 38008729800,
+                "preferredName": "Jaewon Lee",
+                "firstName": "Jaewon",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37085348592,
+                "preferredName": "Jangwoo Kim",
+                "firstName": "Jangwoo",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830776",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856623",
+        "articleTitle": "Prediction-guided performance-energy trade-off for interactive applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "508",
+        "endPage": "520",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Prediction-guided performance-energy trade-off for interactive applications",
+        "authors": [
+            {
+                "id": 37894420200,
+                "preferredName": "Daniel Lo",
+                "firstName": "Daniel",
+                "lastName": "Lo"
+            },
+            {
+                "id": 37086077789,
+                "preferredName": "Taejoon Song",
+                "firstName": "Taejoon",
+                "lastName": "Song"
+            },
+            {
+                "id": 37282761100,
+                "preferredName": "G. Edward Suh",
+                "firstName": "G. Edward",
+                "lastName": "Suh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830833",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856624",
+        "articleTitle": "Architecture-aware automatic computation offload for native applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "521",
+        "endPage": "532",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Architecture-aware automatic computation offload for native applications",
+        "authors": [
+            {
+                "id": 37086162218,
+                "preferredName": "Gwangmu Lee",
+                "firstName": "Gwangmu",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086162054,
+                "preferredName": "Hyunjoon Park",
+                "firstName": "Hyunjoon",
+                "lastName": "Park"
+            },
+            {
+                "id": 37086202190,
+                "preferredName": "Seonyeong Heo",
+                "firstName": "Seonyeong",
+                "lastName": "Heo"
+            },
+            {
+                "id": 38008024900,
+                "preferredName": "Kyung-Ah Chang",
+                "firstName": "Kyung-Ah",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37085732158,
+                "preferredName": "Hyogun Lee",
+                "firstName": "Hyogun",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086206636,
+                "preferredName": "Hanjun Kim",
+                "firstName": "Hanjun",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830828",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856589",
+        "articleTitle": "MORC: A manycore-oriented compressed cache",
+        "volume": null,
+        "issue": null,
+        "startPage": "76",
+        "endPage": "88",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "MORC: A manycore-oriented compressed cache",
+        "authors": [
+            {
+                "id": 37086094756,
+                "preferredName": "Tri M. Nguyen",
+                "firstName": "Tri M.",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37265471000,
+                "preferredName": "David Wentzlaff",
+                "firstName": "David",
+                "lastName": "Wentzlaff"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830799",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856631",
+        "articleTitle": "CLEAN-ECC: High reliability ECC for adaptive granularity memory system",
+        "volume": null,
+        "issue": null,
+        "startPage": "611",
+        "endPage": "622",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "CLEAN-ECC: High reliability ECC for adaptive granularity memory system",
+        "authors": [
+            {
+                "id": 37086004797,
+                "preferredName": "Seong-Lyong Gong",
+                "firstName": "Seong-Lyong",
+                "lastName": "Gong"
+            },
+            {
+                "id": 38265603700,
+                "preferredName": "Minsoo Rhu",
+                "firstName": "Minsoo",
+                "lastName": "Rhu"
+            },
+            {
+                "id": 37085564970,
+                "preferredName": "Jungrae Kim",
+                "firstName": "Jungrae",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38251819300,
+                "preferredName": "Jinsuk Chung",
+                "firstName": "Jinsuk",
+                "lastName": "Chung"
+            },
+            {
+                "id": 37318863100,
+                "preferredName": "Mattan Erez",
+                "firstName": "Mattan",
+                "lastName": "Erez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830825",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856632",
+        "articleTitle": "vCache: Architectural support for transparent and isolated virtual LLCs in virtualized environments",
+        "volume": null,
+        "issue": null,
+        "startPage": "623",
+        "endPage": "634",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "vCache: Architectural support for transparent and isolated virtual LLCs in virtualized environments",
+        "authors": [
+            {
+                "id": 37085820125,
+                "preferredName": "Daehoon Kim",
+                "firstName": "Daehoon",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37406281700,
+                "preferredName": "Hwanju Kim",
+                "firstName": "Hwanju",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37404885800,
+                "preferredName": "Nam Sung Kim",
+                "firstName": "Nam Sung",
+                "lastName": "Kim"
+            },
+            {
+                "id": 38182003000,
+                "preferredName": "Jaehyuk Huh",
+                "firstName": "Jaehyuk",
+                "lastName": "Huh"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830778",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856638",
+        "articleTitle": "Efficiently enforcing strong memory ordering in GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "699",
+        "endPage": "712",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Efficiently enforcing strong memory ordering in GPUs",
+        "authors": [
+            {
+                "id": 37089271482,
+                "preferredName": "Abhayendra Singh",
+                "firstName": "Abhayendra",
+                "lastName": "Singh"
+            },
+            {
+                "id": 37085990765,
+                "preferredName": "Shaizeen Aga",
+                "firstName": "Shaizeen",
+                "lastName": "Aga"
+            },
+            {
+                "id": 37424199700,
+                "preferredName": "Satish Narayanasamy",
+                "firstName": "Satish",
+                "lastName": "Narayanasamy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830817",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856600",
+        "articleTitle": "Control flow coalescing on a hybrid dataflow/von Neumann GPGPU",
+        "volume": null,
+        "issue": null,
+        "startPage": "216",
+        "endPage": "227",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Control flow coalescing on a hybrid dataflow/von Neumann GPGPU",
+        "authors": [
+            {
+                "id": 37086128632,
+                "preferredName": "Dani Voitsechov",
+                "firstName": "Dani",
+                "lastName": "Voitsechov"
+            },
+            {
+                "id": 37295074800,
+                "preferredName": "Yoav Etsion",
+                "firstName": "Yoav",
+                "lastName": "Etsion"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830781",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856612",
+        "articleTitle": "Bungee jumps: Accelerating indirect branches through HW/SW co-design",
+        "volume": null,
+        "issue": null,
+        "startPage": "370",
+        "endPage": "382",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Bungee jumps: Accelerating indirect branches through HW/SW co-design",
+        "authors": [
+            {
+                "id": 37085650434,
+                "preferredName": "Daniel S. McFarlin",
+                "firstName": "Daniel S.",
+                "lastName": "McFarlin"
+            },
+            {
+                "id": 37426078300,
+                "preferredName": "Craig Zilles",
+                "firstName": "Craig",
+                "lastName": "Zilles"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830783",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856618",
+        "articleTitle": "Ultra-low power render-based collision detection for CPU/GPU systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "445",
+        "endPage": "456",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Ultra-low power render-based collision detection for CPU/GPU systems",
+        "authors": [
+            {
+                "id": 37086170375,
+                "preferredName": "Enrique de Lucas",
+                "firstName": "Enrique",
+                "lastName": "de Lucas"
+            },
+            {
+                "id": 37373843900,
+                "preferredName": "Pedro Marcuello",
+                "firstName": "Pedro",
+                "lastName": "Marcuello"
+            },
+            {
+                "id": 37274195900,
+                "preferredName": "Joan-Manuel Parcerisa",
+                "firstName": "Joan-Manuel",
+                "lastName": "Parcerisa"
+            },
+            {
+                "id": 37274399700,
+                "preferredName": "Antonio Gonzalez",
+                "firstName": "Antonio",
+                "lastName": "Gonzalez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830788",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856642",
+        "articleTitle": "Enabling portable energy efficiency with memory accelerated library",
+        "volume": null,
+        "issue": null,
+        "startPage": "750",
+        "endPage": "761",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Enabling portable energy efficiency with memory accelerated library",
+        "authors": [
+            {
+                "id": 37306644400,
+                "preferredName": "Qi Guo",
+                "firstName": "Qi",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37085714550,
+                "preferredName": "Tze-Meng Low",
+                "firstName": "Tze-Meng",
+                "lastName": "Low"
+            },
+            {
+                "id": 37393238000,
+                "preferredName": "Nikolaos Alachiotis",
+                "firstName": "Nikolaos",
+                "lastName": "Alachiotis"
+            },
+            {
+                "id": 37085343001,
+                "preferredName": "Berkin Akin",
+                "firstName": "Berkin",
+                "lastName": "Akin"
+            },
+            {
+                "id": 37273687500,
+                "preferredName": "Larry Pileggi",
+                "firstName": "Larry",
+                "lastName": "Pileggi"
+            },
+            {
+                "id": 37274426200,
+                "preferredName": "James C. Hoe",
+                "firstName": "James C.",
+                "lastName": "Hoe"
+            },
+            {
+                "id": 37330879000,
+                "preferredName": "Franz Franchetti",
+                "firstName": "Franz",
+                "lastName": "Franchetti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830816",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856595",
+        "articleTitle": "Self-contained, accurate precomputation prefetching",
+        "volume": null,
+        "issue": null,
+        "startPage": "153",
+        "endPage": "165",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Self-contained, accurate precomputation prefetching",
+        "authors": [
+            {
+                "id": 38581084200,
+                "preferredName": "Islam Atta",
+                "firstName": "Islam",
+                "lastName": "Atta"
+            },
+            {
+                "id": 37061050600,
+                "preferredName": "Xin Tong",
+                "firstName": "Xin",
+                "lastName": "Tong"
+            },
+            {
+                "id": 37359567300,
+                "preferredName": "Vijayalakshmi Srinivasan",
+                "firstName": "Vijayalakshmi",
+                "lastName": "Srinivasan"
+            },
+            {
+                "id": 37087988094,
+                "preferredName": "Loana Balding",
+                "firstName": "Loana",
+                "lastName": "Balding"
+            },
+            {
+                "id": 37267012000,
+                "preferredName": "Andreas Moshovos",
+                "firstName": "Andreas",
+                "lastName": "Moshovos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830775",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856633",
+        "articleTitle": "An integrated concurrency and core-ISA architectural envelope definition, and test oracle, for IBM POWER multiprocessors",
+        "volume": null,
+        "issue": null,
+        "startPage": "635",
+        "endPage": "646",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "An integrated concurrency and core-ISA architectural envelope definition, and test oracle, for IBM POWER multiprocessors",
+        "authors": [
+            {
+                "id": 37086039811,
+                "preferredName": "Kathryn E. Gray",
+                "firstName": "Kathryn E.",
+                "lastName": "Gray"
+            },
+            {
+                "id": 37086041105,
+                "preferredName": "Gabriel Kernels",
+                "firstName": "Gabriel",
+                "lastName": "Kernels"
+            },
+            {
+                "id": 37086041677,
+                "preferredName": "Dominic Mulligan",
+                "firstName": "Dominic",
+                "lastName": "Mulligan"
+            },
+            {
+                "id": 37086043554,
+                "preferredName": "Christopher Pulte",
+                "firstName": "Christopher",
+                "lastName": "Pulte"
+            },
+            {
+                "id": 37086043771,
+                "preferredName": "Susmit Sarkar",
+                "firstName": "Susmit",
+                "lastName": "Sarkar"
+            },
+            {
+                "id": 37267874300,
+                "preferredName": "Peter Sewell",
+                "firstName": "Peter",
+                "lastName": "Sewell"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": "10.1145/2830772.2830801",
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856592",
+        "articleTitle": "Locking down insecure indirection with hardware-based control-data isolation",
+        "volume": null,
+        "issue": null,
+        "startPage": "115",
+        "endPage": "127",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "Locking down insecure indirection with hardware-based control-data isolation",
+        "authors": [
+            {
+                "id": 38580818900,
+                "preferredName": "William Arthur",
+                "firstName": "William",
+                "lastName": "Arthur"
+            },
+            {
+                "id": 37086191970,
+                "preferredName": "Sahil Madeka",
+                "firstName": "Sahil",
+                "lastName": "Madeka"
+            },
+            {
+                "id": 37534767200,
+                "preferredName": "Reetuparna Das",
+                "firstName": "Reetuparna",
+                "lastName": "Das"
+            },
+            {
+                "id": 37267010600,
+                "preferredName": "Todd Austin",
+                "firstName": "Todd",
+                "lastName": "Austin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7837567",
+        "doi": null,
+        "publicationYear": "2015",
+        "publicationDate": "5-9 Dec. 2015",
+        "articleNumber": "7856582",
+        "articleTitle": "[Front matter]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "xviii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2015 48th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)",
+        "highlightedTitle": "[Front matter]",
+        "authors": []
+    }
+]

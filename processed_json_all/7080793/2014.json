@@ -1,0 +1,429 @@
+[
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.12",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081673",
+        "articleTitle": "An OpenACC Extension for Data Layout Transformation",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "An OpenACC Extension for Data Layout Transformation",
+        "authors": [
+            {
+                "id": 37070158400,
+                "preferredName": "Tetsuya Hoshino",
+                "firstName": "Tetsuya",
+                "lastName": "Hoshino"
+            },
+            {
+                "id": 37318518100,
+                "preferredName": "Naoya Maruyama",
+                "firstName": "Naoya",
+                "lastName": "Maruyama"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.6",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081675",
+        "articleTitle": "XcalableACC: Extension of XcalableMP PGAS Language Using OpenACC for Accelerator Clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "27",
+        "endPage": "36",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "XcalableACC: Extension of XcalableMP PGAS Language Using OpenACC for Accelerator Clusters",
+        "authors": [
+            {
+                "id": 37085499590,
+                "preferredName": "Masahiro Nakao",
+                "firstName": "Masahiro",
+                "lastName": "Nakao"
+            },
+            {
+                "id": 37428961300,
+                "preferredName": "Hitoshi Murai",
+                "firstName": "Hitoshi",
+                "lastName": "Murai"
+            },
+            {
+                "id": 37085488648,
+                "preferredName": "Takenori Shimosaka",
+                "firstName": "Takenori",
+                "lastName": "Shimosaka"
+            },
+            {
+                "id": 37085479972,
+                "preferredName": "Akihiro Tabuchi",
+                "firstName": "Akihiro",
+                "lastName": "Tabuchi"
+            },
+            {
+                "id": 37295800500,
+                "preferredName": "Toshihiro Hanawa",
+                "firstName": "Toshihiro",
+                "lastName": "Hanawa"
+            },
+            {
+                "id": 37296682800,
+                "preferredName": "Yuetsu Kodama",
+                "firstName": "Yuetsu",
+                "lastName": "Kodama"
+            },
+            {
+                "id": 37281886300,
+                "preferredName": "Taisuke Boku",
+                "firstName": "Taisuke",
+                "lastName": "Boku"
+            },
+            {
+                "id": 37276051500,
+                "preferredName": "Mitsuhisa Sato",
+                "firstName": "Mitsuhisa",
+                "lastName": "Sato"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.11",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081677",
+        "articleTitle": "Accelerating a C++ CFD Code with OpenACC",
+        "volume": null,
+        "issue": null,
+        "startPage": "47",
+        "endPage": "54",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "Accelerating a C++ CFD Code with OpenACC",
+        "authors": [
+            {
+                "id": 37085481121,
+                "preferredName": "Jiri Kraus",
+                "firstName": "Jiri",
+                "lastName": "Kraus"
+            },
+            {
+                "id": 37085488824,
+                "preferredName": "Michael Schlottke",
+                "firstName": "Michael",
+                "lastName": "Schlottke"
+            },
+            {
+                "id": 37085496886,
+                "preferredName": "Andrew Adinetz",
+                "firstName": "Andrew",
+                "lastName": "Adinetz"
+            },
+            {
+                "id": 37563803100,
+                "preferredName": "Dirk Pleiter",
+                "firstName": "Dirk",
+                "lastName": "Pleiter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.10",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081674",
+        "articleTitle": "Achieving Portability and Performance through OpenACC",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "26",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "Achieving Portability and Performance through OpenACC",
+        "authors": [
+            {
+                "id": 37393078800,
+                "preferredName": "J. A. Herdman",
+                "firstName": "J. A.",
+                "lastName": "Herdman"
+            },
+            {
+                "id": 38581349200,
+                "preferredName": "W. P. Gaudin",
+                "firstName": "W. P.",
+                "lastName": "Gaudin"
+            },
+            {
+                "id": 37077262200,
+                "preferredName": "O. Perks",
+                "firstName": "O.",
+                "lastName": "Perks"
+            },
+            {
+                "id": 38581223400,
+                "preferredName": "D. A. Beckingsale",
+                "firstName": "D. A.",
+                "lastName": "Beckingsale"
+            },
+            {
+                "id": 38581339800,
+                "preferredName": "A. C. Mallinson",
+                "firstName": "A. C.",
+                "lastName": "Mallinson"
+            },
+            {
+                "id": 37269528000,
+                "preferredName": "S. A. Jarvis",
+                "firstName": "S. A.",
+                "lastName": "Jarvis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.9",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081678",
+        "articleTitle": "Directive-Based Parallelization of the NIM Weather Model for GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "55",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "Directive-Based Parallelization of the NIM Weather Model for GPUs",
+        "authors": [
+            {
+                "id": 37980227500,
+                "preferredName": "Mark Govett",
+                "firstName": "Mark",
+                "lastName": "Govett"
+            },
+            {
+                "id": 37973628600,
+                "preferredName": "Jacques Middlecoff",
+                "firstName": "Jacques",
+                "lastName": "Middlecoff"
+            },
+            {
+                "id": 37350675200,
+                "preferredName": "Tom Henderson",
+                "firstName": "Tom",
+                "lastName": "Henderson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.7",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081672",
+        "articleTitle": "OpenARC: Extensible OpenACC Compiler Framework for Directive-Based Accelerator Programming Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "OpenARC: Extensible OpenACC Compiler Framework for Directive-Based Accelerator Programming Study",
+        "authors": [
+            {
+                "id": 38552184200,
+                "preferredName": "Seyong Lee",
+                "firstName": "Seyong",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey S. Vetter",
+                "firstName": "Jeffrey S.",
+                "lastName": "Vetter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.8",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081676",
+        "articleTitle": "Accelerating Kirchhoff Migration on GPU Using Directives",
+        "volume": null,
+        "issue": null,
+        "startPage": "37",
+        "endPage": "46",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "Accelerating Kirchhoff Migration on GPU Using Directives",
+        "authors": [
+            {
+                "id": 37061078800,
+                "preferredName": "Rengan Xu",
+                "firstName": "Rengan",
+                "lastName": "Xu"
+            },
+            {
+                "id": 38192611500,
+                "preferredName": "Maxime Hugues",
+                "firstName": "Maxime",
+                "lastName": "Hugues"
+            },
+            {
+                "id": 37990667900,
+                "preferredName": "Henri Calandra",
+                "firstName": "Henri",
+                "lastName": "Calandra"
+            },
+            {
+                "id": 37892610900,
+                "preferredName": "Sunita Chandrasekaran",
+                "firstName": "Sunita",
+                "lastName": "Chandrasekaran"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.4",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081671",
+        "articleTitle": "WACCPD'14 Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "v",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "WACCPD'14 Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.3",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081670",
+        "articleTitle": "WACCPD'14 Message",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "WACCPD'14 Message",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.1",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081667",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.5",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081669",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.13",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081679",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "62",
+        "endPage": "62",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7080793",
+        "doi": "10.1109/WACCPD.2014.2",
+        "publicationYear": "2014",
+        "publicationDate": "17-17 Nov. 2014",
+        "articleNumber": "7081668",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "ii",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 First Workshop on Accelerator Programming using Directives",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    }
+]

@@ -1,0 +1,351 @@
+[
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306976",
+        "articleTitle": "From tasks graphs to asynchronous distributed checkpointing with local restart",
+        "volume": null,
+        "issue": null,
+        "startPage": "31",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "From tasks graphs to asynchronous distributed checkpointing with local restart",
+        "authors": [
+            {
+                "id": 37088600931,
+                "preferredName": "Romain Lion",
+                "firstName": "Romain",
+                "lastName": "Lion"
+            },
+            {
+                "id": 37410036000,
+                "preferredName": "Samuel Thibault",
+                "firstName": "Samuel",
+                "lastName": "Thibault"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307009",
+        "articleTitle": "Improving Scalability of Silent-Error Resilience for Message-Passing Solvers via Local Recovery and Asynchrony",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Improving Scalability of Silent-Error Resilience for Message-Passing Solvers via Local Recovery and Asynchrony",
+        "authors": [
+            {
+                "id": 38014896200,
+                "preferredName": "Hemanth Kolla",
+                "firstName": "Hemanth",
+                "lastName": "Kolla"
+            },
+            {
+                "id": 37410072900,
+                "preferredName": "Jackson R. Mayo",
+                "firstName": "Jackson R.",
+                "lastName": "Mayo"
+            },
+            {
+                "id": 37085501347,
+                "preferredName": "Keita Teranishi",
+                "firstName": "Keita",
+                "lastName": "Teranishi"
+            },
+            {
+                "id": 37269349200,
+                "preferredName": "Robert C. Armstrong",
+                "firstName": "Robert C.",
+                "lastName": "Armstrong"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307116",
+        "articleTitle": "Towards Distributed Software Resilience in Asynchronous Many- Task Programming Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Towards Distributed Software Resilience in Asynchronous Many- Task Programming Models",
+        "authors": [
+            {
+                "id": 37088600330,
+                "preferredName": "Nikunj Gupta",
+                "firstName": "Nikunj",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37410072900,
+                "preferredName": "Jackson R. Mayo",
+                "firstName": "Jackson R.",
+                "lastName": "Mayo"
+            },
+            {
+                "id": 37087233058,
+                "preferredName": "Adrian S. Lemoine",
+                "firstName": "Adrian S.",
+                "lastName": "Lemoine"
+            },
+            {
+                "id": 37315412900,
+                "preferredName": "Hartmut Kaiser",
+                "firstName": "Hartmut",
+                "lastName": "Kaiser"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307159",
+        "articleTitle": "A Generic Strategy for Node-Failure Resilience for Certain Iterative Linear Algebra Methods",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "50",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "A Generic Strategy for Node-Failure Resilience for Certain Iterative Linear Algebra Methods",
+        "authors": [
+            {
+                "id": 37086560430,
+                "preferredName": "Carlos Pachajoa",
+                "firstName": "Carlos",
+                "lastName": "Pachajoa"
+            },
+            {
+                "id": 37088599596,
+                "preferredName": "Robert Ernstbrunner",
+                "firstName": "Robert",
+                "lastName": "Ernstbrunner"
+            },
+            {
+                "id": 37268432800,
+                "preferredName": "Wilfried N. Gansterer",
+                "firstName": "Wilfried N.",
+                "lastName": "Gansterer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306940",
+        "articleTitle": "Models for Resilience Design Patterns",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "30",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Models for Resilience Design Patterns",
+        "authors": [
+            {
+                "id": 37089816547,
+                "preferredName": "Mohit Kumar",
+                "firstName": "Mohit",
+                "lastName": "Kumar"
+            },
+            {
+                "id": 37296621200,
+                "preferredName": "Christian Engelmann",
+                "firstName": "Christian",
+                "lastName": "Engelmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307059",
+        "articleTitle": "Checkpointing OpenSHMEM Programs Using Compiler Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "51",
+        "endPage": "60",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Checkpointing OpenSHMEM Programs Using Compiler Analysis",
+        "authors": [
+            {
+                "id": 37088600019,
+                "preferredName": "Md Abdullah Shahneous Bari",
+                "firstName": "Md Abdullah",
+                "lastName": "Shahneous Bari"
+            },
+            {
+                "id": 37088600710,
+                "preferredName": "Debasmita Basu",
+                "firstName": "Debasmita",
+                "lastName": "Basu"
+            },
+            {
+                "id": 37088366801,
+                "preferredName": "Wenbin Lu",
+                "firstName": "Wenbin",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37088368720,
+                "preferredName": "Tony Curtis",
+                "firstName": "Tony",
+                "lastName": "Curtis"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307130",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "vi",
+        "endPage": "vi",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307056",
+        "articleTitle": "Message from the Workshop Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Message from the Workshop Chair",
+        "authors": [
+            {
+                "id": 37085414739,
+                "preferredName": "Scott Levy",
+                "firstName": "Scott",
+                "lastName": "Levy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307142",
+        "articleTitle": "Proceedings of FTXS 2020: Fault Tolerance for HPC at eXtreme Scale",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Proceedings of FTXS 2020: Fault Tolerance for HPC at eXtreme Scale",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307154",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307031",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iv",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306850",
+        "doi": "10.1109/FTXS51974.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307066",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "61",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM 10th Workshop on Fault Tolerance for HPC at eXtreme Scale (FTXS)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

@@ -1,0 +1,386 @@
+[
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00011",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024569",
+        "articleTitle": "Mixed-Precision Algorithm for Finding Selected Eigenvalues and Eigenvectors of Symmetric and Hermitian Matrices1",
+        "volume": null,
+        "issue": null,
+        "startPage": "43",
+        "endPage": "50",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Mixed-Precision Algorithm for Finding Selected Eigenvalues and Eigenvectors of Symmetric and Hermitian Matrices1",
+        "authors": [
+            {
+                "id": 37086188497,
+                "preferredName": "Yaohung M. Tsai",
+                "firstName": "Yaohung M.",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 37892026800,
+                "preferredName": "Piotr Luszczek",
+                "firstName": "Piotr",
+                "lastName": "Luszczek"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00007",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024564",
+        "articleTitle": "GPU Optimization of Lattice Boltzmann Method with Local Ensemble Transform Kalman Filter",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "GPU Optimization of Lattice Boltzmann Method with Local Ensemble Transform Kalman Filter",
+        "authors": [
+            {
+                "id": 37088993377,
+                "preferredName": "Yuta Hasegawa",
+                "firstName": "Yuta",
+                "lastName": "Hasegawa"
+            },
+            {
+                "id": 38581267400,
+                "preferredName": "Toshiyuki Imamura",
+                "firstName": "Toshiyuki",
+                "lastName": "Imamura"
+            },
+            {
+                "id": 37086007477,
+                "preferredName": "Takuya Ina",
+                "firstName": "Takuya",
+                "lastName": "Ina"
+            },
+            {
+                "id": 37085596091,
+                "preferredName": "Naoyuki Onodera",
+                "firstName": "Naoyuki",
+                "lastName": "Onodera"
+            },
+            {
+                "id": 37086194809,
+                "preferredName": "Yuuichi Asahi",
+                "firstName": "Yuuichi",
+                "lastName": "Asahi"
+            },
+            {
+                "id": 38233779400,
+                "preferredName": "Yasuhiro Idomura",
+                "firstName": "Yasuhiro",
+                "lastName": "Idomura"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00009",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024576",
+        "articleTitle": "MARs: Memory Access Rearrangements in Open MPI",
+        "volume": null,
+        "issue": null,
+        "startPage": "26",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "MARs: Memory Access Rearrangements in Open MPI",
+        "authors": [
+            {
+                "id": 37087134144,
+                "preferredName": "Yicheng Li",
+                "firstName": "Yicheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085471768,
+                "preferredName": "Joseph Schuchart",
+                "firstName": "Joseph",
+                "lastName": "Schuchart"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00006",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024557",
+        "articleTitle": "Implementing Asynchronous Jacobi Iteration on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Implementing Asynchronous Jacobi Iteration on GPUs",
+        "authors": [
+            {
+                "id": 37089713817,
+                "preferredName": "Yu-Hsiang Mike Tsai",
+                "firstName": "Yu-Hsiang Mike",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 37088753315,
+                "preferredName": "Pratik Nayak",
+                "firstName": "Pratik",
+                "lastName": "Nayak"
+            },
+            {
+                "id": 38469062100,
+                "preferredName": "Edmond Chow",
+                "firstName": "Edmond",
+                "lastName": "Chow"
+            },
+            {
+                "id": 38272603600,
+                "preferredName": "Hartwig Anzt",
+                "firstName": "Hartwig",
+                "lastName": "Anzt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00008",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024577",
+        "articleTitle": "Scalable Finite-Element Viscoelastic Crustal Deformation Analysis Accelerated with Data-Driven Method",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "25",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Scalable Finite-Element Viscoelastic Crustal Deformation Analysis Accelerated with Data-Driven Method",
+        "authors": [
+            {
+                "id": 37086088859,
+                "preferredName": "Kohei Fujita",
+                "firstName": "Kohei",
+                "lastName": "Fujita"
+            },
+            {
+                "id": 37089713630,
+                "preferredName": "Sota Murakami",
+                "firstName": "Sota",
+                "lastName": "Murakami"
+            },
+            {
+                "id": 37086093399,
+                "preferredName": "Tsuyoshi Ichimura",
+                "firstName": "Tsuyoshi",
+                "lastName": "Ichimura"
+            },
+            {
+                "id": 37691980900,
+                "preferredName": "Takane Hori",
+                "firstName": "Takane",
+                "lastName": "Hori"
+            },
+            {
+                "id": 37086093196,
+                "preferredName": "Muneo Hori",
+                "firstName": "Muneo",
+                "lastName": "Hori"
+            },
+            {
+                "id": 37088279596,
+                "preferredName": "Maddegedara Lalith",
+                "firstName": "Maddegedara",
+                "lastName": "Lalith"
+            },
+            {
+                "id": 37279755800,
+                "preferredName": "Naonori Ueda",
+                "firstName": "Naonori",
+                "lastName": "Ueda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00010",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024579",
+        "articleTitle": "Threshold Pivoting for Dense LU Factorization",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "42",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Threshold Pivoting for Dense LU Factorization",
+        "authors": [
+            {
+                "id": 37088588544,
+                "preferredName": "Neil Lindquist",
+                "firstName": "Neil",
+                "lastName": "Lindquist"
+            },
+            {
+                "id": 37072492700,
+                "preferredName": "Mark Gates",
+                "firstName": "Mark",
+                "lastName": "Gates"
+            },
+            {
+                "id": 37892026800,
+                "preferredName": "Piotr Luszczek",
+                "firstName": "Piotr",
+                "lastName": "Luszczek"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00001",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024506",
+        "articleTitle": "Title Page i",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Title Page i",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00004",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024501",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00002",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024543",
+        "articleTitle": "Copyright Page",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Copyright Page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00005",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024550",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00012",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024558",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "51",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10024508",
+        "doi": "10.1109/ScalAH56622.2022.00003",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10024502",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2022 IEEE/ACM Workshop on Latest Advances in Scalable Algorithms for Large-Scale Heterogeneous Systems (ScalAH)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]

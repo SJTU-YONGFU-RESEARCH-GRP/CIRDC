@@ -1,0 +1,983 @@
+[
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.197407",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717452",
+        "articleTitle": "Facilitating superscalar processing via a combined static/dynamic register renaming scheme",
+        "volume": null,
+        "issue": null,
+        "startPage": "143",
+        "endPage": "147",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Facilitating superscalar processing via a combined static/dynamic register renaming scheme",
+        "authors": [
+            {
+                "id": 37087401767,
+                "preferredName": "E. Sprangle",
+                "firstName": "E.",
+                "lastName": "Sprangle"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Y. Patt",
+                "firstName": "Y.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192751",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717458",
+        "articleTitle": "Register file port requirements of transport triggered architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "191",
+        "endPage": "195",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Register file port requirements of transport triggered architectures",
+        "authors": [
+            {
+                "id": 37374509500,
+                "preferredName": "J. Hoogerbrugge",
+                "firstName": "J.",
+                "lastName": "Hoogerbrugge"
+            },
+            {
+                "id": 37266918700,
+                "preferredName": "H. Corporaal",
+                "firstName": "H.",
+                "lastName": "Corporaal"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717421",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717421",
+        "articleTitle": "Software pipelining with register allocation and spilling",
+        "volume": null,
+        "issue": null,
+        "startPage": "95",
+        "endPage": "99",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Software pipelining with register allocation and spilling",
+        "authors": [
+            {
+                "id": 37087064905,
+                "preferredName": "Jian Wang",
+                "firstName": null,
+                "lastName": "Jian Wang"
+            },
+            {
+                "id": 37273636600,
+                "preferredName": "A. Krall",
+                "firstName": "A.",
+                "lastName": "Krall"
+            },
+            {
+                "id": 37087512103,
+                "preferredName": "M. Anton Ertl",
+                "firstName": "M.",
+                "lastName": "Anton Ertl"
+            },
+            {
+                "id": 37295649700,
+                "preferredName": "C. Eisenbeis",
+                "firstName": "C.",
+                "lastName": "Eisenbeis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192735",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717423",
+        "articleTitle": "Reducing memory traffic with CRegs",
+        "volume": null,
+        "issue": null,
+        "startPage": "100",
+        "endPage": "104",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Reducing memory traffic with CRegs",
+        "authors": [
+            {
+                "id": 37087331783,
+                "preferredName": "P. Dahl",
+                "firstName": "P.",
+                "lastName": "Dahl"
+            },
+            {
+                "id": 37352280600,
+                "preferredName": "M. O'Keefe",
+                "firstName": "M.",
+                "lastName": "O'Keefe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717462",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717462",
+        "articleTitle": "The effect of speculative updating branch history on branch prediction accuracy, revisited",
+        "volume": null,
+        "issue": null,
+        "startPage": "228",
+        "endPage": "232",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "The effect of speculative updating branch history on branch prediction accuracy, revisited",
+        "authors": [
+            {
+                "id": 37374485800,
+                "preferredName": "E. Hao",
+                "firstName": "E.",
+                "lastName": "Hao"
+            },
+            {
+                "id": 37087366225,
+                "preferredName": "Po-Yung Chang",
+                "firstName": null,
+                "lastName": "Po-Yung Chang"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Y.N. Patt",
+                "firstName": "Y.N.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717429",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717429",
+        "articleTitle": "A study of pointer aliasing for software pipelining using run-time disambiguation",
+        "volume": null,
+        "issue": null,
+        "startPage": "112",
+        "endPage": "117",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "A study of pointer aliasing for software pipelining using run-time disambiguation",
+        "authors": [
+            {
+                "id": 37087254680,
+                "preferredName": "Bogong Su",
+                "firstName": null,
+                "lastName": "Bogong Su"
+            },
+            {
+                "id": 37364606500,
+                "preferredName": "S. Habib",
+                "firstName": "S.",
+                "lastName": "Habib"
+            },
+            {
+                "id": 37087144668,
+                "preferredName": "Wei Zhao",
+                "firstName": null,
+                "lastName": "Wei Zhao"
+            },
+            {
+                "id": 37087064905,
+                "preferredName": "Jian Wang",
+                "firstName": null,
+                "lastName": "Jian Wang"
+            },
+            {
+                "id": 37087155638,
+                "preferredName": "Youfeng Wu",
+                "firstName": null,
+                "lastName": "Youfeng Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717451",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717451",
+        "articleTitle": "Minimizing branch misprediction penalties for superpipelined processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "138",
+        "endPage": "142",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Minimizing branch misprediction penalties for superpipelined processors",
+        "authors": [
+            {
+                "id": 37086996214,
+                "preferredName": "Ching-Long Su",
+                "firstName": null,
+                "lastName": "Ching-Long Su"
+            },
+            {
+                "id": 37344362400,
+                "preferredName": "A.M. Despain",
+                "firstName": "A.M.",
+                "lastName": "Despain"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192749",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717456",
+        "articleTitle": "A high-performance microarchitecture with hardware-programmable functional units",
+        "volume": null,
+        "issue": null,
+        "startPage": "172",
+        "endPage": "180",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "A high-performance microarchitecture with hardware-programmable functional units",
+        "authors": [
+            {
+                "id": 37374564200,
+                "preferredName": "R. Razdan",
+                "firstName": "R.",
+                "lastName": "Razdan"
+            },
+            {
+                "id": 38183611400,
+                "preferredName": "M.D. Smith",
+                "firstName": "M.D.",
+                "lastName": "Smith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192755",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717461",
+        "articleTitle": "Characterizing the impact of predicated execution on branch prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "217",
+        "endPage": "227",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Characterizing the impact of predicated execution on branch prediction",
+        "authors": [
+            {
+                "id": 37265029800,
+                "preferredName": "S.A. Mahlke",
+                "firstName": "S.A.",
+                "lastName": "Mahlke"
+            },
+            {
+                "id": 37349850700,
+                "preferredName": "R.E. Hank",
+                "firstName": "R.E.",
+                "lastName": "Hank"
+            },
+            {
+                "id": 37374414500,
+                "preferredName": "R.A. Bringmann",
+                "firstName": "R.A.",
+                "lastName": "Bringmann"
+            },
+            {
+                "id": 37373076500,
+                "preferredName": "J.C. Gyllenhaal",
+                "firstName": "J.C.",
+                "lastName": "Gyllenhaal"
+            },
+            {
+                "id": 37362725900,
+                "preferredName": "D.M. Gallagher",
+                "firstName": "D.M.",
+                "lastName": "Gallagher"
+            },
+            {
+                "id": 37282333800,
+                "preferredName": "W.-M.W. Hwu",
+                "firstName": "W.-M.W.",
+                "lastName": "Hwu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717399",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717399",
+        "articleTitle": "Static branch frequency and program profile analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Static branch frequency and program profile analysis",
+        "authors": [
+            {
+                "id": 37087155638,
+                "preferredName": "Youfeng Wu",
+                "firstName": null,
+                "lastName": "Youfeng Wu"
+            },
+            {
+                "id": 37295760500,
+                "preferredName": "J.R. Larus",
+                "firstName": "J.R.",
+                "lastName": "Larus"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192730",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717410",
+        "articleTitle": "Theoretical modeling of superscalar processor performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "52",
+        "endPage": "62",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Theoretical modeling of superscalar processor performance",
+        "authors": [
+            {
+                "id": 37374549400,
+                "preferredName": "D.B. Noonburg",
+                "firstName": "D.B.",
+                "lastName": "Noonburg"
+            },
+            {
+                "id": 37336157600,
+                "preferredName": "J.P. Shen",
+                "firstName": "J.P.",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192748",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717455",
+        "articleTitle": "A fill-unit approach to multiple instruction issue",
+        "volume": null,
+        "issue": null,
+        "startPage": "162",
+        "endPage": "171",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "A fill-unit approach to multiple instruction issue",
+        "authors": [
+            {
+                "id": 37274417300,
+                "preferredName": "M. Franklin",
+                "firstName": "M.",
+                "lastName": "Franklin"
+            },
+            {
+                "id": 37354212400,
+                "preferredName": "M. Smotherman",
+                "firstName": "M.",
+                "lastName": "Smotherman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192753",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717459",
+        "articleTitle": "The effects of predicated execution on branch prediction",
+        "volume": null,
+        "issue": null,
+        "startPage": "196",
+        "endPage": "206",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "The effects of predicated execution on branch prediction",
+        "authors": [
+            {
+                "id": 37371721200,
+                "preferredName": "G.S. Tyson",
+                "firstName": "G.S.",
+                "lastName": "Tyson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717412",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717412",
+        "articleTitle": "Iterative module scheduling: an algorithm for software pipelining loops",
+        "volume": null,
+        "issue": null,
+        "startPage": "63",
+        "endPage": "74",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Iterative module scheduling: an algorithm for software pipelining loops",
+        "authors": [
+            {
+                "id": 37087296156,
+                "preferredName": "B. Ramakrishna Rau",
+                "firstName": "B.",
+                "lastName": "Ramakrishna Rau"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717450",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717450",
+        "articleTitle": "Cache designs with partial address matching",
+        "volume": null,
+        "issue": null,
+        "startPage": "128",
+        "endPage": "136",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Cache designs with partial address matching",
+        "authors": [
+            {
+                "id": 37087401935,
+                "preferredName": "Lishing Liu",
+                "firstName": null,
+                "lastName": "Lishing Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192726",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717402",
+        "articleTitle": "Using branch handling hardware to support profile-driven optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Using branch handling hardware to support profile-driven optimization",
+        "authors": [
+            {
+                "id": 37282643200,
+                "preferredName": "T.M. Conte",
+                "firstName": "T.M.",
+                "lastName": "Conte"
+            },
+            {
+                "id": 37353078900,
+                "preferredName": "B.A. Patel",
+                "firstName": "B.A.",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37359502600,
+                "preferredName": "J.S. Cox",
+                "firstName": "J.S.",
+                "lastName": "Cox"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192750",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717457",
+        "articleTitle": "The anatomy of the register file in a multiscalar processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "181",
+        "endPage": "190",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "The anatomy of the register file in a multiscalar processor",
+        "authors": [
+            {
+                "id": 37349345000,
+                "preferredName": "S.E. Breach",
+                "firstName": "S.E.",
+                "lastName": "Breach"
+            },
+            {
+                "id": 37282389000,
+                "preferredName": "T.N. Vijaykumar",
+                "firstName": "T.N.",
+                "lastName": "Vijaykumar"
+            },
+            {
+                "id": 37282389200,
+                "preferredName": "G.S. Sohi",
+                "firstName": "G.S.",
+                "lastName": "Sohi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192729",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717409",
+        "articleTitle": "Height reduction of control recurrences for ILP processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Height reduction of control recurrences for ILP processors",
+        "authors": [
+            {
+                "id": 37374563800,
+                "preferredName": "M. Schlansker",
+                "firstName": "M.",
+                "lastName": "Schlansker"
+            },
+            {
+                "id": 37329006900,
+                "preferredName": "V. Kathail",
+                "firstName": "V.",
+                "lastName": "Kathail"
+            },
+            {
+                "id": 37087481550,
+                "preferredName": "S. Anik",
+                "firstName": "S.",
+                "lastName": "Anik"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192728",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717407",
+        "articleTitle": "Techniques for compressing program address traces",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Techniques for compressing program address traces",
+        "authors": [
+            {
+                "id": 37324474200,
+                "preferredName": "A.R. Pleszkun",
+                "firstName": "A.R.",
+                "lastName": "Pleszkun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717415",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717415",
+        "articleTitle": "Minimum register requirements for a module schedule",
+        "volume": null,
+        "issue": null,
+        "startPage": "75",
+        "endPage": "84",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Minimum register requirements for a module schedule",
+        "authors": [
+            {
+                "id": 37089051570,
+                "preferredName": "A.E. Eichenberger",
+                "firstName": "A.E.",
+                "lastName": "Eichenberger"
+            },
+            {
+                "id": 37300641200,
+                "preferredName": "E.S. Davidson",
+                "firstName": "E.S.",
+                "lastName": "Davidson"
+            },
+            {
+                "id": 37266595700,
+                "preferredName": "S.G. Abraham",
+                "firstName": "S.G.",
+                "lastName": "Abraham"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717404",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717404",
+        "articleTitle": "Branch classification: a new mechanism for improving branch predictor performance",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Branch classification: a new mechanism for improving branch predictor performance",
+        "authors": [
+            {
+                "id": 37087366225,
+                "preferredName": "Po-Yung Chang",
+                "firstName": null,
+                "lastName": "Po-Yung Chang"
+            },
+            {
+                "id": 37374485800,
+                "preferredName": "E. Hao",
+                "firstName": "E.",
+                "lastName": "Hao"
+            },
+            {
+                "id": 37087282227,
+                "preferredName": "Tse-Yu Yeh",
+                "firstName": null,
+                "lastName": "Tse-Yu Yeh"
+            },
+            {
+                "id": 37265511300,
+                "preferredName": "Y. Patt",
+                "firstName": "Y.",
+                "lastName": "Patt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192733",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717418",
+        "articleTitle": "Minimizing register requirements under resource-constrained rate-optimal software pipelining",
+        "volume": null,
+        "issue": null,
+        "startPage": "85",
+        "endPage": "94",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Minimizing register requirements under resource-constrained rate-optimal software pipelining",
+        "authors": [
+            {
+                "id": 37294180600,
+                "preferredName": "R. Govindarajan",
+                "firstName": "R.",
+                "lastName": "Govindarajan"
+            },
+            {
+                "id": 37342015600,
+                "preferredName": "E.R. Altman",
+                "firstName": "E.R.",
+                "lastName": "Altman"
+            },
+            {
+                "id": 37334741200,
+                "preferredName": "G.R. Gao",
+                "firstName": "G.R.",
+                "lastName": "Gao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192737",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717426",
+        "articleTitle": "Dynamic memory disambiguation for array references",
+        "volume": null,
+        "issue": null,
+        "startPage": "105",
+        "endPage": "111",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Dynamic memory disambiguation for array references",
+        "authors": [
+            {
+                "id": 37089117089,
+                "preferredName": "D. Bernstein",
+                "firstName": "D.",
+                "lastName": "Bernstein"
+            },
+            {
+                "id": 37364398200,
+                "preferredName": "D. Cohen",
+                "firstName": "D.",
+                "lastName": "Cohen"
+            },
+            {
+                "id": 37375580900,
+                "preferredName": "D.E. Maydan",
+                "firstName": "D.E.",
+                "lastName": "Maydan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192754",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717460",
+        "articleTitle": "Analysis of the conditional skip instructions of the HP Precision Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "207",
+        "endPage": "216",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Analysis of the conditional skip instructions of the HP Precision Architecture",
+        "authors": [
+            {
+                "id": 37087401662,
+                "preferredName": "J.P. Vogel",
+                "firstName": "J.P.",
+                "lastName": "Vogel"
+            },
+            {
+                "id": 37374479700,
+                "preferredName": "B.K. Holmer",
+                "firstName": "B.K.",
+                "lastName": "Holmer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192740",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717449",
+        "articleTitle": "Data relocation and prefetching for programs with large data sets",
+        "volume": null,
+        "issue": null,
+        "startPage": "118",
+        "endPage": "127",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Data relocation and prefetching for programs with large data sets",
+        "authors": [
+            {
+                "id": 37087575193,
+                "preferredName": "Y. Yamada",
+                "firstName": "Y.",
+                "lastName": "Yamada"
+            },
+            {
+                "id": 37087574752,
+                "preferredName": "J. Gyllenhall",
+                "firstName": "J.",
+                "lastName": "Gyllenhall"
+            },
+            {
+                "id": 37374459800,
+                "preferredName": "G. Haab",
+                "firstName": "G.",
+                "lastName": "Haab"
+            },
+            {
+                "id": 37087414428,
+                "preferredName": "Wen-Mei Hwu",
+                "firstName": null,
+                "lastName": "Wen-Mei Hwu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192745",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717453",
+        "articleTitle": "Improving resource utilization of the MIPS R8000 via post-scheduling global instruction distribution",
+        "volume": null,
+        "issue": null,
+        "startPage": "148",
+        "endPage": "152",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Improving resource utilization of the MIPS R8000 via post-scheduling global instruction distribution",
+        "authors": [
+            {
+                "id": 37087828446,
+                "preferredName": "R. Lo",
+                "firstName": "R.",
+                "lastName": "Lo"
+            },
+            {
+                "id": 37087827404,
+                "preferredName": "Sun Chan",
+                "firstName": null,
+                "lastName": "Sun Chan"
+            },
+            {
+                "id": 37087829428,
+                "preferredName": "F. Chow",
+                "firstName": "F.",
+                "lastName": "Chow"
+            },
+            {
+                "id": 37087724446,
+                "preferredName": "Shin-Ming Liu",
+                "firstName": null,
+                "lastName": "Shin-Ming Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1145/192724.192747",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717454",
+        "articleTitle": "A comparison of two pipeline organizations",
+        "volume": null,
+        "issue": null,
+        "startPage": "153",
+        "endPage": "161",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "A comparison of two pipeline organizations",
+        "authors": [
+            {
+                "id": 37087403198,
+                "preferredName": "M. Golden",
+                "firstName": "M.",
+                "lastName": "Golden"
+            },
+            {
+                "id": 37267150400,
+                "preferredName": "T. Mudge",
+                "firstName": "T.",
+                "lastName": "Mudge"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717463",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717463",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "233",
+        "endPage": "233",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "5811",
+        "doi": "10.1109/MICRO.1994.717396",
+        "publicationYear": "1994",
+        "publicationDate": "30 Nov.-2 Dec. 1994",
+        "articleNumber": "717396",
+        "articleTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "0_1",
+        "endPage": null,
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "highlightedTitle": "Proceedings of MICRO-27. The 27th Annual IEEE/ACM International Symposium on Microarchitecture",
+        "authors": []
+    }
+]

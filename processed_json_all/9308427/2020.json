@@ -1,0 +1,446 @@
+[
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308656",
+        "articleTitle": "Scalable MPI Collectives using SHARP: Large Scale Performance Evaluation on the TACC Frontera System",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Scalable MPI Collectives using SHARP: Large Scale Performance Evaluation on the TACC Frontera System",
+        "authors": [
+            {
+                "id": 37087235805,
+                "preferredName": "Bharath Ramesh",
+                "firstName": "Bharath",
+                "lastName": "Ramesh"
+            },
+            {
+                "id": 37088449808,
+                "preferredName": "Kaushik Kandadi Suresh",
+                "firstName": "Kaushik Kandadi",
+                "lastName": "Suresh"
+            },
+            {
+                "id": 37087880158,
+                "preferredName": "Nick Sarkauskas",
+                "firstName": "Nick",
+                "lastName": "Sarkauskas"
+            },
+            {
+                "id": 37086073858,
+                "preferredName": "Mohammadreza Bayatpour",
+                "firstName": "Mohammadreza",
+                "lastName": "Bayatpour"
+            },
+            {
+                "id": 37086027960,
+                "preferredName": "Jahanzeb Maqbool Hashmi",
+                "firstName": "Jahanzeb Maqbool",
+                "lastName": "Hashmi"
+            },
+            {
+                "id": 37393051700,
+                "preferredName": "Hari Subramoni",
+                "firstName": "Hari",
+                "lastName": "Subramoni"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K. Panda",
+                "firstName": "Dhabaleswar K.",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308653",
+        "articleTitle": "Challenges of GPU-aware Communication in MPI",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Challenges of GPU-aware Communication in MPI",
+        "authors": [
+            {
+                "id": 37085489882,
+                "preferredName": "Nathan Hanford",
+                "firstName": "Nathan",
+                "lastName": "Hanford"
+            },
+            {
+                "id": 37087866520,
+                "preferredName": "Ramesh Pankajakshan",
+                "firstName": "Ramesh",
+                "lastName": "Pankajakshan"
+            },
+            {
+                "id": 37931771100,
+                "preferredName": "Edgar A. Le\u00f3n",
+                "firstName": "Edgar A.",
+                "lastName": "Le\u00f3n"
+            },
+            {
+                "id": 38574057100,
+                "preferredName": "Ian Karlin",
+                "firstName": "Ian",
+                "lastName": "Karlin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308657",
+        "articleTitle": "Design and Implementation Techniques for an MPI-Oriented AMT Runtime",
+        "volume": null,
+        "issue": null,
+        "startPage": "31",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Design and Implementation Techniques for an MPI-Oriented AMT Runtime",
+        "authors": [
+            {
+                "id": 37858181700,
+                "preferredName": "Jonathan Lifflander",
+                "firstName": "Jonathan",
+                "lastName": "Lifflander"
+            },
+            {
+                "id": 37893253100,
+                "preferredName": "Phil Miller",
+                "firstName": "Phil",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37085481998,
+                "preferredName": "Nicole Lemaster Slattengren",
+                "firstName": "Nicole Lemaster",
+                "lastName": "Slattengren"
+            },
+            {
+                "id": 37088748576,
+                "preferredName": "Nicolas Morales",
+                "firstName": "Nicolas",
+                "lastName": "Morales"
+            },
+            {
+                "id": 37088757296,
+                "preferredName": "Paul Stickney",
+                "firstName": "Paul",
+                "lastName": "Stickney"
+            },
+            {
+                "id": 37297733900,
+                "preferredName": "Philippe P. P\u00e9ba\u00ff",
+                "firstName": "Philippe P.",
+                "lastName": "P\u00e9ba\u00ff"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308655",
+        "articleTitle": "Integrating Inter-Node Communication with a Resilient Asynchronous Many-Task Runtime System",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Integrating Inter-Node Communication with a Resilient Asynchronous Many-Task Runtime System",
+        "authors": [
+            {
+                "id": 37086637514,
+                "preferredName": "Sri Raj Paul",
+                "firstName": "Sri Raj",
+                "lastName": "Paul"
+            },
+            {
+                "id": 37085639188,
+                "preferredName": "Akihiro Hayashi",
+                "firstName": "Akihiro",
+                "lastName": "Hayashi"
+            },
+            {
+                "id": 37089149121,
+                "preferredName": "Matthew Whitlock",
+                "firstName": "Matthew",
+                "lastName": "Whitlock"
+            },
+            {
+                "id": 37086419078,
+                "preferredName": "Seonmyeong Bak",
+                "firstName": "Seonmyeong",
+                "lastName": "Bak"
+            },
+            {
+                "id": 37085501347,
+                "preferredName": "Keita Teranishi",
+                "firstName": "Keita",
+                "lastName": "Teranishi"
+            },
+            {
+                "id": 37410072900,
+                "preferredName": "Jackson Mayo",
+                "firstName": "Jackson",
+                "lastName": "Mayo"
+            },
+            {
+                "id": 37072316300,
+                "preferredName": "Max Grossman",
+                "firstName": "Max",
+                "lastName": "Grossman"
+            },
+            {
+                "id": 37389286300,
+                "preferredName": "Vivek Sarkar",
+                "firstName": "Vivek",
+                "lastName": "Sarkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308652",
+        "articleTitle": "Extending the MPI Stages Model of Fault Tolerance",
+        "volume": null,
+        "issue": null,
+        "startPage": "52",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Extending the MPI Stages Model of Fault Tolerance",
+        "authors": [
+            {
+                "id": 37087887447,
+                "preferredName": "Derek Schafer",
+                "firstName": "Derek",
+                "lastName": "Schafer"
+            },
+            {
+                "id": 37540800800,
+                "preferredName": "Ignacio Laguna",
+                "firstName": "Ignacio",
+                "lastName": "Laguna"
+            },
+            {
+                "id": 37347707700,
+                "preferredName": "Anthony Skjellum",
+                "firstName": "Anthony",
+                "lastName": "Skjellum"
+            },
+            {
+                "id": 37088748043,
+                "preferredName": "Nawrin Sultana",
+                "firstName": "Nawrin",
+                "lastName": "Sultana"
+            },
+            {
+                "id": 37422444700,
+                "preferredName": "Kathryn Mohror",
+                "firstName": "Kathryn",
+                "lastName": "Mohror"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308654",
+        "articleTitle": "Implementing Flexible Threading Support in Open MPI",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "30",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Implementing Flexible Threading Support in Open MPI",
+        "authors": [
+            {
+                "id": 37086616330,
+                "preferredName": "Noah Evans",
+                "firstName": "Noah",
+                "lastName": "Evans"
+            },
+            {
+                "id": 37072396800,
+                "preferredName": "Jan Ciesko",
+                "firstName": "Jan",
+                "lastName": "Ciesko"
+            },
+            {
+                "id": 37687622800,
+                "preferredName": "Stephen L. Olivier",
+                "firstName": "Stephen L.",
+                "lastName": "Olivier"
+            },
+            {
+                "id": 37085651113,
+                "preferredName": "Howard Pritchard",
+                "firstName": "Howard",
+                "lastName": "Pritchard"
+            },
+            {
+                "id": 37086127524,
+                "preferredName": "Shintaro Iwasaki",
+                "firstName": "Shintaro",
+                "lastName": "Iwasaki"
+            },
+            {
+                "id": 37085359307,
+                "preferredName": "Ken Raffenetti",
+                "firstName": "Ken",
+                "lastName": "Raffenetti"
+            },
+            {
+                "id": 37297588700,
+                "preferredName": "Pavan Balaji",
+                "firstName": "Pavan",
+                "lastName": "Balaji"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308125",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308127",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308651",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308649",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308650",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "63",
+        "endPage": "63",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9308427",
+        "doi": "10.1109/ExaMPI52011.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9308648",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 Workshop on Exascale MPI (ExaMPI)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    }
+]

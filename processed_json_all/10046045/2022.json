@@ -1,0 +1,5189 @@
+[
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00051",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046087",
+        "articleTitle": "DeepSpeed- Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "DeepSpeed- Inference: Enabling Efficient Inference of Transformer Models at Unprecedented Scale",
+        "authors": [
+            {
+                "id": 37085806219,
+                "preferredName": "Reza Yazdani Aminabadi",
+                "firstName": "Reza Yazdani",
+                "lastName": "Aminabadi"
+            },
+            {
+                "id": 37085413675,
+                "preferredName": "Samyam Rajbhandari",
+                "firstName": "Samyam",
+                "lastName": "Rajbhandari"
+            },
+            {
+                "id": 37073634800,
+                "preferredName": "Ammar Ahmad Awan",
+                "firstName": "Ammar Ahmad",
+                "lastName": "Awan"
+            },
+            {
+                "id": 37089741661,
+                "preferredName": "Cheng Li",
+                "firstName": "Cheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089742122,
+                "preferredName": "Du Li",
+                "firstName": "Du",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089742468,
+                "preferredName": "Elton Zheng",
+                "firstName": "Elton",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 38093148400,
+                "preferredName": "Olatunji Ruwase",
+                "firstName": "Olatunji",
+                "lastName": "Ruwase"
+            },
+            {
+                "id": 37085354595,
+                "preferredName": "Shaden Smith",
+                "firstName": "Shaden",
+                "lastName": "Smith"
+            },
+            {
+                "id": 37088846752,
+                "preferredName": "Minjia Zhang",
+                "firstName": "Minjia",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085639658,
+                "preferredName": "Jeff Rasley",
+                "firstName": "Jeff",
+                "lastName": "Rasley"
+            },
+            {
+                "id": 38467877800,
+                "preferredName": "Yuxiong He",
+                "firstName": "Yuxiong",
+                "lastName": "He"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00008",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046112",
+        "articleTitle": "Pushing the Frontier in the Design of Laser-Based Electron Accelerators with Groundbreaking Mesh-Refined Particle-In-Cell Simulations on Exascale-Class Supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Pushing the Frontier in the Design of Laser-Based Electron Accelerators with Groundbreaking Mesh-Refined Particle-In-Cell Simulations on Exascale-Class Supercomputers",
+        "authors": [
+            {
+                "id": 37089740485,
+                "preferredName": "Luca Fedeli",
+                "firstName": "Luca",
+                "lastName": "Fedeli"
+            },
+            {
+                "id": 37085577778,
+                "preferredName": "Axel Huebl",
+                "firstName": "Axel",
+                "lastName": "Huebl"
+            },
+            {
+                "id": 37089741867,
+                "preferredName": "France Boillod-Cerneux",
+                "firstName": "France",
+                "lastName": "Boillod-Cerneux"
+            },
+            {
+                "id": 37089742600,
+                "preferredName": "Thomas Clark",
+                "firstName": "Thomas",
+                "lastName": "Clark"
+            },
+            {
+                "id": 37088364449,
+                "preferredName": "Kevin Gott",
+                "firstName": "Kevin",
+                "lastName": "Gott"
+            },
+            {
+                "id": 37089742014,
+                "preferredName": "Conrad Hillairet",
+                "firstName": "Conrad",
+                "lastName": "Hillairet"
+            },
+            {
+                "id": 37089740626,
+                "preferredName": "Stephan Jaure",
+                "firstName": "Stephan",
+                "lastName": "Jaure"
+            },
+            {
+                "id": 37086870810,
+                "preferredName": "Adrien Leblanc",
+                "firstName": "Adrien",
+                "lastName": "Leblanc"
+            },
+            {
+                "id": 37085427137,
+                "preferredName": "R\u00e9mi Lehe",
+                "firstName": "R\u00e9mi",
+                "lastName": "Lehe"
+            },
+            {
+                "id": 37088737849,
+                "preferredName": "Andrew Myers",
+                "firstName": "Andrew",
+                "lastName": "Myers"
+            },
+            {
+                "id": 37089742257,
+                "preferredName": "Christelle Piechurski",
+                "firstName": "Christelle",
+                "lastName": "Piechurski"
+            },
+            {
+                "id": 37276051500,
+                "preferredName": "Mitsuhisa Sato",
+                "firstName": "Mitsuhisa",
+                "lastName": "Sato"
+            },
+            {
+                "id": 37089743433,
+                "preferredName": "Ne\u00efl Zaim",
+                "firstName": "Ne\u00efl",
+                "lastName": "Zaim"
+            },
+            {
+                "id": 37086129177,
+                "preferredName": "Weiqun Zhang",
+                "firstName": "Weiqun",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37267917700,
+                "preferredName": "Jean-Luc Vay",
+                "firstName": "Jean-Luc",
+                "lastName": "Vay"
+            },
+            {
+                "id": 38489462800,
+                "preferredName": "Henri Vincenti",
+                "firstName": "Henri",
+                "lastName": "Vincenti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00071",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046119",
+        "articleTitle": "AlphaSparse: Generating High Performance SpMV Codes Directly from Sparse Matrices",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "AlphaSparse: Generating High Performance SpMV Codes Directly from Sparse Matrices",
+        "authors": [
+            {
+                "id": 37089742471,
+                "preferredName": "Zhen Du",
+                "firstName": "Zhen",
+                "lastName": "Du"
+            },
+            {
+                "id": 37086040108,
+                "preferredName": "Jiajia Li",
+                "firstName": "Jiajia",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088834404,
+                "preferredName": "Yinshan Wang",
+                "firstName": "Yinshan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086174397,
+                "preferredName": "Xueqi Li",
+                "firstName": "Xueqi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37552741100,
+                "preferredName": "Guangming Tan",
+                "firstName": "Guangming",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37287666000,
+                "preferredName": "Ninghui Sun",
+                "firstName": "Ninghui",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00067",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046076",
+        "articleTitle": "Dynamic Quality Metric Oriented Error Bounded Lossy Compression for Scientific Datasets",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Dynamic Quality Metric Oriented Error Bounded Lossy Compression for Scientific Datasets",
+        "authors": [
+            {
+                "id": 37088990006,
+                "preferredName": "Jinyang Liu",
+                "firstName": "Jinyang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37681686900,
+                "preferredName": "Sheng Di",
+                "firstName": "Sheng",
+                "lastName": "Di"
+            },
+            {
+                "id": 37087812667,
+                "preferredName": "Kai Zhao",
+                "firstName": "Kai",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085659880,
+                "preferredName": "Xin Liang",
+                "firstName": "Xin",
+                "lastName": "Liang"
+            },
+            {
+                "id": 37404309300,
+                "preferredName": "Zizhong Chen",
+                "firstName": "Zizhong",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00019",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046049",
+        "articleTitle": "Large-Scale Simulation of Quantum Computational Chemistry on a New Sunway Supercomputer",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Large-Scale Simulation of Quantum Computational Chemistry on a New Sunway Supercomputer",
+        "authors": [
+            {
+                "id": 37089197736,
+                "preferredName": "Honghui Shang",
+                "firstName": "Honghui",
+                "lastName": "Shang"
+            },
+            {
+                "id": 37089741104,
+                "preferredName": "Li Shen",
+                "firstName": "Li",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37089740563,
+                "preferredName": "Yi Fan",
+                "firstName": "Yi",
+                "lastName": "Fan"
+            },
+            {
+                "id": 37089524359,
+                "preferredName": "Zhiqian Xu",
+                "firstName": "Zhiqian",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37089567954,
+                "preferredName": "Chu Guo",
+                "firstName": "Chu",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37089741484,
+                "preferredName": "Jie Liu",
+                "firstName": "Jie",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37089741174,
+                "preferredName": "Wenhao Zhou",
+                "firstName": "Wenhao",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37089742272,
+                "preferredName": "Huan Ma",
+                "firstName": "Huan",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37089409276,
+                "preferredName": "Rongfen Lin",
+                "firstName": "Rongfen",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086553228,
+                "preferredName": "Yuling Yang",
+                "firstName": "Yuling",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37089198173,
+                "preferredName": "Fang Li",
+                "firstName": "Fang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089742105,
+                "preferredName": "Zhuoya Wang",
+                "firstName": "Zhuoya",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37440738900,
+                "preferredName": "Yunquan Zhang",
+                "firstName": "Yunquan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089742085,
+                "preferredName": "Zhenyu Li",
+                "firstName": "Zhenyu",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00043",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046070",
+        "articleTitle": "LightSeq2: Accelerated Training for Transformer-Based Models on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "LightSeq2: Accelerated Training for Transformer-Based Models on GPUs",
+        "authors": [
+            {
+                "id": 37089743492,
+                "preferredName": "Xiaohui Wang",
+                "firstName": "Xiaohui",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089743168,
+                "preferredName": "Yang Wei",
+                "firstName": "Yang",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37089742488,
+                "preferredName": "Ying Xiong",
+                "firstName": "Ying",
+                "lastName": "Xiong"
+            },
+            {
+                "id": 37088770320,
+                "preferredName": "Guyue Huang",
+                "firstName": "Guyue",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37089742639,
+                "preferredName": "Xian Qian",
+                "firstName": "Xian",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37086859727,
+                "preferredName": "Yufei Ding",
+                "firstName": "Yufei",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37089469796,
+                "preferredName": "Mingxuan Wang",
+                "firstName": "Mingxuan",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089740738,
+                "preferredName": "Lei Li",
+                "firstName": "Lei",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00007",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046053",
+        "articleTitle": "Reshaping Geostatistical Modeling and Prediction for Extreme-Scale Environmental Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Reshaping Geostatistical Modeling and Prediction for Extreme-Scale Environmental Applications",
+        "authors": [
+            {
+                "id": 37087414283,
+                "preferredName": "Qinglei Cao",
+                "firstName": "Qinglei",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37086509019,
+                "preferredName": "Sameh Abdulah",
+                "firstName": "Sameh",
+                "lastName": "Abdulah"
+            },
+            {
+                "id": 37088407458,
+                "preferredName": "Rabab Alomairy",
+                "firstName": "Rabab",
+                "lastName": "Alomairy"
+            },
+            {
+                "id": 37086183013,
+                "preferredName": "Yu Pei",
+                "firstName": "Yu",
+                "lastName": "Pei"
+            },
+            {
+                "id": 37089742966,
+                "preferredName": "Pratik Nag",
+                "firstName": "Pratik",
+                "lastName": "Nag"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            },
+            {
+                "id": 37085838587,
+                "preferredName": "Marc G. Genton",
+                "firstName": "Marc G.",
+                "lastName": "Genton"
+            },
+            {
+                "id": 37085353204,
+                "preferredName": "David E. Keyes",
+                "firstName": "David E.",
+                "lastName": "Keyes"
+            },
+            {
+                "id": 37392859400,
+                "preferredName": "Hatem Ltaief",
+                "firstName": "Hatem",
+                "lastName": "Ltaief"
+            },
+            {
+                "id": 37085649161,
+                "preferredName": "Ying Sun",
+                "firstName": "Ying",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00041",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046104",
+        "articleTitle": "SPATL: Salient Parameter Aggregation and Transfer Learning for Heterogeneous Federated Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "SPATL: Salient Parameter Aggregation and Transfer Learning for Heterogeneous Federated Learning",
+        "authors": [
+            {
+                "id": 37089319863,
+                "preferredName": "Sixing Yu",
+                "firstName": "Sixing",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37089268223,
+                "preferredName": "Phuong Nguyen",
+                "firstName": "Phuong",
+                "lastName": "Nguyen"
+            },
+            {
+                "id": 37089743491,
+                "preferredName": "Waqwoya Abebe",
+                "firstName": "Waqwoya",
+                "lastName": "Abebe"
+            },
+            {
+                "id": 37089675348,
+                "preferredName": "Wei Qian",
+                "firstName": "Wei",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37085385315,
+                "preferredName": "Ali Anwar",
+                "firstName": "Ali",
+                "lastName": "Anwar"
+            },
+            {
+                "id": 37392790500,
+                "preferredName": "Ali Jannesari",
+                "firstName": "Ali",
+                "lastName": "Jannesari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00022",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046091",
+        "articleTitle": "Mitigating Silent Data Corruptions in HPC Applications across Multiple Program Inputs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Mitigating Silent Data Corruptions in HPC Applications across Multiple Program Inputs",
+        "authors": [
+            {
+                "id": 37089742266,
+                "preferredName": "Yafan Huang",
+                "firstName": "Yafan",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085498777,
+                "preferredName": "Shengjian Guo",
+                "firstName": "Shengjian",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37681686900,
+                "preferredName": "Sheng Di",
+                "firstName": "Sheng",
+                "lastName": "Di"
+            },
+            {
+                "id": 37085462885,
+                "preferredName": "Guanpeng Li",
+                "firstName": "Guanpeng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00058",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046078",
+        "articleTitle": "STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimizations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "STMatch: Accelerating Graph Pattern Matching on GPU with Stack-Based Loop Optimizations",
+        "authors": [
+            {
+                "id": 37089743169,
+                "preferredName": "Yihua Wei",
+                "firstName": "Yihua",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37085854368,
+                "preferredName": "Peng Jiang",
+                "firstName": "Peng",
+                "lastName": "Jiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00042",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046057",
+        "articleTitle": "Efficient Quantized Sparse Matrix Operations on Tensor Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Efficient Quantized Sparse Matrix Operations on Tensor Cores",
+        "authors": [
+            {
+                "id": 37087886959,
+                "preferredName": "Shigang Li",
+                "firstName": "Shigang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086128649,
+                "preferredName": "Kazuki Osawa",
+                "firstName": "Kazuki",
+                "lastName": "Osawa"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00010",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046132",
+        "articleTitle": "2.5 Million-Atom Ab Initio Electronic-Structure Simulation of Complex Metallic Heterostructures with DGDFT",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "2.5 Million-Atom Ab Initio Electronic-Structure Simulation of Complex Metallic Heterostructures with DGDFT",
+        "authors": [
+            {
+                "id": 37088849582,
+                "preferredName": "Wei Hu",
+                "firstName": "Wei",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37531229100,
+                "preferredName": "Hong An",
+                "firstName": "Hong",
+                "lastName": "An"
+            },
+            {
+                "id": 37089743410,
+                "preferredName": "Zhuoqiang Guo",
+                "firstName": "Zhuoqiang",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37088351238,
+                "preferredName": "Qingcai Jiang",
+                "firstName": "Qingcai",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37089740734,
+                "preferredName": "Xinming Qin",
+                "firstName": "Xinming",
+                "lastName": "Qin"
+            },
+            {
+                "id": 37085408109,
+                "preferredName": "Junshi Chen",
+                "firstName": "Junshi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088765801,
+                "preferredName": "Weile Jia",
+                "firstName": "Weile",
+                "lastName": "Jia"
+            },
+            {
+                "id": 38195229900,
+                "preferredName": "Chao Yang",
+                "firstName": "Chao",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37089742237,
+                "preferredName": "Zhaolong Luo",
+                "firstName": "Zhaolong",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37089741687,
+                "preferredName": "Jielan Li",
+                "firstName": "Jielan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089741874,
+                "preferredName": "Wentiao Wu",
+                "firstName": "Wentiao",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37552741100,
+                "preferredName": "Guangming Tan",
+                "firstName": "Guangming",
+                "lastName": "Tan"
+            },
+            {
+                "id": 37411378400,
+                "preferredName": "Dongning Jia",
+                "firstName": "Dongning",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37089742641,
+                "preferredName": "Qinglin Lu",
+                "firstName": "Qinglin",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37085427896,
+                "preferredName": "Fangfang Liu",
+                "firstName": "Fangfang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37089741962,
+                "preferredName": "Min Tian",
+                "firstName": "Min",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37089198173,
+                "preferredName": "Fang Li",
+                "firstName": "Fang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089570576,
+                "preferredName": "Yeqi Huang",
+                "firstName": "Yeqi",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37089742404,
+                "preferredName": "Liyi Wang",
+                "firstName": "Liyi",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089742579,
+                "preferredName": "Sha Liu",
+                "firstName": "Sha",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37089742810,
+                "preferredName": "Jinlong Yang",
+                "firstName": "Jinlong",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00086",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046113",
+        "articleTitle": "ReSemble: Reinforced Ensemble Framework for Data Prefetching",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "ReSemble: Reinforced Ensemble Framework for Data Prefetching",
+        "authors": [
+            {
+                "id": 37089584451,
+                "preferredName": "Pengmiao Zhang",
+                "firstName": "Pengmiao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085991386,
+                "preferredName": "Rajgopal Kannan",
+                "firstName": "Rajgopal",
+                "lastName": "Kannan"
+            },
+            {
+                "id": 37085469114,
+                "preferredName": "Ajitesh Srivastava",
+                "firstName": "Ajitesh",
+                "lastName": "Srivastava"
+            },
+            {
+                "id": 37086460452,
+                "preferredName": "Anant V. Nori",
+                "firstName": "Anant V.",
+                "lastName": "Nori"
+            },
+            {
+                "id": 37273497500,
+                "preferredName": "Viktor K. Prasanna",
+                "firstName": "Viktor K.",
+                "lastName": "Prasanna"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00027",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046081",
+        "articleTitle": "DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "DayDream: Executing Dynamic Scientific Workflows on Serverless Platforms with Hot Starts",
+        "authors": [
+            {
+                "id": 37088769977,
+                "preferredName": "Rohan Basu Roy",
+                "firstName": "Rohan Basu",
+                "lastName": "Roy"
+            },
+            {
+                "id": 37086427329,
+                "preferredName": "Tirthak Patel",
+                "firstName": "Tirthak",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37393039700,
+                "preferredName": "Devesh Tiwari",
+                "firstName": "Devesh",
+                "lastName": "Tiwari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00026",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046135",
+        "articleTitle": "SERVIZ: A Shared In Situ Visualization Service",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "SERVIZ: A Shared In Situ Visualization Service",
+        "authors": [
+            {
+                "id": 37086336151,
+                "preferredName": "Srinivasan Ramesh",
+                "firstName": "Srinivasan",
+                "lastName": "Ramesh"
+            },
+            {
+                "id": 37411882800,
+                "preferredName": "Hank Childs",
+                "firstName": "Hank",
+                "lastName": "Childs"
+            },
+            {
+                "id": 37281865600,
+                "preferredName": "Allen Malony",
+                "firstName": "Allen",
+                "lastName": "Malony"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00076",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046110",
+        "articleTitle": "STRONGHOLD: Fast and Affordable Billion-Scale Deep Learning Model Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "STRONGHOLD: Fast and Affordable Billion-Scale Deep Learning Model Training",
+        "authors": [
+            {
+                "id": 37086428388,
+                "preferredName": "Xiaoyang Sun",
+                "firstName": "Xiaoyang",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37089775900,
+                "preferredName": "Wei Wang",
+                "firstName": "Wei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089562958,
+                "preferredName": "Shenghao Qiu",
+                "firstName": "Shenghao",
+                "lastName": "Qiu"
+            },
+            {
+                "id": 37085357871,
+                "preferredName": "Renyu Yang",
+                "firstName": "Renyu",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37088995335,
+                "preferredName": "Songfang Huang",
+                "firstName": "Songfang",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37279197400,
+                "preferredName": "Jie Xu",
+                "firstName": "Jie",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37085482719,
+                "preferredName": "Zheng Wang",
+                "firstName": "Zheng",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00074",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046047",
+        "articleTitle": "QoS-Aware Irregular Collaborative Inference for Improving Throughput of DNN Services",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "QoS-Aware Irregular Collaborative Inference for Improving Throughput of DNN Services",
+        "authors": [
+            {
+                "id": 37088901666,
+                "preferredName": "Kaihua Fu",
+                "firstName": "Kaihua",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37089451405,
+                "preferredName": "Jiuchen Shi",
+                "firstName": "Jiuchen",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37086610806,
+                "preferredName": "Quan Chen",
+                "firstName": "Quan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086618576,
+                "preferredName": "Ningxin Zheng",
+                "firstName": "Ningxin",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37089092603,
+                "preferredName": "Wei Zhang",
+                "firstName": "Wei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37648157100,
+                "preferredName": "Deze Zeng",
+                "firstName": "Deze",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37274181400,
+                "preferredName": "Minyi Guo",
+                "firstName": "Minyi",
+                "lastName": "Guo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00066",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046061",
+        "articleTitle": "Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Accelerating Parallel Write via Deeply Integrating Predictive Lossy Compression with HDF5",
+        "authors": [
+            {
+                "id": 37088441139,
+                "preferredName": "Sian Jin",
+                "firstName": "Sian",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37086033499,
+                "preferredName": "Dingwen Tao",
+                "firstName": "Dingwen",
+                "lastName": "Tao"
+            },
+            {
+                "id": 37086194920,
+                "preferredName": "Houjun Tang",
+                "firstName": "Houjun",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37681686900,
+                "preferredName": "Sheng Di",
+                "firstName": "Sheng",
+                "lastName": "Di"
+            },
+            {
+                "id": 37085862825,
+                "preferredName": "Suren Byna",
+                "firstName": "Suren",
+                "lastName": "Byna"
+            },
+            {
+                "id": 37410117200,
+                "preferredName": "Zarija Lukic",
+                "firstName": "Zarija",
+                "lastName": "Lukic"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00050",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046059",
+        "articleTitle": "GraphFly: Efficient Asynchronous Streaming Graphs Processing via Dependency-Flow",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "GraphFly: Efficient Asynchronous Streaming Graphs Processing via Dependency-Flow",
+        "authors": [
+            {
+                "id": 37089451454,
+                "preferredName": "Dan Chen",
+                "firstName": "Dan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086837448,
+                "preferredName": "Chuangyi Gui",
+                "firstName": "Chuangyi",
+                "lastName": "Gui"
+            },
+            {
+                "id": 37089743548,
+                "preferredName": "Yi Zhang",
+                "firstName": "Yi",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37276607900,
+                "preferredName": "Hai Jin",
+                "firstName": "Hai",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37535311300,
+                "preferredName": "Long Zheng",
+                "firstName": "Long",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37086837189,
+                "preferredName": "Yu Huang",
+                "firstName": "Yu",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37269559200,
+                "preferredName": "Xiaofei Liao",
+                "firstName": "Xiaofei",
+                "lastName": "Liao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00088",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046069",
+        "articleTitle": "Scalable Linear Time Dense Direct Solver for 3-D Problems without Trailing Sub-Matrix Dependencies",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Linear Time Dense Direct Solver for 3-D Problems without Trailing Sub-Matrix Dependencies",
+        "authors": [
+            {
+                "id": 37089741255,
+                "preferredName": "Qianxiang Ma",
+                "firstName": "Qianxiang",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37089742025,
+                "preferredName": "Sameer Deshmukh",
+                "firstName": "Sameer",
+                "lastName": "Deshmukh"
+            },
+            {
+                "id": 38235438300,
+                "preferredName": "Rio Yokota",
+                "firstName": "Rio",
+                "lastName": "Yokota"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00065",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046093",
+        "articleTitle": "Scalable Automatic Differentiation of Multiple Parallel Paradigms through Compiler Augmentation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Automatic Differentiation of Multiple Parallel Paradigms through Compiler Augmentation",
+        "authors": [
+            {
+                "id": 37086859712,
+                "preferredName": "William S. Moses",
+                "firstName": "William S.",
+                "lastName": "Moses"
+            },
+            {
+                "id": 37089570216,
+                "preferredName": "Sri Hari Krishna Narayanan",
+                "firstName": "Sri Hari Krishna",
+                "lastName": "Narayanan"
+            },
+            {
+                "id": 37089569791,
+                "preferredName": "Ludger Paehler",
+                "firstName": "Ludger",
+                "lastName": "Paehler"
+            },
+            {
+                "id": 37088826757,
+                "preferredName": "Valentin Churavy",
+                "firstName": "Valentin",
+                "lastName": "Churavy"
+            },
+            {
+                "id": 37086445742,
+                "preferredName": "Michel Schanen",
+                "firstName": "Michel",
+                "lastName": "Schanen"
+            },
+            {
+                "id": 37086922146,
+                "preferredName": "Jan H\u00fcckelheim",
+                "firstName": "Jan",
+                "lastName": "H\u00fcckelheim"
+            },
+            {
+                "id": 37085525769,
+                "preferredName": "Johannes Doerfert",
+                "firstName": "Johannes",
+                "lastName": "Doerfert"
+            },
+            {
+                "id": 37295410600,
+                "preferredName": "Paul Hovland",
+                "firstName": "Paul",
+                "lastName": "Hovland"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00046",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046074",
+        "articleTitle": "Canary: Fault-Tolerant FaaS for Stateful Time-Sensitive Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Canary: Fault-Tolerant FaaS for Stateful Time-Sensitive Applications",
+        "authors": [
+            {
+                "id": 37088591190,
+                "preferredName": "Moiz Arif",
+                "firstName": "Moiz",
+                "lastName": "Arif"
+            },
+            {
+                "id": 37089453924,
+                "preferredName": "Kevin Assogba",
+                "firstName": "Kevin",
+                "lastName": "Assogba"
+            },
+            {
+                "id": 37579488000,
+                "preferredName": "M. Mustafa Rafique",
+                "firstName": "M. Mustafa",
+                "lastName": "Rafique"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00017",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046084",
+        "articleTitle": "PolarFly: A Cost-Effective and Flexible Low-Diameter Topology",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "PolarFly: A Cost-Effective and Flexible Low-Diameter Topology",
+        "authors": [
+            {
+                "id": 37085854586,
+                "preferredName": "Kartik Lakhotia",
+                "firstName": "Kartik",
+                "lastName": "Lakhotia"
+            },
+            {
+                "id": 37085416719,
+                "preferredName": "Maciej Besta",
+                "firstName": "Maciej",
+                "lastName": "Besta"
+            },
+            {
+                "id": 37930840900,
+                "preferredName": "Laura Monroe",
+                "firstName": "Laura",
+                "lastName": "Monroe"
+            },
+            {
+                "id": 37089743084,
+                "preferredName": "Kelly Isham",
+                "firstName": "Kelly",
+                "lastName": "Isham"
+            },
+            {
+                "id": 37089743068,
+                "preferredName": "Patrick Iff",
+                "firstName": "Patrick",
+                "lastName": "Iff"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            },
+            {
+                "id": 37271662700,
+                "preferredName": "Fabrizio Petrini",
+                "firstName": "Fabrizio",
+                "lastName": "Petrini"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00057",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046118",
+        "articleTitle": "VSGM: View-Based GPU-Accelerated Subgraph Matching on Large Graphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "VSGM: View-Based GPU-Accelerated Subgraph Matching on Large Graphs",
+        "authors": [
+            {
+                "id": 37088865868,
+                "preferredName": "Guanxian Jiang",
+                "firstName": "Guanxian",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37089740681,
+                "preferredName": "Qihui Zhou",
+                "firstName": "Qihui",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37089741764,
+                "preferredName": "Tatiana Jin",
+                "firstName": "Tatiana",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37089742531,
+                "preferredName": "Boyang Li",
+                "firstName": "Boyang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085998609,
+                "preferredName": "Yunjian Zhao",
+                "firstName": "Yunjian",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37089742095,
+                "preferredName": "Yichao Li",
+                "firstName": "Yichao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37070326900,
+                "preferredName": "James Cheng",
+                "firstName": "James",
+                "lastName": "Cheng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00044",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046055",
+        "articleTitle": "CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "CoGNN: Efficient Scheduling for Concurrent GNN Training on GPUs",
+        "authors": [
+            {
+                "id": 37087083980,
+                "preferredName": "Qingxiao Sun",
+                "firstName": "Qingxiao",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37292040700,
+                "preferredName": "Yi Liu",
+                "firstName": "Yi",
+                "lastName": "Liu"
+            },
+            {
+                "id": 38239064700,
+                "preferredName": "Hailong Yang",
+                "firstName": "Hailong",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37089740843,
+                "preferredName": "Ruizhe Zhang",
+                "firstName": "Ruizhe",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37087029566,
+                "preferredName": "Ming Dun",
+                "firstName": "Ming",
+                "lastName": "Dun"
+            },
+            {
+                "id": 37086616973,
+                "preferredName": "Mingzhen Li",
+                "firstName": "Mingzhen",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088542798,
+                "preferredName": "Xiaoyan Liu",
+                "firstName": "Xiaoyan",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086809124,
+                "preferredName": "Wencong Xiao",
+                "firstName": "Wencong",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37089742071,
+                "preferredName": "Yong Li",
+                "firstName": "Yong",
+                "lastName": "Li"
+            },
+            {
+                "id": 37303834600,
+                "preferredName": "Zhongzhi Luan",
+                "firstName": "Zhongzhi",
+                "lastName": "Luan"
+            },
+            {
+                "id": 37289498500,
+                "preferredName": "Depei Qian",
+                "firstName": "Depei",
+                "lastName": "Qian"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00070",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046096",
+        "articleTitle": "Not All GPUs Are Created Equal: Characterizing Variability in Large-Scale, Accelerator-Rich Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "01",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Not All GPUs Are Created Equal: Characterizing Variability in Large-Scale, Accelerator-Rich Systems",
+        "authors": [
+            {
+                "id": 37089742110,
+                "preferredName": "Prasoon Sinha",
+                "firstName": "Prasoon",
+                "lastName": "Sinha"
+            },
+            {
+                "id": 37086080634,
+                "preferredName": "Akhil Guliani",
+                "firstName": "Akhil",
+                "lastName": "Guliani"
+            },
+            {
+                "id": 37089742348,
+                "preferredName": "Rutwik Jain",
+                "firstName": "Rutwik",
+                "lastName": "Jain"
+            },
+            {
+                "id": 37089742052,
+                "preferredName": "Brandon Tran",
+                "firstName": "Brandon",
+                "lastName": "Tran"
+            },
+            {
+                "id": 37085667828,
+                "preferredName": "Matthew D. Sinclair",
+                "firstName": "Matthew D.",
+                "lastName": "Sinclair"
+            },
+            {
+                "id": 37623097600,
+                "preferredName": "Shivaram Venkataraman",
+                "firstName": "Shivaram",
+                "lastName": "Venkataraman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00053",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046063",
+        "articleTitle": "AI for Quantum Mechanics: High Performance Quantum Many-Body Simulations via Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "AI for Quantum Mechanics: High Performance Quantum Many-Body Simulations via Deep Learning",
+        "authors": [
+            {
+                "id": 37089408901,
+                "preferredName": "Xuncheng Zhao",
+                "firstName": "Xuncheng",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37087030506,
+                "preferredName": "Mingfan Li",
+                "firstName": "Mingfan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089408618,
+                "preferredName": "Qian Xiao",
+                "firstName": "Qian",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37085408109,
+                "preferredName": "Junshi Chen",
+                "firstName": "Junshi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088726881,
+                "preferredName": "Fei Wang",
+                "firstName": "Fei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089741104,
+                "preferredName": "Li Shen",
+                "firstName": "Li",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37089742098,
+                "preferredName": "Meijia Zhao",
+                "firstName": "Meijia",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37089741885,
+                "preferredName": "Wenhao Wu",
+                "firstName": "Wenhao",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37531229100,
+                "preferredName": "Hong An",
+                "firstName": "Hong",
+                "lastName": "An"
+            },
+            {
+                "id": 37086511473,
+                "preferredName": "Lixin He",
+                "firstName": "Lixin",
+                "lastName": "He"
+            },
+            {
+                "id": 37089408609,
+                "preferredName": "Xiao Liang",
+                "firstName": "Xiao",
+                "lastName": "Liang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00078",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046105",
+        "articleTitle": "Productive Performance Engineering for Weather and Climate Modeling with Python",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Productive Performance Engineering for Weather and Climate Modeling with Python",
+        "authors": [
+            {
+                "id": 38277650300,
+                "preferredName": "Tal Ben-Nun",
+                "firstName": "Tal",
+                "lastName": "Ben-Nun"
+            },
+            {
+                "id": 37089740858,
+                "preferredName": "Linus Groner",
+                "firstName": "Linus",
+                "lastName": "Groner"
+            },
+            {
+                "id": 37089741660,
+                "preferredName": "Florian Deconinck",
+                "firstName": "Florian",
+                "lastName": "Deconinck"
+            },
+            {
+                "id": 37086107516,
+                "preferredName": "Tobias Wicky",
+                "firstName": "Tobias",
+                "lastName": "Wicky"
+            },
+            {
+                "id": 37089741225,
+                "preferredName": "Eddie Davis",
+                "firstName": "Eddie",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37089742717,
+                "preferredName": "Johann Dahm",
+                "firstName": "Johann",
+                "lastName": "Dahm"
+            },
+            {
+                "id": 37089741877,
+                "preferredName": "Oliver D. Elbert",
+                "firstName": "Oliver D.",
+                "lastName": "Elbert"
+            },
+            {
+                "id": 37089740684,
+                "preferredName": "Rhea George",
+                "firstName": "Rhea",
+                "lastName": "George"
+            },
+            {
+                "id": 37089743081,
+                "preferredName": "Jeremy McGibbon",
+                "firstName": "Jeremy",
+                "lastName": "McGibbon"
+            },
+            {
+                "id": 37089205917,
+                "preferredName": "Lukas Tr\u00fcmper",
+                "firstName": "Lukas",
+                "lastName": "Tr\u00fcmper"
+            },
+            {
+                "id": 37089742630,
+                "preferredName": "Elynn Wu",
+                "firstName": "Elynn",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37085493439,
+                "preferredName": "Oliver Fuhrer",
+                "firstName": "Oliver",
+                "lastName": "Fuhrer"
+            },
+            {
+                "id": 37266438300,
+                "preferredName": "Thomas Schulthess",
+                "firstName": "Thomas",
+                "lastName": "Schulthess"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00075",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046052",
+        "articleTitle": "EL-Rec: Efficient Large-Scale Recommendation Model Training via Tensor-Train Embedding Table",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "EL-Rec: Efficient Large-Scale Recommendation Model Training via Tensor-Train Embedding Table",
+        "authors": [
+            {
+                "id": 37089776913,
+                "preferredName": "Zheng Wang",
+                "firstName": "Zheng",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088904516,
+                "preferredName": "Yuke Wang",
+                "firstName": "Yuke",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086859715,
+                "preferredName": "Boyuan Feng",
+                "firstName": "Boyuan",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37946902200,
+                "preferredName": "Dheevatsa Mudigere",
+                "firstName": "Dheevatsa",
+                "lastName": "Mudigere"
+            },
+            {
+                "id": 37089742317,
+                "preferredName": "Bharath Muthiah",
+                "firstName": "Bharath",
+                "lastName": "Muthiah"
+            },
+            {
+                "id": 37086859727,
+                "preferredName": "Yufei Ding",
+                "firstName": "Yufei",
+                "lastName": "Ding"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00077",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046125",
+        "articleTitle": "HGL: Accelerating Heterogeneous GNN Training with Holistic Representation and Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "HGL: Accelerating Heterogeneous GNN Training with Holistic Representation and Optimization",
+        "authors": [
+            {
+                "id": 37089743226,
+                "preferredName": "Yuntao Gui",
+                "firstName": "Yuntao",
+                "lastName": "Gui"
+            },
+            {
+                "id": 37088865864,
+                "preferredName": "Yidi Wu",
+                "firstName": "Yidi",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37088969997,
+                "preferredName": "Han Yang",
+                "firstName": "Han",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37089741764,
+                "preferredName": "Tatiana Jin",
+                "firstName": "Tatiana",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37089742531,
+                "preferredName": "Boyang Li",
+                "firstName": "Boyang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089740681,
+                "preferredName": "Qihui Zhou",
+                "firstName": "Qihui",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37070326900,
+                "preferredName": "James Cheng",
+                "firstName": "James",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37088853351,
+                "preferredName": "Fan Yu",
+                "firstName": "Fan",
+                "lastName": "Yu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00081",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046095",
+        "articleTitle": "From Correctable Memory Errors to Uncorrectable Memory Errors: What Error Bits Tell",
+        "volume": null,
+        "issue": null,
+        "startPage": "01",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "From Correctable Memory Errors to Uncorrectable Memory Errors: What Error Bits Tell",
+        "authors": [
+            {
+                "id": 37085783063,
+                "preferredName": "Cong Li",
+                "firstName": "Cong",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089743543,
+                "preferredName": "Yu Zhang",
+                "firstName": "Yu",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089742652,
+                "preferredName": "Jialei Wang",
+                "firstName": "Jialei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089742925,
+                "preferredName": "Hang Chen",
+                "firstName": "Hang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089201600,
+                "preferredName": "Xian Liu",
+                "firstName": "Xian",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086096814,
+                "preferredName": "Tai Huang",
+                "firstName": "Tai",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37089741066,
+                "preferredName": "Liang Peng",
+                "firstName": "Liang",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37088539094,
+                "preferredName": "Shen Zhou",
+                "firstName": "Shen",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37089742315,
+                "preferredName": "Lixin Wang",
+                "firstName": "Lixin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089201296,
+                "preferredName": "Shijian Ge",
+                "firstName": "Shijian",
+                "lastName": "Ge"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00047",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046062",
+        "articleTitle": "SFS: Smart OS Scheduling for Serverless Functions",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "SFS: Smart OS Scheduling for Serverless Functions",
+        "authors": [
+            {
+                "id": 37088200268,
+                "preferredName": "Yuqi Fu",
+                "firstName": "Yuqi",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37089741674,
+                "preferredName": "Li Liu",
+                "firstName": "Li",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37087242157,
+                "preferredName": "Haoliang Wang",
+                "firstName": "Haoliang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089742982,
+                "preferredName": "Yue Cheng",
+                "firstName": "Yue",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37277600800,
+                "preferredName": "Songqing Chen",
+                "firstName": "Songqing",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00020",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046102",
+        "articleTitle": "Charter: Identifying the Most-Critical Gate Operations in Quantum Circuits via Amplified Gate Reversibility",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Charter: Identifying the Most-Critical Gate Operations in Quantum Circuits via Amplified Gate Reversibility",
+        "authors": [
+            {
+                "id": 37086427329,
+                "preferredName": "Tirthak Patel",
+                "firstName": "Tirthak",
+                "lastName": "Patel"
+            },
+            {
+                "id": 37089385998,
+                "preferredName": "Daniel Silver",
+                "firstName": "Daniel",
+                "lastName": "Silver"
+            },
+            {
+                "id": 37393039700,
+                "preferredName": "Devesh Tiwari",
+                "firstName": "Devesh",
+                "lastName": "Tiwari"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00016",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046066",
+        "articleTitle": "HammingMesh: A Network Topology for Large-Scale Deep Learning",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "HammingMesh: A Network Topology for Large-Scale Deep Learning",
+        "authors": [
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            },
+            {
+                "id": 37089742862,
+                "preferredName": "Tommaso Bonato",
+                "firstName": "Tommaso",
+                "lastName": "Bonato"
+            },
+            {
+                "id": 37085507038,
+                "preferredName": "Daniele De Sensi",
+                "firstName": "Daniele",
+                "lastName": "De Sensi"
+            },
+            {
+                "id": 37085698439,
+                "preferredName": "Salvatore Di Girolamo",
+                "firstName": "Salvatore",
+                "lastName": "Di Girolamo"
+            },
+            {
+                "id": 37087886959,
+                "preferredName": "Shigang Li",
+                "firstName": "Shigang",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089740863,
+                "preferredName": "Marco Heddes",
+                "firstName": "Marco",
+                "lastName": "Heddes"
+            },
+            {
+                "id": 37089743156,
+                "preferredName": "Jon Belk",
+                "firstName": "Jon",
+                "lastName": "Belk"
+            },
+            {
+                "id": 37089740751,
+                "preferredName": "Deepak Goel",
+                "firstName": "Deepak",
+                "lastName": "Goel"
+            },
+            {
+                "id": 37275770800,
+                "preferredName": "Miguel Castro",
+                "firstName": "Miguel",
+                "lastName": "Castro"
+            },
+            {
+                "id": 37321846300,
+                "preferredName": "Steve Scott",
+                "firstName": "Steve",
+                "lastName": "Scott"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00083",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046068",
+        "articleTitle": "Climbing the Summit and Pushing the Frontier of Mixed Precision Benchmarks at Extreme Scale",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Climbing the Summit and Pushing the Frontier of Mixed Precision Benchmarks at Extreme Scale",
+        "authors": [
+            {
+                "id": 37085367192,
+                "preferredName": "Hao Lu",
+                "firstName": "Hao",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37390451700,
+                "preferredName": "Michael Matheson",
+                "firstName": "Michael",
+                "lastName": "Matheson"
+            },
+            {
+                "id": 37089565332,
+                "preferredName": "Vladyslav Oles",
+                "firstName": "Vladyslav",
+                "lastName": "Oles"
+            },
+            {
+                "id": 37089742331,
+                "preferredName": "Austin Ellis",
+                "firstName": "Austin",
+                "lastName": "Ellis"
+            },
+            {
+                "id": 38468494400,
+                "preferredName": "Wayne Joubert",
+                "firstName": "Wayne",
+                "lastName": "Joubert"
+            },
+            {
+                "id": 37713911900,
+                "preferredName": "Feiyi Wang",
+                "firstName": "Feiyi",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00014",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046108",
+        "articleTitle": "P-Massive: A Real-Time Search Engine for a Multi-Terabyte Mass Spectrometry Database",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "P-Massive: A Real-Time Search Engine for a Multi-Terabyte Mass Spectrometry Database",
+        "authors": [
+            {
+                "id": 37086118077,
+                "preferredName": "Narangerelt Batsoyol",
+                "firstName": "Narangerelt",
+                "lastName": "Batsoyol"
+            },
+            {
+                "id": 37089741662,
+                "preferredName": "Benjamin Pullman",
+                "firstName": "Benjamin",
+                "lastName": "Pullman"
+            },
+            {
+                "id": 37089743388,
+                "preferredName": "Mingxun Wang",
+                "firstName": "Mingxun",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089743481,
+                "preferredName": "Nuno Bandeira",
+                "firstName": "Nuno",
+                "lastName": "Bandeira"
+            },
+            {
+                "id": 37407859800,
+                "preferredName": "Steven Swanson",
+                "firstName": "Steven",
+                "lastName": "Swanson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00035",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046080",
+        "articleTitle": "Scalable Distributed High-Order Stencil Computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Distributed High-Order Stencil Computations",
+        "authors": [
+            {
+                "id": 37393029300,
+                "preferredName": "Mathias Jacquelin",
+                "firstName": "Mathias",
+                "lastName": "Jacquelin"
+            },
+            {
+                "id": 38276439300,
+                "preferredName": "Mauricio Araya\u2013Polo",
+                "firstName": "Mauricio",
+                "lastName": "Araya\u2013Polo"
+            },
+            {
+                "id": 37088634337,
+                "preferredName": "Jie Meng",
+                "firstName": "Jie",
+                "lastName": "Meng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00023",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046120",
+        "articleTitle": "Optimizing Random Access to Hierarchically-Compressed Data on GPU",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Optimizing Random Access to Hierarchically-Compressed Data on GPU",
+        "authors": [
+            {
+                "id": 37085640484,
+                "preferredName": "Feng Zhang",
+                "firstName": "Feng",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37089741034,
+                "preferredName": "Yihua Hu",
+                "firstName": "Yihua",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37089741593,
+                "preferredName": "Haipeng Ding",
+                "firstName": "Haipeng",
+                "lastName": "Ding"
+            },
+            {
+                "id": 37089742276,
+                "preferredName": "Zhiming Yao",
+                "firstName": "Zhiming",
+                "lastName": "Yao"
+            },
+            {
+                "id": 37085650197,
+                "preferredName": "Zhewei Wei",
+                "firstName": "Zhewei",
+                "lastName": "Wei"
+            },
+            {
+                "id": 37695225100,
+                "preferredName": "Xiao Zhang",
+                "firstName": "Xiao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37292289900,
+                "preferredName": "Xiaoyong Du",
+                "firstName": "Xiaoyong",
+                "lastName": "Du"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00034",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046122",
+        "articleTitle": "Symmetric Block-Cyclic Distribution: Fewer Communications Leads to Faster Dense Cholesky Factorization",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Symmetric Block-Cyclic Distribution: Fewer Communications Leads to Faster Dense Cholesky Factorization",
+        "authors": [
+            {
+                "id": 37283855200,
+                "preferredName": "Olivier Beaumont",
+                "firstName": "Olivier",
+                "lastName": "Beaumont"
+            },
+            {
+                "id": 37888014300,
+                "preferredName": "Philippe Duchon",
+                "firstName": "Philippe",
+                "lastName": "Duchon"
+            },
+            {
+                "id": 38270332900,
+                "preferredName": "Lionel Eyraud-Dubois",
+                "firstName": "Lionel",
+                "lastName": "Eyraud-Dubois"
+            },
+            {
+                "id": 37392794200,
+                "preferredName": "Julien Langou",
+                "firstName": "Julien",
+                "lastName": "Langou"
+            },
+            {
+                "id": 37088849176,
+                "preferredName": "Mathieu V\u00e9rit\u00e9",
+                "firstName": "Mathieu",
+                "lastName": "V\u00e9rit\u00e9"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00072",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10045786",
+        "articleTitle": "Approximate Computing Through the Lens of Uncertainty Quantification",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Approximate Computing Through the Lens of Uncertainty Quantification",
+        "authors": [
+            {
+                "id": 37085389324,
+                "preferredName": "Konstantinos Parasyris",
+                "firstName": "Konstantinos",
+                "lastName": "Parasyris"
+            },
+            {
+                "id": 37089384842,
+                "preferredName": "James Diffenderfer",
+                "firstName": "James",
+                "lastName": "Diffenderfer"
+            },
+            {
+                "id": 38491565300,
+                "preferredName": "Harshitha Menon",
+                "firstName": "Harshitha",
+                "lastName": "Menon"
+            },
+            {
+                "id": 37540800800,
+                "preferredName": "Ignacio Laguna",
+                "firstName": "Ignacio",
+                "lastName": "Laguna"
+            },
+            {
+                "id": 37089742560,
+                "preferredName": "Jackson Vanover",
+                "firstName": "Jackson",
+                "lastName": "Vanover"
+            },
+            {
+                "id": 37089742290,
+                "preferredName": "Ryan Vogt",
+                "firstName": "Ryan",
+                "lastName": "Vogt"
+            },
+            {
+                "id": 38356588900,
+                "preferredName": "Daniel Osei-Kuffuor",
+                "firstName": "Daniel",
+                "lastName": "Osei-Kuffuor"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00031",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046092",
+        "articleTitle": "Addressing Irregular Patterns of Matrix Computations on GPUs and Their Impact on Applications Powered by Sparse Direct Solvers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Addressing Irregular Patterns of Matrix Computations on GPUs and Their Impact on Applications Powered by Sparse Direct Solvers",
+        "authors": [
+            {
+                "id": 37085354347,
+                "preferredName": "Ahmad Abdelfattah",
+                "firstName": "Ahmad",
+                "lastName": "Abdelfattah"
+            },
+            {
+                "id": 37086113185,
+                "preferredName": "Pieter Ghysels",
+                "firstName": "Pieter",
+                "lastName": "Ghysels"
+            },
+            {
+                "id": 37089742991,
+                "preferredName": "Wajih Boukaram",
+                "firstName": "Wajih",
+                "lastName": "Boukaram"
+            },
+            {
+                "id": 37401700800,
+                "preferredName": "Stanimire Tomov",
+                "firstName": "Stanimire",
+                "lastName": "Tomov"
+            },
+            {
+                "id": 38185093000,
+                "preferredName": "Xiaoye Sherry Li",
+                "firstName": "Xiaoye Sherry",
+                "lastName": "Li"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00025",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046126",
+        "articleTitle": "Study of Workload Interference with Intelligent Routing on Dragonfly",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Study of Workload Interference with Intelligent Routing on Dragonfly",
+        "authors": [
+            {
+                "id": 37088441090,
+                "preferredName": "Yao Kang",
+                "firstName": "Yao",
+                "lastName": "Kang"
+            },
+            {
+                "id": 37085631006,
+                "preferredName": "Xin Wang",
+                "firstName": "Xin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37314459500,
+                "preferredName": "Zhiling Lan",
+                "firstName": "Zhiling",
+                "lastName": "Lan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00089",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046094",
+        "articleTitle": "Solving Linear Systems on a GPU with Hierarchically Off-Diagonal Low-Rank Approximations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Solving Linear Systems on a GPU with Hierarchically Off-Diagonal Low-Rank Approximations",
+        "authors": [
+            {
+                "id": 37089742129,
+                "preferredName": "Chao Chen",
+                "firstName": "Chao",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085891380,
+                "preferredName": "Per-Gunnar Martinsson",
+                "firstName": "Per-Gunnar",
+                "lastName": "Martinsson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00056",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046101",
+        "articleTitle": "Parla: A Python Orchestration System for Heterogeneous Architectures",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Parla: A Python Orchestration System for Heterogeneous Architectures",
+        "authors": [
+            {
+                "id": 37088639669,
+                "preferredName": "Hochan Lee",
+                "firstName": "Hochan",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37089742941,
+                "preferredName": "William Ruys",
+                "firstName": "William",
+                "lastName": "Ruys"
+            },
+            {
+                "id": 37089741554,
+                "preferredName": "Ian Henriksen",
+                "firstName": "Ian",
+                "lastName": "Henriksen"
+            },
+            {
+                "id": 37088497394,
+                "preferredName": "Arthur Peters",
+                "firstName": "Arthur",
+                "lastName": "Peters"
+            },
+            {
+                "id": 37089740832,
+                "preferredName": "Yineng Yan",
+                "firstName": "Yineng",
+                "lastName": "Yan"
+            },
+            {
+                "id": 37089743177,
+                "preferredName": "Sean Stephens",
+                "firstName": "Sean",
+                "lastName": "Stephens"
+            },
+            {
+                "id": 37089741632,
+                "preferredName": "Bozhi You",
+                "firstName": "Bozhi",
+                "lastName": "You"
+            },
+            {
+                "id": 37087117208,
+                "preferredName": "Henrique Fingler",
+                "firstName": "Henrique",
+                "lastName": "Fingler"
+            },
+            {
+                "id": 37297364200,
+                "preferredName": "Martin Burtscher",
+                "firstName": "Martin",
+                "lastName": "Burtscher"
+            },
+            {
+                "id": 37391512700,
+                "preferredName": "Milos Gligoric",
+                "firstName": "Milos",
+                "lastName": "Gligoric"
+            },
+            {
+                "id": 37949372100,
+                "preferredName": "Karl Schulz",
+                "firstName": "Karl",
+                "lastName": "Schulz"
+            },
+            {
+                "id": 37326529000,
+                "preferredName": "Keshav Pingali",
+                "firstName": "Keshav",
+                "lastName": "Pingali"
+            },
+            {
+                "id": 37418352200,
+                "preferredName": "Christopher J. Rossbach",
+                "firstName": "Christopher J.",
+                "lastName": "Rossbach"
+            },
+            {
+                "id": 37318863100,
+                "preferredName": "Mattan Erez",
+                "firstName": "Mattan",
+                "lastName": "Erez"
+            },
+            {
+                "id": 37392746800,
+                "preferredName": "George Biros",
+                "firstName": "George",
+                "lastName": "Biros"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00087",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046109",
+        "articleTitle": "W-Cycle SVD: A Multilevel Algorithm for Batched SVD on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "W-Cycle SVD: A Multilevel Algorithm for Batched SVD on GPUs",
+        "authors": [
+            {
+                "id": 37088352414,
+                "preferredName": "Junmin Xiao",
+                "firstName": "Junmin",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37089742128,
+                "preferredName": "Yunfei Pang",
+                "firstName": "Yunfei",
+                "lastName": "Pang"
+            },
+            {
+                "id": 37089741231,
+                "preferredName": "Qing Xue",
+                "firstName": "Qing",
+                "lastName": "Xue"
+            },
+            {
+                "id": 37088831689,
+                "preferredName": "Chaoyang Shui",
+                "firstName": "Chaoyang",
+                "lastName": "Shui"
+            },
+            {
+                "id": 37089741856,
+                "preferredName": "Ke Meng",
+                "firstName": "Ke",
+                "lastName": "Meng"
+            },
+            {
+                "id": 37089742269,
+                "preferredName": "Hui Ma",
+                "firstName": "Hui",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37089743223,
+                "preferredName": "Mingyi Li",
+                "firstName": "Mingyi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088349922,
+                "preferredName": "Xiaoyang Zhang",
+                "firstName": "Xiaoyang",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37552741100,
+                "preferredName": "Guangming Tan",
+                "firstName": "Guangming",
+                "lastName": "Tan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00079",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046048",
+        "articleTitle": "Optimization of Full-Core Reactor Simulations on Summit",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Optimization of Full-Core Reactor Simulations on Summit",
+        "authors": [
+            {
+                "id": 37413606500,
+                "preferredName": "Misun Min",
+                "firstName": "Misun",
+                "lastName": "Min"
+            },
+            {
+                "id": 37089740864,
+                "preferredName": "Yu-Hsiang Lan",
+                "firstName": "Yu-Hsiang",
+                "lastName": "Lan"
+            },
+            {
+                "id": 37089578825,
+                "preferredName": "Paul Fischer",
+                "firstName": "Paul",
+                "lastName": "Fischer"
+            },
+            {
+                "id": 37089741650,
+                "preferredName": "Elia Merzari",
+                "firstName": "Elia",
+                "lastName": "Merzari"
+            },
+            {
+                "id": 37089741636,
+                "preferredName": "Stefan Kerkemeier",
+                "firstName": "Stefan",
+                "lastName": "Kerkemeier"
+            },
+            {
+                "id": 37089742605,
+                "preferredName": "Malachi Phillips",
+                "firstName": "Malachi",
+                "lastName": "Phillips"
+            },
+            {
+                "id": 37089578356,
+                "preferredName": "Thilina Rathnayake",
+                "firstName": "Thilina",
+                "lastName": "Rathnayake"
+            },
+            {
+                "id": 37089743245,
+                "preferredName": "April Novak",
+                "firstName": "April",
+                "lastName": "Novak"
+            },
+            {
+                "id": 37086615878,
+                "preferredName": "Derek Gaston",
+                "firstName": "Derek",
+                "lastName": "Gaston"
+            },
+            {
+                "id": 37088345621,
+                "preferredName": "Noel Chalmers",
+                "firstName": "Noel",
+                "lastName": "Chalmers"
+            },
+            {
+                "id": 37089742179,
+                "preferredName": "Tim Warburton",
+                "firstName": "Tim",
+                "lastName": "Warburton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00061",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046054",
+        "articleTitle": "MetaWBC: POSIX-Compliant Metadata Write-Back Caching for Distributed File Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "MetaWBC: POSIX-Compliant Metadata Write-Back Caching for Distributed File Systems",
+        "authors": [
+            {
+                "id": 37071421100,
+                "preferredName": "Yingjin Qian",
+                "firstName": "Yingjin",
+                "lastName": "Qian"
+            },
+            {
+                "id": 37089645085,
+                "preferredName": "Wen Cheng",
+                "firstName": "Wen",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37288108000,
+                "preferredName": "Lingfang Zeng",
+                "firstName": "Lingfang",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37086152404,
+                "preferredName": "Marc-Andr\u00e9 Vef",
+                "firstName": "Marc-Andr\u00e9",
+                "lastName": "Vef"
+            },
+            {
+                "id": 37572979700,
+                "preferredName": "Oleg Drokin",
+                "firstName": "Oleg",
+                "lastName": "Drokin"
+            },
+            {
+                "id": 38581293200,
+                "preferredName": "Andreas Dilger",
+                "firstName": "Andreas",
+                "lastName": "Dilger"
+            },
+            {
+                "id": 37089579474,
+                "preferredName": "Shuichi Ihara",
+                "firstName": "Shuichi",
+                "lastName": "Ihara"
+            },
+            {
+                "id": 37087814709,
+                "preferredName": "Wusheng Zhang",
+                "firstName": "Wusheng",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085443121,
+                "preferredName": "Yang Wang",
+                "firstName": "Yang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37299903000,
+                "preferredName": "Andr\u00e9 Brinkmann",
+                "firstName": "Andr\u00e9",
+                "lastName": "Brinkmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00059",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046129",
+        "articleTitle": "WholeGraph: A Fast Graph Neural Network Training Framework with Multi-GPU Distributed Shared Memory Architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "WholeGraph: A Fast Graph Neural Network Training Framework with Multi-GPU Distributed Shared Memory Architecture",
+        "authors": [
+            {
+                "id": 37088704017,
+                "preferredName": "Dongxu Yang",
+                "firstName": "Dongxu",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37088704746,
+                "preferredName": "Junhong Liu",
+                "firstName": "Junhong",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37089743147,
+                "preferredName": "Jiaxing Qi",
+                "firstName": "Jiaxing",
+                "lastName": "Qi"
+            },
+            {
+                "id": 37087934457,
+                "preferredName": "Junjie Lai",
+                "firstName": "Junjie",
+                "lastName": "Lai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00015",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046100",
+        "articleTitle": "Building Blocks for Network-Accelerated Distributed File Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Building Blocks for Network-Accelerated Distributed File Systems",
+        "authors": [
+            {
+                "id": 37085698439,
+                "preferredName": "Salvatore Di Girolamo",
+                "firstName": "Salvatore",
+                "lastName": "Di Girolamo"
+            },
+            {
+                "id": 37085507038,
+                "preferredName": "Daniele De Sensi",
+                "firstName": "Daniele",
+                "lastName": "De Sensi"
+            },
+            {
+                "id": 37089385802,
+                "preferredName": "Konstantin Taranov",
+                "firstName": "Konstantin",
+                "lastName": "Taranov"
+            },
+            {
+                "id": 37089742393,
+                "preferredName": "Milos Malesevic",
+                "firstName": "Milos",
+                "lastName": "Malesevic"
+            },
+            {
+                "id": 37085416719,
+                "preferredName": "Maciej Besta",
+                "firstName": "Maciej",
+                "lastName": "Besta"
+            },
+            {
+                "id": 37571699300,
+                "preferredName": "Timo Schneider",
+                "firstName": "Timo",
+                "lastName": "Schneider"
+            },
+            {
+                "id": 37089742590,
+                "preferredName": "Severin Kistler",
+                "firstName": "Severin",
+                "lastName": "Kistler"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00012",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046114",
+        "articleTitle": "Scaling Correlated Fragment Molecular Orbital Calculations on Summit",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scaling Correlated Fragment Molecular Orbital Calculations on Summit",
+        "authors": [
+            {
+                "id": 37088759018,
+                "preferredName": "Giuseppe M. J. Barca",
+                "firstName": "Giuseppe M. J.",
+                "lastName": "Barca"
+            },
+            {
+                "id": 37089742629,
+                "preferredName": "Calum Snowdon",
+                "firstName": "Calum",
+                "lastName": "Snowdon"
+            },
+            {
+                "id": 37088759079,
+                "preferredName": "Jorge L. Galvez Vallejo",
+                "firstName": "Jorge L. Galvez",
+                "lastName": "Vallejo"
+            },
+            {
+                "id": 37089741635,
+                "preferredName": "Fazeleh Kazemian",
+                "firstName": "Fazeleh",
+                "lastName": "Kazemian"
+            },
+            {
+                "id": 37391882800,
+                "preferredName": "Alistair P. Rendell",
+                "firstName": "Alistair P.",
+                "lastName": "Rendell"
+            },
+            {
+                "id": 37394198800,
+                "preferredName": "Mark S. Gordon",
+                "firstName": "Mark S.",
+                "lastName": "Gordon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00060",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046124",
+        "articleTitle": "SeqDLM: A Sequencer-Based Distributed Lock Manager for Efficient Shared File Access in a Parallel File System",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "SeqDLM: A Sequencer-Based Distributed Lock Manager for Efficient Shared File Access in a Parallel File System",
+        "authors": [
+            {
+                "id": 37089743414,
+                "preferredName": "Qi Chen",
+                "firstName": "Qi",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088990034,
+                "preferredName": "Shaonan Ma",
+                "firstName": "Shaonan",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37654882700,
+                "preferredName": "Kang Chen",
+                "firstName": "Kang",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086858599,
+                "preferredName": "Teng Ma",
+                "firstName": "Teng",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37088569370,
+                "preferredName": "Xin Liu",
+                "firstName": "Xin",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085999095,
+                "preferredName": "Dexun Chen",
+                "firstName": "Dexun",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37281230000,
+                "preferredName": "Yongwei Wu",
+                "firstName": "Yongwei",
+                "lastName": "Wu"
+            },
+            {
+                "id": 37089741808,
+                "preferredName": "Zuoning Chen",
+                "firstName": "Zuoning",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00063",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046130",
+        "articleTitle": "AD for an Array Language with Nested Parallelism",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "AD for an Array Language with Nested Parallelism",
+        "authors": [
+            {
+                "id": 37089580160,
+                "preferredName": "Robert Schenck",
+                "firstName": "Robert",
+                "lastName": "Schenck"
+            },
+            {
+                "id": 37089035101,
+                "preferredName": "Ola R\u03d5nning",
+                "firstName": "Ola",
+                "lastName": "R\u03d5nning"
+            },
+            {
+                "id": 37088409791,
+                "preferredName": "Troels Henriksen",
+                "firstName": "Troels",
+                "lastName": "Henriksen"
+            },
+            {
+                "id": 37706606200,
+                "preferredName": "Cosmin E. Oancea",
+                "firstName": "Cosmin E.",
+                "lastName": "Oancea"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00082",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046065",
+        "articleTitle": "Lessons Learned on MPI+Threads Communication",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Lessons Learned on MPI+Threads Communication",
+        "authors": [
+            {
+                "id": 37086106952,
+                "preferredName": "Rohit Zambre",
+                "firstName": "Rohit",
+                "lastName": "Zambre"
+            },
+            {
+                "id": 37392807900,
+                "preferredName": "Aparna Chandramowlishwaran",
+                "firstName": "Aparna",
+                "lastName": "Chandramowlishwaran"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00029",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046103",
+        "articleTitle": "Towards Scalable Resource Management for Supercomputers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Towards Scalable Resource Management for Supercomputers",
+        "authors": [
+            {
+                "id": 37089453041,
+                "preferredName": "Yiqin Dai",
+                "firstName": "Yiqin",
+                "lastName": "Dai"
+            },
+            {
+                "id": 37654954800,
+                "preferredName": "Yong Dong",
+                "firstName": "Yong",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37595582100,
+                "preferredName": "Kai Lu",
+                "firstName": "Kai",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37676869500,
+                "preferredName": "Ruibo Wang",
+                "firstName": "Ruibo",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088243174,
+                "preferredName": "Wei Zhang",
+                "firstName": "Wei",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37600055800,
+                "preferredName": "Juan Chen",
+                "firstName": "Juan",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089217502,
+                "preferredName": "Mingtian Shao",
+                "firstName": "Mingtian",
+                "lastName": "Shao"
+            },
+            {
+                "id": 37085482719,
+                "preferredName": "Zheng Wang",
+                "firstName": "Zheng",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00030",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046073",
+        "articleTitle": "Deinsum: Practically I/O Optimal Multi-Linear Algebra",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Deinsum: Practically I/O Optimal Multi-Linear Algebra",
+        "authors": [
+            {
+                "id": 37086962557,
+                "preferredName": "Alexandros Nikolaos Ziogas",
+                "firstName": "Alexandros Nikolaos",
+                "lastName": "Ziogas"
+            },
+            {
+                "id": 37085661906,
+                "preferredName": "Grzegorz Kwasniewski",
+                "firstName": "Grzegorz",
+                "lastName": "Kwasniewski"
+            },
+            {
+                "id": 38277650300,
+                "preferredName": "Tal Ben-Nun",
+                "firstName": "Tal",
+                "lastName": "Ben-Nun"
+            },
+            {
+                "id": 37571699300,
+                "preferredName": "Timo Schneider",
+                "firstName": "Timo",
+                "lastName": "Schneider"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00040",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046107",
+        "articleTitle": "Using Answer Set Programming for HPC Dependency Solving",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Using Answer Set Programming for HPC Dependency Solving",
+        "authors": [
+            {
+                "id": 37892085700,
+                "preferredName": "Todd Gamblin",
+                "firstName": "Todd",
+                "lastName": "Gamblin"
+            },
+            {
+                "id": 37088590617,
+                "preferredName": "Massimiliano Culpo",
+                "firstName": "Massimiliano",
+                "lastName": "Culpo"
+            },
+            {
+                "id": 37086167416,
+                "preferredName": "Gregory Becker",
+                "firstName": "Gregory",
+                "lastName": "Becker"
+            },
+            {
+                "id": 37973607500,
+                "preferredName": "Sergei Shudler",
+                "firstName": "Sergei",
+                "lastName": "Shudler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00033",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046111",
+        "articleTitle": "CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "CA3DMM: A New Algorithm Based on a Unified View of Parallel Matrix Multiplication",
+        "authors": [
+            {
+                "id": 37086800438,
+                "preferredName": "Hua Huang",
+                "firstName": "Hua",
+                "lastName": "Huang"
+            },
+            {
+                "id": 38469062100,
+                "preferredName": "Edmond Chow",
+                "firstName": "Edmond",
+                "lastName": "Chow"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00006",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046115",
+        "articleTitle": "Extreme-Scale Many-against-Many Protein Similarity Search",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Extreme-Scale Many-against-Many Protein Similarity Search",
+        "authors": [
+            {
+                "id": 37086163150,
+                "preferredName": "Oguz Selvitopi",
+                "firstName": "Oguz",
+                "lastName": "Selvitopi"
+            },
+            {
+                "id": 37086434959,
+                "preferredName": "Saliya Ekanayake",
+                "firstName": "Saliya",
+                "lastName": "Ekanayake"
+            },
+            {
+                "id": 37085845991,
+                "preferredName": "Giulia Guidi",
+                "firstName": "Giulia",
+                "lastName": "Guidi"
+            },
+            {
+                "id": 37089215673,
+                "preferredName": "Muaaz G. Awan",
+                "firstName": "Muaaz G.",
+                "lastName": "Awan"
+            },
+            {
+                "id": 37871170400,
+                "preferredName": "Georgios A. Pavlopoulos",
+                "firstName": "Georgios A.",
+                "lastName": "Pavlopoulos"
+            },
+            {
+                "id": 38468726300,
+                "preferredName": "Ariful Azad",
+                "firstName": "Ariful",
+                "lastName": "Azad"
+            },
+            {
+                "id": 37089742000,
+                "preferredName": "Nikos Kyrpides",
+                "firstName": "Nikos",
+                "lastName": "Kyrpides"
+            },
+            {
+                "id": 37281795400,
+                "preferredName": "Leonid Oliker",
+                "firstName": "Leonid",
+                "lastName": "Oliker"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "Katherine Yelick",
+                "firstName": "Katherine",
+                "lastName": "Yelick"
+            },
+            {
+                "id": 37064569200,
+                "preferredName": "Aydin Bulu\u00e7",
+                "firstName": "Aydin",
+                "lastName": "Bulu\u00e7"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00011",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046083",
+        "articleTitle": "Exaflops Biomedical Knowledge Graph Analytics",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Exaflops Biomedical Knowledge Graph Analytics",
+        "authors": [
+            {
+                "id": 37086060810,
+                "preferredName": "Ramakrishnan Kannan",
+                "firstName": "Ramakrishnan",
+                "lastName": "Kannan"
+            },
+            {
+                "id": 37085388700,
+                "preferredName": "Piyush Sao",
+                "firstName": "Piyush",
+                "lastName": "Sao"
+            },
+            {
+                "id": 37085367192,
+                "preferredName": "Hao Lu",
+                "firstName": "Hao",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37646491900,
+                "preferredName": "Jakub Kurzak",
+                "firstName": "Jakub",
+                "lastName": "Kurzak"
+            },
+            {
+                "id": 37089741021,
+                "preferredName": "Gundolf Schenk",
+                "firstName": "Gundolf",
+                "lastName": "Schenk"
+            },
+            {
+                "id": 37089743117,
+                "preferredName": "Yongmei Shi",
+                "firstName": "Yongmei",
+                "lastName": "Shi"
+            },
+            {
+                "id": 38467884900,
+                "preferredName": "Seung\u2013Hwan Lim",
+                "firstName": "Seung\u2013Hwan",
+                "lastName": "Lim"
+            },
+            {
+                "id": 37089743288,
+                "preferredName": "Sharat Israni",
+                "firstName": "Sharat",
+                "lastName": "Israni"
+            },
+            {
+                "id": 37088768633,
+                "preferredName": "Vijay Thakkar",
+                "firstName": "Vijay",
+                "lastName": "Thakkar"
+            },
+            {
+                "id": 37089239050,
+                "preferredName": "Guojing Cong",
+                "firstName": "Guojing",
+                "lastName": "Cong"
+            },
+            {
+                "id": 37688717600,
+                "preferredName": "Robert Patton",
+                "firstName": "Robert",
+                "lastName": "Patton"
+            },
+            {
+                "id": 37089743316,
+                "preferredName": "Sergio E. Baranzini",
+                "firstName": "Sergio E.",
+                "lastName": "Baranzini"
+            },
+            {
+                "id": 37281842800,
+                "preferredName": "Richard Vuduc",
+                "firstName": "Richard",
+                "lastName": "Vuduc"
+            },
+            {
+                "id": 37373377400,
+                "preferredName": "Thomas Potok",
+                "firstName": "Thomas",
+                "lastName": "Potok"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00049",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046050",
+        "articleTitle": "Blaze: Fast Graph Processing on Fast SSDs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Blaze: Fast Graph Processing on Fast SSDs",
+        "authors": [
+            {
+                "id": 37089743273,
+                "preferredName": "Juno Kim",
+                "firstName": "Juno",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37407859800,
+                "preferredName": "Steven Swanson",
+                "firstName": "Steven",
+                "lastName": "Swanson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00036",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046117",
+        "articleTitle": "Memory Optimizations in an Array Language",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Memory Optimizations in an Array Language",
+        "authors": [
+            {
+                "id": 37089741014,
+                "preferredName": "Philip Munksgaard",
+                "firstName": "Philip",
+                "lastName": "Munksgaard"
+            },
+            {
+                "id": 37088409791,
+                "preferredName": "Troels Henriksen",
+                "firstName": "Troels",
+                "lastName": "Henriksen"
+            },
+            {
+                "id": 37269240300,
+                "preferredName": "Ponnuswamy Sadayappan",
+                "firstName": "Ponnuswamy",
+                "lastName": "Sadayappan"
+            },
+            {
+                "id": 37706606200,
+                "preferredName": "Cosmin Oancea",
+                "firstName": "Cosmin",
+                "lastName": "Oancea"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00064",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046085",
+        "articleTitle": "SpDISTAL: Compiling Distributed Sparse Tensor Computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "SpDISTAL: Compiling Distributed Sparse Tensor Computations",
+        "authors": [
+            {
+                "id": 37089740708,
+                "preferredName": "Rohan Yadav",
+                "firstName": "Rohan",
+                "lastName": "Yadav"
+            },
+            {
+                "id": 37371925700,
+                "preferredName": "Alex Aiken",
+                "firstName": "Alex",
+                "lastName": "Aiken"
+            },
+            {
+                "id": 37887695200,
+                "preferredName": "Fredrik Kjolstad",
+                "firstName": "Fredrik",
+                "lastName": "Kjolstad"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00085",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046056",
+        "articleTitle": "TD-NUCA: Runtime Driven Management of NUCA Caches in Task Dataflow Programming Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "TD-NUCA: Runtime Driven Management of NUCA Caches in Task Dataflow Programming Models",
+        "authors": [
+            {
+                "id": 37086357804,
+                "preferredName": "Paul Caheny",
+                "firstName": "Paul",
+                "lastName": "Caheny"
+            },
+            {
+                "id": 37642091100,
+                "preferredName": "Lluc Alvarez",
+                "firstName": "Lluc",
+                "lastName": "Alvarez"
+            },
+            {
+                "id": 37884459100,
+                "preferredName": "Marc Casas",
+                "firstName": "Marc",
+                "lastName": "Casas"
+            },
+            {
+                "id": 37296755700,
+                "preferredName": "Miquel Moreto",
+                "firstName": "Miquel",
+                "lastName": "Moreto"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00080",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046060",
+        "articleTitle": "A GPU-Accelerated AMR Solver for Gravitational Wave Propagation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A GPU-Accelerated AMR Solver for Gravitational Wave Propagation",
+        "authors": [
+            {
+                "id": 37886693000,
+                "preferredName": "Milinda Fernando",
+                "firstName": "Milinda",
+                "lastName": "Fernando"
+            },
+            {
+                "id": 37085670892,
+                "preferredName": "David Neilsen",
+                "firstName": "David",
+                "lastName": "Neilsen"
+            },
+            {
+                "id": 37088945102,
+                "preferredName": "Eric Hirschmann",
+                "firstName": "Eric",
+                "lastName": "Hirschmann"
+            },
+            {
+                "id": 37089742651,
+                "preferredName": "Yosef Zlochower",
+                "firstName": "Yosef",
+                "lastName": "Zlochower"
+            },
+            {
+                "id": 37547932200,
+                "preferredName": "Hari Sundar",
+                "firstName": "Hari",
+                "lastName": "Sundar"
+            },
+            {
+                "id": 37374500900,
+                "preferredName": "Omar Ghattas",
+                "firstName": "Omar",
+                "lastName": "Ghattas"
+            },
+            {
+                "id": 37392746800,
+                "preferredName": "George Biros",
+                "firstName": "George",
+                "lastName": "Biros"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00037",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046127",
+        "articleTitle": "Vectorizing Sparse Matrix Computations with Partially-Strided Codelets",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Vectorizing Sparse Matrix Computations with Partially-Strided Codelets",
+        "authors": [
+            {
+                "id": 37085541149,
+                "preferredName": "Kazem Cheshmi",
+                "firstName": "Kazem",
+                "lastName": "Cheshmi"
+            },
+            {
+                "id": 37089743137,
+                "preferredName": "Zachary Cetinic",
+                "firstName": "Zachary",
+                "lastName": "Cetinic"
+            },
+            {
+                "id": 37540686600,
+                "preferredName": "Maryam Mehri Dehnavi",
+                "firstName": "Maryam Mehri",
+                "lastName": "Dehnavi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00009",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046058",
+        "articleTitle": "Extreme Scale Earthquake Simulation with Uncertainty Quantification",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Extreme Scale Earthquake Simulation with Uncertainty Quantification",
+        "authors": [
+            {
+                "id": 37086093399,
+                "preferredName": "Tsuyoshi Ichimura",
+                "firstName": "Tsuyoshi",
+                "lastName": "Ichimura"
+            },
+            {
+                "id": 37086088859,
+                "preferredName": "Kohei Fujita",
+                "firstName": "Kohei",
+                "lastName": "Fujita"
+            },
+            {
+                "id": 37089717824,
+                "preferredName": "Ryota Kusakabe",
+                "firstName": "Ryota",
+                "lastName": "Kusakabe"
+            },
+            {
+                "id": 37088724086,
+                "preferredName": "Kentaro Koyama",
+                "firstName": "Kentaro",
+                "lastName": "Koyama"
+            },
+            {
+                "id": 37089713630,
+                "preferredName": "Sota Murakami",
+                "firstName": "Sota",
+                "lastName": "Murakami"
+            },
+            {
+                "id": 37088750443,
+                "preferredName": "Yuma Kikuchi",
+                "firstName": "Yuma",
+                "lastName": "Kikuchi"
+            },
+            {
+                "id": 37691980900,
+                "preferredName": "Takane Hori",
+                "firstName": "Takane",
+                "lastName": "Hori"
+            },
+            {
+                "id": 37086093196,
+                "preferredName": "Muneo Hori",
+                "firstName": "Muneo",
+                "lastName": "Hori"
+            },
+            {
+                "id": 37087535407,
+                "preferredName": "Hikaru Inoue",
+                "firstName": "Hikaru",
+                "lastName": "Inoue"
+            },
+            {
+                "id": 37089740606,
+                "preferredName": "Takafumi Nose",
+                "firstName": "Takafumi",
+                "lastName": "Nose"
+            },
+            {
+                "id": 37088742077,
+                "preferredName": "Takahiro Kawashima",
+                "firstName": "Takahiro",
+                "lastName": "Kawashima"
+            },
+            {
+                "id": 37088279596,
+                "preferredName": "Maddegedara Lalith",
+                "firstName": "Maddegedara",
+                "lastName": "Lalith"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00073",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046133",
+        "articleTitle": "Positive-Phase Temperature Scaling for Quantum-Assisted Boltzmann Machine Training",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Positive-Phase Temperature Scaling for Quantum-Assisted Boltzmann Machine Training",
+        "authors": [
+            {
+                "id": 37078499000,
+                "preferredName": "Jose P. Pinilla",
+                "firstName": "Jose P.",
+                "lastName": "Pinilla"
+            },
+            {
+                "id": 37265862300,
+                "preferredName": "Steven J. E. Wilton",
+                "firstName": "Steven J. E.",
+                "lastName": "Wilton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00018",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046072",
+        "articleTitle": "Combining Hard and Soft Constraints in Quantum Constraint-Satisfaction Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Combining Hard and Soft Constraints in Quantum Constraint-Satisfaction Systems",
+        "authors": [
+            {
+                "id": 37088562942,
+                "preferredName": "Ellis Wilson",
+                "firstName": "Ellis",
+                "lastName": "Wilson"
+            },
+            {
+                "id": 37268072900,
+                "preferredName": "Frank Mueller",
+                "firstName": "Frank",
+                "lastName": "Mueller"
+            },
+            {
+                "id": 37281858700,
+                "preferredName": "Scott Pakin",
+                "firstName": "Scott",
+                "lastName": "Pakin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00062",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046106",
+        "articleTitle": "GUFI: Fast, Secure File System Metadata Search for Both Privileged and Unprivileged Users",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "GUFI: Fast, Secure File System Metadata Search for Both Privileged and Unprivileged Users",
+        "authors": [
+            {
+                "id": 37088453285,
+                "preferredName": "Dominic Manno",
+                "firstName": "Dominic",
+                "lastName": "Manno"
+            },
+            {
+                "id": 37089741706,
+                "preferredName": "Jason Lee",
+                "firstName": "Jason",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37086615950,
+                "preferredName": "Prajwal Challa",
+                "firstName": "Prajwal",
+                "lastName": "Challa"
+            },
+            {
+                "id": 37085499285,
+                "preferredName": "Qing Zheng",
+                "firstName": "Qing",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37088451932,
+                "preferredName": "David Bonnie",
+                "firstName": "David",
+                "lastName": "Bonnie"
+            },
+            {
+                "id": 37595687000,
+                "preferredName": "Gary Grider",
+                "firstName": "Gary",
+                "lastName": "Grider"
+            },
+            {
+                "id": 37590976400,
+                "preferredName": "Bradley Settlemyer",
+                "firstName": "Bradley",
+                "lastName": "Settlemyer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00084",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046116",
+        "articleTitle": "Scalable Deep Learning-Based Microarchitecture Simulation on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Deep Learning-Based Microarchitecture Simulation on GPUs",
+        "authors": [
+            {
+                "id": 37086942172,
+                "preferredName": "Santosh Pandey",
+                "firstName": "Santosh",
+                "lastName": "Pandey"
+            },
+            {
+                "id": 37088766093,
+                "preferredName": "Lingda Li",
+                "firstName": "Lingda",
+                "lastName": "Li"
+            },
+            {
+                "id": 38528312200,
+                "preferredName": "Thomas Flynn",
+                "firstName": "Thomas",
+                "lastName": "Flynn"
+            },
+            {
+                "id": 37326542600,
+                "preferredName": "Adolfy Hoisie",
+                "firstName": "Adolfy",
+                "lastName": "Hoisie"
+            },
+            {
+                "id": 37087104569,
+                "preferredName": "Hang Liu",
+                "firstName": "Hang",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00039",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046051",
+        "articleTitle": "Mapping Out the HPC Dependency Chaos",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Mapping Out the HPC Dependency Chaos",
+        "authors": [
+            {
+                "id": 37089740516,
+                "preferredName": "Farid Zakaria",
+                "firstName": "Farid",
+                "lastName": "Zakaria"
+            },
+            {
+                "id": 37573407100,
+                "preferredName": "Thomas R. W. Scogland",
+                "firstName": "Thomas R. W.",
+                "lastName": "Scogland"
+            },
+            {
+                "id": 37892085700,
+                "preferredName": "Todd Gamblin",
+                "firstName": "Todd",
+                "lastName": "Gamblin"
+            },
+            {
+                "id": 37426635400,
+                "preferredName": "Carlos Maltzahn",
+                "firstName": "Carlos",
+                "lastName": "Maltzahn"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00054",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10045784",
+        "articleTitle": "UniQ: A Unified Programming Model for Efficient Quantum Circuit Simulation",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "UniQ: A Unified Programming Model for Efficient Quantum Circuit Simulation",
+        "authors": [
+            {
+                "id": 37088864263,
+                "preferredName": "Chen Zhang",
+                "firstName": "Chen",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086234527,
+                "preferredName": "Haojie Wang",
+                "firstName": "Haojie",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089743096,
+                "preferredName": "Zixuan Ma",
+                "firstName": "Zixuan",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37088766197,
+                "preferredName": "Lei Xie",
+                "firstName": "Lei",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37089275325,
+                "preferredName": "Zeyu Song",
+                "firstName": "Zeyu",
+                "lastName": "Song"
+            },
+            {
+                "id": 38242413700,
+                "preferredName": "Jidong Zhai",
+                "firstName": "Jidong",
+                "lastName": "Zhai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00045",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046086",
+        "articleTitle": "Using Unused: Non-Invasive Dynamic FaaS Infrastructure with HPC-Whisk",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Using Unused: Non-Invasive Dynamic FaaS Infrastructure with HPC-Whisk",
+        "authors": [
+            {
+                "id": 37088898206,
+                "preferredName": "Bart\u0142omiej Przybylski",
+                "firstName": "Bart\u0142omiej",
+                "lastName": "Przybylski"
+            },
+            {
+                "id": 37085781955,
+                "preferredName": "Maciej Pawlik",
+                "firstName": "Maciej",
+                "lastName": "Pawlik"
+            },
+            {
+                "id": 37088538456,
+                "preferredName": "Pawe\u0142 \u017buk",
+                "firstName": "Pawe\u0142",
+                "lastName": "\u017buk"
+            },
+            {
+                "id": 37089740857,
+                "preferredName": "Bart\u0142omiej Lagosz",
+                "firstName": "Bart\u0142omiej",
+                "lastName": "Lagosz"
+            },
+            {
+                "id": 37421618700,
+                "preferredName": "Maciej Malawski",
+                "firstName": "Maciej",
+                "lastName": "Malawski"
+            },
+            {
+                "id": 37321076300,
+                "preferredName": "Krzysztof Rzadca",
+                "firstName": "Krzysztof",
+                "lastName": "Rzadca"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00024",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046090",
+        "articleTitle": "Scaling Graph 500 SSSP to 140 Trillion Edges with over 40 Million Cores",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scaling Graph 500 SSSP to 140 Trillion Edges with over 40 Million Cores",
+        "authors": [
+            {
+                "id": 37089741686,
+                "preferredName": "Yuanwei Wang",
+                "firstName": "Yuanwei",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37088729582,
+                "preferredName": "Huanqi Cao",
+                "firstName": "Huanqi",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37089743096,
+                "preferredName": "Zixuan Ma",
+                "firstName": "Zixuan",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37086156037,
+                "preferredName": "Wanwang Yin",
+                "firstName": "Wanwang",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37279191300,
+                "preferredName": "Wenguang Chen",
+                "firstName": "Wenguang",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00092",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046088",
+        "articleTitle": "Out of Hypervisor (OoH): Efficient Dirty Page Tracking in Userspace Using Hardware Virtualization Features",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Out of Hypervisor (OoH): Efficient Dirty Page Tracking in Userspace Using Hardware Virtualization Features",
+        "authors": [
+            {
+                "id": 37089741857,
+                "preferredName": "Stella Bitchebe",
+                "firstName": "Stella",
+                "lastName": "Bitchebe"
+            },
+            {
+                "id": 37706088400,
+                "preferredName": "Alain Tchana",
+                "firstName": "Alain",
+                "lastName": "Tchana"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00090",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046134",
+        "articleTitle": "Graph Neural Networks Based Memory Inefficiency Detection Using Selective Sampling",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Graph Neural Networks Based Memory Inefficiency Detection Using Selective Sampling",
+        "authors": [
+            {
+                "id": 37085341159,
+                "preferredName": "Pengcheng Li",
+                "firstName": "Pengcheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089026863,
+                "preferredName": "Yixin Guo",
+                "firstName": "Yixin",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37533391100,
+                "preferredName": "Yingwei Luo",
+                "firstName": "Yingwei",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37540094500,
+                "preferredName": "Xiaolin Wang",
+                "firstName": "Xiaolin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37421892800,
+                "preferredName": "Zhenlin Wang",
+                "firstName": "Zhenlin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089775980,
+                "preferredName": "Xu Liu",
+                "firstName": "Xu",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00068",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046098",
+        "articleTitle": "vGraph: Memory-Efficient Multicore Graph Processing for Traversal-Centric Algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "vGraph: Memory-Efficient Multicore Graph Processing for Traversal-Centric Algorithms",
+        "authors": [
+            {
+                "id": 37089393423,
+                "preferredName": "Menghan Jia",
+                "firstName": "Menghan",
+                "lastName": "Jia"
+            },
+            {
+                "id": 37676458200,
+                "preferredName": "Yiming Zhang",
+                "firstName": "Yiming",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37655202000,
+                "preferredName": "Xinbiao Gan",
+                "firstName": "Xinbiao",
+                "lastName": "Gan"
+            },
+            {
+                "id": 37535505400,
+                "preferredName": "Dongsheng Li",
+                "firstName": "Dongsheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086957828,
+                "preferredName": "Erci Xu",
+                "firstName": "Erci",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37676869500,
+                "preferredName": "Ruibo Wang",
+                "firstName": "Ruibo",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37595582100,
+                "preferredName": "Kai Lu",
+                "firstName": "Kai",
+                "lastName": "Lu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00028",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046077",
+        "articleTitle": "LabStor: A Modular and Extensible Platform for Developing High-Performance, Customized I/O Stacks in Userspace",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "LabStor: A Modular and Extensible Platform for Developing High-Performance, Customized I/O Stacks in Userspace",
+        "authors": [
+            {
+                "id": 37088409603,
+                "preferredName": "Luke Logan",
+                "firstName": "Luke",
+                "lastName": "Logan"
+            },
+            {
+                "id": 37089743102,
+                "preferredName": "Jaime Cernuda Garcia",
+                "firstName": "Jaime Cernuda",
+                "lastName": "Garcia"
+            },
+            {
+                "id": 37393849700,
+                "preferredName": "Jay Lofstead",
+                "firstName": "Jay",
+                "lastName": "Lofstead"
+            },
+            {
+                "id": 37276409100,
+                "preferredName": "Xian\u2013He Sun",
+                "firstName": "Xian\u2013He",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37086066117,
+                "preferredName": "Anthony Kougkas",
+                "firstName": "Anthony",
+                "lastName": "Kougkas"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00038",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046079",
+        "articleTitle": "Finding Inputs that Trigger Floating-Point Exceptions in GPUs via Bayesian Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Finding Inputs that Trigger Floating-Point Exceptions in GPUs via Bayesian Optimization",
+        "authors": [
+            {
+                "id": 37540800800,
+                "preferredName": "Ignacio Laguna",
+                "firstName": "Ignacio",
+                "lastName": "Laguna"
+            },
+            {
+                "id": 37283850200,
+                "preferredName": "Ganesh Gopalakrishnan",
+                "firstName": "Ganesh",
+                "lastName": "Gopalakrishnan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00048",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046121",
+        "articleTitle": "ProbGraph: High-Performance and High-Accuracy Graph Mining with Probabilistic Set Representations",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "ProbGraph: High-Performance and High-Accuracy Graph Mining with Probabilistic Set Representations",
+        "authors": [
+            {
+                "id": 37085416719,
+                "preferredName": "Maciej Besta",
+                "firstName": "Maciej",
+                "lastName": "Besta"
+            },
+            {
+                "id": 37089740601,
+                "preferredName": "Cesare Miglioli",
+                "firstName": "Cesare",
+                "lastName": "Miglioli"
+            },
+            {
+                "id": 37089392237,
+                "preferredName": "Paolo Sylos Labini",
+                "firstName": "Paolo Sylos",
+                "lastName": "Labini"
+            },
+            {
+                "id": 37089740686,
+                "preferredName": "Jakub T\u011btek",
+                "firstName": "Jakub",
+                "lastName": "T\u011btek"
+            },
+            {
+                "id": 37089743068,
+                "preferredName": "Patrick Iff",
+                "firstName": "Patrick",
+                "lastName": "Iff"
+            },
+            {
+                "id": 37088441691,
+                "preferredName": "Raghavendra Kanakagiri",
+                "firstName": "Raghavendra",
+                "lastName": "Kanakagiri"
+            },
+            {
+                "id": 37089237482,
+                "preferredName": "Saleh Ashkboos",
+                "firstName": "Saleh",
+                "lastName": "Ashkboos"
+            },
+            {
+                "id": 37088764738,
+                "preferredName": "Kacper Janda",
+                "firstName": "Kacper",
+                "lastName": "Janda"
+            },
+            {
+                "id": 37089742699,
+                "preferredName": "Micha\u0142 Podstawski",
+                "firstName": "Micha\u0142",
+                "lastName": "Podstawski"
+            },
+            {
+                "id": 37085661906,
+                "preferredName": "Grzegorz Kwa\u015bniewski",
+                "firstName": "Grzegorz",
+                "lastName": "Kwa\u015bniewski"
+            },
+            {
+                "id": 37086950073,
+                "preferredName": "Niels Gleinig",
+                "firstName": "Niels",
+                "lastName": "Gleinig"
+            },
+            {
+                "id": 37709216800,
+                "preferredName": "Flavio Vella",
+                "firstName": "Flavio",
+                "lastName": "Vella"
+            },
+            {
+                "id": 37265510200,
+                "preferredName": "Onur Mutlu",
+                "firstName": "Onur",
+                "lastName": "Mutlu"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00052",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046123",
+        "articleTitle": "HyLo: A Hybrid Low-Rank Natural Gradient Descent Method",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "HyLo: A Hybrid Low-Rank Natural Gradient Descent Method",
+        "authors": [
+            {
+                "id": 37089742103,
+                "preferredName": "Baorun Mu",
+                "firstName": "Baorun",
+                "lastName": "Mu"
+            },
+            {
+                "id": 37085860942,
+                "preferredName": "Saeed Soori",
+                "firstName": "Saeed",
+                "lastName": "Soori"
+            },
+            {
+                "id": 37088442383,
+                "preferredName": "Bugra Can",
+                "firstName": "Bugra",
+                "lastName": "Can"
+            },
+            {
+                "id": 37847553400,
+                "preferredName": "Mert G\u00fcrb\u00fczbalaban",
+                "firstName": "Mert",
+                "lastName": "G\u00fcrb\u00fczbalaban"
+            },
+            {
+                "id": 37540686600,
+                "preferredName": "Maryam Mehri Dehnavi",
+                "firstName": "Maryam Mehri",
+                "lastName": "Dehnavi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00013",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10045785",
+        "articleTitle": "Image Gradient Decomposition for Parallel and Memory-Efficient Ptychographic Reconstruction",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Image Gradient Decomposition for Parallel and Memory-Efficient Ptychographic Reconstruction",
+        "authors": [
+            {
+                "id": 37089391277,
+                "preferredName": "Xiao Wang",
+                "firstName": "Xiao",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37089203697,
+                "preferredName": "Aristeidis Tsaris",
+                "firstName": "Aristeidis",
+                "lastName": "Tsaris"
+            },
+            {
+                "id": 37089637493,
+                "preferredName": "Debangshu Mukherjee",
+                "firstName": "Debangshu",
+                "lastName": "Mukherjee"
+            },
+            {
+                "id": 37681578100,
+                "preferredName": "Mohamed Wahib",
+                "firstName": "Mohamed",
+                "lastName": "Wahib"
+            },
+            {
+                "id": 37086513999,
+                "preferredName": "Peng Chen",
+                "firstName": "Peng",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37271061400,
+                "preferredName": "Mark Oxley",
+                "firstName": "Mark",
+                "lastName": "Oxley"
+            },
+            {
+                "id": 37089639647,
+                "preferredName": "Olga Ovchinnikova",
+                "firstName": "Olga",
+                "lastName": "Ovchinnikova"
+            },
+            {
+                "id": 37070934100,
+                "preferredName": "Jacob Hinkle",
+                "firstName": "Jacob",
+                "lastName": "Hinkle"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00091",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046089",
+        "articleTitle": "Predicting Reuse Interval for Optimized Web Caching: An LSTM-Based Machine Learning Approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Predicting Reuse Interval for Optimized Web Caching: An LSTM-Based Machine Learning Approach",
+        "authors": [
+            {
+                "id": 37085341159,
+                "preferredName": "Pengcheng Li",
+                "firstName": "Pengcheng",
+                "lastName": "Li"
+            },
+            {
+                "id": 37089026863,
+                "preferredName": "Yixin Guo",
+                "firstName": "Yixin",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37089742893,
+                "preferredName": "Yongbin Gu",
+                "firstName": "Yongbin",
+                "lastName": "Gu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00069",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046131",
+        "articleTitle": "Boosting Performance Optimization with Interactive Data Movement Visualization",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Boosting Performance Optimization with Interactive Data Movement Visualization",
+        "authors": [
+            {
+                "id": 37089740845,
+                "preferredName": "Philipp Schaad",
+                "firstName": "Philipp",
+                "lastName": "Schaad"
+            },
+            {
+                "id": 38277650300,
+                "preferredName": "Tal Ben-Nun",
+                "firstName": "Tal",
+                "lastName": "Ben-Nun"
+            },
+            {
+                "id": 37391832800,
+                "preferredName": "Torsten Hoefler",
+                "firstName": "Torsten",
+                "lastName": "Hoefler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00021",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046097",
+        "articleTitle": "A Taxonomy of Error Sources in HPC I/O Machine Learning Models",
+        "volume": null,
+        "issue": null,
+        "startPage": "01",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "A Taxonomy of Error Sources in HPC I/O Machine Learning Models",
+        "authors": [
+            {
+                "id": 37086057928,
+                "preferredName": "Mihailo Isakov",
+                "firstName": "Mihailo",
+                "lastName": "Isakov"
+            },
+            {
+                "id": 37088602506,
+                "preferredName": "Mikaela Currier",
+                "firstName": "Mikaela",
+                "lastName": "Currier"
+            },
+            {
+                "id": 37088591068,
+                "preferredName": "Eliakin del Rosario",
+                "firstName": "Eliakin",
+                "lastName": "del Rosario"
+            },
+            {
+                "id": 37086175339,
+                "preferredName": "Sandeep Madireddy",
+                "firstName": "Sandeep",
+                "lastName": "Madireddy"
+            },
+            {
+                "id": 38581290700,
+                "preferredName": "Prasanna Balaprakash",
+                "firstName": "Prasanna",
+                "lastName": "Balaprakash"
+            },
+            {
+                "id": 37422604200,
+                "preferredName": "Philip Carns",
+                "firstName": "Philip",
+                "lastName": "Carns"
+            },
+            {
+                "id": 37284984100,
+                "preferredName": "Robert B. Ross",
+                "firstName": "Robert B.",
+                "lastName": "Ross"
+            },
+            {
+                "id": 37086154771,
+                "preferredName": "Glenn K. Lockwood",
+                "firstName": "Glenn K.",
+                "lastName": "Lockwood"
+            },
+            {
+                "id": 37318978700,
+                "preferredName": "Michel A. Kinsy",
+                "firstName": "Michel A.",
+                "lastName": "Kinsy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00032",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046064",
+        "articleTitle": "Accelerating Elliptic Curve Digital Signature Algorithms on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Accelerating Elliptic Curve Digital Signature Algorithms on GPUs",
+        "authors": [
+            {
+                "id": 37088647308,
+                "preferredName": "Zonghao Feng",
+                "firstName": "Zonghao",
+                "lastName": "Feng"
+            },
+            {
+                "id": 37089741033,
+                "preferredName": "Qipeng Xie",
+                "firstName": "Qipeng",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37277981600,
+                "preferredName": "Qiong Luo",
+                "firstName": "Qiong",
+                "lastName": "Luo"
+            },
+            {
+                "id": 37089741431,
+                "preferredName": "Yujie Chen",
+                "firstName": "Yujie",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089743142,
+                "preferredName": "Haoxuan Li",
+                "firstName": "Haoxuan",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086801616,
+                "preferredName": "Huizhong Li",
+                "firstName": "Huizhong",
+                "lastName": "Li"
+            },
+            {
+                "id": 37088490197,
+                "preferredName": "Qiang Yan",
+                "firstName": "Qiang",
+                "lastName": "Yan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00055",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046082",
+        "articleTitle": "Scalable Irregular Parallelism with GPUs: Getting CPUs Out of the Way",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Scalable Irregular Parallelism with GPUs: Getting CPUs Out of the Way",
+        "authors": [
+            {
+                "id": 37088645606,
+                "preferredName": "Yuxin Chen",
+                "firstName": "Yuxin",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37086200817,
+                "preferredName": "Benjamin Brock",
+                "firstName": "Benjamin",
+                "lastName": "Brock"
+            },
+            {
+                "id": 37731047300,
+                "preferredName": "Serban Porumbescu",
+                "firstName": "Serban",
+                "lastName": "Porumbescu"
+            },
+            {
+                "id": 37064569200,
+                "preferredName": "Aydin Bulu\u00e7",
+                "firstName": "Aydin",
+                "lastName": "Bulu\u00e7"
+            },
+            {
+                "id": 37281788900,
+                "preferredName": "Katherine Yelick",
+                "firstName": "Katherine",
+                "lastName": "Yelick"
+            },
+            {
+                "id": 37365541300,
+                "preferredName": "John D. Owens",
+                "firstName": "John D.",
+                "lastName": "Owens"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00001",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046075",
+        "articleTitle": "Proceedings of SC22: The International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Proceedings of SC22: The International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00005",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046128",
+        "articleTitle": "Foreword from the Technical Papers Chair and Vice Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Foreword from the Technical Papers Chair and Vice Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00004",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046099",
+        "articleTitle": "Foreword from the General Chair and Technical Program Chair and Vice Chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "8",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Foreword from the General Chair and Technical Program Chair and Vice Chair",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00002",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046071",
+        "articleTitle": "Copyright and Reprint Permissions",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "Copyright and Reprint Permissions",
+        "authors": []
+    },
+    {
+        "publicationNumber": "10046045",
+        "doi": "10.1109/SC41404.2022.00003",
+        "publicationYear": "2022",
+        "publicationDate": "13-18 Nov. 2022",
+        "articleNumber": "10046067",
+        "articleTitle": "ACM Gordon Bell Finalists",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "SC22: International Conference for High Performance Computing, Networking, Storage and Analysis",
+        "highlightedTitle": "ACM Gordon Bell Finalists",
+        "authors": []
+    }
+]

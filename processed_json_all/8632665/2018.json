@@ -1,0 +1,455 @@
+[
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639354",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639354",
+        "articleTitle": "LLVM and the Automatic Vectorization of Loops Invoking Math Routines: -FSIMDMATH",
+        "volume": null,
+        "issue": null,
+        "startPage": "30",
+        "endPage": "38",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "LLVM and the Automatic Vectorization of Loops Invoking Math Routines: -FSIMDMATH",
+        "authors": [
+            {
+                "id": 37086638925,
+                "preferredName": "Francesco Petrogalli",
+                "firstName": "Francesco",
+                "lastName": "Petrogalli"
+            },
+            {
+                "id": 37089271353,
+                "preferredName": "Paul Walker",
+                "firstName": "Paul",
+                "lastName": "Walker"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639349",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639349",
+        "articleTitle": "CLACC: Translating OpenACC to OpenMP in Clang",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "29",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "CLACC: Translating OpenACC to OpenMP in Clang",
+        "authors": [
+            {
+                "id": 37086182352,
+                "preferredName": "Joel E. Denny",
+                "firstName": "Joel E.",
+                "lastName": "Denny"
+            },
+            {
+                "id": 38552184200,
+                "preferredName": "Seyong Lee",
+                "firstName": "Seyong",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey S. Vetter",
+                "firstName": "Jeffrey S.",
+                "lastName": "Vetter"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639205",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639205",
+        "articleTitle": "OP2-Clang: A Source-to-Source Translator Using Clang/LLVM LibTooling",
+        "volume": null,
+        "issue": null,
+        "startPage": "59",
+        "endPage": "70",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "OP2-Clang: A Source-to-Source Translator Using Clang/LLVM LibTooling",
+        "authors": [
+            {
+                "id": 37086640875,
+                "preferredName": "G.D. Balogh",
+                "firstName": "G.D.",
+                "lastName": "Balogh"
+            },
+            {
+                "id": 37299731300,
+                "preferredName": "G.R. Mudalige",
+                "firstName": "G.R.",
+                "lastName": "Mudalige"
+            },
+            {
+                "id": 38490996400,
+                "preferredName": "I.Z. Reguly",
+                "firstName": "I.Z.",
+                "lastName": "Reguly"
+            },
+            {
+                "id": 37545834500,
+                "preferredName": "S.F. Antao",
+                "firstName": "S.F.",
+                "lastName": "Antao"
+            },
+            {
+                "id": 37391996700,
+                "preferredName": "C. Bertolli",
+                "firstName": "C.",
+                "lastName": "Bertolli"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639434",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639434",
+        "articleTitle": "OpenMP GPU Offload in Flang and LLVM",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "OpenMP GPU Offload in Flang and LLVM",
+        "authors": [
+            {
+                "id": 37085991652,
+                "preferredName": "G\u00fcray \u00d6zen",
+                "firstName": "G\u00fcray",
+                "lastName": "\u00d6zen"
+            },
+            {
+                "id": 37085594519,
+                "preferredName": "Simone Atzeni",
+                "firstName": "Simone",
+                "lastName": "Atzeni"
+            },
+            {
+                "id": 37281867300,
+                "preferredName": "Michael Wolfe",
+                "firstName": "Michael",
+                "lastName": "Wolfe"
+            },
+            {
+                "id": 37086638890,
+                "preferredName": "Annemarie Southwell",
+                "firstName": "Annemarie",
+                "lastName": "Southwell"
+            },
+            {
+                "id": 37086640374,
+                "preferredName": "Gary Klimowicz",
+                "firstName": "Gary",
+                "lastName": "Klimowicz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639402",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639402",
+        "articleTitle": "User-Directed Loop-Transformations in Clang",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "58",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "User-Directed Loop-Transformations in Clang",
+        "authors": [
+            {
+                "id": 37085672112,
+                "preferredName": "Michael Kruse",
+                "firstName": "Michael",
+                "lastName": "Kruse"
+            },
+            {
+                "id": 38549075500,
+                "preferredName": "Hal Finkel",
+                "firstName": "Hal",
+                "lastName": "Finkel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639483",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639483",
+        "articleTitle": "Function/Kernel Vectorization via Loop Vectorizer",
+        "volume": null,
+        "issue": null,
+        "startPage": "39",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Function/Kernel Vectorization via Loop Vectorizer",
+        "authors": [
+            {
+                "id": 37086026659,
+                "preferredName": "Matt Masten",
+                "firstName": "Matt",
+                "lastName": "Masten"
+            },
+            {
+                "id": 37086640739,
+                "preferredName": "Evgeniy Tyurin",
+                "firstName": "Evgeniy",
+                "lastName": "Tyurin"
+            },
+            {
+                "id": 37072318000,
+                "preferredName": "Konstantina Mitropoulou",
+                "firstName": "Konstantina",
+                "lastName": "Mitropoulou"
+            },
+            {
+                "id": 37086028017,
+                "preferredName": "Eric Garcia",
+                "firstName": "Eric",
+                "lastName": "Garcia"
+            },
+            {
+                "id": 37417653300,
+                "preferredName": "Hideki Saito",
+                "firstName": "Hideki",
+                "lastName": "Saito"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639381",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639381",
+        "articleTitle": "AIWC: OpenCL-Based Architecture-Independent Workload Characterization",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "91",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "AIWC: OpenCL-Based Architecture-Independent Workload Characterization",
+        "authors": [
+            {
+                "id": 37086152651,
+                "preferredName": "Beau Johnston",
+                "firstName": "Beau",
+                "lastName": "Johnston"
+            },
+            {
+                "id": 37704560300,
+                "preferredName": "Josh Milthorpe",
+                "firstName": "Josh",
+                "lastName": "Milthorpe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639410",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639410",
+        "articleTitle": "Pointers Inside Lambda Closure Objects in OpenMP Target Offload Regions",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Pointers Inside Lambda Closure Objects in OpenMP Target Offload Regions",
+        "authors": [
+            {
+                "id": 37086517054,
+                "preferredName": "David Truby",
+                "firstName": "David",
+                "lastName": "Truby"
+            },
+            {
+                "id": 37391996700,
+                "preferredName": "Carlo Bertolli",
+                "firstName": "Carlo",
+                "lastName": "Bertolli"
+            },
+            {
+                "id": 38468832600,
+                "preferredName": "Steven A. Wright",
+                "firstName": "Steven A.",
+                "lastName": "Wright"
+            },
+            {
+                "id": 37085995206,
+                "preferredName": "Gheorghe-Teodor Bercea",
+                "firstName": "Gheorghe-Teodor",
+                "lastName": "Bercea"
+            },
+            {
+                "id": 38192264200,
+                "preferredName": "Kevin O'Brien",
+                "firstName": "Kevin",
+                "lastName": "O'Brien"
+            },
+            {
+                "id": 37269528000,
+                "preferredName": "Stephen A. Jarvis",
+                "firstName": "Stephen A.",
+                "lastName": "Jarvis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639275",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639275",
+        "articleTitle": "PInT: Pattern Instrumentation Tool for Analyzing and Classifying HPC Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "71",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "PInT: Pattern Instrumentation Tool for Analyzing and Classifying HPC Applications",
+        "authors": [
+            {
+                "id": 37086640032,
+                "preferredName": "Fabian Schlebusch",
+                "firstName": "Fabian",
+                "lastName": "Schlebusch"
+            },
+            {
+                "id": 37086638274,
+                "preferredName": "Yannik M\u00fcller",
+                "firstName": "Yannik",
+                "lastName": "M\u00fcller"
+            },
+            {
+                "id": 37077374500,
+                "preferredName": "Sandra Wienke",
+                "firstName": "Sandra",
+                "lastName": "Wienke"
+            },
+            {
+                "id": 37086066560,
+                "preferredName": "Julian Miller",
+                "firstName": "Julian",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37960082200,
+                "preferredName": "Matthias S. M\u00fcller",
+                "firstName": "Matthias S.",
+                "lastName": "M\u00fcller"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639270",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639270",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639210",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639210",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639401",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639401",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8632665",
+        "doi": "10.1109/LLVM-HPC.2018.8639466",
+        "publicationYear": "2018",
+        "publicationDate": "12-12 Nov. 2018",
+        "articleNumber": "8639466",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 IEEE/ACM 5th Workshop on the LLVM Compiler Infrastructure in HPC (LLVM-HPC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    }
+]

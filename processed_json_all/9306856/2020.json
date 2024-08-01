@@ -1,0 +1,417 @@
+[
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306949",
+        "articleTitle": "Persistent Memory Object Storage and Indexing for Scientific Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Persistent Memory Object Storage and Indexing for Scientific Computing",
+        "authors": [
+            {
+                "id": 37086132928,
+                "preferredName": "Awais Khan",
+                "firstName": "Awais",
+                "lastName": "Khan"
+            },
+            {
+                "id": 37086042865,
+                "preferredName": "Hyogi Sim",
+                "firstName": "Hyogi",
+                "lastName": "Sim"
+            },
+            {
+                "id": 37299720900,
+                "preferredName": "Sudharshan S. Vazhkudai",
+                "firstName": "Sudharshan S.",
+                "lastName": "Vazhkudai"
+            },
+            {
+                "id": 37085891250,
+                "preferredName": "Jinsuk Ma",
+                "firstName": "Jinsuk",
+                "lastName": "Ma"
+            },
+            {
+                "id": 37087134031,
+                "preferredName": "Myeong-Hoon Oh",
+                "firstName": "Myeong-Hoon",
+                "lastName": "Oh"
+            },
+            {
+                "id": 37066715800,
+                "preferredName": "Youngjae Kim",
+                "firstName": "Youngjae",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307131",
+        "articleTitle": "Understanding the Impact of Memory Access Patterns in Intel Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "52",
+        "endPage": "61",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Understanding the Impact of Memory Access Patterns in Intel Processors",
+        "authors": [
+            {
+                "id": 37075974800,
+                "preferredName": "Mohammad Alaul Haque Monil",
+                "firstName": "Mohammad Alaul Haque",
+                "lastName": "Monil"
+            },
+            {
+                "id": 38552184200,
+                "preferredName": "Seyong Lee",
+                "firstName": "Seyong",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37271681400,
+                "preferredName": "Jeffrey S. Vetter",
+                "firstName": "Jeffrey S.",
+                "lastName": "Vetter"
+            },
+            {
+                "id": 37281865600,
+                "preferredName": "Allen D. Malony",
+                "firstName": "Allen D.",
+                "lastName": "Malony"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306977",
+        "articleTitle": "Leveraging a Heterogeneous Memory System for a Legacy Fortran Code: The Interplay of Storage Class Memory, DRAM and OS",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Leveraging a Heterogeneous Memory System for a Legacy Fortran Code: The Interplay of Storage Class Memory, DRAM and OS",
+        "authors": [
+            {
+                "id": 37887919700,
+                "preferredName": "Steffen Christgau",
+                "firstName": "Steffen",
+                "lastName": "Christgau"
+            },
+            {
+                "id": 37976813100,
+                "preferredName": "Thomas Steinke",
+                "firstName": "Thomas",
+                "lastName": "Steinke"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306996",
+        "articleTitle": "Performance Potential of Mixed Data Management Modes for Heterogeneous Memory Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Performance Potential of Mixed Data Management Modes for Heterogeneous Memory Systems",
+        "authors": [
+            {
+                "id": 37088598946,
+                "preferredName": "T. Chad Effler",
+                "firstName": "T. Chad",
+                "lastName": "Effler"
+            },
+            {
+                "id": 37086515075,
+                "preferredName": "Michael R. Jantz",
+                "firstName": "Michael R.",
+                "lastName": "Jantz"
+            },
+            {
+                "id": 37532593700,
+                "preferredName": "Terry Jones",
+                "firstName": "Terry",
+                "lastName": "Jones"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307113",
+        "articleTitle": "Cache Oblivious Strategies to Exploit Multi-Level Memory on Manycore Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "42",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Cache Oblivious Strategies to Exploit Multi-Level Memory on Manycore Systems",
+        "authors": [
+            {
+                "id": 37088497705,
+                "preferredName": "Neil A. Butcher",
+                "firstName": "Neil A.",
+                "lastName": "Butcher"
+            },
+            {
+                "id": 37687622800,
+                "preferredName": "Stephen L. Olivier",
+                "firstName": "Stephen L.",
+                "lastName": "Olivier"
+            },
+            {
+                "id": 37274707700,
+                "preferredName": "Peter M. Kogge",
+                "firstName": "Peter M.",
+                "lastName": "Kogge"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306961",
+        "articleTitle": "Hostile Cache Implications for Small, Dense Linear Solves",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "41",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Hostile Cache Implications for Small, Dense Linear Solves",
+        "authors": [
+            {
+                "id": 37394082900,
+                "preferredName": "Tom Deakin",
+                "firstName": "Tom",
+                "lastName": "Deakin"
+            },
+            {
+                "id": 37086431175,
+                "preferredName": "James Cownie",
+                "firstName": "James",
+                "lastName": "Cownie"
+            },
+            {
+                "id": 37085566285,
+                "preferredName": "Simon McIntosh-Smith",
+                "firstName": "Simon",
+                "lastName": "McIntosh-Smith"
+            },
+            {
+                "id": 37086516362,
+                "preferredName": "Justin Lovegrove",
+                "firstName": "Justin",
+                "lastName": "Lovegrove"
+            },
+            {
+                "id": 37086054605,
+                "preferredName": "Richard Smedley-Stevenson",
+                "firstName": "Richard",
+                "lastName": "Smedley-Stevenson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307020",
+        "articleTitle": "Architecting Heterogeneous Memory Systems with DRAM Technology Only: A Case Study on Relational Database",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Architecting Heterogeneous Memory Systems with DRAM Technology Only: A Case Study on Relational Database",
+        "authors": [
+            {
+                "id": 37088410240,
+                "preferredName": "Yifan Qiao",
+                "firstName": "Yifan",
+                "lastName": "Qiao"
+            },
+            {
+                "id": 37086508969,
+                "preferredName": "Xubin Chen",
+                "firstName": "Xubin",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37087081289,
+                "preferredName": "Jingpeng Hao",
+                "firstName": "Jingpeng",
+                "lastName": "Hao"
+            },
+            {
+                "id": 37273954300,
+                "preferredName": "Tong Zhang",
+                "firstName": "Tong",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37289552900,
+                "preferredName": "Changsheng Xie",
+                "firstName": "Changsheng",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37591624600,
+                "preferredName": "Fei Wu",
+                "firstName": "Fei",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306969",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307025",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00013",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306964",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "63",
+        "endPage": "63",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9306990",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307092",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9306856",
+        "doi": "10.1109/MCHPC51950.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "11-11 Nov. 2020",
+        "articleNumber": "9307134",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM Workshop on Memory Centric High Performance Computing (MCHPC)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    }
+]

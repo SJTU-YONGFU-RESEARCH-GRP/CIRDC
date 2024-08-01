@@ -1,0 +1,941 @@
+[
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00007",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9653177",
+        "articleTitle": "Colmena: Scalable Machine-Learning-Based Steering of Ensemble Simulations for High Performance Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "20",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "Colmena: Scalable Machine-Learning-Based Steering of Ensemble Simulations for High Performance Computing",
+        "authors": [
+            {
+                "id": 37086260918,
+                "preferredName": "Logan Ward",
+                "firstName": "Logan",
+                "lastName": "Ward"
+            },
+            {
+                "id": 37086104026,
+                "preferredName": "Ganesh Sivaraman",
+                "firstName": "Ganesh",
+                "lastName": "Sivaraman"
+            },
+            {
+                "id": 37087140378,
+                "preferredName": "J. Gregory Pauloski",
+                "firstName": "J. Gregory",
+                "lastName": "Pauloski"
+            },
+            {
+                "id": 37086033592,
+                "preferredName": "Yadu Babuji",
+                "firstName": "Yadu",
+                "lastName": "Babuji"
+            },
+            {
+                "id": 37085423055,
+                "preferredName": "Ryan Chard",
+                "firstName": "Ryan",
+                "lastName": "Chard"
+            },
+            {
+                "id": 37089215214,
+                "preferredName": "Naveen Dandu",
+                "firstName": "Naveen",
+                "lastName": "Dandu"
+            },
+            {
+                "id": 37089212327,
+                "preferredName": "Paul C. Redfern",
+                "firstName": "Paul C.",
+                "lastName": "Redfern"
+            },
+            {
+                "id": 37089210552,
+                "preferredName": "Rajeev S. Assary",
+                "firstName": "Rajeev S.",
+                "lastName": "Assary"
+            },
+            {
+                "id": 38341857300,
+                "preferredName": "Kyle Chard",
+                "firstName": "Kyle",
+                "lastName": "Chard"
+            },
+            {
+                "id": 37085727548,
+                "preferredName": "Larry A. Curtiss",
+                "firstName": "Larry A.",
+                "lastName": "Curtiss"
+            },
+            {
+                "id": 37284796600,
+                "preferredName": "Rajeev Thakur",
+                "firstName": "Rajeev",
+                "lastName": "Thakur"
+            },
+            {
+                "id": 37276599200,
+                "preferredName": "Ian Foster",
+                "firstName": "Ian",
+                "lastName": "Foster"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00009",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9653178",
+        "articleTitle": "MLPerf\u2122 HPC: A Holistic Benchmark Suite for Scientific Machine Learning on HPC Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "MLPerf\u2122 HPC: A Holistic Benchmark Suite for Scientific Machine Learning on HPC Systems",
+        "authors": [
+            {
+                "id": 37085881809,
+                "preferredName": "Steven Farrell",
+                "firstName": "Steven",
+                "lastName": "Farrell"
+            },
+            {
+                "id": 37087227356,
+                "preferredName": "Murali Emani",
+                "firstName": "Murali",
+                "lastName": "Emani"
+            },
+            {
+                "id": 37088810253,
+                "preferredName": "Jacob Balma",
+                "firstName": "Jacob",
+                "lastName": "Balma"
+            },
+            {
+                "id": 37075879100,
+                "preferredName": "Lukas Drescher",
+                "firstName": "Lukas",
+                "lastName": "Drescher"
+            },
+            {
+                "id": 38468578100,
+                "preferredName": "Aleksandr Drozd",
+                "firstName": "Aleksandr",
+                "lastName": "Drozd"
+            },
+            {
+                "id": 37089213289,
+                "preferredName": "Andreas Fink",
+                "firstName": "Andreas",
+                "lastName": "Fink"
+            },
+            {
+                "id": 37268873900,
+                "preferredName": "Geoffrey Fox",
+                "firstName": "Geoffrey",
+                "lastName": "Fox"
+            },
+            {
+                "id": 37088388039,
+                "preferredName": "David Kanter",
+                "firstName": "David",
+                "lastName": "Kanter"
+            },
+            {
+                "id": 37086176528,
+                "preferredName": "Thorsten Kurth",
+                "firstName": "Thorsten",
+                "lastName": "Kurth"
+            },
+            {
+                "id": 37087045488,
+                "preferredName": "Peter Mattson",
+                "firstName": "Peter",
+                "lastName": "Mattson"
+            },
+            {
+                "id": 37089211102,
+                "preferredName": "Dawei Mu",
+                "firstName": "Dawei",
+                "lastName": "Mu"
+            },
+            {
+                "id": 37089146586,
+                "preferredName": "Amit Ruhela",
+                "firstName": "Amit",
+                "lastName": "Ruhela"
+            },
+            {
+                "id": 37310608000,
+                "preferredName": "Kento Sato",
+                "firstName": "Kento",
+                "lastName": "Sato"
+            },
+            {
+                "id": 37861842300,
+                "preferredName": "Koichi Shirahata",
+                "firstName": "Koichi",
+                "lastName": "Shirahata"
+            },
+            {
+                "id": 37086267001,
+                "preferredName": "Tsuguchika Tabaru",
+                "firstName": "Tsuguchika",
+                "lastName": "Tabaru"
+            },
+            {
+                "id": 37089203697,
+                "preferredName": "Aristeidis Tsaris",
+                "firstName": "Aristeidis",
+                "lastName": "Tsaris"
+            },
+            {
+                "id": 37088704641,
+                "preferredName": "Jan Balewski",
+                "firstName": "Jan",
+                "lastName": "Balewski"
+            },
+            {
+                "id": 37085487502,
+                "preferredName": "Ben Cumming",
+                "firstName": "Ben",
+                "lastName": "Cumming"
+            },
+            {
+                "id": 37089215844,
+                "preferredName": "Takumi Danjo",
+                "firstName": "Takumi",
+                "lastName": "Danjo"
+            },
+            {
+                "id": 37901989700,
+                "preferredName": "Jens Domke",
+                "firstName": "Jens",
+                "lastName": "Domke"
+            },
+            {
+                "id": 37089211982,
+                "preferredName": "Takaaki Fukai",
+                "firstName": "Takaaki",
+                "lastName": "Fukai"
+            },
+            {
+                "id": 37088926016,
+                "preferredName": "Naoto Fukumoto",
+                "firstName": "Naoto",
+                "lastName": "Fukumoto"
+            },
+            {
+                "id": 37089211669,
+                "preferredName": "Tatsuya Fukushi",
+                "firstName": "Tatsuya",
+                "lastName": "Fukushi"
+            },
+            {
+                "id": 37586611300,
+                "preferredName": "Balazs Gerofi",
+                "firstName": "Balazs",
+                "lastName": "Gerofi"
+            },
+            {
+                "id": 37089206832,
+                "preferredName": "Takumi Honda",
+                "firstName": "Takumi",
+                "lastName": "Honda"
+            },
+            {
+                "id": 38581267400,
+                "preferredName": "Toshiyuki Imamura",
+                "firstName": "Toshiyuki",
+                "lastName": "Imamura"
+            },
+            {
+                "id": 38548317700,
+                "preferredName": "Akihiko Kasagi",
+                "firstName": "Akihiko",
+                "lastName": "Kasagi"
+            },
+            {
+                "id": 37061108600,
+                "preferredName": "Kentaro Kawakami",
+                "firstName": "Kentaro",
+                "lastName": "Kawakami"
+            },
+            {
+                "id": 37088544734,
+                "preferredName": "Shuhei Kudo",
+                "firstName": "Shuhei",
+                "lastName": "Kudo"
+            },
+            {
+                "id": 37089216295,
+                "preferredName": "Akiyoshi Kuroda",
+                "firstName": "Akiyoshi",
+                "lastName": "Kuroda"
+            },
+            {
+                "id": 37086144483,
+                "preferredName": "Maxime Martinasso",
+                "firstName": "Maxime",
+                "lastName": "Martinasso"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            },
+            {
+                "id": 37089215806,
+                "preferredName": "Henrique Mendon\u00e7a",
+                "firstName": "Henrique",
+                "lastName": "Mendon\u00e7a"
+            },
+            {
+                "id": 37089211663,
+                "preferredName": "Kazuki Minami",
+                "firstName": "Kazuki",
+                "lastName": "Minami"
+            },
+            {
+                "id": 37089212548,
+                "preferredName": "Prabhat Ram",
+                "firstName": "Prabhat",
+                "lastName": "Ram"
+            },
+            {
+                "id": 37089216061,
+                "preferredName": "Takashi Sawada",
+                "firstName": "Takashi",
+                "lastName": "Sawada"
+            },
+            {
+                "id": 37296773200,
+                "preferredName": "Mallikarjun Shankar",
+                "firstName": "Mallikarjun",
+                "lastName": "Shankar"
+            },
+            {
+                "id": 37088485934,
+                "preferredName": "Tom St. John",
+                "firstName": "Tom St.",
+                "lastName": "John"
+            },
+            {
+                "id": 37089272595,
+                "preferredName": "Akihiro Tabuchi",
+                "firstName": "Akihiro",
+                "lastName": "Tabuchi"
+            },
+            {
+                "id": 37282610100,
+                "preferredName": "Venkatram Vishwanath",
+                "firstName": "Venkatram",
+                "lastName": "Vishwanath"
+            },
+            {
+                "id": 37681578100,
+                "preferredName": "Mohamed Wahib",
+                "firstName": "Mohamed",
+                "lastName": "Wahib"
+            },
+            {
+                "id": 37089210217,
+                "preferredName": "Masafumi Yamazaki",
+                "firstName": "Masafumi",
+                "lastName": "Yamazaki"
+            },
+            {
+                "id": 37087140428,
+                "preferredName": "Junqi Yin",
+                "firstName": "Junqi",
+                "lastName": "Yin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00010",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652872",
+        "articleTitle": "High-Performance Deep Learning Toolbox for Genome-Scale Prediction of Protein Structure and Function",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "High-Performance Deep Learning Toolbox for Genome-Scale Prediction of Protein Structure and Function",
+        "authors": [
+            {
+                "id": 37089209765,
+                "preferredName": "Mu Gao",
+                "firstName": "Mu",
+                "lastName": "Gao"
+            },
+            {
+                "id": 37089213327,
+                "preferredName": "Peik Lund-Andersen",
+                "firstName": "Peik",
+                "lastName": "Lund-Andersen"
+            },
+            {
+                "id": 37088198199,
+                "preferredName": "Alex Morehead",
+                "firstName": "Alex",
+                "lastName": "Morehead"
+            },
+            {
+                "id": 37089211918,
+                "preferredName": "Sajid Mahmud",
+                "firstName": "Sajid",
+                "lastName": "Mahmud"
+            },
+            {
+                "id": 37088951845,
+                "preferredName": "Chen Chen",
+                "firstName": "Chen",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37088933881,
+                "preferredName": "Xiao Chen",
+                "firstName": "Xiao",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37089210084,
+                "preferredName": "Nabin Giri",
+                "firstName": "Nabin",
+                "lastName": "Giri"
+            },
+            {
+                "id": 37089212308,
+                "preferredName": "Raj S. Roy",
+                "firstName": "Raj S.",
+                "lastName": "Roy"
+            },
+            {
+                "id": 37085364146,
+                "preferredName": "Farhan Quadir",
+                "firstName": "Farhan",
+                "lastName": "Quadir"
+            },
+            {
+                "id": 37088598946,
+                "preferredName": "T. Chad Effler",
+                "firstName": "T. Chad",
+                "lastName": "Effler"
+            },
+            {
+                "id": 37089210260,
+                "preferredName": "Ryan Prout",
+                "firstName": "Ryan",
+                "lastName": "Prout"
+            },
+            {
+                "id": 37089212037,
+                "preferredName": "Subil Abraham",
+                "firstName": "Subil",
+                "lastName": "Abraham"
+            },
+            {
+                "id": 37393979800,
+                "preferredName": "Wael Elwasif",
+                "firstName": "Wael",
+                "lastName": "Elwasif"
+            },
+            {
+                "id": 37089216091,
+                "preferredName": "N. Quentin Haas",
+                "firstName": "N. Quentin",
+                "lastName": "Haas"
+            },
+            {
+                "id": 37399194400,
+                "preferredName": "Jeffrey Skolnick",
+                "firstName": "Jeffrey",
+                "lastName": "Skolnick"
+            },
+            {
+                "id": 37673823700,
+                "preferredName": "Jianlin Cheng",
+                "firstName": "Jianlin",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37086640323,
+                "preferredName": "Ada Sedova",
+                "firstName": "Ada",
+                "lastName": "Sedova"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00011",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652871",
+        "articleTitle": "HPCFAIR: Enabling FAIR AI for HPC Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "58",
+        "endPage": "68",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "HPCFAIR: Enabling FAIR AI for HPC Applications",
+        "authors": [
+            {
+                "id": 37088590804,
+                "preferredName": "Gaurav Verma",
+                "firstName": "Gaurav",
+                "lastName": "Verma"
+            },
+            {
+                "id": 37087227356,
+                "preferredName": "Murali Emani",
+                "firstName": "Murali",
+                "lastName": "Emani"
+            },
+            {
+                "id": 38468230200,
+                "preferredName": "Chunhua Liao",
+                "firstName": "Chunhua",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37878569000,
+                "preferredName": "Pei-Hung Lin",
+                "firstName": "Pei-Hung",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37086095295,
+                "preferredName": "Tristan Vanderbruggen",
+                "firstName": "Tristan",
+                "lastName": "Vanderbruggen"
+            },
+            {
+                "id": 37085517964,
+                "preferredName": "Xipeng Shen",
+                "firstName": "Xipeng",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37328150200,
+                "preferredName": "Barbara Chapman",
+                "firstName": "Barbara",
+                "lastName": "Chapman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00012",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9653173",
+        "articleTitle": "HPC Ontology: Towards a Unified Ontology for Managing Training Datasets and AI Models for High-Performance Computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "69",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "HPC Ontology: Towards a Unified Ontology for Managing Training Datasets and AI Models for High-Performance Computing",
+        "authors": [
+            {
+                "id": 38468230200,
+                "preferredName": "Chunhua Liao",
+                "firstName": "Chunhua",
+                "lastName": "Liao"
+            },
+            {
+                "id": 37878569000,
+                "preferredName": "Pei-Hung Lin",
+                "firstName": "Pei-Hung",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37088590804,
+                "preferredName": "Gaurav Verma",
+                "firstName": "Gaurav",
+                "lastName": "Verma"
+            },
+            {
+                "id": 37086095295,
+                "preferredName": "Tristan Vanderbruggen",
+                "firstName": "Tristan",
+                "lastName": "Vanderbruggen"
+            },
+            {
+                "id": 37087227356,
+                "preferredName": "Murali Emani",
+                "firstName": "Murali",
+                "lastName": "Emani"
+            },
+            {
+                "id": 37089347835,
+                "preferredName": "Zifan Nan",
+                "firstName": "Zifan",
+                "lastName": "Nan"
+            },
+            {
+                "id": 37085517964,
+                "preferredName": "Xipeng Shen",
+                "firstName": "Xipeng",
+                "lastName": "Shen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00014",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9653179",
+        "articleTitle": "Is Disaggregation possible for HPC Cognitive Simulation?",
+        "volume": null,
+        "issue": null,
+        "startPage": "94",
+        "endPage": "105",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "Is Disaggregation possible for HPC Cognitive Simulation?",
+        "authors": [
+            {
+                "id": 37085751768,
+                "preferredName": "Michael R. Wyatt",
+                "firstName": "Michael R.",
+                "lastName": "Wyatt"
+            },
+            {
+                "id": 37089213158,
+                "preferredName": "Valen Yamamoto",
+                "firstName": "Valen",
+                "lastName": "Yamamoto"
+            },
+            {
+                "id": 37089211220,
+                "preferredName": "Zo&#x00EB; Tosi",
+                "firstName": "Zo&#x00EB;",
+                "lastName": "Tosi"
+            },
+            {
+                "id": 38574057100,
+                "preferredName": "Ian Karlin",
+                "firstName": "Ian",
+                "lastName": "Karlin"
+            },
+            {
+                "id": 37832313800,
+                "preferredName": "Brian Van Essen",
+                "firstName": "Brian Van",
+                "lastName": "Essen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00008",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652868",
+        "articleTitle": "Production Deployment of Machine-Learned Rotorcraft Surrogate Models on HPC",
+        "volume": null,
+        "issue": null,
+        "startPage": "21",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "Production Deployment of Machine-Learned Rotorcraft Surrogate Models on HPC",
+        "authors": [
+            {
+                "id": 37085783237,
+                "preferredName": "Wesley Brewer",
+                "firstName": "Wesley",
+                "lastName": "Brewer"
+            },
+            {
+                "id": 37086617942,
+                "preferredName": "Daniel Martinez",
+                "firstName": "Daniel",
+                "lastName": "Martinez"
+            },
+            {
+                "id": 37089213591,
+                "preferredName": "Mathew Boyer",
+                "firstName": "Mathew",
+                "lastName": "Boyer"
+            },
+            {
+                "id": 37089215058,
+                "preferredName": "Dylan Jude",
+                "firstName": "Dylan",
+                "lastName": "Jude"
+            },
+            {
+                "id": 38181375100,
+                "preferredName": "Andy Wissink",
+                "firstName": "Andy",
+                "lastName": "Wissink"
+            },
+            {
+                "id": 37087105177,
+                "preferredName": "Ben Parsons",
+                "firstName": "Ben",
+                "lastName": "Parsons"
+            },
+            {
+                "id": 37087140428,
+                "preferredName": "Junqi Yin",
+                "firstName": "Junqi",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37269350300,
+                "preferredName": "Valentine Anantharaj",
+                "firstName": "Valentine",
+                "lastName": "Anantharaj"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00013",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9653176",
+        "articleTitle": "HYPPO: A Surrogate-Based Multi-Level Parallelism Tool for Hyperparameter Optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "93",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "HYPPO: A Surrogate-Based Multi-Level Parallelism Tool for Hyperparameter Optimization",
+        "authors": [
+            {
+                "id": 37089099903,
+                "preferredName": "Vincent Dumont",
+                "firstName": "Vincent",
+                "lastName": "Dumont"
+            },
+            {
+                "id": 37089213610,
+                "preferredName": "Casey Garner",
+                "firstName": "Casey",
+                "lastName": "Garner"
+            },
+            {
+                "id": 37089212046,
+                "preferredName": "Anuradha Trivedi",
+                "firstName": "Anuradha",
+                "lastName": "Trivedi"
+            },
+            {
+                "id": 37089216374,
+                "preferredName": "Chelsea Jones",
+                "firstName": "Chelsea",
+                "lastName": "Jones"
+            },
+            {
+                "id": 37599972000,
+                "preferredName": "Vidya Ganapati",
+                "firstName": "Vidya",
+                "lastName": "Ganapati"
+            },
+            {
+                "id": 37089214562,
+                "preferredName": "Juliane Mueller",
+                "firstName": "Juliane",
+                "lastName": "Mueller"
+            },
+            {
+                "id": 37888698400,
+                "preferredName": "Talita Perciano",
+                "firstName": "Talita",
+                "lastName": "Perciano"
+            },
+            {
+                "id": 37710698500,
+                "preferredName": "Mariam Kiran",
+                "firstName": "Mariam",
+                "lastName": "Kiran"
+            },
+            {
+                "id": 37089211674,
+                "preferredName": "Marc Day",
+                "firstName": "Marc",
+                "lastName": "Day"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00006",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9653175",
+        "articleTitle": "Semantic-Aware Lossless Data Compression for Deep Learning Recommendation Model (DLRM)",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "Semantic-Aware Lossless Data Compression for Deep Learning Recommendation Model (DLRM)",
+        "authors": [
+            {
+                "id": 38467852700,
+                "preferredName": "Sarunya Pumma",
+                "firstName": "Sarunya",
+                "lastName": "Pumma"
+            },
+            {
+                "id": 37393245100,
+                "preferredName": "Abhinav Vishnu",
+                "firstName": "Abhinav",
+                "lastName": "Vishnu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00004",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652869",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00005",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9653174",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "7",
+        "endPage": "7",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00001",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652865",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00015",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652867",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "107",
+        "endPage": "108",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00003",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652866",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9652875",
+        "doi": "10.1109/MLHPC54614.2021.00002",
+        "publicationYear": "2021",
+        "publicationDate": "15-15 Nov. 2021",
+        "articleNumber": "9652870",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2021 IEEE/ACM Workshop on Machine Learning in High Performance Computing Environments (MLHPC)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    }
+]

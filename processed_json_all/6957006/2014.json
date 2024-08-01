@@ -1,0 +1,2783 @@
+[
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968773",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968773",
+        "articleTitle": "POSTER: MemFS: An in-memory runtime file system with symmetrical data distribution",
+        "volume": null,
+        "issue": null,
+        "startPage": "272",
+        "endPage": "273",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: MemFS: An in-memory runtime file system with symmetrical data distribution",
+        "authors": [
+            {
+                "id": 37085422307,
+                "preferredName": "Alexandru Uta",
+                "firstName": "Alexandru",
+                "lastName": "Uta"
+            },
+            {
+                "id": 37085423788,
+                "preferredName": "Andreea Sandu",
+                "firstName": "Andreea",
+                "lastName": "Sandu"
+            },
+            {
+                "id": 37276597700,
+                "preferredName": "Thilo Kielmann",
+                "firstName": "Thilo",
+                "lastName": "Kielmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968744",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968744",
+        "articleTitle": "POSTER: Leveraging deep memory hierarchies for data staging in coupled data-intensive simulation workflows",
+        "volume": null,
+        "issue": null,
+        "startPage": "268",
+        "endPage": "269",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Leveraging deep memory hierarchies for data staging in coupled data-intensive simulation workflows",
+        "authors": [
+            {
+                "id": 38551723200,
+                "preferredName": "Tong Jin",
+                "firstName": "Tong",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37716162500,
+                "preferredName": "Fan Zhang",
+                "firstName": "Fan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085343088,
+                "preferredName": "Qian Sun",
+                "firstName": "Qian",
+                "lastName": "Sun"
+            },
+            {
+                "id": 38581191000,
+                "preferredName": "Hoang Bui",
+                "firstName": "Hoang",
+                "lastName": "Bui"
+            },
+            {
+                "id": 37282674800,
+                "preferredName": "Norbert Podhorszki",
+                "firstName": "Norbert",
+                "lastName": "Podhorszki"
+            },
+            {
+                "id": 37267815000,
+                "preferredName": "Scott Klasky",
+                "firstName": "Scott",
+                "lastName": "Klasky"
+            },
+            {
+                "id": 38014896200,
+                "preferredName": "Hemanth Kolla",
+                "firstName": "Hemanth",
+                "lastName": "Kolla"
+            },
+            {
+                "id": 37293022400,
+                "preferredName": "Jacqueline Chen",
+                "firstName": "Jacqueline",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37085358527,
+                "preferredName": "Robert Hager",
+                "firstName": "Robert",
+                "lastName": "Hager"
+            },
+            {
+                "id": 37085364237,
+                "preferredName": "Choong-Seock Chang",
+                "firstName": "Choong-Seock",
+                "lastName": "Chang"
+            },
+            {
+                "id": 37269279100,
+                "preferredName": "Manish Parashar",
+                "firstName": "Manish",
+                "lastName": "Parashar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968737",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968737",
+        "articleTitle": "POSTER: Boosting the performance of remote GPU virtualization using InfiniBand connect-IB and PCIe 3.0",
+        "volume": null,
+        "issue": null,
+        "startPage": "266",
+        "endPage": "267",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Boosting the performance of remote GPU virtualization using InfiniBand connect-IB and PCIe 3.0",
+        "authors": [
+            {
+                "id": 38666791000,
+                "preferredName": "C. Rea\u00f1o",
+                "firstName": "C.",
+                "lastName": "Rea\u00f1o"
+            },
+            {
+                "id": 37355703000,
+                "preferredName": "F. Silla",
+                "firstName": "F.",
+                "lastName": "Silla"
+            },
+            {
+                "id": 37085345973,
+                "preferredName": "A. J. Pe\u00f1a",
+                "firstName": "A. J.",
+                "lastName": "Pe\u00f1a"
+            },
+            {
+                "id": 37299684200,
+                "preferredName": "G. Shainer",
+                "firstName": "G.",
+                "lastName": "Shainer"
+            },
+            {
+                "id": 37085589249,
+                "preferredName": "S. Schultz",
+                "firstName": "S.",
+                "lastName": "Schultz"
+            },
+            {
+                "id": 37085466706,
+                "preferredName": "A. Castell\u00f3",
+                "firstName": "A.",
+                "lastName": "Castell\u00f3"
+            },
+            {
+                "id": 38273652900,
+                "preferredName": "E. S. Quintana-Ort\u00ed",
+                "firstName": "E. S.",
+                "lastName": "Quintana-Ort\u00ed"
+            },
+            {
+                "id": 37274199100,
+                "preferredName": "J. Duato",
+                "firstName": "J.",
+                "lastName": "Duato"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968741",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968741",
+        "articleTitle": "A spatiotemporal data aggregation technique for performance analysis of large-scale execution traces",
+        "volume": null,
+        "issue": null,
+        "startPage": "149",
+        "endPage": "157",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "A spatiotemporal data aggregation technique for performance analysis of large-scale execution traces",
+        "authors": [
+            {
+                "id": 37085480275,
+                "preferredName": "Damien Dosimont",
+                "firstName": "Damien",
+                "lastName": "Dosimont"
+            },
+            {
+                "id": 37085390539,
+                "preferredName": "Robin Lamarche-Perrin",
+                "firstName": "Robin",
+                "lastName": "Lamarche-Perrin"
+            },
+            {
+                "id": 37304894200,
+                "preferredName": "Lucas Mello Schnorr",
+                "firstName": "Lucas Mello",
+                "lastName": "Schnorr"
+            },
+            {
+                "id": 37296765300,
+                "preferredName": "Guillaume Huard",
+                "firstName": "Guillaume",
+                "lastName": "Huard"
+            },
+            {
+                "id": 37283141300,
+                "preferredName": "Jean-Marc Vincent",
+                "firstName": "Jean-Marc",
+                "lastName": "Vincent"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968738",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968738",
+        "articleTitle": "POSTER: Utilizing dataflow-based execution for coupled cluster methods",
+        "volume": null,
+        "issue": null,
+        "startPage": "296",
+        "endPage": "297",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Utilizing dataflow-based execution for coupled cluster methods",
+        "authors": [
+            {
+                "id": 38492026700,
+                "preferredName": "Heike McCraw",
+                "firstName": "Heike",
+                "lastName": "McCraw"
+            },
+            {
+                "id": 37265260000,
+                "preferredName": "Anthony Danalis",
+                "firstName": "Anthony",
+                "lastName": "Danalis"
+            },
+            {
+                "id": 37296692100,
+                "preferredName": "Thomas Herault",
+                "firstName": "Thomas",
+                "lastName": "Herault"
+            },
+            {
+                "id": 37299775300,
+                "preferredName": "George Bosilca",
+                "firstName": "George",
+                "lastName": "Bosilca"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            },
+            {
+                "id": 37603007600,
+                "preferredName": "Karol Kowalski",
+                "firstName": "Karol",
+                "lastName": "Kowalski"
+            },
+            {
+                "id": 37266776700,
+                "preferredName": "Theresa L. Windus",
+                "firstName": "Theresa L.",
+                "lastName": "Windus"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968758",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968758",
+        "articleTitle": "POSTER: Performance evaluation of a signal extraction algorithm for the Cherenkov Telescope Array's Real Time Analysis pipeline",
+        "volume": null,
+        "issue": null,
+        "startPage": "292",
+        "endPage": "293",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Performance evaluation of a signal extraction algorithm for the Cherenkov Telescope Array's Real Time Analysis pipeline",
+        "authors": [
+            {
+                "id": 38273262500,
+                "preferredName": "Juan Jos\u00e9 Rodr\u00edguez-V\u00e1zquez",
+                "firstName": "Juan Jos\u00e9",
+                "lastName": "Rodr\u00edguez-V\u00e1zquez"
+            },
+            {
+                "id": 38273389100,
+                "preferredName": "Jos\u00e9 Luis V\u00e1zquez-Poletti",
+                "firstName": "Jos\u00e9 Luis",
+                "lastName": "V\u00e1zquez-Poletti"
+            },
+            {
+                "id": 38548788900,
+                "preferredName": "Carlos Delgado",
+                "firstName": "Carlos",
+                "lastName": "Delgado"
+            },
+            {
+                "id": 37424295000,
+                "preferredName": "Andrea Bulgarelli",
+                "firstName": "Andrea",
+                "lastName": "Bulgarelli"
+            },
+            {
+                "id": 38272747900,
+                "preferredName": "Miguel C\u00e1rdenas-Montes",
+                "firstName": "Miguel",
+                "lastName": "C\u00e1rdenas-Montes"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968749",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968749",
+        "articleTitle": "POSTER: Energy-performance tradeoffs in multilevel checkpoint strategies",
+        "volume": null,
+        "issue": null,
+        "startPage": "278",
+        "endPage": "279",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Energy-performance tradeoffs in multilevel checkpoint strategies",
+        "authors": [
+            {
+                "id": 37856732900,
+                "preferredName": "Leonardo A. Bautista Gomez",
+                "firstName": "Leonardo A. Bautista",
+                "lastName": "Gomez"
+            },
+            {
+                "id": 38581290700,
+                "preferredName": "Prasanna Balaprakash",
+                "firstName": "Prasanna",
+                "lastName": "Balaprakash"
+            },
+            {
+                "id": 37722020300,
+                "preferredName": "Mohamed-Slim Bouguerra",
+                "firstName": "Mohamed-Slim",
+                "lastName": "Bouguerra"
+            },
+            {
+                "id": 37085384495,
+                "preferredName": "Stefan M. Wild",
+                "firstName": "Stefan M.",
+                "lastName": "Wild"
+            },
+            {
+                "id": 37299773700,
+                "preferredName": "Franck Cappello",
+                "firstName": "Franck",
+                "lastName": "Cappello"
+            },
+            {
+                "id": 37295410600,
+                "preferredName": "Paul D. Hovland",
+                "firstName": "Paul D.",
+                "lastName": "Hovland"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968767",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968767",
+        "articleTitle": "POSTER: High-performance implementations for shear-shear correlation calculation",
+        "volume": null,
+        "issue": null,
+        "startPage": "290",
+        "endPage": "291",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: High-performance implementations for shear-shear correlation calculation",
+        "authors": [
+            {
+                "id": 38272747900,
+                "preferredName": "Miguel C\u00e1rdenas-Montes",
+                "firstName": "Miguel",
+                "lastName": "C\u00e1rdenas-Montes"
+            },
+            {
+                "id": 38273262500,
+                "preferredName": "Juan Jos\u00e9 Rodr\u00edguez-V\u00e1zquez",
+                "firstName": "Juan Jos\u00e9",
+                "lastName": "Rodr\u00edguez-V\u00e1zquez"
+            },
+            {
+                "id": 37085386712,
+                "preferredName": "Ignacio Sevilla-Noarbe",
+                "firstName": "Ignacio",
+                "lastName": "Sevilla-Noarbe"
+            },
+            {
+                "id": 37085373933,
+                "preferredName": "Eusebio S\u00e1nchez Alvaro",
+                "firstName": "Eusebio S\u00e1nchez",
+                "lastName": "Alvaro"
+            },
+            {
+                "id": 37089042796,
+                "preferredName": "Rafael Ponce",
+                "firstName": "Rafael",
+                "lastName": "Ponce"
+            },
+            {
+                "id": 38270416500,
+                "preferredName": "Miguel A. Vega-Rodr\u00edguez",
+                "firstName": "Miguel A.",
+                "lastName": "Vega-Rodr\u00edguez"
+            },
+            {
+                "id": 37085386772,
+                "preferredName": "Christopher Bonnett",
+                "firstName": "Christopher",
+                "lastName": "Bonnett"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968769",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968769",
+        "articleTitle": "POSTER: QMapper: Scalability and energy saving for virtualized web server clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "270",
+        "endPage": "271",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: QMapper: Scalability and energy saving for virtualized web server clusters",
+        "authors": [
+            {
+                "id": 38241821200,
+                "preferredName": "Andr\u00e9 Felipe Monteiro",
+                "firstName": "Andr\u00e9 Felipe",
+                "lastName": "Monteiro"
+            },
+            {
+                "id": 37304337100,
+                "preferredName": "Orlando Loques",
+                "firstName": "Orlando",
+                "lastName": "Loques"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968752",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968752",
+        "articleTitle": "POSTER: a generic framework for asynchronous progression and multithreaded communications",
+        "volume": null,
+        "issue": null,
+        "startPage": "276",
+        "endPage": "277",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: a generic framework for asynchronous progression and multithreaded communications",
+        "authors": [
+            {
+                "id": 37276544200,
+                "preferredName": "Alexandre Denis",
+                "firstName": "Alexandre",
+                "lastName": "Denis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968760",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968760",
+        "articleTitle": "POSTER: An innovative storage stack addressing extreme scale platforms and Big Data applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "280",
+        "endPage": "281",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: An innovative storage stack addressing extreme scale platforms and Big Data applications",
+        "authors": [
+            {
+                "id": 37393849700,
+                "preferredName": "Jay Lofstead",
+                "firstName": "Jay",
+                "lastName": "Lofstead"
+            },
+            {
+                "id": 37409610300,
+                "preferredName": "Ivo Jimenez",
+                "firstName": "Ivo",
+                "lastName": "Jimenez"
+            },
+            {
+                "id": 37426635400,
+                "preferredName": "Carlos Maltzahn",
+                "firstName": "Carlos",
+                "lastName": "Maltzahn"
+            },
+            {
+                "id": 37085424277,
+                "preferredName": "Quincey Koziol",
+                "firstName": "Quincey",
+                "lastName": "Koziol"
+            },
+            {
+                "id": 37341149700,
+                "preferredName": "John Bent",
+                "firstName": "John",
+                "lastName": "Bent"
+            },
+            {
+                "id": 38581327400,
+                "preferredName": "Eric Barton",
+                "firstName": "Eric",
+                "lastName": "Barton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968762",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968762",
+        "articleTitle": "POSTER: Fingerprinting application dependencies",
+        "volume": null,
+        "issue": null,
+        "startPage": "288",
+        "endPage": "289",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Fingerprinting application dependencies",
+        "authors": [
+            {
+                "id": 37660892600,
+                "preferredName": "Luca Clementi",
+                "firstName": "Luca",
+                "lastName": "Clementi"
+            },
+            {
+                "id": 37369614400,
+                "preferredName": "Philip Papadopoulos",
+                "firstName": "Philip",
+                "lastName": "Papadopoulos"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968776",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968776",
+        "articleTitle": "POSTER: \u201cAnalysis of scalability: A parallel application model approach\u201d",
+        "volume": null,
+        "issue": null,
+        "startPage": "294",
+        "endPage": "295",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: \u201cAnalysis of scalability: A parallel application model approach\u201d",
+        "authors": [
+            {
+                "id": 37089136432,
+                "preferredName": "Javier Panadero",
+                "firstName": "Javier",
+                "lastName": "Panadero"
+            },
+            {
+                "id": 38018913500,
+                "preferredName": "Alvaro Wong",
+                "firstName": "Alvaro",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37299965900,
+                "preferredName": "Dolores Rexachs",
+                "firstName": "Dolores",
+                "lastName": "Rexachs"
+            },
+            {
+                "id": 37299737900,
+                "preferredName": "Emilio Luque",
+                "firstName": "Emilio",
+                "lastName": "Luque"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968759",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968759",
+        "articleTitle": "Load analysis and cost estimation of parallel constrained producer-consumer algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "286",
+        "endPage": "287",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Load analysis and cost estimation of parallel constrained producer-consumer algorithms",
+        "authors": [
+            {
+                "id": 37089132910,
+                "preferredName": "Tariq Kamal",
+                "firstName": "Tariq",
+                "lastName": "Kamal"
+            },
+            {
+                "id": 37403603900,
+                "preferredName": "Keith R. Bisset",
+                "firstName": "Keith R.",
+                "lastName": "Bisset"
+            },
+            {
+                "id": 37411735900,
+                "preferredName": "Ali R. Butt",
+                "firstName": "Ali R.",
+                "lastName": "Butt"
+            },
+            {
+                "id": 37265046100,
+                "preferredName": "Madhav V. Marathe",
+                "firstName": "Madhav V.",
+                "lastName": "Marathe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968763",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968763",
+        "articleTitle": "POSTER: Optimizing scientific file I/O patterns using advice based knowledge",
+        "volume": null,
+        "issue": null,
+        "startPage": "282",
+        "endPage": "283",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Optimizing scientific file I/O patterns using advice based knowledge",
+        "authors": [
+            {
+                "id": 38513543700,
+                "preferredName": "Giuseppe Congiu",
+                "firstName": "Giuseppe",
+                "lastName": "Congiu"
+            },
+            {
+                "id": 37698299000,
+                "preferredName": "Matthias Grawinkel",
+                "firstName": "Matthias",
+                "lastName": "Grawinkel"
+            },
+            {
+                "id": 37085353229,
+                "preferredName": "Federico Padua",
+                "firstName": "Federico",
+                "lastName": "Padua"
+            },
+            {
+                "id": 37085349176,
+                "preferredName": "James Morse",
+                "firstName": "James",
+                "lastName": "Morse"
+            },
+            {
+                "id": 38109619500,
+                "preferredName": "Tim S\u00fc\u00df",
+                "firstName": "Tim",
+                "lastName": "S\u00fc\u00df"
+            },
+            {
+                "id": 37299903000,
+                "preferredName": "Andr\u00e9 Brinkmann",
+                "firstName": "Andr\u00e9",
+                "lastName": "Brinkmann"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968775",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968775",
+        "articleTitle": "POSTER: Preliminary evaluation of optimized transfer method for cluster-wide RAID-4",
+        "volume": null,
+        "issue": null,
+        "startPage": "284",
+        "endPage": "285",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Preliminary evaluation of optimized transfer method for cluster-wide RAID-4",
+        "authors": [
+            {
+                "id": 37085380174,
+                "preferredName": "Hiroki Ohtsuji",
+                "firstName": "Hiroki",
+                "lastName": "Ohtsuji"
+            },
+            {
+                "id": 37565852400,
+                "preferredName": "Osamu Tatebe",
+                "firstName": "Osamu",
+                "lastName": "Tatebe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968746",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968746",
+        "articleTitle": "POSTER: Profit-aware cloud resource provisioner for ecommerce",
+        "volume": null,
+        "issue": null,
+        "startPage": "274",
+        "endPage": "275",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "POSTER: Profit-aware cloud resource provisioner for ecommerce",
+        "authors": [
+            {
+                "id": 37590195100,
+                "preferredName": "Nicolas Poggi",
+                "firstName": "Nicolas",
+                "lastName": "Poggi"
+            },
+            {
+                "id": 37281792900,
+                "preferredName": "David Carrera",
+                "firstName": "David",
+                "lastName": "Carrera"
+            },
+            {
+                "id": 37283770000,
+                "preferredName": "Eduard Ayguad\u00e9",
+                "firstName": "Eduard",
+                "lastName": "Ayguad\u00e9"
+            },
+            {
+                "id": 37270777700,
+                "preferredName": "Jordi Torres",
+                "firstName": "Jordi",
+                "lastName": "Torres"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968785",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968785",
+        "articleTitle": "A scalable framework for large-scale analysis of gene-gene interactions",
+        "volume": null,
+        "issue": null,
+        "startPage": "380",
+        "endPage": "384",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "A scalable framework for large-scale analysis of gene-gene interactions",
+        "authors": [
+            {
+                "id": 37087948363,
+                "preferredName": "Moez Ben Haj Hmida",
+                "firstName": "Moez Ben Haj",
+                "lastName": "Hmida"
+            },
+            {
+                "id": 37294729600,
+                "preferredName": "Yahya Slimani",
+                "firstName": "Yahya",
+                "lastName": "Slimani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968772",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968772",
+        "articleTitle": "SWAPHI-LS: Smith-Waterman Algorithm on Xeon Phi coprocessors for Long DNA Sequences",
+        "volume": null,
+        "issue": null,
+        "startPage": "257",
+        "endPage": "265",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "SWAPHI-LS: Smith-Waterman Algorithm on Xeon Phi coprocessors for Long DNA Sequences",
+        "authors": [
+            {
+                "id": 37577992400,
+                "preferredName": "Yongchao Liu",
+                "firstName": "Yongchao",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085429090,
+                "preferredName": "Tuan-Tu Tran",
+                "firstName": "Tuan-Tu",
+                "lastName": "Tran"
+            },
+            {
+                "id": 37085430346,
+                "preferredName": "Felix Lauenroth",
+                "firstName": "Felix",
+                "lastName": "Lauenroth"
+            },
+            {
+                "id": 37271057300,
+                "preferredName": "Bertil Schmidt",
+                "firstName": "Bertil",
+                "lastName": "Schmidt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968768",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968768",
+        "articleTitle": "Digging deeper into cluster system logs for failure prediction and root cause diagnosis",
+        "volume": null,
+        "issue": null,
+        "startPage": "103",
+        "endPage": "112",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Digging deeper into cluster system logs for failure prediction and root cause diagnosis",
+        "authors": [
+            {
+                "id": 38548466300,
+                "preferredName": "Xiaoyu Fu",
+                "firstName": "Xiaoyu",
+                "lastName": "Fu"
+            },
+            {
+                "id": 38548587400,
+                "preferredName": "Rui Ren",
+                "firstName": "Rui",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37347951700,
+                "preferredName": "Sally A. McKee",
+                "firstName": "Sally A.",
+                "lastName": "McKee"
+            },
+            {
+                "id": 37285961600,
+                "preferredName": "Jianfeng Zhan",
+                "firstName": "Jianfeng",
+                "lastName": "Zhan"
+            },
+            {
+                "id": 37287666000,
+                "preferredName": "Ninghui Sun",
+                "firstName": "Ninghui",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968756",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968756",
+        "articleTitle": "Toward the efficient use of multiple explicitly managed memory subsystems",
+        "volume": null,
+        "issue": null,
+        "startPage": "123",
+        "endPage": "131",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Toward the efficient use of multiple explicitly managed memory subsystems",
+        "authors": [
+            {
+                "id": 37085345973,
+                "preferredName": "Antonio J. Pe\u00f1a",
+                "firstName": "Antonio J.",
+                "lastName": "Pe\u00f1a"
+            },
+            {
+                "id": 37297588700,
+                "preferredName": "Pavan Balaji",
+                "firstName": "Pavan",
+                "lastName": "Balaji"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968743",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968743",
+        "articleTitle": "How file access patterns influence interference among cluster applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "185",
+        "endPage": "193",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "How file access patterns influence interference among cluster applications",
+        "authors": [
+            {
+                "id": 38007741100,
+                "preferredName": "Chih-Song Kuo",
+                "firstName": "Chih-Song",
+                "lastName": "Kuo"
+            },
+            {
+                "id": 37085584404,
+                "preferredName": "Aamer Shah",
+                "firstName": "Aamer",
+                "lastName": "Shah"
+            },
+            {
+                "id": 37701551800,
+                "preferredName": "Akihiro Nomura",
+                "firstName": "Akihiro",
+                "lastName": "Nomura"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            },
+            {
+                "id": 37281845900,
+                "preferredName": "Felix Wolf",
+                "firstName": "Felix",
+                "lastName": "Wolf"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968672",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968672",
+        "articleTitle": "Power monitoring with PAPI for extreme scale architectures and dataflow-based programming models",
+        "volume": null,
+        "issue": null,
+        "startPage": "385",
+        "endPage": "391",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Power monitoring with PAPI for extreme scale architectures and dataflow-based programming models",
+        "authors": [
+            {
+                "id": 38492026700,
+                "preferredName": "Heike McCraw",
+                "firstName": "Heike",
+                "lastName": "McCraw"
+            },
+            {
+                "id": 38246213500,
+                "preferredName": "James Ralph",
+                "firstName": "James",
+                "lastName": "Ralph"
+            },
+            {
+                "id": 37265260000,
+                "preferredName": "Anthony Danalis",
+                "firstName": "Anthony",
+                "lastName": "Danalis"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968745",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968745",
+        "articleTitle": "Evaluation of emerging memory technologies for HPC, data intensive applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "239",
+        "endPage": "247",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Evaluation of emerging memory technologies for HPC, data intensive applications",
+        "authors": [
+            {
+                "id": 37089118242,
+                "preferredName": "Amoghavarsha Suresh",
+                "firstName": "Amoghavarsha",
+                "lastName": "Suresh"
+            },
+            {
+                "id": 37281804400,
+                "preferredName": "Pietro Cicotti",
+                "firstName": "Pietro",
+                "lastName": "Cicotti"
+            },
+            {
+                "id": 37393242500,
+                "preferredName": "Laura Carrington",
+                "firstName": "Laura",
+                "lastName": "Carrington"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968777",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968777",
+        "articleTitle": "Checkpoint/restart in practice: When \u2018simple is better\u2019",
+        "volume": null,
+        "issue": null,
+        "startPage": "84",
+        "endPage": "92",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Checkpoint/restart in practice: When \u2018simple is better\u2019",
+        "authors": [
+            {
+                "id": 38327104700,
+                "preferredName": "Nosayba El-Sayed",
+                "firstName": "Nosayba",
+                "lastName": "El-Sayed"
+            },
+            {
+                "id": 37284562200,
+                "preferredName": "Bianca Schroeder",
+                "firstName": "Bianca",
+                "lastName": "Schroeder"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968753",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968753",
+        "articleTitle": "On the use of microservers in supporting hadoop applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "66",
+        "endPage": "74",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "On the use of microservers in supporting hadoop applications",
+        "authors": [
+            {
+                "id": 37085385315,
+                "preferredName": "Ali Anwar",
+                "firstName": "Ali",
+                "lastName": "Anwar"
+            },
+            {
+                "id": 37085345098,
+                "preferredName": "K.R. Krish",
+                "firstName": "K.R.",
+                "lastName": "Krish"
+            },
+            {
+                "id": 37411735900,
+                "preferredName": "Ali R. Butt",
+                "firstName": "Ali R.",
+                "lastName": "Butt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968735",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968735",
+        "articleTitle": "Evaluating job packing in warehouse-scale computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Evaluating job packing in warehouse-scale computing",
+        "authors": [
+            {
+                "id": 37085590566,
+                "preferredName": "Abhishek Verma",
+                "firstName": "Abhishek",
+                "lastName": "Verma"
+            },
+            {
+                "id": 37332881900,
+                "preferredName": "Madhukar Korupolu",
+                "firstName": "Madhukar",
+                "lastName": "Korupolu"
+            },
+            {
+                "id": 37089087255,
+                "preferredName": "John Wilkes",
+                "firstName": "John",
+                "lastName": "Wilkes"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968778",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968778",
+        "articleTitle": "To checkpoint or not to checkpoint: Understanding energy-performance-I/O tradeoffs in HPC checkpointing",
+        "volume": null,
+        "issue": null,
+        "startPage": "93",
+        "endPage": "102",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "To checkpoint or not to checkpoint: Understanding energy-performance-I/O tradeoffs in HPC checkpointing",
+        "authors": [
+            {
+                "id": 38327104700,
+                "preferredName": "Nosayba El-Sayed",
+                "firstName": "Nosayba",
+                "lastName": "El-Sayed"
+            },
+            {
+                "id": 37284562200,
+                "preferredName": "Bianca Schroeder",
+                "firstName": "Bianca",
+                "lastName": "Schroeder"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968748",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968748",
+        "articleTitle": "Out-of-core GPU memory management for MapReduce-based large-scale graph processing",
+        "volume": null,
+        "issue": null,
+        "startPage": "221",
+        "endPage": "229",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Out-of-core GPU memory management for MapReduce-based large-scale graph processing",
+        "authors": [
+            {
+                "id": 37861842300,
+                "preferredName": "Koichi Shirahata",
+                "firstName": "Koichi",
+                "lastName": "Shirahata"
+            },
+            {
+                "id": 37308943000,
+                "preferredName": "Hitoshi Sato",
+                "firstName": "Hitoshi",
+                "lastName": "Sato"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968747",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968747",
+        "articleTitle": "Software technologies coping with memory hierarchy of GPGPU clusters for stencil computations",
+        "volume": null,
+        "issue": null,
+        "startPage": "132",
+        "endPage": "139",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Software technologies coping with memory hierarchy of GPGPU clusters for stencil computations",
+        "authors": [
+            {
+                "id": 37277040100,
+                "preferredName": "Toshio Endo",
+                "firstName": "Toshio",
+                "lastName": "Endo"
+            },
+            {
+                "id": 37085416416,
+                "preferredName": "Guanghao Jin",
+                "firstName": "Guanghao",
+                "lastName": "Jin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968751",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968751",
+        "articleTitle": "Balancing job performance with system performance via locality-aware scheduling on torus-connected systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "140",
+        "endPage": "148",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Balancing job performance with system performance via locality-aware scheduling on torus-connected systems",
+        "authors": [
+            {
+                "id": 37085462155,
+                "preferredName": "Xu Yang",
+                "firstName": "Xu",
+                "lastName": "Yang"
+            },
+            {
+                "id": 38024388800,
+                "preferredName": "Zhou Zhou",
+                "firstName": "Zhou",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37085367851,
+                "preferredName": "Wei Tang",
+                "firstName": "Wei",
+                "lastName": "Tang"
+            },
+            {
+                "id": 37085453863,
+                "preferredName": "Xingwu Zheng",
+                "firstName": "Xingwu",
+                "lastName": "Zheng"
+            },
+            {
+                "id": 37280526100,
+                "preferredName": "Jia Wang",
+                "firstName": "Jia",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37314459500,
+                "preferredName": "Zhiling Lan",
+                "firstName": "Zhiling",
+                "lastName": "Lan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968770",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968770",
+        "articleTitle": "UPC++ for bioinformatics: A case study using genome-wide association studies",
+        "volume": null,
+        "issue": null,
+        "startPage": "248",
+        "endPage": "256",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "UPC++ for bioinformatics: A case study using genome-wide association studies",
+        "authors": [
+            {
+                "id": 37085558168,
+                "preferredName": "Jan C. K\u00e4ssens",
+                "firstName": "Jan C.",
+                "lastName": "K\u00e4ssens"
+            },
+            {
+                "id": 38273210700,
+                "preferredName": "Jorge Gonz\u00e1lez-Dom\u00ednguez",
+                "firstName": "Jorge",
+                "lastName": "Gonz\u00e1lez-Dom\u00ednguez"
+            },
+            {
+                "id": 38476706400,
+                "preferredName": "Lars Wienbrandt",
+                "firstName": "Lars",
+                "lastName": "Wienbrandt"
+            },
+            {
+                "id": 37271057300,
+                "preferredName": "Bertil Schmidt",
+                "firstName": "Bertil",
+                "lastName": "Schmidt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968784",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968784",
+        "articleTitle": "Smith-Waterman algorithm on heterogeneous systems: A case study",
+        "volume": null,
+        "issue": null,
+        "startPage": "323",
+        "endPage": "330",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Smith-Waterman algorithm on heterogeneous systems: A case study",
+        "authors": [
+            {
+                "id": 37085543085,
+                "preferredName": "Enzo Rucci",
+                "firstName": "Enzo",
+                "lastName": "Rucci"
+            },
+            {
+                "id": 37427475500,
+                "preferredName": "Armando De Giusti",
+                "firstName": "Armando",
+                "lastName": "De Giusti"
+            },
+            {
+                "id": 37550826300,
+                "preferredName": "Marcelo Naiouf",
+                "firstName": "Marcelo",
+                "lastName": "Naiouf"
+            },
+            {
+                "id": 37573177100,
+                "preferredName": "Guillermo Botella",
+                "firstName": "Guillermo",
+                "lastName": "Botella"
+            },
+            {
+                "id": 37998699600,
+                "preferredName": "Carlos Garc\u00eda",
+                "firstName": "Carlos",
+                "lastName": "Garc\u00eda"
+            },
+            {
+                "id": 37085504804,
+                "preferredName": "Manuel Prieto-Matias",
+                "firstName": "Manuel",
+                "lastName": "Prieto-Matias"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968757",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968757",
+        "articleTitle": "Exploring void search for fault detection on extreme scale systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Exploring void search for fault detection on extreme scale systems",
+        "authors": [
+            {
+                "id": 37085494833,
+                "preferredName": "Eduardo Berrocal",
+                "firstName": "Eduardo",
+                "lastName": "Berrocal"
+            },
+            {
+                "id": 37711857700,
+                "preferredName": "Li Yu",
+                "firstName": "Li",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37085491152,
+                "preferredName": "Sean Wallace",
+                "firstName": "Sean",
+                "lastName": "Wallace"
+            },
+            {
+                "id": 37267817200,
+                "preferredName": "Michael E. Papka",
+                "firstName": "Michael E.",
+                "lastName": "Papka"
+            },
+            {
+                "id": 37314459500,
+                "preferredName": "Zhiling Lan",
+                "firstName": "Zhiling",
+                "lastName": "Lan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968742",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968742",
+        "articleTitle": "CD-RAIS: Constrained dynamic striping in redundant array of independent SSDs",
+        "volume": null,
+        "issue": null,
+        "startPage": "212",
+        "endPage": "220",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "CD-RAIS: Constrained dynamic striping in redundant array of independent SSDs",
+        "authors": [
+            {
+                "id": 37896902000,
+                "preferredName": "Yimo Du",
+                "firstName": "Yimo",
+                "lastName": "Du"
+            },
+            {
+                "id": 38183309800,
+                "preferredName": "Youtao Zhang",
+                "firstName": "Youtao",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37410882700,
+                "preferredName": "Nong Xiao",
+                "firstName": "Nong",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37534563000,
+                "preferredName": "Fang Liu",
+                "firstName": "Fang",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968670",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968670",
+        "articleTitle": "Demonstrating improved application performance using dynamic monitoring and task mapping",
+        "volume": null,
+        "issue": null,
+        "startPage": "408",
+        "endPage": "415",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Demonstrating improved application performance using dynamic monitoring and task mapping",
+        "authors": [
+            {
+                "id": 37292878100,
+                "preferredName": "J. Brandt",
+                "firstName": "J.",
+                "lastName": "Brandt"
+            },
+            {
+                "id": 37660775800,
+                "preferredName": "K. Devine",
+                "firstName": "K.",
+                "lastName": "Devine"
+            },
+            {
+                "id": 37288047200,
+                "preferredName": "A. Gentile",
+                "firstName": "A.",
+                "lastName": "Gentile"
+            },
+            {
+                "id": 37297345500,
+                "preferredName": "K. Pedretti",
+                "firstName": "K.",
+                "lastName": "Pedretti"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968755",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968755",
+        "articleTitle": "Scalable Graph500 design with MPI-3 RMA",
+        "volume": null,
+        "issue": null,
+        "startPage": "230",
+        "endPage": "238",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Scalable Graph500 design with MPI-3 RMA",
+        "authors": [
+            {
+                "id": 37070326100,
+                "preferredName": "Mingzhe Li",
+                "firstName": "Mingzhe",
+                "lastName": "Li"
+            },
+            {
+                "id": 37070173200,
+                "preferredName": "Xiaoyi Lu",
+                "firstName": "Xiaoyi",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37902624900,
+                "preferredName": "Sreeram Potluri",
+                "firstName": "Sreeram",
+                "lastName": "Potluri"
+            },
+            {
+                "id": 37992127500,
+                "preferredName": "Khaled Hamidouche",
+                "firstName": "Khaled",
+                "lastName": "Hamidouche"
+            },
+            {
+                "id": 37890118700,
+                "preferredName": "Jithin Jose",
+                "firstName": "Jithin",
+                "lastName": "Jose"
+            },
+            {
+                "id": 37369837800,
+                "preferredName": "Karen Tomko",
+                "firstName": "Karen",
+                "lastName": "Tomko"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K. Panda",
+                "firstName": "Dhabaleswar K.",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968766",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968766",
+        "articleTitle": "GIRAFFE: A scalable distributed coordination service for large-scale systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "38",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "GIRAFFE: A scalable distributed coordination service for large-scale systems",
+        "authors": [
+            {
+                "id": 37418799100,
+                "preferredName": "Xuanhua Shi",
+                "firstName": "Xuanhua",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37085529817,
+                "preferredName": "Haohong Lin",
+                "firstName": "Haohong",
+                "lastName": "Lin"
+            },
+            {
+                "id": 37276607900,
+                "preferredName": "Hai Jin",
+                "firstName": "Hai",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37274374800,
+                "preferredName": "Bing Bing Zhou",
+                "firstName": "Bing Bing",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37085544445,
+                "preferredName": "Zuoning Yin",
+                "firstName": "Zuoning",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37681686900,
+                "preferredName": "Sheng Di",
+                "firstName": "Sheng",
+                "lastName": "Di"
+            },
+            {
+                "id": 37281059500,
+                "preferredName": "Song Wu",
+                "firstName": "Song",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968782",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968782",
+        "articleTitle": "Feature selection in high-dimensional EEG data by parallel multi-objective optimization",
+        "volume": null,
+        "issue": null,
+        "startPage": "314",
+        "endPage": "322",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Feature selection in high-dimensional EEG data by parallel multi-objective optimization",
+        "authors": [
+            {
+                "id": 38467101100,
+                "preferredName": "Dragi Kimovski",
+                "firstName": "Dragi",
+                "lastName": "Kimovski"
+            },
+            {
+                "id": 37275699700,
+                "preferredName": "Julio Ortega",
+                "firstName": "Julio",
+                "lastName": "Ortega"
+            },
+            {
+                "id": 37286066200,
+                "preferredName": "Andr\u00e9s Ortiz",
+                "firstName": "Andr\u00e9s",
+                "lastName": "Ortiz"
+            },
+            {
+                "id": 38136503900,
+                "preferredName": "Ra\u00fal Ba\u00f1os",
+                "firstName": "Ra\u00fal",
+                "lastName": "Ba\u00f1os"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968765",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968765",
+        "articleTitle": "Parallel query evaluation as a Scientific Data Service",
+        "volume": null,
+        "issue": null,
+        "startPage": "194",
+        "endPage": "202",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Parallel query evaluation as a Scientific Data Service",
+        "authors": [
+            {
+                "id": 37085483889,
+                "preferredName": "Bin Dong",
+                "firstName": "Bin",
+                "lastName": "Dong"
+            },
+            {
+                "id": 37085862825,
+                "preferredName": "Surendra Byna",
+                "firstName": "Surendra",
+                "lastName": "Byna"
+            },
+            {
+                "id": 38276188200,
+                "preferredName": "Kesheng Wu",
+                "firstName": "Kesheng",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968739",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968739",
+        "articleTitle": "Scalable replay with partial-order dependencies for message-logging fault tolerance",
+        "volume": null,
+        "issue": null,
+        "startPage": "19",
+        "endPage": "28",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Scalable replay with partial-order dependencies for message-logging fault tolerance",
+        "authors": [
+            {
+                "id": 37858181700,
+                "preferredName": "Jonathan Lifflander",
+                "firstName": "Jonathan",
+                "lastName": "Lifflander"
+            },
+            {
+                "id": 37841787900,
+                "preferredName": "Esteban Meneses",
+                "firstName": "Esteban",
+                "lastName": "Meneses"
+            },
+            {
+                "id": 38491565300,
+                "preferredName": "Harshitha Menon",
+                "firstName": "Harshitha",
+                "lastName": "Menon"
+            },
+            {
+                "id": 37893253100,
+                "preferredName": "Phil Miller",
+                "firstName": "Phil",
+                "lastName": "Miller"
+            },
+            {
+                "id": 37283825700,
+                "preferredName": "Sriram Krishnamoorthy",
+                "firstName": "Sriram",
+                "lastName": "Krishnamoorthy"
+            },
+            {
+                "id": 37274120800,
+                "preferredName": "Laxmikant V. Kal\u00e9",
+                "firstName": "Laxmikant V.",
+                "lastName": "Kal\u00e9"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968771",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968771",
+        "articleTitle": "Memory management for billions of small objects in a distributed in-memory storage",
+        "volume": null,
+        "issue": null,
+        "startPage": "113",
+        "endPage": "122",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Memory management for billions of small objects in a distributed in-memory storage",
+        "authors": [
+            {
+                "id": 37085542951,
+                "preferredName": "Florian Klein",
+                "firstName": "Florian",
+                "lastName": "Klein"
+            },
+            {
+                "id": 37085545603,
+                "preferredName": "Kevin Beineke",
+                "firstName": "Kevin",
+                "lastName": "Beineke"
+            },
+            {
+                "id": 37564261400,
+                "preferredName": "Michael Sch\u00f6ttner",
+                "firstName": "Michael",
+                "lastName": "Sch\u00f6ttner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968789",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968789",
+        "articleTitle": "Evaluating Grasp-based cloud dimensioning for comparative genomics: A practical approach",
+        "volume": null,
+        "issue": null,
+        "startPage": "371",
+        "endPage": "379",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Evaluating Grasp-based cloud dimensioning for comparative genomics: A practical approach",
+        "authors": [
+            {
+                "id": 37085544339,
+                "preferredName": "Rafaelli Coutinho",
+                "firstName": "Rafaelli",
+                "lastName": "Coutinho"
+            },
+            {
+                "id": 37593782900,
+                "preferredName": "L\u00facia Drummond",
+                "firstName": "L\u00facia",
+                "lastName": "Drummond"
+            },
+            {
+                "id": 37085541120,
+                "preferredName": "Yuri Frota",
+                "firstName": "Yuri",
+                "lastName": "Frota"
+            },
+            {
+                "id": 37547810400,
+                "preferredName": "Daniel de Oliveira",
+                "firstName": "Daniel",
+                "lastName": "de Oliveira"
+            },
+            {
+                "id": 37887903600,
+                "preferredName": "Kary Oca\u00f1a",
+                "firstName": "Kary",
+                "lastName": "Oca\u00f1a"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968774",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968774",
+        "articleTitle": "Disk cache-aware task scheduling for data-intensive and many-task workflow",
+        "volume": null,
+        "issue": null,
+        "startPage": "167",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Disk cache-aware task scheduling for data-intensive and many-task workflow",
+        "authors": [
+            {
+                "id": 38247799700,
+                "preferredName": "Masahiro Tanaka",
+                "firstName": "Masahiro",
+                "lastName": "Tanaka"
+            },
+            {
+                "id": 37565852400,
+                "preferredName": "Osamu Tatebe",
+                "firstName": "Osamu",
+                "lastName": "Tatebe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968788",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968788",
+        "articleTitle": "Job scheduling in Hadoop with Shared Input Policy and RAMDISK",
+        "volume": null,
+        "issue": null,
+        "startPage": "355",
+        "endPage": "363",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Job scheduling in Hadoop with Shared Input Policy and RAMDISK",
+        "authors": [
+            {
+                "id": 37085573882,
+                "preferredName": "Aprigio Bezerra",
+                "firstName": "Aprigio",
+                "lastName": "Bezerra"
+            },
+            {
+                "id": 37301588700,
+                "preferredName": "Porfidio Hern\u00e1ndez",
+                "firstName": "Porfidio",
+                "lastName": "Hern\u00e1ndez"
+            },
+            {
+                "id": 37618014400,
+                "preferredName": "Antonio Espinosa",
+                "firstName": "Antonio",
+                "lastName": "Espinosa"
+            },
+            {
+                "id": 37348708800,
+                "preferredName": "Juan Carlos Moure",
+                "firstName": "Juan Carlos",
+                "lastName": "Moure"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968781",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968781",
+        "articleTitle": "High-performance X-ray tomography reconstruction algorithm based on heterogeneous accelerated computing systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "331",
+        "endPage": "338",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "High-performance X-ray tomography reconstruction algorithm based on heterogeneous accelerated computing systems",
+        "authors": [
+            {
+                "id": 37085556313,
+                "preferredName": "Estefania Serrano",
+                "firstName": "Estefania",
+                "lastName": "Serrano"
+            },
+            {
+                "id": 37085558012,
+                "preferredName": "Guzman Bermejo",
+                "firstName": "Guzman",
+                "lastName": "Bermejo"
+            },
+            {
+                "id": 37660831000,
+                "preferredName": "Javier Garcia Blas",
+                "firstName": "Javier Garcia",
+                "lastName": "Blas"
+            },
+            {
+                "id": 37299918000,
+                "preferredName": "Jesus Carretero",
+                "firstName": "Jesus",
+                "lastName": "Carretero"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968783",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968783",
+        "articleTitle": "Multi-GPU acceleration of DARTEL (early detection of Alzheimer)",
+        "volume": null,
+        "issue": null,
+        "startPage": "346",
+        "endPage": "354",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Multi-GPU acceleration of DARTEL (early detection of Alzheimer)",
+        "authors": [
+            {
+                "id": 38273496100,
+                "preferredName": "Pedro Valero-Lara",
+                "firstName": "Pedro",
+                "lastName": "Valero-Lara"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968750",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968750",
+        "articleTitle": "Efficient speed (ES): Adaptive DVFS and clock modulation for energy efficiency",
+        "volume": null,
+        "issue": null,
+        "startPage": "158",
+        "endPage": "166",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Efficient speed (ES): Adaptive DVFS and clock modulation for energy efficiency",
+        "authors": [
+            {
+                "id": 37281804400,
+                "preferredName": "Pietro Cicotti",
+                "firstName": "Pietro",
+                "lastName": "Cicotti"
+            },
+            {
+                "id": 38468604600,
+                "preferredName": "Ananta Tiwari",
+                "firstName": "Ananta",
+                "lastName": "Tiwari"
+            },
+            {
+                "id": 37393242500,
+                "preferredName": "Laura Carrington",
+                "firstName": "Laura",
+                "lastName": "Carrington"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968787",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968787",
+        "articleTitle": "A hybrid OpenMP and OpenMPI approach to geometrical motif search in proteins",
+        "volume": null,
+        "issue": null,
+        "startPage": "298",
+        "endPage": "304",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "A hybrid OpenMP and OpenMPI approach to geometrical motif search in proteins",
+        "authors": [
+            {
+                "id": 37269310800,
+                "preferredName": "Marco Ferretti",
+                "firstName": "Marco",
+                "lastName": "Ferretti"
+            },
+            {
+                "id": 37085346715,
+                "preferredName": "Mirto Musci",
+                "firstName": "Mirto",
+                "lastName": "Musci"
+            },
+            {
+                "id": 37085351845,
+                "preferredName": "Luigi Santangelo",
+                "firstName": "Luigi",
+                "lastName": "Santangelo"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968761",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968761",
+        "articleTitle": "Multi-tenant fair share in NoSQL data stores",
+        "volume": null,
+        "issue": null,
+        "startPage": "176",
+        "endPage": "184",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Multi-tenant fair share in NoSQL data stores",
+        "authors": [
+            {
+                "id": 37085559188,
+                "preferredName": "Jiaan Zeng",
+                "firstName": "Jiaan",
+                "lastName": "Zeng"
+            },
+            {
+                "id": 37275989100,
+                "preferredName": "Beth Plale",
+                "firstName": "Beth",
+                "lastName": "Plale"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968736",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968736",
+        "articleTitle": "SCALER: Scalable parallel file write in HDFS",
+        "volume": null,
+        "issue": null,
+        "startPage": "203",
+        "endPage": "211",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "SCALER: Scalable parallel file write in HDFS",
+        "authors": [
+            {
+                "id": 37085382170,
+                "preferredName": "Xi Yang",
+                "firstName": "Xi",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37714165400,
+                "preferredName": "Yanlong Yin",
+                "firstName": "Yanlong",
+                "lastName": "Yin"
+            },
+            {
+                "id": 37308381100,
+                "preferredName": "Hui Jin",
+                "firstName": "Hui",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37276409100,
+                "preferredName": "Xian-He Sun",
+                "firstName": "Xian-He",
+                "lastName": "Sun"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968764",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968764",
+        "articleTitle": "KOALA-C: A task allocator for integrated multicluster and multicloud environments",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "65",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "KOALA-C: A task allocator for integrated multicluster and multicloud environments",
+        "authors": [
+            {
+                "id": 37085407841,
+                "preferredName": "Lipu Fei",
+                "firstName": "Lipu",
+                "lastName": "Fei"
+            },
+            {
+                "id": 37601562900,
+                "preferredName": "Bogdan Ghi\u0163",
+                "firstName": "Bogdan",
+                "lastName": "Ghi\u0163"
+            },
+            {
+                "id": 37299711200,
+                "preferredName": "Alexandru Iosup",
+                "firstName": "Alexandru",
+                "lastName": "Iosup"
+            },
+            {
+                "id": 37299717900,
+                "preferredName": "Dick Epema",
+                "firstName": "Dick",
+                "lastName": "Epema"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968733",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968733",
+        "articleTitle": "Multiobjective optimization technique based on monitoring information to increase the performance of thread migration on multicores",
+        "volume": null,
+        "issue": null,
+        "startPage": "416",
+        "endPage": "423",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Multiobjective optimization technique based on monitoring information to increase the performance of thread migration on multicores",
+        "authors": [
+            {
+                "id": 38468727000,
+                "preferredName": "O.G. Lorenzo",
+                "firstName": "O.G.",
+                "lastName": "Lorenzo"
+            },
+            {
+                "id": 37326596300,
+                "preferredName": "T.F. Pena",
+                "firstName": "T.F.",
+                "lastName": "Pena"
+            },
+            {
+                "id": 37326597500,
+                "preferredName": "J.C. Cabaleiro",
+                "firstName": "J.C.",
+                "lastName": "Cabaleiro"
+            },
+            {
+                "id": 37393911000,
+                "preferredName": "J.C. Pichel",
+                "firstName": "J.C.",
+                "lastName": "Pichel"
+            },
+            {
+                "id": 37323229800,
+                "preferredName": "F.F. Rivera",
+                "firstName": "F.F.",
+                "lastName": "Rivera"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968786",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968786",
+        "articleTitle": "Anisotropic nonlinear diffusion for filtering 3D images on GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "339",
+        "endPage": "345",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Anisotropic nonlinear diffusion for filtering 3D images on GPUs",
+        "authors": [
+            {
+                "id": 38202401100,
+                "preferredName": "Siham Tabik",
+                "firstName": "Siham",
+                "lastName": "Tabik"
+            },
+            {
+                "id": 37313183400,
+                "preferredName": "Alin Murarasu",
+                "firstName": "Alin",
+                "lastName": "Murarasu"
+            },
+            {
+                "id": 38242595200,
+                "preferredName": "Luis F. Romero",
+                "firstName": "Luis F.",
+                "lastName": "Romero"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968671",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968671",
+        "articleTitle": "It takes a village: Monitoring the blue waters supercomputer",
+        "volume": null,
+        "issue": null,
+        "startPage": "392",
+        "endPage": "399",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "It takes a village: Monitoring the blue waters supercomputer",
+        "authors": [
+            {
+                "id": 37085361136,
+                "preferredName": "B. D. Semeraro",
+                "firstName": "B. D.",
+                "lastName": "Semeraro"
+            },
+            {
+                "id": 37937920300,
+                "preferredName": "Robert Sisneros",
+                "firstName": "Robert",
+                "lastName": "Sisneros"
+            },
+            {
+                "id": 38193158600,
+                "preferredName": "Joshi Fullop",
+                "firstName": "Joshi",
+                "lastName": "Fullop"
+            },
+            {
+                "id": 38246849100,
+                "preferredName": "Gregory H. Bauer",
+                "firstName": "Gregory H.",
+                "lastName": "Bauer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968779",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968779",
+        "articleTitle": "Applying OpenMP-based parallel implementations of NSGA-II and SPEA2 to study phylogenetic relationships",
+        "volume": null,
+        "issue": null,
+        "startPage": "305",
+        "endPage": "313",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Applying OpenMP-based parallel implementations of NSGA-II and SPEA2 to study phylogenetic relationships",
+        "authors": [
+            {
+                "id": 38468491200,
+                "preferredName": "Sergio Santander-Jim\u00e9nez",
+                "firstName": "Sergio",
+                "lastName": "Santander-Jim\u00e9nez"
+            },
+            {
+                "id": 38270416500,
+                "preferredName": "Miguel A. Vega-Rodr\u00edguez",
+                "firstName": "Miguel A.",
+                "lastName": "Vega-Rodr\u00edguez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968754",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968754",
+        "articleTitle": "High performance OpenSHMEM for Xeon Phi clusters: Extensions, runtime designs and application co-design",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "18",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "High performance OpenSHMEM for Xeon Phi clusters: Extensions, runtime designs and application co-design",
+        "authors": [
+            {
+                "id": 37890118700,
+                "preferredName": "Jithin Jose",
+                "firstName": "Jithin",
+                "lastName": "Jose"
+            },
+            {
+                "id": 37992127500,
+                "preferredName": "Khaled Hamidouche",
+                "firstName": "Khaled",
+                "lastName": "Hamidouche"
+            },
+            {
+                "id": 37070173200,
+                "preferredName": "Xiaoyi Lu",
+                "firstName": "Xiaoyi",
+                "lastName": "Lu"
+            },
+            {
+                "id": 37902624900,
+                "preferredName": "Sreeram Potluri",
+                "firstName": "Sreeram",
+                "lastName": "Potluri"
+            },
+            {
+                "id": 37085375289,
+                "preferredName": "Jie Zhang",
+                "firstName": "Jie",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37369837800,
+                "preferredName": "Karen Tomko",
+                "firstName": "Karen",
+                "lastName": "Tomko"
+            },
+            {
+                "id": 37275239100,
+                "preferredName": "Dhabaleswar K. Panda",
+                "firstName": "Dhabaleswar K.",
+                "lastName": "Panda"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968734",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968734",
+        "articleTitle": "Applying frequency analysis techniques to dag-based workflows to benchmark and predict resource behavior on non-dedicated clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "29",
+        "endPage": "37",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Applying frequency analysis techniques to dag-based workflows to benchmark and predict resource behavior on non-dedicated clusters",
+        "authors": [
+            {
+                "id": 37392862600,
+                "preferredName": "Vivek K. Pallipuram",
+                "firstName": "Vivek K.",
+                "lastName": "Pallipuram"
+            },
+            {
+                "id": 37085399352,
+                "preferredName": "Jeffrey DiMarco",
+                "firstName": "Jeffrey",
+                "lastName": "DiMarco"
+            },
+            {
+                "id": 37283781300,
+                "preferredName": "Michela Taufer",
+                "firstName": "Michela",
+                "lastName": "Taufer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968780",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968780",
+        "articleTitle": "Support for bioinformatics applications through volunteer and scalable computing frameworks",
+        "volume": null,
+        "issue": null,
+        "startPage": "364",
+        "endPage": "370",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Support for bioinformatics applications through volunteer and scalable computing frameworks",
+        "authors": [
+            {
+                "id": 37085587822,
+                "preferredName": "Felipe Gutierrez",
+                "firstName": "Felipe",
+                "lastName": "Gutierrez"
+            },
+            {
+                "id": 37087948446,
+                "preferredName": "Danilo Azevedo",
+                "firstName": "Danilo",
+                "lastName": "Azevedo"
+            },
+            {
+                "id": 37085586608,
+                "preferredName": "Marcos Barreto",
+                "firstName": "Marcos",
+                "lastName": "Barreto"
+            },
+            {
+                "id": 37085595746,
+                "preferredName": "Rodrigo Zucoloto",
+                "firstName": "Rodrigo",
+                "lastName": "Zucoloto"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968740",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968740",
+        "articleTitle": "zFabric: How to virtualize lossless ethernet?",
+        "volume": null,
+        "issue": null,
+        "startPage": "75",
+        "endPage": "83",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "zFabric: How to virtualize lossless ethernet?",
+        "authors": [
+            {
+                "id": 37903951200,
+                "preferredName": "Daniel Crisan",
+                "firstName": "Daniel",
+                "lastName": "Crisan"
+            },
+            {
+                "id": 37398178500,
+                "preferredName": "Robert Birke",
+                "firstName": "Robert",
+                "lastName": "Birke"
+            },
+            {
+                "id": 37269340700,
+                "preferredName": "Nikolaos Chrysos",
+                "firstName": "Nikolaos",
+                "lastName": "Chrysos"
+            },
+            {
+                "id": 37283541400,
+                "preferredName": "Cyriel Minkenberg",
+                "firstName": "Cyriel",
+                "lastName": "Minkenberg"
+            },
+            {
+                "id": 37328020300,
+                "preferredName": "Mitch Gusat",
+                "firstName": "Mitch",
+                "lastName": "Gusat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968669",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968669",
+        "articleTitle": "Methodologies and application of machine learning algorithms to classify the performance of high performance cluster components",
+        "volume": null,
+        "issue": null,
+        "startPage": "400",
+        "endPage": "407",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Methodologies and application of machine learning algorithms to classify the performance of high performance cluster components",
+        "authors": [
+            {
+                "id": 37410839300,
+                "preferredName": "Phil Romero",
+                "firstName": "Phil",
+                "lastName": "Romero"
+            },
+            {
+                "id": 37085533614,
+                "preferredName": "Craig Idler",
+                "firstName": "Craig",
+                "lastName": "Idler"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968665",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968665",
+        "articleTitle": "Conference committees and reviewers",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Conference committees and reviewers",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968664",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968664",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968666",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968666",
+        "articleTitle": "Letter from the general chair",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Letter from the general chair",
+        "authors": [
+            {
+                "id": 37085453807,
+                "preferredName": "Mar\u00eda S. P\u00e9rez",
+                "firstName": "Mar\u00eda S.",
+                "lastName": "P\u00e9rez"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968668",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968668",
+        "articleTitle": "Sponsor",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Sponsor",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968663",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968663",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "6957006",
+        "doi": "10.1109/CLUSTER.2014.6968667",
+        "publicationYear": "2014",
+        "publicationDate": "22-26 Sept. 2014",
+        "articleNumber": "6968667",
+        "articleTitle": "Letter of the program chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2014 IEEE International Conference on Cluster Computing (CLUSTER)",
+        "highlightedTitle": "Letter of the program chairs",
+        "authors": [
+            {
+                "id": 37392721000,
+                "preferredName": "Gabriel Antoniu",
+                "firstName": "Gabriel",
+                "lastName": "Antoniu"
+            },
+            {
+                "id": 433912782395795,
+                "preferredName": "Kate Keahey",
+                "firstName": "Kate",
+                "lastName": "Keahey"
+            }
+        ]
+    }
+]

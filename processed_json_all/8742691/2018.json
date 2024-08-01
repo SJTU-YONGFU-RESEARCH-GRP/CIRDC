@@ -1,0 +1,805 @@
+[
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00018",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746062",
+        "articleTitle": "2018 FPGA Functional Verification Trends",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "2018 FPGA Functional Verification Trends",
+        "authors": [
+            {
+                "id": 37528212200,
+                "preferredName": "Harry D. Foster",
+                "firstName": "Harry D.",
+                "lastName": "Foster"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00011",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746054",
+        "articleTitle": "Test Program Generator MicroTESK for RISC-V",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Test Program Generator MicroTESK for RISC-V",
+        "authors": [
+            {
+                "id": 37601904100,
+                "preferredName": "Mikhail Chupilko",
+                "firstName": "Mikhail",
+                "lastName": "Chupilko"
+            },
+            {
+                "id": 37601691200,
+                "preferredName": "Alexander Kamkin",
+                "firstName": "Alexander",
+                "lastName": "Kamkin"
+            },
+            {
+                "id": 37085850316,
+                "preferredName": "Artem Kotsynyak",
+                "firstName": "Artem",
+                "lastName": "Kotsynyak"
+            },
+            {
+                "id": 37085851653,
+                "preferredName": "Alexander Protsenko",
+                "firstName": "Alexander",
+                "lastName": "Protsenko"
+            },
+            {
+                "id": 37085855694,
+                "preferredName": "Sergey Smolov",
+                "firstName": "Sergey",
+                "lastName": "Smolov"
+            },
+            {
+                "id": 37085855360,
+                "preferredName": "Andrei Tatarnikov",
+                "firstName": "Andrei",
+                "lastName": "Tatarnikov"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00022",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746049",
+        "articleTitle": "Efficient Methodology of Sampling UVM RAL During Simulation for SoC Functional Coverage",
+        "volume": null,
+        "issue": null,
+        "startPage": "61",
+        "endPage": "66",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Efficient Methodology of Sampling UVM RAL During Simulation for SoC Functional Coverage",
+        "authors": [
+            {
+                "id": 37085620545,
+                "preferredName": "Sameh El-Ashry",
+                "firstName": "Sameh",
+                "lastName": "El-Ashry"
+            },
+            {
+                "id": 37089143105,
+                "preferredName": "Ahmed Adel",
+                "firstName": "Ahmed",
+                "lastName": "Adel"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00012",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746063",
+        "articleTitle": "Fast Reliable Verification Methodology for RISC-V Without a Reference Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "17",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Fast Reliable Verification Methodology for RISC-V Without a Reference Model",
+        "authors": [
+            {
+                "id": 37086872559,
+                "preferredName": "Abdelfattah Munir",
+                "firstName": "Abdelfattah",
+                "lastName": "Munir"
+            },
+            {
+                "id": 37086871824,
+                "preferredName": "Mina Magdy",
+                "firstName": "Mina",
+                "lastName": "Magdy"
+            },
+            {
+                "id": 37086875343,
+                "preferredName": "Samer Ahmed",
+                "firstName": "Samer",
+                "lastName": "Ahmed"
+            },
+            {
+                "id": 37086874916,
+                "preferredName": "Sherouk Nasr",
+                "firstName": "Sherouk",
+                "lastName": "Nasr"
+            },
+            {
+                "id": 37085620545,
+                "preferredName": "Sameh El-Ashry",
+                "firstName": "Sameh",
+                "lastName": "El-Ashry"
+            },
+            {
+                "id": 38282998900,
+                "preferredName": "Ahmed Shalaby",
+                "firstName": "Ahmed",
+                "lastName": "Shalaby"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00019",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746053",
+        "articleTitle": "Getting Started on Co-Emulation: Transition your Design and Testbench to an Emulator",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "51",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Getting Started on Co-Emulation: Transition your Design and Testbench to an Emulator",
+        "authors": [
+            {
+                "id": 37086873326,
+                "preferredName": "Jigar Savla",
+                "firstName": "Jigar",
+                "lastName": "Savla"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00025",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746051",
+        "articleTitle": "Pre-Silicon DFT Verification on SOC Slim Model",
+        "volume": null,
+        "issue": null,
+        "startPage": "76",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Pre-Silicon DFT Verification on SOC Slim Model",
+        "authors": [
+            {
+                "id": 37086869102,
+                "preferredName": "Pratheema Mohandoss",
+                "firstName": "Pratheema",
+                "lastName": "Mohandoss"
+            },
+            {
+                "id": 37086869304,
+                "preferredName": "Archana Rengaraj",
+                "firstName": "Archana",
+                "lastName": "Rengaraj"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00021",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746061",
+        "articleTitle": "Advanced Regression Management for Post-Silicon Validation of Automotive SOCs",
+        "volume": null,
+        "issue": null,
+        "startPage": "56",
+        "endPage": "60",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Advanced Regression Management for Post-Silicon Validation of Automotive SOCs",
+        "authors": [
+            {
+                "id": 37086868658,
+                "preferredName": "Ayushi Agarwal",
+                "firstName": "Ayushi",
+                "lastName": "Agarwal"
+            },
+            {
+                "id": 37086869770,
+                "preferredName": "Pankaj Gupta",
+                "firstName": "Pankaj",
+                "lastName": "Gupta"
+            },
+            {
+                "id": 37086871819,
+                "preferredName": "Atul Gupta",
+                "firstName": "Atul",
+                "lastName": "Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00010",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746065",
+        "articleTitle": "Proving the Capability of Arm IP for Functional Safety Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Proving the Capability of Arm IP for Functional Safety Applications",
+        "authors": [
+            {
+                "id": 37086870133,
+                "preferredName": "Asif Jafri",
+                "firstName": "Asif",
+                "lastName": "Jafri"
+            },
+            {
+                "id": 37086869226,
+                "preferredName": "Jung-Wook Kim",
+                "firstName": "Jung-Wook",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00015",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746047",
+        "articleTitle": "How to Close Coverage 10x Faster using Portable Stimulus Standard - A Case Study",
+        "volume": null,
+        "issue": null,
+        "startPage": "28",
+        "endPage": "30",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "How to Close Coverage 10x Faster using Portable Stimulus Standard - A Case Study",
+        "authors": [
+            {
+                "id": 37086871934,
+                "preferredName": "Shelly Henry",
+                "firstName": "Shelly",
+                "lastName": "Henry"
+            },
+            {
+                "id": 37086870906,
+                "preferredName": "Nirabh Regmi",
+                "firstName": "Nirabh",
+                "lastName": "Regmi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00017",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746055",
+        "articleTitle": "Multi-Master Validation Framework for Next Generation Automotive SOCs",
+        "volume": null,
+        "issue": null,
+        "startPage": "35",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Multi-Master Validation Framework for Next Generation Automotive SOCs",
+        "authors": [
+            {
+                "id": 37086869036,
+                "preferredName": "Manish Kumar Agarwal",
+                "firstName": "Manish Kumar",
+                "lastName": "Agarwal"
+            },
+            {
+                "id": 37085864049,
+                "preferredName": "Amandeep Sharan",
+                "firstName": "Amandeep",
+                "lastName": "Sharan"
+            },
+            {
+                "id": 37086869147,
+                "preferredName": "Mohammad Asif Khan",
+                "firstName": "Mohammad Asif",
+                "lastName": "Khan"
+            },
+            {
+                "id": 37086871819,
+                "preferredName": "Atul Gupta",
+                "firstName": "Atul",
+                "lastName": "Gupta"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00024",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746057",
+        "articleTitle": "Transaction Based Speedup for Simulation Replay",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "75",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Transaction Based Speedup for Simulation Replay",
+        "authors": [
+            {
+                "id": 37086870139,
+                "preferredName": "Chetas Mapara",
+                "firstName": "Chetas",
+                "lastName": "Mapara"
+            },
+            {
+                "id": 37086868871,
+                "preferredName": "Priti Nagarajan",
+                "firstName": "Priti",
+                "lastName": "Nagarajan"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00014",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746046",
+        "articleTitle": "A Perceptron-Inspired Technique for Hardware Obfuscation",
+        "volume": null,
+        "issue": null,
+        "startPage": "24",
+        "endPage": "27",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "A Perceptron-Inspired Technique for Hardware Obfuscation",
+        "authors": [
+            {
+                "id": 37086052283,
+                "preferredName": "Siroos Madani",
+                "firstName": "Siroos",
+                "lastName": "Madani"
+            },
+            {
+                "id": 37063097600,
+                "preferredName": "Mohammad R. Madani",
+                "firstName": "Mohammad R.",
+                "lastName": "Madani"
+            },
+            {
+                "id": 37273386500,
+                "preferredName": "Magdy Bayoumi",
+                "firstName": "Magdy",
+                "lastName": "Bayoumi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00020",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746048",
+        "articleTitle": "Automatic Debug Quantification for Workload Balance and Progress Tracking",
+        "volume": null,
+        "issue": null,
+        "startPage": "52",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Automatic Debug Quantification for Workload Balance and Progress Tracking",
+        "authors": [
+            {
+                "id": 37086875574,
+                "preferredName": "Yanhua Cao",
+                "firstName": "Yanhua",
+                "lastName": "Cao"
+            },
+            {
+                "id": 37086871950,
+                "preferredName": "Osama Shoubber",
+                "firstName": "Osama",
+                "lastName": "Shoubber"
+            },
+            {
+                "id": 37086869832,
+                "preferredName": "Pallavi Jesrani",
+                "firstName": "Pallavi",
+                "lastName": "Jesrani"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00026",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746052",
+        "articleTitle": "Schmoo Data Analysis Using Machine Language Algorithms",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "85",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Schmoo Data Analysis Using Machine Language Algorithms",
+        "authors": [
+            {
+                "id": 37299332800,
+                "preferredName": "Rekha Bangalore Bangalore",
+                "firstName": "Rekha Bangalore",
+                "lastName": "Bangalore"
+            },
+            {
+                "id": 37086869171,
+                "preferredName": "Adeosun luwatosin Oluwatosin",
+                "firstName": "Adeosun luwatosin",
+                "lastName": "Oluwatosin"
+            },
+            {
+                "id": 37086874602,
+                "preferredName": "Kelvin K. Lam",
+                "firstName": "Kelvin K.",
+                "lastName": "Lam"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00016",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746058",
+        "articleTitle": "Application of Combinatorial Test (CT) Algorithm for Protocol and Hardware Feature Validation",
+        "volume": null,
+        "issue": null,
+        "startPage": "31",
+        "endPage": "34",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Application of Combinatorial Test (CT) Algorithm for Protocol and Hardware Feature Validation",
+        "authors": [
+            {
+                "id": 37299332800,
+                "preferredName": "Rekha Bangalore",
+                "firstName": "Rekha",
+                "lastName": "Bangalore"
+            },
+            {
+                "id": 37086874105,
+                "preferredName": "Raji M. Bandanapudi",
+                "firstName": "Raji M.",
+                "lastName": "Bandanapudi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00013",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746060",
+        "articleTitle": "Mining Security Critical Linear Temporal Logic Specifications for Processors",
+        "volume": null,
+        "issue": null,
+        "startPage": "18",
+        "endPage": "23",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Mining Security Critical Linear Temporal Logic Specifications for Processors",
+        "authors": [
+            {
+                "id": 37085461095,
+                "preferredName": "Calvin Deutschbein",
+                "firstName": "Calvin",
+                "lastName": "Deutschbein"
+            },
+            {
+                "id": 37713840300,
+                "preferredName": "Cynthia Sturton",
+                "firstName": "Cynthia",
+                "lastName": "Sturton"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00023",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746056",
+        "articleTitle": "Different Reference Models for UVM Environment to Speed Up the Verification Time",
+        "volume": null,
+        "issue": null,
+        "startPage": "67",
+        "endPage": "72",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Different Reference Models for UVM Environment to Speed Up the Verification Time",
+        "authors": [
+            {
+                "id": 37086875088,
+                "preferredName": "Amr Moursi",
+                "firstName": "Amr",
+                "lastName": "Moursi"
+            },
+            {
+                "id": 37086873801,
+                "preferredName": "Romaisaa Samhoud",
+                "firstName": "Romaisaa",
+                "lastName": "Samhoud"
+            },
+            {
+                "id": 37086870619,
+                "preferredName": "Yaseen Kamal",
+                "firstName": "Yaseen",
+                "lastName": "Kamal"
+            },
+            {
+                "id": 37086871823,
+                "preferredName": "Mazen Magdy",
+                "firstName": "Mazen",
+                "lastName": "Magdy"
+            },
+            {
+                "id": 37085620545,
+                "preferredName": "Sameh El-Ashry",
+                "firstName": "Sameh",
+                "lastName": "El-Ashry"
+            },
+            {
+                "id": 38282998900,
+                "preferredName": "Ahmed Shalaby",
+                "firstName": "Ahmed",
+                "lastName": "Shalaby"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00005",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746042",
+        "articleTitle": "Acknowledgement",
+        "volume": null,
+        "issue": null,
+        "startPage": "7",
+        "endPage": "7",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Acknowledgement",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00008",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746044",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00006",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746050",
+        "articleTitle": "Conference Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "8",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Conference Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00007",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746041",
+        "articleTitle": "Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00009",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746039",
+        "articleTitle": "Corporate Supporters",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Corporate Supporters",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00027",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746059",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "87",
+        "endPage": "87",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00002",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746040",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00001",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746043",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00003",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746045",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8742691",
+        "doi": "10.1109/MTV.2018.00004",
+        "publicationYear": "2018",
+        "publicationDate": "9-10 Dec. 2018",
+        "articleNumber": "8746064",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2018 19th International Workshop on Microprocessor and SOC Test and Verification (MTV)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    }
+]

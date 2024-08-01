@@ -1,0 +1,919 @@
+[
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230191",
+        "articleTitle": "Tutorials",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "13",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Tutorials",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230011",
+        "articleTitle": "Keynotes",
+        "volume": null,
+        "issue": null,
+        "startPage": "14",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Keynotes",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00020",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230284",
+        "articleTitle": "A Secure Code Review Retrospective",
+        "volume": null,
+        "issue": null,
+        "startPage": "31",
+        "endPage": "32",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "A Secure Code Review Retrospective",
+        "authors": [
+            {
+                "id": 37085648137,
+                "preferredName": "Andrew Buttner",
+                "firstName": "Andrew",
+                "lastName": "Buttner"
+            },
+            {
+                "id": 37352523400,
+                "preferredName": "Richard Piazza",
+                "firstName": "Richard",
+                "lastName": "Piazza"
+            },
+            {
+                "id": 37088535802,
+                "preferredName": "Rushi Purohit",
+                "firstName": "Rushi",
+                "lastName": "Purohit"
+            },
+            {
+                "id": 37085593384,
+                "preferredName": "Alec Summers",
+                "firstName": "Alec",
+                "lastName": "Summers"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00021",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230067",
+        "articleTitle": "Symbolic Testing for C and Rust",
+        "volume": null,
+        "issue": null,
+        "startPage": "33",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Symbolic Testing for C and Rust",
+        "authors": [
+            {
+                "id": 37086011550,
+                "preferredName": "Aaron Tomb",
+                "firstName": "Aaron",
+                "lastName": "Tomb"
+            },
+            {
+                "id": 37085660919,
+                "preferredName": "Stuart Pernsteiner",
+                "firstName": "Stuart",
+                "lastName": "Pernsteiner"
+            },
+            {
+                "id": 37086539663,
+                "preferredName": "Mike Dodds",
+                "firstName": "Mike",
+                "lastName": "Dodds"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00013",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230189",
+        "articleTitle": "Tutorial: LLVM for Security Practitioners",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Tutorial: LLVM for Security Practitioners",
+        "authors": [
+            {
+                "id": 38015121000,
+                "preferredName": "John Criswell",
+                "firstName": "John",
+                "lastName": "Criswell"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00016",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230181",
+        "articleTitle": "Tutorial: Principles and Practices of Secure Cryptographic Coding in Java",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Tutorial: Principles and Practices of Secure Cryptographic Coding in Java",
+        "authors": [
+            {
+                "id": 37088536447,
+                "preferredName": "Ya Xiao",
+                "firstName": "Ya",
+                "lastName": "Xiao"
+            },
+            {
+                "id": 37088537267,
+                "preferredName": "Miles Frantz",
+                "firstName": "Miles",
+                "lastName": "Frantz"
+            },
+            {
+                "id": 37085624236,
+                "preferredName": "Sharmin Afrose",
+                "firstName": "Sharmin",
+                "lastName": "Afrose"
+            },
+            {
+                "id": 38664967600,
+                "preferredName": "Sazzadur Rahaman",
+                "firstName": "Sazzadur",
+                "lastName": "Rahaman"
+            },
+            {
+                "id": 37396830500,
+                "preferredName": "Danfeng Yao",
+                "firstName": "Danfeng",
+                "lastName": "Yao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00014",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230266",
+        "articleTitle": "Tutorial: Detecting Memory Vulnerabilities in the Components of System Code using PROMPT",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Tutorial: Detecting Memory Vulnerabilities in the Components of System Code using PROMPT",
+        "authors": [
+            {
+                "id": 37085809212,
+                "preferredName": "Tuba Yavuz",
+                "firstName": "Tuba",
+                "lastName": "Yavuz"
+            },
+            {
+                "id": 37088536595,
+                "preferredName": "Ken Yihang Bai",
+                "firstName": "Ken Yihang",
+                "lastName": "Bai"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00015",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230352",
+        "articleTitle": "Tutorial: Static Analysis at Scale with Muse",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Tutorial: Static Analysis at Scale with Muse",
+        "authors": [
+            {
+                "id": 37944848500,
+                "preferredName": "Stephen Magill",
+                "firstName": "Stephen",
+                "lastName": "Magill"
+            },
+            {
+                "id": 37089140649,
+                "preferredName": "Thomas DuBuisson",
+                "firstName": "Thomas",
+                "lastName": "DuBuisson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00025",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230176",
+        "articleTitle": "XI Commandments of Kubernetes Security: A Systematization of Knowledge Related to Kubernetes Security Practices",
+        "volume": null,
+        "issue": null,
+        "startPage": "58",
+        "endPage": "64",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "XI Commandments of Kubernetes Security: A Systematization of Knowledge Related to Kubernetes Security Practices",
+        "authors": [
+            {
+                "id": 37088537942,
+                "preferredName": "Md. Shazibul Islam Shamim",
+                "firstName": "Md. Shazibul",
+                "lastName": "Islam Shamim"
+            },
+            {
+                "id": 37088537279,
+                "preferredName": "Farzana Ahamed Bhuiyan",
+                "firstName": "Farzana",
+                "lastName": "Ahamed Bhuiyan"
+            },
+            {
+                "id": 37086015855,
+                "preferredName": "Akond Rahman",
+                "firstName": "Akond",
+                "lastName": "Rahman"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00026",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230065",
+        "articleTitle": "Analysis of Blockchain Smart Contracts: Techniques and Insights",
+        "volume": null,
+        "issue": null,
+        "startPage": "65",
+        "endPage": "73",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Analysis of Blockchain Smart Contracts: Techniques and Insights",
+        "authors": [
+            {
+                "id": 37088538389,
+                "preferredName": "Shinhae Kim",
+                "firstName": "Shinhae",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37085674396,
+                "preferredName": "Sukyoung Ryu",
+                "firstName": "Sukyoung",
+                "lastName": "Ryu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00019",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230171",
+        "articleTitle": "Fuzzing Binaries for Memory Safety Errors with QASan",
+        "volume": null,
+        "issue": null,
+        "startPage": "23",
+        "endPage": "30",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Fuzzing Binaries for Memory Safety Errors with QASan",
+        "authors": [
+            {
+                "id": 37088537108,
+                "preferredName": "Andrea Fioraldi",
+                "firstName": "Andrea",
+                "lastName": "Fioraldi"
+            },
+            {
+                "id": 37085859228,
+                "preferredName": "Daniele Cono D\u2019Elia",
+                "firstName": "Daniele Cono",
+                "lastName": "D\u2019Elia"
+            },
+            {
+                "id": 37269056100,
+                "preferredName": "Leonardo Querzoni",
+                "firstName": "Leonardo",
+                "lastName": "Querzoni"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00023",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230100",
+        "articleTitle": "Active Deception Framework: An Extensible Development Environment for Adaptive Cyber Deception",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "48",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Active Deception Framework: An Extensible Development Environment for Adaptive Cyber Deception",
+        "authors": [
+            {
+                "id": 37086423824,
+                "preferredName": "Md Mazharul Islam",
+                "firstName": "Md Mazharul",
+                "lastName": "Islam"
+            },
+            {
+                "id": 38274081300,
+                "preferredName": "Ehab Al-Shaer",
+                "firstName": "Ehab",
+                "lastName": "Al-Shaer"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00028",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230288",
+        "articleTitle": "REMIND: A Framework for the Resilient Design of Automotive Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "81",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "REMIND: A Framework for the Resilient Design of Automotive Systems",
+        "authors": [
+            {
+                "id": 37085726348,
+                "preferredName": "Thomas Rosenstatter",
+                "firstName": "Thomas",
+                "lastName": "Rosenstatter"
+            },
+            {
+                "id": 37086341461,
+                "preferredName": "Kim Strandberg",
+                "firstName": "Kim",
+                "lastName": "Strandberg"
+            },
+            {
+                "id": 37085796713,
+                "preferredName": "Rodi Jolak",
+                "firstName": "Rodi",
+                "lastName": "Jolak"
+            },
+            {
+                "id": 37265239400,
+                "preferredName": "Riccardo Scandariato",
+                "firstName": "Riccardo",
+                "lastName": "Scandariato"
+            },
+            {
+                "id": 37352100200,
+                "preferredName": "Tomas Olovsson",
+                "firstName": "Tomas",
+                "lastName": "Olovsson"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00024",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230007",
+        "articleTitle": "Coding Practices and Recommendations of Spring Security for Enterprise Applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "49",
+        "endPage": "57",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Coding Practices and Recommendations of Spring Security for Enterprise Applications",
+        "authors": [
+            {
+                "id": 37088536086,
+                "preferredName": "Mazharul Islam",
+                "firstName": "Mazharul",
+                "lastName": "Islam"
+            },
+            {
+                "id": 38664967600,
+                "preferredName": "Sazzadur Rahaman",
+                "firstName": "Sazzadur",
+                "lastName": "Rahaman"
+            },
+            {
+                "id": 37660438200,
+                "preferredName": "Na Meng",
+                "firstName": "Na",
+                "lastName": "Meng"
+            },
+            {
+                "id": 37088538187,
+                "preferredName": "Behnaz Hassanshahi",
+                "firstName": "Behnaz",
+                "lastName": "Hassanshahi"
+            },
+            {
+                "id": 37289488000,
+                "preferredName": "Padmanabhan Krishnan",
+                "firstName": "Padmanabhan",
+                "lastName": "Krishnan"
+            },
+            {
+                "id": 37396830500,
+                "preferredName": "Danfeng Daphne Yao",
+                "firstName": "Danfeng Daphne",
+                "lastName": "Yao"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00018",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9229980",
+        "articleTitle": "Refactoring the FreeBSD Kernel with Checked C",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "22",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Refactoring the FreeBSD Kernel with Checked C",
+        "authors": [
+            {
+                "id": 37088535849,
+                "preferredName": "Junhan Duan",
+                "firstName": "Junhan",
+                "lastName": "Duan"
+            },
+            {
+                "id": 37088538397,
+                "preferredName": "Yudi Yang",
+                "firstName": "Yudi",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37086542681,
+                "preferredName": "Jie Zhou",
+                "firstName": "Jie",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 38015121000,
+                "preferredName": "John Criswell",
+                "firstName": "John",
+                "lastName": "Criswell"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00029",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9229934",
+        "articleTitle": "ReViCe: Reusing Victim Cache to Prevent Speculative Cache Leakage",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "107",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "ReViCe: Reusing Victim Cache to Prevent Speculative Cache Leakage",
+        "authors": [
+            {
+                "id": 37086807144,
+                "preferredName": "Sungkeun Kim",
+                "firstName": "Sungkeun",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37088538064,
+                "preferredName": "Farabi Mahmud",
+                "firstName": "Farabi",
+                "lastName": "Mahmud"
+            },
+            {
+                "id": 37086043929,
+                "preferredName": "Jiayi Huang",
+                "firstName": "Jiayi",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37085418087,
+                "preferredName": "Pritam Majumder",
+                "firstName": "Pritam",
+                "lastName": "Majumder"
+            },
+            {
+                "id": 37088536631,
+                "preferredName": "Neophytos Christou",
+                "firstName": "Neophytos",
+                "lastName": "Christou"
+            },
+            {
+                "id": 37990890300,
+                "preferredName": "Abdullah Muzahid",
+                "firstName": "Abdullah",
+                "lastName": "Muzahid"
+            },
+            {
+                "id": 37088536850,
+                "preferredName": "Chia-Che Tsai",
+                "firstName": "Chia-Che",
+                "lastName": "Tsai"
+            },
+            {
+                "id": 38188695900,
+                "preferredName": "Eun Jung Kim",
+                "firstName": "Eun Jung",
+                "lastName": "Kim"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00022",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230074",
+        "articleTitle": "Cybersecurity Deception Experimentation System",
+        "volume": null,
+        "issue": null,
+        "startPage": "34",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Cybersecurity Deception Experimentation System",
+        "authors": [
+            {
+                "id": 38236757600,
+                "preferredName": "Jaime C. Acosta",
+                "firstName": "Jaime C.",
+                "lastName": "Acosta"
+            },
+            {
+                "id": 37088535631,
+                "preferredName": "Anjon Basak",
+                "firstName": "Anjon",
+                "lastName": "Basak"
+            },
+            {
+                "id": 37062523500,
+                "preferredName": "Christopher Kiekintveld",
+                "firstName": "Christopher",
+                "lastName": "Kiekintveld"
+            },
+            {
+                "id": 37087881898,
+                "preferredName": "Nandi Leslie",
+                "firstName": "Nandi",
+                "lastName": "Leslie"
+            },
+            {
+                "id": 37704581200,
+                "preferredName": "Charles Kamhoua",
+                "firstName": "Charles",
+                "lastName": "Kamhoua"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00027",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230101",
+        "articleTitle": "Network Attack Surface Simplification for Red and Blue Teams",
+        "volume": null,
+        "issue": null,
+        "startPage": "74",
+        "endPage": "80",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Network Attack Surface Simplification for Red and Blue Teams",
+        "authors": [
+            {
+                "id": 37088537308,
+                "preferredName": "Douglas Everson",
+                "firstName": "Douglas",
+                "lastName": "Everson"
+            },
+            {
+                "id": 37599797900,
+                "preferredName": "Long Cheng",
+                "firstName": "Long",
+                "lastName": "Cheng"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00017",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9229982",
+        "articleTitle": "Fast Execute-Only Memory for Embedded Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "7",
+        "endPage": "14",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Fast Execute-Only Memory for Embedded Systems",
+        "authors": [
+            {
+                "id": 37088536468,
+                "preferredName": "Zhuojia Shen",
+                "firstName": "Zhuojia",
+                "lastName": "Shen"
+            },
+            {
+                "id": 37086216572,
+                "preferredName": "Komail Dharsee",
+                "firstName": "Komail",
+                "lastName": "Dharsee"
+            },
+            {
+                "id": 38015121000,
+                "preferredName": "John Criswell",
+                "firstName": "John",
+                "lastName": "Criswell"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230044",
+        "articleTitle": "Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "15",
+        "endPage": "15",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9229894",
+        "articleTitle": "Steering Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Steering Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230235",
+        "articleTitle": "Organizing Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "10",
+        "endPage": "10",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Organizing Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230310",
+        "articleTitle": "Program Committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "11",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Program Committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230329",
+        "articleTitle": "Message from the Program Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "9",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Message from the Program Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230091",
+        "articleTitle": "Message from the General Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "8",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Message from the General Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00030",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9229919",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "109",
+        "endPage": "109",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230049",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230055",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "4",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9230169",
+        "articleTitle": "[Title page iii]",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "3",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "[Title page iii]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9229476",
+        "doi": "10.1109/SecDev45635.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "28-30 Sept. 2020",
+        "articleNumber": "9229918",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "7",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE Secure Development (SecDev)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]

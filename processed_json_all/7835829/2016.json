@@ -1,0 +1,454 @@
+[
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.006",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836577",
+        "articleTitle": "Towards Achieving Performance Portability Using Directives for Accelerators",
+        "volume": null,
+        "issue": null,
+        "startPage": "13",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Towards Achieving Performance Portability Using Directives for Accelerators",
+        "authors": [
+            {
+                "id": 37085617396,
+                "preferredName": "M. Graham Lopez",
+                "firstName": "M. Graham",
+                "lastName": "Lopez"
+            },
+            {
+                "id": 37086109594,
+                "preferredName": "Ver\u00f3nica Vergara Larrea",
+                "firstName": "Ver\u00f3nica Vergara",
+                "lastName": "Larrea"
+            },
+            {
+                "id": 38468494400,
+                "preferredName": "Wayne Joubert",
+                "firstName": "Wayne",
+                "lastName": "Joubert"
+            },
+            {
+                "id": 37266105100,
+                "preferredName": "Oscar Hernandez",
+                "firstName": "Oscar",
+                "lastName": "Hernandez"
+            },
+            {
+                "id": 37895512100,
+                "preferredName": "Azzam Haidar",
+                "firstName": "Azzam",
+                "lastName": "Haidar"
+            },
+            {
+                "id": 37401700800,
+                "preferredName": "Stanimire Tomov",
+                "firstName": "Stanimire",
+                "lastName": "Tomov"
+            },
+            {
+                "id": 37270009400,
+                "preferredName": "Jack Dongarra",
+                "firstName": "Jack",
+                "lastName": "Dongarra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.011",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836582",
+        "articleTitle": "Exploring Compiler Optimization Opportunities for the OpenMP 4.\u00d7 Accelerator Model on a POWER8+GPU Platform",
+        "volume": null,
+        "issue": null,
+        "startPage": "68",
+        "endPage": "78",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Exploring Compiler Optimization Opportunities for the OpenMP 4.\u00d7 Accelerator Model on a POWER8+GPU Platform",
+        "authors": [
+            {
+                "id": 37085639188,
+                "preferredName": "Akihiro Hayashi",
+                "firstName": "Akihiro",
+                "lastName": "Hayashi"
+            },
+            {
+                "id": 37392769000,
+                "preferredName": "Jun Shirako",
+                "firstName": "Jun",
+                "lastName": "Shirako"
+            },
+            {
+                "id": 37085561615,
+                "preferredName": "Ettore Tiotto",
+                "firstName": "Ettore",
+                "lastName": "Tiotto"
+            },
+            {
+                "id": 37086064207,
+                "preferredName": "Robert Ho",
+                "firstName": "Robert",
+                "lastName": "Ho"
+            },
+            {
+                "id": 37389286300,
+                "preferredName": "Vivek Sarkar",
+                "firstName": "Vivek",
+                "lastName": "Sarkar"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.010",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836581",
+        "articleTitle": "Identifying and Scheduling Loop Chains Using Directives",
+        "volume": null,
+        "issue": null,
+        "startPage": "57",
+        "endPage": "67",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Identifying and Scheduling Loop Chains Using Directives",
+        "authors": [
+            {
+                "id": 37086045037,
+                "preferredName": "Ian J. Bertolacci",
+                "firstName": "Ian J.",
+                "lastName": "Bertolacci"
+            },
+            {
+                "id": 37669575100,
+                "preferredName": "Michelle Mills Strout",
+                "firstName": "Michelle Mills",
+                "lastName": "Strout"
+            },
+            {
+                "id": 37085576199,
+                "preferredName": "Stephen Guzik",
+                "firstName": "Stephen",
+                "lastName": "Guzik"
+            },
+            {
+                "id": 37086040184,
+                "preferredName": "Jordan Riley",
+                "firstName": "Jordan",
+                "lastName": "Riley"
+            },
+            {
+                "id": 37085366156,
+                "preferredName": "Catherine Olschanowsky",
+                "firstName": "Catherine",
+                "lastName": "Olschanowsky"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.005",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836576",
+        "articleTitle": "Acceleration of Element-by-Element Kernel in Unstructured Implicit Low-Order Finite-Element Earthquake Simulation Using OpenACC on Pascal GPUs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "12",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Acceleration of Element-by-Element Kernel in Unstructured Implicit Low-Order Finite-Element Earthquake Simulation Using OpenACC on Pascal GPUs",
+        "authors": [
+            {
+                "id": 37086088859,
+                "preferredName": "Kohei Fujita",
+                "firstName": "Kohei",
+                "lastName": "Fujita"
+            },
+            {
+                "id": 37854105700,
+                "preferredName": "Takuma Yamaguchi",
+                "firstName": "Takuma",
+                "lastName": "Yamaguchi"
+            },
+            {
+                "id": 37086093399,
+                "preferredName": "Tsuyoshi Ichimura",
+                "firstName": "Tsuyoshi",
+                "lastName": "Ichimura"
+            },
+            {
+                "id": 37086093196,
+                "preferredName": "Muneo Hori",
+                "firstName": "Muneo",
+                "lastName": "Hori"
+            },
+            {
+                "id": 37086096540,
+                "preferredName": "Lalith Maddegedara",
+                "firstName": "Lalith",
+                "lastName": "Maddegedara"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.009",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836580",
+        "articleTitle": "OpenACC Cache Directive: Opportunities and Optimizations",
+        "volume": null,
+        "issue": null,
+        "startPage": "46",
+        "endPage": "56",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "OpenACC Cache Directive: Opportunities and Optimizations",
+        "authors": [
+            {
+                "id": 38529168300,
+                "preferredName": "Ahmad Lashgar",
+                "firstName": "Ahmad",
+                "lastName": "Lashgar"
+            },
+            {
+                "id": 37267011400,
+                "preferredName": "Amirali Baniasadi",
+                "firstName": "Amirali",
+                "lastName": "Baniasadi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.008",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836579",
+        "articleTitle": "An Extension of OpenACC Directives for Out-of-Core Stencil Computation with Temporal Blocking",
+        "volume": null,
+        "issue": null,
+        "startPage": "36",
+        "endPage": "45",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "An Extension of OpenACC Directives for Out-of-Core Stencil Computation with Temporal Blocking",
+        "authors": [
+            {
+                "id": 37086106668,
+                "preferredName": "Nobuhiro Miki",
+                "firstName": "Nobuhiro",
+                "lastName": "Miki"
+            },
+            {
+                "id": 37269119100,
+                "preferredName": "Fumihiko Ino",
+                "firstName": "Fumihiko",
+                "lastName": "Ino"
+            },
+            {
+                "id": 37269207400,
+                "preferredName": "Kenichi Hagihara",
+                "firstName": "Kenichi",
+                "lastName": "Hagihara"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.007",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836578",
+        "articleTitle": "A Modern Memory Management System for OpenMP",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "35",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "A Modern Memory Management System for OpenMP",
+        "authors": [
+            {
+                "id": 37295036900,
+                "preferredName": "J. D. Sewall",
+                "firstName": "J. D.",
+                "lastName": "Sewall"
+            },
+            {
+                "id": 38469076700,
+                "preferredName": "S. J. Pennycook",
+                "firstName": "S. J.",
+                "lastName": "Pennycook"
+            },
+            {
+                "id": 37274953900,
+                "preferredName": "A. Duran",
+                "firstName": "A.",
+                "lastName": "Duran"
+            },
+            {
+                "id": 37279245500,
+                "preferredName": "X. Tian",
+                "firstName": "X.",
+                "lastName": "Tian"
+            },
+            {
+                "id": 37085706526,
+                "preferredName": "R. Narayanaswamy",
+                "firstName": "R.",
+                "lastName": "Narayanaswamy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.012",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836583",
+        "articleTitle": "A Portable, High-Level Graph Analytics Framework Targeting Distributed, Heterogeneous Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "79",
+        "endPage": "88",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "A Portable, High-Level Graph Analytics Framework Targeting Distributed, Heterogeneous Systems",
+        "authors": [
+            {
+                "id": 38494759900,
+                "preferredName": "Robert Searles",
+                "firstName": "Robert",
+                "lastName": "Searles"
+            },
+            {
+                "id": 37085351424,
+                "preferredName": "Stephen Herbein",
+                "firstName": "Stephen",
+                "lastName": "Herbein"
+            },
+            {
+                "id": 37892610900,
+                "preferredName": "Sunita Chandrasekaran",
+                "firstName": "Sunita",
+                "lastName": "Chandrasekaran"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.004",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836575",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "iv",
+        "endPage": "v",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.002",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836573",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "ii",
+        "endPage": "ii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.001",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836572",
+        "articleTitle": "[Title page]",
+        "volume": null,
+        "issue": null,
+        "startPage": "i",
+        "endPage": "i",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "[Title page]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.003",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836574",
+        "articleTitle": "Table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "iii",
+        "endPage": "iii",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "7835829",
+        "doi": "10.1109/WACCPD.2016.013",
+        "publicationYear": "2016",
+        "publicationDate": "14-14 Nov. 2016",
+        "articleNumber": "7836584",
+        "articleTitle": "Author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "89",
+        "endPage": "89",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2016 Third Workshop on Accelerator Programming Using Directives (WACCPD)",
+        "highlightedTitle": "Author index",
+        "authors": []
+    }
+]

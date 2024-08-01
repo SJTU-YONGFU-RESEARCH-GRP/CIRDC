@@ -1,0 +1,2437 @@
+[
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280159",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280159",
+        "articleTitle": "FPGA-based ORB feature extraction for real-time visual SLAM",
+        "volume": null,
+        "issue": null,
+        "startPage": "275",
+        "endPage": "278",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "FPGA-based ORB feature extraction for real-time visual SLAM",
+        "authors": [
+            {
+                "id": 37086267858,
+                "preferredName": "Weikang Fang",
+                "firstName": "Weikang",
+                "lastName": "Fang"
+            },
+            {
+                "id": 38248039400,
+                "preferredName": "Yanjun Zhang",
+                "firstName": "Yanjun",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37086262236,
+                "preferredName": "Bo Yu",
+                "firstName": "Bo",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37406041000,
+                "preferredName": "Shaoshan Liu",
+                "firstName": "Shaoshan",
+                "lastName": "Liu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280160",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280160",
+        "articleTitle": "PipeCNN: An OpenCL-based open-source FPGA accelerator for convolution neural networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "279",
+        "endPage": "282",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "PipeCNN: An OpenCL-based open-source FPGA accelerator for convolution neural networks",
+        "authors": [
+            {
+                "id": 37085375001,
+                "preferredName": "Dong Wang",
+                "firstName": "Dong",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086302289,
+                "preferredName": "Ke Xu",
+                "firstName": "Ke",
+                "lastName": "Xu"
+            },
+            {
+                "id": 37086303174,
+                "preferredName": "Diankun Jiang",
+                "firstName": "Diankun",
+                "lastName": "Jiang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280142",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280142",
+        "articleTitle": "An FPGA-based processor for training convolutional neural networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "207",
+        "endPage": "210",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "An FPGA-based processor for training convolutional neural networks",
+        "authors": [
+            {
+                "id": 37085992688,
+                "preferredName": "Zhiqiang Liu",
+                "firstName": "Zhiqiang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37285984800,
+                "preferredName": "Yong Dou",
+                "firstName": "Yong",
+                "lastName": "Dou"
+            },
+            {
+                "id": 38546633300,
+                "preferredName": "Jingfei Jiang",
+                "firstName": "Jingfei",
+                "lastName": "Jiang"
+            },
+            {
+                "id": 37086080457,
+                "preferredName": "Qiang Wang",
+                "firstName": "Qiang",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37266119000,
+                "preferredName": "Paul Chow",
+                "firstName": "Paul",
+                "lastName": "Chow"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280147",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280147",
+        "articleTitle": "Instruction driven cross-layer CNN accelerator with winograd transformation on FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "227",
+        "endPage": "230",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Instruction driven cross-layer CNN accelerator with winograd transformation on FPGA",
+        "authors": [
+            {
+                "id": 37086203732,
+                "preferredName": "Jincheng Yu",
+                "firstName": "Jincheng",
+                "lastName": "Yu"
+            },
+            {
+                "id": 37086304430,
+                "preferredName": "Yiming Hu",
+                "firstName": "Yiming",
+                "lastName": "Hu"
+            },
+            {
+                "id": 37086151582,
+                "preferredName": "Xuefei Ning",
+                "firstName": "Xuefei",
+                "lastName": "Ning"
+            },
+            {
+                "id": 37085859616,
+                "preferredName": "Jiantao Qiu",
+                "firstName": "Jiantao",
+                "lastName": "Qiu"
+            },
+            {
+                "id": 37085462638,
+                "preferredName": "Kaiyuan Guo",
+                "firstName": "Kaiyuan",
+                "lastName": "Guo"
+            },
+            {
+                "id": 37293645500,
+                "preferredName": "Yu Wang",
+                "firstName": "Yu",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37291236500,
+                "preferredName": "Huazhong Yang",
+                "firstName": "Huazhong",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280163",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280163",
+        "articleTitle": "All binarized convolutional neural network and its implementation on an FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "291",
+        "endPage": "294",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "All binarized convolutional neural network and its implementation on an FPGA",
+        "authors": [
+            {
+                "id": 37086129492,
+                "preferredName": "Masayuki Shimoda",
+                "firstName": "Masayuki",
+                "lastName": "Shimoda"
+            },
+            {
+                "id": 37672009400,
+                "preferredName": "Shimpei Sato",
+                "firstName": "Shimpei",
+                "lastName": "Sato"
+            },
+            {
+                "id": 37267549100,
+                "preferredName": "Hiroki Nakahara",
+                "firstName": "Hiroki",
+                "lastName": "Nakahara"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280154",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280154",
+        "articleTitle": "Designing and accelerating spiking neural networks using OpenCL for FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "255",
+        "endPage": "258",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Designing and accelerating spiking neural networks using OpenCL for FPGAs",
+        "authors": [
+            {
+                "id": 37085472309,
+                "preferredName": "Artur Podobas",
+                "firstName": "Artur",
+                "lastName": "Podobas"
+            },
+            {
+                "id": 37270081500,
+                "preferredName": "Satoshi Matsuoka",
+                "firstName": "Satoshi",
+                "lastName": "Matsuoka"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280150",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280150",
+        "articleTitle": "FPGA-based training of convolutional neural networks with a reduced precision floating-point library",
+        "volume": null,
+        "issue": null,
+        "startPage": "239",
+        "endPage": "242",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "FPGA-based training of convolutional neural networks with a reduced precision floating-point library",
+        "authors": [
+            {
+                "id": 38667811600,
+                "preferredName": "Roberto DiCecco",
+                "firstName": "Roberto",
+                "lastName": "DiCecco"
+            },
+            {
+                "id": 37086270969,
+                "preferredName": "Lin Sun",
+                "firstName": "Lin",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37266119000,
+                "preferredName": "Paul Chow",
+                "firstName": "Paul",
+                "lastName": "Chow"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280164",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280164",
+        "articleTitle": "FPGA-based accelerator for losslessly quantized convolutional neural networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "295",
+        "endPage": "298",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "FPGA-based accelerator for losslessly quantized convolutional neural networks",
+        "authors": [
+            {
+                "id": 37086265769,
+                "preferredName": "Mankit Sit",
+                "firstName": "Mankit",
+                "lastName": "Sit"
+            },
+            {
+                "id": 37086269072,
+                "preferredName": "Ryosuke Kazami",
+                "firstName": "Ryosuke",
+                "lastName": "Kazami"
+            },
+            {
+                "id": 37280731600,
+                "preferredName": "Hideharu Amano",
+                "firstName": "Hideharu",
+                "lastName": "Amano"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280149",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280149",
+        "articleTitle": "A light-weight hardware/software co-design for pairing-based cryptography with low power and energy consumption",
+        "volume": null,
+        "issue": null,
+        "startPage": "235",
+        "endPage": "238",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "A light-weight hardware/software co-design for pairing-based cryptography with low power and energy consumption",
+        "authors": [
+            {
+                "id": 37287930100,
+                "preferredName": "Ahmad Salman",
+                "firstName": "Ahmad",
+                "lastName": "Salman"
+            },
+            {
+                "id": 37085654091,
+                "preferredName": "William Diehl",
+                "firstName": "William",
+                "lastName": "Diehl"
+            },
+            {
+                "id": 37550126100,
+                "preferredName": "Jens-Peter Kaps",
+                "firstName": "Jens-Peter",
+                "lastName": "Kaps"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280155",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280155",
+        "articleTitle": "Customizable FPGA OpenCL matrix multiply design template for deep neural networks",
+        "volume": null,
+        "issue": null,
+        "startPage": "259",
+        "endPage": "262",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Customizable FPGA OpenCL matrix multiply design template for deep neural networks",
+        "authors": [
+            {
+                "id": 37086290528,
+                "preferredName": "Jack Yinger",
+                "firstName": "Jack",
+                "lastName": "Yinger"
+            },
+            {
+                "id": 37393992500,
+                "preferredName": "Eriko Nurvitadhi",
+                "firstName": "Eriko",
+                "lastName": "Nurvitadhi"
+            },
+            {
+                "id": 37681205700,
+                "preferredName": "Davor Capalija",
+                "firstName": "Davor",
+                "lastName": "Capalija"
+            },
+            {
+                "id": 37086291596,
+                "preferredName": "Andrew Ling",
+                "firstName": "Andrew",
+                "lastName": "Ling"
+            },
+            {
+                "id": 37085713782,
+                "preferredName": "Debbie Marr",
+                "firstName": "Debbie",
+                "lastName": "Marr"
+            },
+            {
+                "id": 37085824372,
+                "preferredName": "Srivatsan Krishnan",
+                "firstName": "Srivatsan",
+                "lastName": "Krishnan"
+            },
+            {
+                "id": 37085355333,
+                "preferredName": "Duncan Moss",
+                "firstName": "Duncan",
+                "lastName": "Moss"
+            },
+            {
+                "id": 38234497500,
+                "preferredName": "Suchit Subhaschandra",
+                "firstName": "Suchit",
+                "lastName": "Subhaschandra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280165",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280165",
+        "articleTitle": "FPGA implementation of a real-time super-resolution system with a CNN based on a residue number system",
+        "volume": null,
+        "issue": null,
+        "startPage": "299",
+        "endPage": "300",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "FPGA implementation of a real-time super-resolution system with a CNN based on a residue number system",
+        "authors": [
+            {
+                "id": 37086000004,
+                "preferredName": "Taito Manabe",
+                "firstName": "Taito",
+                "lastName": "Manabe"
+            },
+            {
+                "id": 37286840400,
+                "preferredName": "Yuichiro Shibata",
+                "firstName": "Yuichiro",
+                "lastName": "Shibata"
+            },
+            {
+                "id": 37292446400,
+                "preferredName": "Kiyoshi Oguri",
+                "firstName": "Kiyoshi",
+                "lastName": "Oguri"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280162",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280162",
+        "articleTitle": "FPGA implementation of convolutional neural network based on stochastic computing",
+        "volume": null,
+        "issue": null,
+        "startPage": "287",
+        "endPage": "290",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "FPGA implementation of convolutional neural network based on stochastic computing",
+        "authors": [
+            {
+                "id": 37085993979,
+                "preferredName": "Daewoo Kim",
+                "firstName": "Daewoo",
+                "lastName": "Kim"
+            },
+            {
+                "id": 37086105777,
+                "preferredName": "Mansureh S. Moghaddam",
+                "firstName": "Mansureh S.",
+                "lastName": "Moghaddam"
+            },
+            {
+                "id": 37089142105,
+                "preferredName": "Hossein Moradian",
+                "firstName": "Hossein",
+                "lastName": "Moradian"
+            },
+            {
+                "id": 37085438681,
+                "preferredName": "Hyeonuk Sim",
+                "firstName": "Hyeonuk",
+                "lastName": "Sim"
+            },
+            {
+                "id": 37858573800,
+                "preferredName": "Jongeun Lee",
+                "firstName": "Jongeun",
+                "lastName": "Lee"
+            },
+            {
+                "id": 37277046400,
+                "preferredName": "Kiyoung Choi",
+                "firstName": "Kiyoung",
+                "lastName": "Choi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280166",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280166",
+        "articleTitle": "A unified reconfigurable floating-point arithmetic architecture based on CORDIC algorithm",
+        "volume": null,
+        "issue": null,
+        "startPage": "301",
+        "endPage": "302",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "A unified reconfigurable floating-point arithmetic architecture based on CORDIC algorithm",
+        "authors": [
+            {
+                "id": 37086211371,
+                "preferredName": "Bingyi Li",
+                "firstName": "Bingyi",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086219643,
+                "preferredName": "Linlin Fang",
+                "firstName": "Linlin",
+                "lastName": "Fang"
+            },
+            {
+                "id": 38580619000,
+                "preferredName": "Yizhuang Xie",
+                "firstName": "Yizhuang",
+                "lastName": "Xie"
+            },
+            {
+                "id": 37085471280,
+                "preferredName": "He Chen",
+                "firstName": "He",
+                "lastName": "Chen"
+            },
+            {
+                "id": 37538822500,
+                "preferredName": "Liang Chen",
+                "firstName": "Liang",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280153",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280153",
+        "articleTitle": "Runtime rule-reconfigurable high throughput NIPS on FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "251",
+        "endPage": "254",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Runtime rule-reconfigurable high throughput NIPS on FPGA",
+        "authors": [
+            {
+                "id": 37086050697,
+                "preferredName": "P. M. K. Tharaka",
+                "firstName": "P. M. K.",
+                "lastName": "Tharaka"
+            },
+            {
+                "id": 37086332296,
+                "preferredName": "D. M. D. Wijerathne",
+                "firstName": "D. M. D.",
+                "lastName": "Wijerathne"
+            },
+            {
+                "id": 37086331069,
+                "preferredName": "Navoda Perera",
+                "firstName": "Navoda",
+                "lastName": "Perera"
+            },
+            {
+                "id": 37089653407,
+                "preferredName": "Dinushan Vishwajith",
+                "firstName": "Dinushan",
+                "lastName": "Vishwajith"
+            },
+            {
+                "id": 37399125200,
+                "preferredName": "Ajith Pasqual",
+                "firstName": "Ajith",
+                "lastName": "Pasqual"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280143",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280143",
+        "articleTitle": "An FPGA-accelerated high-throughput data optimization system for high-speed transfer via wide area network",
+        "volume": null,
+        "issue": null,
+        "startPage": "211",
+        "endPage": "214",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "An FPGA-accelerated high-throughput data optimization system for high-speed transfer via wide area network",
+        "authors": [
+            {
+                "id": 37086264171,
+                "preferredName": "Kentaro Katayama",
+                "firstName": "Kentaro",
+                "lastName": "Katayama"
+            },
+            {
+                "id": 37085820214,
+                "preferredName": "Hidetoshi Matsumura",
+                "firstName": "Hidetoshi",
+                "lastName": "Matsumura"
+            },
+            {
+                "id": 37086264695,
+                "preferredName": "Hiroaki Kameyama",
+                "firstName": "Hiroaki",
+                "lastName": "Kameyama"
+            },
+            {
+                "id": 38237090600,
+                "preferredName": "Shinichi Sazawa",
+                "firstName": "Shinichi",
+                "lastName": "Sazawa"
+            },
+            {
+                "id": 37420602200,
+                "preferredName": "Yasuhiro Watanabe",
+                "firstName": "Yasuhiro",
+                "lastName": "Watanabe"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280146",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280146",
+        "articleTitle": "FPGA-based high-performance time-to-digital converters by utilizing multi-channels looped carry chains",
+        "volume": null,
+        "issue": null,
+        "startPage": "223",
+        "endPage": "226",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "FPGA-based high-performance time-to-digital converters by utilizing multi-channels looped carry chains",
+        "authors": [
+            {
+                "id": 37561701100,
+                "preferredName": "Ke Cui",
+                "firstName": "Ke",
+                "lastName": "Cui"
+            },
+            {
+                "id": 37086121149,
+                "preferredName": "Zongkai Liu",
+                "firstName": "Zongkai",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086030242,
+                "preferredName": "Rihong Zhu",
+                "firstName": "Rihong",
+                "lastName": "Zhu"
+            },
+            {
+                "id": 37086122881,
+                "preferredName": "Xiangyu Li",
+                "firstName": "Xiangyu",
+                "lastName": "Li"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280158",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280158",
+        "articleTitle": "Calling hardware procedures in a reconfigurable accelerator using RPC-FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "271",
+        "endPage": "274",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Calling hardware procedures in a reconfigurable accelerator using RPC-FPGA",
+        "authors": [
+            {
+                "id": 37283426600,
+                "preferredName": "Erik H. D'Hollander",
+                "firstName": "Erik H.",
+                "lastName": "D'Hollander"
+            },
+            {
+                "id": 38255587800,
+                "preferredName": "Bruno Chevalier",
+                "firstName": "Bruno",
+                "lastName": "Chevalier"
+            },
+            {
+                "id": 37282408900,
+                "preferredName": "Koen De Bosschere",
+                "firstName": "Koen",
+                "lastName": "De Bosschere"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280139",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280139",
+        "articleTitle": "Homeostatic fault tolerance in spiking neural networks utilizing dynamic partial reconfiguration of FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "195",
+        "endPage": "198",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Homeostatic fault tolerance in spiking neural networks utilizing dynamic partial reconfiguration of FPGAs",
+        "authors": [
+            {
+                "id": 37086000661,
+                "preferredName": "Anju P. Johnson",
+                "firstName": "Anju P.",
+                "lastName": "Johnson"
+            },
+            {
+                "id": 37085390869,
+                "preferredName": "Junxiu Liu",
+                "firstName": "Junxiu",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37085470410,
+                "preferredName": "Alan G. Millard",
+                "firstName": "Alan G.",
+                "lastName": "Millard"
+            },
+            {
+                "id": 37085998031,
+                "preferredName": "Shvan Karim",
+                "firstName": "Shvan",
+                "lastName": "Karim"
+            },
+            {
+                "id": 37284038300,
+                "preferredName": "Andy M. Tyrrell",
+                "firstName": "Andy M.",
+                "lastName": "Tyrrell"
+            },
+            {
+                "id": 37297997900,
+                "preferredName": "Jim Harkin",
+                "firstName": "Jim",
+                "lastName": "Harkin"
+            },
+            {
+                "id": 37275763400,
+                "preferredName": "Jon Timmis",
+                "firstName": "Jon",
+                "lastName": "Timmis"
+            },
+            {
+                "id": 37393462800,
+                "preferredName": "Liam McDaid",
+                "firstName": "Liam",
+                "lastName": "McDaid"
+            },
+            {
+                "id": 37294494400,
+                "preferredName": "David M. Halliday",
+                "firstName": "David M.",
+                "lastName": "Halliday"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280151",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280151",
+        "articleTitle": "Selection of an error-correcting code for FPGA-based physical unclonable functions",
+        "volume": null,
+        "issue": null,
+        "startPage": "243",
+        "endPage": "246",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Selection of an error-correcting code for FPGA-based physical unclonable functions",
+        "authors": [
+            {
+                "id": 37086279033,
+                "preferredName": "Brian Jarvis",
+                "firstName": "Brian",
+                "lastName": "Jarvis"
+            },
+            {
+                "id": 37281937000,
+                "preferredName": "Kris Gaj",
+                "firstName": "Kris",
+                "lastName": "Gaj"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280152",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280152",
+        "articleTitle": "Streaming sorting network based BWT acceleration on FPGA for lossless compression",
+        "volume": null,
+        "issue": null,
+        "startPage": "247",
+        "endPage": "250",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Streaming sorting network based BWT acceleration on FPGA for lossless compression",
+        "authors": [
+            {
+                "id": 37086328497,
+                "preferredName": "Baofu Zhao",
+                "firstName": "Baofu",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085759998,
+                "preferredName": "Yubin Li",
+                "firstName": "Yubin",
+                "lastName": "Li"
+            },
+            {
+                "id": 37293645500,
+                "preferredName": "Yu Wang",
+                "firstName": "Yu",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37291236500,
+                "preferredName": "Huazhong Yang",
+                "firstName": "Huazhong",
+                "lastName": "Yang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280157",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280157",
+        "articleTitle": "hCODE 2.0: An open-source toolkit for building efficient FPGA-enabled clouds",
+        "volume": null,
+        "issue": null,
+        "startPage": "267",
+        "endPage": "270",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "hCODE 2.0: An open-source toolkit for building efficient FPGA-enabled clouds",
+        "authors": [
+            {
+                "id": 37896730600,
+                "preferredName": "Qian Zhao",
+                "firstName": "Qian",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37089804297,
+                "preferredName": "Hendarmawan",
+                "firstName": null,
+                "lastName": "Hendarmawan"
+            },
+            {
+                "id": 37295778700,
+                "preferredName": "Motoki Amagasaki",
+                "firstName": "Motoki",
+                "lastName": "Amagasaki"
+            },
+            {
+                "id": 37290518600,
+                "preferredName": "Masahiro Iida",
+                "firstName": "Masahiro",
+                "lastName": "Iida"
+            },
+            {
+                "id": 37603417800,
+                "preferredName": "Morihiro Kuga",
+                "firstName": "Morihiro",
+                "lastName": "Kuga"
+            },
+            {
+                "id": 37302132800,
+                "preferredName": "Toshinori Sueyoshi",
+                "firstName": "Toshinori",
+                "lastName": "Sueyoshi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280140",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280140",
+        "articleTitle": "Model-based hardware design based on compatible sets of isomorphic subgraphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "199",
+        "endPage": "202",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Model-based hardware design based on compatible sets of isomorphic subgraphs",
+        "authors": [
+            {
+                "id": 37086334096,
+                "preferredName": "Patrick Sittel",
+                "firstName": "Patrick",
+                "lastName": "Sittel"
+            },
+            {
+                "id": 37072374200,
+                "preferredName": "Konrad M\u00f6ller",
+                "firstName": "Konrad",
+                "lastName": "M\u00f6ller"
+            },
+            {
+                "id": 37396252100,
+                "preferredName": "Martin Kumm",
+                "firstName": "Martin",
+                "lastName": "Kumm"
+            },
+            {
+                "id": 37273343400,
+                "preferredName": "Peter Zipf",
+                "firstName": "Peter",
+                "lastName": "Zipf"
+            },
+            {
+                "id": 37545456300,
+                "preferredName": "Bogdan Pasca",
+                "firstName": "Bogdan",
+                "lastName": "Pasca"
+            },
+            {
+                "id": 37994662700,
+                "preferredName": "Mark Jervis",
+                "firstName": "Mark",
+                "lastName": "Jervis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280148",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280148",
+        "articleTitle": "An FPGA-based tree crown detection approach for remote sensing images",
+        "volume": null,
+        "issue": null,
+        "startPage": "231",
+        "endPage": "234",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "An FPGA-based tree crown detection approach for remote sensing images",
+        "authors": [
+            {
+                "id": 37086019055,
+                "preferredName": "Weijia Li",
+                "firstName": "Weijia",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085999356,
+                "preferredName": "Conghui He",
+                "firstName": "Conghui",
+                "lastName": "He"
+            },
+            {
+                "id": 37067708900,
+                "preferredName": "Haohuan Fu",
+                "firstName": "Haohuan",
+                "lastName": "Fu"
+            },
+            {
+                "id": 37272281200,
+                "preferredName": "Wayne Luk",
+                "firstName": "Wayne",
+                "lastName": "Luk"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280145",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280145",
+        "articleTitle": "An open source PXIe ecosystem based on FPGA modules",
+        "volume": null,
+        "issue": null,
+        "startPage": "219",
+        "endPage": "222",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "An open source PXIe ecosystem based on FPGA modules",
+        "authors": [
+            {
+                "id": 37086320537,
+                "preferredName": "Andrew Ang",
+                "firstName": "Andrew",
+                "lastName": "Ang"
+            },
+            {
+                "id": 37086324466,
+                "preferredName": "Matt Bourne",
+                "firstName": "Matt",
+                "lastName": "Bourne"
+            },
+            {
+                "id": 37703727300,
+                "preferredName": "Robin Dykstra",
+                "firstName": "Robin",
+                "lastName": "Dykstra"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280138",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280138",
+        "articleTitle": "A scalable hybrid architecture for high performance data-parallel applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "191",
+        "endPage": "194",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "A scalable hybrid architecture for high performance data-parallel applications",
+        "authors": [
+            {
+                "id": 38183573900,
+                "preferredName": "Moucheng Yang",
+                "firstName": "Moucheng",
+                "lastName": "Yang"
+            },
+            {
+                "id": 37085661145,
+                "preferredName": "Jifang Jin",
+                "firstName": "Jifang",
+                "lastName": "Jin"
+            },
+            {
+                "id": 37086008065,
+                "preferredName": "Zhehao Li",
+                "firstName": "Zhehao",
+                "lastName": "Li"
+            },
+            {
+                "id": 37559473400,
+                "preferredName": "Xuegong Zhou",
+                "firstName": "Xuegong",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37086306557,
+                "preferredName": "Shaojun Wang",
+                "firstName": "Shaojun",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37600175900,
+                "preferredName": "Lingli Wang",
+                "firstName": "Lingli",
+                "lastName": "Wang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280156",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280156",
+        "articleTitle": "A comprehensive hardware/software infrastructure for IP cores design protection",
+        "volume": null,
+        "issue": null,
+        "startPage": "263",
+        "endPage": "266",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "A comprehensive hardware/software infrastructure for IP cores design protection",
+        "authors": [
+            {
+                "id": 37085422695,
+                "preferredName": "Brice Colombier",
+                "firstName": "Brice",
+                "lastName": "Colombier"
+            },
+            {
+                "id": 37281910400,
+                "preferredName": "Lilian Bossuet",
+                "firstName": "Lilian",
+                "lastName": "Bossuet"
+            },
+            {
+                "id": 37085824614,
+                "preferredName": "Ugo Mureddu",
+                "firstName": "Ugo",
+                "lastName": "Mureddu"
+            },
+            {
+                "id": 37427398600,
+                "preferredName": "David H\u00e9ly",
+                "firstName": "David",
+                "lastName": "H\u00e9ly"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280141",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280141",
+        "articleTitle": "A NoC-based custom FPGA configuration memory architecture for ultra-fast micro-reconfiguration",
+        "volume": null,
+        "issue": null,
+        "startPage": "203",
+        "endPage": "206",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "A NoC-based custom FPGA configuration memory architecture for ultra-fast micro-reconfiguration",
+        "authors": [
+            {
+                "id": 37085450183,
+                "preferredName": "Amit Kulkarni",
+                "firstName": "Amit",
+                "lastName": "Kulkarni"
+            },
+            {
+                "id": 38657358200,
+                "preferredName": "Poona Bahrebar",
+                "firstName": "Poona",
+                "lastName": "Bahrebar"
+            },
+            {
+                "id": 37347522100,
+                "preferredName": "Dirk Stroobandt",
+                "firstName": "Dirk",
+                "lastName": "Stroobandt"
+            },
+            {
+                "id": 37086163071,
+                "preferredName": "Giulio Stramondo",
+                "firstName": "Giulio",
+                "lastName": "Stramondo"
+            },
+            {
+                "id": 37085690137,
+                "preferredName": "C\u0103t\u0103lin Bogdan Ciobanu",
+                "firstName": "C\u0103t\u0103lin Bogdan",
+                "lastName": "Ciobanu"
+            },
+            {
+                "id": 37698034900,
+                "preferredName": "Ana Lucia Varbanescu",
+                "firstName": "Ana Lucia",
+                "lastName": "Varbanescu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280161",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280161",
+        "articleTitle": "Hough transform line reconstruction on FPGA using back-projection",
+        "volume": null,
+        "issue": null,
+        "startPage": "283",
+        "endPage": "286",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Hough transform line reconstruction on FPGA using back-projection",
+        "authors": [
+            {
+                "id": 37343250500,
+                "preferredName": "Donald G. Bailey",
+                "firstName": "Donald G.",
+                "lastName": "Bailey"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280144",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280144",
+        "articleTitle": "Evolvable caches: Optimization of reconfigurable cache mappings for a LEON3/Linux-based multi-core processor",
+        "volume": null,
+        "issue": null,
+        "startPage": "215",
+        "endPage": "218",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Evolvable caches: Optimization of reconfigurable cache mappings for a LEON3/Linux-based multi-core processor",
+        "authors": [
+            {
+                "id": 38277762300,
+                "preferredName": "Nam Ho",
+                "firstName": "Nam",
+                "lastName": "Ho"
+            },
+            {
+                "id": 37592615200,
+                "preferredName": "Paul Kaufmann",
+                "firstName": "Paul",
+                "lastName": "Kaufmann"
+            },
+            {
+                "id": 37265525900,
+                "preferredName": "Marco Platzner",
+                "firstName": "Marco",
+                "lastName": "Platzner"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280115",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280115",
+        "articleTitle": "Automatic circuit design and modelling for heterogeneous FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "9",
+        "endPage": "16",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Automatic circuit design and modelling for heterogeneous FPGAs",
+        "authors": [
+            {
+                "id": 37085494229,
+                "preferredName": "Sadegh Yazdanshenas",
+                "firstName": "Sadegh",
+                "lastName": "Yazdanshenas"
+            },
+            {
+                "id": 37283817300,
+                "preferredName": "Vaughn Betz",
+                "firstName": "Vaughn",
+                "lastName": "Betz"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280135",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280135",
+        "articleTitle": "An object detector based on multiscale sliding window search using a fully pipelined binarized CNN on an FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "168",
+        "endPage": "175",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "An object detector based on multiscale sliding window search using a fully pipelined binarized CNN on an FPGA",
+        "authors": [
+            {
+                "id": 37267549100,
+                "preferredName": "Hiroki Nakahara",
+                "firstName": "Hiroki",
+                "lastName": "Nakahara"
+            },
+            {
+                "id": 37085991350,
+                "preferredName": "Haruyoshi Yonekawa",
+                "firstName": "Haruyoshi",
+                "lastName": "Yonekawa"
+            },
+            {
+                "id": 37672009400,
+                "preferredName": "Shimpei Sato",
+                "firstName": "Shimpei",
+                "lastName": "Sato"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280116",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280116",
+        "articleTitle": "Liquid: High quality scalable placement for large heterogeneous FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "17",
+        "endPage": "24",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Liquid: High quality scalable placement for large heterogeneous FPGAs",
+        "authors": [
+            {
+                "id": 37085823107,
+                "preferredName": "Dries Vercruyce",
+                "firstName": "Dries",
+                "lastName": "Vercruyce"
+            },
+            {
+                "id": 38491483300,
+                "preferredName": "Elias Vansteenkiste",
+                "firstName": "Elias",
+                "lastName": "Vansteenkiste"
+            },
+            {
+                "id": 37347522100,
+                "preferredName": "Dirk Stroobandt",
+                "firstName": "Dirk",
+                "lastName": "Stroobandt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280122",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280122",
+        "articleTitle": "HopliteRT: An efficient FPGA NoC for real-time applications",
+        "volume": null,
+        "issue": null,
+        "startPage": "64",
+        "endPage": "71",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "HopliteRT: An efficient FPGA NoC for real-time applications",
+        "authors": [
+            {
+                "id": 37074020400,
+                "preferredName": "Saud Wasly",
+                "firstName": "Saud",
+                "lastName": "Wasly"
+            },
+            {
+                "id": 37282693900,
+                "preferredName": "Rodolfo Pellizzoni",
+                "firstName": "Rodolfo",
+                "lastName": "Pellizzoni"
+            },
+            {
+                "id": 37265546500,
+                "preferredName": "Nachiket Kapre",
+                "firstName": "Nachiket",
+                "lastName": "Kapre"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280131",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280131",
+        "articleTitle": "Accelerating NFV application using CPU-FPGA tightly coupled architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "136",
+        "endPage": "143",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Accelerating NFV application using CPU-FPGA tightly coupled architecture",
+        "authors": [
+            {
+                "id": 37086334670,
+                "preferredName": "Yoshikazu Watanabe",
+                "firstName": "Yoshikazu",
+                "lastName": "Watanabe"
+            },
+            {
+                "id": 37086023302,
+                "preferredName": "Yuki Kobayashi",
+                "firstName": "Yuki",
+                "lastName": "Kobayashi"
+            },
+            {
+                "id": 37894465500,
+                "preferredName": "Takashi Takenaka",
+                "firstName": "Takashi",
+                "lastName": "Takenaka"
+            },
+            {
+                "id": 37445136700,
+                "preferredName": "Takeo Hosomi",
+                "firstName": "Takeo",
+                "lastName": "Hosomi"
+            },
+            {
+                "id": 37280755600,
+                "preferredName": "Yuichi Nakamura",
+                "firstName": "Yuichi",
+                "lastName": "Nakamura"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280129",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280129",
+        "articleTitle": "Toward a new HLS-based methodology for FPGA benchmarking of candidates in cryptographic competitions: The CAESAR contest case study",
+        "volume": null,
+        "issue": null,
+        "startPage": "120",
+        "endPage": "127",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Toward a new HLS-based methodology for FPGA benchmarking of candidates in cryptographic competitions: The CAESAR contest case study",
+        "authors": [
+            {
+                "id": 37992870800,
+                "preferredName": "Ekawat Homsirikamol",
+                "firstName": "Ekawat",
+                "lastName": "Homsirikamol"
+            },
+            {
+                "id": 37087521173,
+                "preferredName": "Kris Gaj George",
+                "firstName": "Kris Gaj",
+                "lastName": "George"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280137",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280137",
+        "articleTitle": "A 42fps full-HD ORB feature extraction accelerator with reduced memory overhead",
+        "volume": null,
+        "issue": null,
+        "startPage": "183",
+        "endPage": "190",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "A 42fps full-HD ORB feature extraction accelerator with reduced memory overhead",
+        "authors": [
+            {
+                "id": 37085511719,
+                "preferredName": "Rongdi Sun",
+                "firstName": "Rongdi",
+                "lastName": "Sun"
+            },
+            {
+                "id": 37402099000,
+                "preferredName": "Peilin Liu",
+                "firstName": "Peilin",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37086176524,
+                "preferredName": "Jun Wang",
+                "firstName": "Jun",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37086265244,
+                "preferredName": "Cecil Accetti",
+                "firstName": "Cecil",
+                "lastName": "Accetti"
+            },
+            {
+                "id": 37086266750,
+                "preferredName": "Abid A. Naqvi",
+                "firstName": "Abid A.",
+                "lastName": "Naqvi"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280128",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280128",
+        "articleTitle": "Single window stream aggregation using reconfigurable hardware",
+        "volume": null,
+        "issue": null,
+        "startPage": "112",
+        "endPage": "119",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Single window stream aggregation using reconfigurable hardware",
+        "authors": [
+            {
+                "id": 37086268177,
+                "preferredName": "Prajith Ramakrishnan Geethakumari",
+                "firstName": "Prajith Ramakrishnan",
+                "lastName": "Geethakumari"
+            },
+            {
+                "id": 38276452100,
+                "preferredName": "Vincenzo Gulisano",
+                "firstName": "Vincenzo",
+                "lastName": "Gulisano"
+            },
+            {
+                "id": 37086268079,
+                "preferredName": "Bo Joel Svensson",
+                "firstName": "Bo Joel",
+                "lastName": "Svensson"
+            },
+            {
+                "id": 37267116100,
+                "preferredName": "Pedro Trancoso",
+                "firstName": "Pedro",
+                "lastName": "Trancoso"
+            },
+            {
+                "id": 37265768300,
+                "preferredName": "Ioannis Sourdis",
+                "firstName": "Ioannis",
+                "lastName": "Sourdis"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280127",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280127",
+        "articleTitle": "Pass a pointer: Exploring shared virtual memory abstractions in OpenCL tools for FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "104",
+        "endPage": "111",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Pass a pointer: Exploring shared virtual memory abstractions in OpenCL tools for FPGAs",
+        "authors": [
+            {
+                "id": 38252529200,
+                "preferredName": "Felix Winterstein",
+                "firstName": "Felix",
+                "lastName": "Winterstein"
+            },
+            {
+                "id": 37265574000,
+                "preferredName": "George Constantinides",
+                "firstName": "George",
+                "lastName": "Constantinides"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280123",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280123",
+        "articleTitle": "architect: Arbitrary-precision constant-hardware iterative compute",
+        "volume": null,
+        "issue": null,
+        "startPage": "73",
+        "endPage": "79",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "architect: Arbitrary-precision constant-hardware iterative compute",
+        "authors": [
+            {
+                "id": 37086323340,
+                "preferredName": "He Li",
+                "firstName": "He",
+                "lastName": "Li"
+            },
+            {
+                "id": 37085453358,
+                "preferredName": "James J. Davis",
+                "firstName": "James J.",
+                "lastName": "Davis"
+            },
+            {
+                "id": 37085728756,
+                "preferredName": "John Wickerson",
+                "firstName": "John",
+                "lastName": "Wickerson"
+            },
+            {
+                "id": 37265574000,
+                "preferredName": "George A. Constantinides",
+                "firstName": "George A.",
+                "lastName": "Constantinides"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280133",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280133",
+        "articleTitle": "Exploring automated space/time tradeoffs for OpenVX compute graphs",
+        "volume": null,
+        "issue": null,
+        "startPage": "152",
+        "endPage": "159",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Exploring automated space/time tradeoffs for OpenVX compute graphs",
+        "authors": [
+            {
+                "id": 37086280434,
+                "preferredName": "Hossein Omidian",
+                "firstName": "Hossein",
+                "lastName": "Omidian"
+            },
+            {
+                "id": 37300320100,
+                "preferredName": "Guy G.F. Lemieux",
+                "firstName": "Guy G.F.",
+                "lastName": "Lemieux"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280114",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280114",
+        "articleTitle": "RBSA: Range-based simulated annealing for FPGA placement",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "RBSA: Range-based simulated annealing for FPGA placement",
+        "authors": [
+            {
+                "id": 37085418238,
+                "preferredName": "Junqi Yuan",
+                "firstName": "Junqi",
+                "lastName": "Yuan"
+            },
+            {
+                "id": 37600175900,
+                "preferredName": "Lingli Wang",
+                "firstName": "Lingli",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37559473400,
+                "preferredName": "Xuegong Zhou",
+                "firstName": "Xuegong",
+                "lastName": "Zhou"
+            },
+            {
+                "id": 37281298900,
+                "preferredName": "Yinshui Xia",
+                "firstName": "Yinshui",
+                "lastName": "Xia"
+            },
+            {
+                "id": 37278205700,
+                "preferredName": "Jianping Hu",
+                "firstName": "Jianping",
+                "lastName": "Hu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280130",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280130",
+        "articleTitle": "Comparing the cost of protecting selected lightweight block ciphers against differential power analysis in low-cost FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "128",
+        "endPage": "135",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Comparing the cost of protecting selected lightweight block ciphers against differential power analysis in low-cost FPGAs",
+        "authors": [
+            {
+                "id": 37085654091,
+                "preferredName": "William Diehl",
+                "firstName": "William",
+                "lastName": "Diehl"
+            },
+            {
+                "id": 37086263948,
+                "preferredName": "Abubakr Abdulgadir",
+                "firstName": "Abubakr",
+                "lastName": "Abdulgadir"
+            },
+            {
+                "id": 37550126100,
+                "preferredName": "Jens-Peter Kaps",
+                "firstName": "Jens-Peter",
+                "lastName": "Kaps"
+            },
+            {
+                "id": 37281937000,
+                "preferredName": "Kris Gaj",
+                "firstName": "Kris",
+                "lastName": "Gaj"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280132",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280132",
+        "articleTitle": "An energy efficient approach for C4.5 algorithm using OpenCL design flow",
+        "volume": null,
+        "issue": null,
+        "startPage": "144",
+        "endPage": "151",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "An energy efficient approach for C4.5 algorithm using OpenCL design flow",
+        "authors": [
+            {
+                "id": 37086006776,
+                "preferredName": "Hai Peng",
+                "firstName": "Hai",
+                "lastName": "Peng"
+            },
+            {
+                "id": 37086025005,
+                "preferredName": "Xiaofan Zhang",
+                "firstName": "Xiaofan",
+                "lastName": "Zhang"
+            },
+            {
+                "id": 37085382980,
+                "preferredName": "Letian Huang",
+                "firstName": "Letian",
+                "lastName": "Huang"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280136",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280136",
+        "articleTitle": "Lowering dynamic power in stream-based harris corner detection architecture",
+        "volume": null,
+        "issue": null,
+        "startPage": "176",
+        "endPage": "182",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Lowering dynamic power in stream-based harris corner detection architecture",
+        "authors": [
+            {
+                "id": 37332707100,
+                "preferredName": "Siew-Kei Lam",
+                "firstName": "Siew-Kei",
+                "lastName": "Lam"
+            },
+            {
+                "id": 37086344040,
+                "preferredName": "Rakesh Kumar Bijarniya",
+                "firstName": "Rakesh Kumar",
+                "lastName": "Bijarniya"
+            },
+            {
+                "id": 38468861600,
+                "preferredName": "Meiqing Wu",
+                "firstName": "Meiqing",
+                "lastName": "Wu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280117",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280117",
+        "articleTitle": "Performance characterization of Altera and Xilinx 28 nm FPGAs at cryogenic temperatures",
+        "volume": null,
+        "issue": null,
+        "startPage": "25",
+        "endPage": "31",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Performance characterization of Altera and Xilinx 28 nm FPGAs at cryogenic temperatures",
+        "authors": [
+            {
+                "id": 37085876122,
+                "preferredName": "Harald Homulle",
+                "firstName": "Harald",
+                "lastName": "Homulle"
+            },
+            {
+                "id": 37271353200,
+                "preferredName": "Edoardo Charbon",
+                "firstName": "Edoardo",
+                "lastName": "Charbon"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280121",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280121",
+        "articleTitle": "Ultra-low latency continuous block-parallel stream windowing using FPGA on-chip memory",
+        "volume": null,
+        "issue": null,
+        "startPage": "56",
+        "endPage": "63",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Ultra-low latency continuous block-parallel stream windowing using FPGA on-chip memory",
+        "authors": [
+            {
+                "id": 37695107200,
+                "preferredName": "Justin S. J. Wong",
+                "firstName": "Justin S. J.",
+                "lastName": "Wong"
+            },
+            {
+                "id": 37086278257,
+                "preferredName": "Runbin Shi",
+                "firstName": "Runbin",
+                "lastName": "Shi"
+            },
+            {
+                "id": 37086042013,
+                "preferredName": "Maolin Wang",
+                "firstName": "Maolin",
+                "lastName": "Wang"
+            },
+            {
+                "id": 37302177600,
+                "preferredName": "Hayden K.-H. So",
+                "firstName": "Hayden K.-H.",
+                "lastName": "So"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280134",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280134",
+        "articleTitle": "NnCore: A parameterized non-linear function generator for machine learning applications in FPGAs",
+        "volume": null,
+        "issue": null,
+        "startPage": "160",
+        "endPage": "167",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "NnCore: A parameterized non-linear function generator for machine learning applications in FPGAs",
+        "authors": [
+            {
+                "id": 37086064146,
+                "preferredName": "Sam M.H. Ho",
+                "firstName": "Sam M.H.",
+                "lastName": "Ho"
+            },
+            {
+                "id": 37302177600,
+                "preferredName": "Hayden Kwok-Hay So",
+                "firstName": "Hayden Kwok-Hay",
+                "lastName": "So"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280120",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280120",
+        "articleTitle": "AXI over Ethernet; a protocol for the monitoring and control of FPGA clusters",
+        "volume": null,
+        "issue": null,
+        "startPage": "48",
+        "endPage": "55",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "AXI over Ethernet; a protocol for the monitoring and control of FPGA clusters",
+        "authors": [
+            {
+                "id": 37687566000,
+                "preferredName": "William Kamp",
+                "firstName": "William",
+                "lastName": "Kamp"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280118",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280118",
+        "articleTitle": "High performance serial ATA Gen3 controllers on FPGA devices",
+        "volume": null,
+        "issue": null,
+        "startPage": "32",
+        "endPage": "39",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "High performance serial ATA Gen3 controllers on FPGA devices",
+        "authors": [
+            {
+                "id": 37086122941,
+                "preferredName": "Dan Cristian Turicu",
+                "firstName": "Dan Cristian",
+                "lastName": "Turicu"
+            },
+            {
+                "id": 37870523400,
+                "preferredName": "Octavian Cre\u0163",
+                "firstName": "Octavian",
+                "lastName": "Cre\u0163"
+            },
+            {
+                "id": 37072390000,
+                "preferredName": "Lucia V\u0103cariu",
+                "firstName": "Lucia",
+                "lastName": "V\u0103cariu"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280126",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280126",
+        "articleTitle": "Synthesis of program binaries into FPGA accelerators with runtime dependence validation",
+        "volume": null,
+        "issue": null,
+        "startPage": "96",
+        "endPage": "103",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Synthesis of program binaries into FPGA accelerators with runtime dependence validation",
+        "authors": [
+            {
+                "id": 37653654000,
+                "preferredName": "Shaoyi Cheng",
+                "firstName": "Shaoyi",
+                "lastName": "Cheng"
+            },
+            {
+                "id": 37086291140,
+                "preferredName": "Qijing Huang",
+                "firstName": "Qijing",
+                "lastName": "Huang"
+            },
+            {
+                "id": 37294181800,
+                "preferredName": "John Wawrzynek",
+                "firstName": "John",
+                "lastName": "Wawrzynek"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280119",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280119",
+        "articleTitle": "SMEFF: A scalable memory extension fabric for FPGA",
+        "volume": null,
+        "issue": null,
+        "startPage": "40",
+        "endPage": "47",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "SMEFF: A scalable memory extension fabric for FPGA",
+        "authors": [
+            {
+                "id": 37087006624,
+                "preferredName": "Wei Li",
+                "firstName": "Wei",
+                "lastName": "Li"
+            },
+            {
+                "id": 37086289852,
+                "preferredName": "Yangyang Zhao",
+                "firstName": "Yangyang",
+                "lastName": "Zhao"
+            },
+            {
+                "id": 37085765768,
+                "preferredName": "Yuhang Liu",
+                "firstName": "Yuhang",
+                "lastName": "Liu"
+            },
+            {
+                "id": 37407023400,
+                "preferredName": "Mingyu Chen",
+                "firstName": "Mingyu",
+                "lastName": "Chen"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280125",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280125",
+        "articleTitle": "An IP core integration tool-flow for prototyping software-defined radios using static dataflow with access patterns",
+        "volume": null,
+        "issue": null,
+        "startPage": "88",
+        "endPage": "95",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "An IP core integration tool-flow for prototyping software-defined radios using static dataflow with access patterns",
+        "authors": [
+            {
+                "id": 37086328429,
+                "preferredName": "Lekhobola J. Tsoeunyane",
+                "firstName": "Lekhobola J.",
+                "lastName": "Tsoeunyane"
+            },
+            {
+                "id": 37272400200,
+                "preferredName": "Simon Winberg",
+                "firstName": "Simon",
+                "lastName": "Winberg"
+            },
+            {
+                "id": 37313567800,
+                "preferredName": "Michael Inggs",
+                "firstName": "Michael",
+                "lastName": "Inggs"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280124",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280124",
+        "articleTitle": "A state machine block for high-level synthesis",
+        "volume": null,
+        "issue": null,
+        "startPage": "80",
+        "endPage": "87",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "A state machine block for high-level synthesis",
+        "authors": [
+            {
+                "id": 37086273248,
+                "preferredName": "Shadi Assadikhomami",
+                "firstName": "Shadi",
+                "lastName": "Assadikhomami"
+            },
+            {
+                "id": 37086284302,
+                "preferredName": "Jennifer Ongko",
+                "firstName": "Jennifer",
+                "lastName": "Ongko"
+            },
+            {
+                "id": 37392928300,
+                "preferredName": "Tor M. Aamodt",
+                "firstName": "Tor M.",
+                "lastName": "Aamodt"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280111",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280111",
+        "articleTitle": "Sponsors",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Sponsors",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280113",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280113",
+        "articleTitle": "Organising committee",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Organising committee",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280110",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280110",
+        "articleTitle": "Frequently asked questions",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Frequently asked questions",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280112",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280112",
+        "articleTitle": "A message from the general chair and program co-chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "A message from the general chair and program co-chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280109",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280109",
+        "articleTitle": "About CP",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "About CP",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280102",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280102",
+        "articleTitle": "[Front cover]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "[Front cover]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280104",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280104",
+        "articleTitle": "Session list",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Session list",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280106",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280106",
+        "articleTitle": "ICFPT 2017 brief author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "ICFPT 2017 brief author index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280108",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280108",
+        "articleTitle": "The end of indexes",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "The end of indexes",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280103",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280103",
+        "articleTitle": "Hub page",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "Hub page",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280105",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280105",
+        "articleTitle": "ICFPT 2017 table of contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "8",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "ICFPT 2017 table of contents",
+        "authors": []
+    },
+    {
+        "publicationNumber": "8269417",
+        "doi": "10.1109/FPT.2017.8280107",
+        "publicationYear": "2017",
+        "publicationDate": "11-13 Dec. 2017",
+        "articleNumber": "8280107",
+        "articleTitle": "ICFPT 2017 detailed author index",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "33",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2017 International Conference on Field Programmable Technology (ICFPT)",
+        "highlightedTitle": "ICFPT 2017 detailed author index",
+        "authors": []
+    }
+]

@@ -1,0 +1,416 @@
+[
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00009",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307947",
+        "articleTitle": "Pinpoint the Joules: Unifying Runtime-Support for Energy Measurements on Heterogeneous Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "31",
+        "endPage": "40",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Pinpoint the Joules: Unifying Runtime-Support for Energy Measurements on Heterogeneous Systems",
+        "authors": [
+            {
+                "id": 37088602518,
+                "preferredName": "Sven K\u00f6hler",
+                "firstName": "Sven",
+                "lastName": "K\u00f6hler"
+            },
+            {
+                "id": 37085664649,
+                "preferredName": "Benedict Herzog",
+                "firstName": "Benedict",
+                "lastName": "Herzog"
+            },
+            {
+                "id": 37085674366,
+                "preferredName": "Timo H\u00f6nig",
+                "firstName": "Timo",
+                "lastName": "H\u00f6nig"
+            },
+            {
+                "id": 37087232909,
+                "preferredName": "Lukas Wenzel",
+                "firstName": "Lukas",
+                "lastName": "Wenzel"
+            },
+            {
+                "id": 37085505397,
+                "preferredName": "Max Plauth",
+                "firstName": "Max",
+                "lastName": "Plauth"
+            },
+            {
+                "id": 37297573700,
+                "preferredName": "J\u00f6rg Nolte",
+                "firstName": "J\u00f6rg",
+                "lastName": "Nolte"
+            },
+            {
+                "id": 37332461000,
+                "preferredName": "Andreas Polze",
+                "firstName": "Andreas",
+                "lastName": "Polze"
+            },
+            {
+                "id": 38273129600,
+                "preferredName": "Wolfgang Schr\u00f6der-Preikschat",
+                "firstName": "Wolfgang",
+                "lastName": "Schr\u00f6der-Preikschat"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00008",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307952",
+        "articleTitle": "Improving Job Launch Rates in the TaPaSCo FPGA Middleware by Hardware/Software-Co-Design",
+        "volume": null,
+        "issue": null,
+        "startPage": "22",
+        "endPage": "30",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Improving Job Launch Rates in the TaPaSCo FPGA Middleware by Hardware/Software-Co-Design",
+        "authors": [
+            {
+                "id": 37087882053,
+                "preferredName": "Carsten Heinz",
+                "firstName": "Carsten",
+                "lastName": "Heinz"
+            },
+            {
+                "id": 37085874511,
+                "preferredName": "Jaco A. Hofmann",
+                "firstName": "Jaco A.",
+                "lastName": "Hofmann"
+            },
+            {
+                "id": 37086155875,
+                "preferredName": "Lukas Sommer",
+                "firstName": "Lukas",
+                "lastName": "Sommer"
+            },
+            {
+                "id": 37274057500,
+                "preferredName": "Andreas Koch",
+                "firstName": "Andreas",
+                "lastName": "Koch"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00010",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307941",
+        "articleTitle": "Toward Generalizable Models of I/O Throughput",
+        "volume": null,
+        "issue": null,
+        "startPage": "41",
+        "endPage": "49",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Toward Generalizable Models of I/O Throughput",
+        "authors": [
+            {
+                "id": 37086057928,
+                "preferredName": "Mihailo Isakov",
+                "firstName": "Mihailo",
+                "lastName": "Isakov"
+            },
+            {
+                "id": 37088591068,
+                "preferredName": "Eliakin del Rosario",
+                "firstName": "Eliakin",
+                "lastName": "del Rosario"
+            },
+            {
+                "id": 37086175339,
+                "preferredName": "Sandeep Madireddy",
+                "firstName": "Sandeep",
+                "lastName": "Madireddy"
+            },
+            {
+                "id": 38581290700,
+                "preferredName": "Prasanna Balaprakash",
+                "firstName": "Prasanna",
+                "lastName": "Balaprakash"
+            },
+            {
+                "id": 37422604200,
+                "preferredName": "Philip Carns",
+                "firstName": "Philip",
+                "lastName": "Carns"
+            },
+            {
+                "id": 37284984100,
+                "preferredName": "Robert B. Ross",
+                "firstName": "Robert B.",
+                "lastName": "Ross"
+            },
+            {
+                "id": 37318978700,
+                "preferredName": "Michel A. Kinsy",
+                "firstName": "Michel A.",
+                "lastName": "Kinsy"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00011",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307939",
+        "articleTitle": "Locality-Aware Scheduling for Scalable Heterogeneous Environments",
+        "volume": null,
+        "issue": null,
+        "startPage": "50",
+        "endPage": "58",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Locality-Aware Scheduling for Scalable Heterogeneous Environments",
+        "authors": [
+            {
+                "id": 37088599438,
+                "preferredName": "Alok V. Kamatar",
+                "firstName": "Alok V.",
+                "lastName": "Kamatar"
+            },
+            {
+                "id": 37085559542,
+                "preferredName": "Ryan D. Friese",
+                "firstName": "Ryan D.",
+                "lastName": "Friese"
+            },
+            {
+                "id": 37424256600,
+                "preferredName": "Roberto Gioiosa",
+                "firstName": "Roberto",
+                "lastName": "Gioiosa"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00007",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307949",
+        "articleTitle": "Ch\u2019i: Scaling Microkernel Capabilities in Cache-Incoherent Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "12",
+        "endPage": "21",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Ch\u2019i: Scaling Microkernel Capabilities in Cache-Incoherent Systems",
+        "authors": [
+            {
+                "id": 37085453431,
+                "preferredName": "Yuxin Ren",
+                "firstName": "Yuxin",
+                "lastName": "Ren"
+            },
+            {
+                "id": 37297069500,
+                "preferredName": "Gabriel Parmer",
+                "firstName": "Gabriel",
+                "lastName": "Parmer"
+            },
+            {
+                "id": 37272258800,
+                "preferredName": "Dejan Milojicic",
+                "firstName": "Dejan",
+                "lastName": "Milojicic"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00006",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307951",
+        "articleTitle": "Application-Driven Requirements for Node Resource Management in Next-Generation Systems",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "11",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Application-Driven Requirements for Node Resource Management in Next-Generation Systems",
+        "authors": [
+            {
+                "id": 37931771100,
+                "preferredName": "Edgar A. Le\u00f3n",
+                "firstName": "Edgar A.",
+                "lastName": "Le\u00f3n"
+            },
+            {
+                "id": 37586611300,
+                "preferredName": "Balazs Gerofi",
+                "firstName": "Balazs",
+                "lastName": "Gerofi"
+            },
+            {
+                "id": 37086025480,
+                "preferredName": "Julien Jaeger",
+                "firstName": "Julien",
+                "lastName": "Jaeger"
+            },
+            {
+                "id": 37395380800,
+                "preferredName": "Guillaume Mercier",
+                "firstName": "Guillaume",
+                "lastName": "Mercier"
+            },
+            {
+                "id": 37296322500,
+                "preferredName": "Rolf Riesen",
+                "firstName": "Rolf",
+                "lastName": "Riesen"
+            },
+            {
+                "id": 37085387243,
+                "preferredName": "Masamichi Takagi",
+                "firstName": "Masamichi",
+                "lastName": "Takagi"
+            },
+            {
+                "id": 37276283100,
+                "preferredName": "Brice Goglin",
+                "firstName": "Brice",
+                "lastName": "Goglin"
+            }
+        ]
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00005",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307928",
+        "articleTitle": "Workshop Organization",
+        "volume": null,
+        "issue": null,
+        "startPage": "6",
+        "endPage": "6",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Workshop Organization",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00004",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307933",
+        "articleTitle": "Message from the Workshop Chairs",
+        "volume": null,
+        "issue": null,
+        "startPage": "5",
+        "endPage": "5",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Message from the Workshop Chairs",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00001",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307932",
+        "articleTitle": "[Title page i]",
+        "volume": null,
+        "issue": null,
+        "startPage": "1",
+        "endPage": "1",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "[Title page i]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00002",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307934",
+        "articleTitle": "[Copyright notice]",
+        "volume": null,
+        "issue": null,
+        "startPage": "2",
+        "endPage": "2",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "[Copyright notice]",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00012",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307931",
+        "articleTitle": "Author Index",
+        "volume": null,
+        "issue": null,
+        "startPage": "59",
+        "endPage": "59",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Author Index",
+        "authors": []
+    },
+    {
+        "publicationNumber": "9307611",
+        "doi": "10.1109/ROSS51935.2020.00003",
+        "publicationYear": "2020",
+        "publicationDate": "13-13 Nov. 2020",
+        "articleNumber": "9307937",
+        "articleTitle": "Table of Contents",
+        "volume": null,
+        "issue": null,
+        "startPage": "3",
+        "endPage": "4",
+        "publisher": "IEEE",
+        "contentType": "IEEE Conferences",
+        "articleContentType": "Conferences",
+        "publicationTitle": "2020 IEEE/ACM International Workshop on Runtime and Operating Systems for Supercomputers (ROSS)",
+        "highlightedTitle": "Table of Contents",
+        "authors": []
+    }
+]
