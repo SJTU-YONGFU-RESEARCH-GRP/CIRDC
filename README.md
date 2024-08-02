@@ -5,7 +5,7 @@ Y. Zhang, Y. Li, S. Makonin, and R. Kumar. Descriptor: Comprehensive IEEE Resear
 
 ## Database Structure
 
-CIRDC is a database where each subdirectory represents the publication number of a journal or conference. Each subdirectory contains multiple JSON files named after the year. Each JSON file includes all the paper information for that journal/conference for that year.
+CIRDC is a database where each subdirectory represents the publication number of a journal or conference. Each subdirectory contains multiple JSON files named by the year. Each JSON file includes all the paper information for that journal/conference for that year.
 
 ## Publication Number Index
 
