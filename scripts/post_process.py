@@ -83,11 +83,9 @@ def process_function(folder_to_be_processed, dst_json):
                         _this_processed_record['startPage'] = record['startPage'] if 'startPage' in record else None
                         _this_processed_record['endPage'] = record['endPage'] if 'endPage' in record else None
                         _this_processed_record['publisher'] = record['publisher'] if 'publisher' in record else None
-                        _this_processed_record['contentType'] = record['contentType'] if 'contentType' in record else None
                         _this_processed_record['articleContentType'] = record['articleContentType'] if 'articleContentType' in record else None
                         _this_processed_record['publicationTitle'] = record['publicationTitle'] if 'publicationTitle' in record else None
-                        _this_processed_record['highlightedTitle'] = record['highlightedTitle'] if 'highlightedTitle' in record else None
-
+                        
                         _this_processed_record['authors'] = []
                         
                         if 'authors' in record:
