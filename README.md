@@ -22,4 +22,4 @@ The scripts for crawling the database are located in the `scripts` folder. Follo
 
 ## License
 
-This repository is licensed under the GNU General Public License.
+This repository is licensed under the terms of the [Creative Commons Attribution 4.0 International License](LICENSE).
