@@ -6,7 +6,7 @@ This repository provides detailed information on all articles available through 
 
 The database is in `CIRDC` folder. Each directory in `CIRDC` represents the publication number of a journal or conference, named by `publication number`. Each sub-directory in `publication number` directory contains multiple JSON files named by `year.json'. Each JSON file includes the information of all the papers for that journal/conference and for that year.
 
-├── /adapters/
+├── /adapters/ \\
 │  ├── http.js
 │  ├── README.md
 │  └── xhr.js
