@@ -1,11 +1,12 @@
 # Comprehensive IEEE Research Data Collections (CIRDC)
 
-This repository contains detailed information on all articles available on IEEE Xplore. For a comprehensive description of the database, please refer to the article:
-Y. Zhang, Y. Li, S. Makonin, and R. Kumar. Descriptor: Comprehensive IEEE Research Data Collections (CIRDC). IEEE Data Description.
+This repository provides detailed information on all articles available through IEEE Xplore up to July 2024, organized for easy access and use by researchers. The repository also includes the necessary code for data collecting, facilitating further updates to the database. For an in-depth explanation of the dataset, please refer to the following publication: Y. Zhang, Y. Li, S. Makonin, and R. Kumar. Descriptor: Comprehensive IEEE Research Data Collections (CIRDC). IEEE Data Description.
 
 ## Database Structure
 
-CIRDC is a database where each subdirectory represents the publication number of a journal or conference. Each subdirectory contains multiple JSON files named by the year. Each JSON file includes all the paper information for that journal/conference for that year.
+The database is in `CIRDC` folder. Each directory in `CIRDC` represents the publication number of a journal or conference, named by `publication number`. Each sub-directory in `publication number` directory contains multiple JSON files named by `year.json'. Each JSON file includes the information of all the papers for that journal/conference and for that year.
+
+CIRDC/ ├── 8919/ │ ├── 2023.json │ └── 2022.json ├── scripts/ │ ├── get_journal_info.py │ ├── get_conference_info.py │ └── post_process.py └── publication_number_index.csv
 
 ## Publication Number Index
 
