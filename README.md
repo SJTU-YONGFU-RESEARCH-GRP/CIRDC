@@ -4,7 +4,7 @@ This repository provides detailed information on all articles available through 
 
 ## Database Structure
 
-The database is in `CIRDC` folder. Each directory in `CIRDC` represents the publication number of a journal or conference, named by `publication number`. Each sub-directory in `publication number` directory contains multiple JSON files named by `year.json'. Each JSON file includes the information of all the papers for that journal/conference and for that year. An example is shown as follows, where 10 and 100 indicate `publication number`. 1964 and 1965 indicate `year`.
+The database is in `CIRDC` folder. Each directory in `CIRDC` represents the publication number of a journal or conference, named by `publication number`. Each sub-directory in `publication number` directory contains multiple JSON files named by `year.json`. Each JSON file includes the information of all the papers for that journal/conference and for that year. An example is shown as follows, where 10 and 100 indicate `publication number`. 1964 and 1965 indicate `year`.
 
 ```
 CIRDC/
