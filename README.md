@@ -8,22 +8,7 @@ The database is in `CIRDC` folder. Each directory in `CIRDC` represents the publ
 
 ## 项目文件结构
 
-项目根目录/
-├── src/
-│   ├── main.py
-│   ├── utils.py
-│   └── helper.py
-├── data/
-│   ├── data.csv
-│   ├── raw/
-│   │   └── raw_data.csv
-│   └── processed/
-│       └── cleaned_data.csv
-├── tests/
-│   ├── test_main.py
-│   └── test_utils.py
-├── README.md
-└── requirements.txt
+
 
 
 ## Publication Number Index
