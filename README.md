@@ -6,18 +6,6 @@ This repository provides detailed information on all articles available through 
 
 The database is in `CIRDC` folder. Each directory in `CIRDC` represents the publication number of a journal or conference, named by `publication number`. Each sub-directory in `publication number` directory contains multiple JSON files named by `year.json'. Each JSON file includes the information of all the papers for that journal/conference and for that year.
 
-
-CIRDC/
-├── 10
-│   ├── 1964.json
-│   ├── 1965.json
-│   ├── ...
-├── 100
-    ├── ...
-├── ...
-
-
-
 ## Publication Number Index
 
 The `publication_number_index.csv` file contains the index of publication numbers.
