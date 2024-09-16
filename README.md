@@ -6,39 +6,7 @@ This repository provides detailed information on all articles available through 
 
 The database is in `CIRDC` folder. Each directory in `CIRDC` represents the publication number of a journal or conference, named by `publication number`. Each sub-directory in `publication number` directory contains multiple JSON files named by `year.json'. Each JSON file includes the information of all the papers for that journal/conference and for that year.
 
-├── /adapters/ \\
-│  ├── http.js
-│  ├── README.md
-│  └── xhr.js
-├── axios.js
-├── /cancel/
-│  ├── Cancel.js
-│  ├── CancelToken.js
-│  └── isCancel.js
-├── /core/
-│  ├── Axios.js
-│  ├── createError.js
-│  ├── dispatchRequest.js
-│  ├── enhanceError.js
-│  ├── InterceptorManager.js
-│  ├── mergeConfig.js
-│  ├── README.md
-│  ├── settle.js
-│  └── transformData.js
-├── defaults.js
-├── /helpers/
-│  ├── bind.js
-│  ├── buildURL.js
-│  ├── combineURLs.js
-│  ├── cookies.js
-│  ├── deprecatedMethod.js
-│  ├── isAbsoluteURL.js
-│  ├── isURLSameOrigin.js
-│  ├── normalizeHeaderName.js
-│  ├── parseHeaders.js
-│  ├── README.md
-│  └── spread.js
-└── utils.js
+
 
 
 
