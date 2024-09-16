@@ -6,6 +6,24 @@ This repository provides detailed information on all articles available through 
 
 The database is in `CIRDC` folder. Each directory in `CIRDC` represents the publication number of a journal or conference, named by `publication number`. Each sub-directory in `publication number` directory contains multiple JSON files named by `year.json'. Each JSON file includes the information of all the papers for that journal/conference and for that year.
 
+## 项目文件结构
+
+项目根目录/
+├── src/
+│   ├── main.py
+│   ├── utils.py
+│   └── helper.py
+├── data/
+│   ├── data.csv
+│   ├── raw/
+│   │   └── raw_data.csv
+│   └── processed/
+│       └── cleaned_data.csv
+├── tests/
+│   ├── test_main.py
+│   └── test_utils.py
+├── README.md
+└── requirements.txt
 
 
 ## Publication Number Index
