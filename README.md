@@ -23,14 +23,21 @@ The `publication_number_index.csv` file provides an easy-to-navigate index of pu
 
 ## Scripts for Data Collection
 
-The scripts for crawling the database are located in the `scripts` folder. As the maximum number of entries returned in a single query is restricted to 10,000 in IEEE Xplore, the collection involves a two-stage process. The first stage is to collect the `publication number` of all the journals and conferences. The second stage is to collect the data based on the `publication number` on a year-by-year process. As the search results are returned on multiple pages, we handle each page sequentially. 
+The scripts for collecting CIRDC are located in the `scripts` folder. As the maximum number of entries returned in a single query is restricted to 10,000 in IEEE Xplore, the collection involves a two-stage process. The first stage is to collect the `publication number` of all the journals and conferences. The second stage is to collect the data based on the `publication number` on a year-by-year process. As the search results are returned on multiple pages, we handle each page sequentially. 
 
 Follow the steps below to collect the data:
+1. Run `mkdir tmp`.
+2. Run `get_journal_info.py` and `get_conference_info.py`.
+These scripts are to download all journal and conference information. This will generate temporary folders `json_conference_year` and `json_journal_year`. 
+3. Run `get_all_publication_pubnumber.py`. This will process the downloaded conference and journal information to collect all publication numbers in temporary files `all_journals.json` and `all_conferences.json` 
+4. Run `download_journal_paper_info.py` and `download_conference_paper_info.py`. This will download the data of IEEE Xplore papers based on the publication numbers to `download_source_json` folder.
+5. Run `post_process.py`. This will conduct post-processing for the downloaded json files.
 
-1. Run `get_journal_info.py` and `get_conference_info.py` to retrieve all journal and conference publication numbers.
-2. Run `get_all_publication_pubnumber.py` to gather all publication numbers.
-3. Use `download_journal_paper_info.py` and `download_conference_paper_info.py` to download the article information.
-4. Finally, execute `post_process.py` for data post-processing. The intermediate files generated during the process are saved in the `tmp` folder.
+The intermediate files generated during the process are saved in the `tmp` folder. The final output will be saved in `processed_json` folder.
+
+## Dependencies
+
+The scripts are tested using Python3.6. The following libraries are used. `requests (2.27.1)` library is required. Other versions could also works but haven't been tested. 
 
 ## License
 

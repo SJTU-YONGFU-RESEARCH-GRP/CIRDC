@@ -2,7 +2,6 @@ import requests
 import json
 import time
 import urllib3
-import csv
 import os
 
 

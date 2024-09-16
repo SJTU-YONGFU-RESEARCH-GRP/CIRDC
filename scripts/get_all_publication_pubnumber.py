@@ -9,9 +9,10 @@ def parse_years(years):
     return years.strip(), 'Present'
 
 
-JOURNAL = 0
+JOURNAL_FLAG = 1
+CONFERENCE_FLAG = 1
 
-if JOURNAL:
+if JOURNAL_FLAG:
     #### Process Journals ####
     all_journals = {}
     for year in range (1884, 2025):
@@ -56,7 +57,7 @@ if JOURNAL:
 
 
 
-else:
+if CONFERENCE_FLAG = 1:
 
     all_conferences = {}
     #### Process Conference ####
