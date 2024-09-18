@@ -59,7 +59,7 @@ Follow the steps below to collect the data:
 1. Run `mkdir tmp`.
 2. Run `get_journal_info.py` and `get_conference_info.py`.
 These scripts are to download all journal and conference information. This will generate temporary folders `json_conference_year` and `json_journal_year`. 
-3. Run `get_all_publication_pubnumber.py`. This will process the downloaded conference and journal information to collect all publication numbers in temporary files `all_journals.json` and `all_conferences.json` 
+3. Run `get_all_publication_pubnumber.py`. This will process the downloaded conference and journal information to collect all publication numbers in temporary files `all_journals.json` and `all_conferences.json`. 
 4. Run `download_journal_paper_info.py` and `download_conference_paper_info.py`. This will download the data of IEEE Xplore papers based on the publication numbers to `download_source_json` folder.
 5. Run `post_process.py`. This will conduct post-processing for the downloaded json files.
 
