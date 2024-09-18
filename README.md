@@ -17,6 +17,36 @@ CIRDC/
 ├── ...
 ```
 
+## Data File Structure
+
+Each JSON file contains a list, and each entity in the list corresponds to the metadata of a paper. The paper metadata is structured as follows:
+
+| Name                | Description                                                                 | Type   |
+|---------------------|-----------------------------------------------------------------------------|--------|
+| publicationNumber   | Identifier for the journal/conference                                        | String |
+| doi                 | Digital Object Identifier of the paper                                       | String |
+| publicationYear     | Year the paper was published                                                 | String |
+| publicationDate     | Full date of publication                                                     | String |
+| articleNumber       | A unique number assigned to the paper                                        | String |
+| articleTitle        | Title of the paper                                                           | String |
+| volume              | Volume number                                                               | String |
+| issue               | Issue number                                                                | String |
+| startPage           | Starting page number                                                        | String |
+| endPage             | Ending page number                                                          | String |
+| publisher           | Name of the publisher                                                       | String |
+| articleContentType  | Type of the paper (journal, conference, magazine, or early access article)    | String |
+| publicationTitle    | Name of journal/conference                                                   | String |
+| authors             | A list of authors                                                           | List   |
+
+Each author entry in the `authors` field contains the following data:
+
+| Name            | Description                                 | Type   |
+|-----------------|---------------------------------------------|--------|
+| id              | ID number of the author in IEEE system       | Int    |
+| preferredName   | Full name of the author                      | String |
+| firstName       | First name of the author                     | String |
+| lastName        | Last name of the author                      | String |
+
 ## Publication Number Index
 
 The `publication_number_index.csv` file provides an easy-to-navigate index of publication numbers, allowing users to quickly look up and cross-reference the corresponding publication number for specific journals and conferences by their names.
