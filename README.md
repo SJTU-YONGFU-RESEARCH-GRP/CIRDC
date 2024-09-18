@@ -53,7 +53,7 @@ The `publication_number_index.csv` file provides an easy-to-navigate index of pu
 
 ## Scripts for Data Collection
 
-The scripts for collecting CIRDC are located in the `scripts` folder. As the maximum number of entries returned in a single query is restricted to 10,000 in IEEE Xplore, the collection involves a two-stage process. The first stage is to collect the `publication number` of all the journals and conferences. The second stage is to collect the data based on the `publication number` on a year-by-year process. As the search results are returned on multiple pages, we handle each page sequentially. 
+The scripts for collecting CIRDC are in the `scripts` folder. As the maximum number of entries returned in a single query is restricted to 10,000 in IEEE Xplore, the collection involves a two-stage process. The first stage is to collect the `publication number` of all the journals and conferences. The second stage is to collect the data based on the `publication number` on a year-by-year process. As the search results are returned on multiple pages, we handle each page sequentially. 
 
 Follow the steps below to collect the data:
 1. Run `mkdir tmp`.
@@ -67,7 +67,7 @@ The intermediate files generated during the process are saved in the `tmp` folde
 
 ## Dependencies
 
-The scripts are tested using Python3.6. The following libraries are used. `requests (2.27.1)` library is required. Other versions could also works but haven't been tested. 
+The scripts are tested using Python3.6. The following libraries are used. `requests (2.27.1)` library is required. Other versions could also work but haven't been tested. 
 
 ## License
 
