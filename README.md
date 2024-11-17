@@ -1,6 +1,8 @@
 # Comprehensive IEEE Research Data Collections (CIRDC)
 
-This repository provides detailed information on all articles available through IEEE Xplore up to July 2024, organized for easy access and use by researchers. The repository also includes the necessary code for data collecting, facilitating further updates to the database. For an in-depth explanation of the dataset, please refer to the following publication: Y. Zhang, Y. Li, S. Makonin, and R. Kumar. Descriptor: Comprehensive IEEE Research Data Collections (CIRDC). IEEE Data Description.
+This repository provides detailed information on all articles available through IEEE Xplore up to July 2024, organized for easy access and use by researchers. The repository also includes the necessary code for data collecting, facilitating further updates to the database. For an in-depth explanation of the dataset, please refer to the following publication: 
+
+[Y. Zhang, Y. Li, S. Makonin and R. Kumar, "Descriptor: Comprehensive IEEE Research Data Collections (CIRDC)," IEEE Data Descriptions, vol. 1, pp. 80-86, 2024](https://ieeexplore.ieee.org/document/10716731)
 
 ## Database Structure
 
